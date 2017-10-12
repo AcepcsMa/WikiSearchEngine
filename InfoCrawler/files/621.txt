@@ -1,0 +1,953 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Nuremberg U-Bahn - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Nuremberg_U-Bahn","wgTitle":"Nuremberg U-Bahn","wgCurRevisionId":798228623,"wgRevisionId":798228623,"wgArticleId":4060824,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","All articles with unsourced statements","Articles with unsourced statements from September 2009","Articles with German-language external links","Germany articles missing geocoordinate data","All articles needing coordinates","Nuremberg U-Bahn","Proposed railway lines in Germany","Underground rapid transit in Germany"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Nuremberg_U-Bahn","wgRelevantArticleId":4060824,"wgRequestId":"Wcc7bQpAEK0AAH5BjOcAAAAS","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q697512","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Nuremberg_network_map.png/1200px-Nuremberg_network_map.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Nuremberg_U-Bahn"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Nuremberg_U-Bahn&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Nuremberg_U-Bahn&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Nuremberg_U-Bahn"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Nuremberg_U-Bahn rootpage-Nuremberg_U-Bahn skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Nuremberg U-Bahn</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="width:22em">
+<caption>Nuremberg U-Bahn</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:U-Bahn.svg" class="image"><img alt="U-Bahn.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/U-Bahn.svg/70px-U-Bahn.svg.png" width="70" height="70" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/U-Bahn.svg/105px-U-Bahn.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/U-Bahn.svg/140px-U-Bahn.svg.png 2x" data-file-width="500" data-file-height="500" /></a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #efefef;">Overview</th>
+</tr>
+<tr>
+<th scope="row">Locale</th>
+<td><a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a></td>
+</tr>
+<tr>
+<th scope="row">Transit type</th>
+<td><a href="/wiki/Rapid_transit" title="Rapid transit">Rapid transit</a></td>
+</tr>
+<tr>
+<th scope="row">Number of lines</th>
+<td>3<sup id="cite_ref-facts_1-0" class="reference"><a href="#cite_note-facts-1">[1]</a></sup><sup id="cite_ref-report_2-0" class="reference"><a href="#cite_note-report-2">[2]</a></sup></td>
+</tr>
+<tr>
+<th scope="row">Number of stations</th>
+<td>48<sup id="cite_ref-facts_1-1" class="reference"><a href="#cite_note-facts-1">[1]</a></sup><sup id="cite_ref-report_2-1" class="reference"><a href="#cite_note-report-2">[2]</a></sup></td>
+</tr>
+<tr>
+<th scope="row">Daily ridership</th>
+<td>316,000<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2009)">citation needed</span></a></i>]</sup></td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td><span class="url"><a rel="nofollow" class="external text" href="http://www.vag.de">VAG Nürnberg</a></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #efefef;">Operation</th>
+</tr>
+<tr>
+<th scope="row">Began operation</th>
+<td>1972</td>
+</tr>
+<tr>
+<th scope="row">Operator(s)</th>
+<td>VAG Nürnberg</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #efefef;">Technical</th>
+</tr>
+<tr>
+<th scope="row">System length</th>
+<td>37.1&#160;km (23.1&#160;mi)<sup id="cite_ref-report_2-2" class="reference"><a href="#cite_note-report-2">[2]</a></sup></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Railway_electrification_system" title="Railway electrification system">Electrification</a></th>
+<td>750 <a href="/wiki/Volt" title="Volt">Volts</a><sup id="cite_ref-facts_1-2" class="reference"><a href="#cite_note-facts-1">[1]</a></sup></td>
+</tr>
+<tr>
+<th scope="row">Average speed</th>
+<td>33.4&#160;mph (53.8&#160;km/h)<sup id="cite_ref-facts_1-3" class="reference"><a href="#cite_note-facts-1">[1]</a></sup></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;vertical-align: middle; padding: 0px;">
+<table style="width:100%; margin:0; border:none;" class="collapsible show">
+<tr style="background-color: #efefef;">
+<th style="text-align: center;">System map</th>
+</tr>
+<tr>
+<td style="text-align:center">
+<div class="center">
+<div class="thumb tnone">
+<div class="thumbinner" style="width:267px;"><a href="/wiki/File:Nuremberg_network_map.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Nuremberg_network_map.png/265px-Nuremberg_network_map.png" width="265" height="179" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Nuremberg_network_map.png/398px-Nuremberg_network_map.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Nuremberg_network_map.png/530px-Nuremberg_network_map.png 2x" data-file-width="4964" data-file-height="3358" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Nuremberg_network_map.png" class="internal" title="Enlarge"></a></div>
+U-, S-Bahn and tramway network in Nuremberg</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>The <b><a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a> U-Bahn</b> is a <a href="/wiki/Rapid_transit" title="Rapid transit">metro</a> run by VAG Nürnberg (<i>Verkehrsaktiengesellschaft Nürnberg</i> or Nuremberg Transport Corporation), which itself is a member of the VGN (<i>Verkehrsverbund Großraum Nürnberg</i> or Greater Nuremberg Transport Network). The Nuremberg U-Bahn is <a href="/wiki/Germany" title="Germany">Germany</a>'s newest metro, having begun operation in 1972. In 2008, driverless and fully automated trains have been introduced and count as Germany's first automatic U-Bahn system. The current network of the Nuremberg U-Bahn is composed of three lines, serving 48 stations, and comprising 37.1 kilometres (23.1&#160;mi) of operational route.<sup id="cite_ref-report_2-3" class="reference"><a href="#cite_note-report-2">[2]</a></sup> Its DT1 vehicles are largely the same design as the A cars found on the <a href="/wiki/Munich_U-Bahn" title="Munich U-Bahn">Munich U-Bahn</a>, and both transport companies once lent each other trainsets as reserve <a href="/wiki/Rolling_stock" title="Rolling stock">rolling stock</a> for major events (such as the <a href="/wiki/Munich_Olympics" class="mw-redirect" title="Munich Olympics">Munich Olympics</a>) at the time when both systems were quite new. Such swaps are now no longer possible, as the rolling stock on each system has developed in ways that would require it to undergo modification for use on the other system. The newer Nuremberg trains (the DT2, for example) are incompatible with the <a href="/wiki/Munich" title="Munich">Munich</a> system.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Network"><span class="tocnumber">2</span> <span class="toctext">Network</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#U1"><span class="tocnumber">2.1</span> <span class="toctext">U1</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#U2"><span class="tocnumber">2.2</span> <span class="toctext">U2</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#U3"><span class="tocnumber">2.3</span> <span class="toctext">U3</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Former_services"><span class="tocnumber">3</span> <span class="toctext">Former services</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#U11"><span class="tocnumber">3.1</span> <span class="toctext">U11</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#U21"><span class="tocnumber">3.2</span> <span class="toctext">U21</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Further_extensions"><span class="tocnumber">4</span> <span class="toctext">Further extensions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#U3_Nord_.28Northern_branch.29"><span class="tocnumber">4.1</span> <span class="toctext">U3 Nord (Northern branch)</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#U3_S.C3.BCd_.28Southern_branch.29"><span class="tocnumber">4.2</span> <span class="toctext">U3 Süd (Southern branch)</span></a>
+<ul>
+<li class="toclevel-3 tocsection-12"><a href="#DT3_units"><span class="tocnumber">4.2.1</span> <span class="toctext">DT3 units</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#ATC_and_driverless_trains"><span class="tocnumber">5</span> <span class="toctext">ATC and driverless trains</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Passenger_Safety"><span class="tocnumber">5.1</span> <span class="toctext">Passenger Safety</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Technical_Problems_leading_to_a_2-year_delay"><span class="tocnumber">5.2</span> <span class="toctext">Technical Problems leading to a 2-year delay</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Conversion_of_the_U2_for_ATC_operation"><span class="tocnumber">5.3</span> <span class="toctext">Conversion of the U2 for ATC operation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg_U-Bahn&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On 20 March 1967, <a href="/wiki/Germany" title="Germany">German</a> transport minister <a href="/wiki/Georg_Leber" title="Georg Leber">Georg Leber</a> and Nuremberg <i>Oberbürgermeister</i> ("<a href="/wiki/Lord_Mayor" class="mw-redirect" title="Lord Mayor">Lord Mayor</a>") <a href="/w/index.php?title=Andreas_Urschlechter&amp;action=edit&amp;redlink=1" class="new" title="Andreas Urschlechter (page does not exist)">Andreas Urschlechter</a> had the honour of "striking the first blow" for the new metro. This was done in <a href="/wiki/Bauernfeindstra%C3%9Fe_(Nuremberg_U-Bahn)" title="Bauernfeindstraße (Nuremberg U-Bahn)">Bauernfeindstraße</a> when they triggered the pile driver.</p>
+<p>On 1 March 1972, the first 3.7-kilometre (2.3&#160;mi) stretch of the system opened, U1 <a href="/wiki/Langwasser_S%C3%BCd_(Nuremberg_U-Bahn)" title="Langwasser Süd (Nuremberg U-Bahn)">Langwasser Süd</a> to <a href="/wiki/Bauernfeindstra%C3%9Fe_(Nuremberg_U-Bahn)" title="Bauernfeindstraße (Nuremberg U-Bahn)">Bauernfeindstraße</a>. Over the next few years, further stretches of U1 were opened.</p>
+<p>On 28 January 1984, Nuremberg's second U-Bahn line, U2, went into service between <a href="/wiki/Pl%C3%A4rrer_(Nuremberg_U-Bahn)" title="Plärrer (Nuremberg U-Bahn)">Plärrer</a> and <a href="/wiki/Schweinau_(Nuremberg_U-Bahn)" title="Schweinau (Nuremberg U-Bahn)">Schweinau</a>. This line, too, underwent further extensions, eventually even reaching the <a href="/wiki/Flughafen_(Nuremberg_U-Bahn)" title="Flughafen (Nuremberg U-Bahn)">airport</a>.</p>
+<p>In 2004, 6 Munich A cars were bought by VAG to supplement its own rolling stock fleet. However, owing to the divergence in specifications between the Nuremberg and Munich systems, it turned out that the old Munich stock could not be coupled with Nuremberg stock. As a result, it was not possible to compose trains using both types, although they can at least run on the same tracks. VAG left the Munich stock in its old white and blue Munich livery, reasoning that it was not worth repainting in Nuremberg livery, given that it was approaching the end of its service life.</p>
+<p>On 4 December 2004, a new 1.3-kilometre (0.81&#160;mi) section of U1 opened in <a href="/wiki/F%C3%BCrth" title="Fürth">Fürth</a>, stretching from <a href="/wiki/Stadthalle_(Nuremberg_U-Bahn)" title="Stadthalle (Nuremberg U-Bahn)">Stadthalle station</a> to <a href="/wiki/Klinikum_(Nuremberg_U-Bahn)" title="Klinikum (Nuremberg U-Bahn)">Klinikum station</a>. On 8 December 2007, U1 was further extended to Fürth Hardhöhe.</p>
+<p>On 14 June 2008, the newest U-Bahn line, U3, opened for service.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="Network">Network</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg_U-Bahn&amp;action=edit&amp;section=2" title="Edit section: Network">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/List_of_Nuremberg_U-Bahn_stations" title="List of Nuremberg U-Bahn stations">List of Nuremberg U-Bahn stations</a></div>
+<div class="center">
+<div class="thumb tnone">
+<div class="thumbinner" style="width:1002px;"><a href="/wiki/File:U-Bahn_N%C3%BCrnberg_Linienband.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/U-Bahn_N%C3%BCrnberg_Linienband.png/1000px-U-Bahn_N%C3%BCrnberg_Linienband.png" width="1000" height="177" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/U-Bahn_N%C3%BCrnberg_Linienband.png/1500px-U-Bahn_N%C3%BCrnberg_Linienband.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/U-Bahn_N%C3%BCrnberg_Linienband.png/2000px-U-Bahn_N%C3%BCrnberg_Linienband.png 2x" data-file-width="5483" data-file-height="971" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:U-Bahn_N%C3%BCrnberg_Linienband.png" class="internal" title="Enlarge"></a></div>
+Network map</div>
+</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:352px;"><a href="/wiki/File:U-Bahn_N%C3%BCrnberg_Linienplan.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/U-Bahn_N%C3%BCrnberg_Linienplan.png/350px-U-Bahn_N%C3%BCrnberg_Linienplan.png" width="350" height="271" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/U-Bahn_N%C3%BCrnberg_Linienplan.png/525px-U-Bahn_N%C3%BCrnberg_Linienplan.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/U-Bahn_N%C3%BCrnberg_Linienplan.png/700px-U-Bahn_N%C3%BCrnberg_Linienplan.png 2x" data-file-width="4182" data-file-height="3236" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:U-Bahn_N%C3%BCrnberg_Linienplan.png" class="internal" title="Enlarge"></a></div>
+Line map</div>
+</div>
+</div>
+<p>The U-Bahn network comprises three lines,<sup id="cite_ref-facts_1-4" class="reference"><a href="#cite_note-facts-1">[1]</a></sup> covering about 39 kilometres (24&#160;mi) of network route<sup id="cite_ref-facts_1-5" class="reference"><a href="#cite_note-facts-1">[1]</a></sup> of which 35 kilometres (22&#160;mi) is operational route.<sup id="cite_ref-report_2-4" class="reference"><a href="#cite_note-report-2">[2]</a></sup> The network serves 46 stations<sup id="cite_ref-facts_1-6" class="reference"><a href="#cite_note-facts-1">[1]</a></sup><sup id="cite_ref-report_2-5" class="reference"><a href="#cite_note-report-2">[2]</a></sup> which can all be reached by <a href="/wiki/Elevator" title="Elevator">lift</a>, something that makes the system unique in Germany. Another thing that makes this system special is the use of "firm track" (<i>i.e.</i> with rails fastened to a solid trackbed, rather than to sleepers on ballast) in almost all tunnels, although not at Langwasser Mitte (U1) and the adjoining tunnel up to just before Gemeinschaftshaus. Also, ballast is still found, but only on the inbound track, at the entrance to Schoppershof station (U2).</p>
+<table class="wikitable">
+<tr>
+<th>Line</th>
+<th>Route</th>
+<th>Opened</th>
+<th>Length</th>
+<th>Stations</th>
+</tr>
+<tr>
+<td><a href="/wiki/U1_(Nuremberg_U-Bahn)" title="U1 (Nuremberg U-Bahn)"><span title="" style="font-weight:bold; white-space:nowrap; font-size:85%; padding:0px .4em; border: 1px solid #181953;background-color: #181953; -webkit-border-radius: 0ex; -moz-border-radius: 0ex; border-radius: 0ex; color:white;">U 1</span></a></td>
+<td><a href="/wiki/Hardh%C3%B6he_(Nuremberg_U-Bahn)" title="Hardhöhe (Nuremberg U-Bahn)">Fürth Hardhöhe</a> ↔ <a href="/wiki/Langwasser_S%C3%BCd_(Nuremberg_U-Bahn)" title="Langwasser Süd (Nuremberg U-Bahn)">Langwasser Süd</a></td>
+<td>1972–2007</td>
+<td>18.5&#160;km (11.5&#160;mi)</td>
+<td>27</td>
+</tr>
+<tr>
+<td><a href="/wiki/U2_(Nuremberg_U-Bahn)" title="U2 (Nuremberg U-Bahn)"><span title="" style="font-weight:bold; white-space:nowrap; font-size:85%; padding:0px .4em; border: 1px solid #D71910;background-color: #D71910; -webkit-border-radius: 0ex; -moz-border-radius: 0ex; border-radius: 0ex; color:white;">U 2</span></a></td>
+<td><a href="/wiki/Flughafen_(Nuremberg_U-Bahn)" title="Flughafen (Nuremberg U-Bahn)">Flughafen/Airport</a> ↔ <a href="/wiki/R%C3%B6thenbach_(Nuremberg_U-Bahn)" title="Röthenbach (Nuremberg U-Bahn)">Röthenbach</a></td>
+<td>1984–1999</td>
+<td>13.2&#160;km (8.2&#160;mi)</td>
+<td>16</td>
+</tr>
+<tr>
+<td><a href="/wiki/U3_(Nuremberg_U-Bahn)" title="U3 (Nuremberg U-Bahn)"><span title="" style="font-weight:bold; white-space:nowrap; font-size:85%; padding:0px .4em; border: 1px solid #2F989A;background-color: #2F989A; -webkit-border-radius: 0ex; -moz-border-radius: 0ex; border-radius: 0ex; color:white;">U 3</span></a></td>
+<td><a href="/wiki/Gustav-Adolf-Stra%C3%9Fe_(Nuremberg_U-Bahn)" title="Gustav-Adolf-Straße (Nuremberg U-Bahn)">Gustav-Adolf-Straße</a> ↔ <a href="/w/index.php?title=Nordwestring_(Nuremberg_U-Bahn)&amp;action=edit&amp;redlink=1" class="new" title="Nordwestring (Nuremberg U-Bahn) (page does not exist)">Nordwestring</a></td>
+<td>2008–2017</td>
+<td>8.1&#160;km (5.0&#160;mi)</td>
+<td>13</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="U1">U1</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg_U-Bahn&amp;action=edit&amp;section=3" title="Edit section: U1">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/F%C3%BCrth" title="Fürth">Fürth</a> Hardhöhe ←→ <a href="/wiki/Langwasser_S%C3%BCd_(Nuremberg_U-Bahn)" title="Langwasser Süd (Nuremberg U-Bahn)">Langwasser Süd</a></p>
+<p>Within Fürth there are seven U-Bahn stations: <a href="/wiki/Stadtgrenze_(Nuremberg_U-Bahn)" title="Stadtgrenze (Nuremberg U-Bahn)">Stadtgrenze</a> (partly within Nuremberg, partly within Fürth – indeed the station's name means "city boundary" – but assigned to and run by Nuremberg), <a href="/wiki/Jakobinenstra%C3%9Fe_(Nuremberg_U-Bahn)" title="Jakobinenstraße (Nuremberg U-Bahn)">Jakobinenstraße</a>, <a href="/wiki/F%C3%BCrth_Hauptbahnhof" title="Fürth Hauptbahnhof">Fürth Hauptbahnhof</a>, <a href="/wiki/Rathaus_(Nuremberg_U-Bahn)" title="Rathaus (Nuremberg U-Bahn)">Rathaus</a>, <a href="/wiki/Stadthalle_(Nuremberg_U-Bahn)" title="Stadthalle (Nuremberg U-Bahn)">Stadthalle</a>, <a href="/wiki/Klinikum_(Nuremberg_U-Bahn)" title="Klinikum (Nuremberg U-Bahn)">Klinikum</a> and Hardhöhe.</p>
+<p>The planned extension to Kieselbühl is now in question, because the expected developments in this area are partially cancelled.</p>
+<h3><span class="mw-headline" id="U2">U2</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg_U-Bahn&amp;action=edit&amp;section=4" title="Edit section: U2">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Flughafen_(Nuremberg_U-Bahn)" title="Flughafen (Nuremberg U-Bahn)">Nuremberg Airport</a> ←→ <a href="/wiki/R%C3%B6thenbach_(Nuremberg_U-Bahn)" title="Röthenbach (Nuremberg U-Bahn)">Röthenbach</a></p>
+<p>The airport connection makes Nuremberg the only city in Germany with a direct subway link to an <a href="/wiki/Nuremberg_Airport" title="Nuremberg Airport">airport</a> since the closing of <a href="/wiki/Berlin_Tempelhof_Airport" title="Berlin Tempelhof Airport">Berlin Tempelhof Airport</a>(soon also with <a href="/wiki/Stuttgart_Stadtbahn" title="Stuttgart Stadtbahn">Stuttgart Stadtbahn lines U5 and U6</a>).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Nuernberg-Rathenauplatz_U_2.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Nuernberg-Rathenauplatz_U_2.JPG/120px-Nuernberg-Rathenauplatz_U_2.JPG" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Nuernberg-Rathenauplatz_U_2.JPG/180px-Nuernberg-Rathenauplatz_U_2.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Nuernberg-Rathenauplatz_U_2.JPG/240px-Nuernberg-Rathenauplatz_U_2.JPG 2x" data-file-width="2048" data-file-height="1536" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Rathenauplatz</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Nuernberg-Hohe_Marter_U_1.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Nuernberg-Hohe_Marter_U_1.JPG/120px-Nuernberg-Hohe_Marter_U_1.JPG" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Nuernberg-Hohe_Marter_U_1.JPG/180px-Nuernberg-Hohe_Marter_U_1.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Nuernberg-Hohe_Marter_U_1.JPG/240px-Nuernberg-Hohe_Marter_U_1.JPG 2x" data-file-width="2048" data-file-height="1536" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Hohe Marter</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Nuernberg-Rennweg_U_1.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Nuernberg-Rennweg_U_1.JPG/120px-Nuernberg-Rennweg_U_1.JPG" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Nuernberg-Rennweg_U_1.JPG/180px-Nuernberg-Rennweg_U_1.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Nuernberg-Rennweg_U_1.JPG/240px-Nuernberg-Rennweg_U_1.JPG 2x" data-file-width="2048" data-file-height="1536" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Rennweg</p>
+</div>
+</div>
+</li>
+</ul>
+<p>In 1984, a new section on the line U2 named <i>Plärrer–Schweinau</i> began operation. At first the trains ran by day as line U21 (not to be confused with the current U21) by way of <a href="/wiki/Wei%C3%9Fer_Turm_(Nuremberg_U-Bahn)" title="Weißer Turm (Nuremberg U-Bahn)">Weißer Turm</a> and <a href="/wiki/Lorenzkirche_(Nuremberg_U-Bahn)" title="Lorenzkirche (Nuremberg U-Bahn)">Lorenzkirche</a> to <a href="/wiki/Aufse%C3%9Fplatz_(Nuremberg_U-Bahn)" title="Aufseßplatz (Nuremberg U-Bahn)">Aufseßplatz</a> or <a href="/wiki/Langwasser_S%C3%BCd_(Nuremberg_U-Bahn)" title="Langwasser Süd (Nuremberg U-Bahn)">Langwasser Süd</a>. Since 1988, the line has run as U2 by way of <a href="/wiki/Opernhaus_(Nuremberg_U-Bahn)" title="Opernhaus (Nuremberg U-Bahn)">Opernhaus</a> to <a href="/wiki/N%C3%BCrnberg_Hauptbahnhof" class="mw-redirect" title="Nürnberg Hauptbahnhof">Hauptbahnhof</a> (Nuremberg Main Railway Station). After further extensions in 1990, 1993 and 1996, U2 reached its current terminus at the <a href="/wiki/Flughafen_(Nuremberg_U-Bahn)" title="Flughafen (Nuremberg U-Bahn)">airport</a> in 1999.</p>
+<p>In September 2009 the first driverless trains ran in passenger service on line U2. Four out of the eight trains in service on the line moved to automatic control, with the aim of full automation by January 2010.<sup id="cite_ref-gazette_5-0" class="reference"><a href="#cite_note-gazette-5">[5]</a></sup></p>
+<h3><span class="mw-headline" id="U3">U3</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg_U-Bahn&amp;action=edit&amp;section=5" title="Edit section: U3">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Gustav-Adolf-Stra%C3%9Fe_(Nuremberg_U-Bahn)" title="Gustav-Adolf-Straße (Nuremberg U-Bahn)">Gustav-Adolf-Straße</a> ←→ <a href="/w/index.php?title=Nordwestring_(Nuremberg_U-Bahn)&amp;action=edit&amp;redlink=1" class="new" title="Nordwestring (Nuremberg U-Bahn) (page does not exist)">Nordwestring</a></p>
+<p>The latest U-Bahn line, U3, was opened on 14 June 2008. This line uses the U2 tunnel between Rathenauplatz and Rothenburger Straße and diverts north of Rathenauplatz to the northwest and south of Rothenburger Straße to the southwest of Nuremberg. The U3 line has fully automatic operation without drivers.</p>
+<p>Each of the stations along U3 route has tubes resembling yellow fluorescent light tubes running the length of the platform. These tubes emit radar waves and monitor the track for any fallen obstacles. If an object or person falls into the track, automatic brakes on trains are triggered.</p>
+<p>On 30 October 2008, the first accident resulting in a death occurred at Rathenauplatz station. A passenger fell onto the track as a driverless train approached the platform. The train was unable to halt in time because of the short distance to the fallen passenger and limitations of its braking system. Even if the same incident had occurred with a manually operated train, the driver would not have been able to halt in time, either.</p>
+<p>The U3 line was extended from Maxfeld to Kaulbachplatz and Friedrich-Ebert-Platz stations on 11 December 2011. The further extension to Klinikum Nord and Nordwestring stations is completed, and the service to the new terminus station started on 22 May 2017.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<h2><span class="mw-headline" id="Former_services">Former services</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg_U-Bahn&amp;action=edit&amp;section=6" title="Edit section: Former services">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:N%C3%BCrnberg_U-Bahn_DT1_Train.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/N%C3%BCrnberg_U-Bahn_DT1_Train.jpg/220px-N%C3%BCrnberg_U-Bahn_DT1_Train.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/N%C3%BCrnberg_U-Bahn_DT1_Train.jpg/330px-N%C3%BCrnberg_U-Bahn_DT1_Train.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/N%C3%BCrnberg_U-Bahn_DT1_Train.jpg/440px-N%C3%BCrnberg_U-Bahn_DT1_Train.jpg 2x" data-file-width="1024" data-file-height="768" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:N%C3%BCrnberg_U-Bahn_DT1_Train.jpg" class="internal" title="Enlarge"></a></div>
+Nuremberg U-Bahn train type DT1</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:N%C3%BCrnberg_U-Bahn_DT2_Train.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/N%C3%BCrnberg_U-Bahn_DT2_Train.jpg/220px-N%C3%BCrnberg_U-Bahn_DT2_Train.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/N%C3%BCrnberg_U-Bahn_DT2_Train.jpg/330px-N%C3%BCrnberg_U-Bahn_DT2_Train.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/N%C3%BCrnberg_U-Bahn_DT2_Train.jpg/440px-N%C3%BCrnberg_U-Bahn_DT2_Train.jpg 2x" data-file-width="1024" data-file-height="768" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:N%C3%BCrnberg_U-Bahn_DT2_Train.jpg" class="internal" title="Enlarge"></a></div>
+Nuremberg U-Bahn train type DT2</div>
+</div>
+</div>
+<p>To increase passenger capacity on the central parts of the subway, additional trains were scheduled which reversed before the line terminus and ran through only the central areas of Nuremberg. Service on both of those routes were discontinued in May 2017, when an extension of the U3 line opened to Nordwestring and gone up into the main route. To reduce passenger confusion these trains were assigned a different line designation (line number):</p>
+<table class="wikitable" style="margin:0.5em auto; text-align: center">
+<tr>
+<th>Line</th>
+<th>Route</th>
+<th>Opened</th>
+<th>Length</th>
+<th>Stations</th>
+<th>Service ended</th>
+</tr>
+<tr>
+<td><a href="/wiki/U1_(Nuremberg_U-Bahn)" title="U1 (Nuremberg U-Bahn)"><span title="" style="font-weight:bold; white-space:nowrap; font-size:85%; padding:0px .4em; border: 1px solid #FF7F00;background-color: #FF7F00; -webkit-border-radius: 0ex; -moz-border-radius: 0ex; border-radius: 0ex; color:white;">U 11</span></a></td>
+<td><a href="/wiki/Hardh%C3%B6he_(Nuremberg_U-Bahn)" title="Hardhöhe (Nuremberg U-Bahn)">Eberhardshof</a> ↔ <a href="/wiki/Messe_(Nuremberg_U-Bahn)" title="Messe (Nuremberg U-Bahn)">Messe</a></td>
+<td>1972–2007</td>
+<td>8.1&#160;km (5.033&#160;mi)</td>
+<td>14</td>
+<td>2017</td>
+</tr>
+<tr>
+<td><a href="/wiki/U2_(Nuremberg_U-Bahn)" title="U2 (Nuremberg U-Bahn)"><span title="" style="font-weight:bold; white-space:nowrap; font-size:85%; padding:0px .4em; border: 1px solid #FFD700;background-color: #FFD700; -webkit-border-radius: 0ex; -moz-border-radius: 0ex; border-radius: 0ex; color:black;">U 21</span></a></td>
+<td><a href="/wiki/R%C3%B6thenbach_(Nuremberg_U-Bahn)" title="Röthenbach (Nuremberg U-Bahn)">Röthenbach</a> → <a href="/wiki/Ziegelstein_(Nuremberg_U-Bahn)" title="Ziegelstein (Nuremberg U-Bahn)">Ziegelstein</a></td>
+<td>1984–1999</td>
+<td>11.0&#160;km (6.835&#160;mi)</td>
+<td>15</td>
+<td>2017</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="U11">U11</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg_U-Bahn&amp;action=edit&amp;section=7" title="Edit section: U11">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Eberhardshof_(Nuremberg_U-Bahn)" title="Eberhardshof (Nuremberg U-Bahn)">Eberhardshof</a> ↔ <a href="/wiki/Messe_(Nuremberg_U-Bahn)" title="Messe (Nuremberg U-Bahn)">Messe</a></p>
+<p>U11 service ran on the U1 line between Eberhardshof and Messe most of the day, adding passenger capacity between Nuremberg main station, the car-free main shopping district and the Plärrer.</p>
+<p><br /></p>
+<h3><span class="mw-headline" id="U21">U21</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg_U-Bahn&amp;action=edit&amp;section=8" title="Edit section: U21">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/R%C3%B6thenbach_(Nuremberg_U-Bahn)" title="Röthenbach (Nuremberg U-Bahn)">Röthenbach</a> → <a href="/wiki/Ziegelstein_(Nuremberg_U-Bahn)" title="Ziegelstein (Nuremberg U-Bahn)">Ziegelstein</a></p>
+<p>U21 trains ran only from Röthenbach to Ziegelstein on the U2. Since the single-track tunnel between Ziegelstein and Flughafen ("Airport") could only accommodate a train frequency of 400 seconds at the time (or roughly one train every 6<span class="nowrap"> </span><span class="frac nowrap"><sup>2</sup>⁄<sub>3</sub></span> minutes), only every second train during the day ran to the airport (<i>Flughafen</i>), while the other trains reversed at Ziegelstein. On the way back all trains were designated as U2 since they all run to Röthenbach, and therefore indicating whether trains originated from Ziegelstein or Flughafen was meaningless to passengers.</p>
+<h2><span class="mw-headline" id="Further_extensions">Further extensions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg_U-Bahn&amp;action=edit&amp;section=9" title="Edit section: Further extensions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="U3_Nord_(Northern_branch)"></span><span class="mw-headline" id="U3_Nord_.28Northern_branch.29">U3 Nord (Northern branch)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg_U-Bahn&amp;action=edit&amp;section=10" title="Edit section: U3 Nord (Northern branch)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The northern branch (U3 Nord) diverts from the U2 tunnel north of Rathenauplatz to run west under the northern quarters of Nuremberg. This branch will consist of 5 stations, of which three stations (<a href="/wiki/Maxfeld_(Nuremberg_U-Bahn)" title="Maxfeld (Nuremberg U-Bahn)">Maxfeld</a>, <a href="/wiki/Kaulbachplatz_(Nuremberg_U-Bahn)" title="Kaulbachplatz (Nuremberg U-Bahn)">Kaulbachplatz</a> and <a href="/wiki/Friedrich-Ebert-Platz_(Nuremberg_U-Bahn)" title="Friedrich-Ebert-Platz (Nuremberg U-Bahn)">Friedrich-Ebert-Platz</a>) have been completed until December 2011. The last two stations (Klinikum Nord and the terminus station Nordwestring) have been completed in December 2016 and are opened for service in May 2017, thus completing this branch.</p>
+<h3><span id="U3_Süd_(Southern_branch)"></span><span class="mw-headline" id="U3_S.C3.BCd_.28Southern_branch.29">U3 Süd (Southern branch)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg_U-Bahn&amp;action=edit&amp;section=11" title="Edit section: U3 Süd (Southern branch)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Gustav-Adolf.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gustav-Adolf.JPG/220px-Gustav-Adolf.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gustav-Adolf.JPG/330px-Gustav-Adolf.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gustav-Adolf.JPG/440px-Gustav-Adolf.JPG 2x" data-file-width="2272" data-file-height="1704" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Gustav-Adolf.JPG" class="internal" title="Enlarge"></a></div>
+Station Gustav-Adolf-Straße with DT3 units at the platform</div>
+</div>
+</div>
+<p>The southern branch (U3 Süd) diverts from the U2 tunnel south of Rothenburger Straße and runs to the west as well. Two stations of this branch (<a href="/wiki/S%C3%BCndersb%C3%BChl_(Nuremberg_U-Bahn)" title="Sündersbühl (Nuremberg U-Bahn)">Sündersbühl</a> and <a href="/wiki/Gustav-Adolf-Stra%C3%9Fe_(Nuremberg_U-Bahn)" title="Gustav-Adolf-Straße (Nuremberg U-Bahn)">Gustav-Adolf-Straße</a>) have been completed. The precise alignment of this branch and the location of further stations after Gustav-Adolf-Straße are still to be determined. The terminus of this branch, to be opened around 2017 or later, will be Gebersdorf Nord near the station <a href="/wiki/F%C3%BCrth" title="Fürth">Fürth</a> Süd, a former station of the abandoned Bibertbahn railway at a busy street intersection south of <a href="/wiki/F%C3%BCrth" title="Fürth">Fürth</a>'s city limits. Further expansion beyond is under consideration on the right of way of the abandoned Bibertbahn railway into <a href="/wiki/Zirndorf" title="Zirndorf">Zirndorf</a> and possibly beyond.</p>
+<h4><span class="mw-headline" id="DT3_units">DT3 units</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg_U-Bahn&amp;action=edit&amp;section=12" title="Edit section: DT3 units">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:DT3-Gustav-Adolf.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/DT3-Gustav-Adolf.JPG/220px-DT3-Gustav-Adolf.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/DT3-Gustav-Adolf.JPG/330px-DT3-Gustav-Adolf.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/DT3-Gustav-Adolf.JPG/440px-DT3-Gustav-Adolf.JPG 2x" data-file-width="2272" data-file-height="1704" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:DT3-Gustav-Adolf.JPG" class="internal" title="Enlarge"></a></div>
+Nuremberg U-Bahn train type DT3</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:N%C3%BCrnberg_U-Bahn_Opernhaus.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/N%C3%BCrnberg_U-Bahn_Opernhaus.jpg/220px-N%C3%BCrnberg_U-Bahn_Opernhaus.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/N%C3%BCrnberg_U-Bahn_Opernhaus.jpg/330px-N%C3%BCrnberg_U-Bahn_Opernhaus.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/N%C3%BCrnberg_U-Bahn_Opernhaus.jpg/440px-N%C3%BCrnberg_U-Bahn_Opernhaus.jpg 2x" data-file-width="1024" data-file-height="768" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:N%C3%BCrnberg_U-Bahn_Opernhaus.jpg" class="internal" title="Enlarge"></a></div>
+U-Bahn station <i>Opernhaus</i></div>
+</div>
+</div>
+<p>Thirty new train units (named DT3) were ordered and have been delivered for U3 operations. Those trains are designed to operate without a driver, controlled by an <a href="/wiki/Automatic_Train_Control" class="mw-redirect" title="Automatic Train Control">ATC</a> system from <a href="/wiki/Siemens" title="Siemens">Siemens</a>, and will provide the passengers with an unobstructed view from the front window into the tunnel. A normally locked drivers panel exists at every front window which enables service employees to drive DT3 units by hand if required. As with all Nuremberg subway trains, these units consist of two carriages and are half the platform length. They can be run as a single unit (short train) or coupled as double unit (long train), depending on passenger numbers. For the first time in a Nuremberg subway train, the two carriages of a unit are built with an accessible gangway. This is intended to improve passenger distribution in the train as many stations in the system have their exits at the very ends of the platform and therefore often the first and the last carriages of a 4 carriage (long) train are rather full, while the two middle carriages are relatively empty.</p>
+<h2><span class="mw-headline" id="ATC_and_driverless_trains">ATC and driverless trains</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg_U-Bahn&amp;action=edit&amp;section=13" title="Edit section: ATC and driverless trains">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Automatic_Train_Control" class="mw-redirect" title="Automatic Train Control">ATC</a> system is derived from <a href="/wiki/Deutsche_Bahn" title="Deutsche Bahn">Deutsche Bahn</a>'s <a href="/wiki/Linienzugbeeinflussung" title="Linienzugbeeinflussung">Linienzugbeeinflussung</a> (LZB), with additional parts added for door control and other safety systems. It works by transmitting data from the train to the interlocking station through two cables installed in the track between the rails. About one year after the U3 line has entered service, it is intended to convert U2 line to full ATC operations; however, during the first year there will be mixed traffic of ATC-run driverless DT3 units on U3 courses and conventionally run DT1 and DT2 units on U2 and U21 courses between Rathenauplatz and Rothenburger Straße. This has not been done anywhere before and therefore the ATC system had to be specifically designed and developed to allow for this mixed operation mode. All train operations will be automated, including normal operation, coupling and uncoupling of two DT3 units in storage tracks as well as at platforms, moving trains from and to storage tracks as well as reversing trains at platforms and in storage tracks.</p>
+<p>Day-to-day operations will be handled rather like those of <a href="/wiki/Docklands_Light_Railway" title="Docklands Light Railway">Docklands Light Railway</a>, with service employees riding in some trains to watch out for disruptive passengers and unusual occurrences and to supply information to passengers. Unlike the DLR however, not every train will be accompanied by a service employee, and again unlike the DLR, service employees have no task in the actual operation of the train. Hence the grade of automation is mixed between GoA 3 - Driverless, and GoA 4 - Unattended Train Operation (UTO). Doors close automatically, supervised by light barriers and pressure-sensitive door edges. Only in the case of service disruptions will a service employee take over the task of driving the train. For this purpose, all service employees are fully trained drivers.</p>
+<p>There were many reasons for choosing an automated, driverless system:</p>
+<ul>
+<li>First was the demand to reduce operation cost by eliminating the driver. There will be no layoffs even after the full conversion of the U2 line to ATC operations, since existing drivers will be trained as service employees, but no new personnel will be hired for the operation of the new line. VAG expects to improve line safety and passenger satisfaction by this change, since former drivers who were behind a door and busy with the operation of the train are now becoming service employees. They now become available to passengers inside the carriages and on platforms to look out for disruptions and possible crime, thus increasing the subjective security, and to supply information and answer questions, helping passengers find their way.</li>
+<li>Another reason was the improved capacity of the U2 tunnel that was needed to accommodate the U3 traffic. Current subway lines in Nuremberg are built for a train frequency of 200 seconds or 3<span class="nowrap"> </span><span class="frac nowrap"><sup>1</sup>⁄<sub>3</sub></span> minutes (sole exception: Ziegelstein-Flughafen: 400 seconds), which is already fully used on the U1 during the day and on the U2 during morning rush hour. With the new ATC system in place, additional (virtual) blocks will exist between stationary block signals, thus increasing line capacity to a train frequency of 100 seconds. However, these new blocks can only be used by ATC-operated trains since they are virtual and have no stationary signal associated with them that can be observed by a driver-operated train without ATC equipment. Thus the increased line capacity can only be effectively used after the U2 has been converted to full ATC operation.</li>
+<li>For the creation of a new ATC system accommodating mixed ATC and non-ATC traffic federal grants and subsidies were awarded, offsetting some of the additional cost.</li>
+<li>ATC-controlled trains in storage tracks can be activated instantly, making it possible for the line controller to put additional trains into passenger service at a moment's notice when he observes unexpected increases in passenger numbers.</li>
+</ul>
+<h3><span class="mw-headline" id="Passenger_Safety">Passenger Safety</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg_U-Bahn&amp;action=edit&amp;section=14" title="Edit section: Passenger Safety">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>All DT3 units are equipped with passenger intercom panels near every door in addition to the standard emergency brakes and emergency door release handles. Controllers can access CCTV cameras in every unit from the control centre through a <a href="/wiki/Wireless_LAN" title="Wireless LAN">Wireless LAN</a> link installed in all tunnels that are used by DT3 trains. <a href="/wiki/Flame-retardant" class="mw-redirect" title="Flame-retardant">Flame-retardant</a> materials are used wherever possible. <a href="/wiki/Temperature" title="Temperature">Temperature</a> sensors and <a href="/wiki/Smoke_detectors" class="mw-redirect" title="Smoke detectors">smoke detectors</a> are spread throughout every unit in the passenger space and in every underfloor machinery compartment to detect possible fires as early as possible. <a href="/wiki/Circuit_integrity" title="Circuit integrity">Circuit integrity</a> retaining <a href="/wiki/Electrical_cable" title="Electrical cable">electrical cables</a> (cables that can keep their insulation for a certain time in the presence of fire) are used to allow a unit to proceed to the next station in case of a fire. German regulations mandate that all subway trains must not stop inside a tunnel after the emergency brake has been pulled or if any other hazard like a fire is detected, but instead should proceed to the next station if possible to ease rescue operations. Since the longest travel time between two stations on the Nuremberg U-Bahn is about 3 Minutes (between Ziegelstein and Flughafen) and most stations are less than 60 seconds apart, this is deemed a superior option to stopping inside a tunnel, where evacuation, rescue and firefighting attempts would be much more difficult than on a station platform.</p>
+<p>German regulations mandate some means to stop a train if a person or large object should fall onto the track. Installing doors between track and platform (like on Paris's <a href="/wiki/Paris_M%C3%A9tro_Line_14" title="Paris Métro Line 14">Météor Line</a>) would have been the superior solution, but since 6 stations which were already in full operation (the section Rathenauplatz to Rothenburger Straße) needed to be converted, fitting doors to the platform edges would have led to severe service disruptions and station closures. Another problem would have been that the conventionally run trains would have had to be stopped within an area of a few centimeters by the driver, which would have been difficult. Therefore, platform doors were out of the question. After tests with laser light barriers (from the station ceiling to the platform edge) at Plärrer, a combination of <a href="/wiki/CCTV" class="mw-redirect" title="CCTV">CCTV</a> cameras overlooking the <a href="/wiki/Track_bed" title="Track bed">track bed</a> and <a href="/wiki/Radio_frequency" title="Radio frequency">radio frequency</a> barriers between from under the platform edge to the opposing wall were chosen and installed at all stations served by U3. The RF barriers will detect persons and objects falling onto the track. In such a case the ATC will stop any approaching trains on that track immediately and alert the control centre, from where an operator can visually inspect the trackbed at the platform over CCTV and then take the appropriate action.</p>
+<h3><span class="mw-headline" id="Technical_Problems_leading_to_a_2-year_delay">Technical Problems leading to a 2-year delay</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg_U-Bahn&amp;action=edit&amp;section=15" title="Edit section: Technical Problems leading to a 2-year delay">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Construction of the line started in 2003, with the DT3 units ordered in the same year, and opening of the initial line segment from Maxfeld to Gustav-Adolf-Straße had been scheduled for early 2006 to be operational for the <a href="/wiki/2006_FIFA_World_Cup" title="2006 FIFA World Cup">2006 FIFA World Cup</a>.</p>
+<p>Initially it was thought by Siemens and VAG that development, testing and certification of the ATC components could be conducted during those 3 years in parallel to the construction of the line, at first in simulations and, after the first DT3 units had been delivered, on a test track at the Langwasser Depot, and that the new line could enter service immediately after the tunnels and stations were built. However, in 2005 news was published that ATC development was not progressing as planned and that the opening would have to be postponed by one year to late 2006 or early 2007. In fall 2006 the responsible parties had to admit that the ATC system would still not be ready by the already postponed date at the end of 2006 and that the opening of the line would have to be postponed again. At that point, Siemens appointed a new project manager. The new U3 line finally opened on June 14, 2008.</p>
+<p>To Siemens this delay is a major embarrassment, since the company hopes to sell this ATC system to other subway operators around the world who wish to gradually convert their existing subway lines to ATC operation, allowing for mixed operations on line segments used by ATC and non-ATC operated trains during interim periods.</p>
+<h3><span class="mw-headline" id="Conversion_of_the_U2_for_ATC_operation">Conversion of the U2 for ATC operation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg_U-Bahn&amp;action=edit&amp;section=16" title="Edit section: Conversion of the U2 for ATC operation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After the initial segment of the U3 had entered service and all problems concerning the ATC system had been sorted out, work commenced on the conversion the existing U2 to ATC operation. Full ATC operation of the U2 begun in January 2010 and on the shared section of track between Rathenauplatz and Rothenburger Straße the interval between trains on that tunnel segment reduced to 100 seconds. (See above)</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg_U-Bahn&amp;action=edit&amp;section=17" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:P_train.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/en/thumb/e/e3/P_train.svg/31px-P_train.svg.png" width="31" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e3/P_train.svg/47px-P_train.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e3/P_train.svg/62px-P_train.svg.png 2x" data-file-width="400" data-file-height="360" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Trains" title="Portal:Trains">Trains portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="flag" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/32px-Flag_of_Bavaria_%28lozengy%29.svg.png" width="32" height="19" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/48px-Flag_of_Bavaria_%28lozengy%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/64px-Flag_of_Bavaria_%28lozengy%29.svg.png 2x" data-file-width="1000" data-file-height="600" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Bavaria" title="Portal:Bavaria">Bavaria portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/List_of_Nuremberg_U-Bahn_stations" title="List of Nuremberg U-Bahn stations">List of Nuremberg U-Bahn stations</a></li>
+<li><a href="/wiki/List_of_driverless_trains" class="mw-redirect" title="List of driverless trains">List of driverless trains</a></li>
+<li><a href="/wiki/Trams_in_Nuremberg" title="Trams in Nuremberg">Trams in Nuremberg</a></li>
+<li><a href="/wiki/List_of_metro_systems" title="List of metro systems">List of metro systems</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg_U-Bahn&amp;action=edit&amp;section=18" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-facts-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-facts_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-facts_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-facts_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-facts_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-facts_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-facts_1-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-facts_1-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.vag.de/Wussten-Sie/m161/Wussten-Sie.html#UBahn">"Wussten Sie? - Wussten Sie zum Thema "U-Bahn<span style="padding-right:0.2em;">"</span>"</a> [Did you know? - Facts about the U-Bahn] (in German). VAG<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-10-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANuremberg+U-Bahn&amp;rft.btitle=Wussten+Sie%3F+-+Wussten+Sie+zum+Thema+%22U-Bahn%22&amp;rft.genre=unknown&amp;rft.pub=VAG&amp;rft_id=http%3A%2F%2Fwww.vag.de%2FWussten-Sie%2Fm161%2FWussten-Sie.html%23UBahn&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-report-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-report_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-report_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-report_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-report_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-report_2-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-report_2-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.vag.de/gb/2012/fbook-files/VAG-Geschaeftsbericht_2012.pdf">"Geschäftsbericht 2012 Ziele erreichen – auf ganzer Strecke"</a> [Annual Report 2012 Targets achieved - over the whole distance] <span style="font-size:85%;">(PDF)</span> (in German). VAG. June 2013. p.&#160;2<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-10-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANuremberg+U-Bahn&amp;rft.btitle=Gesch%C3%A4ftsbericht+2012+Ziele+erreichen+%E2%80%93+auf+ganzer+Strecke&amp;rft.date=2013-06&amp;rft.genre=unknown&amp;rft.pages=2&amp;rft.pub=VAG&amp;rft_id=http%3A%2F%2Fwww.vag.de%2Fgb%2F2012%2Ffbook-files%2FVAG-Geschaeftsbericht_2012.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.vag.de/U-Bahn/id250/U-Bahn.html">"Unternehmen / Fahrzeuge - U-Bahn"</a> [Enterprise / Vehicles - U-Bahn] (in German). VAG<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-10-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANuremberg+U-Bahn&amp;rft.btitle=Unternehmen+%2F+Fahrzeuge+-+U-Bahn&amp;rft.genre=unknown&amp;rft.pub=VAG&amp;rft_id=http%3A%2F%2Fwww.vag.de%2FU-Bahn%2Fid250%2FU-Bahn.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Some other cities have overground rail links to their airports.</span></li>
+<li id="cite_note-gazette-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-gazette_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.railwaygazette.com/news/single-view/view/10/nuernberg-u2-goes-driverless/browse/3.html">"Nürnberg U2 goes driverless"</a>. <i>Railway Gazette International</i>. 28 September 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">3 October</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANuremberg+U-Bahn&amp;rft.atitle=N%C3%BCrnberg+U2+goes+driverless&amp;rft.date=2009-09-28&amp;rft.genre=unknown&amp;rft.jtitle=Railway+Gazette+International&amp;rft_id=http%3A%2F%2Fwww.railwaygazette.com%2Fnews%2Fsingle-view%2Fview%2F10%2Fnuernberg-u2-goes-driverless%2Fbrowse%2F3.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.vgn.de/komfortauskunft/ttb/?lineName=U3">"VGN Timetable Linie U-Bahn U3"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANuremberg+U-Bahn&amp;rft.btitle=VGN+Timetable+Linie+U-Bahn+U3&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.vgn.de%2Fkomfortauskunft%2Fttb%2F%3FlineName%3DU3&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg_U-Bahn&amp;action=edit&amp;section=19" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/N%C3%BCrnberg_U-Bahn" class="extiw" title="commons:Nürnberg U-Bahn">Nürnberg U-Bahn</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.vag.de/?l=2">VAG Nuremberg official site</a> <span class="languageicon">(in English)</span></li>
+<li><a rel="nofollow" class="external text" href="http://www.vag.de/index.php?l=1">VAG Nürnberg official site</a> <span class="languageicon">(in German)</span></li>
+<li><a rel="nofollow" class="external text" href="http://www.rubin-nuernberg.de/">Implementation of an automated metro in Nuremberg</a> <span class="languageicon">(in German)</span> and <span class="languageicon">(in English)</span></li>
+<li><a rel="nofollow" class="external text" href="http://www.cityverkehr.de/">Page on U-Bahn and S-Bahn in Nuremberg</a> <span class="languageicon">(in German)</span></li>
+<li><a rel="nofollow" class="external text" href="http://www.nahverkehr-franken.de/">Page on local transport in Franconia</a> <span class="languageicon">(in German)</span></li>
+<li><a rel="nofollow" class="external text" href="http://public-transport.net/pics/main.php?g2_itemId=534">pics from Nuremberg underground</a> <span class="languageicon">(in German)</span> and <span class="languageicon">(in English)</span></li>
+<li><a rel="nofollow" class="external text" href="https://www.metrolinemap.com/metro/nuremberg/">Nuremberg U-Bahn Map</a> <span class="languageicon">(in English)</span></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Nuremberg_U-Bahn" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Nuremberg_U-Bahn" title="Template:Nuremberg U-Bahn"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Nuremberg_U-Bahn" title="Template talk:Nuremberg U-Bahn"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Nuremberg_U-Bahn&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Nuremberg_U-Bahn" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Nuremberg U-Bahn</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Nuremberg_U-Bahn#Network" title="Nuremberg U-Bahn">Lines</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/U1_(Nuremberg_U-Bahn)" title="U1 (Nuremberg U-Bahn)">U1</a></li>
+<li><a href="/wiki/U2_(Nuremberg_U-Bahn)" title="U2 (Nuremberg U-Bahn)">U2</a></li>
+<li><a href="/wiki/U3_(Nuremberg_U-Bahn)" title="U3 (Nuremberg U-Bahn)">U3</a></li>
+<li><a href="/wiki/U1_(Nuremberg_U-Bahn)" title="U1 (Nuremberg U-Bahn)">U11</a></li>
+<li><a href="/wiki/U2_(Nuremberg_U-Bahn)" title="U2 (Nuremberg U-Bahn)">U21</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="2" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:U-Bahn.svg" class="image"><img alt="U-Bahn.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/U-Bahn.svg/50px-U-Bahn.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/U-Bahn.svg/75px-U-Bahn.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/U-Bahn.svg/100px-U-Bahn.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_Nuremberg_U-Bahn_stations" title="List of Nuremberg U-Bahn stations">Stations</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aufse%C3%9Fplatz_(Nuremberg_U-Bahn)" title="Aufseßplatz (Nuremberg U-Bahn)">Aufseßplatz</a></li>
+<li><a href="/wiki/B%C3%A4renschanze_(Nuremberg_U-Bahn)" title="Bärenschanze (Nuremberg U-Bahn)">Bärenschanze</a></li>
+<li><a href="/wiki/Bauernfeindstra%C3%9Fe_(Nuremberg_U-Bahn)" title="Bauernfeindstraße (Nuremberg U-Bahn)">Bauernfeindstraße</a></li>
+<li><a href="/wiki/Eberhardshof_(Nuremberg_U-Bahn)" title="Eberhardshof (Nuremberg U-Bahn)">Eberhardshof</a></li>
+<li><a href="/wiki/Flughafen_(Nuremberg_U-Bahn)" title="Flughafen (Nuremberg U-Bahn)">Flughafen</a></li>
+<li><a href="/wiki/Frankenstra%C3%9Fe_(Nuremberg_U-Bahn)" title="Frankenstraße (Nuremberg U-Bahn)">Frankenstraße</a></li>
+<li><a href="/wiki/Friedrich-Ebert-Platz_(Nuremberg_U-Bahn)" title="Friedrich-Ebert-Platz (Nuremberg U-Bahn)">Friedrich-Ebert-Platz</a></li>
+<li><a href="/wiki/F%C3%BCrth_Hauptbahnhof" title="Fürth Hauptbahnhof">Fürth Hauptbahnhof</a></li>
+<li><a href="/wiki/Gemeinschaftshaus_(Nuremberg_U-Bahn)" title="Gemeinschaftshaus (Nuremberg U-Bahn)">Gemeinschaftshaus</a></li>
+<li><a href="/wiki/Gostenhof_(Nuremberg_U-Bahn)" title="Gostenhof (Nuremberg U-Bahn)">Gostenhof</a></li>
+<li><a href="/wiki/Gustav-Adolf-Stra%C3%9Fe_(Nuremberg_U-Bahn)" title="Gustav-Adolf-Straße (Nuremberg U-Bahn)">Gustav-Adolf-Straße</a></li>
+<li><a href="/wiki/Hasenbuck_(Nuremberg_U-Bahn)" title="Hasenbuck (Nuremberg U-Bahn)">Hasenbuck</a></li>
+<li><a href="/wiki/N%C3%BCrnberg_Hauptbahnhof" class="mw-redirect" title="Nürnberg Hauptbahnhof">Hauptbahnhof</a></li>
+<li><a href="/wiki/Hardh%C3%B6he_(Nuremberg_U-Bahn)" title="Hardhöhe (Nuremberg U-Bahn)">Hardhöhe</a></li>
+<li><a href="/wiki/Herrnh%C3%BCtte_(Nuremberg_U-Bahn)" title="Herrnhütte (Nuremberg U-Bahn)">Herrnhütte</a></li>
+<li><a href="/wiki/Hohe_Marter_(Nuremberg_U-Bahn)" title="Hohe Marter (Nuremberg U-Bahn)">Hohe Marter</a></li>
+<li><a href="/wiki/Jakobinenstra%C3%9Fe_(Nuremberg_U-Bahn)" title="Jakobinenstraße (Nuremberg U-Bahn)">Jakobinenstraße</a></li>
+<li><a href="/wiki/Kaulbachplatz_(Nuremberg_U-Bahn)" title="Kaulbachplatz (Nuremberg U-Bahn)">Kaulbachplatz</a></li>
+<li><a href="/wiki/Klinikum_(Nuremberg_U-Bahn)" title="Klinikum (Nuremberg U-Bahn)">Klinikum</a></li>
+<li><a href="/wiki/Langwasser_Mitte_(Nuremberg_U-Bahn)" title="Langwasser Mitte (Nuremberg U-Bahn)">Langwasser Mitte</a></li>
+<li><a href="/wiki/Langwasser_Nord_(Nuremberg_U-Bahn)" title="Langwasser Nord (Nuremberg U-Bahn)">Langwasser Nord</a></li>
+<li><a href="/wiki/Langwasser_S%C3%BCd_(Nuremberg_U-Bahn)" title="Langwasser Süd (Nuremberg U-Bahn)">Langwasser Süd</a></li>
+<li><a href="/wiki/Lorenzkirche_(Nuremberg_U-Bahn)" title="Lorenzkirche (Nuremberg U-Bahn)">Lorenzkirche</a></li>
+<li><a href="/wiki/Maffeiplatz_(Nuremberg_U-Bahn)" title="Maffeiplatz (Nuremberg U-Bahn)">Maffeiplatz</a></li>
+<li><a href="/wiki/Maxfeld_(Nuremberg_U-Bahn)" title="Maxfeld (Nuremberg U-Bahn)">Maxfeld</a></li>
+<li><a href="/wiki/Maximilianstra%C3%9Fe_(Nuremberg_U-Bahn)" title="Maximilianstraße (Nuremberg U-Bahn)">Maximilianstraße</a></li>
+<li><a href="/wiki/Messe_(Nuremberg_U-Bahn)" title="Messe (Nuremberg U-Bahn)">Messe</a></li>
+<li><a href="/wiki/Muggenhof_(Nuremberg_U-Bahn)" title="Muggenhof (Nuremberg U-Bahn)">Muggenhof</a></li>
+<li><a href="/wiki/N%C3%BCrnberg_Nordost_station" title="Nürnberg Nordost station">Nordostbahnhof</a></li>
+<li><a href="/wiki/Opernhaus_(Nuremberg_U-Bahn)" title="Opernhaus (Nuremberg U-Bahn)">Opernhaus</a></li>
+<li><a href="/wiki/Pl%C3%A4rrer_(Nuremberg_U-Bahn)" title="Plärrer (Nuremberg U-Bahn)">Plärrer</a></li>
+<li><a href="/wiki/Rathaus_(Nuremberg_U-Bahn)" title="Rathaus (Nuremberg U-Bahn)">Rathaus</a></li>
+<li><a href="/wiki/Rathenauplatz_(Nuremberg_U-Bahn)" title="Rathenauplatz (Nuremberg U-Bahn)">Rathenauplatz</a></li>
+<li><a href="/wiki/Rennweg_(Nuremberg_U-Bahn)" title="Rennweg (Nuremberg U-Bahn)">Rennweg</a></li>
+<li><a href="/wiki/R%C3%B6thenbach_(Nuremberg_U-Bahn)" title="Röthenbach (Nuremberg U-Bahn)">Röthenbach</a></li>
+<li><a href="/wiki/Rothenburger_Stra%C3%9Fe_(Nuremberg_U-Bahn)" title="Rothenburger Straße (Nuremberg U-Bahn)">Rothenburger Straße</a></li>
+<li><a href="/wiki/Scharfreiterring_(Nuremberg_U-Bahn)" title="Scharfreiterring (Nuremberg U-Bahn)">Scharfreiterring</a></li>
+<li><a href="/wiki/Schoppershof_(Nuremberg_U-Bahn)" title="Schoppershof (Nuremberg U-Bahn)">Schoppershof</a></li>
+<li><a href="/wiki/Schweinau_(Nuremberg_U-Bahn)" title="Schweinau (Nuremberg U-Bahn)">Schweinau</a></li>
+<li><a href="/wiki/St._Leonhard_(Nuremberg_U-Bahn)" title="St. Leonhard (Nuremberg U-Bahn)">St. Leonhard</a></li>
+<li><a href="/wiki/Stadtgrenze_(Nuremberg_U-Bahn)" title="Stadtgrenze (Nuremberg U-Bahn)">Stadtgrenze</a></li>
+<li><a href="/wiki/Stadthalle_(Nuremberg_U-Bahn)" title="Stadthalle (Nuremberg U-Bahn)">Stadthalle</a></li>
+<li><a href="/wiki/S%C3%BCndersb%C3%BChl_(Nuremberg_U-Bahn)" title="Sündersbühl (Nuremberg U-Bahn)">Sündersbühl</a></li>
+<li><a href="/wiki/Wei%C3%9Fer_Turm_(Nuremberg_U-Bahn)" title="Weißer Turm (Nuremberg U-Bahn)">Weißer Turm</a></li>
+<li><a href="/wiki/W%C3%B6hrder_Wiese_(Nuremberg_U-Bahn)" title="Wöhrder Wiese (Nuremberg U-Bahn)">Wöhrder Wiese</a></li>
+<li><a href="/wiki/Ziegelstein_(Nuremberg_U-Bahn)" title="Ziegelstein (Nuremberg U-Bahn)">Ziegelstein</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Urban_public_transport_networks_and_systems_in_Germany" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Urban_public_transport_in_Germany" title="Template:Urban public transport in Germany"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Urban_public_transport_in_Germany" title="Template talk:Urban public transport in Germany"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Urban_public_transport_in_Germany&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Urban_public_transport_networks_and_systems_in_Germany" style="font-size:114%;margin:0 4em">Urban <a href="/wiki/Public_transport" title="Public transport">public transport</a> networks and systems in <a href="/wiki/Germany" title="Germany">Germany</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/S-Bahn" class="mw-redirect" title="S-Bahn">S-Bahn</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Berlin_S-Bahn" title="Berlin S-Bahn">Berlin</a></li>
+<li><a href="/wiki/Bremen_S-Bahn" title="Bremen S-Bahn">Bremen</a></li>
+<li><a href="/wiki/Rhine-Ruhr_S-Bahn" title="Rhine-Ruhr S-Bahn">Cologne</a></li>
+<li><a href="/wiki/Dresden_S-Bahn" title="Dresden S-Bahn">Dresden</a></li>
+<li><i><a href="/w/index.php?title=Erfurt_S-Bahn&amp;action=edit&amp;redlink=1" class="new" title="Erfurt S-Bahn (page does not exist)">Erfurt</a></i><sup><small>1</small></sup></li>
+<li><a href="/wiki/Breisgau_S-Bahn" title="Breisgau S-Bahn">Freiburg</a></li>
+<li><a href="/wiki/Hamburg_S-Bahn" title="Hamburg S-Bahn">Hamburg</a></li>
+<li><a href="/wiki/Hanover_S-Bahn" title="Hanover S-Bahn">Hanover</a></li>
+<li><a href="/wiki/Karlsruhe_Stadtbahn" title="Karlsruhe Stadtbahn">Karlsruhe</a></li>
+<li><a href="/w/index.php?title=Magdeburg_S-Bahn&amp;action=edit&amp;redlink=1" class="new" title="Magdeburg S-Bahn (page does not exist)">Magdeburg</a></li>
+<li><a href="/wiki/S-Bahn_Mitteldeutschland" title="S-Bahn Mitteldeutschland">Mitteldeutschland</a></li>
+<li><a href="/wiki/Munich_S-Bahn" title="Munich S-Bahn">Munich</a></li>
+<li><a href="/wiki/Nuremberg_S-Bahn" title="Nuremberg S-Bahn">Nuremberg</a></li>
+<li><a href="/wiki/Ortenau_S-Bahn" title="Ortenau S-Bahn">Offenburg</a></li>
+<li><a href="/wiki/Rhine-Main_S-Bahn" title="Rhine-Main S-Bahn">Rhine-Main</a></li>
+<li><a href="/wiki/Rhine-Neckar_S-Bahn" title="Rhine-Neckar S-Bahn">Rhine-Neckar</a></li>
+<li><a href="/wiki/Rhine-Ruhr_S-Bahn" title="Rhine-Ruhr S-Bahn">Rhine-Ruhr</a></li>
+<li><a href="/wiki/Rostock_S-Bahn" title="Rostock S-Bahn">Rostock</a></li>
+<li><a href="/wiki/Stuttgart_S-Bahn" title="Stuttgart S-Bahn">Stuttgart</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Breisgau-S-Bahn.jpg" class="image" title="Breisgau S-Bahn."><img alt="Breisgau S-Bahn." src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Breisgau-S-Bahn.jpg/95px-Breisgau-S-Bahn.jpg" width="95" height="69" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Breisgau-S-Bahn.jpg/143px-Breisgau-S-Bahn.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Breisgau-S-Bahn.jpg/190px-Breisgau-S-Bahn.jpg 2x" data-file-width="1024" data-file-height="746" /></a><br />
+<a href="/wiki/File:Rbg3039fli080505.jpg" class="image" title="A Rheinbahn tram, Düsseldorf-Flingern."><img alt="A Rheinbahn tram, Düsseldorf-Flingern." src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rbg3039fli080505.jpg/95px-Rbg3039fli080505.jpg" width="95" height="71" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rbg3039fli080505.jpg/143px-Rbg3039fli080505.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rbg3039fli080505.jpg/190px-Rbg3039fli080505.jpg 2x" data-file-width="1024" data-file-height="768" /></a><br />
+<a href="/wiki/File:Dresden_Bergbahn_129.JPG" class="image" title="Schwebebahn Dresden."><img alt="Schwebebahn Dresden." src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Dresden_Bergbahn_129.JPG/95px-Dresden_Bergbahn_129.JPG" width="95" height="71" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Dresden_Bergbahn_129.JPG/143px-Dresden_Bergbahn_129.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Dresden_Bergbahn_129.JPG/190px-Dresden_Bergbahn_129.JPG 2x" data-file-width="2592" data-file-height="1944" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/U-Bahn" class="mw-redirect" title="U-Bahn">U-Bahn</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Berlin_U-Bahn" title="Berlin U-Bahn">Berlin</a></li>
+<li><a href="/wiki/Hamburg_U-Bahn" title="Hamburg U-Bahn">Hamburg</a></li>
+<li><a href="/wiki/Munich_U-Bahn" title="Munich U-Bahn">Munich</a></li>
+<li><a class="mw-selflink selflink">Nuremberg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Stadtbahn" title="Stadtbahn">Stadtbahn</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bielefeld_Stadtbahn" title="Bielefeld Stadtbahn">Bielefeld</a></li>
+<li><a href="/wiki/Bochum_Stadtbahn" title="Bochum Stadtbahn">Bochum</a></li>
+<li><a href="/wiki/Bonn_Stadtbahn" title="Bonn Stadtbahn">Bonn</a></li>
+<li><a href="/wiki/Chemnitz_Stadtbahn" class="mw-redirect" title="Chemnitz Stadtbahn">Chemnitz</a></li>
+<li><a href="/wiki/Cologne_Stadtbahn" title="Cologne Stadtbahn">Cologne</a></li>
+<li><a href="/wiki/Dortmund_Stadtbahn" title="Dortmund Stadtbahn">Dortmund</a></li>
+<li><a href="/wiki/Duisburg_Stadtbahn" title="Duisburg Stadtbahn">Duisburg</a></li>
+<li><a href="/wiki/D%C3%BCsseldorf_Stadtbahn" title="Düsseldorf Stadtbahn">Düsseldorf</a></li>
+<li><a href="/wiki/Erfurt_Stadtbahn" title="Erfurt Stadtbahn">Erfurt</a></li>
+<li><a href="/wiki/Essen_Stadtbahn" title="Essen Stadtbahn">Essen</a></li>
+<li><a href="/wiki/Frankfurt_U-Bahn" title="Frankfurt U-Bahn">Frankfurt</a></li>
+<li><a href="/w/index.php?title=Gelsenkirchen_Stadtbahn&amp;action=edit&amp;redlink=1" class="new" title="Gelsenkirchen Stadtbahn (page does not exist)">Gelsenkirchen</a></li>
+<li><a href="/wiki/Hanover_Stadtbahn" title="Hanover Stadtbahn">Hanover</a></li>
+<li><a href="/wiki/Karlsruhe_Stadtbahn" title="Karlsruhe Stadtbahn">Karlsruhe</a></li>
+<li><a href="/wiki/Kassel_RegioTram" title="Kassel RegioTram">Kassel</a></li>
+<li><a href="/wiki/Saarbahn" title="Saarbahn">Saarbrücken</a></li>
+<li><a href="/w/index.php?title=M%C3%BClheim_Stadtbahn&amp;action=edit&amp;redlink=1" class="new" title="Mülheim Stadtbahn (page does not exist)">Mülheim</a></li>
+<li><a href="/wiki/Stuttgart_Stadtbahn" title="Stuttgart Stadtbahn">Stuttgart</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Trams_in_Germany" title="Trams in Germany">Trams</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Trams_in_Aachen" title="Trams in Aachen">Aachen</a></i><sup><small>2</small></sup></li>
+<li><a href="/wiki/Trams_in_Augsburg" title="Trams in Augsburg">Augsburg</a></li>
+<li><a href="/wiki/Kirnitzschtal_tramway" title="Kirnitzschtal tramway">Bad Schandau-Kirnitzschtal</a></li>
+<li><a href="/wiki/Trams_in_Berlin" title="Trams in Berlin">Berlin</a> (Suburban: <a href="/w/index.php?title=Sch%C3%B6neiche-R%C3%BCdersdorf_Tramway&amp;action=edit&amp;redlink=1" class="new" title="Schöneiche-Rüdersdorf Tramway (page does not exist)">Schöneiche-Rüdersdorf</a> · <a href="/w/index.php?title=Woltersdorf_Tramway&amp;action=edit&amp;redlink=1" class="new" title="Woltersdorf Tramway (page does not exist)">Woltersdorf</a>)</li>
+<li><a href="/wiki/Trams_in_Bochum/Gelsenkirchen" title="Trams in Bochum/Gelsenkirchen">Bochum</a></li>
+<li><a href="/wiki/Trams_in_Bonn" title="Trams in Bonn">Bonn</a></li>
+<li><a href="/wiki/Trams_in_Brandenburg_an_der_Havel" title="Trams in Brandenburg an der Havel">Brandenburg an der Havel</a></li>
+<li><a href="/wiki/Trams_in_Braunschweig" title="Trams in Braunschweig">Braunschweig</a></li>
+<li><a href="/wiki/Trams_in_Bremen" title="Trams in Bremen">Bremen</a></li>
+<li><a href="/wiki/Trams_in_Chemnitz" title="Trams in Chemnitz">Chemnitz</a></li>
+<li><a href="/wiki/Trams_in_Cologne" class="mw-redirect" title="Trams in Cologne">Cologne</a></li>
+<li><a href="/wiki/Trams_in_Cottbus" title="Trams in Cottbus">Cottbus</a></li>
+<li><a href="/wiki/Trams_in_Darmstadt" title="Trams in Darmstadt">Darmstadt</a></li>
+<li><a href="/wiki/Trams_in_Dessau" title="Trams in Dessau">Dessau</a></li>
+<li><a href="/wiki/D%C3%B6beln_Tramway" title="Döbeln Tramway">Döbeln</a></li>
+<li><a href="/wiki/Trams_in_Dresden" title="Trams in Dresden">Dresden</a></li>
+<li><a href="/wiki/Trams_in_Duisburg" title="Trams in Duisburg">Duisburg</a></li>
+<li><a href="/wiki/Trams_in_D%C3%BCsseldorf" title="Trams in Düsseldorf">Düsseldorf</a></li>
+<li><a href="/wiki/Trams_in_Erfurt" class="mw-redirect" title="Trams in Erfurt">Erfurt</a></li>
+<li><a href="/wiki/Trams_in_Essen" title="Trams in Essen">Essen</a></li>
+<li><a href="/wiki/Trams_in_Frankfurt_am_Main" title="Trams in Frankfurt am Main">Frankfurt am Main</a></li>
+<li><a href="/wiki/Trams_in_Frankfurt_(Oder)" title="Trams in Frankfurt (Oder)">Frankfurt (Oder)</a></li>
+<li><a href="/wiki/Trams_in_Freiburg_im_Breisgau" title="Trams in Freiburg im Breisgau">Freiburg</a></li>
+<li><a href="/wiki/Trams_in_Bochum/Gelsenkirchen" title="Trams in Bochum/Gelsenkirchen">Gelsenkirchen</a></li>
+<li><a href="/wiki/Trams_in_Gera" title="Trams in Gera">Gera</a></li>
+<li><a href="/wiki/Trams_in_G%C3%B6rlitz" title="Trams in Görlitz">Görlitz</a></li>
+<li><a href="/wiki/Trams_in_Gotha" title="Trams in Gotha">Gotha</a></li>
+<li><a href="/wiki/Trams_in_Halberstadt" title="Trams in Halberstadt">Halberstadt</a></li>
+<li><a href="/wiki/Trams_in_Halle_(Saale)" title="Trams in Halle (Saale)">Halle</a></li>
+<li><i><a href="/wiki/Trams_in_Hamburg" title="Trams in Hamburg">Hamburg</a></i><sup><small>2</small></sup></li>
+<li><a href="/wiki/Trams_in_Hanover" class="mw-redirect" title="Trams in Hanover">Hanover</a></li>
+<li><a href="/wiki/Trams_in_Heidelberg" title="Trams in Heidelberg">Heidelberg</a></li>
+<li><a href="/w/index.php?title=Trams_in_Heilbronn&amp;action=edit&amp;redlink=1" class="new" title="Trams in Heilbronn (page does not exist)">Heilbronn</a></li>
+<li><a href="/wiki/Trams_in_Jena" title="Trams in Jena">Jena</a></li>
+<li><a href="/wiki/Trams_in_Karlsruhe" title="Trams in Karlsruhe">Karlsruhe</a></li>
+<li><a href="/wiki/Trams_in_Kassel" title="Trams in Kassel">Kassel</a></li>
+<li><i><a href="/wiki/Trams_in_Kiel" title="Trams in Kiel">Kiel</a></i><sup><small>2</small></sup></li>
+<li><a href="/wiki/Trams_in_Krefeld" title="Trams in Krefeld">Krefeld</a></li>
+<li><a href="/wiki/Trams_in_Leipzig" title="Trams in Leipzig">Leipzig</a> (<small><a href="/wiki/History_of_trams_in_Leipzig" title="History of trams in Leipzig">History</a></small>)</li>
+<li><a href="/wiki/L%C3%B6%C3%9Fnitz_tramway" title="Lößnitz tramway">Lößnitz</a></li>
+<li><a href="/wiki/Trams_in_Mannheim/Ludwigshafen" title="Trams in Mannheim/Ludwigshafen">Ludwigshafen</a></li>
+<li><a href="/wiki/Trams_in_Magdeburg" title="Trams in Magdeburg">Magdeburg</a></li>
+<li><a href="/wiki/Trams_in_Mannheim/Ludwigshafen" title="Trams in Mannheim/Ludwigshafen">Mannheim</a></li>
+<li><a href="/w/index.php?title=Trams_in_Merseburg&amp;action=edit&amp;redlink=1" class="new" title="Trams in Merseburg (page does not exist)">Merseburg</a></li>
+<li><a href="/wiki/Trams_in_M%C3%BClheim/Oberhausen" title="Trams in Mülheim/Oberhausen">Mülheim</a></li>
+<li><a href="/wiki/Trams_in_Munich" title="Trams in Munich">Munich</a></li>
+<li><a href="/wiki/Trams_in_Mainz" title="Trams in Mainz">Mainz</a></li>
+<li><i><a href="/wiki/Trams_in_M%C3%BCnster" title="Trams in Münster">Münster</a></i><sup><small>2</small></sup></li>
+<li><a href="/wiki/Trams_in_Naumburg_(Saale)" title="Trams in Naumburg (Saale)">Naumburg</a></li>
+<li><a href="/wiki/Trams_in_Nuremberg" title="Trams in Nuremberg">Nuremberg</a></li>
+<li><a href="/wiki/Trams_in_Nordhausen" title="Trams in Nordhausen">Nordhausen</a></li>
+<li><a href="/wiki/Trams_in_M%C3%BClheim/Oberhausen" title="Trams in Mülheim/Oberhausen">Oberhausen</a></li>
+<li><a href="/wiki/Trams_in_Plauen" title="Trams in Plauen">Plauen</a></li>
+<li><a href="/wiki/Trams_in_Potsdam" title="Trams in Potsdam">Potsdam</a></li>
+<li><i><a href="/w/index.php?title=Trams_in_Regensburg&amp;action=edit&amp;redlink=1" class="new" title="Trams in Regensburg (page does not exist)">Regensburg</a></i><sup><small>2</small></sup></li>
+<li><a href="/wiki/Trams_in_Rostock" title="Trams in Rostock">Rostock</a></li>
+<li><a href="/wiki/Trams_in_Saarbr%C3%BCcken" class="mw-redirect" title="Trams in Saarbrücken">Saarbrücken</a></li>
+<li><a href="/wiki/Trams_in_Schwerin" title="Trams in Schwerin">Schwerin</a></li>
+<li><a href="/wiki/Strausberg_Railway" title="Strausberg Railway">Strausberg</a></li>
+<li><a href="/wiki/Trams_in_Stuttgart" class="mw-redirect" title="Trams in Stuttgart">Stuttgart</a></li>
+<li><a href="/wiki/Trams_in_Ulm" title="Trams in Ulm">Ulm</a></li>
+<li><a href="/wiki/Trams_in_Basel" title="Trams in Basel">Weil am Rhein</a></li>
+<li><i><a href="/w/index.php?title=Trams_in_Wuppertal&amp;action=edit&amp;redlink=1" class="new" title="Trams in Wuppertal (page does not exist)">Wuppertal</a></i><sup><small>2</small></sup></li>
+<li><a href="/wiki/Trams_in_W%C3%BCrzburg" title="Trams in Würzburg">Würzburg</a></li>
+<li><a href="/wiki/Trams_in_Zwickau" title="Trams in Zwickau">Zwickau</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_trolleybus_systems_in_Germany" title="List of trolleybus systems in Germany">Trolleybuses</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Trolleybuses_in_Eberswalde" title="Trolleybuses in Eberswalde">Eberswalde</a></li>
+<li><a href="/wiki/Trolleybuses_in_Esslingen_am_Neckar" title="Trolleybuses in Esslingen am Neckar">Esslingen am Neckar</a></li>
+<li><a href="/wiki/Trolleybuses_in_Solingen" title="Trolleybuses in Solingen">Solingen</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Suspension_railway" title="Suspension railway">Suspension monorails</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/H-Bahn" title="H-Bahn">Dortmund H-Bahn</a></li>
+<li><a href="/wiki/Schwebebahn_Dresden" class="mw-redirect" title="Schwebebahn Dresden">Schwebebahn Dresden</a></li>
+<li><a href="/wiki/D%C3%BCsseldorf_SkyTrain" class="mw-redirect" title="Düsseldorf SkyTrain">Düsseldorf SkyTrain</a></li>
+<li><a href="/wiki/Wuppertal_Schwebebahn" class="mw-redirect" title="Wuppertal Schwebebahn">Wuppertal Schwebebahn</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bad_Schandau_Elevator" title="Bad Schandau Elevator">Bad Schandau Elevator</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="3">
+<div>
+<ul>
+<li><sup><small>1</small></sup> Former S-Bahn network</li>
+<li><sup><small>2</small></sup> Former tramway network</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="23x15px.7Cborder_.7Calt.3DEuropean_Union.7Clink.3DEuropean_Union_Rapid_transit_in_the_member_states_of_the_European_Union" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Underground_rapid_transit_in_the_European_Union" title="Template:Underground rapid transit in the European Union"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Underground_rapid_transit_in_the_European_Union" title="Template talk:Underground rapid transit in the European Union"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Underground_rapid_transit_in_the_European_Union&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="23x15px.7Cborder_.7Calt.3DEuropean_Union.7Clink.3DEuropean_Union_Rapid_transit_in_the_member_states_of_the_European_Union" style="font-size:114%;margin:0 4em"><span class="flagicon"><a href="/wiki/European_Union" title="European Union"><img alt="European Union" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/23px-Flag_of_Europe.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/35px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/45px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540" /></a></span> <a href="/wiki/Rapid_transit" title="Rapid transit">Rapid transit</a> in the <a href="/wiki/Member_state_of_the_European_Union" title="Member state of the European Union">member states</a> of the <a href="/wiki/European_Union" title="European Union">European Union</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Amsterdam_Metro" title="Amsterdam Metro">Amsterdam</a></li>
+<li><a href="/wiki/Athens_Metro" title="Athens Metro">Athens</a></li>
+<li><a href="/wiki/Barcelona_Metro" title="Barcelona Metro">Barcelona</a></li>
+<li><a href="/wiki/Berlin_U-Bahn" title="Berlin U-Bahn">Berlin</a></li>
+<li><a href="/wiki/Metro_Bilbao" title="Metro Bilbao">Bilbao</a></li>
+<li><a href="/wiki/Brescia_Metro" title="Brescia Metro">Brescia</a></li>
+<li><a href="/wiki/Brussels_Metro" title="Brussels Metro">Brussels</a></li>
+<li><a href="/wiki/Bucharest_Metro" title="Bucharest Metro">Bucharest</a></li>
+<li><a href="/wiki/Budapest_Metro" title="Budapest Metro">Budapest</a></li>
+<li><a href="/wiki/Catania_Metro" title="Catania Metro">Catania</a></li>
+<li><a href="/wiki/Copenhagen_Metro" title="Copenhagen Metro">Copenhagen</a></li>
+<li><a href="/wiki/Genoa_Metro" title="Genoa Metro">Genoa</a></li>
+<li><a href="/wiki/Granada_Metro" title="Granada Metro">Granada</a></li>
+<li><a href="/wiki/Glasgow_Subway" title="Glasgow Subway">Glasgow</a></li>
+<li><a href="/wiki/Hamburg_U-Bahn" title="Hamburg U-Bahn">Hamburg</a></li>
+<li><a href="/wiki/Helsinki_Metro" title="Helsinki Metro">Helsinki</a></li>
+<li><a href="/wiki/Lille_Metro" title="Lille Metro">Lille</a></li>
+<li><a href="/wiki/Lisbon_Metro" title="Lisbon Metro">Lisbon</a></li>
+<li><a href="/wiki/London_Underground" title="London Underground">London</a></li>
+<li><a href="/wiki/Lyon_Metro" title="Lyon Metro">Lyon</a></li>
+<li><a href="/wiki/Madrid_Metro" title="Madrid Metro">Madrid</a></li>
+<li><a href="/wiki/M%C3%A1laga_Metro" title="Málaga Metro">Málaga</a></li>
+<li><a href="/wiki/Marseille_Metro" title="Marseille Metro">Marseille</a></li>
+<li><a href="/wiki/Milan_Metro" title="Milan Metro">Milan</a></li>
+<li><a href="/wiki/Munich_U-Bahn" title="Munich U-Bahn">Munich</a></li>
+<li><a href="/wiki/Naples_Metro" title="Naples Metro">Naples</a></li>
+<li><a class="mw-selflink selflink">Nuremberg</a></li>
+<li><a href="/wiki/Palma_Metro" title="Palma Metro">Palma</a></li>
+<li><a href="/wiki/Paris_M%C3%A9tro" title="Paris Métro">Paris</a></li>
+<li><a href="/wiki/Porto_Metro" title="Porto Metro">Porto</a></li>
+<li><a href="/wiki/Prague_Metro" title="Prague Metro">Prague</a></li>
+<li><a href="/wiki/Rennes_Metro" title="Rennes Metro">Rennes</a></li>
+<li><a href="/wiki/Rome_Metro" title="Rome Metro">Rome</a></li>
+<li><a href="/wiki/Rotterdam_Metro" title="Rotterdam Metro">Rotterdam</a></li>
+<li><a href="/wiki/Metro_Donostialdea" title="Metro Donostialdea">San Sebastián</a></li>
+<li><a href="/wiki/Seville_Metro" title="Seville Metro">Seville</a></li>
+<li><a href="/wiki/Sofia_Metro" title="Sofia Metro">Sofia</a></li>
+<li><a href="/wiki/Stockholm_metro" title="Stockholm metro">Stockholm</a></li>
+<li><a href="/wiki/Thessaloniki_Metro" title="Thessaloniki Metro">Thessaloniki</a> (<i>under construction</i>)</li>
+<li><a href="/wiki/Tyne_and_Wear_Metro" title="Tyne and Wear Metro">Tyne and Wear</a></li>
+<li><a href="/wiki/Toulouse_Metro" title="Toulouse Metro">Toulouse</a></li>
+<li><a href="/wiki/Turin_Metro" title="Turin Metro">Turin</a></li>
+<li><a href="/wiki/Metrovalencia" title="Metrovalencia">Valencia</a></li>
+<li><a href="/wiki/Vienna_U-Bahn" title="Vienna U-Bahn">Vienna</a></li>
+<li><a href="/wiki/Warsaw_Metro" title="Warsaw Metro">Warsaw</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<p><span id="coordinates" class="metadata coord-missing"></span></p>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1218
+Cached time: 20170924045821
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.324 seconds
+Real time usage: 0.418 seconds
+Preprocessor visited node count: 1969/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 72130/2097152 bytes
+Template argument size: 3194/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 3/500
+Lua time usage: 0.128/10.000 seconds
+Lua memory usage: 5.64 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  308.373      1 -total
+ 41.05%  126.594      1 Template:Infobox_Public_transit
+ 36.66%  113.048      1 Template:Infobox
+ 21.17%   65.283      1 Template:Reflist
+ 16.69%   51.477      5 Template:Cite_web
+ 12.83%   39.566     12 Template:Convert
+ 12.42%   38.296      1 Template:Citation_needed
+ 11.17%   34.460      1 Template:Fix
+  7.58%   23.364      4 Template:Category_handler
+  7.13%   21.981      3 Template:Navbox
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4060824-0!canonical and timestamp 20170924045821 and revision id 798228623
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Nuremberg_U-Bahn&amp;oldid=798228623">https://en.wikipedia.org/w/index.php?title=Nuremberg_U-Bahn&amp;oldid=798228623</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Nuremberg_U-Bahn" title="Category:Nuremberg U-Bahn">Nuremberg U-Bahn</a></li><li><a href="/wiki/Category:Proposed_railway_lines_in_Germany" title="Category:Proposed railway lines in Germany">Proposed railway lines in Germany</a></li><li><a href="/wiki/Category:Underground_rapid_transit_in_Germany" title="Category:Underground rapid transit in Germany">Underground rapid transit in Germany</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2009" title="Category:Articles with unsourced statements from September 2009">Articles with unsourced statements from September 2009</a></li><li><a href="/wiki/Category:Articles_with_German-language_external_links" title="Category:Articles with German-language external links">Articles with German-language external links</a></li><li><a href="/wiki/Category:Germany_articles_missing_geocoordinate_data" title="Category:Germany articles missing geocoordinate data">Germany articles missing geocoordinate data</a></li><li><a href="/wiki/Category:All_articles_needing_coordinates" title="Category:All articles needing coordinates">All articles needing coordinates</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Nuremberg+U-Bahn" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Nuremberg+U-Bahn" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Nuremberg_U-Bahn" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Nuremberg_U-Bahn" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Nuremberg_U-Bahn">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Nuremberg_U-Bahn&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Nuremberg_U-Bahn&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Nuremberg_U-Bahn" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Nuremberg_U-Bahn" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Nuremberg_U-Bahn&amp;oldid=798228623" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Nuremberg_U-Bahn&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q697512" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Nuremberg_U-Bahn&amp;id=798228623" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Nuremberg+U-Bahn">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Nuremberg+U-Bahn&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DNuremberg%2BU-Bahn%26returnto%3DNuremberg%2BU-Bahn%26oldid%3D798228623%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Nuremberg_U-Bahn&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Nuremberg_U-Bahn" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Metro_v_Norimberku" title="Metro v Norimberku – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de badge-Q17437796 badge-featuredarticle" title="featured article"><a href="https://de.wikipedia.org/wiki/U-Bahn_N%C3%BCrnberg" title="U-Bahn Nürnberg – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Metro_de_N%C3%BAremberg" title="Metro de Núremberg – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Nurenbergeko_metroa" title="Nurenbergeko metroa – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%85%D8%AA%D8%B1%D9%88%DB%8C_%D9%86%D9%88%D8%B1%D9%86%D8%A8%D8%B1%DA%AF" title="متروی نورنبرگ – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/M%C3%A9tro_de_Nuremberg" title="Métro de Nuremberg – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%89%98%EB%A5%B8%EB%B2%A0%EB%A5%B4%ED%81%AC_%EC%A7%80%ED%95%98%EC%B2%A0" title="뉘른베르크 지하철 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Nuremberg_U-Bahn" title="Nuremberg U-Bahn – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Metropolitana_di_Norimberga" title="Metropolitana di Norimberga – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%9C%E1%83%98%E1%83%A3%E1%83%A0%E1%83%9C%E1%83%91%E1%83%94%E1%83%A0%E1%83%92%E1%83%98%E1%83%A1_%E1%83%9B%E1%83%94%E1%83%A2%E1%83%A0%E1%83%9D%E1%83%9E%E1%83%9D%E1%83%9A%E1%83%98%E1%83%A2%E1%83%94%E1%83%9C%E1%83%98" title="ნიურნბერგის მეტროპოლიტენი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Ferrivia_Subterranea_Norimbergae" title="Ferrivia Subterranea Norimbergae – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Niurnbergo_metropolitenas" title="Niurnbergo metropolitenas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/N%C3%BCrnbergi_metr%C3%B3" title="Nürnbergi metró – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Metro_van_Neurenberg" title="Metro van Neurenberg – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%AB%E3%83%B3%E3%83%99%E3%83%AB%E3%82%AF%E5%9C%B0%E4%B8%8B%E9%89%84" title="ニュルンベルク地下鉄 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/N%C3%BCrnbergs_undergrunnsbane" title="Nürnbergs undergrunnsbane – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-mhr"><a href="https://mhr.wikipedia.org/wiki/%D0%9D%D3%B1%D1%80%D0%BD%D0%B1%D0%B5%D1%80%D0%B3%D1%8B%D1%81%D0%B5_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD" title="Нӱрнбергысе метрополитен – Eastern Mari" lang="mhr" hreflang="mhr" class="interlanguage-link-target">Олык марий</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Metro_w_Norymberdze" title="Metro w Norymberdze – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9D%D1%8E%D1%80%D0%BD%D0%B1%D0%B5%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD" title="Нюрнбергский метрополитен – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Norimbersk%C3%A9_metro" title="Norimberské metro – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/N%C3%BCrnbergin_metro" title="Nürnbergin metro – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/N%C3%BCrnbergs_tunnelbana" title="Nürnbergs tunnelbana – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%96%E0%B9%84%E0%B8%9F%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%B7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B9%81%E0%B8%9A%E0%B8%A3%E0%B9%8C%E0%B8%81" title="รถไฟใต้ดินเนือร์นแบร์ก – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/N%C3%BCrnberg_metrosu" title="Nürnberg metrosu – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%B4%90%E5%80%AB%E5%A0%A1%E5%9C%B0%E9%90%B5" title="紐倫堡地鐵 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q697512#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 31 August 2017, at 17:59.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Nuremberg_U-Bahn&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.324","walltime":"0.418","ppvisitednodes":{"value":1969,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":72130,"limit":2097152},"templateargumentsize":{"value":3194,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  308.373      1 -total"," 41.05%  126.594      1 Template:Infobox_Public_transit"," 36.66%  113.048      1 Template:Infobox"," 21.17%   65.283      1 Template:Reflist"," 16.69%   51.477      5 Template:Cite_web"," 12.83%   39.566     12 Template:Convert"," 12.42%   38.296      1 Template:Citation_needed"," 11.17%   34.460      1 Template:Fix","  7.58%   23.364      4 Template:Category_handler","  7.13%   21.981      3 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.128","limit":"10.000"},"limitreport-memusage":{"value":5911433,"limit":52428800}},"cachereport":{"origin":"mw1218","timestamp":"20170924045821","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":510,"wgHostname":"mw1218"});});</script>
+	</body>
+</html>

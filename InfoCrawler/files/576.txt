@@ -1,0 +1,1487 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>University of Erlangen-Nuremberg - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"University_of_Erlangen-Nuremberg","wgTitle":"University of Erlangen-Nuremberg","wgCurRevisionId":799222713,"wgRevisionId":799222713,"wgArticleId":1776351,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Articles with a promotional tone from January 2017","All articles with a promotional tone","Articles needing additional references from February 2017","All articles needing additional references","Articles containing Latin-language text","Coordinates on Wikidata","Pages using deprecated image syntax","Articles containing German-language text","Articles to be expanded from February 2017","All articles to be expanded","Articles using small message boxes","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","University of Erlangen-Nuremberg","1742 establishments in the Holy Roman Empire","Educational institutions established in the 1740s","Universities in Germany","Universities and colleges in Bavaria","Education in Erlangen","Education in Nuremberg","Engineering universities and colleges in Germany"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"University_of_Erlangen-Nuremberg","wgRelevantArticleId":1776351,"wgRequestId":"WccePwpAAEEAAA3jmEsAAAAP","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":49.597916666667,"lon":11.004769444444},"wgWikibaseItemId":"Q40025","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Universitaet-Erlangen-Nuernberg-seal.svg/1200px-Universitaet-Erlangen-Nuernberg-seal.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/University_of_Erlangen-Nuremberg"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/University_of_Erlangen-Nuremberg"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-University_of_Erlangen-Nuremberg rootpage-University_of_Erlangen-Nuremberg skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">University of Erlangen-Nuremberg</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div>
+</td>
+<td class="mbox-text">
+<div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><span class="mbox-text-span"><b>This article has multiple issues.</b> Please help <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:University_of_Erlangen-Nuremberg" title="Talk:University of Erlangen-Nuremberg">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small></span>
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+<table class="plainlinks metadata ambox ambox-content ambox-Advert" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>contains content that is written like <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_soapbox_or_means_of_promotion" title="Wikipedia:What Wikipedia is not">an advertisement</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=edit">improve it</a> by removing <a href="/wiki/Wikipedia:Spam" title="Wikipedia:Spam">promotional content</a> and inappropriate <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a>, and by adding encyclopedic content written from a <a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">neutral point of view</a>.</span> <small><i>(January 2017)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(February 2017)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+</div>
+</div>
+<small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></td>
+</tr>
+</table>
+<table class="infobox vcard" style="width:22em">
+<caption class="fn org">Friedrich-Alexander University Erlangen-Nürnberg</caption>
+<tr>
+<td colspan="2" style="text-align:center"><span class="nickname" lang="de" xml:lang="de">Friedrich-Alexander-Universität Erlangen-Nürnberg</span></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Universitaet-Erlangen-Nuernberg-seal.svg" class="image"><img alt="Universitaet-Erlangen-Nuernberg-seal.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/0/09/Universitaet-Erlangen-Nuernberg-seal.svg/150px-Universitaet-Erlangen-Nuernberg-seal.svg.png" width="150" height="150" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/09/Universitaet-Erlangen-Nuernberg-seal.svg/225px-Universitaet-Erlangen-Nuernberg-seal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/09/Universitaet-Erlangen-Nuernberg-seal.svg/300px-Universitaet-Erlangen-Nuernberg-seal.svg.png 2x" data-file-width="200" data-file-height="200" /></a>
+<div>Friedrich-Alexander University seal</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="nickname" style="text-align:center"><a href="/wiki/Latin_language" class="mw-redirect" title="Latin language">Latin</a>: <span lang="la" xml:lang="la"><i>Universitas Friderici Alexandriae</i></span></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Former names</div>
+</th>
+<td class="nickname">Friedrich-Alexander-Universität Erlangen</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">Type</th>
+<td><a href="/wiki/Public_university" title="Public university">Public</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">Established</th>
+<td>1742 (first)<br />
+November&#160;4,&#160;1743<span style="display:none">&#160;(<span class="bday dtstart published updated">1743-11-04</span>)</span> (moved) <sup id="cite_ref-fau_his_1-0" class="reference"><a href="#cite_note-fau_his-1">[1]</a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">Budget</th>
+<td>€ 543.1 million<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;"><a href="/wiki/Chancellor_(education)" title="Chancellor (education)">Chancellor</a></th>
+<td>Christian Zens<sup id="cite_ref-fa123_4-0" class="reference"><a href="#cite_note-fa123-4">[4]</a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;"><a href="/wiki/University_president" class="mw-redirect" title="University president">President</a></th>
+<td><a href="/w/index.php?title=Joachim_Hornegger&amp;action=edit&amp;redlink=1" class="new" title="Joachim Hornegger (page does not exist)">Joachim Hornegger</a><sup id="cite_ref-fa123_4-1" class="reference"><a href="#cite_note-fa123-4">[4]</a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;"><span class="nowrap"><a href="/wiki/Dean_(education)" title="Dean (education)">Vice-president</a></span></th>
+<td>
+<div class="plainlist">
+<ul>
+<li>Prof. Dr. Antje Kley<br />
+<i>(Vice President for Education of Teachers and Diversity)</i></li>
+<li>Prof. Dr. Günter Leugering<br />
+<i>(Vice President for International Relations)</i></li>
+<li>Prof. Dr. Kathrin M. Möslein<br />
+<i>(Vice President for Research)</i></li>
+<li>Prof. Dr. Friedrich Paulsen<br />
+<i>(Vice President for Teaching)</i></li>
+</ul>
+</div>
+<sup id="cite_ref-fa123_4-2" class="reference"><a href="#cite_note-fa123-4">[4]</a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Academic staff</div>
+</th>
+<td>4,040<sup id="cite_ref-staff_5-0" class="reference"><a href="#cite_note-staff-5">[5]</a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Administrative staff</div>
+</th>
+<td>2,290<sup id="cite_ref-staff_5-1" class="reference"><a href="#cite_note-staff-5">[5]</a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">Students</th>
+<td>39,868<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">Location</th>
+<td class="adr"><span class="locality"><a href="/wiki/Erlangen" title="Erlangen">Erlangen</a> and <a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a></span>, <span class="state"><a href="/wiki/Bavaria" title="Bavaria">Bavaria</a></span>, <span class="country-name"><a href="/wiki/Germany" title="Germany">Germany</a></span><br />
+<span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=University_of_Erlangen-Nuremberg&amp;params=49_35_52.5_N_11_0_17.17_E_region:DE-BY_type:edu"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°35′52.5″N</span> <span class="longitude">11°0′17.17″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.597917°N 11.0047694°E</span><span style="display:none">﻿ / <span class="geo">49.597917; 11.0047694</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=University_of_Erlangen-Nuremberg&amp;params=49_35_52.5_N_11_0_17.17_E_region:DE-BY_type:edu"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°35′52.5″N</span> <span class="longitude">11°0′17.17″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.597917°N 11.0047694°E</span><span style="display:none">﻿ / <span class="geo">49.597917; 11.0047694</span></span></span></a></span></span></span></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">Campus</th>
+<td>Urban</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;"><a href="/wiki/School_colors" title="School colors">Colors</a></th>
+<td><span style="background-color:#003865; color:; border:1px solid #000000; text-align:center;">&#160;&#160;&#160;&#160;</span> <a href="/wiki/Blue_(color)" class="mw-redirect" title="Blue (color)">Blue</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">Affiliations</th>
+<td>Domestic:<br />
+1. <a rel="nofollow" class="external text" href="http://www.stmwfk.bayern.de/Start_en.aspx">Bavarian State Ministry for Science, Research and Art</a><br />
+2. <a href="/wiki/Deutsche_Forschungsgemeinschaft" title="Deutsche Forschungsgemeinschaft">DFG</a><br />
+3. <a href="/wiki/German_Excellence_Universities" class="mw-redirect" title="German Excellence Universities">Excellence Universities</a><br />
+International:<br />
+1.<a href="/wiki/Top_Industrial_Managers_for_Europe" title="Top Industrial Managers for Europe">Top Industrial Managers for Europe</a><br />
+2. <a href="/wiki/European_Society_for_Engineering_Education" title="European Society for Engineering Education">SEFI</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">Website</th>
+<td><span class="url"><a rel="nofollow" class="external text" href="http://fau.eu/">fau.eu</a></span></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Friedrich-Alexander-Universit%C3%A4t_Erlangen-N%C3%BCrnberg_logo.svg" class="image"><img alt="Logo of the Universität of Erlangen-Nürnberg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Friedrich-Alexander-Universit%C3%A4t_Erlangen-N%C3%BCrnberg_logo.svg/285px-Friedrich-Alexander-Universit%C3%A4t_Erlangen-N%C3%BCrnberg_logo.svg.png" width="285" height="58" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Friedrich-Alexander-Universit%C3%A4t_Erlangen-N%C3%BCrnberg_logo.svg/428px-Friedrich-Alexander-Universit%C3%A4t_Erlangen-N%C3%BCrnberg_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Friedrich-Alexander-Universit%C3%A4t_Erlangen-N%C3%BCrnberg_logo.svg/570px-Friedrich-Alexander-Universit%C3%A4t_Erlangen-N%C3%BCrnberg_logo.svg.png 2x" data-file-width="1024" data-file-height="210" /></a></td>
+</tr>
+</table>
+<p><b>Friedrich-Alexander University Erlangen-Nürnberg</b> (<a href="/wiki/German_language" title="German language">German</a>: <span lang="de" xml:lang="de"><i>Friedrich-Alexander-Universität Erlangen-Nürnberg</i></span>, <b>FAU</b>) is a <a href="/wiki/Public_University" class="mw-redirect" title="Public University">public</a> research university in the cities of <a href="/wiki/Erlangen" title="Erlangen">Erlangen</a> and <a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a> in <a href="/wiki/Bavaria" title="Bavaria">Bavaria</a>, <a href="/wiki/Germany" title="Germany">Germany</a>. The name <b>Friedrich-Alexander</b> comes from the university's first founder <a href="/wiki/Frederick,_Margrave_of_Brandenburg-Bayreuth" title="Frederick, Margrave of Brandenburg-Bayreuth">Friedrich, Margrave of Brandenburg-Bayreuth</a>, and its benefactor <a href="/wiki/Christian_Frederick_Charles_Alexander,_Margrave_of_Brandenburg-Ansbach" class="mw-redirect" title="Christian Frederick Charles Alexander, Margrave of Brandenburg-Ansbach">Christian Frederick Charles Alexander, Margrave of Brandenburg-Ansbach</a>.<sup id="cite_ref-fau_his_1-1" class="reference"><a href="#cite_note-fau_his-1">[1]</a></sup></p>
+<p>FAU is the second largest state university in the state <a href="/wiki/Bavaria" title="Bavaria">Bavaria</a>. It has 5 faculties, 23 departments/schools, 30 clinical departments, 19 autonomous departments, 656 professors, 3,404 members of academic staff and roughly 13,000 employees.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<p>In winter semester 2014/15 around 39,085 students (including 3,556 foreign students) enrolled in the university in 239 fields of study, with about 2/3 studying at the Erlangen campus and the remaining 1/3 at the Nuremberg campus. These statistics put FAU in the list of top 10 largest universities in Germany.<sup id="cite_ref-fau-data_8-0" class="reference"><a href="#cite_note-fau-data-8">[8]</a></sup>In 2013, 5251 students graduated from the university and 663 doctorates and 50 post-doctoral theses were registered. Moreover, FAU received 171 million Euro (2013) external funding in the same year, making it one of the strongest third-party funded universities in Germany.<sup id="cite_ref-fau-data_8-1" class="reference"><a href="#cite_note-fau-data-8">[8]</a></sup></p>
+<p>In 2006 and 2007, as part of the national excellence initiative, FAU was chosen by the <a href="/wiki/Deutsche_Forschungsgemeinschaft" title="Deutsche Forschungsgemeinschaft">German Research Foundation</a> as one of the winners in the <a href="/wiki/German_Universities_Excellence_Initiative" title="German Universities Excellence Initiative">German Universities Excellence Initiative</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> FAU is also a member of DFG (<a href="/wiki/Deutsche_Forschungsgemeinschaft" title="Deutsche Forschungsgemeinschaft">Deutsche Forschungsgemeinschaft</a>)<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> and the <a href="/wiki/Top_Industrial_Managers_for_Europe" title="Top Industrial Managers for Europe">Top Industrial Managers for Europe</a><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> network.</p>
+<p>In <a href="/wiki/Academic_Ranking_of_World_Universities" title="Academic Ranking of World Universities">Academic Ranking of World Universities</a> for year 2014, FAU ranked second among German universities in Engineering/Technology and Computer Sciences group for all four ranking parameters <i>TOP</i>, <i>FUN</i>, <i>HiCi</i> and <i>PUB</i>.<sup id="cite_ref-fau-ranking3_12-0" class="reference"><a href="#cite_note-fau-ranking3-12">[12]</a></sup><sup id="cite_ref-fau-ranking2_13-0" class="reference"><a href="#cite_note-fau-ranking2-13">[13]</a></sup><sup id="cite_ref-fau-ranking1_14-0" class="reference"><a href="#cite_note-fau-ranking1-14">[14]</a></sup><sup id="cite_ref-shanghairanking.com_15-0" class="reference"><a href="#cite_note-shanghairanking.com-15">[15]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Timeline"><span class="tocnumber">1.1</span> <span class="toctext">Timeline</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Campuses"><span class="tocnumber">2</span> <span class="toctext">Campuses</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#FAU_Busan_campus"><span class="tocnumber">2.1</span> <span class="toctext">FAU Busan campus</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Library"><span class="tocnumber">2.2</span> <span class="toctext">Library</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Faculties"><span class="tocnumber">3</span> <span class="toctext">Faculties</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Faculty_of_Engineering"><span class="tocnumber">3.1</span> <span class="toctext">Faculty of Engineering</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#Inception"><span class="tocnumber">3.1.1</span> <span class="toctext">Inception</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Present_status"><span class="tocnumber">3.1.2</span> <span class="toctext">Present status</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Research"><span class="tocnumber">4</span> <span class="toctext">Research</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Major_research_areas"><span class="tocnumber">4.1</span> <span class="toctext">Major research areas</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Excellence_initiative"><span class="tocnumber">4.2</span> <span class="toctext">Excellence initiative</span></a>
+<ul>
+<li class="toclevel-3 tocsection-13"><a href="#Cluster_of_Excellence_.27Engineering_of_Advanced_Materials"><span class="tocnumber">4.2.1</span> <span class="toctext">Cluster of Excellence 'Engineering of Advanced Materials</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#Erlangen_Graduate_School_in_Advanced_Optical_Technologies"><span class="tocnumber">4.2.2</span> <span class="toctext">Erlangen Graduate School in Advanced Optical Technologies</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-15"><a href="#Research_institutions"><span class="tocnumber">4.3</span> <span class="toctext">Research institutions</span></a>
+<ul>
+<li class="toclevel-3 tocsection-16"><a href="#Central_institutions"><span class="tocnumber">4.3.1</span> <span class="toctext">Central institutions</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="#Interdisciplinary_centers"><span class="tocnumber">4.3.2</span> <span class="toctext">Interdisciplinary centers</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="#Research_centers_and_centers_of_excellence"><span class="tocnumber">4.3.3</span> <span class="toctext">Research centers and centers of excellence</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#Partnerships"><span class="tocnumber">5</span> <span class="toctext">Partnerships</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#Academic_ranking"><span class="tocnumber">6</span> <span class="toctext">Academic ranking</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#Awards"><span class="tocnumber">7</span> <span class="toctext">Awards</span></a>
+<ul>
+<li class="toclevel-2 tocsection-22"><a href="#Alexander_von_Humboldt_Professorships"><span class="tocnumber">7.1</span> <span class="toctext">Alexander von Humboldt Professorships</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#German_Excellence_Initiative"><span class="tocnumber">7.2</span> <span class="toctext">German Excellence Initiative</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-24"><a href="#Notable_alumni_and_professors"><span class="tocnumber">8</span> <span class="toctext">Notable alumni and professors</span></a></li>
+<li class="toclevel-1 tocsection-25"><a href="#Gallery"><span class="tocnumber">9</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-26"><a href="#Points_of_interest"><span class="tocnumber">10</span> <span class="toctext">Points of interest</span></a></li>
+<li class="toclevel-1 tocsection-27"><a href="#See_also"><span class="tocnumber">11</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-28"><a href="#References"><span class="tocnumber">12</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-29"><a href="#External_links"><span class="tocnumber">13</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Friedrich_von_Brandenburg-Bayreuth.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Friedrich_von_Brandenburg-Bayreuth.jpg/220px-Friedrich_von_Brandenburg-Bayreuth.jpg" width="220" height="270" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Friedrich_von_Brandenburg-Bayreuth.jpg/330px-Friedrich_von_Brandenburg-Bayreuth.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/7/70/Friedrich_von_Brandenburg-Bayreuth.jpg 2x" data-file-width="412" data-file-height="506" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Friedrich_von_Brandenburg-Bayreuth.jpg" class="internal" title="Enlarge"></a></div>
+Frederick, Margrave of Brandenburg-Bayreuth, founder of FAU</div>
+</div>
+</div>
+<p>The university was founded in 1742, in <a href="/wiki/Bayreuth" title="Bayreuth">Bayreuth</a> by <a href="/wiki/Frederick,_Margrave_of_Brandenburg-Bayreuth" title="Frederick, Margrave of Brandenburg-Bayreuth">Frederick, Margrave of Brandenburg-Bayreuth</a>, and moved to Erlangen in 1743. <a href="/wiki/Christian_Frederick_Charles_Alexander,_Margrave_of_Brandenburg-Ansbach" class="mw-redirect" title="Christian Frederick Charles Alexander, Margrave of Brandenburg-Ansbach">Christian Frederick Charles Alexander, Margrave of Brandenburg-Ansbach</a> (one of the two namesakes of the institution) provided significant support to the early university. From the beginning, the university was a <a href="/wiki/Protestant" class="mw-redirect" title="Protestant">Protestant</a> institution, but over time it slowly secularized. During the <a href="/wiki/Nazi_Germany" title="Nazi Germany">Nazi era</a>, the university was one of the first that had a majority of <a href="/wiki/Nazi_Party" title="Nazi Party">Nazi supporters</a> in the student council. In 1961, the business college in Nuremberg was merged with the university in Erlangen, so now the combined institution has a physical presence in the two cities. An engineering school was inaugurated in 1966. In 1972, the school of education (<a href="/wiki/Normal_school" title="Normal school">normal school</a>) in Nuremberg became part of the university.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Schloss-Erlangen02.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Schloss-Erlangen02.JPG/220px-Schloss-Erlangen02.JPG" width="220" height="151" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Schloss-Erlangen02.JPG/330px-Schloss-Erlangen02.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Schloss-Erlangen02.JPG/440px-Schloss-Erlangen02.JPG 2x" data-file-width="3718" data-file-height="2545" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Schloss-Erlangen02.JPG" class="internal" title="Enlarge"></a></div>
+Schloss Erlangen</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Erlangen_Schloss.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Erlangen_Schloss.jpg/220px-Erlangen_Schloss.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Erlangen_Schloss.jpg/330px-Erlangen_Schloss.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/Erlangen_Schloss.jpg/440px-Erlangen_Schloss.jpg 2x" data-file-width="768" data-file-height="576" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Erlangen_Schloss.jpg" class="internal" title="Enlarge"></a></div>
+The castle in the center of Erlangen, known to many simply as the <i>Schloss</i>, is home to a large part of the university's administration</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Timeline">Timeline</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=edit&amp;section=2" title="Edit section: Timeline">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Below is a short timeline of FAU from its inception to its present form:</p>
+<ul>
+<li>1700–1704: The Schloss of the Margraves at Erlangen is built.</li>
+<li>1743: Friedrich, Margrave of Brandenburg-Bayreuth, issues an edict whereby the university recently founded in Bayreuth is transferred to Erlangen. It has the four faculties of Protestant Theology, Jurisprudence, Medicine and Philosophy.</li>
+<li>1769: The University at Erlangen is given the new name of <i>Friedrich-Alexander-Universität</i> in honour of Alexander, Margrave of Ansbach and Bayreuth.</li>
+<li>1818: The library of the University of Altdorf, dissolved in 1809, is moved to Erlangen.</li>
+<li>1824: The first hospital is built.</li>
+<li>1825: The university moves into the Schloss.</li>
+<li>1927: Science is taken out of the Faculty of Arts thus creating the new Faculty of Science.</li>
+<li>1961: The FAU acquires a further faculty through merger with the Nuremberg College of Economics and Social Sciences (founded in 1919). The university's name is now <i>Friedrich-Alexander Universität Erlangen-Nürnberg</i>.</li>
+<li>1966: The Faculty of Engineering is established. (FAU is thus the first of the traditional universities of the old federal republic to incorporate engineering as an independent faculty.)</li>
+<li>1972: The Teacher Training College in Nuremberg is incorporated into the Faculty of Education.</li>
+<li>1993: The FAU celebrates its 250th anniversary.</li>
+<li>1994: The Free State of Bavaria purchases for the university 4.4 hectares of land in Erlangen previously owned by the US military. The area is now called <i>Röthelheim Campus</i>.</li>
+<li>1995: The WiSo Faculty (Business Administration, Economics &amp; Social Sciences) celebrates its 75th anniversary.</li>
+<li>2000: The Bavaria-California Technology Centre opens its headquarters at the University of Erlangen-Nürnberg.</li>
+<li>2000: Inauguration of the Research Centre in Clinical Molecular Biology in Erlangen.</li>
+<li>2001: Opening of the <i>Röthelheim Campus</i> on the site of the old artillery barracks.</li>
+<li>2004: Inauguration of the new building at the WiSo Faculty of Business Administration, Economics &amp; Social Sciences in Nuremberg.</li>
+</ul>
+<h2><span class="mw-headline" id="Campuses">Campuses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=edit&amp;section=3" title="Edit section: Campuses">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="FAU_Busan_campus">FAU Busan campus</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=edit&amp;section=4" title="Edit section: FAU Busan campus">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>FAU is the first German university to establish a branch campus in <a href="/wiki/Busan" title="Busan">Busan</a> in the <a href="/wiki/Republic_of_Korea" class="mw-redirect" title="Republic of Korea">Republic of Korea</a>. In November 2009, its campus project received approval from the Korean Ministry of Education, Science and Technology. The FAU Busan Branch Campus offers a Graduate School with a master's degree program in Chemical and Bioengineering and a research center.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></p>
+<p>In 2014, the university announced its intention of working toward making the <a href="/wiki/Korean_Free_Economic_Zone" title="Korean Free Economic Zone">Busan-Jinhae Free Economic Zone</a> an educational hub. To this end, FAU Busan works internationally with various companies and universities.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></p>
+<h3><span class="mw-headline" id="Library">Library</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=edit&amp;section=5" title="Edit section: Library">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="plainlinks metadata ambox mbox-small-left ambox-content" role="presentation">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Wiki_letter_w_cropped.svg" class="image"><img alt="[icon]" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" data-file-width="44" data-file-height="31" /></a></td>
+<td class="mbox-text"><span class="mbox-text-span"><b>This section needs expansion</b>. <small>You can help by <a class="external text" href="//en.wikipedia.org/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=edit&amp;section=">adding to it</a>.</small> <small><i>(February 2017)</i></small></span></td>
+</tr>
+</table>
+<p>The University Library Erlangen-Nürnberg is the library system of the Friedrich Alexander University and is a regional library for the region of Middle Franconia. As an academic universal library, it offers its users a wide range of specialist literature from all faculties and a variety of services. With approximately 5.4 million volumes, it is Bavaria's largest library outside the state capital Munich. Large parts of the media stock are also accessible in interregional lending. The University Library is a member of the Bibliotheksverbund Bayern (Bavarian library union).</p>
+<h2><span class="mw-headline" id="Faculties">Faculties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=edit&amp;section=6" title="Edit section: Faculties">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Kollegienhaus_universitaet-erlangen.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kollegienhaus_universitaet-erlangen.jpg/220px-Kollegienhaus_universitaet-erlangen.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kollegienhaus_universitaet-erlangen.jpg/330px-Kollegienhaus_universitaet-erlangen.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kollegienhaus_universitaet-erlangen.jpg/440px-Kollegienhaus_universitaet-erlangen.jpg 2x" data-file-width="2816" data-file-height="2112" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Kollegienhaus_universitaet-erlangen.jpg" class="internal" title="Enlarge"></a></div>
+The <i>Kollegienhaus</i>, the historical central building and lecture hall of the University at the borders of the <i>Schlossgarten</i></div>
+</div>
+</div>
+<p>In February 2007, the senate of the university decided upon a restructuring into five faculties.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> Since October 2007, the FAU consists of:<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></p>
+<ul>
+<li>Faculty of <a href="/wiki/Humanities" title="Humanities">Humanities</a>, <a href="/wiki/Social_science" title="Social science">Social Sciences</a>, and <a href="/wiki/Theology" title="Theology">Theology</a></li>
+<li>Faculty of <a href="/wiki/Business" title="Business">Business</a>, <a href="/wiki/Economics" title="Economics">Economics</a>, and <a href="/wiki/Law" title="Law">Law</a></li>
+<li>Faculty of <a href="/wiki/Medicine" title="Medicine">Medicine</a></li>
+<li>Faculty of <a href="/wiki/Science" title="Science">Sciences</a></li>
+<li>Faculty of <a href="/wiki/Engineering" title="Engineering">Engineering</a></li>
+</ul>
+<p>The following faculties were part of the university (sorted in the order in which they were founded):</p>
+<ul>
+<li>Theological faculty</li>
+<li>Law faculty</li>
+<li>Medical faculty</li>
+<li>Philosophical faculty I (<a href="/wiki/Philosophy" title="Philosophy">philosophy</a>, <a href="/wiki/History" title="History">history</a>, and <a href="/wiki/Social_sciences" class="mw-redirect" title="Social sciences">social sciences</a>)</li>
+<li>Philosophical Faculty II (languages and literature)</li>
+<li>Science faculty I (<a href="/wiki/Mathematics" title="Mathematics">mathematics</a> and <a href="/wiki/Physics" title="Physics">physics</a>)</li>
+<li>Science faculty II (<a href="/wiki/Biology" title="Biology">biology</a>, <a href="/wiki/Chemistry" title="Chemistry">chemistry</a>, and <a href="/wiki/Pharmaceutics" title="Pharmaceutics">pharmaceutics</a>)</li>
+<li>Science faculty III (<a href="/wiki/Geography" title="Geography">geography</a>, <a href="/wiki/Geology" title="Geology">geology</a>/<a href="/wiki/Mineralogy" title="Mineralogy">mineralogy</a>/<a href="/wiki/Paleontology" title="Paleontology">paleontology</a>)</li>
+<li><a href="https://de.wikipedia.org/wiki/Wirtschafts-_und_Sozialwissenschaftliche_Fakult%C3%A4t_der_Friedrich-Alexander-Universit%C3%A4t_Erlangen-N%C3%BCrnberg" class="extiw" title="de:Wirtschafts- und Sozialwissenschaftliche Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg">Business- and social sciences faculty (1961) in Nuremberg</a></li>
+<li>Technical Faculty (1966)</li>
+<li>Pedagogical faculty (1972) in Nuremberg</li>
+</ul>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Uk_erlangen.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Uk_erlangen.svg/220px-Uk_erlangen.svg.png" width="220" height="55" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Uk_erlangen.svg/330px-Uk_erlangen.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Uk_erlangen.svg/440px-Uk_erlangen.svg.png 2x" data-file-width="200" data-file-height="50" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Uk_erlangen.svg" class="internal" title="Enlarge"></a></div>
+Logo of the University Hospital</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Alte-universitaets-bibliothek_universitaet-erlangen.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Alte-universitaets-bibliothek_universitaet-erlangen.jpg/220px-Alte-universitaets-bibliothek_universitaet-erlangen.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Alte-universitaets-bibliothek_universitaet-erlangen.jpg/330px-Alte-universitaets-bibliothek_universitaet-erlangen.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Alte-universitaets-bibliothek_universitaet-erlangen.jpg/440px-Alte-universitaets-bibliothek_universitaet-erlangen.jpg 2x" data-file-width="2816" data-file-height="2112" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Alte-universitaets-bibliothek_universitaet-erlangen.jpg" class="internal" title="Enlarge"></a></div>
+Old University Library <i>(Erlangen)</i></div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Faculty_of_Engineering">Faculty of Engineering</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=edit&amp;section=7" title="Edit section: Faculty of Engineering">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Inception">Inception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=edit&amp;section=8" title="Edit section: Inception">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In 1962, after lengthy debate, the <a href="/wiki/Landtag_of_Bavaria" title="Landtag of Bavaria">Bavarian parliament</a> decided to establish a Faculty of Engineering in Erlangen. Then, the University of Erlangen thus won out against the city of Nuremberg, which, for decades, had been demanding the establishment of a college of engineering in Nuremberg. Since the expansive areas of building land required for this project were not available in the center of Erlangen, the foundations for a new university campus were laid in the south east of the town in 1964. The formal establishment of the Faculty of Engineering, then the seventh faculty at the University, took place in 1966. What was unique at the time was that the various engineering departments were subsumed, as a faculty, into the main university rather than constituting an independent university.<sup id="cite_ref-fau_his_1-2" class="reference"><a href="#cite_note-fau_his-1">[1]</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></p>
+<h4><span class="mw-headline" id="Present_status">Present status</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=edit&amp;section=9" title="Edit section: Present status">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The Faculty of Engineering at FAU is a young educational and research institution. Since its foundation in 1966. The Faculty has five departments:</p>
+<ul>
+<li>Electrical, Electronic and Communication Engineering</li>
+<li>Chemical and Biological Engineering</li>
+<li>Materials Science and Engineering (This Department was ranked at 10th best in the world according to the Quantitative Ranking of Engineering Disciplines (QRED).)<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></li>
+<li>Mechanical Engineering</li>
+<li>Computer Science</li>
+</ul>
+<p>The Faculty has close connections both with other natural sciences and with traditional subjects at the university. The Faculty of Engineering currently concentrates on the following research fields:</p>
+<ul>
+<li>New Materials and Processes</li>
+<li>Life Science Engineering and Medicine Technology</li>
+<li>Energy Technology and Mobility</li>
+<li>Modeling and Simulation</li>
+<li>Optics and Optical Technologies</li>
+<li>Information- and Communication Technologies</li>
+<li>Micro-/Nano-electronics</li>
+</ul>
+<h2><span class="mw-headline" id="Research">Research</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=edit&amp;section=10" title="Edit section: Research">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></p>
+<h3><span class="mw-headline" id="Major_research_areas">Major research areas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=edit&amp;section=11" title="Edit section: Major research areas">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>FAU claims leadership in a number of research topics. The current eight such major research areas are:<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></p>
+<ul>
+<li>New Materials and Processes</li>
+<li>Optics and Optical Technologies</li>
+<li>Molecular Life Science and Medicine</li>
+<li>Health Technology</li>
+<li>Electronics, Information and Communication</li>
+<li>Energy, Environment and Climate</li>
+<li>Language - Culture - Region</li>
+<li>Cohesion – Transformation – Innovation in Law and Economics</li>
+</ul>
+<h3><span class="mw-headline" id="Excellence_initiative">Excellence initiative</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=edit&amp;section=12" title="Edit section: Excellence initiative">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> The Excellence Initiative by the German federal and state governments to promote science and research at German universities aims to promote cutting-edge research and to strengthen the higher education and research in Germany to improve its international competitiveness and to make top performers in academia and science visible. As part of this initiative, FAU was awarded the contract for the Erlangen Graduate School in Advanced Optical Technologies (SAOT), which received 1.9 million euros of annual funding for the next five years. The Cluster of Excellence 'Engineering of Advanced Materials and Processes' (EAM) was also established at FAU as part of the initiative and has been approved in the second round. EAM is funded with 40 million euros.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup></p>
+<h4><span id="Cluster_of_Excellence_'Engineering_of_Advanced_Materials"></span><span class="mw-headline" id="Cluster_of_Excellence_.27Engineering_of_Advanced_Materials">Cluster of Excellence 'Engineering of Advanced Materials</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=edit&amp;section=13" title="Edit section: Cluster of Excellence 'Engineering of Advanced Materials">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup><sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup> The Cluster of Excellence 'Engineering of Advanced Materials – Hierarchical Structure Formation for Functional Devices' (EAM) is the only interdisciplinary research collaboration of its type in Germany to focus on the investigation of functional materials and their processing at all length scales. The main research focus is on the fundamental and applied aspects of designing and creating novel high-performance materials. It is part of the Excellence Initiative of the <a href="/wiki/German_Research_Foundation" class="mw-redirect" title="German Research Foundation">German Research Foundation</a>.</p>
+<h4><span class="mw-headline" id="Erlangen_Graduate_School_in_Advanced_Optical_Technologies">Erlangen Graduate School in Advanced Optical Technologies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=edit&amp;section=14" title="Edit section: Erlangen Graduate School in Advanced Optical Technologies">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup> The Erlangen Graduate School in Advanced Optical Technologies (SAOT) was founded in 2006. SAOT’s scientific focus lies on optics and optical technology, two fields which are considered key technologies of the 21st century. SAOT is currently funded with seven million euros.</p>
+<h3><span class="mw-headline" id="Research_institutions">Research institutions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=edit&amp;section=15" title="Edit section: Research institutions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Central_institutions">Central institutions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=edit&amp;section=16" title="Edit section: Central institutions">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup></p>
+<div class="NavFrame collapsed" style="border:none;border:1px; width: 36%;">
+<div class="NavHead" style="background:transparent;text-align:center;background: #dcdcdc; font-size: 110%;">Central institutions&#160;</div>
+<div class="NavContent" style="background:transparent;text-align:left;text-align:left; background: #f5f5f5;">
+<ul>
+<li>Cluster of Excellence 'Engineering of Advanced Materials' (EAM)</li>
+<li>Erlangen Graduate School in Advanced Optical Technologies</li>
+<li>Bavaria California Technology Center (BaCaTeC)</li>
+<li>Central Institute for Research on Teaching and Learning (ZiLL)</li>
+<li>Institute of Advanced Materials and Processes (ZMP)</li>
+<li>Center for Area Studies</li>
+<li>Center for Teacher Education</li>
+<li>Center for Applied Ethics and Science Communication</li>
+<li>FAU Graduate School</li>
+<li>Bavarian Academic Center for Latin America (BayLat)</li>
+<li>FAU Campus Busan</li>
+<li>Central Institute of Healthcare Engineering (ZIMT)</li>
+<li>Center ofor Scientific Computing (ZISC)</li>
+<li>Central Institute for Anthropology of Religion(s) (ZAR)</li>
+</ul>
+</div>
+</div>
+<h4><span class="mw-headline" id="Interdisciplinary_centers">Interdisciplinary centers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=edit&amp;section=17" title="Edit section: Interdisciplinary centers">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup></p>
+<div class="NavFrame collapsed" style="border:none;border:1px; width: 36%;">
+<div class="NavHead" style="background:transparent;text-align:center;background: #dcdcdc; font-size: 110%;">Interdisciplinary centers&#160;</div>
+<div class="NavContent" style="background:transparent;text-align:left;text-align:left; background: #f5f5f5;">
+<ul>
+<li>Interdisciplinary Center for Digital Humanities and Social Sciences</li>
+<li>Interdisciplinary Center for Public Health</li>
+<li>Interdisciplinary Media Research Center</li>
+<li>Interdisciplinary Center for Islamic Religious Studies</li>
+<li>Interdisciplinary Center for Gerontology</li>
+<li>Interdisciplinary Center for Dialects and Language Variation (IZD)</li>
+<li>Interdisciplinary Center Old World</li>
+<li>Interdisciplinary Center for European Medieval and Renaissance Studies (IZEMIR)</li>
+<li>Interdisciplinary Center for Clinical Research (IZKF)</li>
+<li>Interdisciplinary Center Aesthetic Education</li>
+<li>Emmy-Noether Center for lgebra representation theory with emphasis</li>
+<li>Interdisciplinary Center Literature and Contemporary Culture</li>
+<li>Interdisciplinary Center Embedded Systems (ESI Embedded Systems Institute)</li>
+<li>Interdisciplinary Center for ophthalmic Preventive Medicine and Imaging</li>
+<li>Interdisciplinary Center Erlangen Catalysis Resource Center (ECRC)</li>
+<li>Interdisciplinary Center for Science Edition</li>
+<li>Interdisciplinary Center for Neurosciences (IZN)</li>
+<li>Interdisciplinary Center for Research on Lexicography, Valency and Collocation</li>
+<li>Interdisciplinary Center for Interface-Controlled Processes (IC-ICP)</li>
+<li>Erlangen Center of Plant Science (ECROPS)</li>
+<li>Interdisciplinary Center for Molecular Materials</li>
+<li>The Labor and Socio-Economic Research Center (LASER)</li>
+<li>Emil Fischer Center</li>
+<li>Medical Immunology Campus Erlangen (MICE)</li>
+<li>Erlangen Center for Infection Research (ECI)</li>
+</ul>
+</div>
+</div>
+<h4><span class="mw-headline" id="Research_centers_and_centers_of_excellence">Research centers and centers of excellence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=edit&amp;section=18" title="Edit section: Research centers and centers of excellence">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup></p>
+<div class="NavFrame collapsed" style="border:none;border:1px; width: 36%;">
+<div class="NavHead" style="background:transparent;text-align:center;background: #dcdcdc; font-size: 110%;">Research centers &amp; centers of excellence&#160;</div>
+<div class="NavContent" style="background:transparent;text-align:left;text-align:left; background: #f5f5f5;">
+<ul>
+<li>Engineering of Advanced Materials (Cluster of Excellence)</li>
+<li>Erlangen Graduate School in Advanced Optical Technologies</li>
+<li>Transfer Centre for Research and Development in Electronic Production (FOWEP)</li>
+<li>Cluster mechatronik &amp; automation</li>
+<li>Bavarian Lasercenter (BLZ)</li>
+<li>Bavarian Center for Applied Energy Research (ZAE Bayern)</li>
+<li>Fraunhofer Institute for Integrated Circuits (IIS)</li>
+<li>Fraunhofer Institute for Integrated Systems and Device Technology (IISB)</li>
+<li>Research Association for Molded Interconnect Devices 3-D MID e.V.</li>
+<li>FAU Ingolstadt Institute</li>
+<li>Department of European Commercial Law</li>
+<li>Interdisciplinary Center for Clinical Research (IZKF)</li>
+<li>Center of Excellence New Materials</li>
+</ul>
+</div>
+</div>
+<h2><span class="mw-headline" id="Partnerships">Partnerships</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=edit&amp;section=19" title="Edit section: Partnerships">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>FAU is the first German university to establish a branch campus in Busan in the Republic of Korea. FAU has contacts with approximately 500 universities all over the world, including many of the world's top universities like the <a href="/wiki/University_of_Cambridge" title="University of Cambridge">University of Cambridge</a>, <a href="/wiki/Duke_University" title="Duke University">Duke University</a>, <a href="/wiki/University_College_London" title="University College London">UCL</a>, <a href="/wiki/Imperial_College_London" title="Imperial College London">Imperial College London</a> and many more.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup></p>
+<h2><span class="mw-headline" id="Academic_ranking">Academic ranking</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=edit&amp;section=20" title="Edit section: Academic ranking">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="infobox vcard" style="width: 18em">
+<tr>
+<th colspan="2" class="n" style="text-align: center; font-size: 125%"><span class="fn"><a href="/wiki/College_and_university_rankings" title="College and university rankings">University rankings</a></span></th>
+</tr>
+<tr>
+<th colspan="2" style="background-color: lavender; text-align: center">Global</th>
+</tr>
+<tr>
+<th><i><a href="/wiki/Academic_Ranking_of_World_Universities" title="Academic Ranking of World Universities">ARWU</a></i><sup id="cite_ref-Rankings_ARWU_W_36-0" class="reference"><a href="#cite_note-Rankings_ARWU_W-36">[36]</a></sup></th>
+<td>151-200</td>
+</tr>
+<tr>
+<th><i><a href="/wiki/Times_Higher_Education_World_University_Rankings" title="Times Higher Education World University Rankings">Times</a></i><sup id="cite_ref-Rankings_THE_W_37-0" class="reference"><a href="#cite_note-Rankings_THE_W-37">[37]</a></sup></th>
+<td>160</td>
+</tr>
+<tr>
+<th><i><a href="/wiki/QS_World_University_Rankings" title="QS World University Rankings">QS</a></i><sup id="cite_ref-Rankings_QS_W_38-0" class="reference"><a href="#cite_note-Rankings_QS_W-38">[38]</a></sup></th>
+<td>=272</td>
+</tr>
+</table>
+<p>Overall world academic ranking of the university published by <a href="/wiki/Academic_Ranking_of_World_Universities" title="Academic Ranking of World Universities">Academic Ranking of World Universities</a>,<sup id="cite_ref-shanghairanking1_39-0" class="reference"><a href="#cite_note-shanghairanking1-39">[39]</a></sup></p>
+<h2><span class="mw-headline" id="Awards">Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=edit&amp;section=21" title="Edit section: Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Alexander_von_Humboldt_Professorships">Alexander von Humboldt Professorships</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=edit&amp;section=22" title="Edit section: Alexander von Humboldt Professorships">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2010, the newly announced professor of physics and co-director of the <a href="/wiki/Max_Planck_Institute_for_the_Science_of_Light" title="Max Planck Institute for the Science of Light">Max Planck Institute for the Science of Light</a>, Prof. Vahid Sandoghdar was awarded an <a href="/wiki/Alexander_von_Humboldt_Foundation" title="Alexander von Humboldt Foundation">Alexander von Humboldt Professorship</a>,<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup> Germany’s highest-endowed international research award, endowed with €3.5 million. In the year 2011, the second in a row, FAU communications engineer and researcher Prof. Dr.-Ing Robert Schober (born 1971) was awarded an <a href="/wiki/Alexander_von_Humboldt_Foundation" title="Alexander von Humboldt Foundation">Alexander von Humboldt Professorship</a>, entailed with €3.5 million,<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup><sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup><sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[43]</a></sup> for an algorithm developed by him which is found in many modern phones today. In 2013, Prof. Oskar Painter received an Alexander von Humboldt Professorship as well. Prof. Painter is another new co-director of the <a href="/wiki/Max_Planck_Institute_for_the_Science_of_Light" title="Max Planck Institute for the Science of Light">Max Planck Institute for the Science of Light</a>.</p>
+<h3><span class="mw-headline" id="German_Excellence_Initiative">German Excellence Initiative</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=edit&amp;section=23" title="Edit section: German Excellence Initiative">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The University of Erlangen-Nürnberg was successful within the <a href="/wiki/German_Universities_Excellence_Initiative" title="German Universities Excellence Initiative">German Universities Excellence Initiative</a> in competing for a "cluster of excellence" and a graduate school.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup> The Cluster of Excellence 'Engineering of Advanced Materials' (EAM)" focuses on interdisciplinary developing new materials, joining engineering and natural sciences. The Erlangen Graduate School in Advanced Optical Technologies emphasizes a strong focus in <a href="/wiki/Optics" title="Optics">optical</a> and <a href="/wiki/Photonics" title="Photonics">photonics</a> technology in the natural sciences, in engineering and the medical sciences and aims for a concise doctoral education. It is supplemented with a Master's degree program in the same topics.</p>
+<p>After an in-depth evaluation, both programs were extended for the third phase of the German Excellence Initiative in 2012 until 2017. They contribute significantly to the research funding of the University, including five new research buildings, permanent new technical facilities and research and teaching staff. They also aim to increase the international perception of the contributing fields of research in Erlangen.</p>
+<h2><span class="mw-headline" id="Notable_alumni_and_professors">Notable alumni and professors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=edit&amp;section=24" title="Edit section: Notable alumni and professors">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Johann_Christian_Daniel_von_Schreber" title="Johann Christian Daniel von Schreber">Johann Christian Daniel von Schreber</a> (1739–1810), naturalist, studied <a href="/wiki/Mammals" class="mw-redirect" title="Mammals">mammals</a>.</li>
+<li><a href="/wiki/Samuel_Hahnemann" title="Samuel Hahnemann">Samuel Hahnemann</a> (1755-1843), founder of <a href="/wiki/Homeopathy" title="Homeopathy">homeopathy</a></li>
+<li><a href="/wiki/Alexander_von_Humboldt" title="Alexander von Humboldt">Alexander von Humboldt</a> (1769-1859), Geographer and Explorer, attended lectures in Chemistry and Physics.<sup id="cite_ref-uni-erlangen1_45-0" class="reference"><a href="#cite_note-uni-erlangen1-45">[45]</a></sup></li>
+<li><a href="/wiki/Otto_Friedrich_Ranke" title="Otto Friedrich Ranke">Otto Friedrich Ranke</a> (1899-1959), physiologist</li>
+<li><a href="/wiki/Friedrich_R%C3%BCckert" title="Friedrich Rückert">Friedrich Rückert</a> (1788 – 1866), <a href="/wiki/Oriental_studies" title="Oriental studies">orientalist</a> and poet.<sup id="cite_ref-uni-erlangen1_45-1" class="reference"><a href="#cite_note-uni-erlangen1-45">[45]</a></sup></li>
+<li><a href="/wiki/Georg_Simon_Ohm" class="mw-redirect" title="Georg Simon Ohm">Georg Simon Ohm</a> (1789–1854), physicist, <a href="/wiki/Ohm%27s_law" title="Ohm's law">Ohm's law</a>, named after him.</li>
+<li><a href="/wiki/Justus_von_Liebig" title="Justus von Liebig">Justus von Liebig</a> (1803–1873), chemist, "father of the <a href="/wiki/Fertilizer" title="Fertilizer">fertilizer</a> industry".</li>
+<li><a href="/wiki/Ludwig_Andreas_Feuerbach" class="mw-redirect" title="Ludwig Andreas Feuerbach">Ludwig Andreas Feuerbach</a> (1804–1872), philosopher, associated with the <a href="/wiki/Young_Hegelians" title="Young Hegelians">Young Hegelians</a>, an <a href="/wiki/Atheist" class="mw-redirect" title="Atheist">atheist</a>.</li>
+<li><a href="/wiki/Karl_von_Hegel" title="Karl von Hegel">Karl von Hegel</a> (1813-1901), historian, father-in-law to <a href="/wiki/Felix_Klein" title="Felix Klein">Felix Klein</a> and son of the philosopher <a href="/wiki/Hegel" class="mw-redirect" title="Hegel">Hegel</a></li>
+<li><a href="/wiki/Felix_Klein" title="Felix Klein">Felix Klein</a> (1849 – 1925), Mathematician</li>
+<li><a href="/wiki/Hermann_Emil_Fischer" title="Hermann Emil Fischer">Hermann Emil Fischer</a> (1852-1919), chemist, <a href="/wiki/Nobel_Prize_in_Chemistry" title="Nobel Prize in Chemistry">Nobel Prize in Chemistry</a> 1902</li>
+<li><a href="/wiki/Eduard_Buchner" title="Eduard Buchner">Eduard Buchner</a> (1860-1917), chemist, <a href="/wiki/Nobel_Prize_in_Chemistry" title="Nobel Prize in Chemistry">Nobel Prize in Chemistry</a> 1907</li>
+<li><a href="/wiki/Emanuel_Lasker" title="Emanuel Lasker">Emanuel Lasker</a> (1868-1941), world chess champion, mathematician, philosopher.</li>
+<li><a href="/wiki/Emmy_Noether" title="Emmy Noether">Emmy Noether</a> (1882–1935), mathematician, <a href="/wiki/Noether%27s_theorem" title="Noether's theorem">Noether's theorem</a>, named after her.</li>
+<li><a href="/wiki/Hans_Geiger" title="Hans Geiger">Hans Geiger</a> (1882-1945), physicist, <a href="/wiki/Geiger_counter" title="Geiger counter">Geiger counter</a></li>
+<li><a href="/wiki/Ludwig_Erhard" title="Ludwig Erhard">Ludwig Erhard</a> (1897-1977), <a href="/wiki/Chancellor_of_Germany_(Federal_Republic)" class="mw-redirect" title="Chancellor of Germany (Federal Republic)">Chancellor of Germany</a> 1963-1966</li>
+<li>Erik Flügel (1934-2004), Founder of the Institute of Palaeontology, and world respected carbonate petrologist.</li>
+<li><a href="/wiki/Alma_Adamkien%C4%97" title="Alma Adamkienė">Alma Adamkienė</a> (1927-), First Lady of Lithuania 1998-2009</li>
+<li><a href="/wiki/Harald_zur_Hausen" title="Harald zur Hausen">Harald zur Hausen</a> (1936-), <a href="/wiki/Virology" title="Virology">virologist</a>, <a href="/wiki/Nobel_Prize_in_Physiology_or_Medicine" title="Nobel Prize in Physiology or Medicine">Nobel Prize in Physiology or Medicine</a> 2008</li>
+<li><a href="/wiki/Heinrich_von_Pierer" title="Heinrich von Pierer">Heinrich von Pierer</a> (1941-), former CEO of <a href="/wiki/Siemens_AG" class="mw-redirect" title="Siemens AG">Siemens AG</a> (1992-2005).</li>
+<li><a href="/wiki/Karlheinz_Brandenburg" title="Karlheinz Brandenburg">Karlheinz Brandenburg</a> (1954–), audio engineer, developer of the <a href="/wiki/MP3" title="MP3">MP3</a> audio <a href="/wiki/Codec" title="Codec">codec</a>.</li>
+</ul>
+<div class="NavFrame collapsed" style="border:none;border:1px; width: 100%;">
+<div class="NavHead" style="background:transparent;text-align:center;background: #dcdcdc; font-size: 110%;">Notable alumni and professors photos&#160;</div>
+<div class="NavContent" style="background:transparent;text-align:left;text-align:left; background: #f5f5f5;">
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Schreber_Johann_Christian_Daniel_von_1739-1810.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Schreber_Johann_Christian_Daniel_von_1739-1810.jpg/86px-Schreber_Johann_Christian_Daniel_von_1739-1810.jpg" width="86" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Schreber_Johann_Christian_Daniel_von_1739-1810.jpg/130px-Schreber_Johann_Christian_Daniel_von_1739-1810.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Schreber_Johann_Christian_Daniel_von_1739-1810.jpg/173px-Schreber_Johann_Christian_Daniel_von_1739-1810.jpg 2x" data-file-width="370" data-file-height="513" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Johann_Christian_Daniel_von_Schreber" title="Johann Christian Daniel von Schreber">Johann Christian Daniel von Schreber</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Hahnemann.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hahnemann.jpg/90px-Hahnemann.jpg" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hahnemann.jpg/135px-Hahnemann.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hahnemann.jpg/180px-Hahnemann.jpg 2x" data-file-width="942" data-file-height="1256" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Samuel_Hahnemann" title="Samuel Hahnemann">Samuel Hahnemann</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:AvHumboldt.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/AvHumboldt.jpg/85px-AvHumboldt.jpg" width="85" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/AvHumboldt.jpg/128px-AvHumboldt.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/AvHumboldt.jpg/171px-AvHumboldt.jpg 2x" data-file-width="246" data-file-height="345" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Alexander_von_Humboldt" title="Alexander von Humboldt">Alexander von Humboldt</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Friedrich_R%C3%BCckert.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Friedrich_R%C3%BCckert.jpg/97px-Friedrich_R%C3%BCckert.jpg" width="97" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Friedrich_R%C3%BCckert.jpg/145px-Friedrich_R%C3%BCckert.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/30/Friedrich_R%C3%BCckert.jpg/193px-Friedrich_R%C3%BCckert.jpg 2x" data-file-width="274" data-file-height="340" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Friedrich_R%C3%BCckert" title="Friedrich Rückert">Friedrich Rückert</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Georg_Simon_Ohm3.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Georg_Simon_Ohm3.jpg/94px-Georg_Simon_Ohm3.jpg" width="94" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Georg_Simon_Ohm3.jpg/142px-Georg_Simon_Ohm3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Georg_Simon_Ohm3.jpg/189px-Georg_Simon_Ohm3.jpg 2x" data-file-width="337" data-file-height="428" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Georg_Simon_Ohm" class="mw-redirect" title="Georg Simon Ohm">Georg Simon Ohm</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Justus_von_Liebig_NIH.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Justus_von_Liebig_NIH.jpg/94px-Justus_von_Liebig_NIH.jpg" width="94" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Justus_von_Liebig_NIH.jpg/141px-Justus_von_Liebig_NIH.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Justus_von_Liebig_NIH.jpg/188px-Justus_von_Liebig_NIH.jpg 2x" data-file-width="1096" data-file-height="1401" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Justus_von_Liebig" title="Justus von Liebig">Justus von Liebig</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Ludwig_Andreas_Feuerbach.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ludwig_Andreas_Feuerbach.jpg/105px-Ludwig_Andreas_Feuerbach.jpg" width="105" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ludwig_Andreas_Feuerbach.jpg/158px-Ludwig_Andreas_Feuerbach.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ludwig_Andreas_Feuerbach.jpg/210px-Ludwig_Andreas_Feuerbach.jpg 2x" data-file-width="1807" data-file-height="2063" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Ludwig_Andreas_Feuerbach" class="mw-redirect" title="Ludwig Andreas Feuerbach">Ludwig Andreas Feuerbach</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Felix_Klein.jpeg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Felix_Klein.jpeg/107px-Felix_Klein.jpeg" width="107" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Felix_Klein.jpeg/161px-Felix_Klein.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Felix_Klein.jpeg/214px-Felix_Klein.jpeg 2x" data-file-width="291" data-file-height="326" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Felix_Klein" title="Felix Klein">Felix Klein</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Hermann_Emil_Fischer_c1895.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Hermann_Emil_Fischer_c1895.jpg/85px-Hermann_Emil_Fischer_c1895.jpg" width="85" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Hermann_Emil_Fischer_c1895.jpg/127px-Hermann_Emil_Fischer_c1895.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Hermann_Emil_Fischer_c1895.jpg/169px-Hermann_Emil_Fischer_c1895.jpg 2x" data-file-width="400" data-file-height="566" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Hermann_Emil_Fischer" title="Hermann Emil Fischer">Hermann Emil Fischer</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Eduardbuchner.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Eduardbuchner.jpg/85px-Eduardbuchner.jpg" width="85" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Eduardbuchner.jpg/128px-Eduardbuchner.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Eduardbuchner.jpg/171px-Eduardbuchner.jpg 2x" data-file-width="254" data-file-height="356" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Eduard_Buchner" title="Eduard Buchner">Eduard Buchner</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Noether.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Noether.jpg/79px-Noether.jpg" width="79" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Noether.jpg/118px-Noether.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Noether.jpg/157px-Noether.jpg 2x" data-file-width="1208" data-file-height="1840" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Emmy_Noether" title="Emmy Noether">Emmy Noether</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Geiger,Hans_1928.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Geiger%2CHans_1928.jpg/96px-Geiger%2CHans_1928.jpg" width="96" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Geiger%2CHans_1928.jpg/144px-Geiger%2CHans_1928.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/Geiger%2CHans_1928.jpg/192px-Geiger%2CHans_1928.jpg 2x" data-file-width="640" data-file-height="800" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Hans_Geiger" title="Hans Geiger">Hans Geiger</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Bundesarchiv_B_145_Bild-F015320-0010,_Ludwig_Erhard.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bundesarchiv_B_145_Bild-F015320-0010%2C_Ludwig_Erhard.jpg/118px-Bundesarchiv_B_145_Bild-F015320-0010%2C_Ludwig_Erhard.jpg" width="118" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bundesarchiv_B_145_Bild-F015320-0010%2C_Ludwig_Erhard.jpg/177px-Bundesarchiv_B_145_Bild-F015320-0010%2C_Ludwig_Erhard.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bundesarchiv_B_145_Bild-F015320-0010%2C_Ludwig_Erhard.jpg/236px-Bundesarchiv_B_145_Bild-F015320-0010%2C_Ludwig_Erhard.jpg 2x" data-file-width="787" data-file-height="800" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Ludwig_Erhard" title="Ludwig Erhard">Ludwig Erhard</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Alma_Adamkiene_and_Laura_Bush.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Alma_Adamkiene_and_Laura_Bush.jpg/80px-Alma_Adamkiene_and_Laura_Bush.jpg" width="80" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Alma_Adamkiene_and_Laura_Bush.jpg/120px-Alma_Adamkiene_and_Laura_Bush.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Alma_Adamkiene_and_Laura_Bush.jpg/160px-Alma_Adamkiene_and_Laura_Bush.jpg 2x" data-file-width="515" data-file-height="770" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Alma_Adamkien%C4%97" title="Alma Adamkienė">Alma Adamkienė</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Harald_zur_Hausen_03.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Harald_zur_Hausen_03.jpg/93px-Harald_zur_Hausen_03.jpg" width="93" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Harald_zur_Hausen_03.jpg/139px-Harald_zur_Hausen_03.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Harald_zur_Hausen_03.jpg/185px-Harald_zur_Hausen_03.jpg 2x" data-file-width="1583" data-file-height="2048" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Harald_zur_Hausen" title="Harald zur Hausen">Harald zur Hausen</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Vladimir_Putin_15_June_2000-4.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Vladimir_Putin_15_June_2000-4.jpg/120px-Vladimir_Putin_15_June_2000-4.jpg" width="120" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Vladimir_Putin_15_June_2000-4.jpg/180px-Vladimir_Putin_15_June_2000-4.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Vladimir_Putin_15_June_2000-4.jpg/240px-Vladimir_Putin_15_June_2000-4.jpg 2x" data-file-width="500" data-file-height="334" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Heinrich_von_Pierer" title="Heinrich von Pierer">Heinrich von Pierer</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Karlheinz_Brandenburg_cropped.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Karlheinz_Brandenburg_cropped.jpg/101px-Karlheinz_Brandenburg_cropped.jpg" width="101" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Karlheinz_Brandenburg_cropped.jpg/151px-Karlheinz_Brandenburg_cropped.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Karlheinz_Brandenburg_cropped.jpg/201px-Karlheinz_Brandenburg_cropped.jpg 2x" data-file-width="1612" data-file-height="1920" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Karlheinz_Brandenburg" title="Karlheinz Brandenburg">Karlheinz Brandenburg</a></p>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=edit&amp;section=25" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:FAU-TechFak.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/FAU-TechFak.jpg/120px-FAU-TechFak.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/FAU-TechFak.jpg/180px-FAU-TechFak.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/FAU-TechFak.jpg/240px-FAU-TechFak.jpg 2x" data-file-width="960" data-file-height="720" /></a></div>
+</div>
+<div class="gallerytext">
+<p>FAU Faculty of Engineering campus</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:University_of_Erlangen-Nuremberg-Computer_Science_Department.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/University_of_Erlangen-Nuremberg-Computer_Science_Department.JPG/90px-University_of_Erlangen-Nuremberg-Computer_Science_Department.JPG" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/University_of_Erlangen-Nuremberg-Computer_Science_Department.JPG/135px-University_of_Erlangen-Nuremberg-Computer_Science_Department.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/University_of_Erlangen-Nuremberg-Computer_Science_Department.JPG/180px-University_of_Erlangen-Nuremberg-Computer_Science_Department.JPG 2x" data-file-width="3000" data-file-height="4000" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Department of Computer Science</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:University_of_Erlangen-Nuremberg_-_Laboratory_of_Telecommunication_-_Technical_Faculty.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/University_of_Erlangen-Nuremberg_-_Laboratory_of_Telecommunication_-_Technical_Faculty.JPG/120px-University_of_Erlangen-Nuremberg_-_Laboratory_of_Telecommunication_-_Technical_Faculty.JPG" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/University_of_Erlangen-Nuremberg_-_Laboratory_of_Telecommunication_-_Technical_Faculty.JPG/180px-University_of_Erlangen-Nuremberg_-_Laboratory_of_Telecommunication_-_Technical_Faculty.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/University_of_Erlangen-Nuremberg_-_Laboratory_of_Telecommunication_-_Technical_Faculty.JPG/240px-University_of_Erlangen-Nuremberg_-_Laboratory_of_Telecommunication_-_Technical_Faculty.JPG 2x" data-file-width="4000" data-file-height="3000" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Department of Electrical, Electronic and Communication Engineering</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:University_of_Erlangen-Nuremberg_-_Sign_of_goodwill_in_Technical_Faculty.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/University_of_Erlangen-Nuremberg_-_Sign_of_goodwill_in_Technical_Faculty.JPG/120px-University_of_Erlangen-Nuremberg_-_Sign_of_goodwill_in_Technical_Faculty.JPG" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/University_of_Erlangen-Nuremberg_-_Sign_of_goodwill_in_Technical_Faculty.JPG/180px-University_of_Erlangen-Nuremberg_-_Sign_of_goodwill_in_Technical_Faculty.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/University_of_Erlangen-Nuremberg_-_Sign_of_goodwill_in_Technical_Faculty.JPG/240px-University_of_Erlangen-Nuremberg_-_Sign_of_goodwill_in_Technical_Faculty.JPG 2x" data-file-width="4000" data-file-height="3000" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Property for good thoughts designed by Marian Bogusz, on the Faculty of Engineering campus</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Audimax_universitaet-erlangen.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Audimax_universitaet-erlangen.jpg/120px-Audimax_universitaet-erlangen.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Audimax_universitaet-erlangen.jpg/180px-Audimax_universitaet-erlangen.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Audimax_universitaet-erlangen.jpg/240px-Audimax_universitaet-erlangen.jpg 2x" data-file-width="2816" data-file-height="2112" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Faculty of Humanities, Social Sciences, and Theology and central lecture hall</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:RRZE-Gebaeudebild.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/RRZE-Gebaeudebild.jpg/120px-RRZE-Gebaeudebild.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/RRZE-Gebaeudebild.jpg/180px-RRZE-Gebaeudebild.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/RRZE-Gebaeudebild.jpg/240px-RRZE-Gebaeudebild.jpg 2x" data-file-width="400" data-file-height="300" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Regional Computing Centre</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Points_of_interest">Points of interest</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=edit&amp;section=26" title="Edit section: Points of interest">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Botanischer_Garten_Erlangen" title="Botanischer Garten Erlangen">Botanischer Garten Erlangen</a>, the University's <a href="/wiki/Botanical_garden" title="Botanical garden">botanical garden</a></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=edit&amp;section=27" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_early_modern_universities_in_Europe" title="List of early modern universities in Europe">List of early modern universities in Europe</a></li>
+<li><a href="/wiki/Recktenwald_Prize" class="mw-redirect" title="Recktenwald Prize">Recktenwald Prize</a></li>
+<li><a href="/wiki/Top_Industrial_Managers_for_Europe" title="Top Industrial Managers for Europe">Top Industrial Managers for Europe</a></li>
+<li><a href="/wiki/Fraunhofer_Society" title="Fraunhofer Society">Fraunhofer Society</a></li>
+<li><a href="/wiki/Max_Planck_Institute_for_the_Science_of_Light" title="Max Planck Institute for the Science of Light">Max Planck Institute for the Science of Light</a></li>
+<li><a href="/wiki/Erlangen" title="Erlangen">Erlangen</a></li>
+<li><a href="/wiki/Botanischer_Garten_Erlangen" title="Botanischer Garten Erlangen">Botanischer Garten Erlangen</a></li>
+<li><a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=edit&amp;section=28" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-fau_his-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-fau_his_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fau_his_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-fau_his_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fau.de/universitaet/das-ist-die-fau/geschichte-der-fau/">"Geschichte der FAU ›"</a>. <i>Fau.de</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-02-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Erlangen-Nuremberg&amp;rft.atitle=Geschichte+der+FAU+%E2%80%BA&amp;rft.genre=unknown&amp;rft.jtitle=Fau.de&amp;rft_id=http%3A%2F%2Fwww.fau.de%2Funiversitaet%2Fdas-ist-die-fau%2Fgeschichte-der-fau%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.bayern.landtag.de/fileadmin/Internet_Dokumente/Haushalt_Einzelplaene/Epl15.pdf">"Freistaat Bayern Haushaltsplan 2015/2016, Einzelplan 15"</a> <span style="font-size:85%;">(PDF)</span> (in German). Bayerischer Landtag. p.&#160;278<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-06-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Erlangen-Nuremberg&amp;rft.btitle=Freistaat+Bayern+Haushaltsplan+2015%2F2016%2C+Einzelplan+15&amp;rft.genre=unknown&amp;rft.pages=278&amp;rft.pub=Bayerischer+Landtag&amp;rft_id=https%3A%2F%2Fwww.bayern.landtag.de%2Ffileadmin%2FInternet_Dokumente%2FHaushalt_Einzelplaene%2FEpl15.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> Public funding: € 365.5 million</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.fau.de/files/2015/07/drittmitteleinnahmen_nach_titelgruppen.pdf">"Entwicklung der Drittmitteleinnahmen der FAU Erlangen - Nürnberg nach Geldgebern 2012 bis 2016"</a> <span style="font-size:85%;">(PDF)</span>. <i>University of Erlangen-Nuremberg</i> (in German)<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-06-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Erlangen-Nuremberg&amp;rft.atitle=Entwicklung+der+Drittmitteleinnahmen+der+FAU+Erlangen+-+N%C3%BCrnberg++nach+Geldgebern+2012+bis+2016&amp;rft.genre=unknown&amp;rft.jtitle=University+of+Erlangen-Nuremberg&amp;rft_id=https%3A%2F%2Fwww.fau.de%2Ffiles%2F2015%2F07%2Fdrittmitteleinnahmen_nach_titelgruppen.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> Third party funding: € 177.6 million</span></li>
+<li id="cite_note-fa123-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-fa123_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fa123_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-fa123_4-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.fau.de/universitaet/leitung-und-struktur/leitung/">"Die Leitung der FAU"</a> (in German). University of Erlangen-Nuremberg<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-06-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Erlangen-Nuremberg&amp;rft.btitle=Die+Leitung+der+FAU&amp;rft.genre=unknown&amp;rft.pub=University+of+Erlangen-Nuremberg&amp;rft_id=https%3A%2F%2Fwww.fau.de%2Funiversitaet%2Fleitung-und-struktur%2Fleitung%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-staff-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-staff_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-staff_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.fau.eu/university/facts-and-figures/human-resources/">"FAU staff"</a>. <i>University of Erlangen-Nuremberg</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-06-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Erlangen-Nuremberg&amp;rft.atitle=FAU+staff&amp;rft.genre=unknown&amp;rft.jtitle=University+of+Erlangen-Nuremberg&amp;rft_id=https%3A%2F%2Fwww.fau.eu%2Funiversity%2Ffacts-and-figures%2Fhuman-resources%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> University hospital not included.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.fau.de/universitaet/kennzahlen-und-rankings/studierende/">"Studierendenzahlen im Wintersemester 2016/2017 (Kopfzahlen)"</a>. <i>University of Erlangen-Nuremberg</i> (in German)<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-06-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Erlangen-Nuremberg&amp;rft.atitle=Studierendenzahlen+im+Wintersemester+2016%2F2017+%28Kopfzahlen%29&amp;rft.genre=unknown&amp;rft.jtitle=University+of+Erlangen-Nuremberg&amp;rft_id=https%3A%2F%2Fwww.fau.de%2Funiversitaet%2Fkennzahlen-und-rankings%2Fstudierende%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20120112105250/http://uni-erlangen.org/university/stats.shtml">[1]</a></span></li>
+<li id="cite_note-fau-data-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-fau-data_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fau-data_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fau.de/universitaet/kennzahlen-und-rankings/">"FAU Key figures and rankings"</a>. fau.de<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-10-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Erlangen-Nuremberg&amp;rft.btitle=FAU+Key+figures+and+rankings&amp;rft.genre=unknown&amp;rft.pub=fau.de&amp;rft_id=http%3A%2F%2Fwww.fau.de%2Funiversitaet%2Fkennzahlen-und-rankings%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20130210094444/http://www.bmbf.de/pubRD/2012-06-15_Finale_Foerderliste_2.pdf">[2]</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.dfg.de/">"DFG - Deutsche Forschungsgemeinschaft"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">4 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Erlangen-Nuremberg&amp;rft.btitle=DFG+-+Deutsche+Forschungsgemeinschaft&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.dfg.de%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.time-association.org/">"T.I.M.E. - Top Industrial Managers for Europe"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">4 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Erlangen-Nuremberg&amp;rft.btitle=T.I.M.E.+-+Top+Industrial+Managers+for+Europe&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.time-association.org%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-fau-ranking3-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-fau-ranking3_12-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.shanghairanking.com/World-University-Rankings/University-of-Erlangen-Nuremberg.html">"University of Erlangen-Nuremberg | Academic Ranking of World Universities - 2016 | Shanghai Ranking - 2016"</a>. Shanghai Ranking<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-02-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Erlangen-Nuremberg&amp;rft.btitle=University+of+Erlangen-Nuremberg+%26%23124%3B+Academic+Ranking+of+World+Universities+-+2016+%26%23124%3B+Shanghai+Ranking+-+2016&amp;rft.genre=unknown&amp;rft.pub=Shanghai+Ranking&amp;rft_id=http%3A%2F%2Fwww.shanghairanking.com%2FWorld-University-Rankings%2FUniversity-of-Erlangen-Nuremberg.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-fau-ranking2-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-fau-ranking2_13-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fau.de/universitaet/kennzahlen-und-rankings/rankings/">"Rankings ›"</a>. <i>Fau.de</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-02-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Erlangen-Nuremberg&amp;rft.atitle=Rankings+%E2%80%BA&amp;rft.genre=unknown&amp;rft.jtitle=Fau.de&amp;rft_id=http%3A%2F%2Fwww.fau.de%2Funiversitaet%2Fkennzahlen-und-rankings%2Frankings%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-fau-ranking1-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-fau-ranking1_14-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20140902160052/http://blogs.fau.de:80/international/2014/09/01/fau-among-global-leaders-in-chemistry-and-engineering/">[3]</a></span></li>
+<li id="cite_note-shanghairanking.com-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-shanghairanking.com_15-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.shanghairanking.com/FieldENG2014.html">"Academic Ranking of World Universities in Engineering/Technology and Computer Sciences - 2014 - 2014 Top 100 Universities in Natural Sciences and Mathematics - ARWU-FIELD 2014"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">4 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Erlangen-Nuremberg&amp;rft.btitle=Academic+Ranking+of+World+Universities+in+Engineering%2FTechnology+and+Computer+Sciences++-+2014+-+2014+Top+100+Universities+in+Natural+Sciences+and+Mathematics+-+ARWU-FIELD+2014&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.shanghairanking.com%2FFieldENG2014.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://fau-busan.ac.kr/en/gu/gu_1.html">"Welcome to FAU Busan Campus - German University in Korea"</a>. <i>Fau-busan.ac.kr</i>. 2011-05-13<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-02-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Erlangen-Nuremberg&amp;rft.atitle=Welcome+to+FAU+Busan+Campus+-+German+University+in+Korea&amp;rft.date=2011-05-13&amp;rft.genre=unknown&amp;rft.jtitle=Fau-busan.ac.kr&amp;rft_id=http%3A%2F%2Ffau-busan.ac.kr%2Fen%2Fgu%2Fgu_1.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.koreaherald.com/view.php?ud=20140620000568">"[Weekender] German university epitomizes educational hub vison"</a>. <i>Koreaherald.com</i>. 2014-06-20<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-02-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Erlangen-Nuremberg&amp;rft.atitle=%5BWeekender%26%2393%3B+German+university+epitomizes+educational+hub+vison&amp;rft.date=2014-06-20&amp;rft.genre=unknown&amp;rft.jtitle=Koreaherald.com&amp;rft_id=http%3A%2F%2Fwww.koreaherald.com%2Fview.php%3Fud%3D20140620000568&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.presse.uni-erlangen.de/infocenter/presse/pressemitteilungen/2007/nachrichten_2007/02_07/25grundordnung.shtml">"Die Universität stellt sich neu auf"</a>. <i>Friedrich-Alexander-Universität Erlangen-Nürnberg</i>. 7 February 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">10 September</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Erlangen-Nuremberg&amp;rft.atitle=Die+Universit%C3%A4t+stellt+sich+neu+auf&amp;rft.date=2007-02-07&amp;rft.genre=unknown&amp;rft.jtitle=Friedrich-Alexander-Universit%C3%A4t+Erlangen-N%C3%BCrnberg&amp;rft_id=http%3A%2F%2Fwww.presse.uni-erlangen.de%2Finfocenter%2Fpresse%2Fpressemitteilungen%2F2007%2Fnachrichten_2007%2F02_07%2F25grundordnung.shtml&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.uni-erlangen.org/university/organisation/faculties/">"Uni Erlangen Faculties"</a>. FAU<span class="reference-accessdate">. Retrieved <span class="nowrap">27 January</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Erlangen-Nuremberg&amp;rft.btitle=Uni+Erlangen+Faculties&amp;rft.genre=unknown&amp;rft.pub=FAU&amp;rft_id=http%3A%2F%2Fwww.uni-erlangen.org%2Funiversity%2Forganisation%2Ffaculties%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.uni-erlangen.org/university/history/detailed-history.shtml">"Uni Erlangen Faculty of Engineering"</a>. Erlangen University<span class="reference-accessdate">. Retrieved <span class="nowrap">3 Oct</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Erlangen-Nuremberg&amp;rft.btitle=Uni+Erlangen+Faculty+of+Engineering&amp;rft.genre=unknown&amp;rft.pub=Erlangen+University&amp;rft_id=http%3A%2F%2Fwww.uni-erlangen.org%2Funiversity%2Fhistory%2Fdetailed-history.shtml&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://sti.epfl.ch/page-73094.html">"Ranking - QRED - EPFL"</a>. 6 January 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">4 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Erlangen-Nuremberg&amp;rft.btitle=Ranking+-+QRED+-+EPFL&amp;rft.date=2015-01-06&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fsti.epfl.ch%2Fpage-73094.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20121111065437/http://blogs.fau.de:80/international/2012/11/06/fau-materials-scientists-top-ten-worldwide/">[4]</a></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.uni-erlangen.org/research/">"Research › FAU.EU"</a>. <i>Uni-erlangen.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-02-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Erlangen-Nuremberg&amp;rft.atitle=Research+%E2%80%BA+FAU.EU&amp;rft.genre=unknown&amp;rft.jtitle=Uni-erlangen.org&amp;rft_id=http%3A%2F%2Fwww.uni-erlangen.org%2Fresearch%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.uni-erlangen.org/research/main-topics/">"Major research areas at FAU › FAU.EU"</a>. <i>Uni-erlangen.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-02-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Erlangen-Nuremberg&amp;rft.atitle=Major+research+areas+at+FAU+%E2%80%BA+FAU.EU&amp;rft.genre=unknown&amp;rft.jtitle=Uni-erlangen.org&amp;rft_id=http%3A%2F%2Fwww.uni-erlangen.org%2Fresearch%2Fmain-topics%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20080921160449/http://www.uni-erlangen.org:80/research/excellence-initiative.shtml">[5]</a></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.uni-erlangen.de/forschung/exzellenzinitiative/">"Exzellenzinitiative › FAU.DE"</a>. <i>Uni-erlangen.de</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-02-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Erlangen-Nuremberg&amp;rft.atitle=Exzellenzinitiative+%E2%80%BA+FAU.DE&amp;rft.genre=unknown&amp;rft.jtitle=Uni-erlangen.de&amp;rft_id=http%3A%2F%2Fwww.uni-erlangen.de%2Fforschung%2Fexzellenzinitiative%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20090123105737/http://www.excellence-initiative.com:80/excellence-initiative">[6]</a></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20090804002613/http://www.excellence-initiative.com:80/erlangen-nuernberg-materials-functional-devices">[7]</a></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.eam.fau.de/">"Cluster of Excellence Engineering of Advanced Materials (EAM) - Home"</a>. EAM<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-02-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Erlangen-Nuremberg&amp;rft.btitle=Cluster+of+Excellence+Engineering+of+Advanced+Materials+%28EAM%29+-+Home&amp;rft.genre=unknown&amp;rft.pub=EAM&amp;rft_id=http%3A%2F%2Fwww.eam.fau.de%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20090123133936/http://www.excellence-initiative.com:80/erlangen-optical-technologies">[8]</a></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.aot.uni-erlangen.de/">"Startseite"</a>. <i>Aot.uni-erlangen.de</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-02-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Erlangen-Nuremberg&amp;rft.atitle=Startseite&amp;rft.genre=unknown&amp;rft.jtitle=Aot.uni-erlangen.de&amp;rft_id=http%3A%2F%2Fwww.aot.uni-erlangen.de%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20081012012240/http://www.uni-erlangen.org:80/research/institutions//central-institutions.shtml">[9]</a></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20120112124354/http://uni-erlangen.org/research/institutions/interdisciplinary-centres.shtml">[10]</a></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20081002054425/http://www.uni-erlangen.org:80/research/institutions/research-centres.shtml">[11]</a></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.uni-erlangen.org/international/going-abroad/study/">"Study"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">4 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Erlangen-Nuremberg&amp;rft.btitle=Study&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.uni-erlangen.org%2Finternational%2Fgoing-abroad%2Fstudy%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Rankings_ARWU_W-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-Rankings_ARWU_W_36-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.shanghairanking.com/ARWU2017.html">"Academic Ranking of World Universities 2017"</a>. Institute of Higher Education, Shanghai Jiao Tong University. 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">August 17,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Erlangen-Nuremberg&amp;rft.btitle=Academic+Ranking+of+World+Universities+2017&amp;rft.date=2017&amp;rft.genre=unknown&amp;rft.pub=Institute+of+Higher+Education%2C+Shanghai+Jiao+Tong+University&amp;rft_id=http%3A%2F%2Fwww.shanghairanking.com%2FARWU2017.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Rankings_THE_W-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-Rankings_THE_W_37-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.timeshighereducation.com/world-university-rankings/2018/world-ranking">"World University Rankings 2018"</a>. <i><a href="/wiki/Times_Higher_Education" title="Times Higher Education">Times Higher Education</a></i>. 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">September 6,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Erlangen-Nuremberg&amp;rft.btitle=World+University+Rankings+2018&amp;rft.date=2018&amp;rft.genre=unknown&amp;rft.pub=%27%27Times+Higher+Education%27%27&amp;rft_id=https%3A%2F%2Fwww.timeshighereducation.com%2Fworld-university-rankings%2F2018%2Fworld-ranking&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Rankings_QS_W-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-Rankings_QS_W_38-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.topuniversities.com/university-rankings/world-university-rankings/2018">"QS World University Rankings 2018"</a>. Quacquarelli Symonds Limited. 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">June 21,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Erlangen-Nuremberg&amp;rft.btitle=QS+World+University+Rankings+2018&amp;rft.date=2017&amp;rft.genre=unknown&amp;rft.pub=Quacquarelli+Symonds+Limited&amp;rft_id=https%3A%2F%2Fwww.topuniversities.com%2Funiversity-rankings%2Fworld-university-rankings%2F2018&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-shanghairanking1-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-shanghairanking1_39-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.shanghairanking.com/World-University-Rankings/University-of-Erlangen-Nuremberg.html">"University of Erlangen-Nuremberg | Academic Ranking of World Universities - 2016 | Shanghai Ranking - 2016"</a>. Shanghai Ranking<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-02-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Erlangen-Nuremberg&amp;rft.btitle=University+of+Erlangen-Nuremberg+%26%23124%3B+Academic+Ranking+of+World+Universities+-+2016+%26%23124%3B+Shanghai+Ranking+-+2016&amp;rft.genre=unknown&amp;rft.pub=Shanghai+Ranking&amp;rft_id=http%3A%2F%2Fwww.shanghairanking.com%2FWorld-University-Rankings%2FUniversity-of-Erlangen-Nuremberg.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.humboldt-foundation.de/web/ahp-2010.html">"Alexander von Humboldt-Foundation - AHP Preisträger 2010"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">4 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Erlangen-Nuremberg&amp;rft.btitle=Alexander+von+Humboldt-Foundation+-+AHP+Preistr%C3%A4ger+2010&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.humboldt-foundation.de%2Fweb%2Fahp-2010.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.humboldt-foundation.de/web/ahp-2011.html">"Alexander von Humboldt-Foundation - AHP Preisträger 2011"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">4 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Erlangen-Nuremberg&amp;rft.btitle=Alexander+von+Humboldt-Foundation+-+AHP+Preistr%C3%A4ger+2011&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.humboldt-foundation.de%2Fweb%2Fahp-2011.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20130210060417/http://www.uni-erlangen.org/institutions-and-services/press-office/press-releases/news/2011/10/27/18.shtml">[12]</a></span></li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.research-in-germany.de/service/newsletter/newsletter-issue-15-december-2011-january-2012/latest-r-d-funding-programmes/90536/funding-activities-1.html">"Newsletter Archive"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">4 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Erlangen-Nuremberg&amp;rft.btitle=Newsletter+Archive&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.research-in-germany.de%2Fservice%2Fnewsletter%2Fnewsletter-issue-15-december-2011-january-2012%2Flatest-r-d-funding-programmes%2F90536%2Ffunding-activities-1.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><cite class="citation web">Redaktion: Referat LS 4 - Öffentlichkeitsarbeit, Internet (14 May 2013). <a rel="nofollow" class="external text" href="http://www.bmbf.de/en/1321.php">"Excellence Initiative for Cutting-Edge Research at Institutions of Higher Education"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">4 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Erlangen-Nuremberg&amp;rft.au=Redaktion%3A+Referat+LS+4+-+%C3%96ffentlichkeitsarbeit%2C+Internet&amp;rft.btitle=Excellence+Initiative+for+Cutting-Edge+Research+at+Institutions+of+Higher+Education&amp;rft.date=2013-05-14&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.bmbf.de%2Fen%2F1321.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-uni-erlangen1-45"><span class="mw-cite-backlink">^ <a href="#cite_ref-uni-erlangen1_45-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-uni-erlangen1_45-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20111025085909/http://www.uni-erlangen.org/infocentre/alumni/portraits.shtml">[13]</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=edit&amp;section=29" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Friedrich-Alexander-Universit%C3%A4t_Erlangen-N%C3%BCrnberg" class="extiw" title="commons:Category:Friedrich-Alexander-Universität Erlangen-Nürnberg">Friedrich-Alexander-Universität Erlangen-Nürnberg</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://fau.eu">Official website</a></span></span></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Friedrich-Alexander_University_of_Erlangen-N.C3.BCrnberg" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="color: #ffffff; background-color: #003c7a;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Friedrich-Alexander_University_of_Erlangen-N%C3%BCrnberg" title="Template:Friedrich-Alexander University of Erlangen-Nürnberg"><abbr title="View this template" style="color: #ffffff; background-color: #003c7a;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Friedrich-Alexander_University_of_Erlangen-N%C3%BCrnberg" title="Template talk:Friedrich-Alexander University of Erlangen-Nürnberg"><abbr title="Discuss this template" style="color: #ffffff; background-color: #003c7a;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Friedrich-Alexander_University_of_Erlangen-N%C3%BCrnberg&amp;action=edit"><abbr title="Edit this template" style="color: #ffffff; background-color: #003c7a;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Friedrich-Alexander_University_of_Erlangen-N.C3.BCrnberg" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink"><span style="color:#ffffff">Friedrich-Alexander University of Erlangen-Nürnberg</span></a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="color: #ffffff; background-color: #003c7a;">
+<div><a href="/wiki/Erlangen" title="Erlangen"><span style="color:white">Erlangen-Nürnberg, Germany</span></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="color: #ffffff; background-color: #003c7a;;width:1%">Institutes</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bayreuth_Medical_Center" title="Bayreuth Medical Center">Bayreuth Medical Center</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="color: #ffffff; background-color: #003c7a;;width:1%">Associated Institutions</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Max_Planck_Institute_for_the_Science_of_Light" title="Max Planck Institute for the Science of Light">Max Planck Institute for the Science of Light</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="color: #ffffff; background-color: #003c7a;;width:1%">Various</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Botanischer_Garten_Erlangen" title="Botanischer Garten Erlangen">Botanic garden</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="23x15px.7Cborder_.7Calt.3DGermany.7Clink.3DGermany_Universities_in_Germany" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Universities_in_Germany" title="Template:Universities in Germany"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Universities_in_Germany" title="Template talk:Universities in Germany"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Universities_in_Germany&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="23x15px.7Cborder_.7Calt.3DGermany.7Clink.3DGermany_Universities_in_Germany" style="font-size:114%;margin:0 4em"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/List_of_universities_in_Germany" title="List of universities in Germany">Universities in Germany</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">North</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/University_of_Bremen" title="University of Bremen">Bremen</a></li>
+<li><a href="/wiki/Jacobs_University_Bremen" title="Jacobs University Bremen">Jacobs University Bremen</a></li>
+<li><a href="/wiki/University_of_Flensburg" title="University of Flensburg">Flensburg</a></li>
+<li><a href="/wiki/University_of_G%C3%B6ttingen" title="University of Göttingen">Göttingen</a></li>
+<li><a href="/wiki/University_of_Greifswald" title="University of Greifswald">Greifswald</a></li>
+<li><a href="/wiki/University_of_Hamburg" title="University of Hamburg">Hamburg</a></li>
+<li><a href="/wiki/University_of_Fine_Arts_of_Hamburg" title="University of Fine Arts of Hamburg">University of Fine Arts of Hamburg</a></li>
+<li><a href="/wiki/Helmut_Schmidt_University" title="Helmut Schmidt University">Helmut Schmidt University</a></li>
+<li><a href="/wiki/K%C3%BChne_Logistics_University" title="Kühne Logistics University">Kühne Logistics University</a></li>
+<li><a href="/wiki/Hochschule_f%C3%BCr_Musik_und_Theater_Hamburg" title="Hochschule für Musik und Theater Hamburg">University of Music and Theatre Hamburg</a></li>
+<li><a href="/wiki/University_of_Hannover" class="mw-redirect" title="University of Hannover">Hannover</a></li>
+<li><a href="/wiki/University_of_Hildesheim" title="University of Hildesheim">Hildesheim</a></li>
+<li><a href="/wiki/University_of_Kiel" title="University of Kiel">Kiel</a></li>
+<li><a href="/wiki/University_of_L%C3%BCbeck" title="University of Lübeck">Lübeck</a></li>
+<li><a href="/wiki/Leuphana_University_of_L%C3%BCneburg" title="Leuphana University of Lüneburg">Lüneburg</a></li>
+<li><a href="/wiki/University_of_Oldenburg" title="University of Oldenburg">Oldenburg</a></li>
+<li><a href="/wiki/University_of_Osnabr%C3%BCck" title="University of Osnabrück">Osnabrück</a></li>
+<li><a href="/wiki/University_of_Rostock" title="University of Rostock">Rostock</a></li>
+<li><a href="/wiki/University_of_Vechta" title="University of Vechta">Vechta</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">East</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Berlin_University_of_the_Arts" title="Berlin University of the Arts">Berlin University of the Arts</a></li>
+<li><a href="/wiki/Free_University_of_Berlin" title="Free University of Berlin">Free University of Berlin</a></li>
+<li><a href="/wiki/Humboldt_University_of_Berlin" title="Humboldt University of Berlin">Humboldt University of Berlin</a></li>
+<li><a href="/wiki/University_of_Erfurt" title="University of Erfurt">Erfurt</a></li>
+<li><a href="/wiki/Viadrina_European_University" title="Viadrina European University">Viadrina European University</a></li>
+<li><a href="/wiki/Hertie_School_of_Governance" title="Hertie School of Governance">Hertie School of Governance</a></li>
+<li><a href="/wiki/Martin_Luther_University_of_Halle-Wittenberg" title="Martin Luther University of Halle-Wittenberg">Halle-Wittenberg</a></li>
+<li><a href="/wiki/University_of_Jena" title="University of Jena">Jena</a></li>
+<li><a href="/wiki/University_of_Leipzig" class="mw-redirect" title="University of Leipzig">Leipzig</a></li>
+<li><a href="/wiki/University_of_Magdeburg" class="mw-redirect" title="University of Magdeburg">Magdeburg</a></li>
+<li><a href="/wiki/University_of_Potsdam" title="University of Potsdam">Potsdam</a></li>
+<li><a href="/wiki/Bauhaus_University,_Weimar" title="Bauhaus University, Weimar">Bauhaus University Weimar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">South</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/University_of_Augsburg" title="University of Augsburg">Augsburg</a></li>
+<li><a href="/wiki/University_of_Bamberg" title="University of Bamberg">Bamberg</a></li>
+<li><a href="/wiki/University_of_Bayreuth" title="University of Bayreuth">Bayreuth</a></li>
+<li><a href="/wiki/Catholic_University_of_Eichst%C3%A4tt-Ingolstadt" title="Catholic University of Eichstätt-Ingolstadt">Catholic University of Eichstätt-Ingolstadt</a></li>
+<li><a class="mw-selflink selflink">Erlangen-Nuremberg</a></li>
+<li><a href="/wiki/University_of_Freiburg" title="University of Freiburg">Freiburg</a></li>
+<li><a href="/wiki/Heidelberg_University" title="Heidelberg University">Heidelberg</a></li>
+<li><a href="/wiki/University_of_Hohenheim" title="University of Hohenheim">Hohenheim</a></li>
+<li><a href="/wiki/University_of_Konstanz" title="University of Konstanz">Konstanz</a></li>
+<li><a href="/wiki/University_of_Mannheim" title="University of Mannheim">Mannheim</a></li>
+<li><a href="/wiki/Ludwig_Maximilian_University_of_Munich" title="Ludwig Maximilian University of Munich">Munich</a></li>
+<li><a href="/wiki/Bundeswehr_University_Munich" title="Bundeswehr University Munich">Bundeswehr University Munich</a></li>
+<li><a href="/wiki/Ukrainian_Free_University" title="Ukrainian Free University">Ukrainian Free University</a></li>
+<li><a href="/wiki/University_of_Passau" title="University of Passau">Passau</a></li>
+<li><a href="/wiki/University_of_Regensburg" title="University of Regensburg">Regensburg</a></li>
+<li><a href="/wiki/University_of_T%C3%BCbingen" title="University of Tübingen">Tübingen</a></li>
+<li><a href="/wiki/University_of_Ulm" title="University of Ulm">Ulm</a></li>
+<li><a href="/wiki/University_of_W%C3%BCrzburg" title="University of Würzburg">Würzburg</a></li>
+<li><a href="/wiki/Zeppelin_University" title="Zeppelin University">Zeppelin</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">West</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bielefeld_University" title="Bielefeld University">Bielefeld</a></li>
+<li><a href="/wiki/Ruhr_University_Bochum" title="Ruhr University Bochum">Ruhr University Bochum</a></li>
+<li><a href="/wiki/University_of_Bonn" title="University of Bonn">Bonn</a></li>
+<li><a href="/wiki/University_of_Cologne" title="University of Cologne">Cologne</a></li>
+<li><a href="/wiki/University_of_Duisburg-Essen" title="University of Duisburg-Essen">Duisburg-Essen</a></li>
+<li><a href="/wiki/University_of_D%C3%BCsseldorf" title="University of Düsseldorf">Düsseldorf</a></li>
+<li><a href="/wiki/Goethe_University_Frankfurt" title="Goethe University Frankfurt">Frankfurt am Main</a></li>
+<li><a href="/wiki/University_of_Giessen" title="University of Giessen">Giessen</a></li>
+<li><a href="/wiki/University_of_Hagen" title="University of Hagen">Hagen</a></li>
+<li><a href="/wiki/University_of_Kassel" title="University of Kassel">Kassel</a></li>
+<li><a href="/wiki/University_of_Koblenz_and_Landau" title="University of Koblenz and Landau">Koblenz and Landau</a></li>
+<li><a href="/wiki/University_of_Mainz" class="mw-redirect" title="University of Mainz">Mainz</a></li>
+<li><a href="/wiki/University_of_Marburg" title="University of Marburg">Marburg</a></li>
+<li><a href="/wiki/University_of_M%C3%BCnster" title="University of Münster">Münster</a></li>
+<li><a href="/wiki/University_of_Paderborn" class="mw-redirect" title="University of Paderborn">Paderborn</a></li>
+<li><a href="/wiki/Saarland_University" title="Saarland University">Saarland</a></li>
+<li><a href="/wiki/University_of_Siegen" title="University of Siegen">Siegen</a></li>
+<li><a href="/wiki/German_University_of_Administrative_Sciences_Speyer" class="mw-redirect" title="German University of Administrative Sciences Speyer">German University of Administrative Sciences Speyer</a></li>
+<li><a href="/wiki/University_of_Trier" title="University of Trier">Trier</a></li>
+<li><a href="/wiki/Witten/Herdecke_University" title="Witten/Herdecke University">Witten/Herdecke</a></li>
+<li><a href="/wiki/University_of_Wuppertal" title="University of Wuppertal">Wuppertal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Technical universities</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/RWTH_Aachen_University" title="RWTH Aachen University">RWTH Aachen</a></li>
+<li><a href="/wiki/Technical_University_of_Berlin" title="Technical University of Berlin">TU Berlin</a></li>
+<li><a href="/wiki/CODE_University_of_Applied_Sciences" title="CODE University of Applied Sciences">CODE University Berlin</a></li>
+<li><a href="/wiki/Brandenburg_University_of_Technology" title="Brandenburg University of Technology">Brandenburg University of Technology</a></li>
+<li><a href="/wiki/Braunschweig_University_of_Technology" title="Braunschweig University of Technology">Braunschweig University of Technology</a></li>
+<li><a href="/wiki/Chemnitz_University_of_Technology" title="Chemnitz University of Technology">Chemnitz University of Technology</a></li>
+<li><a href="/wiki/Clausthal_University_of_Technology" title="Clausthal University of Technology">Clausthal University of Technology</a></li>
+<li><a href="/wiki/Technische_Universit%C3%A4t_Darmstadt" title="Technische Universität Darmstadt">TU Darmstadt</a></li>
+<li><a href="/wiki/Technical_University_of_Dortmund" title="Technical University of Dortmund">TU Dortmund</a></li>
+<li><a href="/wiki/TU_Dresden" title="TU Dresden">TU Dresden</a></li>
+<li><a href="/wiki/Freiberg_University_of_Mining_and_Technology" title="Freiberg University of Mining and Technology">Freiberg University of Mining and Technology</a></li>
+<li><a href="/wiki/Hamburg_University_of_Technology" title="Hamburg University of Technology">Hamburg University of Technology</a></li>
+<li><a href="/wiki/HafenCity_University_Hamburg" title="HafenCity University Hamburg">HafenCity University Hamburg</a></li>
+<li><a href="/wiki/University_of_Hanover" title="University of Hanover">University of Hanover</a></li>
+<li><a href="/wiki/Technische_Universit%C3%A4t_Ilmenau" title="Technische Universität Ilmenau">Technische Universität Ilmenau</a></li>
+<li><a href="/wiki/University_of_Kaiserslautern" title="University of Kaiserslautern">Kaiserslautern</a></li>
+<li><a href="/wiki/Karlsruhe_Institute_of_Technology" title="Karlsruhe Institute of Technology">Karlsruhe Institute of Technology</a></li>
+<li><a href="/wiki/Technical_University_of_Munich" title="Technical University of Munich">TU Munich</a></li>
+<li><a href="/wiki/University_of_Stuttgart" title="University of Stuttgart">Stuttgart</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Top_Industrial_Managers_for_Europe_.28TIME.29" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Top_Industrial_Managers_for_Europe" title="Template:Top Industrial Managers for Europe"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Top_Industrial_Managers_for_Europe" title="Template talk:Top Industrial Managers for Europe"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Top_Industrial_Managers_for_Europe&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Top_Industrial_Managers_for_Europe_.28TIME.29" style="font-size:114%;margin:0 4em"><a href="/wiki/Top_Industrial_Managers_for_Europe" title="Top Industrial Managers for Europe">Top Industrial Managers for Europe (TIME)</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Austria</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/TU_Wien" title="TU Wien">TU Wien</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Belgium</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Facult%C3%A9_polytechnique_de_Mons" title="Faculté polytechnique de Mons">Faculté polytechnique de Mons</a></li>
+<li><a href="/wiki/Universit%C3%A9_catholique_de_Louvain" title="Université catholique de Louvain">Université catholique de Louvain</a></li>
+<li><a href="/wiki/Universit%C3%A9_libre_de_Bruxelles" title="Université libre de Bruxelles">Université libre de Bruxelles</a></li>
+<li><a href="/wiki/University_of_Li%C3%A8ge" title="University of Liège">University of Liège</a></li>
+<li><a href="/wiki/Vrije_Universiteit_Brussel" title="Vrije Universiteit Brussel">Vrije Universiteit Brussel</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Czech Republic</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Czech_Technical_University_in_Prague" title="Czech Technical University in Prague">Czech Technical University in Prague</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Denmark</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Technical_University_of_Denmark" title="Technical University of Denmark">Technical University of Denmark</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Finland</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aalto_University" title="Aalto University">Aalto University</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">France</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Centrale_Graduate_School" title="Centrale Graduate School">Centrale Graduate School</a>
+<ul>
+<li><a href="/wiki/%C3%89cole_Centrale_de_Lille" class="mw-redirect" title="École Centrale de Lille">École Centrale de Lille</a></li>
+<li><a href="/wiki/%C3%89cole_Centrale_de_Lyon" class="mw-redirect" title="École Centrale de Lyon">Lyon</a></li>
+<li><a href="/wiki/%C3%89cole_centrale_de_Marseille" title="École centrale de Marseille">Marseille</a></li>
+<li><a href="/wiki/%C3%89cole_centrale_de_Nantes" title="École centrale de Nantes">Nantes</a></li>
+<li><a href="/wiki/%C3%89cole_Centrale_Paris" title="École Centrale Paris">Paris</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Sup%C3%A9lec" title="Supélec">École Supérieure d'Électricité</a></li>
+<li><a href="/wiki/%C3%89cole_nationale_sup%C3%A9rieure_de_l%27a%C3%A9ronautique_et_de_l%27espace" title="École nationale supérieure de l'aéronautique et de l'espace">École nationale supérieure de l'aéronautique et de l'espace</a></li>
+<li><a href="/wiki/ENSTA_ParisTech" title="ENSTA ParisTech">ENSTA ParisTech</a></li>
+<li><a href="/wiki/%C3%89cole_des_Ponts_ParisTech" class="mw-redirect" title="École des Ponts ParisTech">École des Ponts ParisTech</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Germany</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/RWTH_Aachen_University" title="RWTH Aachen University">RWTH Aachen University</a></li>
+<li><a href="/wiki/Berlin_Institute_of_Technology" class="mw-redirect" title="Berlin Institute of Technology">Berlin Institute of Technology</a></li>
+<li><a href="/wiki/Dresden_University_of_Technology" class="mw-redirect" title="Dresden University of Technology">Dresden University of Technology</a></li>
+<li><a href="/wiki/Technische_Universit%C3%A4t_Darmstadt" title="Technische Universität Darmstadt">Technische Universität Darmstadt</a></li>
+<li><a href="/wiki/Technische_Universit%C3%A4t_M%C3%BCnchen" class="mw-redirect" title="Technische Universität München">Technische Universität München</a></li>
+<li><a class="mw-selflink selflink">University of Erlangen-Nuremberg</a></li>
+<li><a href="/wiki/University_of_Stuttgart" title="University of Stuttgart">University of Stuttgart</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Greece</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aristotle_University_of_Thessaloniki" title="Aristotle University of Thessaloniki">Aristotle University of Thessaloniki</a></li>
+<li><a href="/wiki/National_Technical_University_of_Athens" title="National Technical University of Athens">National Technical University of Athens</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Hungary</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Budapest_University_of_Technology_and_Economics" title="Budapest University of Technology and Economics">Budapest University of Technology and Economics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Italy</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Polytechnic_University_of_Turin" title="Polytechnic University of Turin">Polytechnic University of Turin</a></li>
+<li><a href="/wiki/Politecnico_di_Milano" class="mw-redirect" title="Politecnico di Milano">Politecnico di Milano</a></li>
+<li><a href="/wiki/University_of_Padua" title="University of Padua">University of Padua</a></li>
+<li><a href="/wiki/University_of_Trento" title="University of Trento">University of Trento</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Norway</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Norwegian_University_of_Science_and_Technology" title="Norwegian University of Science and Technology">Norwegian University of Science and Technology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Poland</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wroc%C5%82aw_University_of_Technology" class="mw-redirect" title="Wrocław University of Technology">Wrocław University of Technology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Portugal</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Instituto_Superior_T%C3%A9cnico" title="Instituto Superior Técnico">Instituto Superior Técnico</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Russian Federation</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bauman_Moscow_State_Technical_University" title="Bauman Moscow State Technical University">Bauman Moscow State Technical University</a></li>
+<li><a href="/wiki/Moscow_State_Institute_of_Radio_Engineering,_Electronics_and_Automation" class="mw-redirect" title="Moscow State Institute of Radio Engineering, Electronics and Automation">Moscow State Institute of Radio Engineering, Electronics and Automation</a></li>
+<li><a href="/wiki/Tomsk_Polytechnic_University" title="Tomsk Polytechnic University">Tomsk Polytechnic University</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Spain</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Comillas_Pontifical_University" title="Comillas Pontifical University">Comillas Pontifical University</a></li>
+<li><a href="/wiki/Polytechnic_University_of_Valencia" title="Polytechnic University of Valencia">Polytechnic University of Valencia</a></li>
+<li><a href="/wiki/Polytechnic_University_of_Catalonia" title="Polytechnic University of Catalonia">Polytechnic University of Catalonia</a></li>
+<li><a href="/wiki/Technical_University_of_Madrid" title="Technical University of Madrid">Technical University of Madrid</a></li>
+<li><a href="/wiki/University_of_Seville" title="University of Seville">University of Seville</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Sweden</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chalmers_University_of_Technology" title="Chalmers University of Technology">Chalmers University of Technology</a></li>
+<li><a href="/wiki/Royal_Institute_of_Technology" title="Royal Institute of Technology">Royal Institute of Technology</a></li>
+<li><a href="/wiki/Faculty_of_Engineering_(LTH),_Lund_University" title="Faculty of Engineering (LTH), Lund University">Faculty of Engineering (LTH), Lund University</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Switzerland</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%C3%89cole_Polytechnique_F%C3%A9d%C3%A9rale_de_Lausanne" title="École Polytechnique Fédérale de Lausanne">École Polytechnique Fédérale de Lausanne</a></li>
+<li><a href="/wiki/ETH_Zurich" title="ETH Zurich">ETH Zurich</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Turkey</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Istanbul_Technical_University" title="Istanbul Technical University">Istanbul Technical University</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">United Kingdom</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Queen%27s_University_Belfast" title="Queen's University Belfast">Queen's University Belfast</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/European_University_Association" title="European University Association">European University Association</a></li>
+<li><a href="/wiki/European_University_Association" title="European University Association">Networks of European universities</a></li>
+<li><a href="/wiki/European_Society_for_Engineering_Education" title="European Society for Engineering Education">European Society for Engineering Education</a></li>
+<li><a href="/wiki/European_Federation_of_National_Engineering_Associations" title="European Federation of National Engineering Associations">European Federation of National Engineering Associations</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/124384570">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/124384570">124384570</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n80023633">n80023633</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000121073311">0000 0001 2107 3311</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/2000862-4">2000862-4</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/027258912">027258912</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb11869612r">cb11869612r</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb11869612r">(data)</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1249
+Cached time: 20170924013353
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.524 seconds
+Real time usage: 0.688 seconds
+Preprocessor visited node count: 3944/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 168454/2097152 bytes
+Template argument size: 15571/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 7/500
+Lua time usage: 0.215/10.000 seconds
+Lua memory usage: 5.54 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  567.884      1 -total
+ 33.24%  188.758      1 Template:Reflist
+ 25.13%  142.711     32 Template:Cite_web
+ 20.09%  114.104      1 Template:Infobox_university
+ 18.38%  104.374      1 Template:Infobox
+ 15.24%   86.520      4 Template:Ambox
+ 11.51%   65.355      1 Template:Multiple_issues
+  9.70%   55.096      4 Template:Hidden
+  6.74%   38.279      2 Template:Br_separated_entries
+  4.70%   26.682      1 Template:Ifempty
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1776351-0!canonical and timestamp 20170924013352 and revision id 799222713
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=University_of_Erlangen-Nuremberg&amp;oldid=799222713">https://en.wikipedia.org/w/index.php?title=University_of_Erlangen-Nuremberg&amp;oldid=799222713</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:University_of_Erlangen-Nuremberg" title="Category:University of Erlangen-Nuremberg">University of Erlangen-Nuremberg</a></li><li><a href="/wiki/Category:1742_establishments_in_the_Holy_Roman_Empire" title="Category:1742 establishments in the Holy Roman Empire">1742 establishments in the Holy Roman Empire</a></li><li><a href="/wiki/Category:Educational_institutions_established_in_the_1740s" title="Category:Educational institutions established in the 1740s">Educational institutions established in the 1740s</a></li><li><a href="/wiki/Category:Universities_in_Germany" title="Category:Universities in Germany">Universities in Germany</a></li><li><a href="/wiki/Category:Universities_and_colleges_in_Bavaria" title="Category:Universities and colleges in Bavaria">Universities and colleges in Bavaria</a></li><li><a href="/wiki/Category:Education_in_Erlangen" title="Category:Education in Erlangen">Education in Erlangen</a></li><li><a href="/wiki/Category:Education_in_Nuremberg" title="Category:Education in Nuremberg">Education in Nuremberg</a></li><li><a href="/wiki/Category:Engineering_universities_and_colleges_in_Germany" title="Category:Engineering universities and colleges in Germany">Engineering universities and colleges in Germany</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Articles_with_a_promotional_tone_from_January_2017" title="Category:Articles with a promotional tone from January 2017">Articles with a promotional tone from January 2017</a></li><li><a href="/wiki/Category:All_articles_with_a_promotional_tone" title="Category:All articles with a promotional tone">All articles with a promotional tone</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_February_2017" title="Category:Articles needing additional references from February 2017">Articles needing additional references from February 2017</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_containing_Latin-language_text" title="Category:Articles containing Latin-language text">Articles containing Latin-language text</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Articles_containing_German-language_text" title="Category:Articles containing German-language text">Articles containing German-language text</a></li><li><a href="/wiki/Category:Articles_to_be_expanded_from_February_2017" title="Category:Articles to be expanded from February 2017">Articles to be expanded from February 2017</a></li><li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li><li><a href="/wiki/Category:Articles_using_small_message_boxes" title="Category:Articles using small message boxes">Articles using small message boxes</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=University+of+Erlangen-Nuremberg" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=University+of+Erlangen-Nuremberg" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/University_of_Erlangen-Nuremberg" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:University_of_Erlangen-Nuremberg" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/University_of_Erlangen-Nuremberg">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/University_of_Erlangen-Nuremberg" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/University_of_Erlangen-Nuremberg" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=University_of_Erlangen-Nuremberg&amp;oldid=799222713" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=University_of_Erlangen-Nuremberg&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q40025" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=University_of_Erlangen-Nuremberg&amp;id=799222713" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=University+of+Erlangen-Nuremberg">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=University+of+Erlangen-Nuremberg&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DUniversity%2Bof%2BErlangen-Nuremberg%26returnto%3DUniversity%2Bof%2BErlangen-Nuremberg%26oldid%3D799222713%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=University_of_Erlangen-Nuremberg&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Friedrich-Alexander-Universit%C3%A4t_Erlangen-N%C3%BCrnberg" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D8%A5%D8%B1%D9%84%D9%86%D8%BA%D9%86_%D9%86%D9%88%D8%B1%D9%86%D8%A8%D9%8A%D8%B1%D8%BA" title="جامعة إرلنغن نورنبيرغ – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A3%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D1%96%D1%82%D1%8D%D1%82_%D0%AD%D1%80%D0%BB%D0%B0%D0%BD%D0%B3%D0%B5%D0%BD%D0%B0_%E2%80%94_%D0%9D%D1%8E%D1%80%D0%BD%D0%B1%D0%B5%D1%80%D0%B3%D0%B0" title="Універсітэт Эрлангена — Нюрнберга – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Universitat_d%27Erlangen-Nuremberg" title="Universitat d'Erlangen-Nuremberg – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Friedrich-Alexander-Universit%C3%A4t_Erlangen-N%C3%BCrnberg" title="Friedrich-Alexander-Universität Erlangen-Nürnberg – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Friedrich-Alexander-Universit%C3%A4t_Erlangen-N%C3%BCrnberg" title="Friedrich-Alexander-Universität Erlangen-Nürnberg – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Erlangen-N%C3%BCrnbergi_Friedrich-Alexanderi_%C3%9Clikool" title="Erlangen-Nürnbergi Friedrich-Alexanderi Ülikool – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Universidad_de_Erlangen-N%C3%BAremberg" title="Universidad de Erlangen-Núremberg – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Universitato_Frederiko_Aleksandro_Erlangeno-Nurenbergo" title="Universitato Frederiko Aleksandro Erlangeno-Nurenbergo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Universit%C3%A9_Friedrich-Alexander_d%27Erlangen-Nuremberg" title="Université Friedrich-Alexander d'Erlangen-Nuremberg – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%94%84%EB%A6%AC%EB%93%9C%EB%A6%AC%ED%9E%88_%EC%95%8C%EB%A0%89%EC%82%B0%EB%8D%94_%EB%8C%80%ED%95%99%EA%B5%90" title="프리드리히 알렉산더 대학교 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Universit%C3%A0_Friedrich-Alexander_di_Erlangen-Norimberga" title="Università Friedrich-Alexander di Erlangen-Norimberga – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Academia_Regia_Friderico-Alexandrina" title="Academia Regia Friderico-Alexandrina – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Erlangeno-Niurnbergo_universitetas" title="Erlangeno-Niurnbergo universitetas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Friedrich-Alexander-Universit%C3%A4t_Erlangen-N%C3%BCrnberg" title="Friedrich-Alexander-Universität Erlangen-Nürnberg – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%83%BC%E3%83%89%E3%83%AA%E3%83%92%E3%83%BB%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E5%A4%A7%E5%AD%A6%E3%82%A8%E3%82%A2%E3%83%A9%E3%83%B3%E3%82%B2%E3%83%B3%EF%BC%9D%E3%83%8B%E3%83%A5%E3%83%AB%E3%83%B3%E3%83%99%E3%83%AB%E3%82%AF" title="フリードリヒ・アレクサンダー大学エアランゲン＝ニュルンベルク – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Friedrich-Alexander-Universit%C3%A4t_Erlangen-N%C3%BCrnberg" title="Friedrich-Alexander-Universität Erlangen-Nürnberg – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Universidade_de_Erlangen-Nuremberga" title="Universidade de Erlangen-Nuremberga – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Universitatea_Friedrich-Alexander_din_Erlangen-N%C3%BCrnberg" title="Universitatea Friedrich-Alexander din Erlangen-Nürnberg – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%AD%D1%80%D0%BB%D0%B0%D0%BD%D0%B3%D0%B5%D0%BD%D0%B0_%E2%80%94_%D0%9D%D1%8E%D1%80%D0%BD%D0%B1%D0%B5%D1%80%D0%B3%D0%B0" title="Университет Эрлангена — Нюрнберга – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Friedrich-Alexander-Universit%C3%A4t_Erlangen-N%C3%BCrnberg" title="Friedrich-Alexander-Universität Erlangen-Nürnberg – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Friedrich-Alexander-Universit%C3%A4t_Erlangen-N%C3%BCrnberg" title="Friedrich-Alexander-Universität Erlangen-Nürnberg – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Friedrich-Alexander-Universit%C3%A4t_Erlangen-N%C3%BCrnberg" title="Friedrich-Alexander-Universität Erlangen-Nürnberg – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A3%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%95%D1%80%D0%BB%D0%B0%D0%BD%D0%B3%D0%B5%D0%BD%D0%B0%E2%80%94%D0%9D%D1%8E%D1%80%D0%BD%D0%B1%D0%B5%D1%80%D0%B3%D0%B0" title="Університет Ерлангена—Нюрнберга – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%9F%83%E5%B0%94%E6%9C%97%E6%A0%B9-%E7%BA%BD%E4%BC%A6%E5%A0%A1%E5%A4%A7%E5%AD%A6" title="埃尔朗根-纽伦堡大学 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q40025#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 6 September 2017, at 11:44.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=University_of_Erlangen-Nuremberg&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.524","walltime":"0.688","ppvisitednodes":{"value":3944,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":168454,"limit":2097152},"templateargumentsize":{"value":15571,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  567.884      1 -total"," 33.24%  188.758      1 Template:Reflist"," 25.13%  142.711     32 Template:Cite_web"," 20.09%  114.104      1 Template:Infobox_university"," 18.38%  104.374      1 Template:Infobox"," 15.24%   86.520      4 Template:Ambox"," 11.51%   65.355      1 Template:Multiple_issues","  9.70%   55.096      4 Template:Hidden","  6.74%   38.279      2 Template:Br_separated_entries","  4.70%   26.682      1 Template:Ifempty"]},"scribunto":{"limitreport-timeusage":{"value":"0.215","limit":"10.000"},"limitreport-memusage":{"value":5809449,"limit":52428800}},"cachereport":{"origin":"mw1249","timestamp":"20170924013353","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":85,"wgHostname":"mw1270"});});</script>
+	</body>
+</html>

@@ -1,0 +1,1304 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Gera - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Gera","wgTitle":"Gera","wgCurRevisionId":796296888,"wgRevisionId":796296888,"wgArticleId":244648,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","CS1 maint: Multiple names: authors list","Coordinates on Wikidata","All articles that may contain original research","Articles that may contain original research from March 2011","Articles containing potentially dated statements from 2009","All articles containing potentially dated statements","Wikipedia articles with VIAF identifiers","Wikipedia articles with GND identifiers","Cities in Thuringia","Principality of Reuss-Gera","Gera","Holocaust locations in Germany"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Gera","wgRelevantArticleId":244648,"wgRequestId":"WcctfgpAMFoAAEVGiNkAAAAF","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":50.880555555556,"lon":12.083333333333},"wgWikibaseItemId":"Q3750","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Blick_vom_Rathausturm_%C3%BCber_Gera.jpg/1200px-Blick_vom_Rathausturm_%C3%BCber_Gera.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Gera"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Gera&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Gera&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Gera"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Gera rootpage-Gera skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Gera</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Gera_(disambiguation)" class="mw-disambig" title="Gera (disambiguation)">Gera (disambiguation)</a>.</div>
+<table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org"><span class="wrap">Gera</span></span></th>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Blick_vom_Rathausturm_%C3%BCber_Gera.jpg" class="image" title="A view of Gera"><img alt="A view of Gera" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Blick_vom_Rathausturm_%C3%BCber_Gera.jpg/250px-Blick_vom_Rathausturm_%C3%BCber_Gera.jpg" width="250" height="188" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Blick_vom_Rathausturm_%C3%BCber_Gera.jpg/375px-Blick_vom_Rathausturm_%C3%BCber_Gera.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Blick_vom_Rathausturm_%C3%BCber_Gera.jpg/500px-Blick_vom_Rathausturm_%C3%BCber_Gera.jpg 2x" data-file-width="2272" data-file-height="1704" /></a>
+<div>A view of Gera</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" class="maptable" style="text-align:center">
+<table style="width:100%; background:none;">
+<tr>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Wappen_Gera.svg" class="image" title="Coat of arms of Gera  "><img alt="Coat of arms of Gera  " src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Wappen_Gera.svg/80px-Wappen_Gera.svg.png" width="80" height="79" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Wappen_Gera.svg/120px-Wappen_Gera.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Wappen_Gera.svg/160px-Wappen_Gera.svg.png 2x" data-file-width="2330" data-file-height="2298" /></a><br />
+<small>Coat of arms</small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div style="width:170px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:170px;padding:0">
+<div style="position:relative;width:170px"><a href="/wiki/File:Germany_adm_location_map.svg" class="image" title="Gera   is located in Germany"><img alt="Gera   is located in Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/170px-Germany_adm_location_map.svg.png" width="170" height="202" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/255px-Germany_adm_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/340px-Germany_adm_location_map.svg.png 2x" data-file-width="1073" data-file-height="1272" /></a>
+<div style="position:absolute;top:53.411%;left:65.833%">
+<div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Gera  " src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" title="Gera  " width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><span style="padding:1px;float:left"><span class="wrap">Gera</span></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedrow">
+<td colspan="2" style="text-align: center;">
+<div class="NavFrame collapsed" style="border:line;">
+<div class="NavHead" style="background:transparent;text-align:left;height:auto; padding:0.2em; padding-left:0.6em; padding-right:2em;">Location of Gera within Thuringia&#160;</div>
+<div class="NavContent" style="background:transparent;text-align:left;"><a href="/wiki/File:Location_map_G_in_Thuringia.svg" class="image"><img alt="Location map G in Thuringia.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Location_map_G_in_Thuringia.svg/250px-Location_map_G_in_Thuringia.svg.png" width="250" height="196" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Location_map_G_in_Thuringia.svg/375px-Location_map_G_in_Thuringia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Location_map_G_in_Thuringia.svg/500px-Location_map_G_in_Thuringia.svg.png 2x" data-file-width="966" data-file-height="758" /></a></div>
+</div>
+</td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Gera&amp;params=50_52_50_N_12_05_00_E_type:city(96011)_region:DE-TH"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">50°52′50″N</span> <span class="longitude">12°05′00″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">50.88056°N 12.08333°E</span><span style="display:none">﻿ / <span class="geo">50.88056; 12.08333</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Gera&amp;params=50_52_50_N_12_05_00_E_type:city(96011)_region:DE-TH"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">50°52′50″N</span> <span class="longitude">12°05′00″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">50.88056°N 12.08333°E</span><span style="display:none">﻿ / <span class="geo">50.88056; 12.08333</span></span></span></a></span></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Country</th>
+<td><a href="/wiki/Germany" title="Germany">Germany</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/States_of_Germany" title="States of Germany">State</a></th>
+<td><a href="/wiki/Thuringia" title="Thuringia">Thuringia</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Districts_of_Germany" title="Districts of Germany">District</a></th>
+<td><a href="/wiki/Urban_districts_of_Germany" class="mw-redirect" title="Urban districts of Germany">Urban district</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">First mentioned</th>
+<td>995</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Government</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/Lord_Mayor" class="mw-redirect" title="Lord Mayor">Lord Mayor</a></th>
+<td>Viola Hahn</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Area</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>151.93&#160;km<sup>2</sup> (58.66&#160;sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Elevation</th>
+<td>205&#160;m (673&#160;ft)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(2015-12-31)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>96,011</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Density</th>
+<td>630/km<sup>2</sup> (1,600/sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="/wiki/Central_European_Time" title="Central European Time">CET</a>/<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a> (UTC+1/+2)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/List_of_postal_codes_in_Germany" title="List of postal codes in Germany">Postal codes</a></th>
+<td class="adr"><span class="postal-code">07545–07557</span></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/List_of_dialling_codes_in_Germany" title="List of dialling codes in Germany">Dialling codes</a></th>
+<td>0365, 0336695</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Vehicle_registration_plate" title="Vehicle registration plate">Vehicle registration</a></th>
+<td>G</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.gera.de/">www.gera.de</a></td>
+</tr>
+</table>
+<p><b>Gera</b> is the third-largest city in <a href="/wiki/Thuringia" title="Thuringia">Thuringia</a>, <a href="/wiki/Germany" title="Germany">Germany</a>, with 96,000 inhabitants, located 55 kilometres (34 miles) south of <a href="/wiki/Leipzig" title="Leipzig">Leipzig</a>, 75&#160;km (47 miles) east of <a href="/wiki/Erfurt" title="Erfurt">Erfurt</a> and 120&#160;km (75 miles) west of <a href="/wiki/Dresden" title="Dresden">Dresden</a>.</p>
+<p>Gera was first mentioned in 995 and developed to a city during the 13th century. Later, it was the residence of several lines of the <a href="/wiki/Reuss_(state)" class="mw-redirect" title="Reuss (state)">Reussians</a> until the end of monarchy in Germany in 1918. Over the 19th century, Gera became a centre of the textile industry and saw a period of rapid growth. In 1952, the city also became an administrative centre in GDR as one of the capitals of <a href="/wiki/Gera_(Bezirk)" class="mw-redirect" title="Gera (Bezirk)">Gera administrative district (Bezirk)</a>. In 1990, Gera became part of re-established Thuringia. The loss of its administrative functions as well as its industrial core (caused both by structural change among the European textile industry and the economic system change after the German reunification) precipitated the city's slide into an enduring economic crisis.</p>
+<p>Since 1990, many of Gera's buildings have been restored and big urban planning programmes like the <a href="/wiki/Bundesgartenschau" title="Bundesgartenschau">Bundesgartenschau</a> 2007 were implemented to stimulate Gera's economy. Sights include some retained buildings of the royal residence epoque and a large number of public and private buildings from the economic heyday between 1870 and 1930. The famous painter <a href="/wiki/Otto_Dix" title="Otto Dix">Otto Dix</a> was born in Gera in 1891.</p>
+<p>Gera lies in a hilly landscape in the east of Thuringia, within the wide valley of the <a href="/wiki/Wei%C3%9Fe_Elster" class="mw-redirect" title="Weiße Elster">Weiße Elster</a> river.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Middle_Ages"><span class="tocnumber">1.1</span> <span class="toctext">Middle Ages</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Early_modern_period"><span class="tocnumber">1.2</span> <span class="toctext">Early modern period</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Since_1815"><span class="tocnumber">1.3</span> <span class="toctext">Since 1815</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Geography_and_demographics"><span class="tocnumber">2</span> <span class="toctext">Geography and demographics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Topography"><span class="tocnumber">2.1</span> <span class="toctext">Topography</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Climate"><span class="tocnumber">2.2</span> <span class="toctext">Climate</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Administrative_division"><span class="tocnumber">2.3</span> <span class="toctext">Administrative division</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Demographics"><span class="tocnumber">2.4</span> <span class="toctext">Demographics</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Culture.2C_sights_and_cityscape"><span class="tocnumber">3</span> <span class="toctext">Culture, sights and cityscape</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Museums"><span class="tocnumber">3.1</span> <span class="toctext">Museums</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Cityscape"><span class="tocnumber">3.2</span> <span class="toctext">Cityscape</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Sights_and_architectural_heritage"><span class="tocnumber">3.3</span> <span class="toctext">Sights and architectural heritage</span></a>
+<ul>
+<li class="toclevel-3 tocsection-14"><a href="#Churches"><span class="tocnumber">3.3.1</span> <span class="toctext">Churches</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#Other_sights"><span class="tocnumber">3.3.2</span> <span class="toctext">Other sights</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Economy_and_infrastructure"><span class="tocnumber">4</span> <span class="toctext">Economy and infrastructure</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#Agriculture.2C_industry_and_services"><span class="tocnumber">4.1</span> <span class="toctext">Agriculture, industry and services</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Transport"><span class="tocnumber">4.2</span> <span class="toctext">Transport</span></a>
+<ul>
+<li class="toclevel-3 tocsection-19"><a href="#By_rail"><span class="tocnumber">4.2.1</span> <span class="toctext">By rail</span></a></li>
+<li class="toclevel-3 tocsection-20"><a href="#By_road"><span class="tocnumber">4.2.2</span> <span class="toctext">By road</span></a></li>
+<li class="toclevel-3 tocsection-21"><a href="#By_aviation"><span class="tocnumber">4.2.3</span> <span class="toctext">By aviation</span></a></li>
+<li class="toclevel-3 tocsection-22"><a href="#By_bike"><span class="tocnumber">4.2.4</span> <span class="toctext">By bike</span></a></li>
+<li class="toclevel-3 tocsection-23"><a href="#Trams_and_buses"><span class="tocnumber">4.2.5</span> <span class="toctext">Trams and buses</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-24"><a href="#Education"><span class="tocnumber">4.3</span> <span class="toctext">Education</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-25"><a href="#Politics"><span class="tocnumber">5</span> <span class="toctext">Politics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-26"><a href="#Mayor_and_city_council"><span class="tocnumber">5.1</span> <span class="toctext">Mayor and city council</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#Twin_towns"><span class="tocnumber">5.2</span> <span class="toctext">Twin towns</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-28"><a href="#Notable_natives"><span class="tocnumber">6</span> <span class="toctext">Notable natives</span></a></li>
+<li class="toclevel-1 tocsection-29"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-30"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gera&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Gera_-_Stadtmauer.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Gera_-_Stadtmauer.JPG/220px-Gera_-_Stadtmauer.JPG" width="220" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Gera_-_Stadtmauer.JPG/330px-Gera_-_Stadtmauer.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/Gera_-_Stadtmauer.JPG/440px-Gera_-_Stadtmauer.JPG 2x" data-file-width="2560" data-file-height="1700" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Gera_-_Stadtmauer.JPG" class="internal" title="Enlarge"></a></div>
+Medieval city wall</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Middle_Ages">Middle Ages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gera&amp;action=edit&amp;section=2" title="Edit section: Middle Ages">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The place name <i>Gera</i> originally referred to the area of the Elster river valley where the city stands now. The name most likely<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:No_original_research" title="Wikipedia:No original research"><span title="The material near this tag possibly contains original research. (March 2011)">original research?</span></a></i>]</sup> originated before the European <a href="/wiki/Migration_Period" title="Migration Period">Migration Period</a> – the Slavic people who first settled the area during the 8th century adopted the name. The first known documentary mention of Gera dates from 995.</p>
+<p>In 999 Emperor <a href="/wiki/Otto_III,_Holy_Roman_Emperor" title="Otto III, Holy Roman Emperor">Otto III</a> assigned the "province" of Gera to the <a href="/wiki/Quedlinburg_Abbey" title="Quedlinburg Abbey">Quedlinburg Abbey</a>. In turn, the church assigned the protectorship of this area in 1209 to the <a href="/wiki/Vogt" title="Vogt">Vogts</a> of <a href="/wiki/Weida,_Thuringia" title="Weida, Thuringia">Weida</a> (in German: <i>Vögte von Weida</i>) who served as its administrators. The Vogts of Weida were the ancestors of the <a href="/wiki/Reuss_(state)" class="mw-redirect" title="Reuss (state)">Reussians</a>, who ruled Gera until 1918. Gera was first mentioned as a town in 1237, though it is unclear in which year Gera got the municipal law. The small town got circumvallated in the 13th century on an area of 350 x 350 m and the Vogts' city castle was built in the south-western corner at today's Burgstraße. A municipal seal was first used in 1350, the council was first named in 1360 and the town hall was mentioned in 1426. The abbess of Quedlinburg remained the formal sovereign of Gera until 1358, as the <a href="/wiki/House_of_Wettin" title="House of Wettin">Wettins</a> followed her up. The Vogt's couldn't emancipate theirselfs from Wettin rule. In 1450, Gera was almost totally destroyed during the <a href="/wiki/Saxon_Fratricidal_War" title="Saxon Fratricidal War">Saxon Fratricidal War</a>, but it could recuperate quick because the starting textile manufacture brought wealth to the town.</p>
+<h3><span class="mw-headline" id="Early_modern_period">Early modern period</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gera&amp;action=edit&amp;section=3" title="Edit section: Early modern period">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Heinrich_Posthumus_Reu%C3%9F.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Heinrich_Posthumus_Reu%C3%9F.jpg/220px-Heinrich_Posthumus_Reu%C3%9F.jpg" width="220" height="305" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Heinrich_Posthumus_Reu%C3%9F.jpg/330px-Heinrich_Posthumus_Reu%C3%9F.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/f/f3/Heinrich_Posthumus_Reu%C3%9F.jpg 2x" data-file-width="425" data-file-height="589" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Heinrich_Posthumus_Reu%C3%9F.jpg" class="internal" title="Enlarge"></a></div>
+Henry II of Reuss</div>
+</div>
+</div>
+<p>The <a href="/wiki/German_Reformation" class="mw-redirect" title="German Reformation">Reformation</a> was introduced in Gera in 1533 against the will of the Vogts by the Wettins. After the <a href="/wiki/Schmalkaldic_War" title="Schmalkaldic War">Schmalkaldic War</a> in 1546, the Wettins lost Gera to the <a href="/wiki/Lands_of_the_Bohemian_Crown" title="Lands of the Bohemian Crown">Bohemian Crown</a>, who however had no influence on the city, so that the Vogts resp. the Reussians (which arose from the Vogts in the mid-16th century) as indeed rulers were strengthened. During the 16th century, some cloth-makers from the <a href="/wiki/Spanish_Netherlands" title="Spanish Netherlands">Spanish Netherlands</a> migrated to Gera as religious refugees at <a href="/wiki/Henry_II,_Count_of_Reuss-Gera" title="Henry II, Count of Reuss-Gera">Count Henry's</a> invitation and raised the textile business in Gera. In the 18th century, there was a first peak in this industry (<a href="/wiki/Putting-out_system" title="Putting-out system">Putting-out system</a>), which can be seen today at the large agents houses.</p>
+<p>In 1673, the Reussians were raised to <a href="/wiki/Imperial_Count" title="Imperial Count">Imperial Counts</a> which granted them full sovereignty within the <a href="/wiki/Holy_Roman_Empire" title="Holy Roman Empire">Holy Roman Empire</a>; Gera became their royal residence. In 1686 and 1780, big town fires destroyed most buildings in Gera. The town was rebuilt relatively uniform during the 1780s in late-Baroque style, which marks the inner city until today.</p>
+<p>In 1806 <a href="/wiki/Napoleon" title="Napoleon">Napoleon</a> established his Imperial Headquarters at Gera during the <a href="/wiki/War_of_the_Fourth_Coalition" title="War of the Fourth Coalition">War of the Fourth Coalition</a>. From here, on October 12, 1806, the French Emperor purposely sent an arrogant and threatening letter to King <a href="/wiki/Frederick_William_III_of_Prussia" title="Frederick William III of Prussia">Frederick William III of Prussia</a> – a letter that enticed <a href="/wiki/Kingdom_of_Prussia" title="Kingdom of Prussia">Prussia</a> to war and a crushing defeat at the <a href="/wiki/Battle_of_Jena" class="mw-redirect" title="Battle of Jena">Battle of Jena</a> a few days later.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<h3><span class="mw-headline" id="Since_1815">Since 1815</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gera&amp;action=edit&amp;section=4" title="Edit section: Since 1815">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Gera_-_Heinrichstrasse_mit_Stadtmuseum.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Gera_-_Heinrichstrasse_mit_Stadtmuseum.jpg/220px-Gera_-_Heinrichstrasse_mit_Stadtmuseum.jpg" width="220" height="140" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Gera_-_Heinrichstrasse_mit_Stadtmuseum.jpg/330px-Gera_-_Heinrichstrasse_mit_Stadtmuseum.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/Gera_-_Heinrichstrasse_mit_Stadtmuseum.jpg/440px-Gera_-_Heinrichstrasse_mit_Stadtmuseum.jpg 2x" data-file-width="1280" data-file-height="817" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Gera_-_Heinrichstrasse_mit_Stadtmuseum.jpg" class="internal" title="Enlarge"></a></div>
+The Heinrichstraße in the 1900s</div>
+</div>
+</div>
+<p>The Gera line of Reussians died out in 1802, so that it had no royal residence until the new one moved there from <a href="/wiki/Schleiz" title="Schleiz">Schleiz</a> in 1848. From 1848 to 1918 Gera served as the capital of the <a href="/wiki/Principality_of_Reuss-Gera" title="Principality of Reuss-Gera">Principality of Reuss-Gera</a>. With the industrial revolution in the mid-19th century, Gera grew rapidly, due largely to its textile industry, which saw the first <a href="/wiki/Power_loom" title="Power loom">Power loom</a> installed in 1836. In 1859, Gera was first connected by railway to <a href="/wiki/Halle_(Saale)" title="Halle (Saale)">Halle</a> via <a href="/wiki/Zeitz" title="Zeitz">Zeitz</a> and <a href="/wiki/Wei%C3%9Fenfels" title="Weißenfels">Weißenfels</a>. During the following decades, rail lines in all directions made Gera to a transport hub, and the town kept growing. The second electric tram in Germany was installed in Gera in 1892.</p>
+<p>After World War I, during the <a href="/wiki/German_Revolution_of_1918%E2%80%9319" title="German Revolution of 1918–19">German Revolution of 1918–19</a>, the prince of Reuss was forced to abdicate and as the resultant "<a href="/wiki/Republic_of_Reuss" class="mw-redirect" title="Republic of Reuss">Republic of Reuss</a>" joined the newly founded state of <a href="/wiki/Thuringia" title="Thuringia">Thuringia</a> in 1920. After the incorporation of some suburbs in the 1910s and 1920s Gera, with some 80,000 inhabitants, was the largest city in Thuringia, although the more centrally located <a href="/wiki/Weimar" title="Weimar">Weimar</a> became its capital.</p>
+<p>After the Nazi takeover of Germany, the Jewish community of Gera was destroyed, the synagogue burnt down in the <a href="/wiki/Kristallnacht" title="Kristallnacht">Kristallnacht</a> in 1938 and the city's Jews emigrated or were murdered in concentration camps. A month before the end of World War II, on 6 April 1945, U.S. bombing destroyed parts of the city and killed 514 residents. Some 300 buildings were hit, including the Osterstein castle and several historic buildings in city centre, many of which weren't rebuilt after the war. U.S. forces occupied Gera on 14 April 1945 but were replaced by the Soviets on 1 July 1945.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Bundesarchiv_Bild_183-N0617-0323,_Gera,_Wohnblocks.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bundesarchiv_Bild_183-N0617-0323%2C_Gera%2C_Wohnblocks.jpg/220px-Bundesarchiv_Bild_183-N0617-0323%2C_Gera%2C_Wohnblocks.jpg" width="220" height="132" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bundesarchiv_Bild_183-N0617-0323%2C_Gera%2C_Wohnblocks.jpg/330px-Bundesarchiv_Bild_183-N0617-0323%2C_Gera%2C_Wohnblocks.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bundesarchiv_Bild_183-N0617-0323%2C_Gera%2C_Wohnblocks.jpg/440px-Bundesarchiv_Bild_183-N0617-0323%2C_Gera%2C_Wohnblocks.jpg 2x" data-file-width="784" data-file-height="472" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Bundesarchiv_Bild_183-N0617-0323,_Gera,_Wohnblocks.jpg" class="internal" title="Enlarge"></a></div>
+Inner-city <i>Plattenbau</i> architecture in 1974, with Trinity Church in background</div>
+</div>
+</div>
+<p>Gera became part of the <a href="/wiki/GDR" class="mw-redirect" title="GDR">GDR</a> in 1949 and was a flash point in the <a href="/wiki/Uprising_of_1953_in_East_Germany" title="Uprising of 1953 in East Germany">Uprising of 1953 in East Germany</a> as thousands of workers – among them many employees of the Soviet-established <a href="/wiki/Wismut_(mining_company)" title="Wismut (mining company)">Wismut</a> uranium mining entity in the nearby <a href="/wiki/Ore_Mountains" title="Ore Mountains">Ore Mountains</a> (<i>Erzgebirge</i>) – demanded higher wages and free elections. The demonstrations were put down by Soviet military forces, including armored units.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p>With governmental reorganization in East Germany, the city became the capital of the newly created <a href="/wiki/Gera_(Bezirk)" class="mw-redirect" title="Gera (Bezirk)">District of Gera</a> in 1952. The population rose during the GDR period, and massive <i><a href="/wiki/Plattenbau" title="Plattenbau">Plattenbau</a></i> prefabricated apartment blocks, built throughout East Germany, were constructed in Gera.</p>
+<p>After <a href="/wiki/German_reunification" title="German reunification">German reunification</a> in 1990, Gera became part of the restored state of Thuringia. However, Gera lost most of its administrative functions after reunification, and nearly all the city's factories were closed. This led to a continuing economic crisis with significant unemployment, and the city's population declined from 135,000 in 1990 to less than 100,000 a decade later.</p>
+<p>The city hosted the <a href="/wiki/Bundesgartenschau" title="Bundesgartenschau">Bundesgartenschau</a> (federal horticultural exhibition) in 2007.</p>
+<h2><span class="mw-headline" id="Geography_and_demographics">Geography and demographics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gera&amp;action=edit&amp;section=5" title="Edit section: Geography and demographics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Gera_-_Heinrich_bridge_2009_1_(aka).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Gera_-_Heinrich_bridge_2009_1_%28aka%29.jpg/220px-Gera_-_Heinrich_bridge_2009_1_%28aka%29.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Gera_-_Heinrich_bridge_2009_1_%28aka%29.jpg/330px-Gera_-_Heinrich_bridge_2009_1_%28aka%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Gera_-_Heinrich_bridge_2009_1_%28aka%29.jpg/440px-Gera_-_Heinrich_bridge_2009_1_%28aka%29.jpg 2x" data-file-width="2000" data-file-height="1339" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Gera_-_Heinrich_bridge_2009_1_(aka).jpg" class="internal" title="Enlarge"></a></div>
+The Weiße Elster river in Gera</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Topography">Topography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gera&amp;action=edit&amp;section=6" title="Edit section: Topography">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Gera is located in a smooth-hilly landscape in eastern Thuringia at the <a href="/wiki/Wei%C3%9Fe_Elster" class="mw-redirect" title="Weiße Elster">Weiße Elster</a> river, between the <a href="/wiki/Thuringian_Highland" title="Thuringian Highland">Thuringian Highland</a> approx. 50&#160;km (31&#160;mi) in the south-west, the <a href="/wiki/Ore_Mountains" title="Ore Mountains">Ore Mountains</a> approx. 50&#160;km (31&#160;mi) in the south-east and the <a href="/wiki/Leipzig_Bay" title="Leipzig Bay">Leipzig Bay</a> approx. 50&#160;km (31&#160;mi) in the north. The municipal territory is marked by the Elster valley, crossing it in south-northern direction. West of the valley, the landscape is more hilly and forested (with the Gera Municipal Forest), whereas the eastern parts are more flat and in agricultural use. The elevation is between 180 metres (the level of the White Elster river) and 354&#160;m (1,161.42&#160;ft) (when measured at Gera-Falka at the furthest southeastern point). Usually the height <a href="/wiki/Above_mean_sea_level" class="mw-redirect" title="Above mean sea level">above sea level</a> for the city appears as 205&#160;m (673&#160;ft) when measured at the market place.</p>
+<p>Small tributaries of the Weiße Elster river within the borders of Gera are the <i>Erlbach</i> on the western side and the <i>Wipsenbach</i>, <i>Gessenbach</i> and <i>Brahme</i> on the eastern side.</p>
+<h3><span class="mw-headline" id="Climate">Climate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gera&amp;action=edit&amp;section=7" title="Edit section: Climate">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Gera has a <a href="/wiki/Humid_continental_climate" title="Humid continental climate">humid continental climate</a> (Dfb) or an <a href="/wiki/Oceanic_climate" title="Oceanic climate">oceanic climate</a> (<i>Cfb</i>) according to the <a href="/wiki/K%C3%B6ppen_climate_classification" title="Köppen climate classification">Köppen climate classification</a> system.<sup id="cite_ref-koppen_5-0" class="reference"><a href="#cite_note-koppen-5">[5]</a></sup><sup id="cite_ref-Peel_6-0" class="reference"><a href="#cite_note-Peel-6">[6]</a></sup> Summers are warm and sometimes humid, winters are relatively cold. The city's topography creates a microclimate caused through the basin position with sometimes <a href="/wiki/Inversion_(meteorology)" title="Inversion (meteorology)">inversion</a> in winter (quite cold nights under −20&#160;°C (−4&#160;°F)) and heat and inadequate air circulation in summer. Annual precipitation is only 591 millimeters (23.3&#160;in) with moderate rainfall throughout the year. Light snowfall mainly occurs from December through February, but snow cover does not usually remain for long.</p>
+<h3><span class="mw-headline" id="Administrative_division">Administrative division</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gera&amp;action=edit&amp;section=8" title="Edit section: Administrative division">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Gera_-_Statistische_Gliederung.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Gera_-_Statistische_Gliederung.png/220px-Gera_-_Statistische_Gliederung.png" width="220" height="386" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Gera_-_Statistische_Gliederung.png/330px-Gera_-_Statistische_Gliederung.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Gera_-_Statistische_Gliederung.png/440px-Gera_-_Statistische_Gliederung.png 2x" data-file-width="968" data-file-height="1700" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Gera_-_Statistische_Gliederung.png" class="internal" title="Enlarge"></a></div>
+District map</div>
+</div>
+</div>
+<p>Gera abuts the following municipalities:</p>
+<ul>
+<li>in the <a href="/wiki/Burgenlandkreis" title="Burgenlandkreis">Burgenlandkreis</a> district in the north: <a href="/wiki/Wetterzeube" title="Wetterzeube">Wetterzeube</a> and <a href="/wiki/Gutenborn" title="Gutenborn">Gutenborn</a> in the federal state of <a href="/wiki/Saxony-Anhalt" title="Saxony-Anhalt">Saxony-Anhalt</a></li>
+<li>in the <a href="/wiki/Greiz_(district)" title="Greiz (district)">Greiz</a> district in the east: <a href="/wiki/P%C3%B6lzig" title="Pölzig">Pölzig</a>, <a href="/wiki/Hirschfeld,_Thuringia" title="Hirschfeld, Thuringia">Hirschfeld</a>, <a href="/wiki/Brahmenau" title="Brahmenau">Brahmenau</a>, <a href="/wiki/Schwaara" title="Schwaara">Schwaara</a>, <a href="/wiki/Korbu%C3%9Fen" title="Korbußen">Korbußen</a>, <a href="/wiki/Ronneburg,_Thuringia" title="Ronneburg, Thuringia">Ronneburg</a>, <a href="/wiki/Kauern" title="Kauern">Kauern</a>, <a href="/wiki/Hilbersdorf" title="Hilbersdorf">Hilbersdorf</a> and <a href="/wiki/Linda_bei_Weida" title="Linda bei Weida">Linda</a>; in the south: <a href="/wiki/Endsch%C3%BCtz" title="Endschütz">Endschütz</a>, <a href="/wiki/W%C3%BCnschendorf/Elster" title="Wünschendorf/Elster">Wünschendorf</a>, <a href="/wiki/Zedlitz" title="Zedlitz">Zedlitz</a> and <a href="/wiki/Hundhaupten" title="Hundhaupten">Hundhaupten</a>; in the west: <a href="/wiki/Saara,_Greiz" title="Saara, Greiz">Saara</a>, <a href="/wiki/Kraftsdorf" title="Kraftsdorf">Kraftsdorf</a>, <a href="/wiki/Hartmannsdorf,_Greiz" title="Hartmannsdorf, Greiz">Hartmannsdorf</a> and <a href="/wiki/Bad_K%C3%B6stritz" title="Bad Köstritz">Bad Köstritz</a></li>
+<li>in the <a href="/wiki/Saale-Holzland-Kreis" title="Saale-Holzland-Kreis">Saale-Holzland</a> district: <a href="/wiki/Silbitz" title="Silbitz">Silbitz</a> in the north-west.</li>
+</ul>
+<p>Gera is divided in different ways. Historically, there are more than 60 villages in the densely settled Elster valley area belonging to Gera today. The actual division knows on the one hand statistical districts and on the other hand political districts. The 12 statistical districts are covering the whole city area and consist of (sometimes) several political districts, urban quarters and/or rural villages. The 16 political districts are covering only few parts of Gera, but not the central urban areas, instead usually rural districts got incorporated during the second half of the 20th century. Each political district can (but doesn't have to) consist of more than one village. Each political district elects an own district council and a district mayor, whereas the statistical districts don't have any political function.</p>
+<table>
+<tr>
+<td valign="top" width="50%">
+<p>The 12 statistical districts are:</p>
+</td>
+<td valign="top" width="25%">
+<p>The 16 political districts are:</p>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td valign="top" width="25%">
+<ul>
+<li>1 – Stadtmitte</li>
+<li>2 – Debschwitz</li>
+<li>3 – Gera-Ost</li>
+<li>4 – Gera-Nord/Langenberg</li>
+<li>5 – Bieblach-Ost</li>
+<li>6 – Bieblach/Tinz</li>
+</ul>
+</td>
+<td valign="top" width="25%">
+<ul>
+<li>7 – Untermhaus</li>
+<li>8 – Gera-Westvororte</li>
+<li>9 – Zwötzen/Liebschwitz</li>
+<li>10 – Lusan-Laune</li>
+<li>11 – Lusan-Zentrum</li>
+<li>12 – Lusan-Brüte</li>
+</ul>
+</td>
+<td valign="top" width="25%">
+<ul>
+<li>Aga</li>
+<li>Cretzschwitz/Söllmnitz</li>
+<li>Falka</li>
+<li>Frankenthal</li>
+<li>Hain</li>
+<li>Hermsdorf</li>
+<li>Langenberg</li>
+<li>Liebschwitz</li>
+</ul>
+</td>
+<td valign="top" width="25%">
+<ul>
+<li>Milbitz/Thieschitz/Rubitz</li>
+<li>Naulitz</li>
+<li>Roben</li>
+<li>Röpsen</li>
+<li>Scheubengrobsdorf</li>
+<li>Thränitz</li>
+<li>Trebnitz</li>
+<li>Weißig</li>
+</ul>
+</td>
+</tr>
+</table>
+<p>The main urban quarters are the city centre, Untermhaus (incorporated 1919) in the west, Langenberg (1950), Tinz (1919) and Bieblach (1905) in the north, Leumnitz (1919) in the east, Pforten (1919) and Zwötzen (1919) in the south-east as well as Debschwitz (1912) and Lusan (1919) in the south-west.</p>
+<h3><span class="mw-headline" id="Demographics">Demographics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gera&amp;action=edit&amp;section=9" title="Edit section: Demographics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:332px;"><a href="/wiki/File:Gera_Einwohnerentwicklung1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gera_Einwohnerentwicklung1.jpg/330px-Gera_Einwohnerentwicklung1.jpg" width="330" height="201" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gera_Einwohnerentwicklung1.jpg/495px-Gera_Einwohnerentwicklung1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gera_Einwohnerentwicklung1.jpg/660px-Gera_Einwohnerentwicklung1.jpg 2x" data-file-width="1328" data-file-height="807" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Gera_Einwohnerentwicklung1.jpg" class="internal" title="Enlarge"></a></div>
+Demographic development until 2003</div>
+</div>
+</div>
+<p>During the centuries, Gera has been a quite small town of 2,000 inhabitants. As the textile business saw a first peak, the population rose to 7,000 in 1800 and further to 17,000 after the early stage of industrialisation in 1870. Gera's heyday between 1870 and 1930 led to a demographic boom with a population of 83,000 at the end of this phase in 1930. In 1950, Gera had 98,000 inhabitants and the all-time peak was reached in 1988 with a population of 135,000. After the German reunification in 1990, the city saw a significant decline in population, despite the large incorporations of 1994. The population shrunk to 113,000 in 2000 and 95,000 in 2012.</p>
+<p>The average decrease of population between 2009 and 2012 was approximately 0.55% p. a, whereas the population in bordering rural regions is shrinking with accelerating tendency. Suburbanization played only a small role in Gera. It occurred after the reunification for a short time in the 1990s, but most of the suburban areas were situated within the administrative city borders. During the 1990s and the 2000s, many inhabitants left Gera to search a better life in west Germany or other major east German cities like <a href="/wiki/Jena" title="Jena">Jena</a> or <a href="/wiki/Leipzig" title="Leipzig">Leipzig</a>. Since 2010, emigration is no big issue anymore. Now, the birth deficit, caused by the high average age of the population, is getting a bigger problem because the immigration isn't sufficient to compensate it yet. Despite urban planning activities to tear down unused flats, vacancy is still a problem with rates around 12% (according to 2011 EU census). A positive side effect for the inhabitants is that Gera has one of the lowest rent levels in Germany.</p>
+<p>The birth deficit was 715 in 2012, this is -7.5 per 1,000 inhabitants (Thuringian average: -4.5; national average: -2.4). The net migration rate was +3.6 per 1,000 inhabitants in 2012 (Thuringian average: -0.8; national average: +4.6).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> The most important regions of origin of Gera migrants are bordering rural areas of Thuringia, <a href="/wiki/Saxony-Anhalt" title="Saxony-Anhalt">Saxony-Anhalt</a> and <a href="/wiki/Saxony" title="Saxony">Saxony</a> as well as foreign countries like Poland, Russia, Ukraine, Hungary, Serbia, Romania and Bulgaria.</p>
+<p>Like other eastern German cities, Gera has only a small amount of foreign population: circa 1.6% are non-Germans by citizenship and overall 5.0% are migrants (according to <a href="/wiki/2011_EU_census" class="mw-redirect" title="2011 EU census">2011 EU census</a>). Differing from the national average, the biggest groups of migrants in Gera are <a href="/wiki/Russians_in_Germany" title="Russians in Germany">Russians</a>, <a href="/wiki/Vietnamese_people_in_Germany" title="Vietnamese people in Germany">Vietnamese people</a> and <a href="/wiki/Ukrainians_in_Germany" title="Ukrainians in Germany">Ukrainians</a>. During recent years, the economic situation of the city improved a bit: the unemployment rate declined from 22% in 2005 to 11% in 2013, which is still the highest one out of all Thuringian districts. Due to the official atheism in former <a href="/wiki/East_Germany" title="East Germany">GDR</a>, most of the population is non-religious. 9.8% are members of the <a href="/wiki/Evangelical_Church_in_Central_Germany" title="Evangelical Church in Central Germany">Evangelical Church in Central Germany</a> and 2.6% are Catholics (according to 2011 EU census) making one of the world's lowest amounts of religious people.</p>
+<table class="infobox" style="float:right;">
+<tr>
+<td colspan="2"><b>Largest groups of foreign residents</b></td>
+</tr>
+<tr>
+<th>Nationality</th>
+<th>Population (2013)</th>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Russia" title="Russia">Russia</a></td>
+<td>168</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/23px-Flag_of_Vietnam.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/35px-Flag_of_Vietnam.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/45px-Flag_of_Vietnam.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Vietnam" title="Vietnam">Vietnam</a></td>
+<td>165</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/23px-Flag_of_Romania.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/35px-Flag_of_Romania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/45px-Flag_of_Romania.svg.png 2x" data-file-width="600" data-file-height="400" />&#160;</span><a href="/wiki/Romania" title="Romania">Romania</a></td>
+<td>142</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800" />&#160;</span><a href="/wiki/Turkey" title="Turkey">Turkey</a></td>
+<td>129</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" />&#160;</span><a href="/wiki/Poland" title="Poland">Poland</a></td>
+<td>100</td>
+</tr>
+</table>
+<h2><span id="Culture,_sights_and_cityscape"></span><span class="mw-headline" id="Culture.2C_sights_and_cityscape">Culture, sights and cityscape</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gera&amp;action=edit&amp;section=10" title="Edit section: Culture, sights and cityscape">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Museums">Museums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gera&amp;action=edit&amp;section=11" title="Edit section: Museums">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>There are some museums in Gera:</p>
+<ul>
+<li>The <i>Orangerie</i> at Orangerieplatz hosts an exhibition of art from the Middle Ages to the contemporary period.</li>
+<li>The <i>Otto-Dix-Haus</i> at Mohrenplatz 4, birth place and childhood home of the famous artist <a href="/wiki/Otto_Dix" title="Otto Dix">Otto Dix</a>, has a collection of his drawings, prints, paintings and childhood sketch books, and an exhibition about his life.</li>
+<li>The <i>Museum für Angewandte Kunst</i> at Greizer Straße shows 20th century contemporary art (inside "Ferber House"). It displays collections of <a href="/wiki/Bauhaus" title="Bauhaus">Bauhaus</a> ceramics by the artists <a href="/wiki/Otto_Lindig" title="Otto Lindig">Otto Lindig</a> und Theodor Bogler; architectural works of <a href="/w/index.php?title=Thilo_Schoder&amp;action=edit&amp;redlink=1" class="new" title="Thilo Schoder (page does not exist)">Thilo Schoder</a>; and photographs by <a href="/wiki/Aenne_Biermann" title="Aenne Biermann">Aenne Biermann</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></li>
+<li>The <i>Museum für Naturkunde</i> at Nicolaiberg hosts a natural history exhibition (inside the "Schreiber House", the oldest building in the city), with its adjacent <a href="/wiki/Botanical_garden" title="Botanical garden">botanical garden</a>, the <a href="/wiki/Botanischer_Garten_Gera" title="Botanischer Garten Gera">Botanischer Garten Gera</a></li>
+<li>The <i>Stadtmuseum</i> at Museumsplatz shows an exhibition of Gera's municipal history.</li>
+<li>The <i>Haus Schulenburg</i> at Straße des Friedens is a factory owner's mansion, built in 1913/14 by the famous architect <a href="/wiki/Henry_van_de_Velde" title="Henry van de Velde">Henry van de Velde</a>. It hosts topical furniture and decoration and can be visited.</li>
+</ul>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:38.5px auto;"><a href="/wiki/File:Orangerie_in_Gera.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Orangerie_in_Gera.jpg/120px-Orangerie_in_Gera.jpg" width="120" height="73" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Orangerie_in_Gera.jpg/180px-Orangerie_in_Gera.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Orangerie_in_Gera.jpg/240px-Orangerie_in_Gera.jpg 2x" data-file-width="1280" data-file-height="782" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Orangerie</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:29.5px auto;"><a href="/wiki/File:Gera_-_Otto_Dix_Haus.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Gera_-_Otto_Dix_Haus.jpg/120px-Gera_-_Otto_Dix_Haus.jpg" width="120" height="91" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Gera_-_Otto_Dix_Haus.jpg/180px-Gera_-_Otto_Dix_Haus.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Gera_-_Otto_Dix_Haus.jpg/240px-Gera_-_Otto_Dix_Haus.jpg 2x" data-file-width="1280" data-file-height="967" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Otto-Dix-Haus</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:19px auto;"><a href="/wiki/File:Gera_-_Ferbersches_Haus.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Gera_-_Ferbersches_Haus.JPG/120px-Gera_-_Ferbersches_Haus.JPG" width="120" height="112" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Gera_-_Ferbersches_Haus.JPG/180px-Gera_-_Ferbersches_Haus.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Gera_-_Ferbersches_Haus.JPG/240px-Gera_-_Ferbersches_Haus.JPG 2x" data-file-width="1963" data-file-height="1834" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Museum für Angewandte Kunst</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Gera_-_Schreibersches_Haus_2009.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Gera_-_Schreibersches_Haus_2009.jpg/101px-Gera_-_Schreibersches_Haus_2009.jpg" width="101" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Gera_-_Schreibersches_Haus_2009.jpg/152px-Gera_-_Schreibersches_Haus_2009.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Gera_-_Schreibersches_Haus_2009.jpg/203px-Gera_-_Schreibersches_Haus_2009.jpg 2x" data-file-width="1082" data-file-height="1280" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Museum für Naturkunde</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Stadtmuseum_Gera.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Stadtmuseum_Gera.JPG/90px-Stadtmuseum_Gera.JPG" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Stadtmuseum_Gera.JPG/135px-Stadtmuseum_Gera.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Stadtmuseum_Gera.JPG/180px-Stadtmuseum_Gera.JPG 2x" data-file-width="1007" data-file-height="1344" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Stadtmuseum</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Villa_Schulenburg_Gera.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Villa_Schulenburg_Gera.JPG/120px-Villa_Schulenburg_Gera.JPG" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Villa_Schulenburg_Gera.JPG/180px-Villa_Schulenburg_Gera.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Villa_Schulenburg_Gera.JPG/240px-Villa_Schulenburg_Gera.JPG 2x" data-file-width="1600" data-file-height="1200" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Haus Schulenburg</p>
+</div>
+</div>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Cityscape">Cityscape</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gera&amp;action=edit&amp;section=12" title="Edit section: Cityscape">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Like its western neighbour-city <a href="/wiki/Jena" title="Jena">Jena</a>, Gera is a protracted city along a wide valley in south-northern direction. The historic city centre is quite small and located between Sorge in the north, Nicolaistraße in the east, Stadtgraben in the south and Reichsstraße in the west. It survived World War II, but during the 1960s and 1970s, the GDR government demolished larger inner-city areas to rebuild them with modern concrete architecture, which marks the view of Gera's centre, particularly in the north-west until today. Between 1870 and 1930, the city was largely extended in all directions. As distinct from other German cities, there is no citywide spatial separation between the worker's quarters and the upper-class mansion districts, instead, the mansions and the tenements are situated near to each other, spread over all the districts. The hilly areas and those next to the river and the parks are more upscale, whereas the areas next to the railway and the factories are more working-class styled. Nevertheless, the <a href="/wiki/Gr%C3%BCnderzeit" title="Gründerzeit">Gründerzeit</a> architecture is quite diverse and interesting in Gera. Most buildings were extensively refurbished after 1990. Especially Gera's mansion architecture from the 1900s and 1910s is unique. The 1920s brought some modern-style <a href="/wiki/Bauhaus" title="Bauhaus">Bauhaus</a> buildings to the then rich city. During the GDR period, urban growth was handled by establishing big <a href="/wiki/Plattenbau" title="Plattenbau">Plattenbau</a> settlements on the city's periphery, like the Lusan district in south and the Bieblach district in north.</p>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Friedrich_engels_strasse_gera.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Friedrich_engels_strasse_gera.jpg/90px-Friedrich_engels_strasse_gera.jpg" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Friedrich_engels_strasse_gera.jpg/135px-Friedrich_engels_strasse_gera.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Friedrich_engels_strasse_gera.jpg/180px-Friedrich_engels_strasse_gera.jpg 2x" data-file-width="800" data-file-height="1067" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Gründerzeit architecture at Friedrich-Engels-Straße</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30.5px auto;"><a href="/wiki/File:Villa_eichenberg_gera.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Villa_eichenberg_gera.JPG/120px-Villa_eichenberg_gera.JPG" width="120" height="89" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Villa_eichenberg_gera.JPG/180px-Villa_eichenberg_gera.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Villa_eichenberg_gera.JPG/240px-Villa_eichenberg_gera.JPG 2x" data-file-width="745" data-file-height="553" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Villa Eichenberg</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Villa_hirsch_gera.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Villa_hirsch_gera.jpg/90px-Villa_hirsch_gera.jpg" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Villa_hirsch_gera.jpg/135px-Villa_hirsch_gera.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Villa_hirsch_gera.jpg/180px-Villa_hirsch_gera.jpg 2x" data-file-width="800" data-file-height="1067" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Villa Hirsch</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:28px auto;"><a href="/wiki/File:Buga07_VillaJahr.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Buga07_VillaJahr.JPG/120px-Buga07_VillaJahr.JPG" width="120" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Buga07_VillaJahr.JPG/180px-Buga07_VillaJahr.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Buga07_VillaJahr.JPG/240px-Buga07_VillaJahr.JPG 2x" data-file-width="1486" data-file-height="1162" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Villa Jahr (1905–1907)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:33px auto;"><a href="/wiki/File:Bundesarchiv_Bild_183-1990-0327-315,_Gera,_Rundfunkgeb%C3%A4ude.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bundesarchiv_Bild_183-1990-0327-315%2C_Gera%2C_Rundfunkgeb%C3%A4ude.jpg/120px-Bundesarchiv_Bild_183-1990-0327-315%2C_Gera%2C_Rundfunkgeb%C3%A4ude.jpg" width="120" height="84" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bundesarchiv_Bild_183-1990-0327-315%2C_Gera%2C_Rundfunkgeb%C3%A4ude.jpg/180px-Bundesarchiv_Bild_183-1990-0327-315%2C_Gera%2C_Rundfunkgeb%C3%A4ude.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bundesarchiv_Bild_183-1990-0327-315%2C_Gera%2C_Rundfunkgeb%C3%A4ude.jpg/240px-Bundesarchiv_Bild_183-1990-0327-315%2C_Gera%2C_Rundfunkgeb%C3%A4ude.jpg 2x" data-file-width="800" data-file-height="557" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Haus Meyer (1927)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Gera_Privatklinik_Sch%C3%A4fer.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gera_Privatklinik_Sch%C3%A4fer.jpg/120px-Gera_Privatklinik_Sch%C3%A4fer.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gera_Privatklinik_Sch%C3%A4fer.jpg/180px-Gera_Privatklinik_Sch%C3%A4fer.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gera_Privatklinik_Sch%C3%A4fer.jpg/240px-Gera_Privatklinik_Sch%C3%A4fer.jpg 2x" data-file-width="3488" data-file-height="2616" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Former Klinik Schäfer, Bauhaus style (1929)</p>
+</div>
+</div>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Sights_and_architectural_heritage">Sights and architectural heritage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gera&amp;action=edit&amp;section=13" title="Edit section: Sights and architectural heritage">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Churches">Churches</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gera&amp;action=edit&amp;section=14" title="Edit section: Churches">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li>The <i>St. Saviour's Church</i> at Nicolaiberg is the evangelical main church of Gera, built between 1717 and 1720 by <a href="/w/index.php?title=David_Schatz&amp;action=edit&amp;redlink=1" class="new" title="David Schatz (page does not exist)">David Schatz</a> in Baroque style.</li>
+<li>The <i>Trinity Church</i> at Heinrichstraße is an evangelical parish church (since 1886), built between 1609 and 1611 as cemetery church.</li>
+<li>The <i>St. John's Church</i> at Clara-Zetkin-Straße is an evangelical parish church, built between 1881 and 1885 in neo-Gothic style.</li>
+<li>The <i>St. Mary's Church</i> at Untermhaus district is the evangelical parish church of the former village Untermhaus, built around 1450.</li>
+<li>The <i>St. Elizabeth's Church</i> at Kleiststraße is the catholic parish church of Gera, built in 2000 in modern style as one of only few bigger new churches in Thuringia after 1990.</li>
+<li>The <i>St. Martin's Church</i> at Zwötzen district is an evangelical parish church, built in 1895 in neo-Gothic style.</li>
+<li>The <i>Fourteen Holy Helpers Church</i> at Langenberg district is an evangelical parish church, was rebuilt during the 1750s.</li>
+</ul>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Gera_-_Salvatorkirche.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Gera_-_Salvatorkirche.jpg/78px-Gera_-_Salvatorkirche.jpg" width="78" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Gera_-_Salvatorkirche.jpg/116px-Gera_-_Salvatorkirche.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Gera_-_Salvatorkirche.jpg/155px-Gera_-_Salvatorkirche.jpg 2x" data-file-width="1296" data-file-height="2000" /></a></div>
+</div>
+<div class="gallerytext">
+<p>St. Saviour's Church</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Trinitatiskirche_Gera.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Trinitatiskirche_Gera.jpg/90px-Trinitatiskirche_Gera.jpg" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Trinitatiskirche_Gera.jpg/135px-Trinitatiskirche_Gera.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/30/Trinitatiskirche_Gera.jpg/180px-Trinitatiskirche_Gera.jpg 2x" data-file-width="600" data-file-height="800" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Trinity Church</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Gera_-_Johanniskirche.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Gera_-_Johanniskirche.jpg/71px-Gera_-_Johanniskirche.jpg" width="71" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Gera_-_Johanniskirche.jpg/106px-Gera_-_Johanniskirche.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Gera_-_Johanniskirche.jpg/142px-Gera_-_Johanniskirche.jpg 2x" data-file-width="1181" data-file-height="2000" /></a></div>
+</div>
+<div class="gallerytext">
+<p>St. John's Church</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Gera_Untermhaus_St._Marienkirche_(2007).JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Gera_Untermhaus_St._Marienkirche_%282007%29.JPG/120px-Gera_Untermhaus_St._Marienkirche_%282007%29.JPG" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Gera_Untermhaus_St._Marienkirche_%282007%29.JPG/180px-Gera_Untermhaus_St._Marienkirche_%282007%29.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Gera_Untermhaus_St._Marienkirche_%282007%29.JPG/240px-Gera_Untermhaus_St._Marienkirche_%282007%29.JPG 2x" data-file-width="3648" data-file-height="2736" /></a></div>
+</div>
+<div class="gallerytext">
+<p>St. Mary's Church</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Zw%C3%B6tzen,_Kirche.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Zw%C3%B6tzen%2C_Kirche.JPG/90px-Zw%C3%B6tzen%2C_Kirche.JPG" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Zw%C3%B6tzen%2C_Kirche.JPG/135px-Zw%C3%B6tzen%2C_Kirche.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Zw%C3%B6tzen%2C_Kirche.JPG/180px-Zw%C3%B6tzen%2C_Kirche.JPG 2x" data-file-width="2320" data-file-height="3088" /></a></div>
+</div>
+<div class="gallerytext">
+<p>St. Martin's Church</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Kirche-Langenberg.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Kirche-Langenberg.jpg/90px-Kirche-Langenberg.jpg" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Kirche-Langenberg.jpg/135px-Kirche-Langenberg.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Kirche-Langenberg.jpg/180px-Kirche-Langenberg.jpg 2x" data-file-width="810" data-file-height="1080" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Fourteen Holy Helpers Church</p>
+</div>
+</div>
+</li>
+</ul>
+<h4><span class="mw-headline" id="Other_sights">Other sights</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gera&amp;action=edit&amp;section=15" title="Edit section: Other sights">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li>The <i>town hall</i> at Marktplatz is one of the biggest Renaissance town halls in Germany with a nearly 60 m high tower, built between 1573 and 1576. The Marktplatz itself forms a good ensemble of 18th century patricians houses in late-Baroque style.</li>
+<li>The <i>Stadttheater</i> at Küchengartenallee is the former royal Reussian theatre, built in 1902 by <a href="/wiki/Heinrich_Seeling" title="Heinrich Seeling">Heinrich Seeling</a> in neo-Baroque style.</li>
+<li>The <i>Stadtapotheke</i> (city pharmacy) is a Renaissance building at Marktplatz with a beautiful bay, established in 1592.</li>
+<li>The <i>Küchengarten</i> with the <i>Orangerie</i> is a park ensemble west of the city centre, established in 1732 by the Reussians.</li>
+<li>The <i>Höhler</i> is a cellar system under the city centre with a length of approx. 9&#160;km (6&#160;mi), established in 17th and 18th century for storing beer. A part can be visited via an entrance at Nicolaiberg 3.</li>
+<li>The <i>Schloss Tinz</i> was the royal summer residence of the Reussians, built in 1748 in Baroque style with a surrounding park.</li>
+<li>The <i>Schloss Osterstein</i> was the main royal residence of the Reussians, built during the 16th century in Renaissance style. It was hit by bombs in 1945 and partially demolished in 1962. Only the tower remained.</li>
+<li>The <i>city wall</i> was demolished in the 19th century, only a small part at Stadtgraben remained.</li>
+</ul>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Gera_Rathaus_2008-2.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gera_Rathaus_2008-2.JPG/60px-Gera_Rathaus_2008-2.JPG" width="60" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gera_Rathaus_2008-2.JPG/90px-Gera_Rathaus_2008-2.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gera_Rathaus_2008-2.JPG/120px-Gera_Rathaus_2008-2.JPG 2x" data-file-width="1282" data-file-height="2557" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Town hall</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:27px auto;"><a href="/wiki/File:Gera_Theater_(2007).JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gera_Theater_%282007%29.JPG/120px-Gera_Theater_%282007%29.JPG" width="120" height="96" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gera_Theater_%282007%29.JPG/180px-Gera_Theater_%282007%29.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gera_Theater_%282007%29.JPG/240px-Gera_Theater_%282007%29.JPG 2x" data-file-width="3278" data-file-height="2630" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Theatre</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:27.5px auto;"><a href="/wiki/File:Gera_-_Stadtapotheke_2009.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Gera_-_Stadtapotheke_2009.jpg/120px-Gera_-_Stadtapotheke_2009.jpg" width="120" height="95" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Gera_-_Stadtapotheke_2009.jpg/180px-Gera_-_Stadtapotheke_2009.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Gera_-_Stadtapotheke_2009.jpg/240px-Gera_-_Stadtapotheke_2009.jpg 2x" data-file-width="2000" data-file-height="1580" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Stadtapotheke</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Gera_Orangerie_(2007).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Gera_Orangerie_%282007%29.jpg/120px-Gera_Orangerie_%282007%29.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Gera_Orangerie_%282007%29.jpg/180px-Gera_Orangerie_%282007%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Gera_Orangerie_%282007%29.jpg/240px-Gera_Orangerie_%282007%29.jpg 2x" data-file-width="2560" data-file-height="1920" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Orangerie at Küchengarten</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Gera_-_Schloss_Tinz.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gera_-_Schloss_Tinz.jpg/73px-Gera_-_Schloss_Tinz.jpg" width="73" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gera_-_Schloss_Tinz.jpg/110px-Gera_-_Schloss_Tinz.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gera_-_Schloss_Tinz.jpg/147px-Gera_-_Schloss_Tinz.jpg 2x" data-file-width="786" data-file-height="1280" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Schloss Tinz</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Gera_Osterstein_Bergfried.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Gera_Osterstein_Bergfried.JPG/88px-Gera_Osterstein_Bergfried.JPG" width="88" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Gera_Osterstein_Bergfried.JPG/131px-Gera_Osterstein_Bergfried.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Gera_Osterstein_Bergfried.JPG/175px-Gera_Osterstein_Bergfried.JPG 2x" data-file-width="872" data-file-height="1193" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Schloss Osterstein: tower</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Gera_-_Stadtmauer.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Gera_-_Stadtmauer.JPG/120px-Gera_-_Stadtmauer.JPG" width="120" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Gera_-_Stadtmauer.JPG/180px-Gera_-_Stadtmauer.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/Gera_-_Stadtmauer.JPG/240px-Gera_-_Stadtmauer.JPG 2x" data-file-width="2560" data-file-height="1700" /></a></div>
+</div>
+<div class="gallerytext">
+<p>City wall</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Economy_and_infrastructure">Economy and infrastructure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gera&amp;action=edit&amp;section=16" title="Edit section: Economy and infrastructure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Agriculture,_industry_and_services"></span><span class="mw-headline" id="Agriculture.2C_industry_and_services">Agriculture, industry and services</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gera&amp;action=edit&amp;section=17" title="Edit section: Agriculture, industry and services">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Alte_Textilfabrik_-_geo-en.hlipp.de_-_1097.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Alte_Textilfabrik_-_geo-en.hlipp.de_-_1097.jpg/220px-Alte_Textilfabrik_-_geo-en.hlipp.de_-_1097.jpg" width="220" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Alte_Textilfabrik_-_geo-en.hlipp.de_-_1097.jpg/330px-Alte_Textilfabrik_-_geo-en.hlipp.de_-_1097.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Alte_Textilfabrik_-_geo-en.hlipp.de_-_1097.jpg/440px-Alte_Textilfabrik_-_geo-en.hlipp.de_-_1097.jpg 2x" data-file-width="640" data-file-height="426" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Alte_Textilfabrik_-_geo-en.hlipp.de_-_1097.jpg" class="internal" title="Enlarge"></a></div>
+A former textile factory in Gera</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Gera_Arcaden.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Gera_Arcaden.jpg/220px-Gera_Arcaden.jpg" width="220" height="131" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Gera_Arcaden.jpg/330px-Gera_Arcaden.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Gera_Arcaden.jpg/440px-Gera_Arcaden.jpg 2x" data-file-width="1440" data-file-height="860" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Gera_Arcaden.jpg" class="internal" title="Enlarge"></a></div>
+Shopping centre "Gera Arcaden"</div>
+</div>
+</div>
+<p>Agriculture has some importance in the rural districts of Gera, especially in the northern and eastern city parts. Approximately 57% of the municipal territory is in agricultural use: growing maize, rapeseed and crops as well as pasturing cattle.</p>
+<p>The city's economy features industrial machinery (Dagro Gera GmbH), communications (DTKS GmbH, <a href="/wiki/Deutsche_Telekom" title="Deutsche Telekom">Deutsche Telekom</a>), security locks (Schloßsicherungen Gera GmbH), optics (POG Präzisionsoptik Gera GmbH), electrical equipment (Electronicon Kondensatoren GmbH), and margarine manufacturing (Othüna). Other companies include a compressor manufacturer (Kompressorenwerk Kaeser), a precision-tool maker (SMK-Präzisionsmechanik), and a subsidiary of the construction company Max Bögl. The e-commerce service-provider D+S Europe has a service centre in Gera with several hundred workers, and Rittal, a manufacturer of information-technology enclosures, recently<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Gera&amp;action=edit">[update]</a></sup> moved from Bad Köstritz to Gera. Some industrial branches operating before 1990 no longer have major importance. Sectors either no longer existing or sharply reduced include those in toolmaking (<a href="/wiki/Volkseigener_Betrieb" title="Volkseigener Betrieb">VEB</a> Wema Union), textiles (VEB Modedruck), textile machinery (VEB Textima), electronic equipment (VEB Elektronik Gera). Other industries that had a presence included <a href="/wiki/Carl_Zeiss_AG" title="Carl Zeiss AG">VEB Carl Zeiss Jena</a> and a brewery. One important industrial branch had been uranium-ore mining in nearby Ronneburg (<a href="/wiki/Wismut_(mining_company)" title="Wismut (mining company)">Wismut</a>), whereby the region became the <a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a>'s leading uranium supplier. In 2012 Gera had 41 companies with more than 20 workers in the industrial sector, employing 3,400 people and generating an overall turnover of €452 million.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<p>Gera is a supra-centre according to the <a href="/wiki/Central_Place_Theory" class="mw-redirect" title="Central Place Theory">Central Place Theory</a> in German regional planning. This makes the city a regional centre for retailing, with three major shopping centres: <i>Gera-Arcaden</i>, <i>Amthor-Passage</i> and <i>Elster-Forum</i>. Health services are important, with one of the biggest hospitals in Thuringia, the SRH Waldklinikum. Nevertheless, Gera's economy is weak compared to equal-sized neighbouring cities like <a href="/wiki/Jena" title="Jena">Jena</a> or <a href="/wiki/Zwickau" title="Zwickau">Zwickau</a>. While Jena counts 51,000 and Zwickau 50,000 jobs liable to pay into the German social insurance, Gera has only 35,000 of that full-time jobs in 2012. The commuter balance was +14,000 in Jena and +16,000 in Zwickau, but only +2,000 in Gera, which is one of the lowest ratios among German supra-centres, highlighting the lack of ability of Gera to provide jobs for the region. The unemployment rate reached 11.2% in September 2013 - the highest among all Thuringian districts.</p>
+<h3><span class="mw-headline" id="Transport">Transport</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gera&amp;action=edit&amp;section=18" title="Edit section: Transport">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="By_rail">By rail</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gera&amp;action=edit&amp;section=19" title="Edit section: By rail">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Gera_Bahnhofshalle.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Gera_Bahnhofshalle.JPG/220px-Gera_Bahnhofshalle.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Gera_Bahnhofshalle.JPG/330px-Gera_Bahnhofshalle.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Gera_Bahnhofshalle.JPG/440px-Gera_Bahnhofshalle.JPG 2x" data-file-width="1600" data-file-height="1200" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Gera_Bahnhofshalle.JPG" class="internal" title="Enlarge"></a></div>
+Gera main station hall</div>
+</div>
+</div>
+<p>Since the late 19th century, Gera has been a hub in the railway network. The first railway ran to the <a href="/wiki/Thuringian_Railway" class="mw-redirect" title="Thuringian Railway">Thuringian Railway</a> in <a href="/wiki/Wei%C3%9Fenfels" title="Weißenfels">Weißenfels</a> (with connection to <a href="/wiki/Halle_(Saale)" title="Halle (Saale)">Halle</a>) via <a href="/wiki/Zeitz" title="Zeitz">Zeitz</a> in 1859. Further main lines were opened to <a href="/wiki/G%C3%B6%C3%9Fnitz" title="Gößnitz">Gößnitz</a> (with connection to <a href="/wiki/Chemnitz" title="Chemnitz">Chemnitz</a>) in 1865, to <a href="/wiki/Saalfeld" title="Saalfeld">Saalfeld</a> in 1871, to <a href="/wiki/Leipzig" title="Leipzig">Leipzig</a> (via Zeitz) in 1873, to <a href="/wiki/Plauen" title="Plauen">Plauen</a> in 1875, to <a href="/wiki/Weimar" title="Weimar">Weimar</a> (with connection to <a href="/wiki/Erfurt" title="Erfurt">Erfurt</a>) via <a href="/wiki/Jena" title="Jena">Jena</a> in 1876 and to <a href="/wiki/Hof,_Bavaria" title="Hof, Bavaria">Hof</a> in 1883. The secondary railways to <a href="/wiki/Werdau" title="Werdau">Werdau</a> (opened in 1876) and <a href="/wiki/Meuselwitz" title="Meuselwitz">Meuselwitz</a> (opened via <a href="/wiki/P%C3%B6lzig" title="Pölzig">Pölzig</a> in 1901 and via <a href="/wiki/Lumpzig" title="Lumpzig">Lumpzig</a> in 1887) are abandoned. Nevertheless, none of these lines are electrified or in use for long-distance trains. Today, there are regional express trains to <a href="/wiki/G%C3%B6ttingen" title="Göttingen">Göttingen</a> via Jena and Erfurt, to Leipzig via Zeitz, to <a href="/wiki/Altenburg" title="Altenburg">Altenburg</a>, <a href="/wiki/Glauchau" title="Glauchau">Glauchau</a> and <a href="/wiki/Zwickau" title="Zwickau">Zwickau</a> via the Gößnitz line, to <a href="/wiki/Greiz" title="Greiz">Greiz</a>, to Hof and to Saalfeld. Local trains provide connections to Weimar via Jena, Leipzig, <a href="/wiki/Weischlitz" title="Weischlitz">Weischlitz</a> (near Plauen), Hof and Saalfeld. The most lines run every two hours, so that there is hourly service (express and local trains in alternation) to most directions. The electrification of the west-eastern mainline Weimar – Jena – Gera – Gößnitz is in discussion for closing that gap in the network and enable Gera's connection to long-distance trains, which can be reached today either via Jena or via Leipzig.</p>
+<p>The most important stations in Gera are the <i><a href="/wiki/Gera_Hauptbahnhof" title="Gera Hauptbahnhof">Gera main station</a></i> (former Prussian station), where all the trains stop, and the <i>Gera southern station</i> (former Saxonian station), where all the trains, except the local ones to Weimar, stop. More stations in Gera are <i>Langenberg</i> at the Leipzig line, <i>Zwötzen</i> at the Saalfeld and Hof line as well as <i>Gera Ost</i> and <i>Liebschwitz</i> at the Plauen line. Freight transport by rail is immaterial in Gera since the 1990s.</p>
+<h4><span class="mw-headline" id="By_road">By road</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gera&amp;action=edit&amp;section=20" title="Edit section: By road">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The two <a href="/wiki/German_autobahns" class="mw-redirect" title="German autobahns">Autobahnen</a> crossing each other nearby at <i>Hermsdorf junction</i> are the <a href="/wiki/Bundesautobahn_4" title="Bundesautobahn 4">Bundesautobahn 4</a> (Frankfurt–Dresden) and the <a href="/wiki/Bundesautobahn_9" title="Bundesautobahn 9">Bundesautobahn 9</a> (Berlin–Munich), which were both built during the 1930s. Furthermore, there are three <a href="/wiki/Bundesstra%C3%9Fe" title="Bundesstraße">Bundesstraßen</a> connecting Gera: the <a href="/wiki/Bundesstra%C3%9Fe_2" title="Bundesstraße 2">Bundesstraße 2</a> to <a href="/wiki/Zeitz" title="Zeitz">Zeitz</a> in the north and <a href="/wiki/Hof,_Bavaria" title="Hof, Bavaria">Hof</a> in the south, the <a href="/wiki/Bundesstra%C3%9Fe_7" title="Bundesstraße 7">Bundesstraße 7</a> to <a href="/wiki/Jena" title="Jena">Jena</a> (via <a href="/wiki/Eisenberg,_Thuringia" title="Eisenberg, Thuringia">Eisenberg</a>) in the west and to <a href="/wiki/Altenburg" title="Altenburg">Altenburg</a> in the east and the <a href="/wiki/Bundesstra%C3%9Fe_92" title="Bundesstraße 92">Bundesstraße 92</a> to <a href="/wiki/Plauen" title="Plauen">Plauen</a> (via <a href="/wiki/Greiz" title="Greiz">Greiz</a>) in the south. Important secondary roads run to Altenburg (via <a href="/wiki/Lumpzig" title="Lumpzig">Lumpzig</a>), to <a href="/wiki/Werdau" title="Werdau">Werdau</a> (via <a href="/wiki/Linda_bei_Weida" title="Linda bei Weida">Linda</a>), to <a href="/wiki/W%C3%BCnschendorf/Elster" title="Wünschendorf/Elster">Wünschendorf</a>, to <a href="/wiki/Stadtroda" title="Stadtroda">Stadtroda</a> and to <a href="/wiki/Hermsdorf,_Thuringia" title="Hermsdorf, Thuringia">Hermsdorf</a>. As part of the <a href="/wiki/Bundesgartenschau" title="Bundesgartenschau">Bundesgartenschau</a> 2007, a new bypass road was built in the east to improve the connection of southern city parts to the A 4 and to relieve the city centre from transit traffic.</p>
+<h4><span class="mw-headline" id="By_aviation">By aviation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gera&amp;action=edit&amp;section=21" title="Edit section: By aviation">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The closest regional airports are the <a href="/wiki/Leipzig/Halle_Airport" title="Leipzig/Halle Airport">Leipzig/Halle Airport</a>, about 70&#160;km (43&#160;mi) north and the <a href="/wiki/Erfurt-Weimar_Airport" class="mw-redirect" title="Erfurt-Weimar Airport">Erfurt-Weimar Airport</a>, about 90&#160;km (56&#160;mi) west of Gera. Both serve mainly holiday flights. The nearest major airports are the <a href="/wiki/Frankfurt_Airport" title="Frankfurt Airport">Frankfurt Airport</a>, the <a href="/wiki/Munich_Airport" title="Munich Airport">Munich Airport</a> and the prospective <a href="/wiki/Berlin_Brandenburg_Airport" title="Berlin Brandenburg Airport">Berlin Brandenburg Airport</a>. In the eastern part of Gera lies the airfield Gera-Leumnitz meant for private aviation.</p>
+<h4><span class="mw-headline" id="By_bike">By bike</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gera&amp;action=edit&amp;section=22" title="Edit section: By bike">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Cycling is becoming more popular since the construction of quality cycle tracks began in the 1990s. For tourists, there are the <i>Weiße Elster track</i> and the <i>Thuringian city string track (Radweg Thüringer Städtekette)</i>. Both connect points of tourist interest, the first along the <a href="/wiki/Wei%C3%9Fe_Elster" class="mw-redirect" title="Weiße Elster">Weiße Elster</a> valley from the <a href="/wiki/Elster_Mountains" title="Elster Mountains">Elster Mountains</a> at the Czech border to <a href="/wiki/Saale" title="Saale">Saale</a> river in <a href="/wiki/Halle_(Saale)" title="Halle (Saale)">Halle</a> and second from <a href="/wiki/Eisenach" title="Eisenach">Eisenach</a> via <a href="/wiki/Erfurt" title="Erfurt">Erfurt</a>, <a href="/wiki/Weimar" title="Weimar">Weimar</a>, <a href="/wiki/Jena" title="Jena">Jena</a> and Gera to <a href="/wiki/Altenburg" title="Altenburg">Altenburg</a>. For inner city every-day traffic, some cycle lanes exist along several main streets.</p>
+<h4><span class="mw-headline" id="Trams_and_buses">Trams and buses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gera&amp;action=edit&amp;section=23" title="Edit section: Trams and buses">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Gera,_Leibnitzstrasse,_ecke_Cubaerstrasse_-_geo-en.hlipp.de_-_1091.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Gera%2C_Leibnitzstrasse%2C_ecke_Cubaerstrasse_-_geo-en.hlipp.de_-_1091.jpg/220px-Gera%2C_Leibnitzstrasse%2C_ecke_Cubaerstrasse_-_geo-en.hlipp.de_-_1091.jpg" width="220" height="143" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Gera%2C_Leibnitzstrasse%2C_ecke_Cubaerstrasse_-_geo-en.hlipp.de_-_1091.jpg/330px-Gera%2C_Leibnitzstrasse%2C_ecke_Cubaerstrasse_-_geo-en.hlipp.de_-_1091.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Gera%2C_Leibnitzstrasse%2C_ecke_Cubaerstrasse_-_geo-en.hlipp.de_-_1091.jpg/440px-Gera%2C_Leibnitzstrasse%2C_ecke_Cubaerstrasse_-_geo-en.hlipp.de_-_1091.jpg 2x" data-file-width="640" data-file-height="415" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Gera,_Leibnitzstrasse,_ecke_Cubaerstrasse_-_geo-en.hlipp.de_-_1091.jpg" class="internal" title="Enlarge"></a></div>
+Tram at Leibnitzstraße</div>
+</div>
+</div>
+<p>The <a href="/wiki/Trams_in_Gera" title="Trams in Gera">Gera tram network</a> was the second in Germany that launched electrical engines in 1892. Today, there are two long lines, one from Bieblach via city centre to Lusan (line 3) and another one – opened in 2006 – from Untermhaus via city centre to Zwötzen (line 1). The third short line is a connection between Lusan and the Zwötzen railway station (line 2). Another line is planned to connect Langenberg and the northern city parts. On line 3 is one course every 5 minutes, on line 1 every 10 minutes and on line 2 every 20 minutes.</p>
+<p>The bus network connects districts without trams as well as neighbouring municipalities that do not have a rail connection.</p>
+<h3><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gera&amp;action=edit&amp;section=24" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Gera_034.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Gera_034.jpg/220px-Gera_034.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Gera_034.jpg/330px-Gera_034.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Gera_034.jpg/440px-Gera_034.jpg 2x" data-file-width="4752" data-file-height="3168" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Gera_034.jpg" class="internal" title="Enlarge"></a></div>
+Goethe-Gymnasium/Rutheneum school</div>
+</div>
+</div>
+<p>Tertiary institutions are the private college <i>SRH Fachhochschule für Gesundheit Gera</i> (<a href="/wiki/Fachhochschule" title="Fachhochschule">university of applied sciences</a> for health) with 500 students and the <i>Berufsakademie Gera</i> (<a href="/wiki/Cooperative_education" title="Cooperative education">Cooperative education</a>) with 700 students.</p>
+<p>Furthermore, there are four <a href="/wiki/Gymnasium_(Germany)" title="Gymnasium (Germany)">Gymnasiums</a>, all of them are state-owned. The Goethe-Gymnasium/Rutheneum focuses on music education as an elite boarding school, in addition to the common curriculum.</p>
+<h2><span class="mw-headline" id="Politics">Politics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gera&amp;action=edit&amp;section=25" title="Edit section: Politics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Mayor_and_city_council">Mayor and city council</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gera&amp;action=edit&amp;section=26" title="Edit section: Mayor and city council">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The current mayor <a href="/w/index.php?title=Viola_Hahn&amp;action=edit&amp;redlink=1" class="new" title="Viola Hahn (page does not exist)">Viola Hahn</a> (independent) has been in office since 2012 and is the first female mayor in Gera's history. Since 1990, there have been five freely-elected mayors.</p>
+<p>The last municipal election was held in 2009 with the result:</p>
+<table class="wikitable" border="1">
+<tr style="background-color: #FEDBCA">
+<th>Party</th>
+<th>Percentage</th>
+<th>Seats in council</th>
+</tr>
+<tr>
+<td><a href="/wiki/The_Left_(Germany)" title="The Left (Germany)">The Left</a> (post-socialistic left)</td>
+<td align="right">31.0</td>
+<td align="right">14</td>
+</tr>
+<tr>
+<td><a href="/wiki/Christian_Democratic_Union_(Germany)" class="mw-redirect" title="Christian Democratic Union (Germany)">CDU</a> (conservative)</td>
+<td align="right">29.4</td>
+<td align="right">13</td>
+</tr>
+<tr>
+<td><a href="/wiki/Social_Democratic_Party_of_Germany" title="Social Democratic Party of Germany">SPD</a> (social democratic)</td>
+<td align="right">12.5</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td><a href="/wiki/Free_Voters" title="Free Voters">Arbeit für Gera</a> (citizen-oriented/populist)</td>
+<td align="right">12.2</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td><a href="/wiki/Free_Democratic_Party_(Germany)" title="Free Democratic Party (Germany)">FDP</a> (classical liberal)</td>
+<td align="right">6.2</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td><a href="/wiki/Alliance_%2790/The_Greens" class="mw-redirect" title="Alliance '90/The Greens">Greens</a> (green)</td>
+<td align="right">5.4</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td><a href="/wiki/National_Democratic_Party_of_Germany" title="National Democratic Party of Germany">NPD</a> (far-right)</td>
+<td align="right">3.4</td>
+<td align="right">2</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Twin_towns">Twin towns</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gera&amp;action=edit&amp;section=27" title="Edit section: Twin towns">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/List_of_twin_towns_and_sister_cities_in_Germany" title="List of twin towns and sister cities in Germany">List of twin towns and sister cities in Germany</a></div>
+<p>Gera is <a href="/wiki/Twin_towns_and_sister_cities" class="mw-redirect" title="Twin towns and sister cities">twinned</a> with:</p>
+<table class="wikitable">
+<tr valign="top">
+<td>
+<ul>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Arnhem" title="Arnhem">Arnhem</a>, <a href="/wiki/Gelderland" title="Gelderland">Gelderland</a>, Netherlands</li>
+<li><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Fort_Wayne,_Indiana" title="Fort Wayne, Indiana">Fort Wayne</a>, <a href="/wiki/Indiana" title="Indiana">IN</a>, United States</li>
+<li><span class="flagicon"><a href="/wiki/Bosnia_and_Herzegovina" title="Bosnia and Herzegovina"><img alt="Bosnia and Herzegovina" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/23px-Flag_of_Bosnia_and_Herzegovina.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/35px-Flag_of_Bosnia_and_Herzegovina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/46px-Flag_of_Bosnia_and_Herzegovina.svg.png 2x" data-file-width="800" data-file-height="400" /></a></span> <a href="/wiki/Gora%C5%BEde" title="Goražde">Goražde</a>, Bosnia and Herzegovina</li>
+<li><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Kuopio" title="Kuopio">Kuopio</a> Finland</li>
+</ul>
+</td>
+<td>
+<ul>
+<li><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a>, <a href="/wiki/Bavaria" title="Bavaria">Bavaria</a>, Germany</li>
+<li><span class="flagicon"><a href="/wiki/Czech_Republic" title="Czech Republic"><img alt="Czech Republic" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/23px-Flag_of_the_Czech_Republic.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/35px-Flag_of_the_Czech_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/45px-Flag_of_the_Czech_Republic.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Plze%C5%88" title="Plzeň">Plzeň</a>, Czech Republic</li>
+<li><span class="flagicon"><a href="/wiki/Russia" title="Russia"><img alt="Russia" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Pskov" title="Pskov">Pskov</a>, <a href="/wiki/Pskov_Oblast" title="Pskov Oblast">Pskov Oblast</a>, Russia</li>
+<li><span class="flagicon"><a href="/wiki/Russia" title="Russia"><img alt="Russia" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Rostov-on-Don" title="Rostov-on-Don">Rostov-on-Don</a>, Rostov Oblast, Russia</li>
+</ul>
+</td>
+<td>
+<ul>
+<li><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Saint-Denis,_Seine-Saint-Denis" title="Saint-Denis, Seine-Saint-Denis">Saint-Denis</a>, <a href="/wiki/Seine-Saint-Denis" title="Seine-Saint-Denis">Seine-Saint-Denis</a>, <a href="/wiki/%C3%8Ele-de-France" title="Île-de-France">Île-de-France</a>, France</li>
+<li><span class="flagicon"><a href="/wiki/Poland" title="Poland"><img alt="Poland" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" /></a></span> <a href="/wiki/Skierniewice" title="Skierniewice">Skierniewice</a>, <a href="/wiki/%C5%81%C3%B3d%C5%BA_Voivodeship" title="Łódź Voivodeship">Łódź Voivodeship</a>, Poland</li>
+<li><span class="flagicon"><a href="/wiki/Bulgaria" title="Bulgaria"><img alt="Bulgaria" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/23px-Flag_of_Bulgaria.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/35px-Flag_of_Bulgaria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/46px-Flag_of_Bulgaria.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Sliven" title="Sliven">Sliven</a>, Bulgaria</li>
+<li><span class="flagicon"><a href="/wiki/Romania" title="Romania"><img alt="Romania" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/23px-Flag_of_Romania.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/35px-Flag_of_Romania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/45px-Flag_of_Romania.svg.png 2x" data-file-width="600" data-file-height="400" /></a></span> <a href="/wiki/Timi%C5%9Foara" class="mw-redirect" title="Timişoara">Timişoara</a>, Romania</li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Notable_natives">Notable natives</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gera&amp;action=edit&amp;section=28" title="Edit section: Notable natives">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/w/index.php?title=Johann_Heinrich_Gottfried_Koch&amp;action=edit&amp;redlink=1" class="new" title="Johann Heinrich Gottfried Koch (page does not exist)">Johann Heinrich Gottfried Koch</a>, (1705–1775)</li>
+<li><a href="/wiki/Heinrich_Reinhold" title="Heinrich Reinhold">Heinrich Reinhold</a>, (1788-1825), painter and engraver</li>
+<li><a href="/w/index.php?title=Heinrich_Gustav_Beck&amp;action=edit&amp;redlink=1" class="new" title="Heinrich Gustav Beck (page does not exist)">Heinrich Gustav Beck</a>, (1857–1933), <a href="/wiki/Minister-president" title="Minister-president">Minister-president</a> of <a href="/wiki/Saxony" title="Saxony">Saxony</a> 1914–1918</li>
+<li><a href="/wiki/Otto_Lummer" title="Otto Lummer">Otto Lummer</a> (1860–1925), physicist</li>
+<li><a href="/wiki/Otto_Dix" title="Otto Dix">Otto Dix</a> (1891–1969), painter and printmaker</li>
+<li><a href="/wiki/Rudolf_Paul" title="Rudolf Paul">Rudolf Paul</a>, (1893–1978), politician, President of Thuringia 1945–1947</li>
+<li><a href="/wiki/Bernhard_Wehner" title="Bernhard Wehner">Bernhard Wehner</a> (1909-1995), SS-officer (Hauptsturmführer), criminal inspector and journalist</li>
+<li><a href="/w/index.php?title=Nahum_Golan&amp;action=edit&amp;redlink=1" class="new" title="Nahum Golan (page does not exist)">Nahum Golan</a> (1915-1991), Israeli Brigadier General, 1948-1950 commander of the <a href="/wiki/Golani_Brigade" title="Golani Brigade">Golani Brigade</a></li>
+<li><a href="/wiki/Dietrich_Peltz" title="Dietrich Peltz">Dietrich Peltz</a> (born 1914), Luftwaffe general</li>
+<li>Karl Weschke, (1925–2005), painter</li>
+<li><a href="/wiki/Georg_Buschner" title="Georg Buschner">Georg Buschner</a>, (1925–2007), football player, head coach East Germany national football team</li>
+<li><a href="/wiki/Rainer_Ortleb" title="Rainer Ortleb">Rainer Ortleb</a> (born June 5, 1944 in Gera), politician (FDP), 1990-1991 Federal Minister for Special Affairs and from 1991 to 1994 Federal Minister of Education and Science</li>
+</ul>
+<div class="thumb tright">
+<div class="thumbinner" style="width:197px;"><a href="/wiki/File:Bundesarchiv_Bild_183-T0528-0005,_Marlies_G%C3%B6hr-%C3%96lsner.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bundesarchiv_Bild_183-T0528-0005%2C_Marlies_G%C3%B6hr-%C3%96lsner.jpg/195px-Bundesarchiv_Bild_183-T0528-0005%2C_Marlies_G%C3%B6hr-%C3%96lsner.jpg" width="195" height="151" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bundesarchiv_Bild_183-T0528-0005%2C_Marlies_G%C3%B6hr-%C3%96lsner.jpg/293px-Bundesarchiv_Bild_183-T0528-0005%2C_Marlies_G%C3%B6hr-%C3%96lsner.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bundesarchiv_Bild_183-T0528-0005%2C_Marlies_G%C3%B6hr-%C3%96lsner.jpg/390px-Bundesarchiv_Bild_183-T0528-0005%2C_Marlies_G%C3%B6hr-%C3%96lsner.jpg 2x" data-file-width="711" data-file-height="550" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Bundesarchiv_Bild_183-T0528-0005,_Marlies_G%C3%B6hr-%C3%96lsner.jpg" class="internal" title="Enlarge"></a></div>
+Marlies Göhr 1978</div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/Max_Frankel" title="Max Frankel">Max Frankel</a>, (born 1930), executive editor, New York Times 1986–1994</li>
+<li>Helga Königsdorf (born 1938), mathematician and author</li>
+<li><a href="/wiki/Thilo_Sarrazin" title="Thilo Sarrazin">Thilo Sarrazin</a>, (born 1945), German politician (SPD), author</li>
+<li><a href="/wiki/Wolfgang_Tiefensee" title="Wolfgang Tiefensee">Wolfgang Tiefensee</a>, (born 1955), politician (SPD)</li>
+<li><a href="/wiki/Marlies_G%C3%B6hr" title="Marlies Göhr">Marlies Göhr</a>, (born 1958), athlete</li>
+<li><a href="/wiki/Olaf_Ludwig" title="Olaf Ludwig">Olaf Ludwig</a>, (born 1960), racing cyclist</li>
+<li><a href="/wiki/Heike_Drechsler" title="Heike Drechsler">Heike Drechsler</a>, (born 1964), Olympic gold medallist long jumper</li>
+<li><a href="/wiki/Jens_Heppner" title="Jens Heppner">Jens Heppner</a>, (born 1964), racing cyclist</li>
+<li><a href="/wiki/John_Degenkolb" title="John Degenkolb">John Degenkolb</a>, (born 1989), racing cyclist</li>
+<li><a href="/wiki/Bianca_Schmidt" title="Bianca Schmidt">Bianca Schmidt</a>, (born 1990), footballer</li>
+<li><a href="/w/index.php?title=Wilhelm_Ernst_Spaethe_and_Otto_Paul_Spaeth&amp;action=edit&amp;redlink=1" class="new" title="Wilhelm Ernst Spaethe and Otto Paul Spaeth (page does not exist)">Wilhelm Ernst Spaethe and Otto Paul Spaeth</a>, of Spaethe Pianos, founded in 1858 by Wilhelm Spaethe senior,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> awarded an imperial and royal warrant of appointment, to the court of Austria-Hungary.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gera&amp;action=edit&amp;section=29" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dt>Notes</dt>
+</dl>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.statistik.thueringen.de/datenbank/TabAnzeige.asp?tabelle=gg000102">"Bevölkerung der Gemeinden, Gemeinschaftsfreie Gemeinde, erfüllende/beauftragende Gemeinden, Verwaltungsgemeinschaft/Mitgliedsgemeinden in Thüringen"</a>. <i><a href="/wiki/Th%C3%BCringer_Landesamt_f%C3%BCr_Statistik" class="mw-redirect" title="Thüringer Landesamt für Statistik">Thüringer Landesamt für Statistik</a></i> (in German). July 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGera&amp;rft.atitle=Bev%C3%B6lkerung+der+Gemeinden%2C+Gemeinschaftsfreie+Gemeinde%2C+erf%C3%BCllende%2Fbeauftragende+Gemeinden%2C+Verwaltungsgemeinschaft%2FMitgliedsgemeinden+in+Th%C3%BCringen&amp;rft.date=2016-07&amp;rft.genre=unknown&amp;rft.jtitle=Th%C3%BCringer+Landesamt+f%C3%BCr+Statistik&amp;rft_id=http%3A%2F%2Fwww.statistik.thueringen.de%2Fdatenbank%2FTabAnzeige.asp%3Ftabelle%3Dgg000102&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Christopher Clark, "The Iron Kingdom" (London, 2006), p. 305</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Günter Sagan: <i>Ostthüringen im Bombenkrieg 1939–1945.</i> Michael-Imhof-Verlag, Petersberg 2013, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-86568-636-7" title="Special:BookSources/978-3-86568-636-7">978-3-86568-636-7</a>, pp. 178–179.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><i>Der Schrei nach Freiheit. 17. Juni 1953 in Thüringen.</i> Exhibit of the <a href="/wiki/Stiftung_Ettersberg" title="Stiftung Ettersberg">Stiftung Ettersberg</a> in the Thüringian Landtag, June 2012.</span></li>
+<li id="cite_note-koppen-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-koppen_5-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kottek, M.; J. Grieser; C. Beck; B. Rudolf; F. Rubel (2006). <a rel="nofollow" class="external text" href="http://www.schweizerbart.de/resources/downloads/paper_free/55034.pdf">"World Map of the Köppen-Geiger climate classification updated"</a> <span style="font-size:85%;">(PDF)</span>. <i>Meteorol. Z</i>. <b>15</b> (3): 259–263. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1127%2F0941-2948%2F2006%2F0130">10.1127/0941-2948/2006/0130</a><span class="reference-accessdate">. Retrieved <span class="nowrap">22 January</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGera&amp;rft.atitle=World+Map+of+the+K%C3%B6ppen-Geiger+climate+classification+updated&amp;rft.au=B.+Rudolf&amp;rft.au=C.+Beck&amp;rft.au=F.+Rubel&amp;rft.au=J.+Grieser&amp;rft.aufirst=M.&amp;rft.aulast=Kottek&amp;rft.date=2006&amp;rft.genre=article&amp;rft.issue=3&amp;rft.jtitle=Meteorol.+Z.&amp;rft.pages=259-263&amp;rft.volume=15&amp;rft_id=http%3A%2F%2Fwww.schweizerbart.de%2Fresources%2Fdownloads%2Fpaper_free%2F55034.pdf&amp;rft_id=info%3Adoi%2F10.1127%2F0941-2948%2F2006%2F0130&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Peel-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Peel_6-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Peel, M. C. and Finlayson, B. L. and McMahon, T. A. (2007). <a rel="nofollow" class="external text" href="http://www.hydrol-earth-syst-sci.net/11/1633/2007/hess-11-1633-2007.html">"Updated world map of the Köppen–Geiger climate classification"</a>. <i>Hydrol. Earth Syst. Sci</i>. <b>11</b>: 1633–1644. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1027-5606">1027-5606</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.5194%2Fhess-11-1633-2007">10.5194/hess-11-1633-2007</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGera&amp;rft.atitle=Updated+world+map+of+the+K%C3%B6ppen%26ndash%3BGeiger+climate+classification&amp;rft.au=Peel%2C+M.+C.+and+Finlayson%2C+B.+L.+and+McMahon%2C+T.+A.&amp;rft.date=2007&amp;rft.genre=article&amp;rft.issn=1027-5606&amp;rft.jtitle=Hydrol.+Earth+Syst.+Sci.&amp;rft.pages=1633-1644&amp;rft.volume=11&amp;rft_id=http%3A%2F%2Fwww.hydrol-earth-syst-sci.net%2F11%2F1633%2F2007%2Fhess-11-1633-2007.html&amp;rft_id=info%3Adoi%2F10.5194%2Fhess-11-1633-2007&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span> <i>(direct: <a rel="nofollow" class="external text" href="http://www.hydrol-earth-syst-sci.net/11/1633/2007/hess-11-1633-2007.pdf">Final Revised Paper</a>)</i></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">According to <a rel="nofollow" class="external text" href="http://www.tls.thueringen.de/startseite_hinweis.asp">Thüringer Landesamt für Statistik</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.gera.de/sixcms/detail.php?id=49019">Museum for Applied Arts German website, last accessed January 13, 2010</a>. Gera.de (2009-12-23). Retrieved on 2011-06-19.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.tls.thueringen.de/datenbank/TabAnzeige.asp?tabelle=kr000641">According to Thüringer Landesamt für Statistik</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">"Geschichte-Restaurationswerkstatt Wilhelm Spaethe sen." restauration-gera.de. Retrieved 2016-01-31</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">"Handbuch des Allerhöchsten Hofes und des Hofstaates Seiner K. und K. Apostolischen Majestät., Vienna: K.k. Hof-und Staatsdruckerei, 1917, p. 520"</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gera&amp;action=edit&amp;section=30" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Special:Search/Gera" class="extiw" title="commons:Special:Search/Gera">Gera</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/File:Wikivoyage-Logo-v3-icon.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/16px-Wikivoyage-Logo-v3-icon.svg.png" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/24px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/32px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></a> <a href="https://en.wikivoyage.org/wiki/Gera#Q3750" class="extiw" title="voy:Gera">Gera</a> travel guide from Wikivoyage</li>
+<li><a rel="nofollow" class="external text" href="http://www.gera.de/">Official website of Gera</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Places_adjacent_to_Gera" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="4">
+<div id="Places_adjacent_to_Gera" style="font-size:114%;margin:0 4em">Places adjacent to Gera</div>
+</th>
+</tr>
+<tr>
+<td class="navbox-image" rowspan="1" style="width:1px;padding:0px 2px 0px 0px">
+<div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Compass_rose_pale.svg/50px-Compass_rose_pale.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Compass_rose_pale.svg/75px-Compass_rose_pale.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Compass_rose_pale.svg/100px-Compass_rose_pale.svg.png 2x" data-file-width="440" data-file-height="440" /></div>
+</td>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<table role="presentation" style="width:100%; margin:0; text-align:center;">
+<tr>
+<td><a href="/wiki/Naumburg_(Saale)" class="mw-redirect" title="Naumburg (Saale)">Naumburg</a></td>
+<td><a href="/wiki/Halle_(Saale)" title="Halle (Saale)">Halle</a> — <a href="/wiki/Leipzig" title="Leipzig">Leipzig</a><br />
+<a href="/wiki/Zeitz" title="Zeitz">Zeitz</a></td>
+<td><a href="/wiki/Altenburg" title="Altenburg">Altenburg</a></td>
+</tr>
+<tr>
+<td style="width:33%"><a href="/wiki/Erfurt" title="Erfurt">Erfurt</a> — <a href="/wiki/Weimar" title="Weimar">Weimar</a> — <a href="/wiki/Jena" title="Jena">Jena</a></td>
+<td style="width:33%;">
+<div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Pfeil_oben.svg/14px-Pfeil_oben.svg.png" title="North" width="14" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Pfeil_oben.svg/21px-Pfeil_oben.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Pfeil_oben.svg/28px-Pfeil_oben.svg.png 2x" data-file-width="501" data-file-height="595" /></div>
+<div style="white-space:nowrap;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pfeil_links.svg/17px-Pfeil_links.svg.png" title="West" width="17" height="14" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pfeil_links.svg/25px-Pfeil_links.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pfeil_links.svg/33px-Pfeil_links.svg.png 2x" data-file-width="595" data-file-height="501" /><b style="display:inline-block; vertical-align:middle; margin:0.75em 1em">Gera</b><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pfeil_rechts.svg/17px-Pfeil_rechts.svg.png" title="East" width="17" height="14" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pfeil_rechts.svg/25px-Pfeil_rechts.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pfeil_rechts.svg/33px-Pfeil_rechts.svg.png 2x" data-file-width="595" data-file-height="501" /></div>
+<div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pfeil_unten.svg/14px-Pfeil_unten.svg.png" title="South" width="14" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pfeil_unten.svg/21px-Pfeil_unten.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pfeil_unten.svg/28px-Pfeil_unten.svg.png 2x" data-file-width="501" data-file-height="595" /></div>
+</td>
+<td style="width:33%"><a href="/wiki/Chemnitz" title="Chemnitz">Chemnitz</a> — <a href="/wiki/Dresden" title="Dresden">Dresden</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Saalfeld" title="Saalfeld">Saalfeld</a></td>
+<td><a href="/wiki/Plauen" title="Plauen">Plauen</a></td>
+<td><a href="/wiki/Zwickau" title="Zwickau">Zwickau</a></td>
+</tr>
+</table>
+</div>
+</td>
+<td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px">
+<div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Compass_rose_pale.svg/50px-Compass_rose_pale.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Compass_rose_pale.svg/75px-Compass_rose_pale.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Compass_rose_pale.svg/100px-Compass_rose_pale.svg.png 2x" data-file-width="440" data-file-height="440" /></div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="border.7C30px.7CFlag_of_Thuringia_Urban_and_rural_districts_in_the_Free_State_of_Thuringia_in_Germany_border.7C30px.7CFlag_of_Germany" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Germany_districts_Thuringia" title="Template:Germany districts Thuringia"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Germany_districts_Thuringia" title="Template talk:Germany districts Thuringia"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Germany_districts_Thuringia&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="border.7C30px.7CFlag_of_Thuringia_Urban_and_rural_districts_in_the_Free_State_of_Thuringia_in_Germany_border.7C30px.7CFlag_of_Germany" style="font-size:114%;margin:0 4em"><a href="/wiki/File:Flag_of_Thuringia.svg" class="image" title="Flag of Thuringia"><img alt="Flag of Thuringia" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Thuringia.svg/30px-Flag_of_Thuringia.svg.png" width="30" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Thuringia.svg/45px-Flag_of_Thuringia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Thuringia.svg/60px-Flag_of_Thuringia.svg.png 2x" data-file-width="500" data-file-height="250" /></a> Urban and rural districts in the <a href="/wiki/Thuringia" title="Thuringia">Free State of Thuringia</a> in Germany <a href="/wiki/File:Flag_of_Germany.svg" class="image" title="Flag of Germany"><img alt="Flag of Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/30px-Flag_of_Germany.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/45px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Urban districts</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Eisenach" title="Eisenach">Eisenach</a></li>
+<li><a href="/wiki/Erfurt" title="Erfurt">Erfurt</a></li>
+<li><a class="mw-selflink selflink">Gera</a></li>
+<li><a href="/wiki/Jena" title="Jena">Jena</a></li>
+<li><a href="/wiki/Suhl" title="Suhl">Suhl</a></li>
+<li><a href="/wiki/Weimar" title="Weimar">Weimar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Rural districts</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Altenburger_Land" title="Altenburger Land">Altenburger Land</a></li>
+<li><a href="/wiki/Eichsfeld_(district)" title="Eichsfeld (district)">Eichsfeld</a></li>
+<li><a href="/wiki/Gotha_(district)" title="Gotha (district)">Gotha</a></li>
+<li><a href="/wiki/Greiz_(district)" title="Greiz (district)">Greiz</a></li>
+<li><a href="/wiki/Hildburghausen_(district)" title="Hildburghausen (district)">Hildburghausen</a></li>
+<li><a href="/wiki/Ilm-Kreis" title="Ilm-Kreis">Ilm-Kreis</a></li>
+<li><a href="/wiki/Kyffh%C3%A4userkreis" title="Kyffhäuserkreis">Kyffhäuserkreis</a></li>
+<li><a href="/wiki/Nordhausen_(district)" title="Nordhausen (district)">Nordhausen</a></li>
+<li><a href="/wiki/Saale-Holzland-Kreis" title="Saale-Holzland-Kreis">Saale-Holzland-Kreis</a></li>
+<li><a href="/wiki/Saale-Orla-Kreis" title="Saale-Orla-Kreis">Saale-Orla-Kreis</a></li>
+<li><a href="/wiki/Saalfeld-Rudolstadt" title="Saalfeld-Rudolstadt">Saalfeld-Rudolstadt</a></li>
+<li><a href="/wiki/Schmalkalden-Meiningen" title="Schmalkalden-Meiningen">Schmalkalden-Meiningen</a></li>
+<li><a href="/wiki/S%C3%B6mmerda_(district)" title="Sömmerda (district)">Sömmerda</a></li>
+<li><a href="/wiki/Sonneberg_(district)" title="Sonneberg (district)">Sonneberg</a></li>
+<li><a href="/wiki/Unstrut-Hainich-Kreis" title="Unstrut-Hainich-Kreis">Unstrut-Hainich-Kreis</a></li>
+<li><a href="/wiki/Wartburgkreis" title="Wartburgkreis">Wartburgkreis</a></li>
+<li><a href="/wiki/Weimarer_Land" title="Weimarer Land">Weimarer Land</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Cities_in_Thuringia_by_population" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cities_in_Thuringia" title="Template:Cities in Thuringia"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cities_in_Thuringia" title="Template talk:Cities in Thuringia"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cities_in_Thuringia&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Cities_in_Thuringia_by_population" style="font-size:114%;margin:0 4em">Cities in Thuringia by population</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">100,000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Erfurt" title="Erfurt">Erfurt</a></li>
+<li><a href="/wiki/Jena" title="Jena">Jena</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">50,000+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Gera</a></li>
+<li><a href="/wiki/Weimar" title="Weimar">Weimar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">20,000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Altenburg" title="Altenburg">Altenburg</a></li>
+<li><a href="/wiki/Apolda" title="Apolda">Apolda</a></li>
+<li><a href="/wiki/Arnstadt" title="Arnstadt">Arnstadt</a></li>
+<li><a href="/wiki/Eisenach" title="Eisenach">Eisenach</a></li>
+<li><a href="/wiki/Gotha" title="Gotha">Gotha</a></li>
+<li><a href="/wiki/Greiz" title="Greiz">Greiz</a></li>
+<li><a href="/wiki/Ilmenau" title="Ilmenau">Ilmenau</a></li>
+<li><a href="/wiki/Meiningen" title="Meiningen">Meiningen</a></li>
+<li><a href="/wiki/M%C3%BChlhausen" title="Mühlhausen">Mühlhausen</a></li>
+<li><a href="/wiki/Nordhausen" title="Nordhausen">Nordhausen</a></li>
+<li><a href="/wiki/Rudolstadt" title="Rudolstadt">Rudolstadt</a></li>
+<li><a href="/wiki/Saalfeld" title="Saalfeld">Saalfeld</a></li>
+<li><a href="/wiki/Sondershausen" title="Sondershausen">Sondershausen</a></li>
+<li><a href="/wiki/Sonneberg" title="Sonneberg">Sonneberg</a></li>
+<li><a href="/wiki/Suhl" title="Suhl">Suhl</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">10,000+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bad_Langensalza" title="Bad Langensalza">Bad Langensalza</a></li>
+<li><a href="/wiki/Bad_Salzungen" title="Bad Salzungen">Bad Salzungen</a></li>
+<li><a href="/wiki/Eisenberg,_Thuringia" title="Eisenberg, Thuringia">Eisenberg</a></li>
+<li><a href="/wiki/Heilbad_Heiligenstadt" title="Heilbad Heiligenstadt">Heiligenstadt</a></li>
+<li><a href="/wiki/Hildburghausen" title="Hildburghausen">Hildburghausen</a></li>
+<li><a href="/wiki/Leinefelde-Worbis" title="Leinefelde-Worbis">Leinefelde-Worbis</a></li>
+<li><a href="/wiki/Meuselwitz" title="Meuselwitz">Meuselwitz</a></li>
+<li><a href="/wiki/P%C3%B6%C3%9Fneck" title="Pößneck">Pößneck</a></li>
+<li><a href="/wiki/Schmalkalden" title="Schmalkalden">Schmalkalden</a></li>
+<li><a href="/wiki/Schm%C3%B6lln" title="Schmölln">Schmölln</a></li>
+<li><a href="/wiki/S%C3%B6mmerda" title="Sömmerda">Sömmerda</a></li>
+<li><a href="/wiki/Waltershausen" title="Waltershausen">Waltershausen</a></li>
+<li><a href="/wiki/Zella-Mehlis" title="Zella-Mehlis">Zella-Mehlis</a></li>
+<li><a href="/wiki/Zeulenroda-Triebes" title="Zeulenroda-Triebes">Zeulenroda-Triebes</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Capitals_of_the_former_East_German_Bezirke" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Bezirke_DDR_Seats" title="Template:Bezirke DDR Seats"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Bezirke_DDR_Seats" title="Template talk:Bezirke DDR Seats"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Bezirke_DDR_Seats&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Capitals_of_the_former_East_German_Bezirke" style="font-size:114%;margin:0 4em">Capitals of the former <a href="/wiki/East_Germany" title="East Germany">East German</a> <i><a href="/wiki/Administrative_divisions_of_East_Germany#Division_into_Bezirke" title="Administrative divisions of East Germany">Bezirke</a></i></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/East_Berlin" title="East Berlin">East Berlin</a></li>
+<li><a href="/wiki/Cottbus" title="Cottbus">Cottbus</a></li>
+<li><a href="/wiki/Dresden" title="Dresden">Dresden</a></li>
+<li><a href="/wiki/Erfurt" title="Erfurt">Erfurt</a></li>
+<li><a href="/wiki/Frankfurt_(Oder)" title="Frankfurt (Oder)">Frankfurt (Oder)</a></li>
+<li><a class="mw-selflink selflink">Gera</a></li>
+<li><a href="/wiki/Halle_(Saale)" title="Halle (Saale)">Halle</a></li>
+<li><a href="/wiki/Chemnitz" title="Chemnitz">Karl-Marx-Stadt (Chemnitz)</a></li>
+<li><a href="/wiki/Leipzig" title="Leipzig">Leipzig</a></li>
+<li><a href="/wiki/Magdeburg" title="Magdeburg">Magdeburg</a></li>
+<li><a href="/wiki/Neubrandenburg" title="Neubrandenburg">Neubrandenburg</a></li>
+<li><a href="/wiki/Potsdam" title="Potsdam">Potsdam</a></li>
+<li><a href="/wiki/Rostock" title="Rostock">Rostock</a></li>
+<li><a href="/wiki/Schwerin" title="Schwerin">Schwerin</a></li>
+<li><a href="/wiki/Suhl" title="Suhl">Suhl</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Flag_of_East_Germany.svg" class="image" title="Flag of East Germany"><img alt="Flag of East Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/30px-Flag_of_East_Germany.svg.png" width="30" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/45px-Flag_of_East_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/60px-Flag_of_East_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/468144783141125045810">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/468144783141125045810">468144783141125045810</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4020295-1">4020295-1</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1209
+Cached time: 20170924021147
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.724 seconds
+Real time usage: 0.975 seconds
+Preprocessor visited node count: 6883/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 94641/2097152 bytes
+Template argument size: 20318/2097152 bytes
+Highest expansion depth: 26/40
+Expensive parser function count: 6/500
+Lua time usage: 0.224/10.000 seconds
+Lua memory usage: 7.36 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  797.357      1 -total
+ 42.16%  336.141      1 Template:Infobox_German_location
+ 40.29%  321.222      1 Template:Infobox_settlement
+ 33.69%  268.637      1 Template:Infobox
+  9.09%   72.499      7 Template:Population_Germany
+  7.49%   59.715      1 Template:Original_research_inline
+  7.18%   57.259      1 Template:Reflist
+  7.13%   56.853      7 Template:Metadata_Population_DE-TH
+  6.54%   52.118      1 Template:Fix
+  6.50%   51.861     13 Template:Convert
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:244648-0!canonical and timestamp 20170924021146 and revision id 796296888
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Gera&amp;oldid=796296888">https://en.wikipedia.org/w/index.php?title=Gera&amp;oldid=796296888</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cities_in_Thuringia" title="Category:Cities in Thuringia">Cities in Thuringia</a></li><li><a href="/wiki/Category:Principality_of_Reuss-Gera" title="Category:Principality of Reuss-Gera">Principality of Reuss-Gera</a></li><li><a href="/wiki/Category:Gera" title="Category:Gera">Gera</a></li><li><a href="/wiki/Category:Holocaust_locations_in_Germany" title="Category:Holocaust locations in Germany">Holocaust locations in Germany</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:All_articles_that_may_contain_original_research" title="Category:All articles that may contain original research">All articles that may contain original research</a></li><li><a href="/wiki/Category:Articles_that_may_contain_original_research_from_March_2011" title="Category:Articles that may contain original research from March 2011">Articles that may contain original research from March 2011</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2009" title="Category:Articles containing potentially dated statements from 2009">Articles containing potentially dated statements from 2009</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Gera" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Gera" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Gera" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Gera" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Gera">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Gera&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Gera&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Gera" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Gera" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Gera&amp;oldid=796296888" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Gera&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3750" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Gera&amp;id=796296888" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Gera">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Gera&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DGera%26returnto%3DGera%26oldid%3D796296888%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Gera&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Gera" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://en.wikivoyage.org/wiki/Gera" hreflang="en">Wikivoyage</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Gera" title="Gera – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%BA%D9%8A%D8%B1%D8%A7" title="غيرا – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D9%82%D8%B1%D8%A7" title="قرا – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Gera" title="Gera – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D0%B0_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4,_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F)" title="Гера (город, Германия) – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D0%B0_(%D0%B3%D0%BE%D1%80%D0%B0%D0%B4)" title="Гера (горад) – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D0%B0_(%D0%B3%D0%BE%D1%80%D0%B0%D0%B4)" title="Гера (горад) – Belarusian (Taraškievica orthography)" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D0%B0" title="Гера – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Gera" title="Gera – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Gera" title="Gera – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Gera" title="Gera – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Kreisfreie_Stadt_Gera" title="Kreisfreie Stadt Gera – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Gera" title="Gera – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Gera" title="Gera – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Gera" title="Gera – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Gera" title="Gera – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Gera" title="Gera – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Gera" title="Gera – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Gera" title="Gera – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D8%A7" title="گرا – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Gera" title="Gera – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Gera" title="Gera – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/Gera" title="Gera – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li><li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/Gera" title="Gera – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EA%B2%8C%EB%9D%BC" title="게라 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/Gera" title="Gera – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Gera" title="Gera – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Gera" title="Gera – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Gera,_Th%C3%BCringen" title="Gera, Thüringen – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Gera" title="Gera – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Gera" title="Gera – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%92%D7%A8%D7%94" title="גרה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%92%E1%83%94%E1%83%A0%E1%83%90" title="გერა – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Gerapolis" title="Gerapolis – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/G%C4%93ra" title="Gēra – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/G%C4%97ra" title="Gėra – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Gera_(DE-TH)" title="Gera (DE-TH) – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Gera" title="Gera – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D0%B0" title="Гера – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Gera" title="Gera – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Gera_(stad)" title="Gera (stad) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%BC%E3%83%A9" title="ゲーラ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Gera" title="Gera – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Gera" title="Gera – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Gera" title="Gera – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Gera" title="Gera – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%DA%AF%DB%8C%D8%B1%D8%A7" title="گیرا – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Gera" title="Gera – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Gera" title="Gera – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Gera" title="Gera – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Gera" title="Gera – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D0%B0_(%D0%A2%D1%8E%D1%80%D0%B8%D0%BD%D0%B3%D0%B8%D1%8F)" title="Гера (Тюрингия) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Gera" title="Gera – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Gera" title="Gera – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Gera" title="Gera – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Gera" title="Gera – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Gera" title="Gera – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D0%B0" title="Гера – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Gera" title="Gera – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Gera" title="Gera – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Gera_(stad)" title="Gera (stad) – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D0%B0_(%D0%90%D0%BB%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F)" title="Гера (Алмания) – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Gera" title="Gera – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D0%B0_(%D0%BC%D1%96%D1%81%D1%82%D0%BE)" title="Гера (місто) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Gera" title="Gera – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Gera" title="Gera – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Gera,_Thuringia" title="Gera, Thuringia – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%A0%BC%E6%8B%89" title="格拉 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3750#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 19 August 2017, at 21:12.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Gera&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.724","walltime":"0.975","ppvisitednodes":{"value":6883,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":94641,"limit":2097152},"templateargumentsize":{"value":20318,"limit":2097152},"expansiondepth":{"value":26,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  797.357      1 -total"," 42.16%  336.141      1 Template:Infobox_German_location"," 40.29%  321.222      1 Template:Infobox_settlement"," 33.69%  268.637      1 Template:Infobox","  9.09%   72.499      7 Template:Population_Germany","  7.49%   59.715      1 Template:Original_research_inline","  7.18%   57.259      1 Template:Reflist","  7.13%   56.853      7 Template:Metadata_Population_DE-TH","  6.54%   52.118      1 Template:Fix","  6.50%   51.861     13 Template:Convert"]},"scribunto":{"limitreport-timeusage":{"value":"0.224","limit":"10.000"},"limitreport-memusage":{"value":7721017,"limit":52428800}},"cachereport":{"origin":"mw1209","timestamp":"20170924021147","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":70,"wgHostname":"mw1255"});});</script>
+	</body>
+</html>

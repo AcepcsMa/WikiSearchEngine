@@ -1,0 +1,902 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Portal:Mathematics - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Portal","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":100,"wgPageName":"Portal:Mathematics","wgTitle":"Mathematics","wgCurRevisionId":780045763,"wgRevisionId":780045763,"wgArticleId":1488464,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia semi-protected portals","Wikipedia move-protected portals","Featured portals","Mathematics portal"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Portal:Mathematics","wgRelevantArticleId":1488464,"wgRequestId":"Wcne7QpAICgAALR0wHcAAAAP","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["sysop"],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q7778173","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.categoryTree.css":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.categoryTree","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.categoryTree.css%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Portal:Mathematics"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-100 ns-subject page-Portal_Mathematics rootpage-Portal_Mathematics skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-Linecons_big-star.svg" class="mw-indicator"><a href="/wiki/Wikipedia:Featured_portals" title="Before the featured portal process ceased in 2017, this had been designated as a featured portal."><img alt="Before the featured portal process ceased in 2017, this had been designated as a featured portal." src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Linecons_big-star.svg/20px-Linecons_big-star.svg.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Linecons_big-star.svg/30px-Linecons_big-star.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Linecons_big-star.svg/40px-Linecons_big-star.svg.png 2x" data-file-width="512" data-file-height="512" /></a></div>
+<div id="mw-indicator-pp-default" class="mw-indicator"><a href="/wiki/Wikipedia:Protection_policy#semi" title="This page is semi-protected."><img alt="Page semi-protected" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/30px-Padlock-silver.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/40px-Padlock-silver.svg.png 2x" data-file-width="128" data-file-height="128" /></a></div>
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Portal:Mathematics</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div id="portals-browsebar" class="hlist" style="text-align: center;">
+<dl>
+<dt><a href="/wiki/Portal:Contents/Portals" title="Portal:Contents/Portals">Topics</a></dt>
+<dd><a href="/wiki/Portal:Contents/Portals#Culture_and_the_arts" title="Portal:Contents/Portals">Culture</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Geography_and_places" title="Portal:Contents/Portals">Geography</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Health_and_fitness" title="Portal:Contents/Portals">Health</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#History_and_events" title="Portal:Contents/Portals">History</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Mathematics_and_logic" title="Portal:Contents/Portals">Mathematics</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Natural_and_physical_sciences" title="Portal:Contents/Portals">Nature</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#People_and_self" title="Portal:Contents/Portals">People</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Philosophy_and_thinking" title="Portal:Contents/Portals">Philosophy</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Religion_and_belief_systems" title="Portal:Contents/Portals">Religion</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Society_and_social_sciences" title="Portal:Contents/Portals">Society</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Technology_and_applied_sciences" title="Portal:Contents/Portals">Technology</a></dd>
+</dl>
+</div>
+<div style="float:right; width:100%">
+<div style="clear: both; border: solid tan; border-width: 1px 1px 0; background: antiquewhite; color: #503b1e; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks" style="float:right;margin-bottom:.1em;font-size:80%; color: #503b1e"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Mathematics/Intro&amp;action=edit"><span style="color: #503b1e">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#503b1e;"><span class="mw-headline" id="The_Mathematics_Portal"><big>The <b>Mathematics</b> Portal</big></span></h2>
+</div>
+<div style="border: 1px solid tan; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div style="float:right; width:100%">
+<div style="float:right;margin-left:1em">
+<center><a href="/wiki/Square_root" title="Square root">Square root</a></center>
+<p><a href="/wiki/File:Nuvola_apps_edu_mathematics_blue-p.svg" class="image" title="Square root"><img alt="Square root" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nuvola_apps_edu_mathematics_blue-p.svg/130px-Nuvola_apps_edu_mathematics_blue-p.svg.png" width="130" height="130" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nuvola_apps_edu_mathematics_blue-p.svg/195px-Nuvola_apps_edu_mathematics_blue-p.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nuvola_apps_edu_mathematics_blue-p.svg/260px-Nuvola_apps_edu_mathematics_blue-p.svg.png 2x" data-file-width="128" data-file-height="128" /></a><br /></p>
+</div>
+<p><br /></p>
+<div role="note" class="shortcutbox shortcutbox-left plainlist noprint" style="float: left; border: 1px solid #aaa; background: #fff; margin: .3em 1em .3em .3em; padding: 8px 6px; text-align: center; font-size: smaller; font-weight: bold;"><span id="P:MAT"></span><a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>:
+<div>
+<ul>
+<li><span class="plainlinks"><a class="external text" href="//en.wikipedia.org/w/index.php?title=P:MAT&amp;redirect=no">P:MAT</a></span></li>
+</ul>
+</div>
+</div>
+<p><b><a href="/wiki/Mathematics" title="Mathematics">Mathematics</a></b> is the study of <a href="/wiki/Number" title="Number">numbers</a>, <a href="/wiki/Quantity" title="Quantity">quantity</a>, <a href="/wiki/Space" title="Space">space</a>, <a href="/wiki/Mathematical_structure" title="Mathematical structure">structure</a>, and <a href="/wiki/Calculus" title="Calculus">change</a>. Mathematics is used throughout the world as an essential tool in many fields, including <a href="/wiki/Natural_science" title="Natural science">natural science</a>, <a href="/wiki/Engineering" title="Engineering">engineering</a>, <a href="/wiki/Medicine" title="Medicine">medicine</a>, and the <a href="/wiki/Social_sciences" class="mw-redirect" title="Social sciences">social sciences</a>. <a href="/wiki/Applied_mathematics" title="Applied mathematics">Applied mathematics</a>, the branch of mathematics concerned with application of mathematical knowledge to other fields, inspires and makes use of new mathematical discoveries and sometimes leads to the development of entirely new mathematical disciplines, such as <a href="/wiki/Statistics" title="Statistics">statistics</a> and <a href="/wiki/Game_theory" title="Game theory">game theory</a>. Mathematicians also engage in <a href="/wiki/Pure_mathematics" title="Pure mathematics">pure mathematics</a>, or mathematics for its own sake, without having any application in mind. There is no clear line separating pure and applied mathematics, and practical applications for what began as pure mathematics are often discovered.</p>
+<div class="no print" align="right"><b><a href="/wiki/Mathematics" title="Mathematics">More about Mathematics...</a></b></div>
+<table width="100%" border="0" style="padding: 0; margin:0; background:transparent;">
+<tr>
+<td></td>
+</tr>
+</table>
+<div style="text-align:center; margin-bottom:1em;">
+<p><a href="#Selected_article">Selected article</a> | <a href="#Selected_picture">Selected picture</a> | <a href="#Did_you_know...">Did you know...</a> | <a href="#Topics_in_mathematics">Topics in mathematics</a><br />
+<a href="#Categories">Categories</a> | <a href="#WikiProjects">WikiProjects</a> | <a href="#Things_you_can_do">Things you can do</a> | <a href="#Index_of_mathematics_articles">Index</a> | <a href="#Related_portals">Related portals</a></p>
+</div>
+<p><i>There are approximately 31,444 <a href="/wiki/List_of_mathematics_articles" class="mw-redirect" title="List of mathematics articles">mathematics articles</a> in <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>.</i></p>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div style="text-align:center; margin:0.25em auto 0.75em"><span class="noprint plainlinks purgelink"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Mathematics&amp;action=purge"><span title="Purge this page"><b>View new selections below</b> (purge)</span></a></span></div>
+<div class="portal-column-left-wide">
+<div style="clear: both; border: solid tan; border-width: 1px 1px 0; background: antiquewhite; color: #503b1e; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks" style="float:right;margin-bottom:.1em;font-size:80%; color: #503b1e"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Mathematics/Selected_article/5&amp;action=edit"><span style="color: #503b1e">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#503b1e;"><span class="mw-headline" id="Selected_article">Selected article</span></h2>
+</div>
+<div style="border: 1px solid tan; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<p><br /></p>
+<table style="float: right; margin-left: 1em; background-color: transparent;">
+<tr>
+<td>
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Title_page_of_Sir_Henry_Billingsley%27s_first_English_version_of_Euclid%27s_Elements,_1570_(560x900).jpg" class="image"><img alt="Title page of Sir Henry Billingsley's first English version of Euclid's Elements, 1570 (560x900).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Title_page_of_Sir_Henry_Billingsley%27s_first_English_version_of_Euclid%27s_Elements%2C_1570_%28560x900%29.jpg/200px-Title_page_of_Sir_Henry_Billingsley%27s_first_English_version_of_Euclid%27s_Elements%2C_1570_%28560x900%29.jpg" width="200" height="306" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Title_page_of_Sir_Henry_Billingsley%27s_first_English_version_of_Euclid%27s_Elements%2C_1570_%28560x900%29.jpg/300px-Title_page_of_Sir_Henry_Billingsley%27s_first_English_version_of_Euclid%27s_Elements%2C_1570_%28560x900%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Title_page_of_Sir_Henry_Billingsley%27s_first_English_version_of_Euclid%27s_Elements%2C_1570_%28560x900%29.jpg/400px-Title_page_of_Sir_Henry_Billingsley%27s_first_English_version_of_Euclid%27s_Elements%2C_1570_%28560x900%29.jpg 2x" data-file-width="1766" data-file-height="2702" /></a></div>
+</div>
+</td>
+</tr>
+<tr>
+<td width="200" style="font-size: 85%; text-align: center;">The <a href="/wiki/Book_frontispiece" title="Book frontispiece">frontispiece</a> of Sir Henry Billingsley's first English version of Euclid's <i>Elements</i>, 1570<br />
+<span style="font-size:smaller">Image credit:</span></td>
+</tr>
+</table>
+<p><b>Euclid's <i>Elements</i></b> (<a href="/wiki/Greek_language" title="Greek language">Greek</a>: Στοιχεῖα) is a <a href="/wiki/Mathematics" title="Mathematics">mathematical</a> and <a href="/wiki/Geometry" title="Geometry">geometric</a> treatise, consisting of 13 books, written by the <a href="/wiki/Hellenistic" class="mw-redirect" title="Hellenistic">Hellenistic</a> <a href="/wiki/Mathematician" title="Mathematician">mathematician</a> <a href="/wiki/Euclid" title="Euclid">Euclid</a> in <a href="/wiki/Egypt" title="Egypt">Egypt</a> during the early <a href="/wiki/3rd_century_BC" title="3rd century BC">3rd century BC</a>. It comprises a collection of definitions, postulates (<a href="/wiki/Axiom" title="Axiom">axioms</a>), propositions (<a href="/wiki/Theorem" title="Theorem">theorems</a>) and proofs thereof. Euclid's books are in the fields of <a href="/wiki/Euclidean_geometry" title="Euclidean geometry">Euclidean geometry</a>, as well as the ancient <a href="/wiki/Greek_language" title="Greek language">Greek</a> version of <a href="/wiki/Number_theory" title="Number theory">number theory</a>. The <i>Elements</i> is one of the oldest extant axiomatic deductive treatments of <a href="/wiki/Geometry" title="Geometry">geometry</a>, and has proven instrumental in the development of <a href="/wiki/Logic" title="Logic">logic</a> and modern <a href="/wiki/Science" title="Science">science</a>.</p>
+<p>It is considered one of the most successful textbooks ever written: the <i>Elements</i> was one of the very first books to go to press, and is second only to the <a href="/wiki/Bible" title="Bible">Bible</a> in number of editions published (well over 1000). For centuries, when the <a href="/wiki/Quadrivium" title="Quadrivium">quadrivium</a> was included in the curriculum of all university students, knowledge of at least part of Euclid's <i>Elements</i> was required of all students. Not until the 20th century did it cease to be considered something all educated people had read. It is still (though rarely) used as a basic introduction to geometry today.</p>
+<table width="100%" border="0" style="clear:both; padding:0; margin:0; background:transparent;">
+<tr>
+<td align="left"><b><a href="/wiki/Portal:Mathematics/Selected_article_archive" title="Portal:Mathematics/Selected article archive">View all selected articles</a></b></td>
+<td align="right"><b><a href="/wiki/Euclid%27s_Elements" title="Euclid's Elements">Read More...</a></b></td>
+</tr>
+</table>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid tan; border-width: 1px 1px 0; background: antiquewhite; color: #503b1e; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks" style="float:right;margin-bottom:.1em;font-size:80%; color: #503b1e"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Mathematics/Selected_picture/23&amp;action=edit"><span style="color: #503b1e">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#503b1e;"><span class="mw-headline" id="Selected_picture">Selected picture</span></h2>
+</div>
+<div style="border: 1px solid tan; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div style="text-align: center;">
+<div style="display:table; margin: 0 auto 5px auto; padding:7px; border:4px ridge transparent">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Quincunx_(Galton_Box)_-_Galton_1889_diagram.png" class="image" title="Three hand-drawn diagrams of boxes containing grids of pins that a small ball may fall through, ending up in one of several bins at the bottom"><img alt="Three hand-drawn diagrams of boxes containing grids of pins that a small ball may fall through, ending up in one of several bins at the bottom" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Quincunx_%28Galton_Box%29_-_Galton_1889_diagram.png/350px-Quincunx_%28Galton_Box%29_-_Galton_1889_diagram.png" width="350" height="271" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Quincunx_%28Galton_Box%29_-_Galton_1889_diagram.png/525px-Quincunx_%28Galton_Box%29_-_Galton_1889_diagram.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Quincunx_%28Galton_Box%29_-_Galton_1889_diagram.png/700px-Quincunx_%28Galton_Box%29_-_Galton_1889_diagram.png 2x" data-file-width="744" data-file-height="577" /></a></div>
+</div>
+</div>
+<div class="noprint" style="display:table; margin: 0 auto; width:33%;"><small>Credit: <a href="/wiki/User:Fangz" title="User:Fangz">Fangz</a> (original uploader)</small></div>
+<p>This is <a href="/wiki/Francis_Galton" title="Francis Galton">Francis Galton's</a> original 1889 drawing of three versions of a "<a href="/wiki/Bean_machine" title="Bean machine">bean machine</a>", now commonly called a "Galton box" (another name is a <i><a href="/wiki/Quincunx" title="Quincunx">quincunx</a></i>), a real-world device that can be used to illustrate the <b><a href="/wiki/De_Moivre%E2%80%93Laplace_theorem" title="De Moivre–Laplace theorem">de Moivre–Laplace theorem</a></b> of <a href="/wiki/Probability_theory" title="Probability theory">probability theory</a>, which states that the <a href="/wiki/Normal_distribution" title="Normal distribution">normal distribution</a> is a good approximation to the <a href="/wiki/Binomial_distribution" title="Binomial distribution">binomial distribution</a> provided that the number of repeated "trials" associated with the latter distribution is sufficiently large. As the "bean" (i.e., a small ball) falls through the box (the design of which is quite similar to the popular Japanese game <a href="/wiki/Pachinko" title="Pachinko">Pachinko</a>), it can fall to the left or right of each pin it approaches. Since each lower pin is centered horizontally beneath a pair of higher pins (or a higher pin and the side of the box), the bean has the same probability of falling either way, and each such outcome is approximately independent of the others. Each row of pins thus corresponds to a <a href="/wiki/Bernoulli_trial" title="Bernoulli trial">Bernoulli trial</a> with "success" probablility 0.5 ("success" is defined as falling a particular direction—say, to the right—each time). This makes the final position of the bean at the bottom of the box the sum of several approximately-independent <a href="/wiki/Bernoulli_distribution" title="Bernoulli distribution">Bernoulli random variables</a>, and therefore approximately a random observation from a binomial distribution. (Note that because the bean may reach the side of the box and at that point only be able to fall in one direction, this sequence of Bernoulli random variables might be interrupted by a <i>non-random</i> movement back towards the center; this would not be a problem if the box were wide enough to prevent the bean from reaching the side of the box, as in the top half of Fig.&#160;8—see also <a href="/wiki/File:Planche_de_Galton.jpg" title="File:Planche de Galton.jpg">this photograph</a>.) The box on the left, in Fig.&#160;7, has 23 rows of pins (not counting the first row which is positioned in such a way that the bean always passes between two particular pins) and a final row of slots, so the number of trials in that case is 24. This is large enough that the resulting columns of beans collected at the bottom of the box show the classic "bell curve" shape of the normal distribution. While a level box gives a probability of 0.5 to fall either way at each pin, a tilted box results in asymmetric probabilities, and thus a <a href="/wiki/Skewness" title="Skewness">skewed distribution</a> (see <a href="/wiki/File:Galton_box_3.jpg" title="File:Galton box 3.jpg">this other photograph</a>). Published in 1738 by <a href="/wiki/Abraham_de_Moivre" title="Abraham de Moivre">Abraham de Moivre</a> in the second edition of his textbook <i><a href="/wiki/The_Doctrine_of_Chances" title="The Doctrine of Chances">The Doctrine of Chances</a></i>, the de Moivre–Laplace theorem is today recognized as a special case of the more familiar <a href="/wiki/Central_limit_theorem" title="Central limit theorem">central limit theorem</a>. Together these results underlie a great many <a href="/wiki/Statistics" title="Statistics">statistical procedures</a> widely used today in science, technology, business, and government to analyze data and make decisions.</p>
+</div>
+<div class="noprint" style="border:0; padding:0; margin:0;"><span style="display:inline-block; text-align:left; width:32%;"><b><a href="/wiki/Portal:Mathematics/Selected_picture" title="Portal:Mathematics/Selected picture">More selected pictures...</a></b></span><span style="display:inline-block; text-align:center; width:34%;">&#160;</span><span style="display:inline-block; text-align:right; width:32%;"><b><a href="/wiki/De_Moivre%E2%80%93Laplace_theorem" title="De Moivre–Laplace theorem">Read more...</a></b></span></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="portal-column-right-narrow">
+<div style="clear: both; border: solid tan; border-width: 1px 1px 0; background: antiquewhite; color: #503b1e; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks" style="float:right;margin-bottom:.1em;font-size:80%; color: #503b1e"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Mathematics/Did_you_know&amp;action=edit"><span style="color: #503b1e">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#503b1e;"><span class="mw-headline" id="Did_you_know..."><i>Did you know...</i></span></h2>
+</div>
+<div style="border: 1px solid tan; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div class="floatright"><a href="/wiki/File:Nuvola_apps_filetypes.svg" class="image" title="Did you know..."><img alt="Did you know..." src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Nuvola_apps_filetypes.svg/50px-Nuvola_apps_filetypes.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Nuvola_apps_filetypes.svg/75px-Nuvola_apps_filetypes.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/44/Nuvola_apps_filetypes.svg/100px-Nuvola_apps_filetypes.svg.png 2x" data-file-width="128" data-file-height="128" /></a></div>
+<ul>
+<li>...that the <a href="/wiki/Axiom_of_choice" title="Axiom of choice">axiom of choice</a> is <a href="/wiki/Logically_independent" class="mw-redirect" title="Logically independent">logically independent</a> of the other axioms of <a href="/wiki/Zermelo%E2%80%93Fraenkel_set_theory" title="Zermelo–Fraenkel set theory">Zermelo–Fraenkel set theory</a>?</li>
+<li>...that the <a href="/wiki/Pythagorean_theorem#Similar_figures_on_the_three_sides" title="Pythagorean theorem">Pythagorean Theorem</a> generalizes to any three similar shapes on the three sides of a right-angled triangle?</li>
+<li>...that the <a href="/wiki/Orthocenter" class="mw-redirect" title="Orthocenter">orthocenter</a>, <a href="/wiki/Circumcenter" class="mw-redirect" title="Circumcenter">circumcenter</a>, <a href="/wiki/Centroid" title="Centroid">centroid</a> and the centre of the <a href="/wiki/Nine-point_circle" title="Nine-point circle">nine-point circle</a> all lie on one line, the <b><a href="/wiki/Euler_line" title="Euler line">Euler line</a></b>?</li>
+<li>...that an arbitrary <a href="/wiki/Quadrilateral" title="Quadrilateral">quadrilateral</a> will <a href="/wiki/Tessellate" class="mw-redirect" title="Tessellate">tessellate</a>?</li>
+<li>...that it has not been proven whether or not <a href="/wiki/Goldbach%27s_conjecture" title="Goldbach's conjecture">every even integer greater than two can be expressed as the sum of two primes</a>?</li>
+<li>...that the <a href="/wiki/Summation" title="Summation">sum</a> of the first <i>n</i> <a href="/wiki/Odd_numbers" class="mw-redirect" title="Odd numbers">odd numbers</a> divided by the sum of the next <i>n</i> odd numbers is always equal to one third?</li>
+<li>...that <i>i</i> to the power of <i>i</i>, where <i>i</i> is the <a href="/wiki/Imaginary_unit" title="Imaginary unit">square root of -1</a>, is a real number?</li>
+</ul>
+<p>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;</p>
+<div style="float: left;"><i><small>Showing 7 items out of 71</small></i></div>
+<div style="float: right;"><b><a href="/wiki/Portal:Mathematics/Did_you_know" title="Portal:Mathematics/Did you know">More&#160;did&#160;you&#160;know</a></b></div>
+<table width="100%" border="0" style="padding: 0; margin:0; background:transparent;">
+<tr>
+<td></td>
+</tr>
+</table>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid tan; border-width: 1px 1px 0; background: antiquewhite; color: #503b1e; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks" style="float:right;margin-bottom:.1em;font-size:80%; color: #503b1e"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Mathematics/Projects&amp;action=edit"><span style="color: #503b1e">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#503b1e;"><span class="mw-headline" id="WikiProjects"><i>WikiProjects</i></span></h2>
+</div>
+<div style="border: 1px solid tan; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<p>The <b><a href="/wiki/Wikipedia:WikiProject_Mathematics" title="Wikipedia:WikiProject Mathematics">Mathematics WikiProject</a></b> is the center for mathematics-related editing on Wikipedia. Join the discussion on the project's <b><a href="/wiki/Wikipedia_talk:WikiProject_Mathematics" title="Wikipedia talk:WikiProject Mathematics">talk page</a></b>.</p>
+<div style="float:right">
+<p><a href="/wiki/File:Community.png" class="image" title="WikiProjects"><img alt="WikiProjects" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Community.png" width="55" height="37" data-file-width="48" data-file-height="32" /></a></p>
+</div>
+<p><b>Project pages</b></p>
+<ul>
+<li><a href="/wiki/Wikipedia:WikiProject_Mathematics/Participants" title="Wikipedia:WikiProject Mathematics/Participants">Participants</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Mathematics/Current_activity" title="Wikipedia:WikiProject Mathematics/Current activity">Current activity</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style_(mathematics)" class="mw-redirect" title="Wikipedia:Manual of Style (mathematics)">Manual of style</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Mathematics/Conventions" class="mw-redirect" title="Wikipedia:WikiProject Mathematics/Conventions">Conventions</a></li>
+</ul>
+<p><b>Essays</b></p>
+<ul>
+<li><a href="/wiki/Wikipedia:WikiProject_Mathematics/Advice_on_using_Wikipedia_for_mathematics_self-study" class="mw-redirect" title="Wikipedia:WikiProject Mathematics/Advice on using Wikipedia for mathematics self-study">Advice on using Wikipedia for mathematics self-study</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Mathematics/Proofs" title="Wikipedia:WikiProject Mathematics/Proofs">Proofs</a></li>
+</ul>
+<p><b>Subprojects</b></p>
+<ul>
+<li><a href="/wiki/Wikipedia:WikiProject_Mathematics/PlanetMath_Exchange" title="Wikipedia:WikiProject Mathematics/PlanetMath Exchange">PlanetMath Exchange</a> (<a href="/wiki/Wikipedia_talk:WikiProject_Mathematics/PlanetMath_Exchange" title="Wikipedia talk:WikiProject Mathematics/PlanetMath Exchange">Talk</a>)</li>
+<li><a href="/wiki/Wikipedia:WikiProject_Mathematics/Graphics" title="Wikipedia:WikiProject Mathematics/Graphics">Graphics</a> (<a href="/wiki/Wikipedia_talk:WikiProject_Mathematics/Graphics" title="Wikipedia talk:WikiProject Mathematics/Graphics">Talk</a>)</li>
+<li><a href="/wiki/Wikipedia:WikiProject_Mathematics/Wikipedia_1.0" title="Wikipedia:WikiProject Mathematics/Wikipedia 1.0">Article assessment</a> (<a href="/wiki/Wikipedia_talk:WikiProject_Mathematics/Wikipedia_1.0" title="Wikipedia talk:WikiProject Mathematics/Wikipedia 1.0">Talk</a>)</li>
+</ul>
+<p><b>Related projects</b></p>
+<div style="text-align:center;"><a href="/wiki/Wikipedia:WikiProject_Computer_science" title="Wikipedia:WikiProject Computer science">Computer science</a> | <a href="/wiki/Wikipedia:WikiProject_Cryptography" title="Wikipedia:WikiProject Cryptography">Cryptography</a> | <a href="/wiki/Wikipedia:WikiProject_Game_theory" title="Wikipedia:WikiProject Game theory">Game theory</a> | <a href="/wiki/Wikipedia:WikiProject_Numbers" title="Wikipedia:WikiProject Numbers">Numbers</a> | <a href="/wiki/Wikipedia:WikiProject_Physics" title="Wikipedia:WikiProject Physics">Physics</a> | <a href="/wiki/Wikipedia:WikiProject_Science" title="Wikipedia:WikiProject Science">Science</a> | <a href="/wiki/Wikipedia:WikiProject_Statistics" title="Wikipedia:WikiProject Statistics">Statistics</a></div>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid tan; border-width: 1px 1px 0; background: antiquewhite; color: #503b1e; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks" style="float:right;margin-bottom:.1em;font-size:80%; color: #503b1e"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Mathematics/Things_you_can_do&amp;action=edit"><span style="color: #503b1e">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#503b1e;"><span class="mw-headline" id="Things_you_can_do"><i>Things you can do</i></span></h2>
+</div>
+<div style="border: 1px solid tan; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div class="floatright"><a href="/wiki/File:Nuvola_apps_korganizer.svg" class="image"><img alt="Nuvola apps korganizer.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/e/e6/Nuvola_apps_korganizer.svg/50px-Nuvola_apps_korganizer.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e6/Nuvola_apps_korganizer.svg/75px-Nuvola_apps_korganizer.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e6/Nuvola_apps_korganizer.svg/100px-Nuvola_apps_korganizer.svg.png 2x" data-file-width="128" data-file-height="128" /></a></div>
+<ul>
+<li><a href="/wiki/Wikipedia:Requested_articles/Mathematics" title="Wikipedia:Requested articles/Mathematics"><b>Create a new article</b>: <i>See requested articles list</i></a></li>
+<li><a href="/wiki/Wikipedia:Pages_needing_attention/Mathematics#Requested_images" title="Wikipedia:Pages needing attention/Mathematics"><b>Add a new image</b>: <i>Requested images list</i></a></li>
+<li><a href="/wiki/Wikipedia:Pages_needing_attention/Mathematics" title="Wikipedia:Pages needing attention/Mathematics"><b>Improve articles</b>: <i>Pages needing attention</i></a> (<a href="/wiki/Category:Mathematics_articles_needing_expert_attention" title="Category:Mathematics articles needing expert attention">Category</a>)</li>
+<li><a href="/wiki/Category:Mathematics_stubs" title="Category:Mathematics stubs"><b>Expand articles</b>: <i>Mathematics stubs</i></a></li>
+</ul>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div style="clear: both; border: solid tan; border-width: 1px 1px 0; background: antiquewhite; color: #503b1e; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks" style="float:right;margin-bottom:.1em;font-size:80%; color: #503b1e"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Mathematics/Categories&amp;action=edit"><span style="color: #503b1e">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#503b1e;"><span class="mw-headline" id="Categories"><i>Categories</i></span></h2>
+</div>
+<div style="border: 1px solid tan; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div style="text-align:center; font-size:normal;">
+<div class="floatright"><a href="/wiki/File:C_Puzzle.png" class="image"><img alt="C Puzzle.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/C_Puzzle.png/42px-C_Puzzle.png" width="42" height="42" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/C_Puzzle.png/63px-C_Puzzle.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/C_Puzzle.png/84px-C_Puzzle.png 2x" data-file-width="150" data-file-height="150" /></a></div>
+<p><a href="/wiki/Category:Algebra" title="Category:Algebra">Algebra</a> | <a href="/wiki/Category:Arithmetic" title="Category:Arithmetic">Arithmetic</a> | <a href="/wiki/Category:Mathematical_analysis" title="Category:Mathematical analysis">Analysis</a> | <a href="/wiki/Category:Complex_analysis" title="Category:Complex analysis">Complex&#160;analysis</a> | <a href="/wiki/Category:Applied_mathematics" title="Category:Applied mathematics">Applied&#160;mathematics</a> | <a href="/wiki/Category:Calculus" title="Category:Calculus">Calculus</a> | <a href="/wiki/Category:Category_theory" title="Category:Category theory">Category&#160;theory</a> | <a href="/wiki/Category:Chaos_theory" title="Category:Chaos theory">Chaos&#160;theory</a> | <a href="/wiki/Category:Combinatorics" title="Category:Combinatorics">Combinatorics</a> | <a href="/wiki/Category:Dynamical_systems" title="Category:Dynamical systems">Dynamic&#160;systems</a> | <a href="/wiki/Category:Fractals" title="Category:Fractals">Fractals</a> | <a href="/wiki/Category:Game_theory" title="Category:Game theory">Game&#160;theory</a> | <a href="/wiki/Category:Geometry" title="Category:Geometry">Geometry</a> | <a href="/wiki/Category:Algebraic_geometry" title="Category:Algebraic geometry">Algebraic&#160;geometry</a> | <a href="/wiki/Category:Graph_theory" title="Category:Graph theory">Graph&#160;theory</a> | <a href="/wiki/Category:Group_theory" title="Category:Group theory">Group&#160;theory</a> | <a href="/wiki/Category:Linear_algebra" title="Category:Linear algebra">Linear&#160;algebra</a> | <a href="/wiki/Category:Mathematical_logic" title="Category:Mathematical logic">Mathematical&#160;logic</a> | <a href="/wiki/Category:Model_theory" title="Category:Model theory">Model&#160;theory</a> | <a href="/wiki/Category:Multi-dimensional_geometry" title="Category:Multi-dimensional geometry">Multi-dimensional&#160;geometry</a> | <a href="/wiki/Category:Number_theory" title="Category:Number theory">Number&#160;theory</a> | <a href="/wiki/Category:Numerical_analysis" title="Category:Numerical analysis">Numerical&#160;analysis</a> | <a href="/wiki/Category:Mathematical_optimization" title="Category:Mathematical optimization">Optimization</a> | <a href="/wiki/Category:Order_theory" title="Category:Order theory">Order&#160;theory</a> | <a href="/wiki/Category:Probability_and_statistics" title="Category:Probability and statistics">Probability&#160;and&#160;statistics</a> | <a href="/wiki/Category:Set_theory" title="Category:Set theory">Set&#160;theory</a> | <a href="/wiki/Category:Statistics" title="Category:Statistics">Statistics</a> | <a href="/wiki/Category:Topology" title="Category:Topology">Topology</a> | <a href="/wiki/Category:Algebraic_topology" title="Category:Algebraic topology">Algebraic&#160;topology</a> | <a href="/wiki/Category:Trigonometry" title="Category:Trigonometry">Trigonometry</a> | <a href="/wiki/Category:Linear_programming" title="Category:Linear programming">Linear&#160;programming</a></p>
+</div>
+<hr />
+<div style="text-align:center; font-size:normal;">
+<p><a href="/wiki/Category:Mathematics" title="Category:Mathematics">Mathematics</a> (<a href="/wiki/Category:Wikipedia_books_on_mathematics" title="Category:Wikipedia books on mathematics">books</a>) | <a href="/wiki/Category:History_of_mathematics" title="Category:History of mathematics">History of mathematics</a> | <a href="/wiki/Category:Mathematicians" title="Category:Mathematicians">Mathematicians</a> | <a href="/wiki/Category:Mathematics_awards" title="Category:Mathematics awards">Awards</a> | <a href="/wiki/Category:Mathematics_education" title="Category:Mathematics education">Education</a> | <a href="/wiki/Category:Mathematics_literature" title="Category:Mathematics literature">Literature</a> | <a href="/wiki/Category:Mathematical_notation" title="Category:Mathematical notation">Notation</a> | <a href="/wiki/Category:Mathematics_organizations" title="Category:Mathematics organizations">Organizations</a> | <a href="/wiki/Category:Mathematical_theorems" title="Category:Mathematical theorems">Theorems</a> | <a href="/wiki/Category:Mathematical_proofs" title="Category:Mathematical proofs">Proofs</a> | <a href="/wiki/Category:Unsolved_problems_in_mathematics" title="Category:Unsolved problems in mathematics">Unsolved problems</a></p>
+</div>
+<div class="div-col columns column-count column-count-3" style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3;">
+<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}">
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Mathematics" data-ct-loaded="1" data-ct-state="expanded">▼</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Mathematics">Mathematics</a></div>
+<div class="CategoryTreeChildren" style="display:block">
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Fields_of_mathematics" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Fields_of_mathematics">Fields of mathematics</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Mathematics-related_lists" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Mathematics-related_lists">Mathematics-related lists</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Mathematicians" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Mathematicians">Mathematicians</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Mathematical_concepts" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Mathematical_concepts">Mathematical concepts</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Mathematics_and_culture" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Mathematics_and_culture">Mathematics and culture</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">►</span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Mathematical_examples">Mathematical examples</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="History_of_mathematics" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:History_of_mathematics">History of mathematics</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Mathematics_and_art" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Mathematics_and_art">Mathematics and art</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Mathematical_modeling" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Mathematical_modeling">Mathematical modeling</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Mathematical_notation" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Mathematical_notation">Mathematical notation</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Mathematical_science_occupations" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Mathematical_science_occupations">Mathematical science occupations</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Philosophy_of_mathematics" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Philosophy_of_mathematics">Philosophy of mathematics</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">►</span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Mathematical_projects">Mathematical projects</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Mathematical_proofs" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Mathematical_proofs">Mathematical proofs</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">►</span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Pseudomathematics">Pseudomathematics</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">►</span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Set_indices_on_mathematics">Set indices on mathematics</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Mathematical_terminology" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Mathematical_terminology">Mathematical terminology</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">►</span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Mathematics_textbooks">Mathematics textbooks</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Mathematical_theorems" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Mathematical_theorems">Mathematical theorems</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Mathematical_tools" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Mathematical_tools">Mathematical tools</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Women_in_mathematics" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Women_in_mathematics">Women in mathematics</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Wikipedia_books_on_mathematics" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Wikipedia_books_on_mathematics">Wikipedia books on mathematics</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Mathematics_stubs" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Mathematics_stubs">Mathematics stubs</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"><b><a href="/wiki/List_of_mathematics_categories" class="mw-redirect" title="List of mathematics categories">More mathematics categories</a></b></div>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid tan; border-width: 1px 1px 0; background: antiquewhite; color: #503b1e; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks" style="float:right;margin-bottom:.1em;font-size:80%; color: #503b1e"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Mathematics/MathematicsTopics&amp;action=edit"><span style="color: #503b1e">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#503b1e;"><span class="mw-headline" id="Topics_in_mathematics"><i>Topics in mathematics</i></span></h2>
+</div>
+<div style="border: 1px solid tan; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div style="margin: -.3em -1em -1em -1em;">
+<table width="100%" style="background-color:#fff;margin:auto;" border="0" cellpadding="3px" cellspacing="2px">
+<tr align="center" style="background-color:tan;">
+<th width="25%"><b>General</b></th>
+<th width="25%"><b>Foundations</b></th>
+<th width="25%"><b>Number theory</b></th>
+<th width="25%"><b>Discrete mathematics</b></th>
+</tr>
+<tr valign="top" align="left" style="background: antiquewhite; font-size: 92%;">
+<td>
+<div style="float: right"><a href="/wiki/File:Nuvola_apps_bookcase.svg" class="image"><img alt="Nuvola apps bookcase.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nuvola_apps_bookcase.svg/32px-Nuvola_apps_bookcase.svg.png" width="32" height="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nuvola_apps_bookcase.svg/48px-Nuvola_apps_bookcase.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nuvola_apps_bookcase.svg/64px-Nuvola_apps_bookcase.svg.png 2x" data-file-width="128" data-file-height="128" /></a></div>
+<ul>
+<li><a href="/wiki/Mathematician" title="Mathematician">Mathematicians</a></li>
+<li><a href="/wiki/History_of_mathematics" title="History of mathematics">History of mathematics</a></li>
+<li><a href="/wiki/Philosophy_of_mathematics" title="Philosophy of mathematics">Philosophy of mathematics</a></li>
+<li><a href="/wiki/Mathematical_notation" title="Mathematical notation">Mathematical notation</a></li>
+<li><a href="/wiki/Mathematical_beauty" title="Mathematical beauty">Mathematical beauty</a></li>
+<li><a href="/wiki/Mathematics_education" title="Mathematics education">Mathematics education</a></li>
+<li><a href="/wiki/Areas_of_mathematics" title="Areas of mathematics">Areas of mathematics</a></li>
+<li><a href="/wiki/List_of_basic_mathematics_topics" class="mw-redirect" title="List of basic mathematics topics">List of basic mathematics topics</a></li>
+<li><a href="/wiki/List_of_mathematical_symbols" title="List of mathematical symbols">List of mathematical symbols</a></li>
+<li><a href="/wiki/Wikipedia:Books" title="Wikipedia:Books">Wikipedia Books</a>: <a href="/wiki/Wikipedia:Books/Mathematics" class="mw-redirect" title="Wikipedia:Books/Mathematics">Mathematics</a></li>
+</ul>
+</td>
+<td>
+<div style="float: right"><a href="/wiki/File:Set_theory_icon.svg" class="image"><img alt="Set theory icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Set_theory_icon.svg/32px-Set_theory_icon.svg.png" width="32" height="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Set_theory_icon.svg/48px-Set_theory_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Set_theory_icon.svg/64px-Set_theory_icon.svg.png 2x" data-file-width="128" data-file-height="128" /></a></div>
+<ul>
+<li><a href="/wiki/Foundations_of_mathematics" title="Foundations of mathematics">Foundations of mathematics</a></li>
+<li><a href="/wiki/Mathematical_logic" title="Mathematical logic">Mathematical logic</a>
+<ul>
+<li><a href="/wiki/Proof_theory" title="Proof theory">Proof theory</a>
+<ul>
+<li><a href="/wiki/G%C3%B6del%27s_incompleteness_theorems" title="Gödel's incompleteness theorems">Gödel's incompleteness theorems</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Model_theory" title="Model theory">Model theory</a></li>
+<li><a href="/wiki/Recursion_theory" class="mw-redirect" title="Recursion theory">Recursion theory</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><a href="/wiki/Set_theory" title="Set theory">Set theory</a> (<a href="/wiki/Portal:Set_theory" title="Portal:Set theory">portal</a>)
+<ul>
+<li><a href="/wiki/Naive_set_theory" title="Naive set theory">Naive set theory</a></li>
+<li><a href="/wiki/Axiomatic_set_theory" class="mw-redirect" title="Axiomatic set theory">Axiomatic set theory</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Category_theory" title="Category theory">Category theory</a> (<a href="/wiki/Portal:Category_theory" title="Portal:Category theory">portal</a>)
+<ul>
+<li><a href="/wiki/Topos_theory" class="mw-redirect" title="Topos theory">Topos theory</a></li>
+</ul>
+</li>
+</ul>
+</td>
+<td>
+<div style="float: right"><a href="/wiki/File:Nuvola_apps_kwin4.png" class="image"><img alt="Nuvola apps kwin4.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Nuvola_apps_kwin4.png/32px-Nuvola_apps_kwin4.png" width="32" height="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Nuvola_apps_kwin4.png/48px-Nuvola_apps_kwin4.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Nuvola_apps_kwin4.png/64px-Nuvola_apps_kwin4.png 2x" data-file-width="129" data-file-height="128" /></a></div>
+<ul>
+<li><a href="/wiki/Number_theory" title="Number theory">Number theory</a> (<a href="/wiki/Portal:Number_theory" title="Portal:Number theory">portal</a>)</li>
+<li><a href="/wiki/Algebraic_number_theory" title="Algebraic number theory">Algebraic number theory</a></li>
+<li><a href="/wiki/Analytic_number_theory" title="Analytic number theory">Analytic number theory</a></li>
+<li><a href="/wiki/Arithmetic" title="Arithmetic">Arithmetic</a>
+<ul>
+<li><a href="/wiki/Fundamental_theorem_of_arithmetic" title="Fundamental theorem of arithmetic">Fundamental theorem of arithmetic</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Number" title="Number">Numbers</a>
+<ul>
+<li><a href="/wiki/Natural_number" title="Natural number">Natural numbers</a></li>
+<li><a href="/wiki/Prime_number" title="Prime number">Prime numbers</a></li>
+<li><a href="/wiki/Rational_number" title="Rational number">Rational numbers</a></li>
+<li><a href="/wiki/Algebraic_number" title="Algebraic number">Algebraic numbers</a></li>
+</ul>
+</li>
+</ul>
+</td>
+<td>
+<div style="float: right"><a href="/wiki/File:Nuvola_apps_atlantik.png" class="image"><img alt="Nuvola apps atlantik.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Nuvola_apps_atlantik.png/32px-Nuvola_apps_atlantik.png" width="32" height="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Nuvola_apps_atlantik.png/48px-Nuvola_apps_atlantik.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Nuvola_apps_atlantik.png/64px-Nuvola_apps_atlantik.png 2x" data-file-width="128" data-file-height="128" /></a></div>
+<ul>
+<li><a href="/wiki/Discrete_mathematics" title="Discrete mathematics">Discrete mathematics</a> (<a href="/wiki/Portal:Discrete_mathematics" title="Portal:Discrete mathematics">portal</a>)</li>
+<li><a href="/wiki/Combinatorics" title="Combinatorics">Combinatorics</a>
+<ul>
+<li><a href="/wiki/Combinatorial_geometry" class="mw-redirect" title="Combinatorial geometry">Combinatorial geometry</a></li>
+<li><a href="/wiki/Coding_theory" title="Coding theory">Coding theory</a></li>
+<li><a href="/wiki/Combinatorial_design" title="Combinatorial design">Combinatorial design</a></li>
+<li><a href="/wiki/Enumerative_combinatorics" title="Enumerative combinatorics">Enumerative combinatorics</a></li>
+<li><a href="/wiki/Combinatorial_optimization" title="Combinatorial optimization">Combinatorial optimization</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Graph_theory" title="Graph theory">Graph theory</a></li>
+<li><a href="/wiki/Order_theory" title="Order theory">Order theory</a>
+<ul>
+<li><a href="/wiki/Lattice_theory" class="mw-redirect" title="Lattice theory">Lattice theory</a></li>
+</ul>
+</li>
+</ul>
+<p><br /></p>
+</td>
+</tr>
+<tr align="center" style="background-color:tan;">
+<th width="25%"><b>Algebra</b></th>
+<th width="25%"><b>Analysis</b></th>
+<th width="25%"><b>Geometry and topology</b></th>
+<th width="25%"><b>Applied mathematics</b></th>
+</tr>
+<tr valign="top" align="left" style="background: antiquewhite; font-size: 92%;">
+<td>
+<div style="float: right"><a href="/wiki/File:Arithmetic_symbols.svg" class="image"><img alt="Arithmetic symbols.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Arithmetic_symbols.svg/32px-Arithmetic_symbols.svg.png" width="32" height="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Arithmetic_symbols.svg/48px-Arithmetic_symbols.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Arithmetic_symbols.svg/64px-Arithmetic_symbols.svg.png 2x" data-file-width="210" data-file-height="210" /></a></div>
+<ul>
+<li><a href="/wiki/Algebra" title="Algebra">Algebra</a> (<a href="/wiki/Portal:Algebra" title="Portal:Algebra">portal</a>)</li>
+<li><a href="/wiki/Elementary_algebra" title="Elementary algebra">Elementary algebra</a></li>
+<li><a href="/wiki/Abstract_algebra" title="Abstract algebra">Abstract algebra</a>
+<ul>
+<li><a href="/wiki/Group_theory" title="Group theory">Group theory</a></li>
+<li><a href="/wiki/Ring_theory" title="Ring theory">Ring theory</a></li>
+<li><a href="/wiki/Field_theory_(mathematics)" class="mw-redirect" title="Field theory (mathematics)">Field theory</a></li>
+<li><a href="/wiki/Commutative_algebra" title="Commutative algebra">Commutative algebra</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Geometric_algebra" title="Geometric algebra">Geometric algebra</a></li>
+<li><a href="/wiki/Linear_algebra" title="Linear algebra">Linear algebra</a>
+<ul>
+<li><a href="/wiki/Matrix_(mathematics)" title="Matrix (mathematics)">Matrix theory</a></li>
+<li><a href="/wiki/Multilinear_algebra" title="Multilinear algebra">Multilinear algebra</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Universal_algebra" title="Universal algebra">Universal algebra</a></li>
+<li><a href="/wiki/Fundamental_theorem_of_algebra" title="Fundamental theorem of algebra">Fundamental theorem of algebra</a></li>
+</ul>
+</td>
+<td>
+<div style="float: right"><a href="/wiki/File:Nuvola_apps_kmplot.svg" class="image" title="Source"><img alt="Source" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Nuvola_apps_kmplot.svg/32px-Nuvola_apps_kmplot.svg.png" width="32" height="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Nuvola_apps_kmplot.svg/48px-Nuvola_apps_kmplot.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Nuvola_apps_kmplot.svg/64px-Nuvola_apps_kmplot.svg.png 2x" data-file-width="400" data-file-height="400" /></a></div>
+<ul>
+<li><a href="/wiki/Mathematical_analysis" title="Mathematical analysis">Analysis</a> (<a href="/wiki/Portal:Analysis" title="Portal:Analysis">portal</a>)</li>
+<li><a href="/wiki/Calculus" title="Calculus">Calculus</a>
+<ul>
+<li><a href="/wiki/Fundamental_theorem_of_calculus" title="Fundamental theorem of calculus">Fundamental theorem of calculus</a></li>
+<li><a href="/wiki/Vector_calculus" title="Vector calculus">Vector calculus</a></li>
+<li><a href="/wiki/Geometric_calculus" title="Geometric calculus">Geometric calculus</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Measure_theory" class="mw-redirect" title="Measure theory">Measure theory</a></li>
+<li><a href="/wiki/Real_analysis" title="Real analysis">Real analysis</a></li>
+<li><a href="/wiki/Complex_analysis" title="Complex analysis">Complex analysis</a></li>
+<li><a href="/wiki/Differential_equations" class="mw-redirect" title="Differential equations">Differential equations</a>
+<ul>
+<li><a href="/wiki/Ordinary_differential_equation" title="Ordinary differential equation">Ordinary differential equations</a></li>
+<li><a href="/wiki/Partial_differential_equation" title="Partial differential equation">Partial differential equations</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Integral_equation" title="Integral equation">Integral equations</a></li>
+<li><a href="/wiki/Approximation_theory" title="Approximation theory">Approximation theory</a></li>
+<li><a href="/wiki/Special_functions" title="Special functions">Special functions</a></li>
+<li><a href="/wiki/Potential_theory" title="Potential theory">Potential theory</a></li>
+<li><a href="/wiki/Harmonic_analysis" title="Harmonic analysis">Harmonic analysis</a>
+<ul>
+<li><a href="/wiki/Fourier_analysis" title="Fourier analysis">Fourier analysis</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Functional_analysis" title="Functional analysis">Functional analysis</a></li>
+<li><a href="/wiki/Operator_theory" title="Operator theory">Operator theory</a></li>
+</ul>
+</td>
+<td>
+<div style="float: right"><a href="/wiki/File:Nuvola_apps_kpovmodeler.svg" class="image"><img alt="Nuvola apps kpovmodeler.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Nuvola_apps_kpovmodeler.svg/32px-Nuvola_apps_kpovmodeler.svg.png" width="32" height="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Nuvola_apps_kpovmodeler.svg/48px-Nuvola_apps_kpovmodeler.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Nuvola_apps_kpovmodeler.svg/64px-Nuvola_apps_kpovmodeler.svg.png 2x" data-file-width="391" data-file-height="391" /></a></div>
+<ul>
+<li><a href="/wiki/Geometry" title="Geometry">Geometry</a> (<a href="/wiki/Portal:Geometry" title="Portal:Geometry">portal</a>)</li>
+<li><a href="/wiki/Euclidean_geometry" title="Euclidean geometry">Euclidean geometry</a>
+<ul>
+<li><a href="/wiki/Trigonometry" title="Trigonometry">Trigonometry</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Analytic_geometry" title="Analytic geometry">Analytic geometry</a></li>
+<li><a href="/wiki/Non-Euclidean_geometry" title="Non-Euclidean geometry">Non-Euclidean geometry</a></li>
+<li><a href="/wiki/Affine_geometry" title="Affine geometry">Affine geometry</a></li>
+<li><a href="/wiki/Projective_geometry" title="Projective geometry">Projective geometry</a></li>
+<li><a href="/wiki/Convex_geometry" title="Convex geometry">Convex geometry</a></li>
+<li><a href="/wiki/Discrete_geometry" title="Discrete geometry">Discrete geometry</a></li>
+<li><a href="/wiki/Algebraic_geometry" title="Algebraic geometry">Algebraic geometry</a></li>
+<li><a href="/wiki/Differential_geometry" title="Differential geometry">Differential geometry</a>
+<ul>
+<li><a href="/wiki/Riemannian_geometry" title="Riemannian geometry">Riemannian geometry</a></li>
+<li><a href="/wiki/Lie_group" title="Lie group">Lie groups</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Topology" title="Topology">Topology</a> (<a href="/wiki/Portal:Topology" title="Portal:Topology">portal</a>)
+<ul>
+<li><a href="/wiki/General_topology" title="General topology">General topology</a></li>
+<li><a href="/wiki/Algebraic_topology" title="Algebraic topology">Algebraic topology</a></li>
+<li><a href="/wiki/Geometric_topology" title="Geometric topology">Geometric topology</a></li>
+<li><a href="/wiki/Differential_topology" title="Differential topology">Differential topology</a></li>
+</ul>
+</li>
+</ul>
+</td>
+<td>
+<div style="float: right"><a href="/wiki/File:Gcalctool.svg" class="image"><img alt="Gcalctool.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Gcalctool.svg/32px-Gcalctool.svg.png" width="32" height="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Gcalctool.svg/48px-Gcalctool.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Gcalctool.svg/64px-Gcalctool.svg.png 2x" data-file-width="60" data-file-height="60" /></a></div>
+<ul>
+<li><a href="/wiki/Applied_mathematics" title="Applied mathematics">Applied mathematics</a></li>
+<li><a href="/wiki/Mathematical_modeling" class="mw-redirect" title="Mathematical modeling">Mathematical modeling</a></li>
+<li><a href="/wiki/Mathematical_physics" title="Mathematical physics">Mathematical physics</a></li>
+<li><a href="/wiki/Dynamical_systems" class="mw-redirect" title="Dynamical systems">Dynamical systems</a>
+<ul>
+<li><a href="/wiki/Control_theory" title="Control theory">Control theory</a>
+<ul>
+<li><a href="/wiki/Calculus_of_variations" title="Calculus of variations">Calculus of variations</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/wiki/Mathematical_optimization" title="Mathematical optimization">Optimization</a></li>
+<li><a href="/wiki/Mathematical_economics" title="Mathematical economics">Mathematical economics</a>
+<ul>
+<li><a href="/wiki/Game_theory" title="Game theory">Game theory</a></li>
+<li><a href="/wiki/Mathematical_finance" title="Mathematical finance">Mathematical finance</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Statistics" title="Statistics">Statistics</a> (<a href="/wiki/Portal:Statistics" title="Portal:Statistics">portal</a>)</li>
+<li><a href="/wiki/Probability_theory" title="Probability theory">Probability theory</a>
+<ul>
+<li><a href="/wiki/Stochastic_process" title="Stochastic process">Stochastic processes</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Numerical_analysis" title="Numerical analysis">Numerical analysis</a></li>
+<li><a href="/wiki/Theoretical_computer_science" title="Theoretical computer science">Theoretical computer science</a>
+<ul>
+<li><a href="/wiki/Computability_theory_(computation)" class="mw-redirect" title="Computability theory (computation)">Computability theory</a></li>
+<li><a href="/wiki/Computational_complexity_theory" title="Computational complexity theory">Complexity theory</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Cryptography" title="Cryptography">Cryptography</a> (<a href="/wiki/Portal:Cryptography" title="Portal:Cryptography">portal</a>)</li>
+<li><a href="/wiki/Information_theory" title="Information theory">Information theory</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid tan; border-width: 1px 1px 0; background: antiquewhite; color: #503b1e; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks" style="float:right;margin-bottom:.1em;font-size:80%; color: #503b1e"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Mathematics/Index&amp;action=edit"><span style="color: #503b1e">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#503b1e;"><span class="mw-headline" id="Index_of_mathematics_articles"><i>Index of mathematics articles</i></span></h2>
+</div>
+<div style="border: 1px solid tan; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<table cellpadding="2" style="margin:auto;">
+<tr>
+<td style="text-align:right;">A<small>RTICLE INDEX</small>:</td>
+<td><a href="/wiki/Wikipedia:WikiProject_Mathematics/List_of_mathematics_articles_(A)" title="Wikipedia:WikiProject Mathematics/List of mathematics articles (A)">A</a> <a href="/wiki/Wikipedia:WikiProject_Mathematics/List_of_mathematics_articles_(B)" title="Wikipedia:WikiProject Mathematics/List of mathematics articles (B)">B</a> <a href="/wiki/Wikipedia:WikiProject_Mathematics/List_of_mathematics_articles_(C)" title="Wikipedia:WikiProject Mathematics/List of mathematics articles (C)">C</a> <a href="/wiki/Wikipedia:WikiProject_Mathematics/List_of_mathematics_articles_(D)" title="Wikipedia:WikiProject Mathematics/List of mathematics articles (D)">D</a> <a href="/wiki/Wikipedia:WikiProject_Mathematics/List_of_mathematics_articles_(E)" title="Wikipedia:WikiProject Mathematics/List of mathematics articles (E)">E</a> <a href="/wiki/Wikipedia:WikiProject_Mathematics/List_of_mathematics_articles_(F)" title="Wikipedia:WikiProject Mathematics/List of mathematics articles (F)">F</a> <a href="/wiki/Wikipedia:WikiProject_Mathematics/List_of_mathematics_articles_(G)" title="Wikipedia:WikiProject Mathematics/List of mathematics articles (G)">G</a> <a href="/wiki/Wikipedia:WikiProject_Mathematics/List_of_mathematics_articles_(H)" title="Wikipedia:WikiProject Mathematics/List of mathematics articles (H)">H</a> <a href="/wiki/Wikipedia:WikiProject_Mathematics/List_of_mathematics_articles_(I)" title="Wikipedia:WikiProject Mathematics/List of mathematics articles (I)">I</a> <a href="/wiki/Wikipedia:WikiProject_Mathematics/List_of_mathematics_articles_(J)" title="Wikipedia:WikiProject Mathematics/List of mathematics articles (J)">J</a> <a href="/wiki/Wikipedia:WikiProject_Mathematics/List_of_mathematics_articles_(K)" title="Wikipedia:WikiProject Mathematics/List of mathematics articles (K)">K</a> <a href="/wiki/Wikipedia:WikiProject_Mathematics/List_of_mathematics_articles_(L)" title="Wikipedia:WikiProject Mathematics/List of mathematics articles (L)">L</a> <a href="/wiki/Wikipedia:WikiProject_Mathematics/List_of_mathematics_articles_(M)" title="Wikipedia:WikiProject Mathematics/List of mathematics articles (M)">M</a> <a href="/wiki/Wikipedia:WikiProject_Mathematics/List_of_mathematics_articles_(N)" title="Wikipedia:WikiProject Mathematics/List of mathematics articles (N)">N</a> <a href="/wiki/Wikipedia:WikiProject_Mathematics/List_of_mathematics_articles_(O)" title="Wikipedia:WikiProject Mathematics/List of mathematics articles (O)">O</a> <a href="/wiki/Wikipedia:WikiProject_Mathematics/List_of_mathematics_articles_(P)" title="Wikipedia:WikiProject Mathematics/List of mathematics articles (P)">P</a> <a href="/wiki/Wikipedia:WikiProject_Mathematics/List_of_mathematics_articles_(Q)" title="Wikipedia:WikiProject Mathematics/List of mathematics articles (Q)">Q</a> <a href="/wiki/Wikipedia:WikiProject_Mathematics/List_of_mathematics_articles_(R)" title="Wikipedia:WikiProject Mathematics/List of mathematics articles (R)">R</a> <a href="/wiki/Wikipedia:WikiProject_Mathematics/List_of_mathematics_articles_(S)" title="Wikipedia:WikiProject Mathematics/List of mathematics articles (S)">S</a> <a href="/wiki/Wikipedia:WikiProject_Mathematics/List_of_mathematics_articles_(T)" title="Wikipedia:WikiProject Mathematics/List of mathematics articles (T)">T</a> <a href="/wiki/Wikipedia:WikiProject_Mathematics/List_of_mathematics_articles_(U)" title="Wikipedia:WikiProject Mathematics/List of mathematics articles (U)">U</a> <a href="/wiki/Wikipedia:WikiProject_Mathematics/List_of_mathematics_articles_(V)" title="Wikipedia:WikiProject Mathematics/List of mathematics articles (V)">V</a> <a href="/wiki/Wikipedia:WikiProject_Mathematics/List_of_mathematics_articles_(W)" title="Wikipedia:WikiProject Mathematics/List of mathematics articles (W)">W</a> <a href="/wiki/Wikipedia:WikiProject_Mathematics/List_of_mathematics_articles_(X)" title="Wikipedia:WikiProject Mathematics/List of mathematics articles (X)">X</a> <a href="/wiki/Wikipedia:WikiProject_Mathematics/List_of_mathematics_articles_(Y)" title="Wikipedia:WikiProject Mathematics/List of mathematics articles (Y)">Y</a> <a href="/wiki/Wikipedia:WikiProject_Mathematics/List_of_mathematics_articles_(Z)" title="Wikipedia:WikiProject Mathematics/List of mathematics articles (Z)">Z</a> <a href="/wiki/Wikipedia:WikiProject_Mathematics/List_of_mathematics_articles_(0%E2%80%939)" title="Wikipedia:WikiProject Mathematics/List of mathematics articles (0–9)">(0–9)</a></td>
+</tr>
+<tr>
+<td style="text-align:right;">M<small>ATHEMATICIANS</small>:</td>
+<td><a href="/wiki/List_of_mathematicians_(A)" title="List of mathematicians (A)">A</a> <a href="/wiki/List_of_mathematicians_(B)" title="List of mathematicians (B)">B</a> <a href="/wiki/List_of_mathematicians_(C)" title="List of mathematicians (C)">C</a> <a href="/wiki/List_of_mathematicians_(D)" title="List of mathematicians (D)">D</a> <a href="/wiki/List_of_mathematicians_(E)" title="List of mathematicians (E)">E</a> <a href="/wiki/List_of_mathematicians_(F)" title="List of mathematicians (F)">F</a> <a href="/wiki/List_of_mathematicians_(G)" title="List of mathematicians (G)">G</a> <a href="/wiki/List_of_mathematicians_(H)" title="List of mathematicians (H)">H</a> <a href="/wiki/List_of_mathematicians_(I)" title="List of mathematicians (I)">I</a> <a href="/wiki/List_of_mathematicians_(J)" title="List of mathematicians (J)">J</a> <a href="/wiki/List_of_mathematicians_(K)" title="List of mathematicians (K)">K</a> <a href="/wiki/List_of_mathematicians_(L)" title="List of mathematicians (L)">L</a> <a href="/wiki/List_of_mathematicians_(M)" title="List of mathematicians (M)">M</a> <a href="/wiki/List_of_mathematicians_(N)" title="List of mathematicians (N)">N</a> <a href="/wiki/List_of_mathematicians_(O)" title="List of mathematicians (O)">O</a> <a href="/wiki/List_of_mathematicians_(P)" title="List of mathematicians (P)">P</a> <a href="/wiki/List_of_mathematicians_(Q)" title="List of mathematicians (Q)">Q</a> <a href="/wiki/List_of_mathematicians_(R)" title="List of mathematicians (R)">R</a> <a href="/wiki/List_of_mathematicians_(S)" title="List of mathematicians (S)">S</a> <a href="/wiki/List_of_mathematicians_(T)" title="List of mathematicians (T)">T</a> <a href="/wiki/List_of_mathematicians_(U)" title="List of mathematicians (U)">U</a> <a href="/wiki/List_of_mathematicians_(V)" title="List of mathematicians (V)">V</a> <a href="/wiki/List_of_mathematicians_(W)" title="List of mathematicians (W)">W</a> <a href="/wiki/List_of_mathematicians_(X)" title="List of mathematicians (X)">X</a> <a href="/wiki/List_of_mathematicians_(Y)" title="List of mathematicians (Y)">Y</a> <a href="/wiki/List_of_mathematicians_(Z)" title="List of mathematicians (Z)">Z</a></td>
+</tr>
+</table>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid tan; border-width: 1px 1px 0; background: antiquewhite; color: #503b1e; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks" style="float:right;margin-bottom:.1em;font-size:80%; color: #503b1e"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Mathematics/RelatedPortals&amp;action=edit"><span style="color: #503b1e">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#503b1e;"><span class="mw-headline" id="Related_portals"><i>Related portals</i></span></h2>
+</div>
+<div style="border: 1px solid tan; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<table border="0" cellpadding="2" cellspacing="2" style="border: 1px solid none; text-align:center; padding:0.3em; background-color:transparent; margin: 1em auto 1em auto">
+<tr>
+<td width="90"><a href="/wiki/Portal:Algebra" title="Portal:Algebra"><img alt="Portal:Algebra" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Arithmetic_symbols.svg/50px-Arithmetic_symbols.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Arithmetic_symbols.svg/75px-Arithmetic_symbols.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Arithmetic_symbols.svg/100px-Arithmetic_symbols.svg.png 2x" data-file-width="210" data-file-height="210" /></a></td>
+<td width="90"><a href="/wiki/Portal:Analysis" title="Portal:Analysis"><img alt="Portal:Analysis" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Nuvola_apps_kmplot.svg/50px-Nuvola_apps_kmplot.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Nuvola_apps_kmplot.svg/75px-Nuvola_apps_kmplot.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Nuvola_apps_kmplot.svg/100px-Nuvola_apps_kmplot.svg.png 2x" data-file-width="400" data-file-height="400" /></a></td>
+<td width="90"><a href="/wiki/Portal:Category_theory" title="Portal:Category theory"><img alt="Portal:Category theory" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Commutative_diagram_for_morphism.svg/50px-Commutative_diagram_for_morphism.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Commutative_diagram_for_morphism.svg/75px-Commutative_diagram_for_morphism.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Commutative_diagram_for_morphism.svg/100px-Commutative_diagram_for_morphism.svg.png 2x" data-file-width="100" data-file-height="100" /></a></td>
+<td width="90"><a href="/wiki/Portal:Computer_science" title="Portal:Computer science"><img alt="Portal:Computer science" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Crystal_mycomputer.png/50px-Crystal_mycomputer.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/e/e3/Crystal_mycomputer.png 1.5x" data-file-width="64" data-file-height="64" /></a></td>
+<td width="90"><a href="/wiki/Portal:Cryptography" title="Portal:Cryptography"><img alt="Portal:Cryptography" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Crypto_key.svg/50px-Crypto_key.svg.png" width="50" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Crypto_key.svg/75px-Crypto_key.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Crypto_key.svg/100px-Crypto_key.svg.png 2x" data-file-width="651" data-file-height="271" /></a></td>
+<td width="90"><a href="/wiki/Portal:Discrete_mathematics" title="Portal:Discrete mathematics"><img alt="Portal:Discrete mathematics" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Nuvola_apps_atlantik.png/50px-Nuvola_apps_atlantik.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Nuvola_apps_atlantik.png/75px-Nuvola_apps_atlantik.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Nuvola_apps_atlantik.png/100px-Nuvola_apps_atlantik.png 2x" data-file-width="128" data-file-height="128" /></a></td>
+<td width="90"><a href="/wiki/Portal:Geometry" title="Portal:Geometry"><img alt="Portal:Geometry" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Crystal_Clear_app_3d.png/50px-Crystal_Clear_app_3d.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Crystal_Clear_app_3d.png/75px-Crystal_Clear_app_3d.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Crystal_Clear_app_3d.png/100px-Crystal_Clear_app_3d.png 2x" data-file-width="128" data-file-height="128" /></a></td>
+</tr>
+<tr>
+<td><b><a href="/wiki/Portal:Algebra" title="Portal:Algebra">Algebra</a></b></td>
+<td><b><a href="/wiki/Portal:Analysis" title="Portal:Analysis">Analysis</a></b></td>
+<td><b><a href="/wiki/Portal:Category_theory" title="Portal:Category theory">Category<br />
+theory</a></b></td>
+<td><b><a href="/wiki/Portal:Computer_science" title="Portal:Computer science">Computer<br />
+science</a></b></td>
+<td><b><a href="/wiki/Portal:Cryptography" title="Portal:Cryptography">Cryptography</a></b></td>
+<td><b><a href="/wiki/Portal:Discrete_mathematics" title="Portal:Discrete mathematics">Discrete<br />
+mathematics</a></b></td>
+<td><b><a href="/wiki/Portal:Geometry" title="Portal:Geometry">Geometry</a></b></td>
+</tr>
+</table>
+<table border="0" cellpadding="2" cellspacing="2" style="border: 1px solid none; text-align:center; padding:0.3em; background-color:transparent; margin: 1em auto 1em auto">
+<tr>
+<td width="90"><a href="/wiki/Portal:Logic" title="Portal:Logic"><img alt="Portal:Logic" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Logic_portal.svg/65px-Logic_portal.svg.png" width="65" height="49" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Logic_portal.svg/98px-Logic_portal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Logic_portal.svg/130px-Logic_portal.svg.png 2x" data-file-width="287" data-file-height="218" /></a></td>
+<td width="90"><a href="/wiki/Portal:Mathematics" title="Portal:Mathematics"><img alt="Portal:Mathematics" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Nuvola_apps_edu_mathematics.png/50px-Nuvola_apps_edu_mathematics.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Nuvola_apps_edu_mathematics.png/75px-Nuvola_apps_edu_mathematics.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/Nuvola_apps_edu_mathematics.png/100px-Nuvola_apps_edu_mathematics.png 2x" data-file-width="128" data-file-height="128" /></a></td>
+<td width="90"><a href="/wiki/Portal:Number_theory" title="Portal:Number theory"><img alt="Portal:Number theory" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Number_theory_symbol.svg/50px-Number_theory_symbol.svg.png" width="50" height="47" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Number_theory_symbol.svg/75px-Number_theory_symbol.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Number_theory_symbol.svg/100px-Number_theory_symbol.svg.png 2x" data-file-width="59" data-file-height="56" /></a></td>
+<td width="90"><a href="/wiki/Portal:Physics" title="Portal:Physics"><img alt="Portal:Physics" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg/50px-Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg.png" width="50" height="57" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg/75px-Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg/100px-Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg.png 2x" data-file-width="266" data-file-height="303" /></a></td>
+<td width="90"><a href="/wiki/Portal:Science" title="Portal:Science"><img alt="Portal:Science" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nuvola_apps_kalzium.svg/50px-Nuvola_apps_kalzium.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nuvola_apps_kalzium.svg/75px-Nuvola_apps_kalzium.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nuvola_apps_kalzium.svg/100px-Nuvola_apps_kalzium.svg.png 2x" data-file-width="128" data-file-height="128" /></a></td>
+<td width="90"><a href="/wiki/Portal:Set_theory" title="Portal:Set theory"><img alt="Portal:Set theory" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Venn0001.svg/50px-Venn0001.svg.png" width="50" height="36" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Venn0001.svg/75px-Venn0001.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Venn0001.svg/100px-Venn0001.svg.png 2x" data-file-width="384" data-file-height="280" /></a></td>
+<td width="90"><a href="/wiki/Portal:Statistics" title="Portal:Statistics"><img alt="Portal:Statistics" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Fisher_iris_versicolor_sepalwidth.svg/50px-Fisher_iris_versicolor_sepalwidth.svg.png" width="50" height="34" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Fisher_iris_versicolor_sepalwidth.svg/75px-Fisher_iris_versicolor_sepalwidth.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/40/Fisher_iris_versicolor_sepalwidth.svg/100px-Fisher_iris_versicolor_sepalwidth.svg.png 2x" data-file-width="822" data-file-height="567" /></a></td>
+<td width="90"><a href="/wiki/Portal:Topology" title="Portal:Topology"><img alt="Portal:Topology" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/TrefoilKnot_02.svg/50px-TrefoilKnot_02.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/TrefoilKnot_02.svg/75px-TrefoilKnot_02.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/TrefoilKnot_02.svg/100px-TrefoilKnot_02.svg.png 2x" data-file-width="250" data-file-height="250" /></a></td>
+</tr>
+<tr>
+<td><b><a href="/wiki/Portal:Logic" title="Portal:Logic">Logic</a></b></td>
+<td><b><a class="mw-selflink selflink">Mathematics</a></b></td>
+<td><b><a href="/wiki/Portal:Number_theory" title="Portal:Number theory">Number<br />
+theory</a></b></td>
+<td><b><a href="/wiki/Portal:Physics" title="Portal:Physics">Physics</a></b></td>
+<td><b><a href="/wiki/Portal:Science" title="Portal:Science">Science</a></b></td>
+<td><b><a href="/wiki/Portal:Set_theory" title="Portal:Set theory">Set theory</a></b></td>
+<td><b><a href="/wiki/Portal:Statistics" title="Portal:Statistics">Statistics</a></b></td>
+<td><b><a href="/wiki/Portal:Topology" title="Portal:Topology">Topology</a></b></td>
+</tr>
+</table>
+<hr />
+<div style="margin:1em">
+<div id="science_portalbar" style="font-size:91%;margin-top:1px;text-align:center;margin-bottom:0.2em;"><span style="position: relative; top: 0.15em;"><span style="position:relative; bottom:1px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nuvola_apps_kalzium.svg/20px-Nuvola_apps_kalzium.svg.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nuvola_apps_kalzium.svg/30px-Nuvola_apps_kalzium.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nuvola_apps_kalzium.svg/40px-Nuvola_apps_kalzium.svg.png 2x" data-file-width="128" data-file-height="128" /></span><b><a href="/wiki/Portal:Science" title="Portal:Science">Science</a></b></span><br />
+<span class="nowrap"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Astrolabe-Persian-18C.jpg/20px-Astrolabe-Persian-18C.jpg" width="20" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Astrolabe-Persian-18C.jpg/30px-Astrolabe-Persian-18C.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/Astrolabe-Persian-18C.jpg/40px-Astrolabe-Persian-18C.jpg 2x" data-file-width="1061" data-file-height="972" /> <a href="/wiki/Portal:History_of_science" title="Portal:History of science">History of science</a></span> <span class="nowrap">&#160;&#160;</span><span class="nowrap"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/P_philosophy.png/20px-P_philosophy.png" width="20" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/P_philosophy.png/30px-P_philosophy.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/P_philosophy.png/40px-P_philosophy.png 2x" data-file-width="77" data-file-height="68" /> <a href="/wiki/Portal:Philosophy_of_science" title="Portal:Philosophy of science">Philosophy of science</a></span> <span class="nowrap">&#160;&#160;</span><span class="nowrap"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Complex_adaptive_system.svg/20px-Complex_adaptive_system.svg.png" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Complex_adaptive_system.svg/30px-Complex_adaptive_system.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Complex_adaptive_system.svg/40px-Complex_adaptive_system.svg.png 2x" data-file-width="700" data-file-height="500" /> <a href="/wiki/Portal:Systems_science" title="Portal:Systems science">Systems science</a></span> <span class="nowrap">&#160;&#160;</span><span class="nowrap"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Nuvola_apps_edu_mathematics-p.svg/20px-Nuvola_apps_edu_mathematics-p.svg.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Nuvola_apps_edu_mathematics-p.svg/30px-Nuvola_apps_edu_mathematics-p.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Nuvola_apps_edu_mathematics-p.svg/40px-Nuvola_apps_edu_mathematics-p.svg.png 2x" data-file-width="128" data-file-height="128" /> <a class="mw-selflink selflink">Mathematics</a></span> <span class="nowrap">&#160;&#160;</span><span class="nowrap"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/EscherichiaColi_NIAID.jpg/20px-EscherichiaColi_NIAID.jpg" width="20" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/EscherichiaColi_NIAID.jpg/30px-EscherichiaColi_NIAID.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/EscherichiaColi_NIAID.jpg/40px-EscherichiaColi_NIAID.jpg 2x" data-file-width="1024" data-file-height="861" /> <a href="/wiki/Portal:Biology" title="Portal:Biology">Biology</a></span> <span class="nowrap">&#160;&#160;</span><span class="nowrap"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nuvola_apps_edu_science.svg/20px-Nuvola_apps_edu_science.svg.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nuvola_apps_edu_science.svg/30px-Nuvola_apps_edu_science.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nuvola_apps_edu_science.svg/40px-Nuvola_apps_edu_science.svg.png 2x" data-file-width="128" data-file-height="128" /> <a href="/wiki/Portal:Chemistry" title="Portal:Chemistry">Chemistry</a></span> <span class="nowrap">&#160;&#160;</span><span class="nowrap"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg/20px-Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg.png" width="20" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg/30px-Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg/40px-Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg.png 2x" data-file-width="266" data-file-height="303" /> <a href="/wiki/Portal:Physics" title="Portal:Physics">Physics</a></span> <span class="nowrap">&#160;&#160;</span><span class="nowrap"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Gnome-globe.svg/20px-Gnome-globe.svg.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Gnome-globe.svg/30px-Gnome-globe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Gnome-globe.svg/40px-Gnome-globe.svg.png 2x" data-file-width="48" data-file-height="48" /> <a href="/wiki/Portal:Earth_sciences" title="Portal:Earth sciences">Earth sciences</a></span> <span class="nowrap">&#160;&#160;</span><span class="nowrap"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Nuvola_apps_display.png/20px-Nuvola_apps_display.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Nuvola_apps_display.png/30px-Nuvola_apps_display.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Nuvola_apps_display.png/40px-Nuvola_apps_display.png 2x" data-file-width="128" data-file-height="128" /> <a href="/wiki/Portal:Technology" title="Portal:Technology">Technology</a></span> <span class="nowrap">&#160;&#160;</span></div>
+</div>
+<hr />
+<div class="hlist" style="text-align: center; clear:both; padding:0.25em 0 0.5em;">
+<ul>
+<li><b>What are <a href="/wiki/Wikipedia:Portal" title="Wikipedia:Portal">portals</a>?</b></li>
+<li><b><a href="/wiki/Portal:Contents/Portals" title="Portal:Contents/Portals">List of portals</a></b></li>
+</ul>
+</div>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid tan; border-width: 1px 1px 0; background: antiquewhite; color: #503b1e; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks" style="float:right;margin-bottom:.1em;font-size:80%; color: #503b1e"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Mathematics/OtherWikimedia&amp;action=edit"><span style="color: #503b1e">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#503b1e;"><span class="mw-headline" id="In_other_Wikimedia_projects"><i>In other Wikimedia projects</i></span></h2>
+</div>
+<div style="border: 1px solid tan; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div class="noprint" style="text-align:center;">
+<div style="display:inline-block;margin:0 0 0.75em 0">
+<p style="margin:0">The following <a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">Wikimedia Foundation</a> sister projects provide more on this subject:</p>
+<div style="float:left; margin:0 3px 3px 3px; font-size:91%;">
+<p><b><a href="https://en.wikibooks.org/wiki/Special:Search/Mathematics" class="extiw" title="wikibooks:Special:Search/Mathematics">Wikibooks</a></b><br />
+Books<br /></p>
+<div class="center">
+<div class="floatnone"><a href="https://en.wikibooks.org/wiki/Special:Search/Mathematics"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/25px-Wikibooks-logo.svg.png" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/38px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/50px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></a></div>
+</div>
+</div>
+<div style="float:left; margin:0 3px 3px 3px; font-size:91%;">
+<p><b><a href="https://commons.wikimedia.org/wiki/Special:Search/Category:Mathematics" class="extiw" title="commons:Special:Search/Category:Mathematics">Commons</a></b><br />
+Media<br /></p>
+<div class="center">
+<div class="floatnone"><a href="https://commons.wikimedia.org/wiki/Special:Search/Category:Mathematics"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png" width="18" height="25" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/28px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/37px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></div>
+</div>
+</div>
+<div style="float:left; margin:0 3px 3px 3px; font-size:91%;">
+<p><b><a href="https://en.wikinews.org/wiki/Special:Search/Mathematics" class="extiw" title="wikinews:Special:Search/Mathematics">Wikinews</a></b>&#160;<br />
+News<br /></p>
+<div class="center">
+<div class="floatnone"><a href="https://en.wikinews.org/wiki/Special:Search/Mathematics"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/46px-Wikinews-logo.svg.png" width="46" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/70px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/92px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415" /></a></div>
+</div>
+</div>
+<div style="float:left; margin:0 3px 3px 3px; font-size:91%;">
+<p><b><a href="https://en.wikiquote.org/wiki/Special:Search/Mathematics" class="extiw" title="wikiquote:Special:Search/Mathematics">Wikiquote</a></b>&#160;<br />
+Quotations<br /></p>
+<div class="center">
+<div class="floatnone"><a href="https://en.wikiquote.org/wiki/Special:Search/Mathematics"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/21px-Wikiquote-logo.svg.png" width="21" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/32px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/42px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a></div>
+</div>
+</div>
+<div style="float:left; margin:0 3px 3px 3px; font-size:91%;">
+<p><b><a href="https://en.wikisource.org/wiki/Special:Search/Mathematics" class="extiw" title="wikisource:Special:Search/Mathematics">Wikisource</a></b>&#160;<br />
+Texts<br /></p>
+<div class="center">
+<div class="floatnone"><a href="https://en.wikisource.org/wiki/Special:Search/Mathematics"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png" width="24" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/36px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/48px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a></div>
+</div>
+</div>
+<div style="float:left; margin:0 3px 3px 3px; font-size:91%;">
+<p><b><a href="https://en.wikiversity.org/wiki/Special:Search/Mathematics" class="extiw" title="wikiversity:Special:Search/Mathematics">Wikiversity</a></b><br />
+Learning resources<br /></p>
+<div class="center">
+<div class="floatnone"><a href="https://en.wikiversity.org/wiki/Special:Search/Mathematics"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/31px-Wikiversity-logo.svg.png" width="31" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/48px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/63px-Wikiversity-logo.svg.png 2x" data-file-width="1000" data-file-height="800" /></a></div>
+</div>
+</div>
+<div style="float:left; margin:0 3px 3px 3px; font-size:91%;">
+<p><b><a href="https://en.wiktionary.org/wiki/Special:Search/Mathematics" class="extiw" title="wiktionary:Special:Search/Mathematics">Wiktionary</a></b>&#160;<br />
+Definitions<br /></p>
+<div class="center">
+<div class="floatnone"><a href="https://en.wiktionary.org/wiki/Special:Search/Mathematics"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/25px-Wiktionary-logo-v2.svg.png" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/38px-Wiktionary-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/50px-Wiktionary-logo-v2.svg.png 2x" data-file-width="391" data-file-height="391" /></a></div>
+</div>
+</div>
+<div style="float:left; margin:0 3px 3px 3px; font-size:91%;">
+<p><b><a href="https://www.wikidata.org/wiki/Special:Search/Mathematics" class="extiw" title="wikidata:Special:Search/Mathematics">Wikidata</a></b>&#160;<br />
+Database<br /></p>
+<div class="center">
+<div class="floatnone"><a href="https://www.wikidata.org/wiki/Special:Search/Mathematics"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/45px-Wikidata-logo.svg.png" width="45" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/68px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/89px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a></div>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1272
+Cached time: 20170926045731
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.244 seconds
+Real time usage: 0.388 seconds
+Preprocessor visited node count: 2271/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 87519/2097152 bytes
+Template argument size: 10530/2097152 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 4/500
+Lua time usage: 0.049/10.000 seconds
+Lua memory usage: 1.38 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  243.182      1 -total
+ 21.70%   52.773      1 Template:Pp-semi-indef
+ 14.39%   34.982      1 Portal:Mathematics/Intro
+ 10.95%   26.633      1 Template:Featured_portal
+ 10.45%   25.422      1 Portal:Mathematics/Did_you_know
+  9.71%   23.610      1 Template:Top_icon
+  8.78%   21.350     10 Portal:Mathematics/box-header
+  8.27%   20.109     11 Template:Box-header
+  7.61%   18.507      1 Portal:Mathematics/Random_portal_component
+  7.37%   17.931      1 Template:Category_handler
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1488464-0!canonical and timestamp 20170926045730 and revision id 780045763
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Portal:Mathematics&amp;oldid=780045763">https://en.wikipedia.org/w/index.php?title=Portal:Mathematics&amp;oldid=780045763</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Mathematics_portal" title="Category:Mathematics portal">Mathematics portal</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_semi-protected_portals" title="Category:Wikipedia semi-protected portals">Wikipedia semi-protected portals</a></li><li><a href="/wiki/Category:Wikipedia_move-protected_portals" title="Category:Wikipedia move-protected portals">Wikipedia move-protected portals</a></li><li><a href="/wiki/Category:Featured_portals" title="Category:Featured portals">Featured portals</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Portal%3AMathematics" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Portal%3AMathematics" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-portal" class="selected"><span><a href="/wiki/Portal:Mathematics">Portal</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Portal_talk:Mathematics" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Portal:Mathematics">Read</a></span></li>
+							<li id="ca-viewsource"><span><a href="/w/index.php?title=Portal:Mathematics&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Portal:Mathematics&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Portal:Mathematics" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Portal:Mathematics" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Portal:Mathematics&amp;oldid=780045763" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Portal:Mathematics&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7778173" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Portal%3AMathematics">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Portal%3AMathematics&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DPortal%253AMathematics%26returnto%3DPortal%253AMathematics%26oldid%3D780045763%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Portal:Mathematics&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-wikibooks"><a href="https://en.wikibooks.org/wiki/Subject:Mathematics" hreflang="en">Wikibooks</a></li><li class="wb-otherproject-link wb-otherproject-wikinews"><a href="https://en.wikinews.org/wiki/Portal:Mathematics" hreflang="en">Wikinews</a></li><li class="wb-otherproject-link wb-otherproject-wikisource"><a href="https://en.wikisource.org/wiki/Portal:Mathematics" hreflang="en">Wikisource</a></li><li class="wb-otherproject-link wb-otherproject-wikiversity"><a href="https://en.wikiversity.org/wiki/Portal:Mathematics" hreflang="en">Wikiversity</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/%E1%89%A0%E1%88%AD:%E1%88%92%E1%88%B3%E1%89%A5" title="በር:ሒሳብ – Amharic" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li><li class="interlanguage-link interwiki-ar badge-Q17580674 badge-featuredportal" title="featured portal"><a href="https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA" title="بوابة:رياضيات – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-av"><a href="https://av.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Портал:Математика – Avaric" lang="av" hreflang="av" class="interlanguage-link-target">Авар</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B0:%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4" title="প্রবেশদ্বার:গণিত – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D1%82%D0%B0%D0%BB:%D0%9C%D0%B0%D1%82%D1%8D%D0%BC%D0%B0%D1%82%D1%8B%D0%BA%D0%B0" title="Партал:Матэматыка – Belarusian (Taraškievica orthography)" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Портал:Математика – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Portal:Matem%C3%A0tiques" title="Portal:Matemàtiques – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Ganghaan:Matematika" title="Ganghaan:Matematika – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Port%C3%A1l:Matematika" title="Portál:Matematika – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de badge-Q17580674 badge-featuredportal" title="featured portal"><a href="https://de.wikipedia.org/wiki/Portal:Mathematik" title="Portal:Mathematik – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Portaal:Matemaatika" title="Portaal:Matemaatika – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A0%CF%8D%CE%BB%CE%B7:%CE%9C%CE%B1%CE%B8%CE%B7%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CE%AC" title="Πύλη:Μαθηματικά – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Portal:Matem%C3%A1tica" title="Portal:Matemática – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Portalo:Matematiko" title="Portalo:Matematiko – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fa badge-Q17580674 badge-featuredportal" title="featured portal"><a href="https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DA%AF%D8%A7%D9%87:%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C%D8%A7%D8%AA" title="درگاه:ریاضیات – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr badge-Q17437796 badge-featuredarticle" title="featured article"><a href="https://fr.wikipedia.org/wiki/Portail:Math%C3%A9matiques" title="Portail:Mathématiques – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ki"><a href="https://ki.wikipedia.org/wiki/Portal:Mathematics" title="Portal:Mathematics – Kikuyu" lang="ki" hreflang="ki" class="interlanguage-link-target">Gĩkũyũ</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%8F%AC%ED%84%B8:%EC%88%98%ED%95%99" title="포털:수학 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%8A%D5%B8%D6%80%D5%BF%D5%A1%D5%AC:%D5%84%D5%A1%D5%A9%D5%A5%D5%B4%D5%A1%D5%BF%D5%AB%D5%AF%D5%A1" title="Պորտալ:Մաթեմատիկա – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A5%87%E0%A4%B6%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0:%E0%A4%97%E0%A4%A3%E0%A4%BF%E0%A4%A4" title="प्रवेशद्वार:गणित – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Portal:Matematika" title="Portal:Matematika – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Portal:Mathematica" title="Portal:Mathematica – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/G%C3%A1tt:St%C3%A6r%C3%B0fr%C3%A6%C3%B0i" title="Gátt:Stærðfræði – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Portale:Matematica" title="Portale:Matematica – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A4%D7%95%D7%A8%D7%98%D7%9C:%D7%9E%D7%AA%D7%9E%D7%98%D7%99%D7%A7%D7%94" title="פורטל:מתמטיקה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%9E%E1%83%9D%E1%83%A0%E1%83%A2%E1%83%90%E1%83%9A%E1%83%98:%E1%83%9B%E1%83%90%E1%83%97%E1%83%94%E1%83%9B%E1%83%90%E1%83%A2%E1%83%98%E1%83%99%E1%83%90" title="პორტალი:მათემატიკა – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Портал:Математика – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Lango:Hisabati" title="Lango:Hisabati – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/P%C3%B2tay:matematik" title="Pòtay:matematik – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Portal:Matemat%C3%AEk" title="Portal:Matematîk – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Porta:Mathematica" title="Porta:Mathematica – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Vikisritis:Matematika" title="Vikisritis:Matematika – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Portal:Matem%C3%A0tega" title="Portal:Matemàtega – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Port%C3%A1l:Matematika" title="Portál:Matematika – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Портал:Математика – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-mt"><a href="https://mt.wikipedia.org/wiki/Portal:Matematika" title="Portal:Matematika – Maltese" lang="mt" hreflang="mt" class="interlanguage-link-target">Malti</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Portal:Matematik" title="Portal:Matematik – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/Portal:%E1%80%9E%E1%80%84%E1%80%BA%E1%80%B9%E1%80%81%E1%80%BB%E1%80%AC" title="Portal:သင်္ချာ – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Portaal:Wiskunde" title="Portaal:Wiskunde – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Portal:%E6%95%B0%E5%AD%A6" title="Portal:数学 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Portal:Matematika" title="Portal:Matematika – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%B5%E0%A8%BF%E0%A8%95%E0%A9%80%E0%A8%AA%E0%A9%80%E0%A8%A1%E0%A9%80%E0%A8%86:%E0%A8%AB%E0%A8%BE%E0%A8%9F%E0%A8%95:%E0%A8%B9%E0%A8%BF%E0%A8%B8%E0%A8%BE%E0%A8%AC" title="ਵਿਕੀਪੀਡੀਆ:ਫਾਟਕ:ਹਿਸਾਬ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-ps"><a href="https://ps.wikipedia.org/wiki/%D8%AA%D8%A7%D9%86%D8%A8%D9%87:%D8%B4%D9%85%DB%90%D8%B1%D9%BE%D9%88%D9%87%D9%86%D9%87" title="تانبه:شمېرپوهنه – Pashto" lang="ps" hreflang="ps" class="interlanguage-link-target">پښتو</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Portal:Matematyka" title="Portal:Matematyka – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt badge-Q17437796 badge-featuredarticle" title="featured article"><a href="https://pt.wikipedia.org/wiki/Portal:Matem%C3%A1tica" title="Portal:Matemática – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Portal:Matematic%C4%83" title="Portal:Matematică – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Punku_p%27anqa:_Yupay_yachay" title="Punku p'anqa: Yupay yachay – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Портал:Математика – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Portal:Matematik%C3%AB" title="Portal:Matematikë – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-si badge-Q17437796 badge-featuredarticle" title="featured article"><a href="https://si.wikipedia.org/wiki/%E0%B6%AF%E0%B7%8A%E0%B7%80%E0%B7%8F%E0%B6%BB%E0%B6%BA:%E0%B6%9C%E0%B6%AB%E0%B7%92%E0%B6%AD%E0%B6%BA" title="ද්වාරය:ගණිතය – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li><li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/%D8%A8%D8%A7%D8%A8:%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA" title="باب:رياضيات – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li><li class="interlanguage-link interwiki-sk badge-Q17437798 badge-goodarticle" title="good article"><a href="https://sk.wikipedia.org/wiki/Port%C3%A1l:Matematika" title="Portál:Matematika – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-so"><a href="https://so.wikipedia.org/wiki/Portal:Xisaab" title="Portal:Xisaab – Somali" lang="so" hreflang="so" class="interlanguage-link-target">Soomaaliga</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D8%AF%DB%95%D8%B1%D9%88%D8%A7%D8%B2%DB%95:%D9%85%D8%A7%D8%AA%D9%85%D8%A7%D8%AA%DB%8C%DA%A9" title="دەروازە:ماتماتیک – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Портал:Математика – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Teemasivu:Matematiikka" title="Teemasivu:Matematiikka – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Portal:Matematik" title="Portal:Matematik – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%B2%E0%AF%88%E0%AE%B5%E0%AE%BE%E0%AE%9A%E0%AE%B2%E0%AF%8D:%E0%AE%95%E0%AE%A3%E0%AE%BF%E0%AE%A4%E0%AE%AE%E0%AF%8D" title="வலைவாசல்:கணிதம் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-kab"><a href="https://kab.wikipedia.org/wiki/Awwur:Tusnakt" title="Awwur:Tusnakt – Kabyle" lang="kab" hreflang="kab" class="interlanguage-link-target">Taqbaylit</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Портал:Математика – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B9%88%E0%B8%AD%E0%B8%A2:%E0%B8%84%E0%B8%93%E0%B8%B4%E0%B8%95%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C" title="สถานีย่อย:คณิตศาสตร์ – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Портал:Математика – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Portal:Matematik" title="Portal:Matematik – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Портал:Математика – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%A8%D8%A7%D8%A8:%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C%D8%A7%D8%AA" title="باب:ریاضیات – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_%C4%91%E1%BB%81:To%C3%A1n_h%E1%BB%8Dc" title="Chủ đề:Toán học – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-classical"><a href="https://zh-classical.wikipedia.org/wiki/%E9%96%80:%E6%95%B8%E5%AD%B8" title="門:數學 – Classical Chinese" lang="zh-classical" hreflang="zh-classical" class="interlanguage-link-target">文言</a></li><li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/Portal:%E6%95%B0%E5%AD%A6" title="Portal:数学 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li><li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%A4%D7%90%D7%A8%D7%98%D7%90%D7%9C:%D7%9E%D7%90%D7%98%D7%A2%D7%9E%D7%90%D7%98%D7%99%D7%A7" title="פארטאל:מאטעמאטיק – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li><li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/%C3%88b%C3%BAt%C3%A9:%C3%8Cm%E1%BB%8D%CC%80_%C3%AC%E1%B9%A3ir%C3%B2" title="Èbúté:Ìmọ̀ ìṣirò – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/Portal:%E6%95%B8%E5%AD%B8" title="Portal:數學 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Portal:%E6%95%B0%E5%AD%A6" title="Portal:数学 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7778173#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 12 May 2017, at 16:20.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Portal:Mathematics&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.244","walltime":"0.388","ppvisitednodes":{"value":2271,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":87519,"limit":2097152},"templateargumentsize":{"value":10530,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  243.182      1 -total"," 21.70%   52.773      1 Template:Pp-semi-indef"," 14.39%   34.982      1 Portal:Mathematics/Intro"," 10.95%   26.633      1 Template:Featured_portal"," 10.45%   25.422      1 Portal:Mathematics/Did_you_know","  9.71%   23.610      1 Template:Top_icon","  8.78%   21.350     10 Portal:Mathematics/box-header","  8.27%   20.109     11 Template:Box-header","  7.61%   18.507      1 Portal:Mathematics/Random_portal_component","  7.37%   17.931      1 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.049","limit":"10.000"},"limitreport-memusage":{"value":1448240,"limit":52428800}},"cachereport":{"origin":"mw1272","timestamp":"20170926045731","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":83,"wgHostname":"mw1319"});});</script>
+	</body>
+</html>

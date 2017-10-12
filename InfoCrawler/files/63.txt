@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Mathematics Genealogy Project - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Mathematics_Genealogy_Project","wgTitle":"Mathematics Genealogy Project","wgCurRevisionId":796692786,"wgRevisionId":796692786,"wgArticleId":1152126,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Projects established in 1997","Mathematical projects","Historiography of mathematics","Mathematical databases"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Mathematics_Genealogy_Project","wgRelevantArticleId":1152126,"wgRequestId":"WcKDGApAAEUAAEte4-QAAACT","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q829984","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preload","preloadparams","preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.18"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Mathematics_Genealogy_Project"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Mathematics_Genealogy_Project&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Mathematics_Genealogy_Project&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Mathematics_Genealogy_Project"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Mathematics_Genealogy_Project rootpage-Mathematics_Genealogy_Project skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Mathematics Genealogy Project</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>The <b>Mathematics Genealogy Project</b> is a web-based <a href="/wiki/Database" title="Database">database</a> for the <a href="/wiki/Academic_genealogy" title="Academic genealogy">academic genealogy</a> of <a href="/wiki/Mathematician" title="Mathematician">mathematicians</a>.<sup id="cite_ref-llmgp_1-0" class="reference"><a href="#cite_note-llmgp-1">[1]</a></sup><sup id="cite_ref-che_2-0" class="reference"><a href="#cite_note-che-2">[2]</a></sup><sup id="cite_ref-focus_3-0" class="reference"><a href="#cite_note-focus-3">[3]</a></sup> By 24 April 2017, it contained information on 211,735 <a href="/wiki/Mathematical_sciences" title="Mathematical sciences">mathematical scientists</a> who contributed to research-level mathematics. For a typical mathematician, the project entry includes graduation year, thesis title, <i><a href="/wiki/Alma_mater" title="Alma mater">alma mater</a></i>, <a href="/wiki/Doctoral_advisor" title="Doctoral advisor">doctoral advisor</a>, and doctoral students.<sup id="cite_ref-llmgp_1-1" class="reference"><a href="#cite_note-llmgp-1">[1]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Origin_of_the_database"><span class="tocnumber">1</span> <span class="toctext">Origin of the database</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Mission"><span class="tocnumber">2</span> <span class="toctext">Mission</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Scope"><span class="tocnumber">3</span> <span class="toctext">Scope</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Accuracy_of_information_and_other_criticisms"><span class="tocnumber">4</span> <span class="toctext">Accuracy of information and other criticisms</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Origin_of_the_database">Origin of the database</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mathematics_Genealogy_Project&amp;action=edit&amp;section=1" title="Edit section: Origin of the database">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The project grew out of founder <a href="/wiki/Harry_Coonce" title="Harry Coonce">Harry Coonce</a>'s desire to know the name of his advisor's advisor.<sup id="cite_ref-llmgp_1-2" class="reference"><a href="#cite_note-llmgp-1">[1]</a></sup><sup id="cite_ref-che_2-1" class="reference"><a href="#cite_note-che-2">[2]</a></sup> Coonce was Professor of Mathematics at <a href="/wiki/Minnesota_State_University,_Mankato" title="Minnesota State University, Mankato">Minnesota State University, Mankato</a>, at the time of the project's founding, and the project went online there in fall 1997.<sup id="cite_ref-MGP21_5-0" class="reference"><a href="#cite_note-MGP21-5">[5]</a></sup> Coonce retired from Mankato in 1999, and in fall 2002 the university decided that it would no longer support the project. The project relocated at that time to <a href="/wiki/North_Dakota_State_University" title="North Dakota State University">North Dakota State University</a>. Since 2003, the project has also operated under the auspices of the <a href="/wiki/American_Mathematical_Society" title="American Mathematical Society">American Mathematical Society</a> and in 2005 it received a grant from the <a href="/wiki/Clay_Mathematics_Institute" title="Clay Mathematics Institute">Clay Mathematics Institute</a>.<sup id="cite_ref-llmgp_1-3" class="reference"><a href="#cite_note-llmgp-1">[1]</a></sup><sup id="cite_ref-focus_3-1" class="reference"><a href="#cite_note-focus-3">[3]</a></sup> Harry Coonce has been assisted by <a rel="nofollow" class="external text" href="https://www.wlu.edu/mathematics-department/faculty-and-staff/profile?ID=x7434">Mitchel T. Keller</a>, Assistant Professor at <a href="/wiki/Washington_and_Lee_University" title="Washington and Lee University">Washington and Lee University</a>. Dr Keller is currently the Managing Director of the project.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<h2><span class="mw-headline" id="Mission">Mission</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mathematics_Genealogy_Project&amp;action=edit&amp;section=2" title="Edit section: Mission">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Mathematics Genealogy Mission statement states, "Throughout this project when we use the word "<a href="/wiki/Mathematics" title="Mathematics">mathematics</a>" or "<a href="/wiki/Mathematician" title="Mathematician">mathematician</a>" we mean that word in a very inclusive sense.<sup id="cite_ref-MGP21_5-1" class="reference"><a href="#cite_note-MGP21-5">[5]</a></sup> Thus, all relevant data from <a href="/wiki/Statistics" title="Statistics">statistics</a>, <a href="/wiki/Computer_science" title="Computer science">computer science</a>, <a href="/wiki/Philosophy" title="Philosophy">philosophy</a> or <a href="/wiki/Operations_research" title="Operations research">operations research</a> is welcome."<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<h2><span class="mw-headline" id="Scope">Scope</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mathematics_Genealogy_Project&amp;action=edit&amp;section=3" title="Edit section: Scope">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The genealogy information is obtained from sources such as <i>Dissertation Abstracts International</i> and <i>Notices of the American Mathematical Society</i>, but may be supplied by anyone via the project's website.<sup id="cite_ref-focus_3-2" class="reference"><a href="#cite_note-focus-3">[3]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> The searchable database contains the name of the mathematician, university which awarded the degree, year when the degree was awarded, title of the dissertation, names of the advisor and second advisor, a flag of the country where the degree was awarded, a listing of doctoral students, and a count of academic descendants.<sup id="cite_ref-llmgp_1-4" class="reference"><a href="#cite_note-llmgp-1">[1]</a></sup> Some historically significant figures who lacked a doctoral degree are listed, notably <a href="/wiki/Joseph_Louis_Lagrange" class="mw-redirect" title="Joseph Louis Lagrange">Joseph Louis Lagrange</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<h2><span class="mw-headline" id="Accuracy_of_information_and_other_criticisms">Accuracy of information and other criticisms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mathematics_Genealogy_Project&amp;action=edit&amp;section=4" title="Edit section: Accuracy of information and other criticisms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>It has been noted that "The data collected by the mathematics genealogy project are self-reported, so there is no guarantee that the observed genealogy network is a complete description of the mentorship network. In fact, 16,147 mathematicians do not have a recorded mentor, and of these, 8,336 do not have any recorded proteges."<sup id="cite_ref-Maimgren622626_10-0" class="reference"><a href="#cite_note-Maimgren622626-10">[10]</a></sup> Maimgren, Ottino and Amaral (2010) stated that "for [mathematicians who graduated between 1900 and 1960] we believe that the graduation and mentorship record is the most reliable."<sup id="cite_ref-Maimgren622626_10-1" class="reference"><a href="#cite_note-Maimgren622626-10">[10]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mathematics_Genealogy_Project&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Academic_genealogy_of_computer_scientists" title="Academic genealogy of computer scientists">Academic genealogy of computer scientists</a></li>
+<li><a href="/wiki/Academic_genealogy_of_theoretical_physicists" title="Academic genealogy of theoretical physicists">Academic genealogy of theoretical physicists</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mathematics_Genealogy_Project&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-llmgp-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-llmgp_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-llmgp_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-llmgp_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-llmgp_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-llmgp_1-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFJackson2007" class="citation">Jackson, Allyn (2007), <a rel="nofollow" class="external text" href="http://www.ams.org/notices/200708/tx070801002p.pdf">"A labor of love: the Mathematics Genealogy Project"</a> <span style="font-size:85%;">(PDF)</span>, <i><a href="/wiki/Notices_of_the_American_Mathematical_Society" title="Notices of the American Mathematical Society">Notices of the American Mathematical Society</a></i>, <b>54</b> (8): 1002–1003</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMathematics+Genealogy+Project&amp;rft.atitle=A+labor+of+love%3A+the+Mathematics+Genealogy+Project&amp;rft.aufirst=Allyn&amp;rft.aulast=Jackson&amp;rft.date=2007&amp;rft.genre=article&amp;rft.issue=8&amp;rft.jtitle=Notices+of+the+American+Mathematical+Society&amp;rft.pages=1002-1003&amp;rft.volume=54&amp;rft_id=http%3A%2F%2Fwww.ams.org%2Fnotices%2F200708%2Ftx070801002p.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-che-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-che_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-che_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFCarr1999" class="citation">Carr, Sarah (August 18, 1999), <a rel="nofollow" class="external text" href="http://genealogy.math.ndsu.nodak.edu/recog/chronicle/chronicle.html">"Retired Mathematician Develops a Family Tree of the Scholars in His Field"</a>, <i><a href="/wiki/The_Chronicle_of_Higher_Education" title="The Chronicle of Higher Education">The Chronicle of Higher Education</a></i></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMathematics+Genealogy+Project&amp;rft.atitle=Retired+Mathematician+Develops+a+Family+Tree+of+the+Scholars+in+His+Field&amp;rft.aufirst=Sarah&amp;rft.aulast=Carr&amp;rft.date=1999-08-18&amp;rft.genre=article&amp;rft.jtitle=The+Chronicle+of+Higher+Education&amp;rft_id=http%3A%2F%2Fgenealogy.math.ndsu.nodak.edu%2Frecog%2Fchronicle%2Fchronicle.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-focus-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-focus_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-focus_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-focus_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFWorth2006" class="citation">Worth, Fred (2006), <a rel="nofollow" class="external text" href="http://www.maa.org/sites/default/files/pdf/pubs/nov06focus.pdf">"A Report on the Mathematics Genealogy Project"</a> <span style="font-size:85%;">(PDF)</span>, <i><a href="/wiki/MAA_FOCUS" title="MAA FOCUS">MAA FOCUS</a></i>, <b>26</b> (8): 40–41</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMathematics+Genealogy+Project&amp;rft.atitle=A+Report+on+the+Mathematics+Genealogy+Project&amp;rft.aufirst=Fred&amp;rft.aulast=Worth&amp;rft.date=2006&amp;rft.genre=article&amp;rft.issue=8&amp;rft.jtitle=MAA+FOCUS&amp;rft.pages=40-41&amp;rft.volume=26&amp;rft_id=http%3A%2F%2Fwww.maa.org%2Fsites%2Fdefault%2Ffiles%2Fpdf%2Fpubs%2Fnov06focus.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://genealogy.math.ndsu.nodak.edu/index.php">Mathematics Genealogy Project</a></span></li>
+<li id="cite_note-MGP21-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-MGP21_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-MGP21_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Mulcahy, Colm; <a rel="nofollow" class="external text" href="http://www.ams.org/publications/journals/notices/201705/rnoti-p466.pdf">The Mathematics Genealogy Project Comes of Age at Twenty-one</a> (PDF) AMS Notices (May 2017)</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://genealogy.math.ndsu.nodak.edu/news.php">MGP News</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://genealogy.math.ndsu.nodak.edu/mission.php">Mission Statement</a>, The Mathematics Genealogy Project</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://genealogy.math.ndsu.nodak.edu/faq.php#sources">Where do you get your data?</a>, Mathematics Genealogy FAQ, retrieved March 28, 2010.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://genealogy.math.ndsu.nodak.edu/id.php?id=17864">Joseph Lagrange</a>, "We show a link to Euler to show a connection in our intellectual heritage. (hbc)", The Mathematics Genealogy Project</span></li>
+<li id="cite_note-Maimgren622626-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Maimgren622626_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Maimgren622626_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Maimgren, R. D., Ottino, J. M., &amp; Amaral, L. A. (2010). "The role of mentorship in protege performance", <i>Nature</i>, 465(7298), 622-626, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1038%2Fnature09040">10.1038/nature09040</a></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mathematics_Genealogy_Project&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png" width="40" height="22" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/60px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/80px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikidata" title="Wikidata">Wikidata</a> has the property: <i><b><a href="https://www.wikidata.org/wiki/Property:P549" class="extiw" title="d:Property:P549">Mathematics Genealogy Project ID <small>(P549)</small></a></b></i> (see <a href="https://www.wikidata.org/wiki/Special:WhatLinksHere/Property:P549" class="extiw" title="d:Special:WhatLinksHere/Property:P549">uses</a>)</td>
+</tr>
+</table>
+<ul>
+<li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="https://www.genealogy.math.ndsu.nodak.edu/">Official website</a></span></span></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1248
+Cached time: 20170911143257
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.108 seconds
+Real time usage: 0.146 seconds
+Preprocessor visited node count: 480/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 10074/2097152 bytes
+Template argument size: 467/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Lua time usage: 0.046/10.000 seconds
+Lua memory usage: 2.03 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  116.044      1 -total
+ 64.32%   74.634      1 Template:Reflist
+ 39.77%   46.153      3 Template:Citation
+ 20.89%   24.247      1 Template:Official_website
+ 14.63%   16.979      1 Template:Wikidata_property
+ 13.49%   15.659      1 Template:Sister_project
+ 11.18%   12.971      1 Template:Side_box
+  5.44%    6.315      1 Template:Doi
+  2.78%    3.227      2 Template:Hide_in_print
+  1.64%    1.904      1 Template:Main_other
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1152126-0!canonical and timestamp 20170911143257 and revision id 796692786
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Mathematics_Genealogy_Project&amp;oldid=796692786">https://en.wikipedia.org/w/index.php?title=Mathematics_Genealogy_Project&amp;oldid=796692786</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Projects_established_in_1997" title="Category:Projects established in 1997">Projects established in 1997</a></li><li><a href="/wiki/Category:Mathematical_projects" title="Category:Mathematical projects">Mathematical projects</a></li><li><a href="/wiki/Category:Historiography_of_mathematics" title="Category:Historiography of mathematics">Historiography of mathematics</a></li><li><a href="/wiki/Category:Mathematical_databases" title="Category:Mathematical databases">Mathematical databases</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Mathematics+Genealogy+Project" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Mathematics+Genealogy+Project" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Mathematics_Genealogy_Project" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Mathematics_Genealogy_Project" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Mathematics_Genealogy_Project">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Mathematics_Genealogy_Project&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Mathematics_Genealogy_Project&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Mathematics_Genealogy_Project" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Mathematics_Genealogy_Project" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Mathematics_Genealogy_Project&amp;oldid=796692786" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Mathematics_Genealogy_Project&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q829984" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Mathematics_Genealogy_Project&amp;id=796692786" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Mathematics+Genealogy+Project">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Mathematics+Genealogy+Project&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DMathematics%2BGenealogy%2BProject%26returnto%3DMathematics%2BGenealogy%2BProject%26oldid%3D796692786%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Mathematics_Genealogy_Project&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D8%B4%D8%B1%D9%88%D8%B9_%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1_%D8%B9%D9%84%D9%85%D8%A7%D8%A1_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA" title="مشروع إحصاء علماء الرياضيات – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%BE%D8%B1%D9%88%DA%98%D9%87_%D8%AA%D8%A8%D8%A7%D8%B1%D8%B4%D9%86%D8%A7%D8%B3%DB%8C_%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C%D8%A7%D8%AA" title="پروژه تبارشناسی ریاضیات – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%88%98%ED%95%99_%EA%B3%84%EB%B3%B4_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8" title="수학 계보 프로젝트 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project – Iloko" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A4%D7%A8%D7%95%D7%99%D7%A7%D7%98_%D7%94%D7%92%D7%A0%D7%90%D7%9C%D7%95%D7%92%D7%99%D7%94_%D7%91%D7%9E%D7%AA%D7%9E%D7%98%D7%99%D7%A7%D7%94" title="פרויקט הגנאלוגיה במתמטיקה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%E2%80%9E%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BA%D0%B8_%D1%80%D0%BE%D0%B4%D0%BE%D1%81%D0%BB%D0%BE%D0%B2%E2%80%9C" title="Проект „Математички родослов“ – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Genealogia_matematicienilor" title="Genealogia matematicienilor – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B3%D0%B5%D0%BD%D0%B5%D0%B0%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Математическая генеалогия – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%98%D0%B5%D0%BA%D0%B0%D1%82_%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BA%D0%B0_%D0%B3%D0%B5%D0%BD%D0%B5%D0%B0%D0%BB%D0%BE%D0%B3%D0%B8%D1%98%D0%B0" title="Пројекат Математичка генеалогија – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B0_%D0%B3%D0%B5%D0%BD%D0%B5%D0%B0%D0%BB%D0%BE%D0%B3%D1%96%D1%8F" title="Математична генеалогія – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/D%E1%BB%B1_%C3%A1n_Ph%E1%BA%A3_h%E1%BB%87_To%C3%A1n_h%E1%BB%8Dc" title="Dự án Phả hệ Toán học – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%95%B8%E5%AD%B8%E8%AD%9C%E7%B3%BB%E8%A8%88%E7%95%AB" title="數學譜系計畫 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q829984#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 22 August 2017, at 14:32.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Mathematics_Genealogy_Project&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.108","walltime":"0.146","ppvisitednodes":{"value":480,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":10074,"limit":2097152},"templateargumentsize":{"value":467,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  116.044      1 -total"," 64.32%   74.634      1 Template:Reflist"," 39.77%   46.153      3 Template:Citation"," 20.89%   24.247      1 Template:Official_website"," 14.63%   16.979      1 Template:Wikidata_property"," 13.49%   15.659      1 Template:Sister_project"," 11.18%   12.971      1 Template:Side_box","  5.44%    6.315      1 Template:Doi","  2.78%    3.227      2 Template:Hide_in_print","  1.64%    1.904      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.046","limit":"10.000"},"limitreport-memusage":{"value":2125563,"limit":52428800}},"cachereport":{"origin":"mw1248","timestamp":"20170911143257","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":61,"wgHostname":"mw1274"});});</script>
+	</body>
+</html>

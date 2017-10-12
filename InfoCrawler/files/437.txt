@@ -1,0 +1,1558 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Nazi architecture - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Nazi_architecture","wgTitle":"Nazi architecture","wgCurRevisionId":799400228,"wgRevisionId":799400228,"wgArticleId":49156098,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using refbegin with normalfont parameter","CS1 Italian-language sources (it)","CS1 German-language sources (de)","Architectural styles","History of Berlin","Culture in Berlin","Nazi architecture"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Nazi_architecture","wgRelevantArticleId":49156098,"wgRequestId":"WcgABQpAADgAAAccVsQAAABA","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q287025","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/40/Bundesarchiv_Bild_146III-373%2C_Modell_der_Neugestaltung_Berlins_%28%22Germania%22%29.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Nazi_architecture"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Nazi_architecture&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Nazi_architecture&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Nazi_architecture"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Nazi_architecture rootpage-Nazi_architecture skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Nazi architecture</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Bundesarchiv_Bild_146III-373,_Modell_der_Neugestaltung_Berlins_(%22Germania%22).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Bundesarchiv_Bild_146III-373%2C_Modell_der_Neugestaltung_Berlins_%28%22Germania%22%29.jpg/250px-Bundesarchiv_Bild_146III-373%2C_Modell_der_Neugestaltung_Berlins_%28%22Germania%22%29.jpg" width="250" height="329" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Bundesarchiv_Bild_146III-373%2C_Modell_der_Neugestaltung_Berlins_%28%22Germania%22%29.jpg/375px-Bundesarchiv_Bild_146III-373%2C_Modell_der_Neugestaltung_Berlins_%28%22Germania%22%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/40/Bundesarchiv_Bild_146III-373%2C_Modell_der_Neugestaltung_Berlins_%28%22Germania%22%29.jpg/500px-Bundesarchiv_Bild_146III-373%2C_Modell_der_Neugestaltung_Berlins_%28%22Germania%22%29.jpg 2x" data-file-width="608" data-file-height="800" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Bundesarchiv_Bild_146III-373,_Modell_der_Neugestaltung_Berlins_(%22Germania%22).jpg" class="internal" title="Enlarge"></a></div>
+A model of <a href="/wiki/Adolf_Hitler" title="Adolf Hitler">Adolf Hitler</a>'s plan for Berlin formulated under the direction of <a href="/wiki/Albert_Speer" title="Albert Speer">Albert Speer</a>, looking north toward the <a href="/wiki/Volkshalle" title="Volkshalle">Volkshalle</a> at the top of the frame.</div>
+</div>
+</div>
+<p><b>Nazi architecture</b> is the architecture promoted by the <a href="/wiki/Nazi_Germany" title="Nazi Germany">Third Reich</a> from 1933 until its fall in 1945. It is characterized by three forms: a stripped-down <a href="/wiki/Neoclassical_architecture" title="Neoclassical architecture">neoclassicism</a> (typified by the designs of <a href="/wiki/Albert_Speer" title="Albert Speer">Albert Speer</a>); a vernacular style that drew inspiration from traditional rural architecture, especially alpine; and a utilitarian style followed for major infrastructure projects and industrial or military complexes. Nazi ideology took a pluralist attitude to architecture; however, <a href="/wiki/Adolf_Hitler" title="Adolf Hitler">Adolf Hitler</a> himself believed that form should follow function and wrote against "stupid imitations of the past".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<p>The crowning achievement of this movement was to be <a href="/wiki/Welthauptstadt_Germania" title="Welthauptstadt Germania">Welthauptstadt Germania</a>, the projected renewal of the German capital <a href="/wiki/Berlin" title="Berlin">Berlin</a> following the Nazis' victory in <a href="/wiki/World_War_II" title="World War II">World War II</a>. Speer, who oversaw the project, produced most of the plans for the new city. Only a small portion of the "World Capital" was ever built between 1937 and 1943. The plan's core features included the creation of a great neoclassical city based on an East-West axis with the <a href="/wiki/Berlin_victory_column" class="mw-redirect" title="Berlin victory column">Berlin victory column</a> at its centre. Major Nazi buildings like the <a href="/wiki/Reichstag_(building)" title="Reichstag (building)">Reichstag</a> or the <a href="/wiki/Volkshalle" title="Volkshalle">Große Halle</a> (never built) would adjoin wide boulevards. A great number of historic buildings in the city were demolished in the planned construction zones. However, with defeat of the Third Reich, the work was never started.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Architectual_proponents"><span class="tocnumber">1</span> <span class="toctext">Architectual proponents</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Bibliography"><span class="tocnumber">3.1</span> <span class="toctext">Bibliography</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Architectual_proponents">Architectual proponents</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nazi_architecture&amp;action=edit&amp;section=1" title="Edit section: Architectual proponents">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Bundesarchiv_Bild_146-1987-003-09A,_Berlin,_Neue_Reichskanzlei,_Innenhof.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bundesarchiv_Bild_146-1987-003-09A%2C_Berlin%2C_Neue_Reichskanzlei%2C_Innenhof.jpg/220px-Bundesarchiv_Bild_146-1987-003-09A%2C_Berlin%2C_Neue_Reichskanzlei%2C_Innenhof.jpg" width="220" height="154" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bundesarchiv_Bild_146-1987-003-09A%2C_Berlin%2C_Neue_Reichskanzlei%2C_Innenhof.jpg/330px-Bundesarchiv_Bild_146-1987-003-09A%2C_Berlin%2C_Neue_Reichskanzlei%2C_Innenhof.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bundesarchiv_Bild_146-1987-003-09A%2C_Berlin%2C_Neue_Reichskanzlei%2C_Innenhof.jpg/440px-Bundesarchiv_Bild_146-1987-003-09A%2C_Berlin%2C_Neue_Reichskanzlei%2C_Innenhof.jpg 2x" data-file-width="800" data-file-height="561" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Bundesarchiv_Bild_146-1987-003-09A,_Berlin,_Neue_Reichskanzlei,_Innenhof.jpg" class="internal" title="Enlarge"></a></div>
+Albert Speer's <a href="/wiki/New_Reich_Chancellery" class="mw-redirect" title="New Reich Chancellery">New Reich Chancellery</a>, completed in 1939.</div>
+</div>
+</div>
+<div class="div-col columns column-count column-count-3" style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3;">
+<ul>
+<li><a href="/wiki/Hermann_Bartels" title="Hermann Bartels">Hermann Bartels</a></li>
+<li><a href="/wiki/Peter_Behrens" title="Peter Behrens">Peter Behrens</a></li>
+<li><a href="/wiki/German_Bestelmeyer" title="German Bestelmeyer">German Bestelmeyer</a></li>
+<li><a href="/wiki/Paul_Bonatz" title="Paul Bonatz">Paul Bonatz</a></li>
+<li><a href="/wiki/Woldemar_Brinkmann" title="Woldemar Brinkmann">Woldemar Brinkmann</a></li>
+<li><a href="/wiki/Walter_Brugmann" title="Walter Brugmann">Walter Brugmann</a></li>
+<li><a href="/wiki/Richard_Ermisch" title="Richard Ermisch">Richard Ermisch</a></li>
+<li><a href="/wiki/Gottfried_Feder" title="Gottfried Feder">Gottfried Feder</a></li>
+<li><a href="/wiki/Roderich_Fick" title="Roderich Fick">Roderich Fick</a></li>
+<li><a href="/wiki/Theodor_Fischer" class="mw-redirect" title="Theodor Fischer">Theodor Fischer</a></li>
+<li><a href="/wiki/Leonhard_Gall" title="Leonhard Gall">Leonhard Gall</a></li>
+<li><a href="/wiki/Hermann_Giesler" title="Hermann Giesler">Hermann Giesler</a></li>
+<li><a href="/wiki/Wilhelm_Grebe" title="Wilhelm Grebe">Wilhelm Grebe</a></li>
+<li><a href="/wiki/Fritz_Hoger" class="mw-redirect" title="Fritz Hoger">Fritz Hoger</a></li>
+<li><a href="/wiki/Eugen_Honig" class="mw-redirect" title="Eugen Honig">Eugen Honig</a></li>
+<li><a href="/wiki/Clemens_Klotz" title="Clemens Klotz">Clemens Klotz</a></li>
+<li><a href="/wiki/Wilhelm_Kreis" title="Wilhelm Kreis">Wilhelm Kreis</a></li>
+<li><a href="/wiki/Werner_March" title="Werner March">Werner March</a></li>
+<li><a href="/wiki/Konrad_Nonn" title="Konrad Nonn">Konrad Nonn</a></li>
+<li><a href="/wiki/Alfred_Rosenberg" title="Alfred Rosenberg">Alfred Rosenberg</a></li>
+<li><a href="/wiki/Ludwig_Ruff" title="Ludwig Ruff">Ludwig Ruff</a></li>
+<li><a href="/wiki/Franz_Ruff" title="Franz Ruff">Franz Ruff</a></li>
+<li><a href="/wiki/Ernst_Sagebiel" title="Ernst Sagebiel">Ernst Sagebiel</a></li>
+<li><a href="/wiki/Paul_Schmitthenner" title="Paul Schmitthenner">Paul Schmitthenner</a></li>
+<li><a href="/wiki/Julius_Schulte-Frohlinde" title="Julius Schulte-Frohlinde">Julius Schulte-Frohlinde</a></li>
+<li><a href="/wiki/Paul_Schultze-Naumburg" title="Paul Schultze-Naumburg">Paul Schultze-Naumburg</a></li>
+<li><a href="/wiki/Alexander_von_Senger" title="Alexander von Senger">Alexander von Senger</a></li>
+<li><a href="/wiki/Albert_Speer" title="Albert Speer">Albert Speer</a></li>
+<li><a href="/wiki/Fritz_Todt" title="Fritz Todt">Fritz Todt</a></li>
+<li><a href="/wiki/Paul_Troost" title="Paul Troost">Paul Troost</a></li>
+<li><a href="/wiki/Rudolf_Wolters" title="Rudolf Wolters">Rudolf Wolters</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nazi_architecture&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_Nazi_construction" title="List of Nazi construction">List of Nazi constructions</a></li>
+<li><a href="/wiki/Schwerbelastungsk%C3%B6rper" title="Schwerbelastungskörper">Schwerbelastungskörper</a></li>
+<li><a href="/wiki/Nazi_Art" class="mw-redirect" title="Nazi Art">Nazi art</a></li>
+<li><a href="/wiki/Totalitarian_architecture" title="Totalitarian architecture">Totalitarian architecture</a></li>
+<li><a href="/wiki/Fascist_architecture" title="Fascist architecture">Fascist architecture</a></li>
+<li><a href="/wiki/Volk" class="mw-redirect" title="Volk">Volk</a></li>
+<li><a href="/wiki/V%C3%B6lkisch_movement" title="Völkisch movement">Völkisch movement</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nazi_architecture&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Nazi architecture, in "Oxford Dictionary of Architecture and Landscape Architecture", 2006, p518.</span></li>
+</ol>
+</div>
+</div>
+<h3><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nazi_architecture&amp;action=edit&amp;section=4" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="refbegin refbegin-hanging-indents refbegin-100 columns references-column-width" style="-moz-column-width: 25em; -webkit-column-width: 25em; column-width: 25em;">
+<dl>
+<dd><cite id="CITEREFBaynes1942" class="citation book">Baynes, Norman H., ed. (1942). <i><a href="/wiki/The_Speeches_of_Adolf_Hitler,_April_1922-August_1939" class="mw-redirect" title="The Speeches of Adolf Hitler, April 1922-August 1939">The Speeches of Adolf Hitler, April 1922-August 1939</a></i>. Two vols. London: Oxford University Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANazi+architecture&amp;rft.btitle=The+Speeches+of+Adolf+Hitler%2C+April+1922-August+1939&amp;rft.date=1942&amp;rft.genre=book&amp;rft.place=London&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></dd>
+<dd><cite id="CITEREFBrenner1965" class="citation book">Brenner, Hildegard (1965). <i>La politica culturale del nazismo</i> [<i>Die Kunstpolitik des Nationalsozialismus (Art policies of Nazism)</i>] (in Italian). Translated from German by Enzo Collotti. Bari: Laterza.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANazi+architecture&amp;rft.aufirst=Hildegard&amp;rft.aulast=Brenner&amp;rft.btitle=La+politica+culturale+del+nazismo&amp;rft.date=1965&amp;rft.genre=book&amp;rft.place=Bari&amp;rft.pub=Laterza&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></dd>
+<dd><cite id="CITEREFCowderyCowdery2003" class="citation book">Cowdery, Ray; Cowdery, Josephine (2003). <i>The New German Reichschancellery in Berlin 1938-1945</i>. Victory WW2 Publishing. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0910667289" title="Special:BookSources/978-0910667289">978-0910667289</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANazi+architecture&amp;rft.au=Cowdery%2C+Josephine&amp;rft.aufirst=Ray&amp;rft.aulast=Cowdery&amp;rft.btitle=The+New+German+Reichschancellery+in+Berlin+1938-1945&amp;rft.date=2003&amp;rft.genre=book&amp;rft.isbn=978-0910667289&amp;rft.pub=Victory+WW2+Publishing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></dd>
+<dd><cite id="CITEREFDe_Jaeger1981" class="citation book">De Jaeger, Charles (1981). <i>The Linz file: Hitler's plunder of Europe's art</i>. <a href="/wiki/Exeter" title="Exeter">Exeter</a>: Webb &amp; Bower. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780906671306" title="Special:BookSources/9780906671306">9780906671306</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANazi+architecture&amp;rft.aufirst=Charles&amp;rft.aulast=De+Jaeger&amp;rft.btitle=The+Linz+file%3A+Hitler%27s+plunder+of+Europe%27s+art&amp;rft.date=1981&amp;rft.genre=book&amp;rft.isbn=9780906671306&amp;rft.place=Exeter&amp;rft.pub=Webb+%26+Bower&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></dd>
+<dd><cite id="CITEREFD.C3.BClfferThiesHenke1978" class="citation book">Dülffer, Jost; Thies, Jochen; Henke, Josef (1978). <i>Hitlers Städte: Baupolitik Im Dritten Reich. Eine Dokumentation</i> [<i>Building Policies in the Third Reich</i>] (in German). Köln: Böhlau. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-412-03477-0" title="Special:BookSources/3-412-03477-0">3-412-03477-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANazi+architecture&amp;rft.au=Henke%2C+Josef&amp;rft.au=Thies%2C+Jochen&amp;rft.aufirst=Jost&amp;rft.aulast=D%C3%BClffer&amp;rft.btitle=Hitlers+St%C3%A4dte%3A+Baupolitik+Im+Dritten+Reich.+Eine+Dokumentation&amp;rft.date=1978&amp;rft.genre=book&amp;rft.isbn=3-412-03477-0&amp;rft.place=K%C3%B6ln&amp;rft.pub=B%C3%B6hlau&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></dd>
+<dd><cite id="CITEREFGiesler1977" class="citation book">Giesler, Hermann (1977). <i>Ein Anderer Hitler: Bericht Seines Architekten Erlebnisse, Gesprache, Reflexionen</i> [<i>A Different Hitler: Report on its Architects' Experiences, Conversations, Reflections</i>] (in German). Druffel. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3806108200" title="Special:BookSources/978-3806108200">978-3806108200</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANazi+architecture&amp;rft.aufirst=Hermann&amp;rft.aulast=Giesler&amp;rft.btitle=Ein+Anderer+Hitler%3A+Bericht+Seines+Architekten+Erlebnisse%2C+Gesprache%2C+Reflexionen&amp;rft.date=1977&amp;rft.genre=book&amp;rft.isbn=978-3806108200&amp;rft.pub=Druffel&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></dd>
+<dd><cite id="CITEREFHelmer1985" class="citation book">Helmer, Stephen (1985). <i>Hitler's Berlin: The Speer Plans for Reshaping the Central City (Illustrated)</i>. <a href="/wiki/Ann_Arbor,_Michigan" title="Ann Arbor, Michigan">Ann Arbor</a>: UMI Research Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8357-1682-1" title="Special:BookSources/0-8357-1682-1">0-8357-1682-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANazi+architecture&amp;rft.aufirst=Stephen&amp;rft.aulast=Helmer&amp;rft.btitle=Hitler%27s+Berlin%3A+The+Speer+Plans+for+Reshaping+the+Central+City+%28Illustrated%29&amp;rft.date=1985&amp;rft.genre=book&amp;rft.isbn=0-8357-1682-1&amp;rft.place=Ann+Arbor&amp;rft.pub=UMI+Research+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></dd>
+<dd><cite id="CITEREFHitler1971" class="citation book">Hitler, Adolf (1971). <i><a href="/wiki/Mein_Kampf" title="Mein Kampf">Mein Kampf</a></i> [<i>My Struggle</i>]. Translated by Ralph Manheim. Houghton Mifflin. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0395078013" title="Special:BookSources/978-0395078013">978-0395078013</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANazi+architecture&amp;rft.aufirst=Adolf&amp;rft.aulast=Hitler&amp;rft.btitle=Mein+Kampf&amp;rft.date=1971&amp;rft.genre=book&amp;rft.isbn=978-0395078013&amp;rft.pub=Houghton+Mifflin&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <a rel="nofollow" class="external text" href="https://archive.org/details/meinkampf035176mbp">In Internet Archive (1941 edition by Reynal &amp; Hitchcock, New York).</a></dd>
+<dd><cite id="CITEREFHitler2000" class="citation book">Hitler, Adolf (2000). <i>Hitler's Table Talk 1941-1944: His Private Conversations</i>. Translated by Norman Cameron and R.H. Stevens. New York: Enigma Books. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-929631-05-7" title="Special:BookSources/1-929631-05-7">1-929631-05-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANazi+architecture&amp;rft.aufirst=Adolf&amp;rft.aulast=Hitler&amp;rft.btitle=Hitler%27s+Table+Talk+1941-1944%3A+His+Private+Conversations&amp;rft.date=2000&amp;rft.genre=book&amp;rft.isbn=1-929631-05-7&amp;rft.place=New+York&amp;rft.pub=Enigma+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></dd>
+<dd><cite id="CITEREFHomze1967" class="citation book">Homze, Edward L. (1967). <i>Foreign Labor in Nazi Germany</i>. Princeton University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-691-05118-6" title="Special:BookSources/0-691-05118-6">0-691-05118-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANazi+architecture&amp;rft.aufirst=Edward+L.&amp;rft.aulast=Homze&amp;rft.btitle=Foreign+Labor+in+Nazi+Germany&amp;rft.date=1967&amp;rft.genre=book&amp;rft.isbn=0-691-05118-6&amp;rft.pub=Princeton+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></dd>
+<dd><cite id="CITEREFJaskot2000" class="citation book">Jaskot, Paul B. (2000). <i>The Architecture of Oppression: The SS, Forced Labor and the Nazi Monumental Building Economy</i>. New York: Routledge. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0415223-416" title="Special:BookSources/978-0415223-416">978-0415223-416</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANazi+architecture&amp;rft.aufirst=Paul+B.&amp;rft.aulast=Jaskot&amp;rft.btitle=The+Architecture+of+Oppression%3A+The+SS%2C+Forced+Labor+and+the+Nazi+Monumental+Building+Economy&amp;rft.date=2000&amp;rft.genre=book&amp;rft.isbn=978-0415223-416&amp;rft.place=New+York&amp;rft.pub=Routledge&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></dd>
+<dd><cite id="CITEREFKrier1989" class="citation book">Krier, Leon (1989). <i>Albert Speer Architecture</i>. New York: Princeton Architectural Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/2-87143-006-3" title="Special:BookSources/2-87143-006-3">2-87143-006-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANazi+architecture&amp;rft.aufirst=Leon&amp;rft.aulast=Krier&amp;rft.btitle=Albert+Speer+Architecture&amp;rft.date=1989&amp;rft.genre=book&amp;rft.isbn=2-87143-006-3&amp;rft.place=New+York&amp;rft.pub=Princeton+Architectural+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></dd>
+<dd><cite id="CITEREFL.C3.A4rmer1975" class="citation book">Lärmer, Karl (1975). <a rel="nofollow" class="external text" href="https://books.google.com/books/about/Autobahnbau_in_Deutschland_1933_bis_1945.html?id=NhsaAAAAMAAJ&amp;redir_esc=y"><i>Autobahnbau in Deutschland 1933 bis 1945</i></a> [<i>Highway construction in Germany 1933-1945</i>] (in German). Berlin: Akademie Verlag. <a href="/wiki/Amazon_Standard_Identification_Number" title="Amazon Standard Identification Number">ASIN</a>&#160;<a rel="nofollow" class="external text" href="//www.amazon.com/dp/B001UWP0DY">B001UWP0DY</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANazi+architecture&amp;rft.aufirst=Karl&amp;rft.aulast=L%C3%A4rmer&amp;rft.btitle=Autobahnbau+in+Deutschland+1933+bis+1945&amp;rft.date=1975&amp;rft.genre=book&amp;rft.place=Berlin&amp;rft.pub=Akademie+Verlag&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%2Fabout%2FAutobahnbau_in_Deutschland_1933_bis_1945.html%3Fid%3DNhsaAAAAMAAJ%26redir_esc%3Dy&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></dd>
+<dd><cite id="CITEREFLehmann-Haupt1973" class="citation book">Lehmann-Haupt, Hellmut (1973). <i>Art under a Dictatorship (Illustrated)</i>. New York: Octagon Books. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-374-94896-8" title="Special:BookSources/0-374-94896-8">0-374-94896-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANazi+architecture&amp;rft.aufirst=Hellmut&amp;rft.aulast=Lehmann-Haupt&amp;rft.btitle=Art+under+a+Dictatorship+%28Illustrated%29&amp;rft.date=1973&amp;rft.genre=book&amp;rft.isbn=0-374-94896-8&amp;rft.place=New+York&amp;rft.pub=Octagon+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></dd>
+<dd><cite id="CITEREFLehrer2006" class="citation book">Lehrer, Steven (2006). <i>The Reich Chancellery and Fuhrerbunker Complex: An Illustrated History of the Seat of the Nazi Regime</i>. McFarland &amp; Co. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0786423934" title="Special:BookSources/978-0786423934">978-0786423934</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANazi+architecture&amp;rft.aufirst=Steven&amp;rft.aulast=Lehrer&amp;rft.btitle=The+Reich+Chancellery+and+Fuhrerbunker+Complex%3A+An+Illustrated+History+of+the+Seat+of+the+Nazi+Regime&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=978-0786423934&amp;rft.pub=McFarland+%26+Co.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></dd>
+<dd><cite id="CITEREFMittig2005" class="citation book">Mittig, Hans-Ernst (2005). "Marmor der Reichskanzlei". In Bingen, Dieter; Hinz, Hans-Martin. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=j5IU6r6cFkAC&amp;pg=PA4&amp;lpg=PA4&amp;dq=ISBN+3-447-05096-9.&amp;source=bl&amp;ots=tG2hUl2ssV&amp;sig=ylmW_Qp9flVyH4GmRHPrD9kI2Po&amp;hl=en&amp;sa=X&amp;redir_esc=y#v=onepage&amp;q=Hans-Ernest%20Mittig%20Marmor%20der%20Reichskanzlei&amp;f=false"><i>Die Schleifung: Zerstörung und Wiederaufbau historischer Bauten in Deutschland und Polen</i></a> [<i>The Razing: Destruction and Reconstruction of Historical Buildings in Germany and Poland</i>] (in German). Wiesbaden: Otto Harrassowitz. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-447-05096-9" title="Special:BookSources/3-447-05096-9">3-447-05096-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANazi+architecture&amp;rft.atitle=Marmor+der+Reichskanzlei&amp;rft.aufirst=Hans-Ernst&amp;rft.aulast=Mittig&amp;rft.btitle=Die+Schleifung%3A+Zerst%C3%B6rung+und+Wiederaufbau+historischer+Bauten+in+Deutschland+und+Polen&amp;rft.date=2005&amp;rft.genre=bookitem&amp;rft.isbn=3-447-05096-9&amp;rft.place=Wiesbaden&amp;rft.pub=Otto+Harrassowitz&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dj5IU6r6cFkAC%26pg%3DPA4%26lpg%3DPA4%26dq%3DISBN%2B3-447-05096-9.%26source%3Dbl%26ots%3DtG2hUl2ssV%26sig%3DylmW_Qp9flVyH4GmRHPrD9kI2Po%26hl%3Den%26sa%3DX%26redir_esc%3Dy%23v%3Donepage%26q%3DHans-Ernest%2520Mittig%2520Marmor%2520der%2520Reichskanzlei%26f%3Dfalse&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></dd>
+<dd><cite id="CITEREFNerdinger1999" class="citation book">Nerdinger, Winfried (1999). <i>Bauhaus-Moderne im Nationalsozialismus</i> [<i>Modernist Architecture in Nazi Germany</i>] (in German). Prestel. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3791312699" title="Special:BookSources/978-3791312699">978-3791312699</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANazi+architecture&amp;rft.aufirst=Winfried&amp;rft.aulast=Nerdinger&amp;rft.btitle=Bauhaus-Moderne+im+Nationalsozialismus&amp;rft.date=1999&amp;rft.genre=book&amp;rft.isbn=978-3791312699&amp;rft.pub=Prestel&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></dd>
+<dd><cite id="CITEREFPetsch1976" class="citation book">Petsch, Joachim (1976). <i>Baukunst Und Stadtplanung Im Dritten Reich: Herleitung, Bestandsaufnahme, Entwicklung, Nachfolge</i> [<i>Architecture and urban planning in the Third Reich: Origin, Inventory, Development, Follow-up</i>] (in German). C. Hanser. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3446122796" title="Special:BookSources/978-3446122796">978-3446122796</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANazi+architecture&amp;rft.aufirst=Joachim&amp;rft.aulast=Petsch&amp;rft.btitle=Baukunst+Und+Stadtplanung+Im+Dritten+Reich%3A+Herleitung%2C+Bestandsaufnahme%2C+Entwicklung%2C+Nachfolge&amp;rft.date=1976&amp;rft.genre=book&amp;rft.isbn=978-3446122796&amp;rft.pub=C.+Hanser&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></dd>
+<dd><cite id="CITEREFRittich1938" class="citation book">Rittich, Werner (1938). <i>Architektur und Bauplastik der Gegenwart</i> [<i>Plastic Figures in Modern Architecture</i>] (in German). Berlin: Rembrandt Verlag.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANazi+architecture&amp;rft.aufirst=Werner&amp;rft.aulast=Rittich&amp;rft.btitle=Architektur+und+Bauplastik+der+Gegenwart&amp;rft.date=1938&amp;rft.genre=book&amp;rft.place=Berlin&amp;rft.pub=Rembrandt+Verlag&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></dd>
+<dd><cite id="CITEREFSch.C3.B6nberger1981" class="citation book">Schönberger, Angela (1981). <i>Die Neue Reichskanzlei von Albert Speer. Zum Zusammenhang von nationalsozialistischer Ideologie und Architektur</i> [<i>The New Reich Chancellery by Albert Speer. To a Coherence between Nazi Ideology and Architecture</i>] (in German). Berlin: Gebrüder Mann. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3786112631" title="Special:BookSources/978-3786112631">978-3786112631</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANazi+architecture&amp;rft.aufirst=Angela&amp;rft.aulast=Sch%C3%B6nberger&amp;rft.btitle=Die+Neue+Reichskanzlei+von+Albert+Speer.+Zum+Zusammenhang+von+nationalsozialistischer+Ideologie+und+Architektur&amp;rft.date=1981&amp;rft.genre=book&amp;rft.isbn=978-3786112631&amp;rft.place=Berlin&amp;rft.pub=Gebr%C3%BCder+Mann&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></dd>
+<dd><cite id="CITEREFScobie1990" class="citation book">Scobie, Alexander (1990). <i>Hitler's State Architecture: The Impact of Classical Antiquity</i>. College Art Association Monograph - Book 45. Pennsylvania State University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0271006918" title="Special:BookSources/978-0271006918">978-0271006918</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANazi+architecture&amp;rft.aufirst=Alexander&amp;rft.aulast=Scobie&amp;rft.btitle=Hitler%27s+State+Architecture%3A+The+Impact+of+Classical+Antiquity&amp;rft.date=1990&amp;rft.genre=book&amp;rft.isbn=978-0271006918&amp;rft.pub=Pennsylvania+State+University+Press&amp;rft.series=College+Art+Association+Monograph+-+Book+45&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></dd>
+<dd><cite id="CITEREFSchmitz1940" class="citation book">Schmitz, Matthias (1940). <i>A Nation Builds: Contemporary German Architecture</i>. New York: German Library of Information. <a rel="nofollow" class="external text" href="https://www.questia.com/read/6611338/a-nation-builds-contemporary-german-architecture">Lay summary</a> – <i>questia</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANazi+architecture&amp;rft.aufirst=Matthias&amp;rft.aulast=Schmitz&amp;rft.btitle=A+Nation+Builds%3A+Contemporary+German+Architecture&amp;rft.date=1940&amp;rft.genre=book&amp;rft.place=New+York&amp;rft.pub=German+Library+of+Information&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></dd>
+<dd><cite id="CITEREFSpeer1970" class="citation book">Speer, Albert (1970). <i><a href="/wiki/Inside_the_Third_Reich" title="Inside the Third Reich">Inside the Third Reich</a></i>. Translation by <a href="/wiki/Richard_and_Clara_Winston" title="Richard and Clara Winston">Richard and Clara Winston</a>. New York: Macmillan. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-02-037500-X" title="Special:BookSources/0-02-037500-X">0-02-037500-X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANazi+architecture&amp;rft.aufirst=Albert&amp;rft.aulast=Speer&amp;rft.btitle=Inside+the+Third+Reich&amp;rft.date=1970&amp;rft.genre=book&amp;rft.isbn=0-02-037500-X&amp;rft.place=New+York&amp;rft.pub=Macmillan&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <a rel="nofollow" class="external text" href="https://archive.org/details/Inside_the_Third_Reich_Albert_Speer">In Internet Archive.</a></dd>
+<dd><cite id="CITEREFSpotts2002" class="citation book">Spotts, Frederic (2002). <i>Hitler and the Power of Aesthetics</i>. <a href="/wiki/Woodstock,_New_York" title="Woodstock, New York">Woodstock, New York</a>: Overlook Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-58567-345-5" title="Special:BookSources/1-58567-345-5">1-58567-345-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANazi+architecture&amp;rft.aufirst=Frederic&amp;rft.aulast=Spotts&amp;rft.btitle=Hitler+and+the+Power+of+Aesthetics&amp;rft.date=2002&amp;rft.genre=book&amp;rft.isbn=1-58567-345-5&amp;rft.place=Woodstock%2C+New+York&amp;rft.pub=Overlook+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></dd>
+<dd><cite id="CITEREFTaylor1974" class="citation book">Taylor, Robert (1974). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=BHj3S9s3JesC&amp;pg"><i>The Word in Stone: The Role of Architecture in the National Socialist Ideology</i></a>. Berkeley: University of California Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-520-02193-2" title="Special:BookSources/0-520-02193-2">0-520-02193-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANazi+architecture&amp;rft.aufirst=Robert&amp;rft.aulast=Taylor&amp;rft.btitle=The+Word+in+Stone%3A+The+Role+of+Architecture+in+the+National+Socialist+Ideology&amp;rft.date=1974&amp;rft.genre=book&amp;rft.isbn=0-520-02193-2&amp;rft.place=Berkeley&amp;rft.pub=University+of+California+Press&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DBHj3S9s3JesC%26pg&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></dd>
+<dd><cite id="CITEREFThies1976" class="citation book">Thies, Jochen (1976). <i>Architekt der Weltherrschaft. Die Endziele Hitlers</i> [<i>Architect of world domination. The ultimate goals of Hitler</i>] (in German). Düsseldorf: Droste. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3770004256" title="Special:BookSources/978-3770004256">978-3770004256</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANazi+architecture&amp;rft.aufirst=Jochen&amp;rft.aulast=Thies&amp;rft.btitle=Architekt+der+Weltherrschaft.+Die+Endziele+Hitlers&amp;rft.date=1976&amp;rft.genre=book&amp;rft.isbn=978-3770004256&amp;rft.place=D%C3%BCsseldorf&amp;rft.pub=Droste&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></dd>
+<dd><cite id="CITEREFZoller1949" class="citation book">Zoller, Albert (1949). <i>Hitler privat. Erlebnisbericht seiner Geheimsekretärin</i> [<i>Hitler's Private Secretary Testimony</i>] (in German). Düsseldorf: Droste. <a href="/wiki/Amazon_Standard_Identification_Number" title="Amazon Standard Identification Number">ASIN</a>&#160;<a rel="nofollow" class="external text" href="//www.amazon.com/dp/B0023S7QZO">B0023S7QZO</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANazi+architecture&amp;rft.aufirst=Albert&amp;rft.aulast=Zoller&amp;rft.btitle=Hitler+privat.+Erlebnisbericht+seiner+Geheimsekret%C3%A4rin&amp;rft.date=1949&amp;rft.genre=book&amp;rft.place=D%C3%BCsseldorf&amp;rft.pub=Droste&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></dd>
+</dl>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nazi_architecture&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Nazi_architecture" class="extiw" title="commons:Category:Nazi architecture">Nazi architecture</a> at Wikimedia Commons</li>
+<li><a rel="nofollow" class="external text" href="https://tspace.library.utoronto.ca/citd/holtorf/7.4.html">A Theory of Ruin-value</a> , Cornelius Holtorf, last updated on 21 December 2004.</li>
+<li><i>A Teacher's Guide to the Holocaust</i> website:</li>
+</ul>
+<dl>
+<dd>
+<dl>
+<dd><a rel="nofollow" class="external text" href="http://fcit.coedu.usf.edu/holocaust/resource/gallery/BERBLD.HTM">Photos: Third Reich Architecture in Berlin</a>;</dd>
+<dd><a rel="nofollow" class="external text" href="http://fcit.coedu.usf.edu/holocaust/resource/gallery/MUNBLD.htm">Photos: Third Reich Architecture in Munich</a>.</dd>
+</dl>
+</dd>
+</dl>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://www.dhm.de/lemo/kapitel/ns-regime/kunst-und-kultur/ns-architektur.html">NS-Architektur</a> at LEMO - Lebendiges Museum Online.</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Nazism" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Nazism" title="Template:Nazism"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Nazism" title="Template talk:Nazism"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Nazism&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Nazism" style="font-size:114%;margin:0 4em"><a href="/wiki/Nazism" title="Nazism">Nazism</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Organizations</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Nazi_Party" title="Nazi Party">National Socialist German Workers' Party (NSDAP)</a></li>
+<li><a href="/wiki/Sturmabteilung" title="Sturmabteilung">Sturmabteilung (SA)</a></li>
+<li><a href="/wiki/Schutzstaffel" title="Schutzstaffel">Schutzstaffel (SS)</a></li>
+<li><a href="/wiki/Gestapo" title="Gestapo">Geheime Staatspolizei (Gestapo)</a></li>
+<li><a href="/wiki/Hitler_Youth" title="Hitler Youth">Hitler Youth (HJ)</a></li>
+<li><a href="/wiki/National_Socialist_Flyers_Corps" title="National Socialist Flyers Corps">National Socialist Flyers Corps (NSFK)</a></li>
+<li><a href="/wiki/National_Socialist_Motor_Corps" title="National Socialist Motor Corps">National Socialist Motor Corps (NSKK)</a></li>
+<li><a href="/wiki/League_of_German_Girls" title="League of German Girls">League of German Girls (BDM)</a></li>
+<li><a href="/wiki/National_Socialist_League_of_the_Reich_for_Physical_Exercise" title="National Socialist League of the Reich for Physical Exercise">National Socialist League of the Reich for Physical Exercise (NSRL)</a></li>
+<li><a href="/wiki/National_Socialist_Women%27s_League" title="National Socialist Women's League">National Socialist Women's League (NSF)</a></li>
+<li><a href="/wiki/Reich_Labour_Service" title="Reich Labour Service">Reich Labour Service (RAD)</a></li>
+<li><a href="/wiki/Werwolf" title="Werwolf">Werwolf</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="9" style="width:1px;padding:0px 0px 0px 2px;padding:0.8em 0.9em 3em;">
+<div><a href="/wiki/File:National_Socialist_swastika.svg" class="image" title="Nazi Swastika"><img alt="Nazi Swastika" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/National_Socialist_swastika.svg/50px-National_Socialist_swastika.svg.png" width="50" height="49" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/National_Socialist_swastika.svg/75px-National_Socialist_swastika.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/National_Socialist_swastika.svg/100px-National_Socialist_swastika.svg.png 2x" data-file-width="471" data-file-height="458" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">History</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Early_timeline_of_Nazism" title="Early timeline of Nazism">Early timeline</a></li>
+<li><a href="/wiki/Adolf_Hitler%27s_rise_to_power" title="Adolf Hitler's rise to power">Adolf Hitler's rise to power</a></li>
+<li><a href="/wiki/Nazi_seizure_of_power" class="mw-redirect" title="Nazi seizure of power">Machtergreifung</a></li>
+<li><a href="/wiki/German_re-armament" title="German re-armament">Re-armament</a></li>
+<li><a href="/wiki/Nazi_Germany" title="Nazi Germany">Nazi Germany</a></li>
+<li><a href="/wiki/Night_of_the_Long_Knives" title="Night of the Long Knives">Night of the Long Knives</a></li>
+<li><a href="/wiki/Nuremberg_Rally" title="Nuremberg Rally">Nuremberg Rally</a></li>
+<li><a href="/wiki/Anti-Comintern_Pact" title="Anti-Comintern Pact">Anti-Comintern Pact</a></li>
+<li><a href="/wiki/Kristallnacht" title="Kristallnacht">Kristallnacht</a></li>
+<li><a href="/wiki/World_War_II" title="World War II">World War II</a></li>
+<li><a href="/wiki/Tripartite_Pact" title="Tripartite Pact">Tripartite Pact</a></li>
+<li><a href="/wiki/The_Holocaust" title="The Holocaust">The Holocaust</a></li>
+<li><a href="/wiki/Nuremberg_trials" title="Nuremberg trials">Nuremberg trials</a></li>
+<li><a href="/wiki/Denazification" title="Denazification">Denazification</a></li>
+<li><a href="/wiki/Consequences_of_Nazism" title="Consequences of Nazism">Consequences</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Ideology</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Architecture</a></li>
+<li><a href="/wiki/Gleichschaltung" title="Gleichschaltung">Gleichschaltung</a></li>
+<li><a href="/wiki/Criticism_of_democracy" title="Criticism of democracy">Anti-democratic thought</a></li>
+<li><a href="/wiki/Strasserism" title="Strasserism">Strasserism</a></li>
+<li><a href="/wiki/Political_views_of_Adolf_Hitler" title="Political views of Adolf Hitler">Hitler's political views</a></li>
+<li><i><a href="/wiki/Mein_Kampf" title="Mein Kampf">Mein Kampf</a></i> (<a href="/wiki/Adolf_Hitler" title="Adolf Hitler">Hitler</a>)</li>
+<li><i><a href="/wiki/The_Myth_of_the_Twentieth_Century" title="The Myth of the Twentieth Century">Der Mythus des Zwanzigsten Jahrhunderts</a></i> (<a href="/wiki/Alfred_Rosenberg" title="Alfred Rosenberg">Rosenberg</a>)</li>
+<li><a href="/wiki/National_Socialist_Program" title="National Socialist Program">National Socialist Program</a></li>
+<li><a href="/wiki/New_Order_(Nazism)" title="New Order (Nazism)">New Order</a></li>
+<li><i><a href="/wiki/Preussentum_und_Sozialismus" title="Preussentum und Sozialismus">Preussentum und Sozialismus</a></i></li>
+<li><a href="/wiki/Propaganda_in_Nazi_Germany" title="Propaganda in Nazi Germany">Propaganda</a></li>
+<li><a href="/wiki/Religious_aspects_of_Nazism" title="Religious aspects of Nazism">Religious aspects</a></li>
+<li><a href="/wiki/Women_in_Nazi_Germany" title="Women in Nazi Germany">Women in Nazi Germany</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Nazism_and_race" title="Nazism and race">Race</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Blood_and_Soil" title="Blood and Soil">Blood and Soil</a></li>
+<li><a href="/wiki/Nazi_eugenics" title="Nazi eugenics">Eugenics</a></li>
+<li><a href="/wiki/Greater_Germanic_Reich" title="Greater Germanic Reich">Greater Germanic Reich</a></li>
+<li><a href="/wiki/Heim_ins_Reich" title="Heim ins Reich">Heim ins Reich</a></li>
+<li><a href="/wiki/Lebensborn" title="Lebensborn">Lebensborn</a></li>
+<li><a href="/wiki/Master_race" title="Master race">Master race</a></li>
+<li><a href="/wiki/Racial_policy_of_Nazi_Germany" title="Racial policy of Nazi Germany">Racial policy</a></li>
+<li><a href="/wiki/Religion_in_Nazi_Germany" title="Religion in Nazi Germany">Religion</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Atrocities</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aktion_T4" title="Aktion T4">Action T4</a></li>
+<li><a href="/wiki/Final_Solution" title="Final Solution">Final Solution</a></li>
+<li><a href="/wiki/Nazi_human_experimentation" title="Nazi human experimentation">Human experimentation</a></li>
+<li><a href="/wiki/Porajmos" title="Porajmos">Porajmos</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Outside<br />
+Germany</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Nazism in the United States
+<ul>
+<li><a href="/wiki/American_Nazi_Party" title="American Nazi Party">American Nazi Party</a></li>
+<li><a href="/wiki/German_American_Bund" title="German American Bund">German American Bund</a></li>
+<li><a href="/wiki/National_Socialist_Movement_(United_States)" title="National Socialist Movement (United States)">National Socialist Movement (United States)</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Arrow_Cross_Party" title="Arrow Cross Party">Arrow Cross Party (Hungary)</a></li>
+<li><a href="/wiki/Bulgarian_National_Socialist_Workers_Party" title="Bulgarian National Socialist Workers Party">Bulgarian National Socialist Workers Party</a></li>
+<li><a href="/wiki/German_National_Movement_in_Liechtenstein" title="German National Movement in Liechtenstein">German National Movement in Liechtenstein</a></li>
+<li><a href="/wiki/Greek_National_Socialist_Party" title="Greek National Socialist Party">Greek National Socialist Party</a></li>
+<li><a href="/wiki/South_African_Gentile_National_Socialist_Movement" title="South African Gentile National Socialist Movement">South African Gentile National Socialist Movement</a></li>
+<li><a href="/wiki/Hungarian_National_Socialist_Party" title="Hungarian National Socialist Party">Hungarian National Socialist Party</a></li>
+<li><a href="/wiki/Nasjonal_Samling" title="Nasjonal Samling">Nasjonal Samling (Norway)</a></li>
+<li><a href="/wiki/National_Movement_of_Switzerland" title="National Movement of Switzerland">National Movement of Switzerland</a></li>
+<li><a href="/wiki/National_Socialist_Movement_in_the_Netherlands" title="National Socialist Movement in the Netherlands">National Socialist Movement in the Netherlands</a></li>
+<li><a href="/wiki/National_Socialist_Bloc" title="National Socialist Bloc">National Socialist Bloc (Sweden)</a></li>
+<li><a href="/wiki/National_Socialist_League" title="National Socialist League">National Socialist League (UK)</a></li>
+<li><a href="/wiki/National_Socialist_Movement_of_Chile" title="National Socialist Movement of Chile">National Socialist Movement of Chile</a></li>
+<li><a href="/wiki/National_Socialist_Workers%27_Party_of_Denmark" title="National Socialist Workers' Party of Denmark">National Socialist Workers' Party of Denmark</a></li>
+<li><a href="/wiki/National_Unity_Party_(Canada)" title="National Unity Party (Canada)">National Unity Party (Canada)</a></li>
+<li><a href="/wiki/Nationalist_Liberation_Alliance" title="Nationalist Liberation Alliance">Nationalist Liberation Alliance (Argentina)</a></li>
+<li><a href="/wiki/Nazism_in_Brazil" title="Nazism in Brazil">Nazism in Brazil</a></li>
+<li><a href="/wiki/Ossewabrandwag" title="Ossewabrandwag">Ossewabrandwag (South Africa)</a></li>
+<li><a href="/wiki/World_Union_of_National_Socialists" title="World Union of National Socialists">World Union of National Socialists</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Lists</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_books_by_or_about_Adolf_Hitler" title="List of books by or about Adolf Hitler">Books by or about Hitler</a></li>
+<li><a href="/wiki/List_of_Nazi_ideologues" title="List of Nazi ideologues">Ideologues</a></li>
+<li><a href="/wiki/List_of_Nazi_Party_leaders_and_officials" title="List of Nazi Party leaders and officials">Leaders and officials</a></li>
+<li><a href="/wiki/List_of_Nazis" title="List of Nazis">Nazi Party members</a></li>
+<li><a href="/wiki/List_of_speeches_given_by_Adolf_Hitler" title="List of speeches given by Adolf Hitler">Speeches given by Hitler</a></li>
+<li><a href="/wiki/List_of_SS_personnel" title="List of SS personnel">SS personnel</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">People</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adolf_Hitler" title="Adolf Hitler">Adolf Hitler</a></li>
+<li><a href="/wiki/Joseph_Goebbels" title="Joseph Goebbels">Joseph Goebbels</a></li>
+<li><a href="/wiki/Heinrich_Himmler" title="Heinrich Himmler">Heinrich Himmler</a></li>
+<li><a href="/wiki/Hermann_G%C3%B6ring" title="Hermann Göring">Hermann Göring</a></li>
+<li><a href="/wiki/Martin_Bormann" title="Martin Bormann">Martin Bormann</a></li>
+<li><a href="/wiki/Reinhard_Heydrich" title="Reinhard Heydrich">Reinhard Heydrich</a></li>
+<li><a href="/wiki/Gregor_Strasser" title="Gregor Strasser">Gregor Strasser</a></li>
+<li><a href="/wiki/Otto_Strasser" title="Otto Strasser">Otto Strasser</a></li>
+<li><a href="/wiki/Albert_Speer" title="Albert Speer">Albert Speer</a></li>
+<li><a href="/wiki/Rudolf_Hess" title="Rudolf Hess">Rudolf Hess</a></li>
+<li><a href="/wiki/Ernst_Kaltenbrunner" title="Ernst Kaltenbrunner">Ernst Kaltenbrunner</a></li>
+<li><a href="/wiki/Adolf_Eichmann" title="Adolf Eichmann">Adolf Eichmann</a></li>
+<li><a href="/wiki/Joachim_von_Ribbentrop" title="Joachim von Ribbentrop">Joachim von Ribbentrop</a></li>
+<li><a href="/wiki/Houston_Stewart_Chamberlain" title="Houston Stewart Chamberlain">Houston Stewart Chamberlain</a></li>
+<li><a href="/wiki/Alfred_Rosenberg" title="Alfred Rosenberg">Alfred Rosenberg</a></li>
+<li><a href="/wiki/Wilhelm_Frick" title="Wilhelm Frick">Wilhelm Frick</a></li>
+<li><a href="/wiki/Hans_Frank" title="Hans Frank">Hans Frank</a></li>
+<li><a href="/wiki/Rudolf_H%C3%B6ss" title="Rudolf Höss">Rudolf Höss</a></li>
+<li><a href="/wiki/Josef_Mengele" title="Josef Mengele">Josef Mengele</a></li>
+<li><a href="/wiki/Richard_Walther_Darr%C3%A9" title="Richard Walther Darré">Richard Walther Darré</a></li>
+<li><a href="/wiki/Baldur_von_Schirach" title="Baldur von Schirach">Baldur von Schirach</a></li>
+<li><a href="/wiki/Artur_Axmann" title="Artur Axmann">Artur Axmann</a></li>
+<li><a href="/wiki/Ernst_R%C3%B6hm" title="Ernst Röhm">Ernst Röhm</a></li>
+<li><a href="/wiki/Dietrich_Eckart" title="Dietrich Eckart">Dietrich Eckart</a></li>
+<li><a href="/wiki/Gottfried_Feder" title="Gottfried Feder">Gottfried Feder</a></li>
+<li><a href="/wiki/Ernst_Hanfstaengl" title="Ernst Hanfstaengl">Ernst Hanfstaengl</a></li>
+<li><a href="/wiki/Julius_Streicher" title="Julius Streicher">Julius Streicher</a></li>
+<li><a href="/wiki/Hermann_Esser" title="Hermann Esser">Hermann Esser</a></li>
+<li><a href="/wiki/George_Lincoln_Rockwell" title="George Lincoln Rockwell">George Lincoln Rockwell</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Related<br />
+topics</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Esoteric_Nazism" title="Esoteric Nazism">Esoteric Nazism</a></li>
+<li><a href="/wiki/Far-right_politics" title="Far-right politics">Far-right politics</a></li>
+<li><a href="/wiki/German_resistance_to_Nazism" title="German resistance to Nazism">German resistance</a></li>
+<li><a href="/wiki/Glossary_of_Nazi_Germany" title="Glossary of Nazi Germany">Glossary of Nazi Germany</a></li>
+<li><a href="/wiki/Nazi_salute" title="Nazi salute">Nazi salute</a></li>
+<li><a href="/wiki/Neo-Nazism" title="Neo-Nazism">Neo-Nazism</a></li>
+<li><a href="/wiki/Social_Darwinism" title="Social Darwinism">Social Darwinism</a></li>
+<li><a href="/wiki/Stormfront_(website)" title="Stormfront (website)">Stormfront</a></li>
+<li><a href="/wiki/Swastika" title="Swastika">Swastika</a></li>
+<li><a href="/wiki/V%C3%B6lkisch_movement" title="Völkisch movement">Völkisch movement</a></li>
+<li><i><a href="/wiki/Zweites_Buch" title="Zweites Buch">Zweites Buch</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Nazism" title="Category:Nazism">Category</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Fascism" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Fascism" title="Template:Fascism"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Fascism" title="Template talk:Fascism"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Fascism&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Fascism" style="font-size:114%;margin:0 4em"><a href="/wiki/Fascism" title="Fascism">Fascism</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Theory" style="font-size:114%;margin:0 4em">Theory</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Fascism#Core_tenets" title="Fascism">Core tenets</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Nationalism" title="Nationalism">Nationalism</a></li>
+<li><a href="/wiki/Imperialism" title="Imperialism">Imperialism</a></li>
+<li><a href="/wiki/Authoritarianism" title="Authoritarianism">Authoritarianism</a></li>
+<li><a href="/wiki/One-party_state" title="One-party state">One-party state</a></li>
+<li><a href="/wiki/Dictatorship" title="Dictatorship">Dictatorship</a></li>
+<li><a href="/wiki/Social_Darwinism" title="Social Darwinism">Social Darwinism</a></li>
+<li><a href="/wiki/Social_interventionism" title="Social interventionism">Social interventionism</a></li>
+<li><a href="/wiki/Proletarian_nation" title="Proletarian nation">Proletarian nation</a></li>
+<li><a href="/wiki/Propaganda" title="Propaganda">Propaganda</a></li>
+<li><a href="/wiki/Eugenics" title="Eugenics">Eugenics</a></li>
+<li><a href="/wiki/Hero" title="Hero">Heroism</a></li>
+<li><a href="/wiki/Militarism" title="Militarism">Militarism</a></li>
+<li><a href="/wiki/Economic_interventionism" title="Economic interventionism">Economic interventionism</a></li>
+<li><a href="/wiki/Anti-communism" title="Anti-communism">Anti-communism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Topics</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Definitions_of_fascism" title="Definitions of fascism">Definitions</a></li>
+<li><a href="/wiki/Economics_of_fascism" title="Economics of fascism">Economics</a></li>
+<li><a href="/wiki/Fascism_and_ideology" title="Fascism and ideology">Fascism and ideology</a></li>
+<li><a href="/wiki/List_of_fascist_movements" title="List of fascist movements">Fascism worldwide</a></li>
+<li><a href="/wiki/Fascist_symbolism" title="Fascist symbolism">Symbolism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Ideas</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Actual_idealism" title="Actual idealism">Actual Idealism</a></li>
+<li><a href="/wiki/Class_collaboration" title="Class collaboration">Class collaboration</a></li>
+<li><a href="/wiki/Corporatism" title="Corporatism">Corporatism</a></li>
+<li><a href="/wiki/Heroic_capitalism" title="Heroic capitalism">Heroic capitalism</a></li>
+<li><a href="/wiki/Nazism" title="Nazism">National Socialism</a></li>
+<li><a href="/wiki/National_syndicalism" title="National syndicalism">National syndicalism</a></li>
+<li><a href="/wiki/State_capitalism" title="State capitalism">State capitalism</a></li>
+<li><a href="/wiki/Supercapitalism_(concept_in_Italian_Fascism)" title="Supercapitalism (concept in Italian Fascism)">Supercapitalism</a></li>
+<li><a href="/wiki/Third_Position" title="Third Position">Third Position</a></li>
+<li><a href="/wiki/Totalitarianism" title="Totalitarianism">Totalitarianism</a></li>
+<li><a href="/wiki/Social_order" title="Social order">Social order</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Variants" style="font-size:114%;margin:0 4em">Variants</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Italian_Fascism" title="Italian Fascism">Italian</a></li>
+<li><a href="/wiki/Nazism" title="Nazism">National Socialism</a></li>
+<li><a href="/wiki/Statism_in_Showa_Japan" class="mw-redirect" title="Statism in Showa Japan">Japanese fascism</a></li>
+<li><a href="/wiki/Falangism" title="Falangism">Falangism</a></li>
+<li><a href="/wiki/British_Fascism" title="British Fascism">British</a></li>
+<li><a href="/wiki/Austrofascism" title="Austrofascism">Austrian</a></li>
+<li><a href="/wiki/Metaxism" title="Metaxism">Metaxism</a></li>
+<li><a href="https://pl.wikipedia.org/wiki/Narodowy_radykalizm" class="extiw" title="pl:Narodowy radykalizm">National Radicalism</a></li>
+<li><a href="/wiki/Rexism" class="mw-redirect" title="Rexism">Rexism</a></li>
+<li><a href="/wiki/Clerical_fascism" title="Clerical fascism">Clerical</a></li>
+<li><a href="/wiki/National_Legionary_State" title="National Legionary State">Legionarism</a></li>
+<li><a href="/wiki/Brazilian_Integralism" title="Brazilian Integralism">Integralism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Movements" style="font-size:114%;margin:0 4em">Movements</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Fascism_in_Africa" title="Fascism in Africa">Africa</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Greyshirts" class="mw-redirect" title="Greyshirts">Greyshirts</a></li>
+<li><a href="/wiki/Ossewabrandwag" title="Ossewabrandwag">Ossewabrandwag</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Fascism_in_Asia" title="Fascism in Asia">Asia</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Brit_HaBirionim" title="Brit HaBirionim">Brit HaBirionim</a></li>
+<li><a href="/wiki/Ganap_Party" title="Ganap Party">Ganap Party</a></li>
+<li><a href="/wiki/Sakurakai" title="Sakurakai">Sakurakai</a></li>
+<li><a href="/wiki/T%C5%8Dh%C5%8Dkai" title="Tōhōkai">Tōhōkai</a></li>
+<li><a href="/wiki/Blue_Shirts_Society" title="Blue Shirts Society">Blue Shirts Society</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Fascism_in_Europe" title="Fascism in Europe">Northern / Northwestern Europe</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ailtir%C3%AD_na_hAis%C3%A9irghe" title="Ailtirí na hAiséirghe">Ailtirí na hAiséirghe</a></li>
+<li><a href="/wiki/Black_Front_(Netherlands)" title="Black Front (Netherlands)">Black Front (Netherlands)</a></li>
+<li><a href="/wiki/Blueshirts" title="Blueshirts">Blueshirts</a></li>
+<li><a href="/wiki/Breton_Social-National_Workers%27_Movement" title="Breton Social-National Workers' Movement">Breton Social-National Workers' Movement</a></li>
+<li><a href="/wiki/British_Fascists" title="British Fascists">British Fascists</a></li>
+<li><a href="/wiki/British_People%27s_Party_(1939)" title="British People's Party (1939)">British People's Party (1939)</a></li>
+<li><a href="/wiki/British_Union_of_Fascists" title="British Union of Fascists">British Union of Fascists</a></li>
+<li><a href="/wiki/La_Cagoule" title="La Cagoule">La Cagoule</a></li>
+<li><a href="/wiki/Clerical_People%27s_Party" title="Clerical People's Party">Clerical People's Party</a></li>
+<li><a href="/wiki/Faisceau" title="Faisceau">Faisceau</a></li>
+<li><a href="/wiki/Flemish_National_Union" class="mw-redirect" title="Flemish National Union">Flemish National Union</a></li>
+<li><a href="/wiki/French_Popular_Party" title="French Popular Party">French Popular Party</a></li>
+<li><a href="/wiki/General_Dutch_Fascist_League" title="General Dutch Fascist League">General Dutch Fascist League</a></li>
+<li><a href="/wiki/Imperial_Fascist_League" title="Imperial Fascist League">Imperial Fascist League</a></li>
+<li><a href="/wiki/Lapua_Movement" title="Lapua Movement">Lapua Movement</a></li>
+<li><a href="/wiki/Nasjonal_Samling" title="Nasjonal Samling">Nasjonal Samling</a></li>
+<li><a href="/wiki/National_Corporate_Party" title="National Corporate Party">National Corporate Party</a> (<a href="/wiki/Greenshirts_(National_Corporate_Party)" title="Greenshirts (National Corporate Party)">Greenshirts</a>)</li>
+<li><a href="/wiki/National_Fascisti" title="National Fascisti">National Fascisti</a></li>
+<li><a href="/wiki/Nationalist_Party_(Iceland)" title="Nationalist Party (Iceland)">Nationalist Party (Iceland)</a></li>
+<li><a href="/wiki/National_Socialist_Bloc" title="National Socialist Bloc">National Socialist Bloc</a></li>
+<li><a href="/wiki/National_Socialist_Dutch_Workers_Party" title="National Socialist Dutch Workers Party">National Socialist Dutch Workers Party</a></li>
+<li><a href="/wiki/National_Socialist_League" title="National Socialist League">National Socialist League</a></li>
+<li><a href="/wiki/National_Socialist_Movement_in_the_Netherlands" title="National Socialist Movement in the Netherlands">National Socialist Movement in the Netherlands</a></li>
+<li><a href="/wiki/National_Socialist_Movement_of_Norway" title="National Socialist Movement of Norway">National Socialist Movement of Norway</a></li>
+<li><a href="/wiki/National_Socialist_Workers%27_Party_(Sweden)" title="National Socialist Workers' Party (Sweden)">National Socialist Workers' Party (Sweden)</a></li>
+<li><a href="/wiki/New_Party_(UK)" title="New Party (UK)">New Party (UK)</a></li>
+<li><a href="/wiki/Patriotic_People%27s_Movement_(Finland)" title="Patriotic People's Movement (Finland)">Patriotic People's Movement (Finland)</a></li>
+<li><a href="/wiki/P%C4%93rkonkrusts" title="Pērkonkrusts">Pērkonkrusts</a></li>
+<li><a href="/wiki/Rexism" class="mw-redirect" title="Rexism">Rexism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Fascism_in_Europe" title="Fascism in Europe">Central Europe</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arrow_Cross_Party" title="Arrow Cross Party">Arrow Cross Party</a></li>
+<li><a href="/wiki/Austrian_National_Socialism" title="Austrian National Socialism">Austrian National Socialism</a></li>
+<li><a href="/wiki/Fatherland_Front_(Austria)" title="Fatherland Front (Austria)">Fatherland Front (Austria)</a></li>
+<li><a href="/wiki/Hungarian_National_Socialist_Party" title="Hungarian National Socialist Party">Hungarian National Socialist Party</a></li>
+<li><a href="/wiki/National_Front_(Switzerland)" title="National Front (Switzerland)">National Front (Switzerland)</a></li>
+<li><a href="/wiki/Nazism" title="Nazism">Nazism</a></li>
+<li><a href="/wiki/Nazi_Party" title="Nazi Party">Nazi Party</a></li>
+<li><a href="/wiki/Sudeten_German_Party" title="Sudeten German Party">Sudeten German Party</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Fascism_in_Europe" title="Fascism in Europe">Southern Europe</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Albanian_Fascist_Party" title="Albanian Fascist Party">Albanian Fascist Party</a></li>
+<li><a href="/wiki/Democratic_Fascist_Party" title="Democratic Fascist Party">Democratic Fascist Party</a></li>
+<li><a href="/wiki/Falange_Espa%C3%B1ola_y_de_las_JONS" class="mw-redirect" title="Falange Española y de las JONS">Falange</a></li>
+<li><a href="/wiki/Greek_National_Socialist_Party" title="Greek National Socialist Party">Greek National Socialist Party</a></li>
+<li><a href="/wiki/Italian_Fascism" title="Italian Fascism">Italian Fascism</a></li>
+<li><a href="/wiki/Italian_Social_Republic" title="Italian Social Republic">Italian Social Republic</a></li>
+<li><a href="/wiki/Metaxism" title="Metaxism">Metaxism</a></li>
+<li><a href="/wiki/National_Fascist_Party" title="National Fascist Party">National Fascist Party</a></li>
+<li><a href="/wiki/National_Union_(Portugal)" title="National Union (Portugal)">National Union (Portugal)</a></li>
+<li><a href="/wiki/Republican_Fascist_Party" title="Republican Fascist Party">Republican Fascist Party</a></li>
+<li><a href="/wiki/Sammarinese_Fascist_Party" title="Sammarinese Fascist Party">Sammarinese Fascist Party</a></li>
+<li><a href="/wiki/Usta%C5%A1e" title="Ustaše">Ustaše</a></li>
+<li><a href="/wiki/Yugoslav_National_Movement" title="Yugoslav National Movement">ZBOR</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Fascism_in_Europe" title="Fascism in Europe">Eastern and Southeastern Europe</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bulgarian_National_Socialist_Workers_Party" title="Bulgarian National Socialist Workers Party">Bulgarian National Socialist Workers Party</a></li>
+<li><a href="/wiki/Crusade_of_Romanianism" title="Crusade of Romanianism">Crusade of Romanianism</a></li>
+<li><a href="/wiki/Iron_Guard" title="Iron Guard">Iron Guard</a></li>
+<li><a href="/wiki/National_Fascist_Community" title="National Fascist Community">National Fascist Community</a></li>
+<li><a href="/wiki/National_Fascist_Movement" title="National Fascist Movement">National Fascist Movement</a></li>
+<li><a href="/wiki/National_Italo-Romanian_Cultural_and_Economic_Movement" title="National Italo-Romanian Cultural and Economic Movement">National Italo-Romanian Cultural and Economic Movement</a></li>
+<li><a href="/wiki/National_Social_Movement_(Bulgaria)" title="National Social Movement (Bulgaria)">National Social Movement (Bulgaria)</a></li>
+<li><a href="/wiki/National_Radical_Camp_Falanga" title="National Radical Camp Falanga">National Radical Camp Falanga</a></li>
+<li><a href="/wiki/National_Romanian_Fascio" title="National Romanian Fascio">National Romanian Fascio</a></li>
+<li><a href="/wiki/National_Renaissance_Front" title="National Renaissance Front">National Renaissance Front</a></li>
+<li><a href="/wiki/Ratniks" title="Ratniks">Ratniks (Bulgaria)</a></li>
+<li><a href="/wiki/Romanian_Front" title="Romanian Front">Romanian Front</a></li>
+<li><a href="/wiki/Russian_Fascist_Party" title="Russian Fascist Party">Russian Fascist Party</a></li>
+<li><a href="/wiki/Russian_Women%27s_Fascist_Movement" title="Russian Women's Fascist Movement">Russian Women's Fascist Movement</a></li>
+<li><a href="/wiki/Slovak_People%27s_Party" title="Slovak People's Party">Slovak People's Party</a></li>
+<li><a href="/wiki/Union_of_Bulgarian_National_Legions" title="Union of Bulgarian National Legions">Union of Bulgarian National Legions</a></li>
+<li><a href="/wiki/Vlajka" title="Vlajka">Vlajka</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Fascism_in_North_America" title="Fascism in North America">North America</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fascism_in_Canada" title="Fascism in Canada">Fascism in Canada</a>
+<ul>
+<li><a href="/wiki/Canadian_Union_of_Fascists" title="Canadian Union of Fascists">Canadian Union of Fascists</a></li>
+<li><a href="/wiki/National_Unity_Party_(Canada)" title="National Unity Party (Canada)">Parti national social chrétien</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Gold_shirts" title="Gold shirts">Gold shirts</a></li>
+<li><a href="/wiki/German_American_Bund" title="German American Bund">German American Bund</a></li>
+<li><a href="/wiki/Silver_Legion_of_America" title="Silver Legion of America">Silver Legion of America</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Fascism_in_South_America" title="Fascism in South America">South America</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Falangism_in_Latin_America" title="Falangism in Latin America">Falangism in Latin America</a></li>
+<li><a href="/wiki/Brazilian_Integralism" title="Brazilian Integralism">Brazilian Integralism</a></li>
+<li><a href="/wiki/Bolivian_Socialist_Falange" title="Bolivian Socialist Falange">Bolivian Socialist Falange</a></li>
+<li><a href="/wiki/National_Socialist_Movement_of_Chile" title="National Socialist Movement of Chile">National Socialist Movement of Chile</a></li>
+<li><a href="/wiki/Revolutionary_Union_(Peru)" title="Revolutionary Union (Peru)">Revolutionary Union</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="People" style="font-size:114%;margin:0 4em">People</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abba_Ahimeir" title="Abba Ahimeir">Abba Ahimeir</a></li>
+<li><a href="/wiki/Nimio_de_Anqu%C3%ADn" title="Nimio de Anquín">Nimio de Anquín</a></li>
+<li><a href="/wiki/Sadao_Araki" title="Sadao Araki">Sadao Araki</a></li>
+<li><a href="/wiki/Marc_Augier" title="Marc Augier">Marc Augier</a></li>
+<li><a href="/wiki/Maurice_Bard%C3%A8che" title="Maurice Bardèche">Maurice Bardèche</a></li>
+<li><a href="/wiki/Jacques_Benoist-M%C3%A9chin" title="Jacques Benoist-Méchin">Jacques Benoist-Méchin</a></li>
+<li><a href="/wiki/Henri_B%C3%A9raud" title="Henri Béraud">Henri Béraud</a></li>
+<li><a href="/wiki/Zolt%C3%A1n_B%C3%B6sz%C3%B6rm%C3%A9ny" title="Zoltán Böszörmény">Zoltán Böszörmény</a></li>
+<li><a href="/wiki/Giuseppe_Bottai" title="Giuseppe Bottai">Giuseppe Bottai</a></li>
+<li><a href="/wiki/Robert_Brasillach" title="Robert Brasillach">Robert Brasillach</a></li>
+<li><a href="/wiki/Alphonse_de_Ch%C3%A2teaubriant" title="Alphonse de Châteaubriant">Alphonse de Châteaubriant</a></li>
+<li><a href="/wiki/Corneliu_Zelea_Codreanu" title="Corneliu Zelea Codreanu">Corneliu Zelea Codreanu</a></li>
+<li><a href="/wiki/Gustavs_Celmi%C5%86%C5%A1" title="Gustavs Celmiņš">Gustavs Celmiņš</a></li>
+<li><a href="/wiki/Enrico_Corradini" title="Enrico Corradini">Enrico Corradini</a></li>
+<li><a href="/wiki/Carlo_Costamagna" title="Carlo Costamagna">Carlo Costamagna</a></li>
+<li><a href="/wiki/Richard_Walther_Darr%C3%A9" title="Richard Walther Darré">Richard Walther Darré</a></li>
+<li><a href="/wiki/Marcel_D%C3%A9at" title="Marcel Déat">Marcel Déat</a></li>
+<li><a href="/wiki/L%C3%A9on_Degrelle" title="Léon Degrelle">Léon Degrelle</a></li>
+<li><a href="/wiki/Pierre_Drieu_La_Rochelle" title="Pierre Drieu La Rochelle">Pierre Drieu La Rochelle</a></li>
+<li><a href="/wiki/Gottfried_Feder" title="Gottfried Feder">Gottfried Feder</a></li>
+<li><a href="/wiki/Giovanni_Gentile" title="Giovanni Gentile">Giovanni Gentile</a></li>
+<li><a href="/wiki/Joseph_Goebbels" title="Joseph Goebbels">Joseph Goebbels</a></li>
+<li><a href="/wiki/Hans_F._K._G%C3%BCnther" title="Hans F. K. Günther">Hans F. K. Günther</a></li>
+<li><a href="/wiki/Heinrich_Himmler" title="Heinrich Himmler">Heinrich Himmler</a></li>
+<li><a href="/wiki/Fumimaro_Konoe" title="Fumimaro Konoe">Fumimaro Konoe</a></li>
+<li><a href="/wiki/Adolf_Hitler" title="Adolf Hitler">Adolf Hitler</a></li>
+<li><a href="/wiki/Hideki_Tojo" title="Hideki Tojo">Hideki Tojo</a></li>
+<li><a href="/wiki/Ikki_Kita" title="Ikki Kita">Ikki Kita</a></li>
+<li><a href="/wiki/Vihtori_Kosola" title="Vihtori Kosola">Vihtori Kosola</a></li>
+<li><a href="/wiki/Agostino_Lanzillo" title="Agostino Lanzillo">Agostino Lanzillo</a></li>
+<li><a href="/wiki/Dimitrije_Ljoti%C4%87" title="Dimitrije Ljotić">Dimitrije Ljotić</a></li>
+<li><a href="/wiki/Leopoldo_Lugones" title="Leopoldo Lugones">Leopoldo Lugones</a></li>
+<li><a href="/wiki/Curzio_Malaparte" title="Curzio Malaparte">Curzio Malaparte</a></li>
+<li><a href="/wiki/Ioannis_Metaxas" title="Ioannis Metaxas">Ioannis Metaxas</a></li>
+<li><a href="/wiki/Robert_Michels" title="Robert Michels">Robert Michels</a></li>
+<li><a href="/wiki/Oswald_Mosley" title="Oswald Mosley">Oswald Mosley</a></li>
+<li><a href="/wiki/Benito_Mussolini" title="Benito Mussolini">Benito Mussolini</a></li>
+<li><a href="/wiki/Eoin_O%27Duffy" title="Eoin O'Duffy">Eoin O'Duffy</a></li>
+<li><a href="/wiki/Gear%C3%B3id_%C3%93_Cuinneag%C3%A1in" title="Gearóid Ó Cuinneagáin">Gearóid Ó Cuinneagáin</a></li>
+<li><a href="/wiki/Sergio_Panunzio" title="Sergio Panunzio">Sergio Panunzio</a></li>
+<li><a href="/wiki/Giovanni_Papini" title="Giovanni Papini">Giovanni Papini</a></li>
+<li><a href="/wiki/Ante_Paveli%C4%87" title="Ante Pavelić">Ante Pavelić</a></li>
+<li><a href="/wiki/William_Dudley_Pelley" title="William Dudley Pelley">William Dudley Pelley</a></li>
+<li><a href="/wiki/Alfred_Ploetz" title="Alfred Ploetz">Alfred Ploetz</a></li>
+<li><a href="/wiki/Robert_Poulet" title="Robert Poulet">Robert Poulet</a></li>
+<li><a href="/wiki/Vidkun_Quisling" title="Vidkun Quisling">Vidkun Quisling</a></li>
+<li><a href="/wiki/Jos%C3%A9_Antonio_Primo_de_Rivera" title="José Antonio Primo de Rivera">José Antonio Primo de Rivera</a></li>
+<li><a href="/wiki/Lucien_Rebatet" title="Lucien Rebatet">Lucien Rebatet</a></li>
+<li><a href="/wiki/Dionisio_Ridruejo" title="Dionisio Ridruejo">Dionisio Ridruejo</a></li>
+<li><a href="/wiki/Alfredo_Rocco" title="Alfredo Rocco">Alfredo Rocco</a></li>
+<li><a href="/wiki/Konstantin_Rodzaevsky" title="Konstantin Rodzaevsky">Konstantin Rodzaevsky</a></li>
+<li><a href="/wiki/Alfred_Rosenberg" title="Alfred Rosenberg">Alfred Rosenberg</a></li>
+<li><a href="/wiki/Pl%C3%ADnio_Salgado" title="Plínio Salgado">Plínio Salgado</a></li>
+<li><a href="/wiki/Rafael_S%C3%A1nchez_Mazas" title="Rafael Sánchez Mazas">Rafael Sánchez Mazas</a></li>
+<li><a href="/wiki/Margherita_Sarfatti" title="Margherita Sarfatti">Margherita Sarfatti</a></li>
+<li><a href="/wiki/Carl_Schmitt" title="Carl Schmitt">Carl Schmitt</a></li>
+<li><a href="/wiki/Ardengo_Soffici" title="Ardengo Soffici">Ardengo Soffici</a></li>
+<li><a href="/wiki/Othmar_Spann" title="Othmar Spann">Othmar Spann</a></li>
+<li><a href="/wiki/Ugo_Spirito" title="Ugo Spirito">Ugo Spirito</a></li>
+<li><a href="/wiki/Ferenc_Sz%C3%A1lasi" title="Ferenc Szálasi">Ferenc Szálasi</a></li>
+<li><a href="/wiki/Gonzalo_Torrente_Ballester" title="Gonzalo Torrente Ballester">Gonzalo Torrente Ballester</a></li>
+<li><a href="/wiki/Georges_Valois" title="Georges Valois">Georges Valois</a></li>
+<li><a href="/wiki/Anastasy_Vonsyatsky" title="Anastasy Vonsyatsky">Anastasy Vonsyatsky</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Works" style="font-size:114%;margin:0 4em">Works</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Literature</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;font-style:italic;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/The_Doctrine_of_Fascism" title="The Doctrine of Fascism">The Doctrine of Fascism</a></li>
+<li><span style="font-style:normal;"><a href="/wiki/Fascist_Manifesto" title="Fascist Manifesto">Fascist Manifesto</a></span></li>
+<li><a href="/wiki/Manifesto_of_the_Fascist_Intellectuals" title="Manifesto of the Fascist Intellectuals">Manifesto of the Fascist Intellectuals</a></li>
+<li><a href="/wiki/Mein_Kampf" title="Mein Kampf">Mein Kampf</a></li>
+<li><a href="/wiki/My_Life_(Oswald_Mosley_autobiography)" title="My Life (Oswald Mosley autobiography)">My Life</a></li>
+<li><a href="/wiki/The_Myth_of_the_Twentieth_Century" title="The Myth of the Twentieth Century">The Myth of the Twentieth Century</a></li>
+<li><a href="/wiki/Zweites_Buch" title="Zweites Buch">Zweites Buch</a></li>
+<li><a href="/wiki/Zaveshchanie_russkogo_fashista" class="mw-redirect" title="Zaveshchanie russkogo fashista">Zaveshchanie russkogo fashista</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Periodicals</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;font-style:italic;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/La_Conquista_del_Estado" title="La Conquista del Estado">La Conquista del Estado</a></li>
+<li><a href="/wiki/Das_Reich_(newspaper)" title="Das Reich (newspaper)">Das Reich</a></li>
+<li><a href="/wiki/Der_Angriff" title="Der Angriff">Der Angriff</a></li>
+<li><a href="/wiki/Deutsche_Allgemeine_Zeitung" title="Deutsche Allgemeine Zeitung">Deutsche Allgemeine Zeitung</a></li>
+<li><a href="/wiki/Deutsche_Zeitung_in_Norwegen" title="Deutsche Zeitung in Norwegen">Deutsche Zeitung in Norwegen</a></li>
+<li><a href="/wiki/Deutsche_Zeitung_in_den_Niederlanden" title="Deutsche Zeitung in den Niederlanden">Deutsche Zeitung in den Niederlanden</a></li>
+<li><a href="/w/index.php?title=Figli_d%27Italia&amp;action=edit&amp;redlink=1" class="new" title="Figli d'Italia (page does not exist)">Figli d'Italia</a></li>
+<li><a href="/wiki/Fronten" title="Fronten">Fronten</a></li>
+<li><a href="/wiki/G%C3%A2ndirea" title="Gândirea">Gândirea</a></li>
+<li><a href="/wiki/Giovent%C3%B9_Fascista" title="Gioventù Fascista">Gioventù Fascista</a></li>
+<li><a href="/wiki/Je_suis_partout" title="Je suis partout">Je suis partout</a></li>
+<li><a href="/wiki/La_France_au_travail" title="La France au travail">La France au travail</a></li>
+<li><a href="/wiki/M%C3%BCnchener_Beobachter" title="Münchener Beobachter">Münchener Beobachter</a></li>
+<li><a href="/wiki/Novopress" title="Novopress">Novopress</a></li>
+<li><a href="/wiki/NS_M%C3%A5nedshefte" title="NS Månedshefte">NS Månedshefte</a></li>
+<li><a href="/wiki/Norsk-Tysk_Tidsskrift" title="Norsk-Tysk Tidsskrift">Norsk-Tysk Tidsskrift</a></li>
+<li><a href="/wiki/Das_Schwarze_Korps" title="Das Schwarze Korps">Das Schwarze Korps</a></li>
+<li><a href="/wiki/Der_St%C3%BCrmer" title="Der Stürmer">Der Stürmer</a></li>
+<li><a href="/wiki/Il_Popolo_d%27Italia" title="Il Popolo d'Italia">Il Popolo d'Italia</a></li>
+<li><a href="/wiki/Sfarm%C4%83-Piatr%C4%83" title="Sfarmă-Piatră">Sfarmă-Piatră</a></li>
+<li><a href="/wiki/Signal_(magazine)" title="Signal (magazine)">Signal</a></li>
+<li><a href="/wiki/Vlajka" title="Vlajka">Vlajka</a></li>
+<li><a href="/wiki/V%C3%B6lkischer_Beobachter" title="Völkischer Beobachter">Völkischer Beobachter</a></li>
+<li><a href="/wiki/Nash_Put%27_(newspaper)" title="Nash Put' (newspaper)">Nash Put'</a></li>
+<li><a href="/wiki/Fashist" title="Fashist">Fashist</a></li>
+<li><a href="/wiki/L%27Alba" title="L'Alba">l'Alba</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Film</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;font-style:italic;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Der_Sieg_des_Glaubens" class="mw-redirect" title="Der Sieg des Glaubens">Der Sieg des Glaubens</a></li>
+<li><a href="/wiki/Tag_der_Freiheit:_Unsere_Wehrmacht" title="Tag der Freiheit: Unsere Wehrmacht">Tag der Freiheit: Unsere Wehrmacht</a></li>
+<li><a href="/wiki/Triumph_of_the_Will" title="Triumph of the Will">Triumph of the Will</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Sculpture</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Allach_(porcelain)" title="Allach (porcelain)">Allach</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Related topics</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Nazi_art" class="mw-redirect" title="Nazi art">Art of the Third Reich</a></li>
+<li><a href="/wiki/Fascist_architecture" title="Fascist architecture">Fascist architecture</a></li>
+<li><a href="/wiki/Heroic_realism" title="Heroic realism">Heroic realism</a></li>
+<li><a class="mw-selflink selflink">Nazi architecture</a></li>
+<li><a href="/wiki/Nazism_and_cinema" title="Nazism and cinema">Nazism and cinema</a></li>
+<li><a href="/wiki/Nazi_plunder" title="Nazi plunder">Nazi plunder</a></li>
+<li><a href="/wiki/Syndicalism" title="Syndicalism">Syndicalism</a></li>
+<li><a href="/wiki/Conservatism" title="Conservatism">Conservatism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Organizations" style="font-size:114%;margin:0 4em">Organizations</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Institutional</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ahnenerbe" title="Ahnenerbe">Ahnenerbe</a></li>
+<li><a href="/wiki/Chamber_of_Fasci_and_Corporations" title="Chamber of Fasci and Corporations">Chamber of Fasci and Corporations</a></li>
+<li><a href="/wiki/Grand_Council_of_Fascism" title="Grand Council of Fascism">Grand Council of Fascism</a></li>
+<li><a href="/wiki/Imperial_Way_Faction" title="Imperial Way Faction">Imperial Way Faction</a></li>
+<li><a href="/wiki/Italian_Nationalist_Association" title="Italian Nationalist Association">Italian Nationalist Association</a></li>
+<li><a href="/wiki/Nationalsozialistischer_Reichsbund_f%C3%BCr_Leibes%C3%BCbungen" class="mw-redirect" title="Nationalsozialistischer Reichsbund für Leibesübungen">Nationalsozialistischer Reichsbund für Leibesübungen</a></li>
+<li><a href="/wiki/Quadrumvirs" title="Quadrumvirs">Quadrumvirs</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Activist</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fascist_Union_of_Youth" title="Fascist Union of Youth">Fascist Union of Youth</a></li>
+<li><a href="/wiki/German_American_Bund" title="German American Bund">German American Bund</a></li>
+<li><a href="/wiki/National_Youth_Organisation_(Greece)" title="National Youth Organisation (Greece)">National Youth Organisation (Greece)</a></li>
+<li><a href="/wiki/Russian_Fascist_Organization" title="Russian Fascist Organization">Russian Fascist Organization</a></li>
+<li><a href="/wiki/Union_of_Fascist_Little_Ones" title="Union of Fascist Little Ones">Union of Fascist Little Ones</a></li>
+<li><a href="/wiki/Union_of_Young_Fascists_%E2%80%93_Vanguard_(boys)" title="Union of Young Fascists – Vanguard (boys)">Union of Young Fascists – Vanguard (boys)</a></li>
+<li><a href="/wiki/Union_of_Young_Fascists_%E2%80%93_Vanguard_(girls)" title="Union of Young Fascists – Vanguard (girls)">Union of Young Fascists – Vanguard (girls)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Fascist_paramilitary" title="Fascist paramilitary">Paramilitary</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Albanian_Militia" class="mw-redirect" title="Albanian Militia">Albanian Militia</a></li>
+<li><a href="/wiki/Black_Brigades" title="Black Brigades">Black Brigades</a></li>
+<li><a href="/wiki/Blackshirts" title="Blackshirts">Blackshirts</a></li>
+<li><a href="/wiki/Blueshirts" title="Blueshirts">Blueshirts</a></li>
+<li><a href="/wiki/Einsatzgruppen" title="Einsatzgruppen">Einsatzgruppen</a></li>
+<li><a href="/wiki/Gold_shirts" title="Gold shirts">Gold shirts</a></li>
+<li><a href="/wiki/Iron_Guard" title="Iron Guard">Greenshirts</a></li>
+<li><a href="/wiki/Greyshirts" class="mw-redirect" title="Greyshirts">Greyshirts</a></li>
+<li><a href="/wiki/Hitler_Youth" title="Hitler Youth">Hitler Youth</a></li>
+<li><a href="/wiki/Heimwehr" title="Heimwehr">Heimwehr</a></li>
+<li><a href="/wiki/Iron_Wolf_(organization)" title="Iron Wolf (organization)">Iron Wolf (organization)</a></li>
+<li><a href="/wiki/L%C4%83ncieri" title="Lăncieri">Lăncieri</a></li>
+<li><a href="/wiki/Makapili" title="Makapili">Makapili</a></li>
+<li><a href="/wiki/Silver_Legion_of_America" title="Silver Legion of America">Silver Legion of America</a></li>
+<li><a href="/wiki/Schutzstaffel" title="Schutzstaffel">Schutzstaffel</a></li>
+<li><a href="/wiki/Sturmabteilung" title="Sturmabteilung">Sturmabteilung</a></li>
+<li><a href="/wiki/Waffen-SS" title="Waffen-SS">Waffen-SS</a></li>
+<li><a href="/wiki/Werwolf" title="Werwolf">Werwolf</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">International</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Axis_powers" title="Axis powers">Axis powers</a></li>
+<li><a href="/wiki/NSDAP/AO" title="NSDAP/AO">NSDAP/AO</a></li>
+<li><a href="/wiki/ODESSA" title="ODESSA">ODESSA</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="History" style="font-size:114%;margin:0 4em">History</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1910s</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arditi" title="Arditi">Arditi</a></li>
+<li><a href="/wiki/Fascio" title="Fascio">Fascio</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1920s</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aventine_Secession_(20th_century)" title="Aventine Secession (20th century)">Aventine Secession</a></li>
+<li><a href="/wiki/Acerbo_Law" title="Acerbo Law">Acerbo Law</a></li>
+<li><a href="/wiki/Corfu_incident" title="Corfu incident">Corfu incident</a></li>
+<li><a href="/wiki/March_on_Rome" title="March on Rome">March on Rome</a></li>
+<li><a href="/wiki/Beer_Hall_Putsch" title="Beer Hall Putsch">Beer Hall Putsch</a></li>
+<li><a href="/wiki/Italian_economic_battles" title="Italian economic battles">Italian economic battles</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1930s</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/March_of_the_Iron_Will" title="March of the Iron Will">March of the Iron Will</a></li>
+<li><a href="/wiki/German_federal_election,_November_1932" title="German federal election, November 1932">German federal election, November 1932</a></li>
+<li><a href="/wiki/German_federal_election,_March_1933" title="German federal election, March 1933">German federal election, March 1933</a></li>
+<li><a href="/wiki/Enabling_Act_of_1933" title="Enabling Act of 1933">Enabling Act</a></li>
+<li><a href="/wiki/6_February_1934_crisis" title="6 February 1934 crisis">6 February 1934 crisis</a></li>
+<li><a href="/wiki/1934_Montreux_Fascist_conference" title="1934 Montreux Fascist conference">1934 Montreux Fascist conference</a></li>
+<li><a href="/wiki/Spanish_Civil_War" title="Spanish Civil War">Spanish Civil War</a></li>
+<li><a href="/wiki/4th_of_August_Regime" title="4th of August Regime">4th of August Regime</a></li>
+<li><a href="/wiki/Anti-Comintern_Pact" title="Anti-Comintern Pact">Anti-Comintern Pact</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1940s</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/World_War_II" title="World War II">World War II</a></li>
+<li><a href="/wiki/The_Holocaust" title="The Holocaust">The Holocaust</a></li>
+<li><a href="/wiki/Fall_of_the_Fascist_regime_in_Italy" title="Fall of the Fascist regime in Italy">End in Italy</a></li>
+<li><a href="/wiki/Denazification" title="Denazification">Denazification</a></li>
+<li><a href="/wiki/Nuremberg_Trials" class="mw-redirect" title="Nuremberg Trials">Nuremberg Trials</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Lists" style="font-size:114%;margin:0 4em">Lists</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_anti-fascists" class="mw-redirect" title="List of anti-fascists">Anti-fascists</a></li>
+<li><a href="/wiki/List_of_books_by_or_about_Adolf_Hitler" title="List of books by or about Adolf Hitler">Books about Hitler</a></li>
+<li><a href="/wiki/List_of_British_fascist_parties" title="List of British fascist parties">British fascist parties</a></li>
+<li><a href="/wiki/List_of_fascist_movements_by_country" title="List of fascist movements by country">Fascist movements by country</a>&#160;(<a href="/wiki/List_of_fascist_movements_by_country_A%E2%80%93F" title="List of fascist movements by country A–F">A-F</a></li>
+<li><a href="/wiki/List_of_fascist_movements_by_country_G%E2%80%93M" title="List of fascist movements by country G–M">G-M</a></li>
+<li><a href="/wiki/List_of_fascist_movements_by_country_N%E2%80%93T" title="List of fascist movements by country N–T">N-T</a></li>
+<li><a href="/wiki/List_of_fascist_movements_by_country_U%E2%80%93Z" title="List of fascist movements by country U–Z">U-Z</a>)</li>
+<li><a href="/wiki/List_of_Nazi_ideologues" title="List of Nazi ideologues">Nazi ideologues</a></li>
+<li><a href="/wiki/List_of_Nazi_Party_leaders_and_officials" title="List of Nazi Party leaders and officials">Nazi leaders</a></li>
+<li><a href="/wiki/List_of_speeches_given_by_Adolf_Hitler" title="List of speeches given by Adolf Hitler">Speeches by Hitler</a></li>
+<li><a href="/wiki/List_of_SS_personnel" title="List of SS personnel">SS personnel</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Related_topics" style="font-size:114%;margin:0 4em">Related topics</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alt-right" title="Alt-right">Alt-right</a></li>
+<li><a href="/wiki/Anti-fascism" title="Anti-fascism">Anti-fascism</a></li>
+<li><a href="/wiki/Anti-Nazi_League" title="Anti-Nazi League">Anti-Nazi League</a></li>
+<li><a href="/wiki/Christofascism" title="Christofascism">Christofascism</a></li>
+<li><a href="/wiki/Clerical_fascism" title="Clerical fascism">Clerical fascism</a></li>
+<li><a href="/wiki/Crypto-fascism" title="Crypto-fascism">Cryptofascism</a></li>
+<li><a href="/wiki/Esoteric_Nazism" title="Esoteric Nazism">Esoteric Nazism</a></li>
+<li><a href="/wiki/Fascist_(epithet)" class="mw-redirect" title="Fascist (epithet)">Fascist (epithet)</a></li>
+<li><a href="/wiki/Fascist_mysticism" title="Fascist mysticism">Fascist mysticism</a></li>
+<li><a href="/wiki/Germanisation" title="Germanisation">Germanisation</a></li>
+<li><a href="/wiki/Glossary_of_Nazi_Germany" title="Glossary of Nazi Germany">Glossary of Nazi Germany</a></li>
+<li><a href="/wiki/Nazi_salute" title="Nazi salute">Hitler salute</a></li>
+<li><a href="/wiki/Italianization" title="Italianization">Italianization</a></li>
+<li><a href="/wiki/Italianization_of_South_Tyrol" title="Italianization of South Tyrol">Italianization of South Tyrol</a></li>
+<li><a href="/wiki/Islamofascism" title="Islamofascism">Islamofascism</a></li>
+<li><a href="/wiki/Japanization" title="Japanization">Japanization</a></li>
+<li><a href="/wiki/Ku_Klux_Klan" title="Ku Klux Klan">Ku Klux Klan</a></li>
+<li><a href="/wiki/Neo-fascism" title="Neo-fascism">Neo-fascism</a></li>
+<li><a href="/wiki/Neo-Nazism" title="Neo-Nazism">Neo-Nazism</a></li>
+<li><a href="/wiki/Roman_salute" title="Roman salute">Roman salute</a></li>
+<li><a href="/wiki/Social_fascism" title="Social fascism">Social fascism</a></li>
+<li><a href="/wiki/Synarchism" title="Synarchism">Synarchism</a></li>
+<li><a href="/wiki/Unite_Against_Fascism" title="Unite Against Fascism">Unite Against Fascism</a></li>
+<li><a href="/wiki/V%C3%B6lkisch_movement" title="Völkisch movement">Völkisch movement</a></li>
+<li><a href="/wiki/Women_in_Nazi_Germany" title="Women in Nazi Germany">Women in Nazi Germany</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Category:Fascism" title="Category:Fascism">Category</a></li>
+<li><a href="/wiki/Portal:Fascism" title="Portal:Fascism">Portal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Historicism_and_Revivalism_in_Western_architecture_and_decorative_arts" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Revivals" title="Template:Revivals"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Revivals" title="Template talk:Revivals"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Revivals&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Historicism_and_Revivalism_in_Western_architecture_and_decorative_arts" style="font-size:114%;margin:0 4em"><a href="/wiki/Historicism_(art)" title="Historicism (art)">Historicism</a> and <a href="/wiki/Revivalism_(architecture)" title="Revivalism (architecture)">Revivalism</a> in Western architecture and decorative arts</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">International</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Baroque_Revival_architecture" title="Baroque Revival architecture">Baroque Revival</a></li>
+<li><a href="/wiki/Beaux-Arts_architecture" title="Beaux-Arts architecture">Beaux-Arts</a></li>
+<li><a href="/wiki/Byzantine_Revival_architecture" title="Byzantine Revival architecture">Byzantine Revival</a></li>
+<li><a href="/wiki/Carpenter_Gothic" title="Carpenter Gothic">Carpenter Gothic</a></li>
+<li><a href="/wiki/Egyptian_Revival_architecture" title="Egyptian Revival architecture">Egyptian Revival</a></li>
+<li><a href="/wiki/Gothic_Revival_architecture" title="Gothic Revival architecture">Gothic Revival</a></li>
+<li><a href="/wiki/Greek_Revival_architecture" title="Greek Revival architecture">Greek Revival</a> / <a href="/wiki/Neo-Grec" title="Neo-Grec">Neo-Grec</a></li>
+<li><a href="/wiki/Moorish_Revival_architecture" title="Moorish Revival architecture">Moorish Revival</a></li>
+<li><a href="/wiki/Neoclassical_architecture" title="Neoclassical architecture">Neoclassical</a></li>
+<li><a href="/wiki/New_Classical_Architecture" class="mw-redirect" title="New Classical Architecture">New Classical</a> / <a href="/wiki/Neo-Historism" title="Neo-Historism">Neo-Historism</a></li>
+<li><a href="/wiki/Renaissance_Revival_architecture" title="Renaissance Revival architecture">Renaissance Revival</a>
+<ul>
+<li><a href="/wiki/Ch%C3%A2teauesque" title="Châteauesque">Châteauesque</a></li>
+<li><a href="/wiki/Italianate_architecture" title="Italianate architecture">Italianate</a></li>
+<li><a href="/wiki/Palazzo_style_architecture" title="Palazzo style architecture">Palazzo style</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Romanesque_Revival_architecture" title="Romanesque Revival architecture">Romanesque Revival</a></li>
+<li><a href="/wiki/Second_Empire_architecture" title="Second Empire architecture">Second Empire</a></li>
+<li><a href="/wiki/Spanish_Colonial_Revival_architecture" title="Spanish Colonial Revival architecture">Spanish Colonial Revival</a></li>
+<li><a href="/wiki/Swiss_chalet_style" title="Swiss chalet style">Swiss chalet style</a></li>
+<li><a href="/wiki/Vernacular_architecture" title="Vernacular architecture">Vernacular</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">France</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/French_Renaissance" title="French Renaissance">French Renaissance</a></li>
+<li><a href="/wiki/Henry_II_style" title="Henry II style">Henry II style</a></li>
+<li><a href="/wiki/Louis_XIII_style" title="Louis XIII style">Louis Treize</a></li>
+<li><a href="/wiki/17th-century_French_art#The_court_of_Louis_XIV" title="17th-century French art">Louis Quatorze</a></li>
+<li><a href="/wiki/Louis_Quinze" title="Louis Quinze">Louis Quinze</a></li>
+<li><a href="/wiki/Directoire_style" title="Directoire style">Directoire style</a></li>
+<li><a href="/wiki/Empire_style" title="Empire style">Empire style</a></li>
+<li><a href="/wiki/Napoleon_III_style" title="Napoleon III style">Second Empire</a></li>
+<li><a href="/wiki/Belle_%C3%89poque" title="Belle Époque">Belle Époque</a></li>
+<li><a href="/wiki/Art_Nouveau" title="Art Nouveau">Art Nouveau</a></li>
+<li><a href="/wiki/Art_Deco" title="Art Deco">Art Deco</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Germany, Austria-Hungary</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biedermeier" title="Biedermeier">Biedermeier</a></li>
+<li><a href="/wiki/Gr%C3%BCnderzeit" title="Gründerzeit">Gründerzeit</a></li>
+<li><a class="mw-selflink selflink">Nazi architecture</a></li>
+<li><a href="/wiki/Resort_architecture" title="Resort architecture">Resort style</a></li>
+<li><a href="/wiki/Rundbogenstil" title="Rundbogenstil">Rundbogenstil</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Great Britain</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adam_style" title="Adam style">Adam style</a></li>
+<li><a href="/wiki/Bristol_Byzantine" title="Bristol Byzantine">Bristol Byzantine</a></li>
+<li><a href="/wiki/Edwardian_Baroque_architecture" title="Edwardian Baroque architecture">Edwardian Baroque</a></li>
+<li><a href="/wiki/Indo-Saracenic_Revival_architecture" title="Indo-Saracenic Revival architecture">Indo-Saracenic Revival</a>
+<ul>
+<li>British India</li>
+</ul>
+</li>
+<li><a href="/wiki/Jacobethan" title="Jacobethan">Jacobethan</a></li>
+<li><a href="/wiki/Queen_Anne_style_architecture" title="Queen Anne style architecture">Queen Anne style</a></li>
+<li><a href="/wiki/Regency_architecture" title="Regency architecture">Regency</a></li>
+<li><a href="/wiki/Scottish_baronial_architecture" title="Scottish baronial architecture">Scottish baronial style</a></li>
+<li><a href="/wiki/Tudor_Revival_architecture" title="Tudor Revival architecture">Tudor Revival</a> / <a href="/wiki/Black-and-white_Revival_architecture" title="Black-and-white Revival architecture">Black-and-White Revival</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Greece and Balkans</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mycenaean_Revival_architecture" title="Mycenaean Revival architecture">Mycenaean Revival</a></li>
+<li><a href="/wiki/Serbo-Byzantine_Revival" title="Serbo-Byzantine Revival">Serbo-Byzantine Revival</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Italy</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Stile_umbertino" title="Stile umbertino">Stile umbertino</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Mexico</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mayan_Revival_architecture" title="Mayan Revival architecture">Mayan Revival</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Netherlands</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Traditionalist_School_(architecture)" title="Traditionalist School (architecture)">Traditionalist School</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Nordic countries</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Romantic_style" title="National Romantic style">National Romantic style</a></li>
+<li><a href="/wiki/Dragestil" title="Dragestil">Dragon Style</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Portugal</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pombaline_style" title="Pombaline style">Pombaline</a></li>
+<li><a href="/wiki/Neo-Manueline" title="Neo-Manueline">Neo-Manueline</a></li>
+<li><a href="/wiki/Soft_Portuguese_style" title="Soft Portuguese style">Soft Portuguese style</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Russian Empire and USSR</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Neo-Byzantine_architecture_in_the_Russian_Empire" title="Neo-Byzantine architecture in the Russian Empire">Byzantine Revival</a></li>
+<li><a href="/wiki/Russian_Revival_architecture" title="Russian Revival architecture">Russian Revival</a></li>
+<li><a href="/wiki/Stalinist_architecture" title="Stalinist architecture">Stalinist architecture</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Spain</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Neo-Mud%C3%A9jar" title="Neo-Mudéjar">Neo-Mudéjar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">United States</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jeffersonian_architecture" title="Jeffersonian architecture">Jeffersonian architecture</a></li>
+<li><a href="/wiki/American_Renaissance" title="American Renaissance">American Renaissance</a></li>
+<li><a href="/wiki/Collegiate_Gothic" title="Collegiate Gothic">Collegiate Gothic</a></li>
+<li><a href="/wiki/Colonial_Revival_architecture" title="Colonial Revival architecture">Colonial Revival</a></li>
+<li><a href="/wiki/Federal_architecture" title="Federal architecture">Federal style</a></li>
+<li><a href="/wiki/Greco_Deco" title="Greco Deco">Greco Deco</a></li>
+<li><a href="/wiki/Mediterranean_Revival_architecture" title="Mediterranean Revival architecture">Mediterranean Revival</a></li>
+<li><a href="/wiki/Mission_Revival_architecture" title="Mission Revival architecture">Mission Revival</a></li>
+<li><a href="/wiki/Polish_Cathedral_style" title="Polish Cathedral style">Polish Cathedral style</a></li>
+<li><a href="/wiki/Pueblo_Revival_architecture" title="Pueblo Revival architecture">Pueblo Revival</a></li>
+<li><a href="/wiki/Queen_Anne_style_architecture_in_the_United_States" title="Queen Anne style architecture in the United States">Queen Anne style</a></li>
+<li><a href="/wiki/Richardsonian_Romanesque" title="Richardsonian Romanesque">Richardsonian Romanesque</a></li>
+<li><a href="/wiki/Territorial_Revival_architecture" title="Territorial Revival architecture">Territorial Revival</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<div style="float: right;"><span style="font-size:90%;"><a href="/wiki/Modern_architecture" title="Modern architecture">Modern architecture</a></span>&#160;»</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1276
+Cached time: 20170907141527
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.356 seconds
+Real time usage: 0.432 seconds
+Preprocessor visited node count: 2372/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 224646/2097152 bytes
+Template argument size: 17082/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 0/500
+Lua time usage: 0.142/10.000 seconds
+Lua memory usage: 3.28 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  267.075      1 -total
+ 41.57%  111.012     27 Template:Cite_book
+ 25.86%   69.059      1 Template:Fascism_work
+ 24.27%   64.821      1 Template:Navbox_with_collapsible_groups
+ 17.58%   46.954      7 Template:Navbox
+  7.43%   19.836      1 Template:Revivals
+  6.94%   18.535      1 Template:Nazism
+  6.93%   18.496      1 Template:Commons_category-inline
+  6.18%   16.512      1 Template:Sister-inline
+  5.95%   15.880      1 Template:Reflist
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:49156098-0!canonical and timestamp 20170907141533 and revision id 799400228
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Nazi_architecture&amp;oldid=799400228">https://en.wikipedia.org/w/index.php?title=Nazi_architecture&amp;oldid=799400228</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Architectural_styles" title="Category:Architectural styles">Architectural styles</a></li><li><a href="/wiki/Category:History_of_Berlin" title="Category:History of Berlin">History of Berlin</a></li><li><a href="/wiki/Category:Culture_in_Berlin" title="Category:Culture in Berlin">Culture in Berlin</a></li><li><a href="/wiki/Category:Nazi_architecture" title="Category:Nazi architecture">Nazi architecture</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_refbegin_with_normalfont_parameter" title="Category:Pages using refbegin with normalfont parameter">Pages using refbegin with normalfont parameter</a></li><li><a href="/wiki/Category:CS1_Italian-language_sources_(it)" title="Category:CS1 Italian-language sources (it)">CS1 Italian-language sources (it)</a></li><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Nazi+architecture" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Nazi+architecture" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Nazi_architecture" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Nazi_architecture" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Nazi_architecture">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Nazi_architecture&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Nazi_architecture&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Nazi_architecture" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Nazi_architecture" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Nazi_architecture&amp;oldid=799400228" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Nazi_architecture&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q287025" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Nazi_architecture&amp;id=799400228" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Nazi+architecture">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Nazi+architecture&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DNazi%2Barchitecture%26returnto%3DNazi%2Barchitecture%26oldid%3D799400228%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Nazi_architecture&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Nazi_architecture" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B9%D9%85%D8%A7%D8%B1%D8%A9_%D9%86%D8%A7%D8%B2%D9%8A%D8%A9" title="عمارة نازية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Nasist_memarl%C4%B1%C4%9F%C4%B1" title="Nasist memarlığı – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Nacistick%C3%A1_architektura" title="Nacistická architektura – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Nazistisk_arkitektur" title="Nazistisk arkitektur – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Architektur_in_der_Zeit_des_Nationalsozialismus" title="Architektur in der Zeit des Nationalsozialismus – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Arquitectura_de_la_Alemania_nazi" title="Arquitectura de la Alemania nazi – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Arkitektura_nazi" title="Arkitektura nazi – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%85%D8%B9%D9%85%D8%A7%D8%B1%DB%8C_%D8%AF%D8%B1_%D9%86%D8%A7%D8%B3%DB%8C%D9%88%D9%86%D8%A7%D9%84_%D8%B3%D9%88%D8%B3%DB%8C%D8%A7%D9%84%DB%8C%D8%B3%D9%85" title="معماری در ناسیونال سوسیالیسم – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Architecture_nazie" title="Architecture nazie – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%82%98%EC%B9%98_%EA%B1%B4%EC%B6%95%EB%AC%BC" title="나치 건축물 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Architettura_nazista" title="Architettura nazista – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%93%D7%A8%D7%99%D7%9B%D7%9C%D7%95%D7%AA_%D7%A0%D7%90%D7%A6%D7%99%D7%AA" title="אדריכלות נאצית – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%9C%E1%83%90%E1%83%AA%E1%83%98%E1%83%A1%E1%83%A2%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%90%E1%83%A0%E1%83%A5%E1%83%98%E1%83%A2%E1%83%94%E1%83%A5%E1%83%A2%E1%83%A3%E1%83%A0%E1%83%90" title="ნაცისტური არქიტექტურა – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Nacionalsocializmo_architekt%C5%ABra" title="Nacionalsocializmo architektūra – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Nasjonalsosialistisk_arkitektur" title="Nasjonalsosialistisk arkitektur – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%A2%D1%80%D0%B5%D1%82%D1%8C%D0%B5%D0%B3%D0%BE_%D1%80%D0%B5%D0%B9%D1%85%D0%B0" title="Архитектура Третьего рейха – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Nacistick%C3%A1_architekt%C3%BAra" title="Nacistická architektúra – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Arkitektur_i_Nazityskland" title="Arkitektur i Nazityskland – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Nazi_mimarisi" title="Nazi mimarisi – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q287025#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 7 September 2017, at 14:15.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Nazi_architecture&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.356","walltime":"0.432","ppvisitednodes":{"value":2372,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":224646,"limit":2097152},"templateargumentsize":{"value":17082,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  267.075      1 -total"," 41.57%  111.012     27 Template:Cite_book"," 25.86%   69.059      1 Template:Fascism_work"," 24.27%   64.821      1 Template:Navbox_with_collapsible_groups"," 17.58%   46.954      7 Template:Navbox","  7.43%   19.836      1 Template:Revivals","  6.94%   18.535      1 Template:Nazism","  6.93%   18.496      1 Template:Commons_category-inline","  6.18%   16.512      1 Template:Sister-inline","  5.95%   15.880      1 Template:Reflist"]},"scribunto":{"limitreport-timeusage":{"value":"0.142","limit":"10.000"},"limitreport-memusage":{"value":3443815,"limit":52428800}},"cachereport":{"origin":"mw1276","timestamp":"20170907141527","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":87,"wgHostname":"mw1261"});});</script>
+	</body>
+</html>

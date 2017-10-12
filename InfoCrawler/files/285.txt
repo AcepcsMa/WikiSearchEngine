@@ -1,0 +1,1318 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Fürth - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Fürth","wgTitle":"Fürth","wgCurRevisionId":798721330,"wgRevisionId":798721330,"wgArticleId":610984,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Coordinates on Wikidata","Articles with hAudio microformats","Articles containing Yiddish-language text","Articles with German-language external links","Articles with DMOZ links","Wikipedia articles with VIAF identifiers","Wikipedia articles with GND identifiers","Cities in Bavaria","Fürth","Displaced persons camps in the aftermath of World War II","Holocaust locations in Germany"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Fürth","wgRelevantArticleId":610984,"wgRequestId":"WccUEApAEKsAAE0pt5gAAABI","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":49.466666666667,"lon":11},"wgWikibaseItemId":"Q3075","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/1200px-Germany_adm_location_map.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/F%C3%BCrth"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=F%C3%BCrth&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=F%C3%BCrth&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/F%C3%BCrth"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Fürth rootpage-Fürth skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Fürth</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/F%C3%BCrth_(disambiguation)" class="mw-redirect mw-disambig" title="Fürth (disambiguation)">Fürth (disambiguation)</a>.</div>
+<table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org"><span class="wrap">Fürth</span></span></th>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Fuerth_Suedstadt_Zirndorf_Bridge_from_Alte_Veste_f_sw.jpg" class="image" title="South part of the city, seen from the &quot;Alte Veste&quot; (Zirndorf)"><img alt="South part of the city, seen from the &quot;Alte Veste&quot; (Zirndorf)" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Fuerth_Suedstadt_Zirndorf_Bridge_from_Alte_Veste_f_sw.jpg/250px-Fuerth_Suedstadt_Zirndorf_Bridge_from_Alte_Veste_f_sw.jpg" width="250" height="117" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Fuerth_Suedstadt_Zirndorf_Bridge_from_Alte_Veste_f_sw.jpg/375px-Fuerth_Suedstadt_Zirndorf_Bridge_from_Alte_Veste_f_sw.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Fuerth_Suedstadt_Zirndorf_Bridge_from_Alte_Veste_f_sw.jpg/500px-Fuerth_Suedstadt_Zirndorf_Bridge_from_Alte_Veste_f_sw.jpg 2x" data-file-width="1024" data-file-height="480" /></a>
+<div>South part of the city, seen from the "Alte Veste" (<a href="/wiki/Zirndorf" title="Zirndorf">Zirndorf</a>)</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" class="maptable" style="text-align:center">
+<table style="width:100%; background:none;">
+<tr>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Wappen_F%C3%BCrth.svg" class="image" title="Coat of arms of Fürth "><img alt="Coat of arms of Fürth " src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Wappen_F%C3%BCrth.svg/76px-Wappen_F%C3%BCrth.svg.png" width="76" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Wappen_F%C3%BCrth.svg/114px-Wappen_F%C3%BCrth.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Wappen_F%C3%BCrth.svg/152px-Wappen_F%C3%BCrth.svg.png 2x" data-file-width="500" data-file-height="527" /></a><br />
+<small>Coat of arms</small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div style="width:170px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:170px;padding:0">
+<div style="position:relative;width:170px"><a href="/wiki/File:Germany_adm_location_map.svg" class="image" title="Fürth  is located in Germany"><img alt="Fürth  is located in Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/170px-Germany_adm_location_map.svg.png" width="170" height="202" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/255px-Germany_adm_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/340px-Germany_adm_location_map.svg.png 2x" data-file-width="1073" data-file-height="1272" /></a>
+<div style="position:absolute;top:71.304%;left:55%">
+<div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Fürth " src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" title="Fürth " width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><span style="padding:1px;float:left"><span class="wrap">Fürth</span></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedrow">
+<td colspan="2" style="text-align: center;">
+<div class="NavFrame collapsed" style="border:line;">
+<div class="NavHead" style="background:transparent;text-align:left;height:auto; padding:0.2em; padding-left:0.6em; padding-right:2em;">Location of Fürth in Bavaria&#160;</div>
+<div class="NavContent" style="background:transparent;text-align:left;"><a href="/wiki/File:Bavaria_F%C3%9C_(town).svg" class="image"><img alt="Bavaria FÜ (town).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bavaria_F%C3%9C_%28town%29.svg/250px-Bavaria_F%C3%9C_%28town%29.svg.png" width="250" height="249" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bavaria_F%C3%9C_%28town%29.svg/375px-Bavaria_F%C3%9C_%28town%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bavaria_F%C3%9C_%28town%29.svg/500px-Bavaria_F%C3%9C_%28town%29.svg.png 2x" data-file-width="4944" data-file-height="4924" /></a></div>
+</div>
+</td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=F%C3%BCrth&amp;params=49_28_N_11_0_E_type:city(124171)_region:DE-BY"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°28′N</span> <span class="longitude">11°0′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.467°N 11.000°E</span><span style="display:none">﻿ / <span class="geo">49.467; 11.000</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=F%C3%BCrth&amp;params=49_28_N_11_0_E_type:city(124171)_region:DE-BY"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°28′N</span> <span class="longitude">11°0′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.467°N 11.000°E</span><span style="display:none">﻿ / <span class="geo">49.467; 11.000</span></span></span></a></span></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Country</th>
+<td><a href="/wiki/Germany" title="Germany">Germany</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/States_of_Germany" title="States of Germany">State</a></th>
+<td><a href="/wiki/Bavaria" title="Bavaria">Bavaria</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Regierungsbezirk" title="Regierungsbezirk">Admin. region</a></th>
+<td><a href="/wiki/Middle_Franconia" title="Middle Franconia">Middle Franconia</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Districts_of_Germany" title="Districts of Germany">District</a></th>
+<td><a href="/wiki/Urban_districts_of_Germany" class="mw-redirect" title="Urban districts of Germany">Urban district</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Government</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/Lord_Mayor" class="mw-redirect" title="Lord Mayor">Lord Mayor</a></th>
+<td>Thomas Jung (<a href="/wiki/Social_Democratic_Party_of_Germany" title="Social Democratic Party of Germany">SPD</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Area</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>63.35&#160;km<sup>2</sup> (24.46&#160;sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Elevation</th>
+<td>294&#160;m (965&#160;ft)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(2015-12-31)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>124,171</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Density</th>
+<td>2,000/km<sup>2</sup> (5,100/sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="/wiki/Central_European_Time" title="Central European Time">CET</a>/<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a> (UTC+1/+2)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/List_of_postal_codes_in_Germany" title="List of postal codes in Germany">Postal codes</a></th>
+<td class="adr"><span class="postal-code">90701–90768</span></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/List_of_dialling_codes_in_Germany" title="List of dialling codes in Germany">Dialling codes</a></th>
+<td>0911</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Vehicle_registration_plate" title="Vehicle registration plate">Vehicle registration</a></th>
+<td>FÜ</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.fuerth.de/">www.fuerth.de</a></td>
+</tr>
+</table>
+<p><b>Fürth</b> (<small>German pronunciation:</small> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Standard_German" title="Help:IPA/Standard German">[fʏʁt]</a></span><small class="nowrap metadata">&#160;(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap"><a href="/wiki/File:De-F%C3%BCrth.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a>&#160;</span><a href="//upload.wikimedia.org/wikipedia/commons/0/0e/De-F%C3%BCrth.ogg" class="internal" title="De-Fürth.ogg">listen</a></span></span>)</small>; <a href="/wiki/East_Franconian_German" title="East Franconian German">East Franconian</a>: <i>Färdd</i>; <a href="/wiki/Yiddish_language" class="mw-redirect" title="Yiddish language">Yiddish</a>: <span lang="yi" dir="rtl" xml:lang="yi">פיורדא</span>‎, <i>Fiurda</i>) is a city located in northern <a href="/wiki/Bavaria" title="Bavaria">Bavaria</a>, <a href="/wiki/Germany" title="Germany">Germany</a>, in the administrative division (<i><a href="/wiki/Regierungsbezirk" title="Regierungsbezirk">Regierungsbezirk</a></i><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>) of <a href="/wiki/Middle_Franconia" title="Middle Franconia">Middle Franconia</a>. It is now contiguous with the larger city of <a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a>, the centres of the two cities being only 7&#160;km apart.</p>
+<p>Fürth is one of 23 "major centres" in Bavaria. Fürth, <a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a>, <a href="/wiki/Erlangen" title="Erlangen">Erlangen</a> and some smaller towns form the "Middle Franconian <a href="/wiki/Conurbation" title="Conurbation">Conurbation</a>", which is one of the 11 German metropolitan regions.</p>
+<p>Fürth celebrated its thousandth anniversary in 2007, its first mention being on 1 November 1007.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Geography"><span class="tocnumber">1</span> <span class="toctext">Geography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Neighbouring_municipalities"><span class="tocnumber">1.1</span> <span class="toctext">Neighbouring municipalities</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Parts_of_town"><span class="tocnumber">1.2</span> <span class="toctext">Parts of town</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Expansion"><span class="tocnumber">2.1</span> <span class="toctext">Expansion</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Population_development"><span class="tocnumber">2.2</span> <span class="toctext">Population development</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Religions"><span class="tocnumber">3</span> <span class="toctext">Religions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Christianity"><span class="tocnumber">3.1</span> <span class="toctext">Christianity</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Judaism"><span class="tocnumber">3.2</span> <span class="toctext">Judaism</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Nature"><span class="tocnumber">4</span> <span class="toctext">Nature</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Politics"><span class="tocnumber">5</span> <span class="toctext">Politics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Coat_of_arms"><span class="tocnumber">5.1</span> <span class="toctext">Coat of arms</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Administration"><span class="tocnumber">5.2</span> <span class="toctext">Administration</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#International_relations"><span class="tocnumber">6</span> <span class="toctext">International relations</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Economy_and_infrastructure"><span class="tocnumber">7</span> <span class="toctext">Economy and infrastructure</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Transport"><span class="tocnumber">7.1</span> <span class="toctext">Transport</span></a>
+<ul>
+<li class="toclevel-3 tocsection-17"><a href="#Airports"><span class="tocnumber">7.1.1</span> <span class="toctext">Airports</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="#Rail"><span class="tocnumber">7.1.2</span> <span class="toctext">Rail</span></a></li>
+<li class="toclevel-3 tocsection-19"><a href="#Water_transport"><span class="tocnumber">7.1.3</span> <span class="toctext">Water transport</span></a></li>
+<li class="toclevel-3 tocsection-20"><a href="#Local_public_transport"><span class="tocnumber">7.1.4</span> <span class="toctext">Local public transport</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-21"><a href="#Media"><span class="tocnumber">7.2</span> <span class="toctext">Media</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Companies_in_F.C3.BCrth"><span class="tocnumber">7.3</span> <span class="toctext">Companies in Fürth</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Education"><span class="tocnumber">7.4</span> <span class="toctext">Education</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Municipal_amenities"><span class="tocnumber">7.5</span> <span class="toctext">Municipal amenities</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-25"><a href="#Culture_and_sights"><span class="tocnumber">8</span> <span class="toctext">Culture and sights</span></a>
+<ul>
+<li class="toclevel-2 tocsection-26"><a href="#Theatre"><span class="tocnumber">8.1</span> <span class="toctext">Theatre</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#Pubs.2C_restaurants.2C_shopping_etc."><span class="tocnumber">8.2</span> <span class="toctext">Pubs, restaurants, shopping etc.</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-28"><a href="#Sights"><span class="tocnumber">9</span> <span class="toctext">Sights</span></a>
+<ul>
+<li class="toclevel-2 tocsection-29"><a href="#Monuments"><span class="tocnumber">9.1</span> <span class="toctext">Monuments</span></a></li>
+<li class="toclevel-2 tocsection-30"><a href="#Museums"><span class="tocnumber">9.2</span> <span class="toctext">Museums</span></a></li>
+<li class="toclevel-2 tocsection-31"><a href="#Churches"><span class="tocnumber">9.3</span> <span class="toctext">Churches</span></a></li>
+<li class="toclevel-2 tocsection-32"><a href="#Secular_buildings"><span class="tocnumber">9.4</span> <span class="toctext">Secular buildings</span></a></li>
+<li class="toclevel-2 tocsection-33"><a href="#Parks"><span class="tocnumber">9.5</span> <span class="toctext">Parks</span></a></li>
+<li class="toclevel-2 tocsection-34"><a href="#Regular_events"><span class="tocnumber">9.6</span> <span class="toctext">Regular events</span></a></li>
+<li class="toclevel-2 tocsection-35"><a href="#Prizes_awarded_by_the_town_of_F.C3.BCrth"><span class="tocnumber">9.7</span> <span class="toctext">Prizes awarded by the town of Fürth</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-36"><a href="#Sport_and_leisure"><span class="tocnumber">10</span> <span class="toctext">Sport and leisure</span></a>
+<ul>
+<li class="toclevel-2 tocsection-37"><a href="#Sport"><span class="tocnumber">10.1</span> <span class="toctext">Sport</span></a></li>
+<li class="toclevel-2 tocsection-38"><a href="#Leisure"><span class="tocnumber">10.2</span> <span class="toctext">Leisure</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-39"><a href="#Notable_people_associated_with_F.C3.BCrth"><span class="tocnumber">11</span> <span class="toctext">Notable people associated with Fürth</span></a></li>
+<li class="toclevel-1 tocsection-40"><a href="#Notes"><span class="tocnumber">12</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-41"><a href="#Sources"><span class="tocnumber">13</span> <span class="toctext">Sources</span></a></li>
+<li class="toclevel-1 tocsection-42"><a href="#Further_reading"><span class="tocnumber">14</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-43"><a href="#Literature_.28in_German.29"><span class="tocnumber">15</span> <span class="toctext">Literature <span>(in German)</span></span></a></li>
+<li class="toclevel-1 tocsection-44"><a href="#Literature_.28in_English.29"><span class="tocnumber">16</span> <span class="toctext">Literature <span>(in English)</span></span></a></li>
+<li class="toclevel-1 tocsection-45"><a href="#External_links"><span class="tocnumber">17</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=1" title="Edit section: Geography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Fuerth_Rathaus.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fuerth_Rathaus.jpg/220px-Fuerth_Rathaus.jpg" width="220" height="313" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fuerth_Rathaus.jpg/330px-Fuerth_Rathaus.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fuerth_Rathaus.jpg/440px-Fuerth_Rathaus.jpg 2x" data-file-width="1866" data-file-height="2651" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Fuerth_Rathaus.jpg" class="internal" title="Enlarge"></a></div>
+City Hall, seen from the Schwabacher Straße</div>
+</div>
+</div>
+<p>The historic centre of the town is to the east and south of the rivers <a href="/wiki/Rednitz" title="Rednitz">Rednitz</a> and <a href="/wiki/Pegnitz_River" class="mw-redirect" title="Pegnitz River">Pegnitz</a>, which join to form the <a href="/wiki/Regnitz" title="Regnitz">Regnitz</a> to the northwest of the Old Town. To the west of the town, on the far side of the <a href="/wiki/Main-Danube_Canal" class="mw-redirect" title="Main-Danube Canal">Main-Danube Canal</a>, is the Fürth municipal forest (<i>Fürther Stadtwald</i>). To the east of Fürth, at roughly the same latitude, lies Nuremberg, and to the north is the fertile market-gardening area known as the <i>Knoblauchsland</i> (garlic country), some of which is within the borders of the urban district of Fürth. To the south of the town is an area consisting of wide roads, the canal, and meadows.</p>
+<h3><span class="mw-headline" id="Neighbouring_municipalities">Neighbouring municipalities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=2" title="Edit section: Neighbouring municipalities">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The following towns and municipalities share borders with Fürth; they are listed in clockwise order, starting in the north:</p>
+<p><a href="/wiki/Erlangen" title="Erlangen">Erlangen</a> and <a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a>, which are independent urban districts; <a href="/wiki/Stein,_Bavaria" title="Stein, Bavaria">Stein</a>, <a href="/wiki/Oberasbach" title="Oberasbach">Oberasbach</a>, <a href="/wiki/Zirndorf" title="Zirndorf">Zirndorf</a>, <a href="/wiki/Cadolzburg" title="Cadolzburg">Cadolzburg</a>, Seukendorf, Veitsbronn, and Obermichelbach, which are municipalities within the rural district (<i>Landkreis</i>) of Fürth.</p>
+<h3><span class="mw-headline" id="Parts_of_town">Parts of town</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=3" title="Edit section: Parts of town">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Beyond the town proper, the urban district comprises another 20 localities:</p>
+<div class="div-col columns column-width" style="-moz-column-width: 20em; -webkit-column-width: 20em; column-width: 20em;">
+<ul>
+<li>Atzenhof</li>
+<li>Bislohe</li>
+<li>Braunsbach bei Fürth</li>
+<li>Burgfarrnbach</li>
+<li>Dambach</li>
+<li>Flexdorf</li>
+<li>Herboldshof</li>
+<li>Kronach</li>
+<li>Mannhof</li>
+<li>Oberfürberg</li>
+<li>Poppenreuth</li>
+<li>Ritzmannshof</li>
+<li>Ronhof</li>
+<li>Sack</li>
+<li>Stadeln</li>
+<li>Steinach</li>
+<li>Unterfarrnbach</li>
+<li>Unterfürberg</li>
+<li><a href="/wiki/Vach" title="Vach">Vach</a></li>
+<li>Weikershof</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=4" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The first mention of the settlement of Fürth, which had probably already existed for some time, was in a document dated 1 November 1007, in which the <a href="/wiki/Holy_Roman_Emperor" title="Holy Roman Emperor">Emperor</a> <a href="/wiki/Henry_II,_Holy_Roman_Emperor" title="Henry II, Holy Roman Emperor">Heinrich II</a> donated his property in Fürth to the newly created Bishopric of <a href="/wiki/Bamberg" title="Bamberg">Bamberg</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> The name "Fürth" derives from the German word for "ford", as the first settlements originated around a ford. In the following years, Fürth was granted <a href="/wiki/Market_town" title="Market town">market privileges</a>, but these were later lost to the neighbouring Nuremberg, under <a href="/wiki/Henry_III,_Holy_Roman_Emperor" title="Henry III, Holy Roman Emperor">Heinrich III</a>. From 1062 onward, Fürth was again permitted to have a market, but by that time Nuremberg was already the more important town.</p>
+<p>In the following centuries, the town was under varying authority, involving the <a href="/wiki/Archdiocese_of_Bamberg" class="mw-redirect" title="Archdiocese of Bamberg">Bishopric of Bamberg</a>, the <a href="/wiki/Principality_of_Ansbach" title="Principality of Ansbach">Principality of Ansbach</a> and <a href="/wiki/Free_Imperial_City_of_Nuremberg" title="Free Imperial City of Nuremberg">the City of Nuremberg</a>. For a long time, the character of the settlement remained largely agricultural, and in 1600 the population was probably still only between 1000 and 2000.</p>
+<p>In the <a href="/wiki/Thirty_Years_War" class="mw-redirect" title="Thirty Years War">Thirty Years War</a>, Fürth was almost completely destroyed by fire.</p>
+<p>In 1835, the <a href="/wiki/Bayerische_Ludwigsbahn" class="mw-redirect" title="Bayerische Ludwigsbahn">first German railway</a> was opened between Nuremberg and Fürth.</p>
+<p>Throughout the Cold War, Fürth had a significant <a href="/wiki/NATO" title="NATO">NATO</a> presence, especially the <a href="/wiki/United_States_Army" title="United States Army">U.S. Army</a>, due to its proximity to both the <a href="/wiki/East_Germany" title="East Germany">East German</a> and <a href="/wiki/Czechoslovakia" title="Czechoslovakia">Czech</a> borders.</p>
+<h3><span class="mw-headline" id="Expansion">Expansion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=5" title="Edit section: Expansion">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the course of time, a number of municipalities or other administrative divisions were integrated into the urban district of Fürth:</p>
+<ul>
+<li>1 January 1899: the western part of the municipality of Höfen, including Weikershof (to the south of the Schwabacher Straße)</li>
+<li>1 January 1900: the municipality of Poppenreuth (to the east of the historic centre of the city, on the far side of the river Pegnitz)</li>
+<li>1 January 1901: the municipality of Dambach (to the west of the current Südstadt (South Town), as well as Unterfürberg and Oberfürberg</li>
+<li>1 January 1918: Atzenhof (to the north-west, on the right bank of the River Zenn between Unterfarrnbach and Vach)</li>
+<li>1 January 1918: the municipality of Unterfarrnbach (to the west, on the bank of the river Farrnbach)</li>
+<li>3 December 1923: the municipality of Burgfarrnbach (to the north-west, on the far side of the canal, not contiguous with Fürth proper)</li>
+<li>1 July 1927: the municipality of Ronhof, and Kronach<sup id="cite_ref-Ohm2_4-0" class="reference"><a href="#cite_note-Ohm2-4">[4]</a></sup></li>
+<li>1 July 1972: the municipality of Sack, including Bislohe, which is north of the <i>Knoblauchsland</i> and is not separately listed in official documents.<sup id="cite_ref-Ohm1_5-0" class="reference"><a href="#cite_note-Ohm1-5">[5]</a></sup></li>
+<li>1 July 1972: the municipality of Stadeln<sup id="cite_ref-Ohm1_5-1" class="reference"><a href="#cite_note-Ohm1-5">[5]</a></sup></li>
+<li>1 July 1972: the municipality of <a href="/wiki/Vach" title="Vach">Vach</a><sup id="cite_ref-Ohm1_5-2" class="reference"><a href="#cite_note-Ohm1-5">[5]</a></sup> (to the north of Fürth, west of the rivers Crap and Zenn</li>
+<li>1 July 1972: Herboldshof and Steinach, previously parts of the municipality of Boxdorf <sup id="cite_ref-Ohm1_5-3" class="reference"><a href="#cite_note-Ohm1-5">[5]</a></sup></li>
+</ul>
+<h3><span class="mw-headline" id="Population_development">Population development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=6" title="Edit section: Population development">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Population_Statistics_F%C3%BCrth.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Population_Statistics_F%C3%BCrth.png/300px-Population_Statistics_F%C3%BCrth.png" width="300" height="185" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Population_Statistics_F%C3%BCrth.png/450px-Population_Statistics_F%C3%BCrth.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Population_Statistics_F%C3%BCrth.png/600px-Population_Statistics_F%C3%BCrth.png 2x" data-file-width="910" data-file-height="562" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Population_Statistics_F%C3%BCrth.png" class="internal" title="Enlarge"></a></div>
+Population trend</div>
+</div>
+</div>
+<p>In the <a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a> and early <a href="/wiki/Renaissance" title="Renaissance">Renaissance</a>, the population of Fürth grew slowly, owing to the numerous wars, epidemics and famines. In the <a href="/wiki/Thirty_Years_War" class="mw-redirect" title="Thirty Years War">Thirty Years War</a>, the town lost about half its population. When Croatian soldiers set fire to Fürth in 1634, it burned for several days, and was almost completely destroyed. At the end of the war, the population was a mere 800. In 1685, <a href="/wiki/Reformed_Church_of_France" title="Reformed Church of France">Reformed Christians from France</a>, or <a href="/wiki/Huguenots" title="Huguenots">Huguenots</a>, settled in Fürth. By 1700 the restoration of the town had been completed, and the population rose to about 6000.</p>
+<p>With the beginning of <a href="/wiki/Industrialization" class="mw-redirect" title="Industrialization">industrialization</a> in the 19th century, the population began to increase rapidly. In 1800 Fürth had a population of 12,000; by 1895 it had multiplied fourfold to 47,000. In 1950 the population of the town exceeded 100,000, making it a <i>Großstadt</i>. At the end of 2005, as recorded by the Bavarian Statistical Office (<i>Landesamt für Statistik und Datenverarbeitung</i>), the population (based on principal residence) was 113,076, a historical record. This makes Fürth the second largest town in Middle Franconia, after Nuremberg, and the seventh largest town in Bavaria. As of 2015, the proportion of foreign nationals in Fürth is about 18 percent. <sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<p>The following table shows the population of Fürth over time. Up to 1818 the figures are mainly estimates; after that they are mostly based on <a href="/wiki/Census" title="Census">census</a> results (¹) or official projections from the appropriate statistical offices or the town administration itself.</p>
+<table>
+<tr>
+<td valign="top">
+<table class="wikitable">
+<tr>
+<th style="background:#efefef;">Year</th>
+<th style="background:#efefef;">Population</th>
+</tr>
+<tr>
+<td>1604</td>
+<td align="right">1,600</td>
+</tr>
+<tr>
+<td>1648</td>
+<td align="right">800</td>
+</tr>
+<tr>
+<td>1700</td>
+<td align="right">6,000</td>
+</tr>
+<tr>
+<td>1795</td>
+<td align="right">12,000</td>
+</tr>
+<tr>
+<td>1809</td>
+<td align="right">12,438</td>
+</tr>
+<tr>
+<td>1818</td>
+<td align="right">12,700</td>
+</tr>
+<tr>
+<td>1 July 1830 ¹</td>
+<td align="right">13,900</td>
+</tr>
+<tr>
+<td>1 December 1840 ¹</td>
+<td align="right">15,100</td>
+</tr>
+<tr>
+<td>3 December 1852 ¹</td>
+<td align="right">16,700</td>
+</tr>
+<tr>
+<td>3 December 1855 ¹</td>
+<td align="right">17,341</td>
+</tr>
+<tr>
+<td>3 December 1858 ¹</td>
+<td align="right">18,241</td>
+</tr>
+<tr>
+<td>3 December 1861 ¹</td>
+<td align="right">19,100</td>
+</tr>
+<tr>
+<td>3 December 1864 ¹</td>
+<td align="right">21,100</td>
+</tr>
+<tr>
+<td>3 December 1867 ¹</td>
+<td align="right">22,500</td>
+</tr>
+<tr>
+<td>1 December 1871 ¹</td>
+<td align="right">24,580</td>
+</tr>
+</table>
+</td>
+<td valign="top">
+<table class="wikitable">
+<tr>
+<th style="background:#efefef;">Year</th>
+<th style="background:#efefef;">Population</th>
+</tr>
+<tr>
+<td>1 December 1875 ¹</td>
+<td align="right">27,360</td>
+</tr>
+<tr>
+<td>1 December 1880 ¹</td>
+<td align="right">31,063</td>
+</tr>
+<tr>
+<td>1 December 1885 ¹</td>
+<td align="right">35,455</td>
+</tr>
+<tr>
+<td>1 December 1890 ¹</td>
+<td align="right">43,206</td>
+</tr>
+<tr>
+<td>2 December 1895 ¹</td>
+<td align="right">46,726</td>
+</tr>
+<tr>
+<td>1 December 1900 ¹</td>
+<td align="right">54,144</td>
+</tr>
+<tr>
+<td>1 December 1905 ¹</td>
+<td align="right">60,635</td>
+</tr>
+<tr>
+<td>1 December 1910 ¹</td>
+<td align="right">66,553</td>
+</tr>
+<tr>
+<td>1 December 1916 ¹</td>
+<td align="right">56,967</td>
+</tr>
+<tr>
+<td>5 December 1917 ¹</td>
+<td align="right">57,282</td>
+</tr>
+<tr>
+<td>8 October 1919 ¹</td>
+<td align="right">68,162</td>
+</tr>
+<tr>
+<td>16 June 1925 ¹</td>
+<td align="right">73,693</td>
+</tr>
+<tr>
+<td>16 June 1933 ¹</td>
+<td align="right">77,135</td>
+</tr>
+<tr>
+<td>17 May 1939 ¹</td>
+<td align="right">82,315</td>
+</tr>
+<tr>
+<td>31 December 1945</td>
+<td align="right">86,515</td>
+</tr>
+</table>
+</td>
+<td valign="top">
+<table class="wikitable">
+<tr>
+<th style="background:#efefef;">Year</th>
+<th style="background:#efefef;">Population</th>
+</tr>
+<tr>
+<td>29 October 1946 ¹</td>
+<td align="right">95,369</td>
+</tr>
+<tr>
+<td>13 September 1950 ¹</td>
+<td align="right">99,890</td>
+</tr>
+<tr>
+<td>25 September 1956 ¹</td>
+<td align="right">98,643</td>
+</tr>
+<tr>
+<td>6 June 1961 ¹</td>
+<td align="right">98,332</td>
+</tr>
+<tr>
+<td>31 December 1965</td>
+<td align="right">96,125</td>
+</tr>
+<tr>
+<td>27 May 1970 ¹</td>
+<td align="right">94,774</td>
+</tr>
+<tr>
+<td>31 December 1975</td>
+<td align="right">101,639</td>
+</tr>
+<tr>
+<td>31 December 1980</td>
+<td align="right">99,088</td>
+</tr>
+<tr>
+<td>31 December 1985</td>
+<td align="right">97,331</td>
+</tr>
+<tr>
+<td>25 May 1987 ¹</td>
+<td align="right">97,480</td>
+</tr>
+<tr>
+<td>31 December 1990</td>
+<td align="right">103,362</td>
+</tr>
+<tr>
+<td>31 December 1995</td>
+<td align="right">108,418</td>
+</tr>
+<tr>
+<td>31 December 2000</td>
+<td align="right">110,477</td>
+</tr>
+<tr>
+<td>30 December 2005</td>
+<td align="right">113,459</td>
+</tr>
+<tr>
+<td>31 December 2010</td>
+<td align="right">114,628</td>
+</tr>
+<tr>
+<td>31 December 2015</td>
+<td align="right">126,405</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>¹ Census result</p>
+<p><br /></p>
+<table class="wikitable">
+<tr>
+<th style="background:#efefef;">Rank</th>
+<th style="background:#efefef;">Nationality</th>
+<th style="background:#efefef;">Population (2017)</th>
+</tr>
+<tr>
+<td>1</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800" />&#160;</span><a href="/wiki/Turkey" title="Turkey">Turkey</a></td>
+<td>5,182</td>
+</tr>
+<tr>
+<td>2</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/23px-Flag_of_Greece.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/35px-Flag_of_Greece.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/45px-Flag_of_Greece.svg.png 2x" data-file-width="600" data-file-height="400" />&#160;</span><a href="/wiki/Greece" title="Greece">Greece</a></td>
+<td>2,826</td>
+</tr>
+<tr>
+<td>3</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_SFR_Yugoslavia.svg/23px-Flag_of_SFR_Yugoslavia.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_SFR_Yugoslavia.svg/35px-Flag_of_SFR_Yugoslavia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_SFR_Yugoslavia.svg/46px-Flag_of_SFR_Yugoslavia.svg.png 2x" data-file-width="600" data-file-height="300" />&#160;</span><a href="/wiki/Socialist_Federal_Republic_of_Yugoslavia" title="Socialist Federal Republic of Yugoslavia">Yugoslavia</a></td>
+<td>2,348</td>
+</tr>
+<tr>
+<td>4</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/23px-Flag_of_Romania.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/35px-Flag_of_Romania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/45px-Flag_of_Romania.svg.png 2x" data-file-width="600" data-file-height="400" />&#160;</span><a href="/wiki/Romania" title="Romania">Romania</a></td>
+<td>1,759</td>
+</tr>
+<tr>
+<td>5</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Italy" title="Italy">Italy</a></td>
+<td>1,620</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Religions">Religions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=7" title="Edit section: Religions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:F%C3%BCrth_St_Michael_from_SE.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/F%C3%BCrth_St_Michael_from_SE.jpg/300px-F%C3%BCrth_St_Michael_from_SE.jpg" width="300" height="451" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/F%C3%BCrth_St_Michael_from_SE.jpg/450px-F%C3%BCrth_St_Michael_from_SE.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/F%C3%BCrth_St_Michael_from_SE.jpg/600px-F%C3%BCrth_St_Michael_from_SE.jpg 2x" data-file-width="1688" data-file-height="2536" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:F%C3%BCrth_St_Michael_from_SE.jpg" class="internal" title="Enlarge"></a></div>
+St. Michael, with West Tower</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Christianity">Christianity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=8" title="Edit section: Christianity">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The population of Fürth was originally under the <a href="/wiki/Bishopric_of_W%C3%BCrzburg" title="Bishopric of Würzburg">Bishopric of Würzburg</a> and from 1007 it belonged to the <a href="/wiki/Archdiocese_of_Bamberg" class="mw-redirect" title="Archdiocese of Bamberg">Bishopric of Bamberg</a>. In 1524, as part of the <a href="/wiki/Protestant_Reformation" class="mw-redirect" title="Protestant Reformation">Reformation</a>, it became a <a href="/wiki/Protestant" class="mw-redirect" title="Protestant">Protestant</a> town like Nuremberg, and it remained so for many years. However, because of the connections with Bamberg, there were always some <a href="/wiki/Roman_Catholic_Church" class="mw-redirect" title="Roman Catholic Church">Catholics</a> in the town.</p>
+<p>After 1792, the Protestant congregations in Fürth were under the authority of the Prussian <a href="/wiki/Ansbach" title="Ansbach">Ansbach</a> <a href="/wiki/Consistory_(Protestantism)" title="Consistory (Protestantism)">Consistory</a>, and when <a href="/wiki/Brandenburg-Ansbach" class="mw-redirect" title="Brandenburg-Ansbach">Brandenburg-Ansbach</a> was ceded to Bavaria they became part of the Bavarian Protestant Church, which initially comprised Lutheran and Reformed congregations. The congregations later belonged to the Deanery of Zirndorf. In 1885, Fürth became a deanery (<i>Dekanat</i>), subsidiary to Nuremberg.</p>
+<p>Beside the Bavarian Protestant Church there are also Protestant congregations of free churches in Fürth, e. g. a small congregation of the <a href="/wiki/United_Methodist_Church" title="United Methodist Church">United Methodist Church</a>.</p>
+<p>From the 18th century or earlier, the number of <a href="/wiki/Catholics" class="mw-redirect" title="Catholics">Catholics</a> rose, and in 1829 the first Catholic church since the Reformation was consecrated: the Church of Our Lady. St. Michael Church was originally a Catholic church until taken by the Protestant's during the Reformation. In 1961, Fürth became a Catholic Deanery within the Archdiocese.</p>
+<p>The proportion of Protestants to Catholics in the 20th century was about two to one.</p>
+<h3><span class="mw-headline" id="Judaism">Judaism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=9" title="Edit section: Judaism">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The position enjoyed by Jews in Fürth (compared with other towns) led to the sobriquet "Franconian Jerusalem", though this is based on an older, pejoratively intended reference to Fürth.</p>
+<p><a href="/wiki/Judaism" title="Judaism">Jewish</a> residents are mentioned as early as 1440; in 1528 the <a href="/wiki/Principality_of_Ansbach" title="Principality of Ansbach">Margrave of Ansbach</a>, <a href="/w/index.php?title=George_the_Pious&amp;action=edit&amp;redlink=1" class="new" title="George the Pious (page does not exist)">George the Pious</a>, permitted two Jews, Perman und Uriel, to settle in Fürth (in return for high taxes), and from then on the number of Jewish residents increased.</p>
+<p>By the 17th century, there was a local <a href="/wiki/Yeshiva" title="Yeshiva">Yeshiva</a> (Talmudic academy) of considerable repute, and in 1617, a <a href="/wiki/Synagogue" title="Synagogue">synagogue</a> was built. In 1653, the first Jewish hospital in Germany (and Fürth's first hospital) was built.</p>
+<p>When Emperor <a href="/wiki/Leopold_I,_Holy_Roman_Emperor" title="Leopold I, Holy Roman Emperor">Leopold I</a> deported the Viennese Jews in 1670, many upper-class Jewish families moved to Fürth, and by 1716 there were about 400 Jewish families in the town. In 1807, the proportion of Jews in the overall population was about 19%. Following the <a href="/wiki/Mediatization" class="mw-redirect" title="Mediatization">Mediatization</a> and the Bavarian <i><a href="/w/index.php?title=Judenedikt&amp;action=edit&amp;redlink=1" class="new" title="Judenedikt (page does not exist)">Judenedikt</a></i> (Jewish Edict) of 1813,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> there were more restrictions on Jews. In particular, the <i>Matrikelparagraph</i> provisions prevented Jewish immigration. In 1824, the Talmudic academy was closed. The Bavarian <i><a href="/w/index.php?title=Judenedikt&amp;action=edit&amp;redlink=1" class="new" title="Judenedikt (page does not exist)">Judenedikt</a></i> of 1813, with its restrictions on Jewish life and Jewish immigration was rescinded by the law of 29 June 1851, and further laws dated 16 April 1868, and 22 April 1871, which led to further emancipation of the Jews, and restrictions on residence were removed.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> By 1840, there were 2535 Jews living in Fürth, more than half of all Bavarian Jews.</p>
+<p>In 1862, a Jewish primary school was founded, followed by a secondary school in 1882. The highest number of Jewish residents was reached in 1880, at about 3,300.</p>
+<p>In 1933, there were 1990 Jews in Furth.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-F.C3.BCrther_Shoah-Opfer_1997._p._13_10-0" class="reference"><a href="#cite_note-F.C3.BCrther_Shoah-Opfer_1997._p._13-10">[10]</a></sup> By early 1938 after the rise of the Nazis, there were 1400 Jews in Furth. In November 1938, there were about 1200 when the synagogue was destroyed in the <a href="/wiki/Reichskristallnacht" class="mw-redirect" title="Reichskristallnacht">Kristallnacht</a> pogroms, and 132 Jews were deported to Dachau. All except a handful of those who remained in Fürth after Kristallnacht either fled while they still could (abroad or to other areas in Germany) or were deported to concentration camps and/or death camps; virtually all those who remained in Germany were deported to their deaths. By 1944, perhaps 23 Jews were left in Furth. Overall, 1068 Jews from Furth died in the Holocaust.<sup id="cite_ref-F.C3.BCrther_Shoah-Opfer_1997._p._13_10-1" class="reference"><a href="#cite_note-F.C3.BCrther_Shoah-Opfer_1997._p._13-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<p>After the end of the <a href="/wiki/Second_World_War" class="mw-redirect" title="Second World War">Second World War</a>, a <a href="/wiki/Displaced_persons_camp" title="Displaced persons camp">Displaced persons camp</a> for Jewish Holocaust survivors was established in Fürth (Finkenschlag). In 1945 it housed 850 inhabitants; it was shut down in July 1950.</p>
+<p>There is a memorial to the Jewish community in the Geleitsgasse square, just off Königstrasse. Archaeologists discovered a <a href="/wiki/Mikvah" class="mw-redirect" title="Mikvah">Mikvah</a> (ritual bath) in a house in the centre of Fürth. This building now houses the Jewish Museum of Franconia, which opened in 1998.</p>
+<p>The old Jewish cemetery (Weiherstraße), which was established in 1607, is one of the oldest in Germany. It suffered considerable destruction and desecration during the Nazi regime and the Second World War, but was restored in 1949 and is now one of the best preserved Jewish cemeteries in Germany. A new Jewish cemetery was consecrated in 1880, which has been in use from 1906 to the present day.</p>
+<h2><span class="mw-headline" id="Nature">Nature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=10" title="Edit section: Nature">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The "Nature Trail for Urban Ecology" was established in 1999 (3&#160;km, 10 stops) and expanded in 2003 to include a second route (7&#160;km, 10 stops). Both tours begin at the <a href="/wiki/Stadthalle_(Nuremberg_U-Bahn)" title="Stadthalle (Nuremberg U-Bahn)">Stadthalle underground railway station</a>. Along the nature trail, different habitats and their importance for the flora and fauna of the area are explained (e.g. the churchyard of St. Michael's Church, the municipal cemetery, Scherbsgraben stream). The trail references the designation of some areas as <a href="/wiki/Protected_area" title="Protected area">protected areas</a>, and explains problems of measures that affect the environment, such as river regulation.</p>
+<p>Average sunshine duration is 1766 hours per year.</p>
+<p>The Gustav-Adolf natural spring, near Weikershof, by the River Rednitz was restored in 2000 and a pavilion was erected. Until the 1980s, the spring water, which comes out of the ground at 19&#160;°C, was used for a swimming pool.</p>
+<h2><span class="mw-headline" id="Politics">Politics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=11" title="Edit section: Politics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Coat_of_arms">Coat of arms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=12" title="Edit section: Coat of arms">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Fürth <a href="/wiki/Coat_of_arms" title="Coat of arms">coat of arms</a> depicts a green <a href="/wiki/Trefoil" title="Trefoil">trefoil</a> (three-leaved <a href="/wiki/Clover" title="Clover">clover</a>) on a white (argent) background. The town colours are green and white. The trefoil first appeared on a seal of the governor of the city for the Bamberg Diocese, which depicted a trefoil held by a hand and between two crescents. Its origin is unclear, but the trefoil probably represents the three powers responsible for Fürth during the <a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a> as well as being a symbol of the Trinity. From 1792 onward, there were three trefoils on a triple hill. In 1818, the town acquired a new coat of arms depicting a green trefoil surrounded by an oak branch (acorned). This coat of arms was retained for over 100 years. However, in 1939, the oak branch was removed. At that time, a new flag was introduced; it had two green stripes on a green background and the coat of arms on a green background on the upper part. Later, however, the flag was simplified to the colours white (below) and green (above).</p>
+<h3><span class="mw-headline" id="Administration">Administration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=13" title="Edit section: Administration">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Until the end of the 18th century, the administration of Fürth was in the hands of a representative of the Diocese of Bamberg. Fürth was transferred to Bavaria in 1806; in 1808 it was made a "class II" city<sup id="cite_ref-F.C3.BCrth_de_Hist_12-0" class="reference"><a href="#cite_note-F.C3.BCrth_de_Hist-12">[12]</a></sup> and was under the direct authority of the state. From 1818 Fürth became a "class I" city;<sup id="cite_ref-F.C3.BCrth_de_Hist_12-1" class="reference"><a href="#cite_note-F.C3.BCrth_de_Hist-12">[12]</a></sup> this meant that it was responsible for its own administration.</p>
+<p>Since 2002 Thomas Jung, (<a href="/wiki/Sozialdemokratische_Partei_Deutschlands" class="mw-redirect" title="Sozialdemokratische Partei Deutschlands">SPD</a>), has been the First Mayor.</p>
+<h2><span class="mw-headline" id="International_relations">International relations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=14" title="Edit section: International relations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/List_of_twin_towns_and_sister_cities_in_Germany" title="List of twin towns and sister cities in Germany">List of twin towns and sister cities in Germany</a></div>
+<p>Fürth is <a href="/wiki/Town_twinning" class="mw-redirect" title="Town twinning">twinned</a> with:</p>
+<ul>
+<li><a href="/wiki/File:Flag_of_Scotland.svg" class="image" title="Scotland"><img alt="Scotland" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/20px-Flag_of_Scotland.svg.png" width="20" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/30px-Flag_of_Scotland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/40px-Flag_of_Scotland.svg.png 2x" data-file-width="1000" data-file-height="600" /></a> <a href="/wiki/Paisley,_Renfrewshire" title="Paisley, Renfrewshire">Paisley</a> (<a href="/wiki/Scotland" title="Scotland">Scotland</a>), since 1969</li>
+<li><a href="/wiki/File:Flag_of_France.svg" class="image" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/20px-Flag_of_France.svg.png" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/30px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/40px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a> <a href="/wiki/Limoges" title="Limoges">Limoges</a> (<a href="/wiki/France" title="France">France</a>), since 1992</li>
+<li><a href="/wiki/File:Flag_of_Turkey.svg" class="image" title="Turkey"><img alt="Turkey" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/20px-Flag_of_Turkey.svg.png" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/30px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/40px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800" /></a> <a href="/wiki/Marmaris" title="Marmaris">Marmaris</a> (<a href="/wiki/Turkey" title="Turkey">Turkey</a>), since 1995</li>
+<li><a href="/wiki/File:Flag_of_Greece.svg" class="image" title="Greece"><img alt="Greece" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/20px-Flag_of_Greece.svg.png" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/30px-Flag_of_Greece.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/40px-Flag_of_Greece.svg.png 2x" data-file-width="600" data-file-height="400" /></a> <a href="/wiki/Xylokastro" title="Xylokastro">Xylokastro</a> (<a href="/wiki/Greece" title="Greece">Greece</a>), since 2006 ("friendship" since 2001)</li>
+</ul>
+<h2><span class="mw-headline" id="Economy_and_infrastructure">Economy and infrastructure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=15" title="Edit section: Economy and infrastructure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Atzenhof_muellberg.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Atzenhof_muellberg.jpg/300px-Atzenhof_muellberg.jpg" width="300" height="225" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Atzenhof_muellberg.jpg/450px-Atzenhof_muellberg.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Atzenhof_muellberg.jpg/600px-Atzenhof_muellberg.jpg 2x" data-file-width="1136" data-file-height="852" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Atzenhof_muellberg.jpg" class="internal" title="Enlarge"></a></div>
+Solar power collection on former landfill at Atzenhof</div>
+</div>
+</div>
+<p>As of March 2016, <a href="/wiki/Unemployment" title="Unemployment">unemployment</a> in Fürth was 6.6 percent.</p>
+<p>The toy industry is a major employer in the Fürth economy, with a variety of toy-makers ranging from small crafts to large industrial enterprises.</p>
+<p>Brewing was once important in Fürth. The five large breweries were Humbser, Geismann, Grüner, Evora &amp; Meyer, and Berg Bräu. Around the turn of the 19th century, Fürth was more important than Munich as a "beer town".</p>
+<p><a href="/wiki/KarstadtQuelle" class="mw-redirect" title="KarstadtQuelle">Quelle</a>, once the largest mail-order company in Europe, was based in Fürth before it's insolvency and liquidation in 2009.</p>
+<p>Fürth is also a centre of <a href="/wiki/Solar_energy" title="Solar energy">solar</a> technology. The non-profit organization Solid, a centre for information and demonstration of solar technology, is based here. An average of two megawatt of electricity are fed into the grid on sunny days by Infra Fürth, the local energy utility, using <a href="/wiki/Photovoltaics" title="Photovoltaics">photovoltaic</a> technology. A ground-based plant in Atzenhof located on a former landfill produces 1 MW, the largest individual share.</p>
+<p>A new pumping station was built in 2003 near the confluence of the Pegnitz and Rednitz rivers. It provides artificial irrigation to the <i>Knoblauchsland</i> market garden area to the north-east of the city.</p>
+<h3><span class="mw-headline" id="Transport">Transport</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=16" title="Edit section: Transport">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Airports">Airports</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=17" title="Edit section: Airports">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Europeisk_lufttrafik_1924,_Nordisk_familjebok.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Europeisk_lufttrafik_1924%2C_Nordisk_familjebok.png/220px-Europeisk_lufttrafik_1924%2C_Nordisk_familjebok.png" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Europeisk_lufttrafik_1924%2C_Nordisk_familjebok.png/330px-Europeisk_lufttrafik_1924%2C_Nordisk_familjebok.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/Europeisk_lufttrafik_1924%2C_Nordisk_familjebok.png/440px-Europeisk_lufttrafik_1924%2C_Nordisk_familjebok.png 2x" data-file-width="1117" data-file-height="748" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Europeisk_lufttrafik_1924,_Nordisk_familjebok.png" class="internal" title="Enlarge"></a></div>
+Map of European air traffic 1924 from the Nordisk familjebok</div>
+</div>
+</div>
+<p>In 1914, an aerodrome was built at <a href="/w/index.php?title=Atzenhof&amp;action=edit&amp;redlink=1" class="new" title="Atzenhof (page does not exist)">Atzenhof</a> for the Third Bavarian Army Corps, which was extended in the following years. After the <a href="/wiki/First_World_War" class="mw-redirect" title="First World War">First World War</a>, it became "Fürth–Nuremberg" international airport, which saved it from being completely dismantled. Fürth-Nuremberg Airport was the eighth largest of the 88 German airports. The importance of the airport increased further when <a href="/wiki/Junkers_(Aircraft)" class="mw-redirect" title="Junkers (Aircraft)">Junkers</a> transferred first its central repair workshop, and then the final assembly line for its aircraft from Dessau to Fürth. Under the <a href="/wiki/National_Socialism" class="mw-redirect" title="National Socialism">Nazis</a>, the airport at Atzenhof was expanded and used as a flying school. After Fürth was occupied by Allied troops, the <a href="/wiki/United_States_Army" title="United States Army">US Army</a> used the site as a barracks, until 1993. The US Army built the "Monteith Barracks" golf course on the site and maintained the historic buildings. In 1928, the city of <a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a> took over the main share of the airport's operations. Until civil aviation operations ended in 1933, the airport was called "Nuremberg-Fürth".</p>
+<p>There was a second airport built at Fürth-Hardhöhe called Industrieflughafen Bachmann Blumenthal &amp; Co it existed from 1919 until 6. April 1955 with many stops (because of the second world war).</p>
+<h4><span class="mw-headline" id="Rail">Rail</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=18" title="Edit section: Rail">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The <a href="/wiki/Bayerische_Ludwigsbahn" class="mw-redirect" title="Bayerische Ludwigsbahn">first railway line</a> with steam trains in Germany was between Fürth and Nuremberg, and opened on December 7, 1835. The locomotive, named <i>Adler</i> (Eagle) was built in <a href="/wiki/Newcastle_upon_Tyne" title="Newcastle upon Tyne">Newcastle</a> by <a href="/wiki/George_Stephenson" title="George Stephenson">Stephenson</a>, the builder of the famous <a href="/wiki/Stephenson%27s_Rocket" title="Stephenson's Rocket">Rocket</a>. Nuremberg and Fürth are joined by an <a href="/wiki/Nuremberg_U-Bahn" title="Nuremberg U-Bahn">underground railway (subway)</a> connection. In Fürth there are currently seven underground stations: <a href="/wiki/Stadtgrenze_(Nuremberg_U-Bahn)" title="Stadtgrenze (Nuremberg U-Bahn)">Stadtgrenze</a> (partly in Fürth), <a href="/wiki/Jakobinenstra%C3%9Fe_(Nuremberg_U-Bahn)" title="Jakobinenstraße (Nuremberg U-Bahn)">Jakobinenstraße</a>, <a href="/wiki/F%C3%BCrth_Hauptbahnhof" title="Fürth Hauptbahnhof">Fürth Hauptbahnhof</a>, <a href="/wiki/Rathaus_(Nuremberg_U-Bahn)" title="Rathaus (Nuremberg U-Bahn)">Rathaus</a>, <a href="/wiki/Stadthalle_(Nuremberg_U-Bahn)" title="Stadthalle (Nuremberg U-Bahn)">Stadthalle</a>, <a href="/wiki/Klinikum_(Nuremberg_U-Bahn)" title="Klinikum (Nuremberg U-Bahn)">Klinikum</a>, and <a href="/wiki/Hardh%C3%B6he_(Nuremberg_U-Bahn)" title="Hardhöhe (Nuremberg U-Bahn)">Hardhöhe</a>.</p>
+<p>See also: <a href="/wiki/F%C3%BCrth_Hauptbahnhof" title="Fürth Hauptbahnhof">Fürth Hauptbahnhof</a>, <a href="/wiki/Nuremberg_U-Bahn" title="Nuremberg U-Bahn">Nuremberg U-Bahn</a></p>
+<h4><span class="mw-headline" id="Water_transport">Water transport</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=19" title="Edit section: Water transport">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>A canal between Bamberg and Nuremberg started operation in 1843. There was a port at Poppenreuth. A new canal with a port in Fürth, the <a href="/wiki/Rhine-Main-Danube_Canal" class="mw-redirect" title="Rhine-Main-Danube Canal">Rhine-Main-Danube Canal</a>, was completed in 1992, creating a navigable connection from the Rhine delta in Rotterdam to the Danube Delta on the Black Sea.</p>
+<h4><span class="mw-headline" id="Local_public_transport">Local public transport</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=20" title="Edit section: Local public transport">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Public transport is managed by <i>Infra Fürth</i>.</p>
+<h3><span class="mw-headline" id="Media">Media</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=21" title="Edit section: Media">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <i>Fürther Nachrichten</i> is published <a href="/wiki/Daily_newspaper" class="mw-redirect" title="Daily newspaper">daily</a>. It was first published in 1946 as a local page in <a href="/wiki/N%C3%BCrnberger_Nachrichten" title="Nürnberger Nachrichten">Nürnberger Nachrichten</a>; today it is a separate newspaper but is in fact the same newspaper as <i>Nürnberger Nachrichten</i> with some additional sections for the town and the rural district of Fürth, respectively.</p>
+<p>Another publishing company in Fürth is Computec Media AG, which has a number of publications in the field of electronic entertainment.</p>
+<h3><span id="Companies_in_Fürth"></span><span class="mw-headline" id="Companies_in_F.C3.BCrth">Companies in Fürth</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=22" title="Edit section: Companies in Fürth">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The mail-order business Quelle, now merged with Karstadt to form <a href="/wiki/KarstadtQuelle" class="mw-redirect" title="KarstadtQuelle">KarstadtQuelle</a>, was founded by <a href="/wiki/Gustav_Schickedanz" title="Gustav Schickedanz">Gustav Schickedanz</a> on 26 October 1927. KarstadtQuelle Versicherungen, an insurance arm, was created in 1984.</p>
+<p><a href="/wiki/Grundig" title="Grundig">Grundig</a> had its headquarters and a number of manufacturing plants in Fürth, from the time the company was founded until the middle of 2000. The former headquarters on Kurgartenstraße was converted into a technology park ("Uferstadt Fürth"), and it now accommodates <i>Technikum Neue Materialien</i> (research center into new materials), an institute of the <a href="/wiki/Fraunhofer-Gesellschaft" class="mw-redirect" title="Fraunhofer-Gesellschaft">Fraunhofer-Gesellschaft</a>, Sellbytel (a call centre operation), Computec Media AG, and the Radio Museum.</p>
+<p><a href="/wiki/Siemens_AG" class="mw-redirect" title="Siemens AG">Siemens AG</a>, based in <a href="/wiki/Munich" title="Munich">Munich</a> has several locations in Fürth.</p>
+<p>Uvex headquarters and a manufacturing unit are in Fürth.</p>
+<p>The toy manufacturers <a href="/wiki/Simba_Dickie_Group" title="Simba Dickie Group">Simba Dickie Group</a> (Simba, Dickie, BIG) and Bruder are based in Fürth.</p>
+<p><br /></p>
+<h3><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=23" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In Fürth, there are a total of 22 <a href="/wiki/Grundschule" class="mw-redirect" title="Grundschule">elementary schools</a>. There are also 3 high schools (<a href="/wiki/Gymnasium_(school)" title="Gymnasium (school)"><i>gymnasia</i></a>), in order of foundation: Hardenberg-Gymnasium (1833), Heinrich-Schliemann-Gymnasium (1896), and Helene-Lange-Gymnasium (1907). There are two "commercial" schools (Wirtschaftsschule/Realschule): the Hans Böckler School and the Leopold Ullstein School; there are also a number of vocational schools.</p>
+<p>The siting of <a href="/wiki/Friedrich-Alexander-University,_Erlangen-Nuremberg" class="mw-redirect" title="Friedrich-Alexander-University, Erlangen-Nuremberg">Erlangen-Nuremberg University</a>'s Central Institute for New Materials and Process Technology in Fürth in 2004 makes Fürth a university town.</p>
+<h3><span class="mw-headline" id="Municipal_amenities">Municipal amenities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=24" title="Edit section: Municipal amenities">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>At Scherbsgraben, there was an indoor and an outdoor swimming pool, a diving pool with a 10-metre tower, a large pool for non-swimmers and a sauna. The 50-year-old facilities are currently being completely renovated. When finished, as well as the open-air pool, which was opened in June 2006 with restricted operation, there will also be a new thermal spa (called Fürthermare), which is to open at the end of 2007. When finished, the complex will no longer be run by the municipal authorities but will be completely privatized.</p>
+<p>Fürth has a municipal library, with a number of branches; since 2003 it has been possible to access the catalogue via the Internet. There is a town archive in Burgfarrnbach.</p>
+<h2><span class="mw-headline" id="Culture_and_sights">Culture and sights</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=25" title="Edit section: Culture and sights">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Fuerth_Stadttheater_2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fuerth_Stadttheater_2.jpg/220px-Fuerth_Stadttheater_2.jpg" width="220" height="180" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fuerth_Stadttheater_2.jpg/330px-Fuerth_Stadttheater_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fuerth_Stadttheater_2.jpg/440px-Fuerth_Stadttheater_2.jpg 2x" data-file-width="2390" data-file-height="1956" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Fuerth_Stadttheater_2.jpg" class="internal" title="Enlarge"></a></div>
+Stadttheater Fürth</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Theatre">Theatre</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=26" title="Edit section: Theatre">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The municipal theatre (<i>Stadttheater Fürth</i>) was built by the Viennese theatre architects Fellner &amp; Helmer in the Italian Renaissance and Baroque styles. It is very similar to the municipal theatre of the Ukrainian town of <a href="/wiki/Chernivtsi" title="Chernivtsi">Chernivtsi</a>, which was designed by the same architects.</p>
+<p>Another playhouse, the Comödie Fürth, is now housed in the <a href="/wiki/Art_Nouveau" title="Art Nouveau">Jugendstil</a> building known as the <i>Berolzheimerianum</i>. Regular appearances are made by the Franconian cult comedians Volker Heißmann and Martin Rassau, better known by their <i>alter ego</i>s Waltraud and Mariechen. The playhouse hosts other appearances by German stars of comedy theatre.</p>
+<h3><span id="Pubs,_restaurants,_shopping_etc."></span><span class="mw-headline" id="Pubs.2C_restaurants.2C_shopping_etc.">Pubs, restaurants, shopping etc.</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=27" title="Edit section: Pubs, restaurants, shopping etc.">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Fürth's main district for eating out and drinking is around the Gustavstraße, which is in the Old Town, near the Rathaus. There are many small pubs, cafés and cocktail bars, as well as restaurants serving Franconian cuisine. Esp. in suburbs und Stadtwald are some traditional franconian restaurants with beer garden / open air area.</p>
+<p>Shopping facilities in Fürth include two malls City Center and Neue Mitte as well as many retail shops and an open market.</p>
+<h2><span class="mw-headline" id="Sights">Sights</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=28" title="Edit section: Sights">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Monuments">Monuments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=29" title="Edit section: Monuments">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Fuerth_gauklerbrunnen_v_so.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Fuerth_gauklerbrunnen_v_so.jpg/300px-Fuerth_gauklerbrunnen_v_so.jpg" width="300" height="225" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Fuerth_gauklerbrunnen_v_so.jpg/450px-Fuerth_gauklerbrunnen_v_so.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Fuerth_gauklerbrunnen_v_so.jpg/600px-Fuerth_gauklerbrunnen_v_so.jpg 2x" data-file-width="800" data-file-height="600" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Fuerth_gauklerbrunnen_v_so.jpg" class="internal" title="Enlarge"></a></div>
+Gauklerbrunnen at the "Grüner Markt", 2004</div>
+</div>
+</div>
+<p>Fürth survived the Second World War with less damage than most German cities, and many historic buildings remain. Fürth has a very high density of historic buildings and monuments per head of population (17 per 1000 inhabitants).</p>
+<p>The city centre is typified by the streets with intact architecture from the 19th and early 20th centuries. In the old town, around the Church of St. Michael, there are ensembles of buildings from the 17th and 18th centuries. Of particular note is the Hornschuch Promenade with <i><a href="/wiki/Gr%C3%BCnderzeit" title="Gründerzeit">Gründerzeit</a></i> and <i><a href="/wiki/Jugendstil" class="mw-redirect" title="Jugendstil">Jugendstil</a></i> apartment houses. The <i>Südstadt</i>, the southern part of the town, also has many historic buildings, but these tend to be former workers' tenements, so the house fronts are less grand. A lot of frame and freestones houses from 17.-19. century can be found in quarters and suburbs, f.e. Poppenreuth, Burgfarrnbach, Vach and Dambach.</p>
+<p>The Rathaus, built in the Italian style by <a href="/wiki/Friedrich_B%C3%BCrklein" title="Friedrich Bürklein">Friedrich Bürklein</a> between 1840 and 1850, is modelled on the <a href="/wiki/Palazzo_Vecchio" title="Palazzo Vecchio">Palazzo Vecchio</a> in <a href="/wiki/Florence" title="Florence">Florence</a>.</p>
+<h3><span class="mw-headline" id="Museums">Museums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=30" title="Edit section: Museums">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>The Jewish Museum in Franconia' (Königstraße 89), which also has a branch in <a href="/wiki/Schnaittach" title="Schnaittach">Schnaittach</a>, was opened in 1999. The main part of the house goes back to the 17th century; Jewish families lived here until the late 19th century. The stucco ceilings, a historic <a href="/wiki/Sukkah" title="Sukkah">Sukkah</a> and a <a href="/wiki/Mikvah" class="mw-redirect" title="Mikvah">Mikvah</a> in the basement have remained intact. The museum is also meant to be a meeting place, and has a bookshop and a cafeteria.</li>
+<li><i>Fürth Radio museum</i> (Kurgartenstraße 37)</li>
+<li><i>Stadtmuseum</i> (Municipal/Town Museum), (Ottostr.2) at former Otto schoolhouse shows a lot of town history in a permanent exhibition and alternating special exhibitions</li>
+<li>The <i>kunst galerie fürth</i> (Königsplatz 1), which was opened at the end of 2002, is a place for modern art, with varying exhibitions.</li>
+<li>The Jakob-Henle-Haus houses a collection of dialysis technology.</li>
+</ul>
+<h3><span class="mw-headline" id="Churches">Churches</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=31" title="Edit section: Churches">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Evangelical_Church_in_Germany" title="Evangelical Church in Germany">Protestant</a> Church of St. Michael is the oldest building in Fürth. Its beginnings go back to around 1100, the 45-metre (150&#160; ft) tower was added around 1400 at the beginning of the Late Gothic period, and most of the building work was carried out in the 15th century. The interior of the church is mainly Neo-Gothic in character, with most of the Late Gothic ornaments having been replaced in the 19th century. The only remaining late Gothic ornament is the <a href="/wiki/Church_tabernacle" title="Church tabernacle">tabernacle</a> on the North wall; it is 6.8&#160;metres (22&#160;ft&#160;4 in) high and was probably created around 1500-1510 by artists near to <a href="/wiki/Adam_Kraft" title="Adam Kraft">Adam Kraft</a>. It is the church's most valuable work of art. Other churches with gothic parts from 14.-16. century are St.Johannis in Burgfarrnbach, St.Peter and Paul in Poppenreuth and St.Matthäus in Vach. St. Peter and Paul probably has some older parts, the previous building was probably founded around 900 - 1000 and was mother Church of many other churches f.e. St.Sebald in Nuremberg.</p>
+<p>The <a href="/wiki/Roman_Catholic_Church" class="mw-redirect" title="Roman Catholic Church">Catholic</a> Church of Our Lady (1824-1828) is a Classical building, as is the Protestant "Church of the Resurrection" (1825/26), originally belonging to the cemetery and therefore aligned in a north-south direction. In the Südstadt area are the <a href="/wiki/Neo-Gothic" class="mw-redirect" title="Neo-Gothic">Neo-Gothic</a> Church of St. Paul and the <a href="/wiki/Baroque_Revival_architecture" title="Baroque Revival architecture">Neo-Baroque</a> Church of St. Henry and Kunigunde. Other churches include the Catholic Church of Christ the King (<i>Christkönig</i>), which was built in the 1970s.</p>
+<h3><span class="mw-headline" id="Secular_buildings">Secular buildings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=32" title="Edit section: Secular buildings">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Hotel_Pyramide_Fuerth.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hotel_Pyramide_Fuerth.jpg/220px-Hotel_Pyramide_Fuerth.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hotel_Pyramide_Fuerth.jpg/330px-Hotel_Pyramide_Fuerth.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hotel_Pyramide_Fuerth.jpg/440px-Hotel_Pyramide_Fuerth.jpg 2x" data-file-width="1999" data-file-height="1499" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Hotel_Pyramide_Fuerth.jpg" class="internal" title="Enlarge"></a></div>
+<i>Hotel-Pyramide</i> on the east bank of the Rhine-Main-Danube Canal with a glass outside facade</div>
+</div>
+</div>
+<p>The renovated <b>Liershof</b> was built in 1621 as a two-story stone-block building with high house ends and a two-story timber-framed spire.</p>
+<p>The <b>Lochnersche Gartenhaus</b> (Theaterstraße 33) was built about 1700; the polygonal staircase tower was probably added about 1750.</p>
+<p><b>Fürth Rathaus (Town Hall)</b>, with its 55 m high tower in the Italian style, was built in 1840-50 by Georg Friedrich Christian Bürklein with the help of Eduard Bürklein, both students of Friedrich von Gärtner. The tower is modelled on the <a href="/wiki/Palazzo_Vecchio" title="Palazzo Vecchio">Palazzo Vecchio</a> in <a href="/wiki/Florence" title="Florence">Florence</a> and is now the main landmark of Fürth. The Rathaus was built after Fürth was granted the right to self-administration.</p>
+<p>The <b>station building</b> of the historic main rail station was designed by Eduard Rüber and built in 1863/1864. in front of main station is <b>Centaurenbrunnen</b>, in naturalistic and neo baroque style. 1890 it was created by Rudolf Maison and was built to celebrate railway and water supply in Fürth.</p>
+<p>The former abattoir, now a "cultural" centre is to be found below the <i>Stadthalle</i> near the River Rednitz.</p>
+<p>On the Schwabacher Straße is a brewery with buildings from the beginning of the 20th century.</p>
+<p>The <b>Gauklerbrunnen</b>, (2004), created by Harro Frey at the Grüner Markt is the most recent fountain in Fürth; it comprises 3 independent groups of figures, two of which are connected by water elements.</p>
+<p><b>Schloss Burgfarrnbach (Burgfarrnbach Palace)</b> built in 1830 - 1834 is South Germany's largest neo-classical palace. It was built by Leonhard Schmidtner as residence for the counts of Pückler-Limpurg. Since the 1980s it is used as municipal archive, academic library, for concerts and special exhibitions and Stadtmuseum depot.</p>
+<p><b>Schloss Steinach</b> is a manor house from 17. century.</p>
+<h3><span class="mw-headline" id="Parks">Parks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=33" title="Edit section: Parks">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <b>Stadtpark</b> (municipal park) is by the Pegnitz and there is a gradual transition to the water meadows further down the river. As well as paths and park benches, the park offers duck ponds, a children's playground, a minigolf course, a rose garden, a grassland orchard laid out in 2001, a few statues, and a botanical educational (school project) garden.</p>
+<p>In the latter half of 2004 the <b>Südstadtpark</b>, on a former barracks, was opened to the public.</p>
+<h3><span class="mw-headline" id="Regular_events">Regular events</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=34" title="Edit section: Regular events">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>May: Burgfarrnbach fair (<i>Bürgerfest</i>)</li>
+<li>Spring: International Klezmer Festival</li>
+<li>Spring and Autumn: <i>Grafflmarkt</i> <a href="/wiki/Flea_market" title="Flea market">flea market</a></li>
+<li>Summer: Fürth Festival (in town centre)</li>
+<li>Summer:<a rel="nofollow" class="external text" href="http://www.fuerthwiki.de/wiki/index.php?title=Gr%C3%BCne_Nacht_am_Gr%C3%BCnen_Markt">Grüne Nacht</a> (Green Night) - local Folk &amp; Blues Festival at "Grüner Markt" (market place)</li>
+<li>Summer: New Orleans Festival at "Fürther Freiheit"</li>
+<li>Summer: Hardhöhe festival</li>
+<li>Summer: saints' day fairs in various locations (fairs to celebrate the consecration of the local church)</li>
+<li>September/October: <i>Michaeliskirchweih</i> fair. This is one of the largest of such events in Bavaria, and also the largest and most important festivals in Fürth, it has been going on for more than 800 years. It starts on September 29 (<a href="/wiki/Michaelmas" title="Michaelmas">Michaelmas</a>), if it is a Saturday, or on the first Saturday following September 29). It usually lasts 12 days. In 2007 it lasted 16 days in celebration of Fürth's 1000th anniversary.</li>
+<li>December: Christmas market (<i>Weihnachtsmarkt</i>) at <i>Fürther Freiheit</i></li>
+<li>December: Old Town Christmas (<i>Altstadtweihnacht</i>) organized by the Old Town Association ( <i>Altstadtverein</i>) at <i>Waagplatz</i>.</li>
+</ul>
+<h3><span id="Prizes_awarded_by_the_town_of_Fürth"></span><span class="mw-headline" id="Prizes_awarded_by_the_town_of_F.C3.BCrth">Prizes awarded by the town of Fürth</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=35" title="Edit section: Prizes awarded by the town of Fürth">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Every two years, since 1996, Fürth has awarded the Jakob-Wassermann prize, a prize for literature in honour of Fürth's famous author <a href="/wiki/Jakob_Wassermann" title="Jakob Wassermann">Jakob Wassermann</a>.</p>
+<h2><span class="mw-headline" id="Sport_and_leisure">Sport and leisure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=36" title="Edit section: Sport and leisure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Sport">Sport</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=37" title="Edit section: Sport">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the sporting world, Fürth came to fame through its football club <i>SpVgg Fürth</i>, which was German <a href="/wiki/Association_football" title="Association football">football</a> champion three times. Since merging with the football section of TSV Vestenbergsgreuth the club is now called <a href="/wiki/SpVgg_Greuther_F%C3%BCrth" title="SpVgg Greuther Fürth">SpVgg Greuther Fürth</a>. After winning the <a href="/wiki/2._Fu%C3%9Fball-Bundesliga" class="mw-redirect" title="2. Fußball-Bundesliga">2nd Bundesliga</a> in <a href="/wiki/2011%E2%80%9312_2._Fu%C3%9Fball-Bundesliga" class="mw-redirect" title="2011–12 2. Fußball-Bundesliga">2011-12</a>, the team moved up to the top level <a href="/wiki/2012%E2%80%9313_Fu%C3%9Fball-Bundesliga" class="mw-redirect" title="2012–13 Fußball-Bundesliga">Bundesliga</a> for the first time. The football stadium is in Ronhof (<a href="/wiki/Stadion_am_Laubenweg" class="mw-redirect" title="Stadion am Laubenweg">Stadion am Laubenweg</a>).</p>
+<p>The <a href="/wiki/Baseball" title="Baseball">baseball</a> team Fürth Pirates was promoted to the premier national baseball league in 2002 and became vice-champion in the 2004 season.</p>
+<p>Each August, Fürth plays host to the annual <a href="/wiki/Paul_Hunter_Classic" title="Paul Hunter Classic">Paul Hunter Classic</a>, which is now a pro-am minor ranking <a href="/wiki/Snooker" title="Snooker">snooker</a> event and part of the European <a href="/wiki/Players_Tour_Championship" title="Players Tour Championship">Players Tour Championship</a>.</p>
+<h3><span class="mw-headline" id="Leisure">Leisure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=38" title="Edit section: Leisure">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The largest public barbecue area within Fürth is on the Rednitz, near the railway line to <a href="/wiki/W%C3%BCrzburg" title="Würzburg">Würzburg</a> and the swimming pool. It is shaded by trees and has barbecue facilities and fixed seating.</p>
+<p>There are minigolf courses in the Stadtpark, by the <a href="/wiki/Rhine-Main-Danube_Canal" class="mw-redirect" title="Rhine-Main-Danube Canal">Rhine-Main-Danube Canal</a>, near Burgfarrnbach, and by the Pegnitz, a little upstream from the confluence with the Rednitz and near the municipal cemetery.</p>
+<h2><span id="Notable_people_associated_with_Fürth"></span><span class="mw-headline" id="Notable_people_associated_with_F.C3.BCrth">Notable people associated with Fürth</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=39" title="Edit section: Notable people associated with Fürth">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Jakob_Henle_Litho.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Jakob_Henle_Litho.jpg/150px-Jakob_Henle_Litho.jpg" width="150" height="199" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Jakob_Henle_Litho.jpg/225px-Jakob_Henle_Litho.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Jakob_Henle_Litho.jpg/300px-Jakob_Henle_Litho.jpg 2x" data-file-width="1155" data-file-height="1533" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Jakob_Henle_Litho.jpg" class="internal" title="Enlarge"></a></div>
+Jakob Henle</div>
+</div>
+</div>
+<ul>
+<li><a href="/w/index.php?title=John_P._Bauer&amp;action=edit&amp;redlink=1" class="new" title="John P. Bauer (page does not exist)">John P. Bauer</a>, (1925-&#160;; born in Fürth), food industry trader and executive.</li>
+<li><a href="/wiki/Max_Bernstein" title="Max Bernstein">Max Bernstein</a>, (1854–1925; born in Fürth), lawyer, art- and theatre critic and author.</li>
+<li><a href="/wiki/Hans_B%C3%B6ckler" title="Hans Böckler">Hans Böckler</a> (1875–1951), German politician (SPD) and union leader.</li>
+<li><a href="/wiki/Hermann_Boehm_(eugenicist)" title="Hermann Boehm (eugenicist)">Hermann Boehm</a> (1884-1962), <a href="/wiki/Eugenics" title="Eugenics">eugenics</a>, doctor, professor of "<a href="/wiki/Racial_hygiene" title="Racial hygiene">eugenics</a>" and organizational structure of the SS Overview ranks SA-sanitary group leader in the Nazi era</li>
+<li><a href="/wiki/Sandra_Bullock" title="Sandra Bullock">Sandra Bullock</a> (1964-&#160;; lived in Fürth), actress</li>
+<li><a href="/wiki/Ludwig_Erhard" title="Ludwig Erhard">Ludwig Erhard</a> (1897–1977; born in Fürth), politician (CDU), former German chancellor</li>
+<li><a href="/wiki/Roger_C._Field" title="Roger C. Field">Roger C. Field</a> (1945-&#160;; lived in Fürth for three years), inventor, designer</li>
+<li><a href="/wiki/Max_Grundig" title="Max Grundig">Max Grundig</a> (1908–1989; lived in Fürth), founder of electronics company <a href="/wiki/Grundig" title="Grundig">Grundig</a>.</li>
+<li><a href="/wiki/Jakob_Henle" class="mw-redirect" title="Jakob Henle">Jakob Henle</a> (1809-1885), anatomist, pathologist and doctor</li>
+<li><a href="/wiki/Ralph_F._Hirschmann" title="Ralph F. Hirschmann">Ralph F. Hirschmann</a> (1922–2009), <a href="/wiki/Biochemist" title="Biochemist">biochemist</a> who led synthesis of the first enzyme.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></li>
+<li><a href="/wiki/Heinrich_Hoffmann_(photographer)" title="Heinrich Hoffmann (photographer)">Heinrich Hoffmann</a> (1885-1957), personal photographer of Adolf Hitler)</li>
+<li><a href="/wiki/Wilhelm_Ihne" title="Wilhelm Ihne">Wilhelm Ihne</a> (1821-1902), classicist and historian</li>
+<li><a href="/wiki/Henry_Kissinger" title="Henry Kissinger">Henry Kissinger</a> (1923-&#160;; born in Fürth), former Secretary of State of the United States</li>
+<li>Kraft-Alexander zu Hohenlohe-Oehringen (1925–2006; died in Fürth), actor and artistic director</li>
+<li><a href="/wiki/Robert_Kurz_(philosopher)" title="Robert Kurz (philosopher)">Robert Kurz</a> (1943-2012; lived in Fürth until his death), communist theorist</li>
+</ul>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Leopold_Ullstein_by_Oscar_Begas,_1882.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Leopold_Ullstein_by_Oscar_Begas%2C_1882.jpg/150px-Leopold_Ullstein_by_Oscar_Begas%2C_1882.jpg" width="150" height="191" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Leopold_Ullstein_by_Oscar_Begas%2C_1882.jpg/225px-Leopold_Ullstein_by_Oscar_Begas%2C_1882.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Leopold_Ullstein_by_Oscar_Begas%2C_1882.jpg/300px-Leopold_Ullstein_by_Oscar_Begas%2C_1882.jpg 2x" data-file-width="1518" data-file-height="1936" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Leopold_Ullstein_by_Oscar_Begas,_1882.jpg" class="internal" title="Enlarge"></a></div>
+Leopold Ullstein by Oscar Begas, 1882</div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/Wilhelm_L%C3%B6he" class="mw-redirect" title="Wilhelm Löhe">Wilhelm Löhe</a> (1808–1872; born in Fürth), Lutheran pastor</li>
+<li><a href="/wiki/Jean_Mandel" title="Jean Mandel">Jean Mandel</a> (1911-1974; born in Fürth), footballer and politician, Bavarian senator</li>
+<li>Alfred Louis Nathan (1870-1922), philanthropist <a href="https://de.wikipedia.org/wiki/Alfred_Nathan_(Philanthrop)" class="extiw" title="de:Alfred Nathan (Philanthrop)">de:Alfred Nathan (Philanthrop)</a></li>
+<li>Julius Ochs (1826–1888; born in Fürth), father of <a href="/wiki/Adolph_Ochs" title="Adolph Ochs">Adolph Ochs</a>, publisher of New York Times</li>
+<li>Edgar Rosenberg (1925-2015; born in Fürth), American scholar and <a href="/wiki/Cornell_University" title="Cornell University">Cornell University</a> professor</li>
+<li><a href="/wiki/Arthur_Rosenthal" title="Arthur Rosenthal">Arthur Rosenthal</a> (1887-1959), mathematician</li>
+<li><a href="/wiki/Gustav_Schickedanz" title="Gustav Schickedanz">Gustav Schickedanz</a> (1895–1977; born in Fürth), German entrepreneur.</li>
+<li><a href="/wiki/Alfred_Schwarzmann" title="Alfred Schwarzmann">Alfred Schwarzmann</a> (1912-2000), gymnastic and olympic athlete</li>
+<li><a href="/wiki/Martin_Segitz" title="Martin Segitz">Martin Segitz</a> (1853-1927), union leader and politician (SPD)</li>
+<li><a href="/wiki/Leopold_Ullstein" title="Leopold Ullstein">Leopold Ullstein</a> (1826–1899; born in Fürth), important German publisher.</li>
+<li><a href="/wiki/Jakob_Wassermann" title="Jakob Wassermann">Jakob Wassermann</a> (1873–1934; born in Fürth), writer and novelist</li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=40" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.statistikdaten.bayern.de/genesis/online?sequenz=tabelleErgebnis&amp;selectionname=12411-001">"Fortschreibung des Bevölkerungsstandes"</a>. <i><a href="/wiki/Bayerisches_Landesamt_f%C3%BCr_Statistik_und_Datenverarbeitung" class="mw-redirect" title="Bayerisches Landesamt für Statistik und Datenverarbeitung">Bayerisches Landesamt für Statistik und Datenverarbeitung</a></i> (in German). June 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AF%C3%BCrth&amp;rft.atitle=Fortschreibung+des+Bev%C3%B6lkerungsstandes&amp;rft.date=2016-06&amp;rft.genre=unknown&amp;rft.jtitle=Bayerisches+Landesamt+f%C3%BCr+Statistik+und+Datenverarbeitung&amp;rft_id=https%3A%2F%2Fwww.statistikdaten.bayern.de%2Fgenesis%2Fonline%3Fsequenz%3DtabelleErgebnis%26selectionname%3D12411-001&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">literally "government district"</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.1000-jahre-fuerth.de/DesktopDefault.aspx/tabid-213/">1000 Jahre Fürth - Stadtgeschichte</a></span></li>
+<li id="cite_note-Ohm2-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ohm2_4-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Ohm, Barbara (2007). <i>Fürth: Geschichte der Stadt</i> (in German). Jungkunz. p.&#160;290. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-9808686-1-7" title="Special:BookSources/978-3-9808686-1-7">978-3-9808686-1-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AF%C3%BCrth&amp;rft.aufirst=Barbara&amp;rft.aulast=Ohm&amp;rft.btitle=F%C3%BCrth%3A+Geschichte+der+Stadt&amp;rft.date=2007&amp;rft.genre=book&amp;rft.isbn=978-3-9808686-1-7&amp;rft.pages=290&amp;rft.pub=Jungkunz&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Ohm1-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Ohm1_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Ohm1_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Ohm1_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Ohm1_5-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Ohm, Barbara (2007). <i>Fürth: Geschichte der Stadt</i> (in German). Jungkunz. p.&#160;345. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-9808686-1-7" title="Special:BookSources/978-3-9808686-1-7">978-3-9808686-1-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AF%C3%BCrth&amp;rft.aufirst=Barbara&amp;rft.aulast=Ohm&amp;rft.btitle=F%C3%BCrth%3A+Geschichte+der+Stadt&amp;rft.date=2007&amp;rft.genre=book&amp;rft.isbn=978-3-9808686-1-7&amp;rft.pages=345&amp;rft.pub=Jungkunz&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://dokumente.nuernberg.de/statistik/Thematische_Karten/innergeb_strukturdaten/2016/fue/is2016_fue_karte02.pdf">"Stadtforschung und Statistik für Nürnberg und Fürth - Stadt Fürth, Ausländeranteil 2015"</a> <span style="font-size:85%;">(PDF)</span>. nuernberg.de<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-05-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AF%C3%BCrth&amp;rft.btitle=Stadtforschung+und+Statistik+f%C3%BCr+N%C3%BCrnberg+und+F%C3%BCrth+-+Stadt+F%C3%BCrth%2C+Ausl%C3%A4nderanteil+2015&amp;rft.genre=unknown&amp;rft.pub=nuernberg.de&amp;rft_id=https%3A%2F%2Fdokumente.nuernberg.de%2Fstatistik%2FThematische_Karten%2Finnergeb_strukturdaten%2F2016%2Ffue%2Fis2016_fue_karte02.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Edikt die Verhältnisse der jüdischen Glaubensgenossen im Königreiche Baiern betreffend vom 10. Juni 1813</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Dr. Michael Müller, Fürth (2006). <a rel="nofollow" class="external text" href="http://www.alemannia-judaica.de/images/Images%2083/Kopie%20von%20Seligman%20Bendit%20endg.%201.pdf">"Seligman Bendit &amp; Söhne Spiegelglas- und Fensterglas-Fabriken Aufstieg und Niedergang einer jüdischen Unternehmer-Familie der Fürther Spiegelglas-Industrie"</a> <span style="font-size:85%;">(pdf)</span>. <i>Fürther Geschichtsblätter</i> (in German). 56th year (2/2006 and 3/2006,)<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-01-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AF%C3%BCrth&amp;rft.atitle=Seligman+Bendit+%26+S%C3%B6hne+Spiegelglas-+und+Fensterglas-Fabriken+Aufstieg+und+Niedergang+einer+j%C3%BCdischen+Unternehmer-Familie+der+F%C3%BCrther+Spiegelglas-Industrie&amp;rft.au=Dr.+Michael+M%C3%BCller%2C+F%C3%BCrth&amp;rft.date=2006&amp;rft.genre=article&amp;rft.issue=2%2F2006+and+3%2F2006%2C&amp;rft.jtitle=F%C3%BCrther+Geschichtsbl%C3%A4tter&amp;rft.volume=56th+year&amp;rft_id=http%3A%2F%2Fwww.alemannia-judaica.de%2Fimages%2FImages%252083%2FKopie%2520von%2520Seligman%2520Bendit%2520endg.%25201.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Chronik Fürth 1933 – 1945 Der Israelitische. <a rel="nofollow" class="external free" href="http://www.juedische-fuerther.de/images/pdf/chronik.pdf">http://www.juedische-fuerther.de/images/pdf/chronik.pdf</a></span></li>
+<li id="cite_note-F.C3.BCrther_Shoah-Opfer_1997._p._13-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-F.C3.BCrther_Shoah-Opfer_1997._p._13_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-F.C3.BCrther_Shoah-Opfer_1997._p._13_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Komitee zum Gedenken der Fürther Shoah-Opfer (Bearbeitung Gisela Naomi Blume): Memorbuch zum Gedenken an die von den Nazis Ermordeten Fürther Juden. Fürth 1997. p. 13.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Fürther Nachrichten vom 3. Juni 2009, p. 1: Denkmal erweitert.</span></li>
+<li id="cite_note-F.C3.BCrth_de_Hist-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-F.C3.BCrth_de_Hist_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-F.C3.BCrth_de_Hist_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.fuerth.de/DesktopDefault.aspx/tabid-95/146_read-819/">Official Fürth Website: Historical data and facts</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Hevesi, Dennis <a rel="nofollow" class="external text" href="https://www.nytimes.com/2009/07/19/science/19hirschmann.html">"Ralph F. Hirschmann, Leading Scientist on Early Enzyme Research, Dies at 87"</a>, <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i>, July 18, 2009. Accessed July 19, 2009.</span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=41" title="Edit section: Sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.fuerth.de">Official Fürth Web site</a> <span class="languageicon">(in German)</span></li>
+<li><a rel="nofollow" class="external text" href="http://www.1000-jahre-fuerth.de">Official site for Fürth's 1000th anniversary in 2007</a> <span class="languageicon">(in German)</span></li>
+<li><a rel="nofollow" class="external text" href="http://www.fuerth.de/DesktopDefault.aspx/tabid-95/146_read-819/">Official Fürth Website: Historical data and facts</a><span class="languageicon">(in German)</span></li>
+<li><a rel="nofollow" class="external text" href="http://www.fuerth.de/DesktopDefault.aspx/tabid-95/146_read-816/">Official Fürth web site Jewish history in Fürth</a> <span class="languageicon">(in German)</span></li>
+<li><a rel="nofollow" class="external text" href="http://www.juedisches-museum.org/english.html">Official Web site, Jewish Museum of Franconia in Fürth</a> <span class="languageicon">(in English)</span></li>
+<li><a rel="nofollow" class="external text" href="http://www.geschichte-fuer-alle.de/sg/furth/00.htm">Web site of non-profit organization History for All, Institute for Regional History: Fürth</a> <span class="languageicon">(in German)</span></li>
+<li><a rel="nofollow" class="external text" href="http://www.geschichte-fuer-alle.de/term/text/f_juden.html">Web site of non-profit organization History for All, Institute for Regional History: A home for centuries - history of the Jews in Fürth</a> <span class="languageicon">(in German)</span></li>
+<li><a rel="nofollow" class="external text" href="http://www.br-online.de/bayern-heute/thema/juden-in-bayern/gemeinden-fuerth.xml">Bayern 2 state radio: Fürth - the Franconian Jerusalem</a> <span class="languageicon">(in German)</span></li>
+<li><a rel="nofollow" class="external text" href="http://www.alemannia-judaica.de/">Alemannia Judaica home page</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.alemannia-judaica.de/fuerth_friedhof.htm">Alemannia Judaica: Fürth Jewish cemetery</a> <span class="languageicon">(in German)</span></li>
+<li><a rel="nofollow" class="external text" href="http://www.ngw.nl/int/dld/f/furth1.htm">International Civic Heraldry web site: Fürth</a> <span class="languageicon">(in German)</span></li>
+<li><a rel="nofollow" class="external text" href="http://www.jewishencyclopedia.com/view.jsp?artid=468&amp;letter=F">JewishEncyclopaedia.com: Fürth, by Gotthard Deutsch, A. Eckstein</a> <span class="languageicon">(in German)</span></li>
+</ul>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=42" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation book">Bender, Oliver (1999). <a rel="nofollow" class="external text" href="http://deposit.d-nb.de/cgi-bin/dokserv?idn=959011846"><i>Doctoral dissertation: Die Entwicklung der fränkischen Industriestadt Fürth im 19. Jahrhundert - Aufbau und Interpretation eines geographischen Informationssystems auf Basis der Hausgrundstücke (Industrial Fuerth. The Urban Geography and a GIS-Presentation of a medium-sized town in Franconia, 1800-1914)</i></a> <span style="font-size:85%;">(pdf)</span> (in German). Bamberg: (University of Bamberg)<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-01-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AF%C3%BCrth&amp;rft.aufirst=Oliver&amp;rft.aulast=Bender&amp;rft.btitle=Doctoral+dissertation%3A+Die+Entwicklung+der+fr%C3%A4nkischen+Industriestadt+F%C3%BCrth+im+19.+Jahrhundert+-+Aufbau+und+Interpretation+eines+geographischen+Informationssystems+auf+Basis+der+Hausgrundst%C3%BCcke+%28Industrial+Fuerth.+The+Urban+Geography+and+a+GIS-Presentation+of+a+medium-sized+town+in+Franconia%2C+1800-1914%29&amp;rft.date=1999&amp;rft.genre=book&amp;rft.place=Bamberg&amp;rft.pub=%28University+of+Bamberg%29&amp;rft_id=http%3A%2F%2Fdeposit.d-nb.de%2Fcgi-bin%2Fdokserv%3Fidn%3D959011846&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span><span class="languageicon">(in German)</span></li>
+<li><cite class="citation journal">Dr. Michael Müller, Fürth (2006). <a rel="nofollow" class="external text" href="http://www.alemannia-judaica.de/images/Images%2083/Kopie%20von%20Seligman%20Bendit%20endg.%201.pdf">"Seligman Bendit &amp; Söhne Spiegelglas- und Fensterglas-Fabriken Aufstieg und Niedergang einer jüdischen Unternehmer-Familie der Fürther Spiegelglas-Industrie (Seligman Bendit &amp; Sons mirror glass and window glass factories - rise and fall od Jewish entrepreneurial familyin the Fürth mirror glass industry)"</a> <span style="font-size:85%;">(pdf)</span>. <i>Fürther Geschichtsblätter</i> (in German). 56th year (2/2006 and 3/2006,)<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-01-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AF%C3%BCrth&amp;rft.atitle=Seligman+Bendit+%26+S%C3%B6hne+Spiegelglas-+und+Fensterglas-Fabriken+Aufstieg+und+Niedergang+einer+j%C3%BCdischen+Unternehmer-Familie+der+F%C3%BCrther+Spiegelglas-Industrie+%28Seligman+Bendit+%26+Sons+mirror+glass+and+window+glass+factories+-+rise+and+fall+od+Jewish+entrepreneurial+familyin+the+F%C3%BCrth+mirror+glass+industry%29&amp;rft.au=Dr.+Michael+M%C3%BCller%2C+F%C3%BCrth&amp;rft.date=2006&amp;rft.genre=article&amp;rft.issue=2%2F2006+and+3%2F2006%2C&amp;rft.jtitle=F%C3%BCrther+Geschichtsbl%C3%A4tter&amp;rft.volume=56th+year&amp;rft_id=http%3A%2F%2Fwww.alemannia-judaica.de%2Fimages%2FImages%252083%2FKopie%2520von%2520Seligman%2520Bendit%2520endg.%25201.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span><span class="languageicon">(in German)</span></li>
+</ul>
+<h2><span id="Literature_(in_German)"></span><span class="mw-headline" id="Literature_.28in_German.29">Literature <span class="languageicon">(in German)</span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=43" title="Edit section: Literature (in German)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Georg Dehio: <i>Handbuch der deutschen Kunstdenkmäler.</i> Bayern. Bd I. Franken. Deutscher Kunstverlag, Munich 1999, P.363ff. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-422-03051-4" title="Special:BookSources/3-422-03051-4">3-422-03051-4</a></li>
+<li>Adolf Schwammberger: <i>Fürth von A bis Z. Ein Geschichts-Lexikon.</i> Fürth 1968.</li>
+<li>Gerd Walther (Hrsg.): <i>Fürth - Die Kleeblattstadt - Rundgänge durch Geschichte und Gegenwart". Städtebilder-Verlag, Fürth 1991. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-927347-22-1" title="Special:BookSources/3-927347-22-1">3-927347-22-1</a></i></li>
+<li>Gerd Walther: <i>Die Fürther Altstadt rund um Sankt Michael.</i> Fürth 1990. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-927347-21-3" title="Special:BookSources/3-927347-21-3">3-927347-21-3</a></li>
+<li>Andrea Sommer: <i>Die Fürther Südstadt.</i> 4 parts. in: <i>Fürther Heimatblätter.</i> Published by the Verein für Heimatforschung Alt-Fürth. NF 39.1989, P.1, NF 40.1990, P.1, NF 40.1990, P.81 und NF 41.1991, P.10.</li>
+<li>Ralf Nestmeyer: <i>Nürnberg, Fürth, Erlangen.</i> Reisehandbuch. Michael Müller, Erlangen 2006. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-89953-318-6" title="Special:BookSources/3-89953-318-6">3-89953-318-6</a>.</li>
+<li><i>Deutsches Städtebuch. Handbuch städtischer Geschichte.</i> vol. 5. Bayerisches Städtebuch. T 1. part volume Unter-, Mittel- und Oberfranken. Commissioned by the Arbeitsgemeinschaft der historischen Kommissionen and with the support of the Deutscher Städtetag, the Deutscher Städtebund and the Deutscher Gemeindetag, edited by <a href="/wiki/Erich_Keyser" title="Erich Keyser">Erich Keyser</a>. Kohlhammer, Stuttgart 1971.</li>
+<li>Katrin Bielefeldt: <i>Geschichte der Juden in Fürth. Jahrhundertelang eine Heimat.</i> Historische Spaziergänge. Vol. 3. Edited by Geschichte Für Alle e. V. Sandberg-Verlag, Nuremberg 2005. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-930699-44-3" title="Special:BookSources/3-930699-44-3">3-930699-44-3</a>.</li>
+</ul>
+<h2><span id="Literature_(in_English)"></span><span class="mw-headline" id="Literature_.28in_English.29">Literature <span class="languageicon">(in English)</span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=44" title="Edit section: Literature (in English)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Simon Pearce: <i>Bridget and Jane</i>. A children's audio series set in Fürth in the early 19th century. Sydney 2006. Unpublished.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit&amp;section=45" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/F%C3%BCrth" class="extiw" title="commons:Fürth">Fürth</a></b></i>.</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png" width="38" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/57px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/76px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikisource" title="Wikisource">Wikisource</a> has the text of the 1920 <i><a href="/wiki/Encyclopedia_Americana" title="Encyclopedia Americana">Encyclopedia Americana</a></i> article <i><b><a href="https://en.wikisource.org/wiki/The_Encyclopedia_Americana_(1920)/F%C3%BCrth" class="extiw" title="s:The Encyclopedia Americana (1920)/Fürth">Fürth</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/File:Wikivoyage-Logo-v3-icon.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/16px-Wikivoyage-Logo-v3-icon.svg.png" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/24px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/32px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></a> <a href="https://en.wikivoyage.org/wiki/F%C3%BCrth#Q3075" class="extiw" title="voy:Fürth">Fürth</a> travel guide from Wikivoyage</li>
+<li><a rel="nofollow" class="external text" href="http://www.fuerth.de">Official Fürth Site</a> <span class="languageicon">(in German)</span></li>
+<li><a rel="nofollow" class="external text" href="http://www.fuerthwiki.de">FürthWiki.de</a> Free <a href="/wiki/City_wiki" class="mw-redirect" title="City wiki">city wiki</a> about Fürth <span class="languageicon">(in German)</span></li>
+<li><a rel="nofollow" class="external text" href="http://kunstnuernberg.de">KUNSTNÜRNBERG - Online - Magazine for Contemporary Art and History of Art in Fürth, Nuremberg and Franconia</a></li>
+<li><a rel="nofollow" class="external text" href="https://dmoztools.net/World/Deutsch/Regional/Europa/Deutschland/Bayern/Städte_und_Gemeinden/F/Fürth/">Fürth</a> at <a href="/wiki/DMOZ" title="DMOZ">DMOZ</a> <span class="languageicon">(in German)</span></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Cities_in_Germany_by_population" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cities_in_Germany" title="Template:Cities in Germany"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cities_in_Germany" title="Template talk:Cities in Germany"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cities_in_Germany&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Cities_in_Germany_by_population" style="font-size:114%;margin:0 4em">Cities in Germany by population</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1,000,000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Berlin" title="Berlin">Berlin</a></li>
+<li><a href="/wiki/Cologne" title="Cologne">Cologne</a></li>
+<li><a href="/wiki/Hamburg" title="Hamburg">Hamburg</a></li>
+<li><a href="/wiki/Munich" title="Munich">Munich</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">500,000+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bremen" title="Bremen">Bremen</a></li>
+<li><a href="/wiki/Dortmund" title="Dortmund">Dortmund</a></li>
+<li><a href="/wiki/Dresden" title="Dresden">Dresden</a></li>
+<li><a href="/wiki/D%C3%BCsseldorf" title="Düsseldorf">Düsseldorf</a></li>
+<li><a href="/wiki/Essen" title="Essen">Essen</a></li>
+<li><a href="/wiki/Frankfurt" title="Frankfurt">Frankfurt</a></li>
+<li><a href="/wiki/Hanover" title="Hanover">Hanover</a></li>
+<li><a href="/wiki/Leipzig" title="Leipzig">Leipzig</a></li>
+<li><a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a></li>
+<li><a href="/wiki/Stuttgart" title="Stuttgart">Stuttgart</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">200,000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aachen" title="Aachen">Aachen</a></li>
+<li><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></li>
+<li><a href="/wiki/Bielefeld" title="Bielefeld">Bielefeld</a></li>
+<li><a href="/wiki/Bochum" title="Bochum">Bochum</a></li>
+<li><a href="/wiki/Bonn" title="Bonn">Bonn</a></li>
+<li><a href="/wiki/Braunschweig" title="Braunschweig">Braunschweig</a></li>
+<li><a href="/wiki/Chemnitz" title="Chemnitz">Chemnitz</a></li>
+<li><a href="/wiki/Duisburg" title="Duisburg">Duisburg</a></li>
+<li><a href="/wiki/Erfurt" title="Erfurt">Erfurt</a></li>
+<li><a href="/wiki/Freiburg_im_Breisgau" title="Freiburg im Breisgau">Freiburg im Breisgau</a></li>
+<li><a href="/wiki/Gelsenkirchen" title="Gelsenkirchen">Gelsenkirchen</a></li>
+<li><a href="/wiki/Halle_(Saale)" title="Halle (Saale)">Halle (Saale)</a></li>
+<li><a href="/wiki/Karlsruhe" title="Karlsruhe">Karlsruhe</a></li>
+<li><a href="/wiki/Kiel" title="Kiel">Kiel</a></li>
+<li><a href="/wiki/Krefeld" title="Krefeld">Krefeld</a></li>
+<li><a href="/wiki/L%C3%BCbeck" title="Lübeck">Lübeck</a></li>
+<li><a href="/wiki/Magdeburg" title="Magdeburg">Magdeburg</a></li>
+<li><a href="/wiki/Mainz" title="Mainz">Mainz</a></li>
+<li><a href="/wiki/Mannheim" title="Mannheim">Mannheim</a></li>
+<li><a href="/wiki/M%C3%BCnster" title="Münster">Münster</a></li>
+<li><a href="/wiki/M%C3%B6nchengladbach" title="Mönchengladbach">Mönchengladbach</a></li>
+<li><a href="/wiki/Oberhausen" title="Oberhausen">Oberhausen</a></li>
+<li><a href="/wiki/Rostock" title="Rostock">Rostock</a></li>
+<li><a href="/wiki/Wiesbaden" title="Wiesbaden">Wiesbaden</a></li>
+<li><a href="/wiki/Wuppertal" title="Wuppertal">Wuppertal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">100,000+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bergisch_Gladbach" title="Bergisch Gladbach">Bergisch Gladbach</a></li>
+<li><a href="/wiki/Bottrop" title="Bottrop">Bottrop</a></li>
+<li><a href="/wiki/Bremerhaven" title="Bremerhaven">Bremerhaven</a></li>
+<li><a href="/wiki/Cottbus" title="Cottbus">Cottbus</a></li>
+<li><a href="/wiki/Darmstadt" title="Darmstadt">Darmstadt</a></li>
+<li><a href="/wiki/Erlangen" title="Erlangen">Erlangen</a></li>
+<li><a class="mw-selflink selflink">Fürth</a></li>
+<li><a href="/wiki/G%C3%B6ttingen" title="Göttingen">Göttingen</a></li>
+<li><a href="/wiki/Hagen" title="Hagen">Hagen</a></li>
+<li><a href="/wiki/Hamm" title="Hamm">Hamm</a></li>
+<li><a href="/wiki/Heidelberg" title="Heidelberg">Heidelberg</a></li>
+<li><a href="/wiki/Heilbronn" title="Heilbronn">Heilbronn</a></li>
+<li><a href="/wiki/Herne,_North_Rhine-Westphalia" title="Herne, North Rhine-Westphalia">Herne</a></li>
+<li><a href="/wiki/Hildesheim" title="Hildesheim">Hildesheim</a></li>
+<li><a href="/wiki/Ingolstadt" title="Ingolstadt">Ingolstadt</a></li>
+<li><a href="/wiki/Jena" title="Jena">Jena</a></li>
+<li><a href="/wiki/Kassel" title="Kassel">Kassel</a></li>
+<li><a href="/wiki/Koblenz" title="Koblenz">Koblenz</a></li>
+<li><a href="/wiki/Leverkusen" title="Leverkusen">Leverkusen</a></li>
+<li><a href="/wiki/Ludwigshafen" title="Ludwigshafen">Ludwigshafen</a></li>
+<li><a href="/wiki/Moers" title="Moers">Moers</a></li>
+<li><a href="/wiki/M%C3%BClheim" title="Mülheim">Mülheim an der Ruhr</a></li>
+<li><a href="/wiki/Neuss" title="Neuss">Neuss</a></li>
+<li><a href="/wiki/Offenbach_am_Main" title="Offenbach am Main">Offenbach am Main</a></li>
+<li><a href="/wiki/Oldenburg_(Oldenburg)" class="mw-redirect" title="Oldenburg (Oldenburg)">Oldenburg</a></li>
+<li><a href="/wiki/Osnabr%C3%BCck" title="Osnabrück">Osnabrück</a></li>
+<li><a href="/wiki/Paderborn" title="Paderborn">Paderborn</a></li>
+<li><a href="/wiki/Pforzheim" title="Pforzheim">Pforzheim</a></li>
+<li><a href="/wiki/Potsdam" title="Potsdam">Potsdam</a></li>
+<li><a href="/wiki/Recklinghausen" title="Recklinghausen">Recklinghausen</a></li>
+<li><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></li>
+<li><a href="/wiki/Remscheid" title="Remscheid">Remscheid</a></li>
+<li><a href="/wiki/Reutlingen" title="Reutlingen">Reutlingen</a></li>
+<li><a href="/wiki/Saarbr%C3%BCcken" title="Saarbrücken">Saarbrücken</a></li>
+<li><a href="/wiki/Salzgitter" title="Salzgitter">Salzgitter</a></li>
+<li><a href="/wiki/Siegen" title="Siegen">Siegen</a></li>
+<li><a href="/wiki/Solingen" title="Solingen">Solingen</a></li>
+<li><a href="/wiki/Trier" title="Trier">Trier</a></li>
+<li><a href="/wiki/Ulm" title="Ulm">Ulm</a></li>
+<li><a href="/wiki/Wolfsburg" title="Wolfsburg">Wolfsburg</a></li>
+<li><a href="/wiki/W%C3%BCrzburg" title="Würzburg">Würzburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/List_of_cities_and_towns_in_Germany" title="List of cities and towns in Germany">complete list</a></li>
+<li><a href="/wiki/List_of_municipalities_in_Germany" title="List of municipalities in Germany">municipalities</a></li>
+<li><a href="/wiki/Metropolitan_regions_in_Germany" title="Metropolitan regions in Germany">metropolitan regions</a></li>
+<li><a href="/wiki/List_of_cities_in_Germany_by_population" title="List of cities in Germany by population">cities with more than 100,000 inhabitants</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="border.7C30px.7CFlag_of_Bavaria_Urban_and_rural_districts_in_the_Free_State_of_Bavaria_in_Germany_border.7C30px.7CFlag_of_Germany" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Germany_districts_Bavaria" title="Template:Germany districts Bavaria"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Germany_districts_Bavaria" title="Template talk:Germany districts Bavaria"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Germany_districts_Bavaria&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="border.7C30px.7CFlag_of_Bavaria_Urban_and_rural_districts_in_the_Free_State_of_Bavaria_in_Germany_border.7C30px.7CFlag_of_Germany" style="font-size:114%;margin:0 4em"><a href="/wiki/File:Flag_of_Bavaria_(lozengy).svg" class="image" title="Flag of Bavaria"><img alt="Flag of Bavaria" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/30px-Flag_of_Bavaria_%28lozengy%29.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/45px-Flag_of_Bavaria_%28lozengy%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/60px-Flag_of_Bavaria_%28lozengy%29.svg.png 2x" data-file-width="1000" data-file-height="600" /></a> Urban and rural districts in the <a href="/wiki/Bavaria" title="Bavaria">Free State of Bavaria</a> in Germany <a href="/wiki/File:Flag_of_Germany.svg" class="image" title="Flag of Germany"><img alt="Flag of Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/30px-Flag_of_Germany.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/45px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Urban<br />
+districts</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Amberg" title="Amberg">Amberg</a></li>
+<li><a href="/wiki/Ansbach" title="Ansbach">Ansbach</a></li>
+<li><a href="/wiki/Aschaffenburg" title="Aschaffenburg">Aschaffenburg</a></li>
+<li><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></li>
+<li><a href="/wiki/Bamberg" title="Bamberg">Bamberg</a></li>
+<li><a href="/wiki/Bayreuth" title="Bayreuth">Bayreuth</a></li>
+<li><a href="/wiki/Coburg" title="Coburg">Coburg</a></li>
+<li><a href="/wiki/Erlangen" title="Erlangen">Erlangen</a></li>
+<li><a class="mw-selflink selflink">Fürth</a></li>
+<li><a href="/wiki/Hof,_Bavaria" title="Hof, Bavaria">Hof</a></li>
+<li><a href="/wiki/Ingolstadt" title="Ingolstadt">Ingolstadt</a></li>
+<li><a href="/wiki/Kaufbeuren" title="Kaufbeuren">Kaufbeuren</a></li>
+<li><a href="/wiki/Kempten" title="Kempten">Kempten</a></li>
+<li><a href="/wiki/Landshut" title="Landshut">Landshut</a></li>
+<li><a href="/wiki/Memmingen" title="Memmingen">Memmingen</a></li>
+<li><a href="/wiki/Munich" title="Munich">München (<i>Munich</i>)</a></li>
+<li><a href="/wiki/Nuremberg" title="Nuremberg">Nürnberg (<i>Nuremberg</i>)</a></li>
+<li><a href="/wiki/Passau" title="Passau">Passau</a></li>
+<li><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></li>
+<li><a href="/wiki/Rosenheim" title="Rosenheim">Rosenheim</a></li>
+<li><a href="/wiki/Schwabach" title="Schwabach">Schwabach</a></li>
+<li><a href="/wiki/Schweinfurt" title="Schweinfurt">Schweinfurt</a></li>
+<li><a href="/wiki/Straubing" title="Straubing">Straubing</a></li>
+<li><a href="/wiki/Weiden_in_der_Oberpfalz" title="Weiden in der Oberpfalz">Weiden</a></li>
+<li><a href="/wiki/W%C3%BCrzburg" title="Würzburg">Würzburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Rural<br />
+districts</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aichach-Friedberg" title="Aichach-Friedberg">Aichach-Friedberg</a></li>
+<li><a href="/wiki/Alt%C3%B6tting_(district)" title="Altötting (district)">Altötting</a></li>
+<li><a href="/wiki/Amberg-Sulzbach" title="Amberg-Sulzbach">Amberg-Sulzbach</a></li>
+<li><a href="/wiki/Ansbach_(district)" title="Ansbach (district)">Ansbach</a></li>
+<li><a href="/wiki/Aschaffenburg_(district)" title="Aschaffenburg (district)">Aschaffenburg</a></li>
+<li><a href="/wiki/Augsburg_(district)" title="Augsburg (district)">Augsburg</a></li>
+<li><a href="/wiki/Bad_Kissingen_(district)" title="Bad Kissingen (district)">Bad Kissingen</a></li>
+<li><a href="/wiki/Bad_T%C3%B6lz-Wolfratshausen" title="Bad Tölz-Wolfratshausen">Bad Tölz-Wolfratshausen</a></li>
+<li><a href="/wiki/Bamberg_(district)" title="Bamberg (district)">Bamberg</a></li>
+<li><a href="/wiki/Bayreuth_(district)" title="Bayreuth (district)">Bayreuth</a></li>
+<li><a href="/wiki/Berchtesgadener_Land" title="Berchtesgadener Land">Berchtesgadener Land</a></li>
+<li><a href="/wiki/Cham_(district)" title="Cham (district)">Cham</a></li>
+<li><a href="/wiki/Coburg_(district)" title="Coburg (district)">Coburg</a></li>
+<li><a href="/wiki/Dachau_(district)" title="Dachau (district)">Dachau</a></li>
+<li><a href="/wiki/Deggendorf_(district)" title="Deggendorf (district)">Deggendorf</a></li>
+<li><a href="/wiki/Dillingen_(district)" title="Dillingen (district)">Dillingen</a></li>
+<li><a href="/wiki/Dingolfing-Landau" title="Dingolfing-Landau">Dingolfing-Landau</a></li>
+<li><a href="/wiki/Donau-Ries" title="Donau-Ries">Donau-Ries</a></li>
+<li><a href="/wiki/Ebersberg_(district)" title="Ebersberg (district)">Ebersberg</a></li>
+<li><a href="/wiki/Eichst%C3%A4tt_(district)" title="Eichstätt (district)">Eichstätt</a></li>
+<li><a href="/wiki/Erding_(district)" title="Erding (district)">Erding</a></li>
+<li><a href="/wiki/Erlangen-H%C3%B6chstadt" title="Erlangen-Höchstadt">Erlangen-Höchstadt</a></li>
+<li><a href="/wiki/Forchheim_(district)" title="Forchheim (district)">Forchheim</a></li>
+<li><a href="/wiki/Freising_(district)" title="Freising (district)">Freising</a></li>
+<li><a href="/wiki/Freyung-Grafenau" title="Freyung-Grafenau">Freyung-Grafenau</a></li>
+<li><a href="/wiki/F%C3%BCrstenfeldbruck_(district)" title="Fürstenfeldbruck (district)">Fürstenfeldbruck</a></li>
+<li><a href="/wiki/F%C3%BCrth_(district)" title="Fürth (district)">Fürth</a></li>
+<li><a href="/wiki/Garmisch-Partenkirchen_(district)" title="Garmisch-Partenkirchen (district)">Garmisch-Partenkirchen</a></li>
+<li><a href="/wiki/G%C3%BCnzburg_(district)" title="Günzburg (district)">Günzburg</a></li>
+<li><a href="/wiki/Ha%C3%9Fberge_(district)" title="Haßberge (district)">Haßberge</a></li>
+<li><a href="/wiki/Hof_(district)" title="Hof (district)">Hof</a></li>
+<li><a href="/wiki/Kelheim_(district)" title="Kelheim (district)">Kelheim</a></li>
+<li><a href="/wiki/Kitzingen_(district)" title="Kitzingen (district)">Kitzingen</a></li>
+<li><a href="/wiki/Kronach_(district)" title="Kronach (district)">Kronach</a></li>
+<li><a href="/wiki/Kulmbach_(district)" title="Kulmbach (district)">Kulmbach</a></li>
+<li><a href="/wiki/Landsberg_(district)" title="Landsberg (district)">Landsberg</a></li>
+<li><a href="/wiki/Landshut_(district)" title="Landshut (district)">Landshut</a></li>
+<li><a href="/wiki/Lichtenfels_(district)" title="Lichtenfels (district)">Lichtenfels</a></li>
+<li><a href="/wiki/Lindau_(district)" title="Lindau (district)">Lindau</a></li>
+<li><a href="/wiki/Main-Spessart" title="Main-Spessart">Main-Spessart</a></li>
+<li><a href="/wiki/Miesbach_(district)" title="Miesbach (district)">Miesbach</a></li>
+<li><a href="/wiki/Miltenberg_(district)" title="Miltenberg (district)">Miltenberg</a></li>
+<li><a href="/wiki/M%C3%BChldorf_(district)" title="Mühldorf (district)">Mühldorf</a></li>
+<li><a href="/wiki/Munich_(district)" title="Munich (district)">München (<i>Munich</i>)</a></li>
+<li><a href="/wiki/Neuburg-Schrobenhausen" title="Neuburg-Schrobenhausen">Neuburg-Schrobenhausen</a></li>
+<li><a href="/wiki/Neumarkt_(district)" title="Neumarkt (district)">Neumarkt</a></li>
+<li><a href="/wiki/Neustadt_(Aisch)-Bad_Windsheim" title="Neustadt (Aisch)-Bad Windsheim">Neustadt (Aisch)-Bad Windsheim</a></li>
+<li><a href="/wiki/Neustadt_an_der_Waldnaab_(district)" title="Neustadt an der Waldnaab (district)">Neustadt an der Waldnaab</a></li>
+<li><a href="/wiki/Neu-Ulm_(district)" title="Neu-Ulm (district)">Neu-Ulm</a></li>
+<li><a href="/wiki/N%C3%BCrnberger_Land" title="Nürnberger Land">Nürnberger Land</a></li>
+<li><a href="/wiki/Oberallg%C3%A4u" title="Oberallgäu">Oberallgäu</a></li>
+<li><a href="/wiki/Ostallg%C3%A4u" title="Ostallgäu">Ostallgäu</a></li>
+<li><a href="/wiki/Passau_(district)" title="Passau (district)">Passau</a></li>
+<li><a href="/wiki/Pfaffenhofen_(district)" title="Pfaffenhofen (district)">Pfaffenhofen</a></li>
+<li><a href="/wiki/Regen_(district)" title="Regen (district)">Regen</a></li>
+<li><a href="/wiki/Regensburg_(district)" title="Regensburg (district)">Regensburg</a></li>
+<li><a href="/wiki/Rh%C3%B6n-Grabfeld" title="Rhön-Grabfeld">Rhön-Grabfeld</a></li>
+<li><a href="/wiki/Rosenheim_(district)" title="Rosenheim (district)">Rosenheim</a></li>
+<li><a href="/wiki/Roth_(district)" title="Roth (district)">Roth</a></li>
+<li><a href="/wiki/Rottal-Inn" title="Rottal-Inn">Rottal-Inn</a></li>
+<li><a href="/wiki/Schwandorf_(district)" title="Schwandorf (district)">Schwandorf</a></li>
+<li><a href="/wiki/Schweinfurt_(district)" title="Schweinfurt (district)">Schweinfurt</a></li>
+<li><a href="/wiki/Starnberg_(district)" title="Starnberg (district)">Starnberg</a></li>
+<li><a href="/wiki/Straubing-Bogen" title="Straubing-Bogen">Straubing-Bogen</a></li>
+<li><a href="/wiki/Tirschenreuth_(district)" title="Tirschenreuth (district)">Tirschenreuth</a></li>
+<li><a href="/wiki/Traunstein_(district)" title="Traunstein (district)">Traunstein</a></li>
+<li><a href="/wiki/Unterallg%C3%A4u" title="Unterallgäu">Unterallgäu</a></li>
+<li><a href="/wiki/Weilheim-Schongau" title="Weilheim-Schongau">Weilheim-Schongau</a></li>
+<li><a href="/wiki/Wei%C3%9Fenburg-Gunzenhausen" title="Weißenburg-Gunzenhausen">Weißenburg-Gunzenhausen</a></li>
+<li><a href="/wiki/Wunsiedel_(district)" title="Wunsiedel (district)">Wunsiedel</a></li>
+<li><a href="/wiki/W%C3%BCrzburg_(district)" title="Würzburg (district)">Würzburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/248058777">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/248058777">248058777</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4018827-9">4018827-9</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1216
+Cached time: 20170924021025
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.640 seconds
+Real time usage: 0.804 seconds
+Preprocessor visited node count: 13596/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 104261/2097152 bytes
+Template argument size: 20867/2097152 bytes
+Highest expansion depth: 26/40
+Expensive parser function count: 10/500
+Lua time usage: 0.191/10.000 seconds
+Lua memory usage: 6.43 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  648.095      1 -total
+ 62.31%  403.858      1 Template:Infobox_German_location
+ 58.18%  377.031      1 Template:Infobox_settlement
+ 50.20%  325.338      1 Template:Infobox
+ 23.16%  150.121      7 Template:Population_Germany
+ 18.45%  119.543      7 Template:Metadata_Population_DE-BY
+  7.49%   48.513      8 Template:Both
+  7.07%   45.846      1 Template:Coord
+  6.04%   39.159      2 Template:Cite_web
+  5.98%   38.774      1 Template:Reflist
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:610984-0!canonical and timestamp 20170924021024 and revision id 798721330
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Fürth&amp;oldid=798721330">https://en.wikipedia.org/w/index.php?title=Fürth&amp;oldid=798721330</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cities_in_Bavaria" title="Category:Cities in Bavaria">Cities in Bavaria</a></li><li><a href="/wiki/Category:F%C3%BCrth" title="Category:Fürth">Fürth</a></li><li><a href="/wiki/Category:Displaced_persons_camps_in_the_aftermath_of_World_War_II" title="Category:Displaced persons camps in the aftermath of World War II">Displaced persons camps in the aftermath of World War II</a></li><li><a href="/wiki/Category:Holocaust_locations_in_Germany" title="Category:Holocaust locations in Germany">Holocaust locations in Germany</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Articles_containing_Yiddish-language_text" title="Category:Articles containing Yiddish-language text">Articles containing Yiddish-language text</a></li><li><a href="/wiki/Category:Articles_with_German-language_external_links" title="Category:Articles with German-language external links">Articles with German-language external links</a></li><li><a href="/wiki/Category:Articles_with_DMOZ_links" title="Category:Articles with DMOZ links">Articles with DMOZ links</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=F%C3%BCrth" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=F%C3%BCrth" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/F%C3%BCrth" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:F%C3%BCrth" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/F%C3%BCrth">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=F%C3%BCrth&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=F%C3%BCrth&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/F%C3%BCrth" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/F%C3%BCrth" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=F%C3%BCrth&amp;oldid=798721330" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=F%C3%BCrth&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3075" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=F%C3%BCrth&amp;id=798721330" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=F%C3%BCrth">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=F%C3%BCrth&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DF%25C3%25BCrth%26returnto%3DF%25C3%25BCrth%26oldid%3D798721330%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=F%C3%BCrth&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:F%C3%BCrth" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://en.wikivoyage.org/wiki/F%C3%BCrth" hreflang="en">Wikivoyage</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%81%D9%88%D8%B1%D8%AA" title="فورت – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D9%81%D9%88%D8%B1%D8%AA" title="فورت – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A4%D1%8E%D1%80%D1%82" title="Фюрт – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A4%D1%8E%D1%80%D1%82" title="Фюрт – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/F%C3%BCrth_(lungsod)" title="Fürth (lungsod) – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%81%D9%88%D8%B1%D8%AA" title="فورت – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%93%8C%EB%A5%B4%ED%8A%B8" title="퓌르트 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%96%D5%B5%D5%B8%D6%82%D6%80%D5%BF" title="Ֆյուրտ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/F%C3%BCrth_(Baviera)" title="Fürth (Baviera) – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A4%D7%99%D7%A8%D7%98_(%D7%A2%D7%99%D7%A8)" title="פירט (עיר) – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A4%E1%83%98%E1%83%A3%E1%83%A0%E1%83%A2%E1%83%98" title="ფიურტი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Firte" title="Firte – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Fiurtas" title="Fiurtas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%A4%D0%B8%D1%80%D1%82" title="Фирт – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/F%C3%BCrth_(stad)" title="Fürth (stad) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A5%E3%83%AB%E3%83%88" title="フュルト – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D9%81%D8%B1%D8%AA%DA%BE" title="فرتھ – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A4%D1%8E%D1%80%D1%82" title="Фюрт – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A4%D0%B8%D1%80%D1%82" title="Фирт – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%A4%D2%AF%D1%80%D1%82" title="Фүрт – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A4%D1%8E%D1%80%D1%82" title="Фюрт – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/F%C3%BCrth_(Bayern)" title="Fürth (Bayern) – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/F%C3%BCrth" title="Fürth – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%A4%D7%99%D7%95%D7%A8%D7%93%D7%90" title="פיורדא – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E9%9C%8D%E5%A4%AB" title="霍夫 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%B0%94%E7%89%B9" title="菲尔特 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3075#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 3 September 2017, at 12:13.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=F%C3%BCrth&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.640","walltime":"0.804","ppvisitednodes":{"value":13596,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":104261,"limit":2097152},"templateargumentsize":{"value":20867,"limit":2097152},"expansiondepth":{"value":26,"limit":40},"expensivefunctioncount":{"value":10,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  648.095      1 -total"," 62.31%  403.858      1 Template:Infobox_German_location"," 58.18%  377.031      1 Template:Infobox_settlement"," 50.20%  325.338      1 Template:Infobox"," 23.16%  150.121      7 Template:Population_Germany"," 18.45%  119.543      7 Template:Metadata_Population_DE-BY","  7.49%   48.513      8 Template:Both","  7.07%   45.846      1 Template:Coord","  6.04%   39.159      2 Template:Cite_web","  5.98%   38.774      1 Template:Reflist"]},"scribunto":{"limitreport-timeusage":{"value":"0.191","limit":"10.000"},"limitreport-memusage":{"value":6739516,"limit":52428800}},"cachereport":{"origin":"mw1216","timestamp":"20170924021025","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":909,"wgHostname":"mw1216"});});</script>
+	</body>
+</html>

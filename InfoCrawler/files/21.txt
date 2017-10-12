@@ -1,0 +1,2082 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>tf–idf - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Tf–idf","wgTitle":"Tf–idf","wgCurRevisionId":801716574,"wgRevisionId":801716574,"wgArticleId":2057290,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from July 2012","All articles lacking in-text citations","Statistical natural language processing","Ranking functions","Vector space model"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Tf–idf","wgRelevantArticleId":2057290,"wgRequestId":"WclcXgpAIDkAADY2dOQAAABH","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"TF-IDF","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Tf%E2%80%93idf","wgWikibaseItemId":"Q796584","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Tf%E2%80%93idf"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Tf%E2%80%93idf&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Tf%E2%80%93idf&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Tf%E2%80%93idf"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Tf–idf rootpage-Tf–idf skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">tf–idf</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=TF-IDF&amp;redirect=no" class="mw-redirect" title="TF-IDF">TF-IDF</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(July 2012)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<p>In <a href="/wiki/Information_retrieval" title="Information retrieval">information retrieval</a>, <b>tf–idf</b>, short for <b>term frequency–inverse document frequency</b>, is a numerical statistic that is intended to reflect how important a word is to a <a href="/wiki/Document" title="Document">document</a> in a collection or <a href="/wiki/Text_corpus" title="Text corpus">corpus</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> It is often used as a <a href="/wiki/Weighting_factor" class="mw-redirect" title="Weighting factor">weighting factor</a> in information retrieval, <a href="/wiki/Text_mining" title="Text mining">text mining</a>, and <a href="/wiki/User_modeling" title="User modeling">user modeling</a>. The tf-idf value increases <a href="/wiki/Proportionality_(mathematics)" title="Proportionality (mathematics)">proportionally</a> to the number of times a word appears in the document, but is often offset by the frequency of the word in the corpus, which helps to adjust for the fact that some words appear more frequently in general. Nowadays, tf-idf is one of the most popular term-weighting schemes. For instance, 83% of text-based recommender systems in the domain of digital libraries use tf-idf.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p>Variations of the tf–idf weighting scheme are often used by <a href="/wiki/Search_engine" class="mw-redirect" title="Search engine">search engines</a> as a central tool in scoring and ranking a document's <a href="/wiki/Relevance_(information_retrieval)" title="Relevance (information retrieval)">relevance</a> given a user <a href="/wiki/Information_retrieval" title="Information retrieval">query</a>. tf–idf can be successfully used for <a href="/wiki/Stop-words" class="mw-redirect" title="Stop-words">stop-words</a> filtering in various subject fields including <a href="/wiki/Automatic_summarization" title="Automatic summarization">text summarization</a> and classification.</p>
+<p>One of the simplest <a href="/wiki/Ranking_function" class="mw-redirect" title="Ranking function">ranking functions</a> is computed by summing the tf–idf for each query term; many more sophisticated ranking functions are variants of this simple model.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Motivations"><span class="tocnumber">1</span> <span class="toctext">Motivations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Term_frequency"><span class="tocnumber">1.1</span> <span class="toctext">Term frequency</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Inverse_document_frequency"><span class="tocnumber">1.2</span> <span class="toctext">Inverse document frequency</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Definition"><span class="tocnumber">2</span> <span class="toctext">Definition</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Term_frequency_2"><span class="tocnumber">2.1</span> <span class="toctext">Term frequency</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Inverse_document_frequency_2"><span class="tocnumber">2.2</span> <span class="toctext">Inverse document frequency</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Term_frequency.E2.80.93Inverse_document_frequency"><span class="tocnumber">2.3</span> <span class="toctext">Term frequency–Inverse document frequency</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Justification_of_idf"><span class="tocnumber">3</span> <span class="toctext">Justification of idf</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Example_of_tf.E2.80.93idf"><span class="tocnumber">4</span> <span class="toctext">Example of tf–idf</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#tf-idf_Beyond_Terms"><span class="tocnumber">5</span> <span class="toctext">tf-idf Beyond Terms</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#tf-idf_Derivates"><span class="tocnumber">6</span> <span class="toctext">tf-idf Derivates</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links_and_suggested_reading"><span class="tocnumber">9</span> <span class="toctext">External links and suggested reading</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Motivations">Motivations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tf%E2%80%93idf&amp;action=edit&amp;section=1" title="Edit section: Motivations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Term_frequency">Term frequency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tf%E2%80%93idf&amp;action=edit&amp;section=2" title="Edit section: Term frequency">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Suppose we have a set of English text documents and wish to determine which document is most relevant to the query "the brown cow". A simple way to start out is by eliminating documents that do not contain all three words "the", "brown", and "cow", but this still leaves many documents. To further distinguish them, we might count the number of times each term occurs in each document; the number of times a term occurs in a document is called its <i>term frequency</i>. However, in the case where the length of documents vary greatly, adjustments are often made (see definition below).</p>
+<p>The first form of term weighting is due to <a href="/wiki/Hans_Peter_Luhn" title="Hans Peter Luhn">Hans Peter Luhn</a> (1957) and is based on the Luhn Assumption:</p>
+<ul>
+<li>The weight of a term that occurs in a document is simply proportional to the term frequency.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></li>
+</ul>
+<h3><span class="mw-headline" id="Inverse_document_frequency">Inverse document frequency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tf%E2%80%93idf&amp;action=edit&amp;section=3" title="Edit section: Inverse document frequency">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Because the term "the" is so common, term frequency will tend to incorrectly emphasize documents which happen to use the word "the" more frequently, without giving enough weight to the more meaningful terms "brown" and "cow". The term "the" is not a good keyword to distinguish relevant and non-relevant documents and terms, unlike the less common words "brown" and "cow". Hence an <i>inverse document frequency</i> factor is incorporated which diminishes the weight of terms that occur very frequently in the document set and increases the weight of terms that occur rarely.</p>
+<p><a href="/wiki/Karen_Sp%C3%A4rck_Jones" title="Karen Spärck Jones">Karen Spärck Jones</a> (1972) conceived a statistical interpretation of term specificity called Inverse Document Frequency (IDF), which became a cornerstone of term weighting:</p>
+<ul>
+<li>The specificity of a term can be quantified as an inverse function of the number of documents in which it occurs.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Definition">Definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tf%E2%80%93idf&amp;action=edit&amp;section=4" title="Edit section: Definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>tf–idf is the product of two statistics, term frequency and inverse document frequency. Various ways for determining the exact values of both statistics exist.</p>
+<table class="wikitable" style="float: right; margin-left: 1.5em; margin-right: 0; margin-top: 0;">
+<caption>Variants of term frequency (TF) weight</caption>
+<tr>
+<th>weighting scheme</th>
+<th>TF weight</th>
+</tr>
+<tr>
+<td>binary</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mn>0</mn>
+          <mo>,</mo>
+          <mn>1</mn>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {0,1}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a019735e07635e5a74673d6e1a34919027e645f5" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:3.39ex; height:2.509ex;" alt="{0,1}" /></span></td>
+</tr>
+<tr>
+<td>raw count</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>f</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+            <mo>,</mo>
+            <mi>d</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f_{t,d}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/69faba5875c1ba7d6a3820c813ba22fba35185f5" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:3.315ex; height:2.843ex;" alt="f_{{t,d}}" /></span></td>
+</tr>
+<tr>
+<td>term frequency</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>f</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+            <mo>,</mo>
+            <mi>d</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f_{t,d}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/69faba5875c1ba7d6a3820c813ba22fba35185f5" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:3.315ex; height:2.843ex;" alt="f_{{t,d}}" /></span> / <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <munder>
+            <mo>&#x2211;<!-- ∑ --></mo>
+            <mrow class="MJX-TeXAtom-ORD">
+              <msup>
+                <mi>t</mi>
+                <mo>&#x2032;</mo>
+              </msup>
+              <mo>&#x2208;<!-- ∈ --></mo>
+              <mi>d</mi>
+            </mrow>
+          </munder>
+          <mrow class="MJX-TeXAtom-ORD">
+            <msub>
+              <mi>f</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <msup>
+                  <mi>t</mi>
+                  <mo>&#x2032;</mo>
+                </msup>
+                <mo>,</mo>
+                <mi>d</mi>
+              </mrow>
+            </msub>
+          </mrow>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\sum _{t'\in d}{f_{t',d}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/727cc25cb4d084dc9015eff559f1605159add737" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.338ex; width:7.605ex; height:5.843ex;" alt="{\displaystyle {\sum _{t&#039;\in d}{f_{t&#039;,d}}}}" /></span></td>
+</tr>
+<tr>
+<td>log normalization</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mn>1</mn>
+        <mo>+</mo>
+        <mi>log</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>f</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+            <mo>,</mo>
+            <mi>d</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 1+\log(f_{t,d})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2cad2149163c77d9c4bd900ba06ebdc259c38810" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:12.172ex; height:3.009ex;" alt="1 + \log (f_{t,d})" /></span></td>
+</tr>
+<tr>
+<td>double normalization 0.5</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mn>0.5</mn>
+        <mo>+</mo>
+        <mn>0.5</mn>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msub>
+              <mi>f</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>t</mi>
+                <mo>,</mo>
+                <mi>d</mi>
+              </mrow>
+            </msub>
+            <mrow>
+              <munder>
+                <mo movablelimits="true" form="prefix">max</mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mo fence="false" stretchy="false">{</mo>
+                  <msup>
+                    <mi>t</mi>
+                    <mo>&#x2032;</mo>
+                  </msup>
+                  <mo>&#x2208;<!-- ∈ --></mo>
+                  <mi>d</mi>
+                  <mo fence="false" stretchy="false">}</mo>
+                </mrow>
+              </munder>
+              <mrow class="MJX-TeXAtom-ORD">
+                <msub>
+                  <mi>f</mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <msup>
+                      <mi>t</mi>
+                      <mo>&#x2032;</mo>
+                    </msup>
+                    <mo>,</mo>
+                    <mi>d</mi>
+                  </mrow>
+                </msub>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 0.5+0.5\cdot {\frac {f_{t,d}}{\max _{\{t'\in d\}}{f_{t',d}}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/45badc1c70ec2caa00ed8c21ed75bd9f8d3e650c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.838ex; width:24.98ex; height:6.676ex;" alt="{\displaystyle 0.5+0.5\cdot {\frac {f_{t,d}}{\max _{\{t&#039;\in d\}}{f_{t&#039;,d}}}}}" /></span></td>
+</tr>
+<tr>
+<td>double normalization K</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>K</mi>
+        <mo>+</mo>
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>K</mi>
+        <mo stretchy="false">)</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msub>
+              <mi>f</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>t</mi>
+                <mo>,</mo>
+                <mi>d</mi>
+              </mrow>
+            </msub>
+            <mrow>
+              <munder>
+                <mo movablelimits="true" form="prefix">max</mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mo fence="false" stretchy="false">{</mo>
+                  <msup>
+                    <mi>t</mi>
+                    <mo>&#x2032;</mo>
+                  </msup>
+                  <mo>&#x2208;<!-- ∈ --></mo>
+                  <mi>d</mi>
+                  <mo fence="false" stretchy="false">}</mo>
+                </mrow>
+              </munder>
+              <mrow class="MJX-TeXAtom-ORD">
+                <msub>
+                  <mi>f</mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <msup>
+                      <mi>t</mi>
+                      <mo>&#x2032;</mo>
+                    </msup>
+                    <mo>,</mo>
+                    <mi>d</mi>
+                  </mrow>
+                </msub>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle K+(1-K){\frac {f_{t,d}}{\max _{\{t'\in d\}}{f_{t',d}}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/65b776d7a3f8e42f15c880fb7582282b987684fe" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.838ex; width:27.291ex; height:6.676ex;" alt="{\displaystyle K+(1-K){\frac {f_{t,d}}{\max _{\{t&#039;\in d\}}{f_{t&#039;,d}}}}}" /></span></td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Term_frequency_2">Term frequency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tf%E2%80%93idf&amp;action=edit&amp;section=5" title="Edit section: Term frequency">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the case of the <b>term frequency</b> <span class="texhtml">tf(<i>t</i>,<i>d</i>)</span>, the simplest choice is to use the <i>raw count</i> of a term in a document, i.e. the number of times that term <span class="texhtml mvar" style="font-style:italic;">t</span> occurs in document <span class="texhtml mvar" style="font-style:italic;">d</span>. If we denote the raw count by <span class="texhtml"><i>f</i><sub><i>t</i>,<i>d</i></sub></span>, then the simplest tf scheme is <span class="texhtml">tf(<i>t</i>,<i>d</i>) = <i>f</i><sub><i>t</i>,<i>d</i></sub></span>. Other possibilities include<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup class="reference" style="white-space:nowrap;">:128</sup></p>
+<ul>
+<li><a href="/wiki/Boolean_data_type" title="Boolean data type">Boolean</a> "frequencies": <span class="texhtml">tf(<i>t</i>,<i>d</i>) = 1</span> if <span class="texhtml mvar" style="font-style:italic;">t</span> occurs in <span class="texhtml mvar" style="font-style:italic;">d</span> and 0 otherwise;</li>
+<li>term frequency adjusted for document length&#160;: <span class="texhtml"><i>f</i><sub><i>t</i>,<i>d</i></sub></span> ÷ (number of words in d)</li>
+<li><a href="/wiki/Logarithmic_scale" title="Logarithmic scale">logarithmically scaled</a> frequency: <span class="texhtml">tf(<i>t</i>,<i>d</i>) = 1 + log <i>f</i><sub><i>t</i>,<i>d</i></sub></span>, or zero if <span class="texhtml"><i>f</i><sub><i>t</i>,<i>d</i></sub></span> is zero;</li>
+<li>augmented frequency, to prevent a bias towards longer documents, e.g. raw frequency divided by the raw frequency of the most occurring term in the document:</li>
+</ul>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">t</mi>
+          <mi mathvariant="normal">f</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo>,</mo>
+        <mi>d</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mn>0.5</mn>
+        <mo>+</mo>
+        <mn>0.5</mn>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msub>
+              <mi>f</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>t</mi>
+                <mo>,</mo>
+                <mi>d</mi>
+              </mrow>
+            </msub>
+            <mrow>
+              <mo movablelimits="true" form="prefix">max</mo>
+              <mo fence="false" stretchy="false">{</mo>
+              <msub>
+                <mi>f</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <msup>
+                    <mi>t</mi>
+                    <mo>&#x2032;</mo>
+                  </msup>
+                  <mo>,</mo>
+                  <mi>d</mi>
+                </mrow>
+              </msub>
+              <mo>:</mo>
+              <msup>
+                <mi>t</mi>
+                <mo>&#x2032;</mo>
+              </msup>
+              <mo>&#x2208;<!-- ∈ --></mo>
+              <mi>d</mi>
+              <mo fence="false" stretchy="false">}</mo>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {tf} (t,d)=0.5+0.5\cdot {\frac {f_{t,d}}{\max\{f_{t',d}:t'\in d\}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/da4be29a89f4c67ff5a8ad0c7355df1aff67a65b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.838ex; width:39.356ex; height:6.676ex;" alt="{\displaystyle \mathrm {tf} (t,d)=0.5+0.5\cdot {\frac {f_{t,d}}{\max\{f_{t&#039;,d}:t&#039;\in d\}}}}" /></span></dd>
+</dl>
+<h3><span class="mw-headline" id="Inverse_document_frequency_2">Inverse document frequency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tf%E2%80%93idf&amp;action=edit&amp;section=6" title="Edit section: Inverse document frequency">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div style="clear:right;"></div>
+<table class="wikitable" style="float: right; margin-left: 1.5em; margin-right: 0; margin-top: 0;">
+<caption>Variants of inverse document frequency (IDF) weight</caption>
+<tr>
+<th>weighting scheme</th>
+<th>IDF weight (<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>n</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mo fence="false" stretchy="false">{</mo>
+        <mi>d</mi>
+        <mo>&#x2208;<!-- ∈ --></mo>
+        <mi>D</mi>
+        <mo>:</mo>
+        <mi>t</mi>
+        <mo>&#x2208;<!-- ∈ --></mo>
+        <mi>d</mi>
+        <mo fence="false" stretchy="false">}</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle n_{t}=|\{d\in D:t\in d\}|}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e5d6fca54b5ec3fa4680ead41736fc1c16a58ca1" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:21.895ex; height:2.843ex;" alt="{\displaystyle n_{t}=|\{d\in D:t\in d\}|}" /></span>)</th>
+</tr>
+<tr>
+<td>unary</td>
+<td>1</td>
+</tr>
+<tr>
+<td>inverse document frequency</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>log</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>N</mi>
+            <msub>
+              <mi>n</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>t</mi>
+              </mrow>
+            </msub>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>log</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msub>
+              <mi>n</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>t</mi>
+              </mrow>
+            </msub>
+            <mi>N</mi>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \log {\frac {N}{n_{t}}}=-\log {\frac {n_{t}}{N}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/864fcfdc0c16344c11509f724f1aa7081cf9f657" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.171ex; width:18.244ex; height:5.676ex;" alt="{\displaystyle \log {\frac {N}{n_{t}}}=-\log {\frac {n_{t}}{N}}}" /></span></td>
+</tr>
+<tr>
+<td>inverse document frequency smooth</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>log</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mrow>
+          <mo>(</mo>
+          <mn>1</mn>
+          <mo>+</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mfrac>
+              <mi>N</mi>
+              <msub>
+                <mi>n</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>t</mi>
+                </mrow>
+              </msub>
+            </mfrac>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \log \left(1+{\frac {N}{n_{t}}}\right)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/29f34f3a19a3fec371d5ab2756896a4c3cfc0d96" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:13.544ex; height:6.176ex;" alt="{\displaystyle \log \left(1+{\frac {N}{n_{t}}}\right)}" /></span></td>
+</tr>
+<tr>
+<td>inverse document frequency max</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>log</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mfrac>
+              <mrow>
+                <munder>
+                  <mo movablelimits="true" form="prefix">max</mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mo fence="false" stretchy="false">{</mo>
+                    <msup>
+                      <mi>t</mi>
+                      <mo>&#x2032;</mo>
+                    </msup>
+                    <mo>&#x2208;<!-- ∈ --></mo>
+                    <mi>d</mi>
+                    <mo fence="false" stretchy="false">}</mo>
+                  </mrow>
+                </munder>
+                <msub>
+                  <mi>n</mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <msup>
+                      <mi>t</mi>
+                      <mo>&#x2032;</mo>
+                    </msup>
+                  </mrow>
+                </msub>
+              </mrow>
+              <mrow>
+                <mn>1</mn>
+                <mo>+</mo>
+                <msub>
+                  <mi>n</mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mi>t</mi>
+                  </mrow>
+                </msub>
+              </mrow>
+            </mfrac>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \log \left({\frac {\max _{\{t'\in d\}}n_{t'}}{1+n_{t}}}\right)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f15c125a1d7f1327afeecc4e2b89272a9a094338" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:19.802ex; height:6.176ex;" alt="{\displaystyle \log \left({\frac {\max _{\{t&#039;\in d\}}n_{t&#039;}}{1+n_{t}}}\right)}" /></span></td>
+</tr>
+<tr>
+<td>probabilistic inverse document frequency</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>log</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>N</mi>
+              <mo>&#x2212;<!-- − --></mo>
+              <msub>
+                <mi>n</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>t</mi>
+                </mrow>
+              </msub>
+            </mrow>
+            <msub>
+              <mi>n</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>t</mi>
+              </mrow>
+            </msub>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \log {\frac {N-n_{t}}{n_{t}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1868194cba8431aa2d556dd1aac90d78833eaaf3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.171ex; width:11.39ex; height:5.676ex;" alt="\log {\frac  {N-n_{t}}{n_{t}}}" /></span></td>
+</tr>
+</table>
+<p>The <b>inverse document frequency</b> is a measure of how much information the word provides, that is, whether the term is common or rare across all documents. It is the <a href="/wiki/Logarithmic_scale" title="Logarithmic scale">logarithmically scaled</a> inverse fraction of the documents that contain the word, obtained by dividing the total number of documents by the number of documents containing the term, and then taking the logarithm of that quotient.</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">i</mi>
+          <mi mathvariant="normal">d</mi>
+          <mi mathvariant="normal">f</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo>,</mo>
+        <mi>D</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>log</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>N</mi>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo stretchy="false">|</mo>
+              </mrow>
+              <mo fence="false" stretchy="false">{</mo>
+              <mi>d</mi>
+              <mo>&#x2208;<!-- ∈ --></mo>
+              <mi>D</mi>
+              <mo>:</mo>
+              <mi>t</mi>
+              <mo>&#x2208;<!-- ∈ --></mo>
+              <mi>d</mi>
+              <mo fence="false" stretchy="false">}</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo stretchy="false">|</mo>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {idf} (t,D)=\log {\frac {N}{|\{d\in D:t\in d\}|}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ac67bc0f76b5b8e31e842d6b7d28f8949dab7937" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.671ex; width:32.378ex; height:6.176ex;" alt=" \mathrm{idf}(t, D) =  \log \frac{N}{|\{d \in D: t \in d\}|}" /></span></dd>
+</dl>
+<p>with</p>
+<ul>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>N</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle N}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5e3890c981ae85503089652feb48b191b57aae3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.074ex; height:2.176ex;" alt="N" /></span>: total number of documents in the corpus <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>N</mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo stretchy="false">|</mo>
+          </mrow>
+          <mi>D</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo stretchy="false">|</mo>
+          </mrow>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle N={|D|}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ac5fda2321c816116367dea5a306bdc40727e61e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:8.432ex; height:2.843ex;" alt="N = {|D|}" /></span></li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mo fence="false" stretchy="false">{</mo>
+        <mi>d</mi>
+        <mo>&#x2208;<!-- ∈ --></mo>
+        <mi>D</mi>
+        <mo>:</mo>
+        <mi>t</mi>
+        <mo>&#x2208;<!-- ∈ --></mo>
+        <mi>d</mi>
+        <mo fence="false" stretchy="false">}</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle |\{d\in D:t\in d\}|}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3ddbc54aba98eaf15ef0f1a0677d3de5c6b4df07" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:16.548ex; height:2.843ex;" alt=" |\{d \in D: t \in d\}| " /></span>&#160;: number of documents where the term <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>t</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle t}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/65658b7b223af9e1acc877d848888ecdb4466560" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:0.85ex; height:2.009ex;" alt="t" /></span> appears (i.e., <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">t</mi>
+          <mi mathvariant="normal">f</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo>,</mo>
+        <mi>d</mi>
+        <mo stretchy="false">)</mo>
+        <mo>&#x2260;<!-- ≠ --></mo>
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {tf} (t,d)\neq 0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0b53fe00b6a3d033f183a8f3f0cfae9982206d5a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:11.024ex; height:2.843ex;" alt=" \mathrm{tf}(t,d) \neq 0" /></span>). If the term is not in the corpus, this will lead to a division-by-zero. It is therefore common to adjust the denominator to <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mn>1</mn>
+        <mo>+</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mo fence="false" stretchy="false">{</mo>
+        <mi>d</mi>
+        <mo>&#x2208;<!-- ∈ --></mo>
+        <mi>D</mi>
+        <mo>:</mo>
+        <mi>t</mi>
+        <mo>&#x2208;<!-- ∈ --></mo>
+        <mi>d</mi>
+        <mo fence="false" stretchy="false">}</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 1+|\{d\in D:t\in d\}|}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/104921c6994a66054acc909a6bb811a47f983a53" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:20.571ex; height:2.843ex;" alt="1 + |\{d \in D: t \in d\}|" /></span>.</li>
+</ul>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Plot_IDF_functions.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Plot_IDF_functions.png/220px-Plot_IDF_functions.png" width="220" height="124" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Plot_IDF_functions.png/330px-Plot_IDF_functions.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Plot_IDF_functions.png/440px-Plot_IDF_functions.png 2x" data-file-width="2647" data-file-height="1486" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Plot_IDF_functions.png" class="internal" title="Enlarge"></a></div>
+Plot of differents inverse document frequency functions: standard, smooth, probabilistic.</div>
+</div>
+</div>
+<h3><span id="Term_frequency–Inverse_document_frequency"></span><span class="mw-headline" id="Term_frequency.E2.80.93Inverse_document_frequency">Term frequency–Inverse document frequency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tf%E2%80%93idf&amp;action=edit&amp;section=7" title="Edit section: Term frequency–Inverse document frequency">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Then tf–idf is calculated as</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">t</mi>
+          <mi mathvariant="normal">f</mi>
+          <mi mathvariant="normal">i</mi>
+          <mi mathvariant="normal">d</mi>
+          <mi mathvariant="normal">f</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo>,</mo>
+        <mi>d</mi>
+        <mo>,</mo>
+        <mi>D</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">t</mi>
+          <mi mathvariant="normal">f</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo>,</mo>
+        <mi>d</mi>
+        <mo stretchy="false">)</mo>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">i</mi>
+          <mi mathvariant="normal">d</mi>
+          <mi mathvariant="normal">f</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo>,</mo>
+        <mi>D</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {tfidf} (t,d,D)=\mathrm {tf} (t,d)\cdot \mathrm {idf} (t,D)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/10109d0e60cc9d50a1ea2f189bac0ac29a030a00" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:32.592ex; height:2.843ex;" alt="{\displaystyle \mathrm {tfidf} (t,d,D)=\mathrm {tf} (t,d)\cdot \mathrm {idf} (t,D)}" /></span></dd>
+</dl>
+<p>A high weight in tf–idf is reached by a high term <a href="/wiki/Frequency_(statistics)" title="Frequency (statistics)">frequency</a> (in the given document) and a low document frequency of the term in the whole collection of documents; the weights hence tend to filter out common terms. Since the ratio inside the idf's log function is always greater than or equal to 1, the value of idf (and tf-idf) is greater than or equal to 0. As a term appears in more documents, the ratio inside the logarithm approaches 1, bringing the idf and tf-idf closer to 0.</p>
+<table class="wikitable" style="float: top; margin-left: 0; margin-right: 1.5em; margin-top: 0;">
+<caption>Recommended TF-IDF weighting schemes</caption>
+<tr>
+<th>weighting scheme</th>
+<th>document term weight</th>
+<th>query term weight</th>
+</tr>
+<tr>
+<td>1</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>f</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+            <mo>,</mo>
+            <mi>d</mi>
+          </mrow>
+        </msub>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mi>log</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>N</mi>
+            <msub>
+              <mi>n</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>t</mi>
+              </mrow>
+            </msub>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f_{t,d}\cdot \log {\frac {N}{n_{t}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/74db3d91105b74e8450a78fadbf7ea7f241bc737" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.171ex; width:11.469ex; height:5.676ex;" alt="{\displaystyle f_{t,d}\cdot \log {\frac {N}{n_{t}}}}" /></span></td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow>
+          <mo>(</mo>
+          <mn>0.5</mn>
+          <mo>+</mo>
+          <mn>0.5</mn>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mfrac>
+              <msub>
+                <mi>f</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>t</mi>
+                  <mo>,</mo>
+                  <mi>q</mi>
+                </mrow>
+              </msub>
+              <mrow>
+                <munder>
+                  <mo movablelimits="true" form="prefix">max</mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mi>t</mi>
+                  </mrow>
+                </munder>
+                <msub>
+                  <mi>f</mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mi>t</mi>
+                    <mo>,</mo>
+                    <mi>q</mi>
+                  </mrow>
+                </msub>
+              </mrow>
+            </mfrac>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mi>log</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>N</mi>
+            <msub>
+              <mi>n</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>t</mi>
+              </mrow>
+            </msub>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \left(0.5+0.5{\frac {f_{t,q}}{\max _{t}f_{t,q}}}\right)\cdot \log {\frac {N}{n_{t}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fe1629098093a97eb293bd5085009c51c3cdd77b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.671ex; width:30.079ex; height:6.509ex;" alt="{\displaystyle \left(0.5+0.5{\frac {f_{t,q}}{\max _{t}f_{t,q}}}\right)\cdot \log {\frac {N}{n_{t}}}}" /></span></td>
+</tr>
+<tr>
+<td>2</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mn>1</mn>
+        <mo>+</mo>
+        <mi>log</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <msub>
+          <mi>f</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+            <mo>,</mo>
+            <mi>d</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 1+\log f_{t,d}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/dc85c57525999f9f224ac5623e606bea2160d171" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:10.729ex; height:2.843ex;" alt="1+\log f_{{t,d}}" /></span></td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>log</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mo>+</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>N</mi>
+            <msub>
+              <mi>n</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>t</mi>
+              </mrow>
+            </msub>
+          </mfrac>
+        </mrow>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \log(1+{\frac {N}{n_{t}}})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a2b4090acd4292ac5ebbdb6b5355492012f9f471" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.171ex; width:11.932ex; height:5.676ex;" alt="\log(1+{\frac  {N}{n_{t}}})" /></span></td>
+</tr>
+<tr>
+<td>3</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mo>+</mo>
+        <mi>log</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <msub>
+          <mi>f</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+            <mo>,</mo>
+            <mi>d</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mi>log</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>N</mi>
+            <msub>
+              <mi>n</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>t</mi>
+              </mrow>
+            </msub>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle (1+\log f_{t,d})\cdot \log {\frac {N}{n_{t}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c271425fa07254a10379f1379e02d0fd034f4f21" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.171ex; width:20.714ex; height:5.676ex;" alt="{\displaystyle (1+\log f_{t,d})\cdot \log {\frac {N}{n_{t}}}}" /></span></td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mo>+</mo>
+        <mi>log</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <msub>
+          <mi>f</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+            <mo>,</mo>
+            <mi>q</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mi>log</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>N</mi>
+            <msub>
+              <mi>n</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>t</mi>
+              </mrow>
+            </msub>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle (1+\log f_{t,q})\cdot \log {\frac {N}{n_{t}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cb8cdf7f351b63973cee045cc98c9efcde04203a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.171ex; width:20.61ex; height:5.676ex;" alt="{\displaystyle (1+\log f_{t,q})\cdot \log {\frac {N}{n_{t}}}}" /></span></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Justification_of_idf">Justification of idf</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tf%E2%80%93idf&amp;action=edit&amp;section=8" title="Edit section: Justification of idf">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Idf was introduced, as "term specificity", by <a href="/wiki/Karen_Sp%C3%A4rck_Jones" title="Karen Spärck Jones">Karen Spärck Jones</a> in a 1972 paper. Although it has worked well as a <a href="/wiki/Heuristic" title="Heuristic">heuristic</a>, its theoretical foundations have been troublesome for at least three decades afterward, with many researchers trying to find <a href="/wiki/Information_theory" title="Information theory">information theoretic</a> justifications for it.<sup id="cite_ref-understanding_6-0" class="reference"><a href="#cite_note-understanding-6">[6]</a></sup></p>
+<p>Spärck Jones's own explanation did not propose much theory, aside from a connection to <a href="/wiki/Zipf%27s_law" title="Zipf's law">Zipf's law</a>.<sup id="cite_ref-understanding_6-1" class="reference"><a href="#cite_note-understanding-6">[6]</a></sup> Attempts have been made to put idf on a <a href="/wiki/Probability_theory" title="Probability theory">probabilistic</a> footing,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> by estimating the probability that a given document <span class="texhtml mvar" style="font-style:italic;">d</span> contains a term <span class="texhtml mvar" style="font-style:italic;">t</span> as the relative document frequency,</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>P</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mi>d</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo stretchy="false">|</mo>
+              </mrow>
+              <mo fence="false" stretchy="false">{</mo>
+              <mi>d</mi>
+              <mo>&#x2208;<!-- ∈ --></mo>
+              <mi>D</mi>
+              <mo>:</mo>
+              <mi>t</mi>
+              <mo>&#x2208;<!-- ∈ --></mo>
+              <mi>d</mi>
+              <mo fence="false" stretchy="false">}</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo stretchy="false">|</mo>
+              </mrow>
+            </mrow>
+            <mi>N</mi>
+          </mfrac>
+        </mrow>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P(t|d)={\frac {|\{d\in D:t\in d\}|}{N}},}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9d2ddfb41e405ec8c5699dac388b7b9f9e944c14" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:27.47ex; height:5.843ex;" alt="{\displaystyle P(t|d)={\frac {|\{d\in D:t\in d\}|}{N}},}" /></span></dd>
+</dl>
+<p>so that we can define idf as</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true">
+            <mtr>
+              <mtd>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi mathvariant="normal">i</mi>
+                  <mi mathvariant="normal">d</mi>
+                  <mi mathvariant="normal">f</mi>
+                </mrow>
+              </mtd>
+              <mtd>
+                <mi></mi>
+                <mo>=</mo>
+                <mo>&#x2212;<!-- − --></mo>
+                <mi>log</mi>
+                <mo>&#x2061;<!-- ⁡ --></mo>
+                <mi>P</mi>
+                <mo stretchy="false">(</mo>
+                <mi>t</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mo stretchy="false">|</mo>
+                </mrow>
+                <mi>d</mi>
+                <mo stretchy="false">)</mo>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd />
+              <mtd>
+                <mi></mi>
+                <mo>=</mo>
+                <mi>log</mi>
+                <mo>&#x2061;<!-- ⁡ --></mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mfrac>
+                    <mn>1</mn>
+                    <mrow>
+                      <mi>P</mi>
+                      <mo stretchy="false">(</mo>
+                      <mi>t</mi>
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mo stretchy="false">|</mo>
+                      </mrow>
+                      <mi>d</mi>
+                      <mo stretchy="false">)</mo>
+                    </mrow>
+                  </mfrac>
+                </mrow>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd />
+              <mtd>
+                <mi></mi>
+                <mo>=</mo>
+                <mi>log</mi>
+                <mo>&#x2061;<!-- ⁡ --></mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mfrac>
+                    <mi>N</mi>
+                    <mrow>
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mo stretchy="false">|</mo>
+                      </mrow>
+                      <mo fence="false" stretchy="false">{</mo>
+                      <mi>d</mi>
+                      <mo>&#x2208;<!-- ∈ --></mo>
+                      <mi>D</mi>
+                      <mo>:</mo>
+                      <mi>t</mi>
+                      <mo>&#x2208;<!-- ∈ --></mo>
+                      <mi>d</mi>
+                      <mo fence="false" stretchy="false">}</mo>
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mo stretchy="false">|</mo>
+                      </mrow>
+                    </mrow>
+                  </mfrac>
+                </mrow>
+              </mtd>
+            </mtr>
+          </mtable>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\begin{aligned}\mathrm {idf} &amp;=-\log P(t|d)\\&amp;=\log {\frac {1}{P(t|d)}}\\&amp;=\log {\frac {N}{|\{d\in D:t\in d\}|}}\end{aligned}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cf2fd390a3d3612dcbf37e477883eb752e26b532" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -7.171ex; width:27.47ex; height:15.509ex;" alt="{\begin{aligned}{\mathrm  {idf}}&amp;=-\log P(t|d)\\&amp;=\log {\frac  {1}{P(t|d)}}\\&amp;=\log {\frac  {N}{|\{d\in D:t\in d\}|}}\end{aligned}}" /></span></dd>
+</dl>
+<p>Namely, the inverse document frequency is the logarithm of "inverse" relative document frequency.</p>
+<p>This probabilistic interpretation in turn takes the same form as that of <a href="/wiki/Self-information" title="Self-information">self-information</a>. However, applying such information-theoretic notions to problems in information retrieval leads to problems when trying to define the appropriate <a href="/wiki/Event_space" class="mw-redirect" title="Event space">event spaces</a> for the required <a href="/wiki/Probability_distribution" title="Probability distribution">probability distributions</a>: not only documents need to be taken into account, but also queries and terms.<sup id="cite_ref-understanding_6-2" class="reference"><a href="#cite_note-understanding-6">[6]</a></sup></p>
+<h2><span id="Example_of_tf–idf"></span><span class="mw-headline" id="Example_of_tf.E2.80.93idf">Example of tf–idf</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tf%E2%80%93idf&amp;action=edit&amp;section=9" title="Edit section: Example of tf–idf">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Suppose that we have term count tables of a corpus consisting of only two documents, as listed on the right.</p>
+<table class="wikitable" style="float: right; margin-left: 1.5em; margin-right: 0; margin-top: 0;">
+<caption>Document 2</caption>
+<tr>
+<th>Term</th>
+<th>Term Count</th>
+</tr>
+<tr>
+<td>this</td>
+<td>1</td>
+</tr>
+<tr>
+<td>is</td>
+<td>1</td>
+</tr>
+<tr>
+<td>another</td>
+<td>2</td>
+</tr>
+<tr>
+<td>example</td>
+<td>3</td>
+</tr>
+</table>
+<table class="wikitable" style="float: right; margin-left: 1.5em; margin-right: 0; margin-top: 0;">
+<caption>Document 1</caption>
+<tr>
+<th>Term</th>
+<th>Term Count</th>
+</tr>
+<tr>
+<td>this</td>
+<td>1</td>
+</tr>
+<tr>
+<td>is</td>
+<td>1</td>
+</tr>
+<tr>
+<td>a</td>
+<td>2</td>
+</tr>
+<tr>
+<td>sample</td>
+<td>1</td>
+</tr>
+</table>
+<p>The calculation of tf–idf for the term "this" is performed as follows:</p>
+<p>In its raw frequency form, tf is just the frequency of the "this" for each document. In each document, the word "this" appears once; but as the document 2 has more words, its relative frequency is smaller.</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">t</mi>
+          <mi mathvariant="normal">f</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <msup>
+              <mi></mi>
+              <mo>&#x2033;</mo>
+            </msup>
+            <mi mathvariant="sans-serif">t</mi>
+            <mi mathvariant="sans-serif">h</mi>
+            <mi mathvariant="sans-serif">i</mi>
+            <msup>
+              <mi mathvariant="sans-serif">s</mi>
+              <mo>&#x2033;</mo>
+            </msup>
+          </mrow>
+        </mrow>
+        <mo>,</mo>
+        <msub>
+          <mi>d</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mn>5</mn>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mn>0.2</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {tf} ({\mathsf {''this''}},d_{1})={\frac {1}{5}}=0.2}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/16c015f44d033993b3e2ede79dac61c98bf96fcb" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:24.011ex; height:5.343ex;" alt="{\displaystyle \mathrm {tf} ({\mathsf {&#039;&#039;this&#039;&#039;}},d_{1})={\frac {1}{5}}=0.2}" /></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">t</mi>
+          <mi mathvariant="normal">f</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <msup>
+              <mi></mi>
+              <mo>&#x2033;</mo>
+            </msup>
+            <mi mathvariant="sans-serif">t</mi>
+            <mi mathvariant="sans-serif">h</mi>
+            <mi mathvariant="sans-serif">i</mi>
+            <msup>
+              <mi mathvariant="sans-serif">s</mi>
+              <mo>&#x2033;</mo>
+            </msup>
+          </mrow>
+        </mrow>
+        <mo>,</mo>
+        <msub>
+          <mi>d</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mn>7</mn>
+          </mfrac>
+        </mrow>
+        <mo>&#x2248;<!-- ≈ --></mo>
+        <mn>0.14</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {tf} ({\mathsf {''this''}},d_{2})={\frac {1}{7}}\approx 0.14}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9587323bafed1255880bae568ed8c36222eb9665" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:25.183ex; height:5.343ex;" alt="{\displaystyle \mathrm {tf} ({\mathsf {&#039;&#039;this&#039;&#039;}},d_{2})={\frac {1}{7}}\approx 0.14}" /></span></dd>
+</dl>
+<p>An idf is constant per corpus, and <b>accounts</b> for the ratio of documents that include the word "this". In this case, we have a corpus of two documents and all of them include the word "this".</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">i</mi>
+          <mi mathvariant="normal">d</mi>
+          <mi mathvariant="normal">f</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <msup>
+              <mi></mi>
+              <mo>&#x2033;</mo>
+            </msup>
+            <mi mathvariant="sans-serif">t</mi>
+            <mi mathvariant="sans-serif">h</mi>
+            <mi mathvariant="sans-serif">i</mi>
+            <msup>
+              <mi mathvariant="sans-serif">s</mi>
+              <mo>&#x2033;</mo>
+            </msup>
+          </mrow>
+        </mrow>
+        <mo>,</mo>
+        <mi>D</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>log</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mfrac>
+              <mn>2</mn>
+              <mn>2</mn>
+            </mfrac>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mo>=</mo>
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {idf} ({\mathsf {''this''}},D)=\log \left({\frac {2}{2}}\right)=0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d9cade99407a0e585a9bd7201d0b11056bf86354" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:29.324ex; height:6.176ex;" alt="{\displaystyle \mathrm {idf} ({\mathsf {&#039;&#039;this&#039;&#039;}},D)=\log \left({\frac {2}{2}}\right)=0}" /></span></dd>
+</dl>
+<p>So tf–idf is zero for the word "this", which implies that the word is not very informative as it appears in all documents.</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">t</mi>
+          <mi mathvariant="normal">f</mi>
+          <mi mathvariant="normal">i</mi>
+          <mi mathvariant="normal">d</mi>
+          <mi mathvariant="normal">f</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <msup>
+              <mi></mi>
+              <mo>&#x2033;</mo>
+            </msup>
+            <mi mathvariant="sans-serif">t</mi>
+            <mi mathvariant="sans-serif">h</mi>
+            <mi mathvariant="sans-serif">i</mi>
+            <msup>
+              <mi mathvariant="sans-serif">s</mi>
+              <mo>&#x2033;</mo>
+            </msup>
+          </mrow>
+        </mrow>
+        <mo>,</mo>
+        <msub>
+          <mi>d</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mn>0.2</mn>
+        <mo>&#x00D7;<!-- × --></mo>
+        <mn>0</mn>
+        <mo>=</mo>
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {tfidf} ({\mathsf {''this''}},d_{1})=0.2\times 0=0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4db4a015c2acf3a37b18a56b12b9c274d8d60dd0" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:30.034ex; height:3.009ex;" alt="{\displaystyle \mathrm {tfidf} ({\mathsf {&#039;&#039;this&#039;&#039;}},d_{1})=0.2\times 0=0}" /></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">t</mi>
+          <mi mathvariant="normal">f</mi>
+          <mi mathvariant="normal">i</mi>
+          <mi mathvariant="normal">d</mi>
+          <mi mathvariant="normal">f</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <msup>
+              <mi></mi>
+              <mo>&#x2033;</mo>
+            </msup>
+            <mi mathvariant="sans-serif">t</mi>
+            <mi mathvariant="sans-serif">h</mi>
+            <mi mathvariant="sans-serif">i</mi>
+            <msup>
+              <mi mathvariant="sans-serif">s</mi>
+              <mo>&#x2033;</mo>
+            </msup>
+          </mrow>
+        </mrow>
+        <mo>,</mo>
+        <msub>
+          <mi>d</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mn>0.14</mn>
+        <mo>&#x00D7;<!-- × --></mo>
+        <mn>0</mn>
+        <mo>=</mo>
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {tfidf} ({\mathsf {''this''}},d_{2})=0.14\times 0=0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e55bc156db83fb445d3e04f36068cc98810c5dbd" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:31.207ex; height:3.009ex;" alt="{\displaystyle \mathrm {tfidf} ({\mathsf {&#039;&#039;this&#039;&#039;}},d_{2})=0.14\times 0=0}" /></span></dd>
+</dl>
+<p>A slightly more interesting example arises from the word "example", which occurs three times but only in the second document:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">t</mi>
+          <mi mathvariant="normal">f</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <msup>
+              <mi></mi>
+              <mo>&#x2033;</mo>
+            </msup>
+            <mi mathvariant="sans-serif">e</mi>
+            <mi mathvariant="sans-serif">x</mi>
+            <mi mathvariant="sans-serif">a</mi>
+            <mi mathvariant="sans-serif">m</mi>
+            <mi mathvariant="sans-serif">p</mi>
+            <mi mathvariant="sans-serif">l</mi>
+            <msup>
+              <mi mathvariant="sans-serif">e</mi>
+              <mo>&#x2033;</mo>
+            </msup>
+          </mrow>
+        </mrow>
+        <mo>,</mo>
+        <msub>
+          <mi>d</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>0</mn>
+            <mn>5</mn>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {tf} ({\mathsf {''example''}},d_{1})={\frac {0}{5}}=0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bbb87d4d366ac55ba7c95d813f044b9f7077b2d3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:26.582ex; height:5.343ex;" alt="{\displaystyle \mathrm {tf} ({\mathsf {&#039;&#039;example&#039;&#039;}},d_{1})={\frac {0}{5}}=0}" /></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">t</mi>
+          <mi mathvariant="normal">f</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <msup>
+              <mi></mi>
+              <mo>&#x2033;</mo>
+            </msup>
+            <mi mathvariant="sans-serif">e</mi>
+            <mi mathvariant="sans-serif">x</mi>
+            <mi mathvariant="sans-serif">a</mi>
+            <mi mathvariant="sans-serif">m</mi>
+            <mi mathvariant="sans-serif">p</mi>
+            <mi mathvariant="sans-serif">l</mi>
+            <msup>
+              <mi mathvariant="sans-serif">e</mi>
+              <mo>&#x2033;</mo>
+            </msup>
+          </mrow>
+        </mrow>
+        <mo>,</mo>
+        <msub>
+          <mi>d</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>3</mn>
+            <mn>7</mn>
+          </mfrac>
+        </mrow>
+        <mo>&#x2248;<!-- ≈ --></mo>
+        <mn>0.429</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {tf} ({\mathsf {''example''}},d_{2})={\frac {3}{7}}\approx 0.429}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/adbf6bc802f75c4281953c7ab7a25cb59bc75068" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:30.758ex; height:5.343ex;" alt="{\displaystyle \mathrm {tf} ({\mathsf {&#039;&#039;example&#039;&#039;}},d_{2})={\frac {3}{7}}\approx 0.429}" /></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">i</mi>
+          <mi mathvariant="normal">d</mi>
+          <mi mathvariant="normal">f</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <msup>
+              <mi></mi>
+              <mo>&#x2033;</mo>
+            </msup>
+            <mi mathvariant="sans-serif">e</mi>
+            <mi mathvariant="sans-serif">x</mi>
+            <mi mathvariant="sans-serif">a</mi>
+            <mi mathvariant="sans-serif">m</mi>
+            <mi mathvariant="sans-serif">p</mi>
+            <mi mathvariant="sans-serif">l</mi>
+            <msup>
+              <mi mathvariant="sans-serif">e</mi>
+              <mo>&#x2033;</mo>
+            </msup>
+          </mrow>
+        </mrow>
+        <mo>,</mo>
+        <mi>D</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>log</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mfrac>
+              <mn>2</mn>
+              <mn>1</mn>
+            </mfrac>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mo>=</mo>
+        <mn>0.301</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {idf} ({\mathsf {''example''}},D)=\log \left({\frac {2}{1}}\right)=0.301}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2d47d3b7373ec1a75121aebb62c22db147b67db9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:37.902ex; height:6.176ex;" alt="{\displaystyle \mathrm {idf} ({\mathsf {&#039;&#039;example&#039;&#039;}},D)=\log \left({\frac {2}{1}}\right)=0.301}" /></span></dd>
+</dl>
+<p>Finally,</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">t</mi>
+          <mi mathvariant="normal">f</mi>
+          <mi mathvariant="normal">i</mi>
+          <mi mathvariant="normal">d</mi>
+          <mi mathvariant="normal">f</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <msup>
+              <mi></mi>
+              <mo>&#x2033;</mo>
+            </msup>
+            <mi mathvariant="sans-serif">e</mi>
+            <mi mathvariant="sans-serif">x</mi>
+            <mi mathvariant="sans-serif">a</mi>
+            <mi mathvariant="sans-serif">m</mi>
+            <mi mathvariant="sans-serif">p</mi>
+            <mi mathvariant="sans-serif">l</mi>
+            <msup>
+              <mi mathvariant="sans-serif">e</mi>
+              <mo>&#x2033;</mo>
+            </msup>
+          </mrow>
+        </mrow>
+        <mo>,</mo>
+        <msub>
+          <mi>d</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">t</mi>
+          <mi mathvariant="normal">f</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <msup>
+              <mi></mi>
+              <mo>&#x2033;</mo>
+            </msup>
+            <mi mathvariant="sans-serif">e</mi>
+            <mi mathvariant="sans-serif">x</mi>
+            <mi mathvariant="sans-serif">a</mi>
+            <mi mathvariant="sans-serif">m</mi>
+            <mi mathvariant="sans-serif">p</mi>
+            <mi mathvariant="sans-serif">l</mi>
+            <msup>
+              <mi mathvariant="sans-serif">e</mi>
+              <mo>&#x2033;</mo>
+            </msup>
+          </mrow>
+        </mrow>
+        <mo>,</mo>
+        <msub>
+          <mi>d</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mo>&#x00D7;<!-- × --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">i</mi>
+          <mi mathvariant="normal">d</mi>
+          <mi mathvariant="normal">f</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <msup>
+              <mi></mi>
+              <mo>&#x2033;</mo>
+            </msup>
+            <mi mathvariant="sans-serif">e</mi>
+            <mi mathvariant="sans-serif">x</mi>
+            <mi mathvariant="sans-serif">a</mi>
+            <mi mathvariant="sans-serif">m</mi>
+            <mi mathvariant="sans-serif">p</mi>
+            <mi mathvariant="sans-serif">l</mi>
+            <msup>
+              <mi mathvariant="sans-serif">e</mi>
+              <mo>&#x2033;</mo>
+            </msup>
+          </mrow>
+        </mrow>
+        <mo>,</mo>
+        <mi>D</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mn>0</mn>
+        <mo>&#x00D7;<!-- × --></mo>
+        <mn>0.301</mn>
+        <mo>=</mo>
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {tfidf} ({\mathsf {''example''}},d_{1})=\mathrm {tf} ({\mathsf {''example''}},d_{1})\times \mathrm {idf} ({\mathsf {''example''}},D)=0\times 0.301=0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ac71149b12407cc1fd4fc138a66e00e7ced7e72e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:77.804ex; height:3.009ex;" alt="{\displaystyle \mathrm {tfidf} ({\mathsf {&#039;&#039;example&#039;&#039;}},d_{1})=\mathrm {tf} ({\mathsf {&#039;&#039;example&#039;&#039;}},d_{1})\times \mathrm {idf} ({\mathsf {&#039;&#039;example&#039;&#039;}},D)=0\times 0.301=0}" /></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">t</mi>
+          <mi mathvariant="normal">f</mi>
+          <mi mathvariant="normal">i</mi>
+          <mi mathvariant="normal">d</mi>
+          <mi mathvariant="normal">f</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <msup>
+              <mi></mi>
+              <mo>&#x2033;</mo>
+            </msup>
+            <mi mathvariant="sans-serif">e</mi>
+            <mi mathvariant="sans-serif">x</mi>
+            <mi mathvariant="sans-serif">a</mi>
+            <mi mathvariant="sans-serif">m</mi>
+            <mi mathvariant="sans-serif">p</mi>
+            <mi mathvariant="sans-serif">l</mi>
+            <msup>
+              <mi mathvariant="sans-serif">e</mi>
+              <mo>&#x2033;</mo>
+            </msup>
+          </mrow>
+        </mrow>
+        <mo>,</mo>
+        <msub>
+          <mi>d</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">t</mi>
+          <mi mathvariant="normal">f</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <msup>
+              <mi></mi>
+              <mo>&#x2033;</mo>
+            </msup>
+            <mi mathvariant="sans-serif">e</mi>
+            <mi mathvariant="sans-serif">x</mi>
+            <mi mathvariant="sans-serif">a</mi>
+            <mi mathvariant="sans-serif">m</mi>
+            <mi mathvariant="sans-serif">p</mi>
+            <mi mathvariant="sans-serif">l</mi>
+            <msup>
+              <mi mathvariant="sans-serif">e</mi>
+              <mo>&#x2033;</mo>
+            </msup>
+          </mrow>
+        </mrow>
+        <mo>,</mo>
+        <msub>
+          <mi>d</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mo>&#x00D7;<!-- × --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">i</mi>
+          <mi mathvariant="normal">d</mi>
+          <mi mathvariant="normal">f</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <msup>
+              <mi></mi>
+              <mo>&#x2033;</mo>
+            </msup>
+            <mi mathvariant="sans-serif">e</mi>
+            <mi mathvariant="sans-serif">x</mi>
+            <mi mathvariant="sans-serif">a</mi>
+            <mi mathvariant="sans-serif">m</mi>
+            <mi mathvariant="sans-serif">p</mi>
+            <mi mathvariant="sans-serif">l</mi>
+            <msup>
+              <mi mathvariant="sans-serif">e</mi>
+              <mo>&#x2033;</mo>
+            </msup>
+          </mrow>
+        </mrow>
+        <mo>,</mo>
+        <mi>D</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mn>0.429</mn>
+        <mo>&#x00D7;<!-- × --></mo>
+        <mn>0.301</mn>
+        <mo>&#x2248;<!-- ≈ --></mo>
+        <mn>0.13</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {tfidf} ({\mathsf {''example''}},d_{2})=\mathrm {tf} ({\mathsf {''example''}},d_{2})\times \mathrm {idf} ({\mathsf {''example''}},D)=0.429\times 0.301\approx 0.13}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/58987d157e0952fc1a6f8f449927d5fa18357a6d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:84.983ex; height:3.009ex;" alt="{\displaystyle \mathrm {tfidf} ({\mathsf {&#039;&#039;example&#039;&#039;}},d_{2})=\mathrm {tf} ({\mathsf {&#039;&#039;example&#039;&#039;}},d_{2})\times \mathrm {idf} ({\mathsf {&#039;&#039;example&#039;&#039;}},D)=0.429\times 0.301\approx 0.13}" /></span></dd>
+</dl>
+<p>(using the <a href="/wiki/Base_10_logarithm" class="mw-redirect" title="Base 10 logarithm">base 10 logarithm</a>).</p>
+<h2><span class="mw-headline" id="tf-idf_Beyond_Terms">tf-idf Beyond Terms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tf%E2%80%93idf&amp;action=edit&amp;section=10" title="Edit section: tf-idf Beyond Terms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The idea behind TF–IDF has also been applied to entities other than terms. In 1998, the concept of IDF was applied to citations.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> The authors argued that "if a very uncommon citation is shared by two documents, this should be weighted more highly than a citation made by a large number of documents". In addition, tf-idf was applied to "visual words" with the purpose of conducting object matching in videos,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> and entire sentences.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> However, not in all cases did the concept of TF–IDF prove to be more effective than a plain TF scheme (without IDF). When TF–IDF was applied to citations, researchers could find no improvement over a simple citation–count weight that had no IDF component.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<h2><span class="mw-headline" id="tf-idf_Derivates">tf-idf Derivates</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tf%E2%80%93idf&amp;action=edit&amp;section=11" title="Edit section: tf-idf Derivates">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are a number of term-weighting schemes that derived from TF–IDF. One of them is TF–PDF (Term Frequency * Proportional Document Frequency).<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> TF-PDF was introduced in 2001 in the context of identifying emerging topics in the media. The PDF component measures the difference of how often a term occurs in different domains. Another derivate is TF-IDuF. In TF-IDuF,<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> IDF is not calculated based on the document corpus that is to be searched or recommended. Instead, IDF is calculated based on users' personal document collections. The authors report that TF-IDuF was equally effective as tf-idf but could also be applied in situations when e.g. a user modeling system has no access to a global document corpus.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tf%E2%80%93idf&amp;action=edit&amp;section=12" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 25em; -webkit-column-width: 25em; column-width: 25em;">
+<ul>
+<li><a href="/wiki/Okapi_BM25" title="Okapi BM25">Okapi BM25</a></li>
+<li><a href="/wiki/Noun_phrase" title="Noun phrase">Noun phrase</a></li>
+<li><a href="/wiki/Word_count" title="Word count">Word count</a></li>
+<li><a href="/wiki/Vector_space_model" title="Vector space model">Vector space model</a></li>
+<li><a href="/wiki/PageRank" title="PageRank">PageRank</a></li>
+<li><a href="/wiki/Kullback%E2%80%93Leibler_divergence" title="Kullback–Leibler divergence">Kullback–Leibler divergence</a></li>
+<li><a href="/wiki/Mutual_information" title="Mutual information">Mutual information</a></li>
+<li><a href="/wiki/Latent_semantic_analysis" title="Latent semantic analysis">Latent semantic analysis</a></li>
+<li><a href="/wiki/Latent_semantic_indexing" class="mw-redirect" title="Latent semantic indexing">Latent semantic indexing</a></li>
+<li><a href="/wiki/Latent_Dirichlet_allocation" title="Latent Dirichlet allocation">Latent Dirichlet allocation</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tf%E2%80%93idf&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Rajaraman, A.; Ullman, J. D. (2011). "Data Mining". <a rel="nofollow" class="external text" href="http://i.stanford.edu/~ullman/mmds/ch1.pdf"><i>Mining of Massive Datasets</i></a> <span style="font-size:85%;">(PDF)</span>. pp.&#160;1–17. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-139-05845-2" title="Special:BookSources/978-1-139-05845-2">978-1-139-05845-2</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1017%2FCBO9781139058452.002">10.1017/CBO9781139058452.002</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATf%E2%80%93idf&amp;rft.atitle=Data+Mining&amp;rft.au=Ullman%2C+J.+D.&amp;rft.aufirst=A.&amp;rft.aulast=Rajaraman&amp;rft.btitle=Mining+of+Massive+Datasets&amp;rft.date=2011&amp;rft.genre=bookitem&amp;rft.isbn=978-1-139-05845-2&amp;rft.pages=1-17&amp;rft_id=http%3A%2F%2Fi.stanford.edu%2F~ullman%2Fmmds%2Fch1.pdf&amp;rft_id=info%3Adoi%2F10.1017%2FCBO9781139058452.002&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Breitinger, Corinna; Gipp, Bela; Langer, Stefan (2015-07-26). <a rel="nofollow" class="external text" href="https://link.springer.com/article/10.1007/s00799-015-0156-0">"Research-paper recommender systems: a literature survey"</a>. <i>International Journal on Digital Libraries</i>. <b>17</b> (4): 305–338. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1432-5012">1432-5012</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1007%2Fs00799-015-0156-0">10.1007/s00799-015-0156-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATf%E2%80%93idf&amp;rft.atitle=Research-paper+recommender+systems%3A+a+literature+survey&amp;rft.au=Gipp%2C+Bela&amp;rft.au=Langer%2C+Stefan&amp;rft.aufirst=Corinna&amp;rft.aulast=Breitinger&amp;rft.date=2015-07-26&amp;rft.genre=article&amp;rft.issn=1432-5012&amp;rft.issue=4&amp;rft.jtitle=International+Journal+on+Digital+Libraries&amp;rft.pages=305-338&amp;rft.volume=17&amp;rft_id=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs00799-015-0156-0&amp;rft_id=info%3Adoi%2F10.1007%2Fs00799-015-0156-0&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Luhn, Hans Peter (1957). <a rel="nofollow" class="external text" href="http://web.stanford.edu/class/linguist289/luhn57.pdf">"A Statistical Approach to Mechanized Encoding and Searching of Literary Information"</a> <span style="font-size:85%;">(PDF)</span>. <i>IBM Journal of research and development</i>. IBM. <b>1</b> (4): 315. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1147%2Frd.14.0309">10.1147/rd.14.0309</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2 March</span> 2015</span>. <q>There is also the probability that the more frequently a notion and combination of notions occur, the more importance the author attaches to them as reflecting the essence of his overall idea.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATf%E2%80%93idf&amp;rft.atitle=A+Statistical+Approach+to+Mechanized+Encoding+and+Searching+of+Literary+Information&amp;rft.aufirst=Hans+Peter&amp;rft.aulast=Luhn&amp;rft.date=1957&amp;rft.genre=article&amp;rft.issue=4&amp;rft.jtitle=IBM+Journal+of+research+and+development&amp;rft.pages=315&amp;rft.volume=1&amp;rft_id=http%3A%2F%2Fweb.stanford.edu%2Fclass%2Flinguist289%2Fluhn57.pdf&amp;rft_id=info%3Adoi%2F10.1147%2Frd.14.0309&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Karen_Sp%C3%A4rck_Jones" title="Karen Spärck Jones">Spärck Jones, K.</a> (1972). <a rel="nofollow" class="external text" href="http://www.emeraldinsight.com/doi/abs/10.1108/eb026526">"A Statistical Interpretation of Term Specificity and Its Application in Retrieval"</a>. <i>Journal of Documentation</i>. <b>28</b>: 11–21. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1108%2Feb026526">10.1108/eb026526</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATf%E2%80%93idf&amp;rft.atitle=A+Statistical+Interpretation+of+Term+Specificity+and+Its+Application+in+Retrieval&amp;rft.aufirst=K.&amp;rft.aulast=Sp%C3%A4rck+Jones&amp;rft.date=1972&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Documentation&amp;rft.pages=11-21&amp;rft.volume=28&amp;rft_id=http%3A%2F%2Fwww.emeraldinsight.com%2Fdoi%2Fabs%2F10.1108%2Feb026526&amp;rft_id=info%3Adoi%2F10.1108%2Feb026526&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Manning, C. D.; Raghavan, P.; Schutze, H. (2008). "Scoring, term weighting, and the vector space model". <a rel="nofollow" class="external text" href="http://nlp.stanford.edu/IR-book/pdf/06vect.pdf"><i>Introduction to Information Retrieval</i></a> <span style="font-size:85%;">(PDF)</span>. p.&#160;100. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-511-80907-1" title="Special:BookSources/978-0-511-80907-1">978-0-511-80907-1</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1017%2FCBO9780511809071.007">10.1017/CBO9780511809071.007</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATf%E2%80%93idf&amp;rft.atitle=Scoring%2C+term+weighting%2C+and+the+vector+space+model&amp;rft.au=Raghavan%2C+P.&amp;rft.au=Schutze%2C+H.&amp;rft.aufirst=C.+D.&amp;rft.aulast=Manning&amp;rft.btitle=Introduction+to+Information+Retrieval&amp;rft.date=2008&amp;rft.genre=bookitem&amp;rft.isbn=978-0-511-80907-1&amp;rft.pages=100&amp;rft_id=http%3A%2F%2Fnlp.stanford.edu%2FIR-book%2Fpdf%2F06vect.pdf&amp;rft_id=info%3Adoi%2F10.1017%2FCBO9780511809071.007&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-understanding-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-understanding_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-understanding_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-understanding_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Stephen_Robertson_(computer_scientist)" title="Stephen Robertson (computer scientist)">Robertson, S.</a> (2004). "Understanding inverse document frequency: On theoretical arguments for IDF". <i>Journal of Documentation</i>. <b>60</b> (5): 503–520. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1108%2F00220410410560582">10.1108/00220410410560582</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATf%E2%80%93idf&amp;rft.atitle=Understanding+inverse+document+frequency%3A+On+theoretical+arguments+for+IDF&amp;rft.aufirst=S.&amp;rft.aulast=Robertson&amp;rft.date=2004&amp;rft.genre=article&amp;rft.issue=5&amp;rft.jtitle=Journal+of+Documentation&amp;rft.pages=503-520&amp;rft.volume=60&amp;rft_id=info%3Adoi%2F10.1108%2F00220410410560582&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">See also <a rel="nofollow" class="external text" href="http://nlp.stanford.edu/IR-book/html/htmledition/probability-estimates-in-practice-1.html#p:justificationofidf">Probability estimates in practice</a> in <i>Introduction to Information Retrieval</i>.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Bollacker, Kurt D.; Lawrence, Steve; Giles, C. Lee (1998-01-01). <a rel="nofollow" class="external text" href="http://doi.acm.org/10.1145/280765.280786">"CiteSeer: An Autonomous Web Agent for Automatic Retrieval and Identification of Interesting Publications"</a>. <i>Proceedings of the Second International Conference on Autonomous Agents</i>. AGENTS '98. New York, NY, USA: ACM: 116–123. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-89791-983-1" title="Special:BookSources/0-89791-983-1">0-89791-983-1</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1145%2F280765.280786">10.1145/280765.280786</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATf%E2%80%93idf&amp;rft.atitle=CiteSeer%3A+An+Autonomous+Web+Agent+for+Automatic+Retrieval+and+Identification+of+Interesting+Publications&amp;rft.au=Giles%2C+C.+Lee&amp;rft.au=Lawrence%2C+Steve&amp;rft.aufirst=Kurt+D.&amp;rft.aulast=Bollacker&amp;rft.date=1998-01-01&amp;rft.genre=article&amp;rft.isbn=0-89791-983-1&amp;rft.jtitle=Proceedings+of+the+Second+International+Conference+on+Autonomous+Agents&amp;rft.pages=116-123&amp;rft_id=http%3A%2F%2Fdoi.acm.org%2F10.1145%2F280765.280786&amp;rft_id=info%3Adoi%2F10.1145%2F280765.280786&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Sivic, Josef; Zisserman, Andrew (2003-01-01). <a rel="nofollow" class="external text" href="http://dl.acm.org/citation.cfm?id=946247.946751">"Video Google: A Text Retrieval Approach to Object Matching in Videos"</a>. <i>Proceedings of the Ninth IEEE International Conference on Computer Vision – Volume 2</i>. ICCV '03. Washington, DC, USA: IEEE Computer Society: 1470–. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7695-1950-4" title="Special:BookSources/0-7695-1950-4">0-7695-1950-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATf%E2%80%93idf&amp;rft.atitle=Video+Google%3A+A+Text+Retrieval+Approach+to+Object+Matching+in+Videos&amp;rft.au=Zisserman%2C+Andrew&amp;rft.aufirst=Josef&amp;rft.aulast=Sivic&amp;rft.date=2003-01-01&amp;rft.genre=article&amp;rft.isbn=0-7695-1950-4&amp;rft.jtitle=Proceedings+of+the+Ninth+IEEE+International+Conference+on+Computer+Vision+%E2%80%93+Volume+2&amp;rft.pages=1470-&amp;rft_id=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D946247.946751&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web">Seki, Yohei. <a rel="nofollow" class="external text" href="http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings3/NTCIR3-TSC-SekiY.pdf">"Sentence Extraction by tf/idf and Position Weighting from Newspaper Articles"</a> <span style="font-size:85%;">(PDF)</span>. National Institute of Informatics.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATf%E2%80%93idf&amp;rft.aufirst=Yohei&amp;rft.aulast=Seki&amp;rft.btitle=Sentence+Extraction+by+tf%2Fidf+and+Position+Weighting+from+Newspaper+Articles&amp;rft.genre=unknown&amp;rft.pub=National+Institute+of+Informatics&amp;rft_id=http%3A%2F%2Fresearch.nii.ac.jp%2Fntcir%2Fworkshop%2FOnlineProceedings3%2FNTCIR3-TSC-SekiY.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation journal">Beel, Joeran; Breitinger, Corinna (2017). <a rel="nofollow" class="external text" href="http://beel.org/publications/2017%20iConference%20--%20Evaluating%20the%20CC-IDF%20citation-weighting%20scheme%20--%20preprint.pdf">"Evaluating the CC-IDF citation-weighting scheme – How effectively can ‘Inverse Document Frequency' (IDF) be applied to references?"</a> <span style="font-size:85%;">(PDF)</span>. <i>Proceedings of the 12th iConference</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATf%E2%80%93idf&amp;rft.atitle=Evaluating+the+CC-IDF+citation-weighting+scheme+%E2%80%93+How+effectively+can+%E2%80%98Inverse+Document+Frequency%27+%28IDF%29+be+applied+to+references%3F&amp;rft.au=Breitinger%2C+Corinna&amp;rft.aufirst=Joeran&amp;rft.aulast=Beel&amp;rft.date=2017&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+12th+iConference&amp;rft_id=http%3A%2F%2Fbeel.org%2Fpublications%2F2017%2520iConference%2520--%2520Evaluating%2520the%2520CC-IDF%2520citation-weighting%2520scheme%2520--%2520preprint.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation journal">Khoo Khyou Bun; Bun, Khoo Khyou; Ishizuka, M. (2001). <a rel="nofollow" class="external text" href="https://doi.org/10.1109/WECWIS.2001.933900">"Emerging Topic Tracking System"</a>. <i>Proceedings Third International Workshop on Advanced Issues of E-Commerce and Web-Based Information Systems. WECWIS 2001</i>: 2. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7695-1224-0" title="Special:BookSources/0-7695-1224-0">0-7695-1224-0</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1109%2Fwecwis.2001.933900">10.1109/wecwis.2001.933900</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATf%E2%80%93idf&amp;rft.atitle=Emerging+Topic+Tracking+System&amp;rft.au=Bun%2C+Khoo+Khyou&amp;rft.au=Ishizuka%2C+M.&amp;rft.au=Khoo+Khyou+Bun&amp;rft.date=2001&amp;rft.genre=article&amp;rft.isbn=0-7695-1224-0&amp;rft.jtitle=Proceedings+Third+International+Workshop+on+Advanced+Issues+of+E-Commerce+and+Web-Based+Information+Systems.+WECWIS+2001&amp;rft.pages=2&amp;rft_id=https%3A%2F%2Fdoi.org%2F10.1109%2FWECWIS.2001.933900&amp;rft_id=info%3Adoi%2F10.1109%2Fwecwis.2001.933900&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation journal">Langer, Stefan; Gipp, Bela (2017). <a rel="nofollow" class="external text" href="https://www.gipp.com/wp-content/papercite-data/pdf/beel17.pdf">"TF-IDuF: A Novel Term-Weighting Scheme for User Modeling based on Users’ Personal Document Collections"</a> <span style="font-size:85%;">(PDF)</span>. <i>iConference</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATf%E2%80%93idf&amp;rft.atitle=TF-IDuF%3A+A+Novel+Term-Weighting+Scheme+for+User+Modeling+based+on+Users%E2%80%99+Personal+Document+Collections&amp;rft.au=Gipp%2C+Bela&amp;rft.aufirst=Stefan&amp;rft.aulast=Langer&amp;rft.date=2017&amp;rft.genre=article&amp;rft.jtitle=iConference&amp;rft_id=https%3A%2F%2Fwww.gipp.com%2Fwp-content%2Fpapercite-data%2Fpdf%2Fbeel17.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<ul>
+<li><cite class="citation book"><a href="/wiki/Gerard_Salton" title="Gerard Salton">Salton, G</a>; McGill, M. J. (1986). <i>Introduction to modern information retrieval</i>. <a href="/wiki/McGraw-Hill" class="mw-redirect" title="McGraw-Hill">McGraw-Hill</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-07-054484-0" title="Special:BookSources/978-0-07-054484-0">978-0-07-054484-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATf%E2%80%93idf&amp;rft.au=McGill%2C+M.+J.&amp;rft.aufirst=G&amp;rft.aulast=Salton&amp;rft.btitle=Introduction+to+modern+information+retrieval&amp;rft.date=1986&amp;rft.genre=book&amp;rft.isbn=978-0-07-054484-0&amp;rft.pub=McGraw-Hill&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal"><a href="/wiki/Gerard_Salton" title="Gerard Salton">Salton, G.</a>; Fox, E. A.; Wu, H. (1983). "Extended Boolean information retrieval". <i>Communications of the ACM</i>. <b>26</b> (11): 1022–1036. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1145%2F182.358466">10.1145/182.358466</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATf%E2%80%93idf&amp;rft.atitle=Extended+Boolean+information+retrieval&amp;rft.au=Fox%2C+E.+A.&amp;rft.au=Wu%2C+H.&amp;rft.aufirst=G.&amp;rft.aulast=Salton&amp;rft.date=1983&amp;rft.genre=article&amp;rft.issue=11&amp;rft.jtitle=Communications+of+the+ACM&amp;rft.pages=1022-1036&amp;rft.volume=26&amp;rft_id=info%3Adoi%2F10.1145%2F182.358466&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal"><a href="/wiki/Gerard_Salton" title="Gerard Salton">Salton, G.</a>; Buckley, C. (1988). "Term-weighting approaches in automatic text retrieval". <i>Information Processing &amp; Management</i>. <b>24</b> (5): 513–523. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2F0306-4573%2888%2990021-0">10.1016/0306-4573(88)90021-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATf%E2%80%93idf&amp;rft.atitle=Term-weighting+approaches+in+automatic+text+retrieval&amp;rft.au=Buckley%2C+C.&amp;rft.aufirst=G.&amp;rft.aulast=Salton&amp;rft.date=1988&amp;rft.genre=article&amp;rft.issue=5&amp;rft.jtitle=Information+Processing+%26+Management&amp;rft.pages=513-523&amp;rft.volume=24&amp;rft_id=info%3Adoi%2F10.1016%2F0306-4573%2888%2990021-0&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Wu, H. C.; Luk, R. W. P.; Wong, K. F.; Kwok, K. L. (2008). "Interpreting TF-IDF term weights as making relevance decisions". <i>ACM Transactions on Information Systems</i>. <b>26</b> (3): 1. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1145%2F1361684.1361686">10.1145/1361684.1361686</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATf%E2%80%93idf&amp;rft.atitle=Interpreting+TF-IDF+term+weights+as+making+relevance+decisions&amp;rft.au=Kwok%2C+K.+L.&amp;rft.au=Luk%2C+R.+W.+P.&amp;rft.au=Wong%2C+K.+F.&amp;rft.aufirst=H.+C.&amp;rft.aulast=Wu&amp;rft.date=2008&amp;rft.genre=article&amp;rft.issue=3&amp;rft.jtitle=ACM+Transactions+on+Information+Systems&amp;rft.pages=1&amp;rft.volume=26&amp;rft_id=info%3Adoi%2F10.1145%2F1361684.1361686&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links_and_suggested_reading">External links and suggested reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tf%E2%80%93idf&amp;action=edit&amp;section=14" title="Edit section: External links and suggested reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://kak.tx0.org/Information-Retrieval/TFxIDF">TFxIDF Repository</a>: A definitive guide to the variants and their evolution.</li>
+<li><a href="/wiki/Gensim" title="Gensim">Gensim</a> is a Python library for vector space modeling and includes tf–idf weighting.</li>
+<li><a rel="nofollow" class="external text" href="http://bscit.berkeley.edu/cgi-bin/pl_dochome?query_src=&amp;format=html&amp;collection=Wilensky_papers&amp;id=3&amp;show_doc=yes">Robust Hyperlinking</a>: An application of tf–idf for stable document addressability.</li>
+<li><a rel="nofollow" class="external text" href="http://infinova.wordpress.com/2010/01/26/distance-between-documents/">A demo of using tf–idf with PHP and Euclidean distance for Classification</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.codeproject.com/KB/IP/AnatomyOfASearchEngine1.aspx">Anatomy of a search engine</a></li>
+<li><a rel="nofollow" class="external text" href="http://lucene.apache.org/core/3_6_1/api/all/org/apache/lucene/search/Similarity.html">tf–idf and related definitions</a> as used in <a href="/wiki/Lucene" class="mw-redirect" title="Lucene">Lucene</a></li>
+<li><a rel="nofollow" class="external text" href="http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfTransformer.html#sklearn.feature_extraction.text.TfidfTransformer">TfidfTransformer</a> in <a href="/wiki/Scikit-learn" title="Scikit-learn">scikit-learn</a></li>
+<li><a rel="nofollow" class="external text" href="http://scgroup.hpclab.ceid.upatras.gr/scgroup/Projects/TMG/">Text to Matrix Generator (TMG)</a> MATLAB toolbox that can be used for various tasks in text mining (TM) specifically i) indexing, ii) retrieval, iii) dimensionality reduction, iv) clustering, v) classification. The indexing step offers the user the ability to apply local and global weighting methods, including tf–idf.</li>
+<li><a rel="nofollow" class="external text" href="http://blog.christianperone.com/?p=1589">Pyevolve: A tutorial series explaining the tf-idf calculation</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://trimc-nlp.blogspot.com/2013/04/tfidf-with-google-n-grams-and-pos-tags.html">TF/IDF with Google n-Grams and POS Tags</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1238
+Cached time: 20170921114225
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.228 seconds
+Real time usage: 0.370 seconds
+Preprocessor visited node count: 1366/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 36685/2097152 bytes
+Template argument size: 411/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 1/500
+Lua time usage: 0.094/10.000 seconds
+Lua memory usage: 3.76 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  193.301      1 -total
+ 53.90%  104.194      1 Template:Reflist
+ 28.57%   55.236     12 Template:Cite_journal
+ 23.44%   45.302      1 Template:More_footnotes
+ 21.34%   41.249      3 Template:Cite_book
+ 14.85%   28.699      1 Template:Ambox
+  2.33%    4.507      1 Template:Cite_web
+  1.81%    3.497      1 Template:Div_col
+  1.34%    2.586      1 Template:Lowercase
+  1.00%    1.939      1 Template:Clear_right
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2057290-0!canonical!math=5 and timestamp 20170921114225 and revision id 801716574
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Tf–idf&amp;oldid=801716574">https://en.wikipedia.org/w/index.php?title=Tf–idf&amp;oldid=801716574</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Statistical_natural_language_processing" title="Category:Statistical natural language processing">Statistical natural language processing</a></li><li><a href="/wiki/Category:Ranking_functions" title="Category:Ranking functions">Ranking functions</a></li><li><a href="/wiki/Category:Vector_space_model" title="Category:Vector space model">Vector space model</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_July_2012" title="Category:Articles lacking in-text citations from July 2012">Articles lacking in-text citations from July 2012</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Tf%E2%80%93idf" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Tf%E2%80%93idf" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Tf%E2%80%93idf" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Tf%E2%80%93idf" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Tf%E2%80%93idf">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Tf%E2%80%93idf&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Tf%E2%80%93idf&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Tf%E2%80%93idf" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Tf%E2%80%93idf" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Tf%E2%80%93idf&amp;oldid=801716574" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Tf%E2%80%93idf&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q796584" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Tf%E2%80%93idf&amp;id=801716574" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Tf%E2%80%93idf">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Tf%E2%80%93idf&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DTf%25E2%2580%2593idf%26returnto%3DTf%25E2%2580%2593idf%26oldid%3D801716574%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Tf%E2%80%93idf&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D9%8A_%D8%A7%D9%81-%D8%A7%D9%8A_%D8%AF%D9%8A_%D8%AF%D9%81" title="تي اف-اي دي دف – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Tf-idf" title="Tf-idf – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Tf-idf" title="Tf-idf – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Tf-idf-Ma%C3%9F" title="Tf-idf-Maß – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Tf%E2%80%93idf" title="Tf–idf – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Tf-idf" title="Tf-idf – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D8%A7%D9%88%D8%A7%D9%86%DB%8C_%D9%88%D8%B2%D9%86%DB%8C_%D8%AA%DB%8C%E2%80%8C%D8%A7%D9%81-%D8%A2%DB%8C%E2%80%8C%D8%AF%DB%8C%E2%80%8C%D8%A7%D9%81" title="فراوانی وزنی تی‌اف-آی‌دی‌اف – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/TF-IDF" title="TF-IDF – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/TF-IDF" title="TF-IDF – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Tf-idf" title="Tf-idf – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Tf-idf" title="Tf-idf – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Tf-idf" title="Tf-idf – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/TFIDF" title="TFIDF – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Tf%E2%80%93idf" title="Tf–idf – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/TF-IDF" title="TF-IDF – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/TF-IDF" title="TF-IDF – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Tf%E2%80%93idf" title="Tf–idf – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Tf-idf" title="Tf-idf – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q796584#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 21 September 2017, at 11:42.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Tf%E2%80%93idf&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.228","walltime":"0.370","ppvisitednodes":{"value":1366,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":36685,"limit":2097152},"templateargumentsize":{"value":411,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  193.301      1 -total"," 53.90%  104.194      1 Template:Reflist"," 28.57%   55.236     12 Template:Cite_journal"," 23.44%   45.302      1 Template:More_footnotes"," 21.34%   41.249      3 Template:Cite_book"," 14.85%   28.699      1 Template:Ambox","  2.33%    4.507      1 Template:Cite_web","  1.81%    3.497      1 Template:Div_col","  1.34%    2.586      1 Template:Lowercase","  1.00%    1.939      1 Template:Clear_right"]},"scribunto":{"limitreport-timeusage":{"value":"0.094","limit":"10.000"},"limitreport-memusage":{"value":3937957,"limit":52428800}},"cachereport":{"origin":"mw1238","timestamp":"20170921114225","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":105,"wgHostname":"mw1187"});});</script>
+	</body>
+</html>

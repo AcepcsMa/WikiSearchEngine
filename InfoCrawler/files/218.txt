@@ -1,0 +1,807 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Ypres - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ypres","wgTitle":"Ypres","wgCurRevisionId":801322443,"wgRevisionId":801322443,"wgArticleId":154435,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Use dmy dates from April 2012","Coordinates on Wikidata","Articles containing Dutch-language text","All articles with unsourced statements","Articles with unsourced statements from August 2011","Interlanguage link template link number","Wikipedia articles with VIAF identifiers","Wikipedia articles with GND identifiers","Ypres","Municipalities of West Flanders","Populated places in West Flanders","Populated places in Belgium","World War I memorials in Belgium"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ypres","wgRelevantArticleId":154435,"wgRequestId":"WcchgQpAMCUAAGdbxoQAAAAR","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":50.85,"lon":2.8833333333333},"wgWikibaseItemId":"Q102728","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Ypres_grand_place.JPG/1200px-Ypres_grand_place.JPG"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ypres"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ypres&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ypres&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ypres"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Ypres rootpage-Ypres skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Ypres</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For the battles, see <a href="/wiki/Battle_of_Ypres_(disambiguation)" class="mw-redirect" title="Battle of Ypres (disambiguation)">Battles of Ypres</a>.</div>
+<table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org">Ypres</span><br />
+<span class="nickname" lang="nl" xml:lang="nl"><i>Ieper</i></span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;background-color:#cddeff; font-weight:bold;"><span class="category"><a href="/wiki/Municipalities_of_Belgium" title="Municipalities of Belgium">Municipality</a></span></td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Ypres_grand_place.JPG" class="image"><img alt="Ypres grand place.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Ypres_grand_place.JPG/250px-Ypres_grand_place.JPG" width="250" height="164" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Ypres_grand_place.JPG/375px-Ypres_grand_place.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Ypres_grand_place.JPG/500px-Ypres_grand_place.JPG 2x" data-file-width="2000" data-file-height="1313" /></a></td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" class="maptable" style="text-align:center">
+<table style="width:100%; background:none;">
+<tr>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Flag_of_Ypres.svg" class="image" title="Flag of Ypres"><img alt="Flag of Ypres" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flag_of_Ypres.svg/100px-Flag_of_Ypres.svg.png" width="100" height="67" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flag_of_Ypres.svg/150px-Flag_of_Ypres.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flag_of_Ypres.svg/200px-Flag_of_Ypres.svg.png 2x" data-file-width="324" data-file-height="216" /></a><br />
+<small>Flag</small></td>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Ieper_wapen.svg" class="image" title="Coat of arms of Ypres"><img alt="Coat of arms of Ypres" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ieper_wapen.svg/100px-Ieper_wapen.svg.png" width="100" height="75" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ieper_wapen.svg/150px-Ieper_wapen.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ieper_wapen.svg/200px-Ieper_wapen.svg.png 2x" data-file-width="481" data-file-height="362" /></a><br />
+<small>Coat of arms</small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div style="width:250px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:250px;padding:0">
+<div style="position:relative;width:250px"><a href="/wiki/File:Belgium_location_map.svg" class="image" title="Ypres is located in Belgium"><img alt="Ypres is located in Belgium" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Belgium_location_map.svg/250px-Belgium_location_map.svg.png" width="250" height="217" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Belgium_location_map.svg/375px-Belgium_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Belgium_location_map.svg/500px-Belgium_location_map.svg.png 2x" data-file-width="1136" data-file-height="988" /></a>
+<div style="position:absolute;top:36.538%;left:14.532%">
+<div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Ypres" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" title="Ypres" width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><span style="padding:1px;float:left">Ypres</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<small>Location in Belgium</small></td>
+</tr>
+<tr class="mergedrow">
+<td colspan="2" style="text-align:center">
+<div class="NavFrame collapsed" style="border:none;border:1px solid grey;">
+<div class="NavHead" style="background:transparent;text-align:center;text-align: left; height:auto; padding:0.2em; padding-left:0.6em; padding-right:2em;">Location of Ypres in <a href="/wiki/West_Flanders" title="West Flanders">West Flanders</a>&#160;</div>
+<div class="NavContent" style="background:transparent;text-align:left;text-align: center;"><a href="/wiki/File:IeperLocatie.png" class="image"><img alt="IeperLocatie.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/IeperLocatie.png/250px-IeperLocatie.png" width="250" height="188" srcset="//upload.wikimedia.org/wikipedia/commons/3/30/IeperLocatie.png 1.5x" data-file-width="270" data-file-height="203" /></a></div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Ypres&amp;params=50_51_N_02_53_E_region:BE_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">50°51′N</span> <span class="longitude">02°53′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">50.850°N 2.883°E</span><span style="display:none">﻿ / <span class="geo">50.850; 2.883</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Ypres&amp;params=50_51_N_02_53_E_region:BE_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">50°51′N</span> <span class="longitude">02°53′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">50.850°N 2.883°E</span><span style="display:none">﻿ / <span class="geo">50.850; 2.883</span></span></span></a></span></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Country</th>
+<td><a href="/wiki/Belgium" title="Belgium">Belgium</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Communities,_regions_and_language_areas_of_Belgium" title="Communities, regions and language areas of Belgium">Community</a></th>
+<td><a href="/wiki/Flemish_Community" title="Flemish Community">Flemish Community</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Communities,_regions_and_language_areas_of_Belgium" title="Communities, regions and language areas of Belgium">Region</a></th>
+<td><a href="/wiki/Flemish_Region" title="Flemish Region">Flemish Region</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Provinces_of_Belgium" title="Provinces of Belgium">Province</a></th>
+<td><a href="/wiki/West_Flanders" title="West Flanders">West Flanders</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Arrondissements_of_Belgium#Administrative" title="Arrondissements of Belgium">Arrondissement</a></th>
+<td><a href="/wiki/Arrondissement_of_Ypres" title="Arrondissement of Ypres">Ypres</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Government</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Mayor</th>
+<td>Jan Durnez (<a href="/wiki/Christen-Democratisch_en_Vlaams" title="Christen-Democratisch en Vlaams">CD&amp;V</a>)</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Governing&#160;party/ies</th>
+<td><a href="/wiki/Christen-Democratisch_en_Vlaams" title="Christen-Democratisch en Vlaams">CD&amp;V</a> &amp; <a href="/wiki/Nieuw-Vlaamse_Alliantie" class="mw-redirect" title="Nieuw-Vlaamse Alliantie">N-VA</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Area</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>130.61&#160;km<sup>2</sup> (50.43&#160;sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(1 January 2016)<sup id="cite_ref-pop-town_1-0" class="reference"><a href="#cite_note-pop-town-1">[1]</a></sup></span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>34,959</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Density</th>
+<td>270/km<sup>2</sup> (690/sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/List_of_postal_codes_in_Belgium" title="List of postal codes in Belgium">Postal codes</a></th>
+<td class="adr"><span class="postal-code">8900, 8902, 8904, 8906, 8908</span></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Telephone_numbers_in_Belgium" title="Telephone numbers in Belgium">Area codes</a></th>
+<td>057</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.ieper.be/">www.ieper.be</a></td>
+</tr>
+</table>
+<p><b>Ypres</b> (<span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="/iː/: 'ee' in 'fleece'">iː</span><span title="'p' in 'pie'">p</span><span title="'r' in 'rye'">r</span><span title="/ə/: 'a' in 'about'">ə</span></span>/</a></span></span>; <small>French pronunciation:&#160;​</small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/French" title="Help:IPA/French">[ipʁ]</a></span>; <a href="/wiki/Dutch_language" title="Dutch language">Dutch</a>: <span lang="nl" xml:lang="nl"><b>Ieper</b></span>, <small>pronounced</small> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Dutch" title="Help:IPA/Dutch">[ˈipər]</a></span>) is a <a href="/wiki/Belgium" title="Belgium">Belgian</a> <a href="/wiki/Municipalities_in_Belgium" class="mw-redirect" title="Municipalities in Belgium">municipality</a> located in the <a href="/wiki/Flemish_Region" title="Flemish Region">Flemish</a> <a href="/wiki/Provinces_of_Belgium" title="Provinces of Belgium">province</a> of <a href="/wiki/West_Flanders" title="West Flanders">West Flanders</a>. Though <i>Ieper</i> is the official name, the city's French name, <i>Ypres</i>, is most commonly used in English. The municipality comprises the city of Ypres and the villages of <a href="/wiki/Boezinge" title="Boezinge">Boezinge</a>, Brielen, Dikkebus, <a href="/wiki/Elverdinge" title="Elverdinge">Elverdinge</a>, <a href="/wiki/Hollebeke" title="Hollebeke">Hollebeke</a>, Sint-Jan, Vlamertinge, Voormezele, <a href="/wiki/Zillebeke" title="Zillebeke">Zillebeke</a>, and Zuidschote. Together, they are home to about 34,900 inhabitants.</p>
+<p>During the First World War, Ypres was the centre of <a href="/wiki/Battle_of_Ypres_(disambiguation)" class="mw-redirect" title="Battle of Ypres (disambiguation)">Battles of Ypres</a> between <a href="/wiki/German_Empire" title="German Empire">German</a> and <a href="/wiki/Allies_of_World_War_I" title="Allies of World War I">Allied</a> forces. During the war it was nicknamed "Wipers", as its name was difficult for English-speaking British Imperial forces troops to pronounce.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Origins_to_First_World_War"><span class="tocnumber">1.1</span> <span class="toctext">Origins to First World War</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#First_World_War"><span class="tocnumber">1.2</span> <span class="toctext">First World War</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#War_memory_and_memorial"><span class="tocnumber">1.3</span> <span class="toctext">War memory and memorial</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Ypres_today"><span class="tocnumber">1.4</span> <span class="toctext">Ypres today</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Sights"><span class="tocnumber">2</span> <span class="toctext">Sights</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Town_centre"><span class="tocnumber">2.1</span> <span class="toctext">Town centre</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Menin_Gate"><span class="tocnumber">2.2</span> <span class="toctext">Menin Gate</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#War_graves"><span class="tocnumber">2.3</span> <span class="toctext">War graves</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Events"><span class="tocnumber">3</span> <span class="toctext">Events</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Economy"><span class="tocnumber">4</span> <span class="toctext">Economy</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Transport"><span class="tocnumber">5</span> <span class="toctext">Transport</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Notable_people"><span class="tocnumber">6</span> <span class="toctext">Notable people</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Twin_cities"><span class="tocnumber">7</span> <span class="toctext">Twin cities</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Notes"><span class="tocnumber">8</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ypres&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Origins_to_First_World_War">Origins to First World War</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ypres&amp;action=edit&amp;section=2" title="Edit section: Origins to First World War">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Ieper,_Belgium_;_Ferraris_Map.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ieper%2C_Belgium_%3B_Ferraris_Map.jpg/220px-Ieper%2C_Belgium_%3B_Ferraris_Map.jpg" width="220" height="190" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ieper%2C_Belgium_%3B_Ferraris_Map.jpg/330px-Ieper%2C_Belgium_%3B_Ferraris_Map.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ieper%2C_Belgium_%3B_Ferraris_Map.jpg/440px-Ieper%2C_Belgium_%3B_Ferraris_Map.jpg 2x" data-file-width="652" data-file-height="564" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ieper,_Belgium_;_Ferraris_Map.jpg" class="internal" title="Enlarge"></a></div>
+Ypres on the <a href="/wiki/Ferraris_map" title="Ferraris map">Ferraris map</a> (around 1775)</div>
+</div>
+</div>
+<p>Ypres is an ancient town, known to have been raided by the <a href="/wiki/Ancient_Rome" title="Ancient Rome">Romans</a> in the first century BC. It is first mentioned by name in 1066 and is probably named after the river <a href="/wiki/Ieperlee" title="Ieperlee">Ieperlee</a> on the banks of which it was founded.<sup id="cite_ref-HistOfY_2-0" class="reference"><a href="#cite_note-HistOfY-2">[2]</a></sup></p>
+<p>During the <a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a>, Ypres was a prosperous <a href="/wiki/Flemish" title="Flemish">Flemish</a> city with a population of 40,000 in 1200 AD,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> renowned for its <a href="/wiki/Linen" title="Linen">linen</a> trade with England, which was mentioned in the <i><a href="/wiki/Canterbury_Tales" class="mw-redirect" title="Canterbury Tales">Canterbury Tales</a></i>.</p>
+<p>As the third largest city in the <a href="/wiki/County_of_Flanders" title="County of Flanders">County of Flanders</a> (after <a href="/wiki/Ghent" title="Ghent">Ghent</a> and <a href="/wiki/Bruges" title="Bruges">Bruges</a>) Ypres played an important role in the history of the textile industry.<sup id="cite_ref-HistOfY_2-1" class="reference"><a href="#cite_note-HistOfY-2">[2]</a></sup> Textiles from Ypres could be found in the markets of <a href="/wiki/Novgorod" class="mw-redirect" title="Novgorod">Novgorod</a> in Kievan Rus' in the early 12th century. In 1241, a major fire ruined much of the old city. The powerful city was involved in important treaties and battles, including the <a href="/wiki/Battle_of_the_Golden_Spurs" title="Battle of the Golden Spurs">Battle of the Golden Spurs</a>, the Battle at Mons-en-Pévèle, the <a href="/wiki/Treaty_of_Melun" title="Treaty of Melun">Peace of Melun</a>, and the <a href="/wiki/Battle_of_Cassel_(1328)" title="Battle of Cassel (1328)">Battle of Cassel</a>.</p>
+<p>The famous <a href="/wiki/Cloth_Hall,_Ypres" class="mw-redirect" title="Cloth Hall, Ypres">Cloth Hall</a> was built in the thirteenth century. Also during this time cats, then the symbol of the devil and witchcraft, were thrown off Cloth Hall, possibly because of the belief that this would get rid of evil demons. Today, this act is commemorated with a <a href="/wiki/Triennial" title="Triennial">triennial</a> <a href="/wiki/Kattenstoet" title="Kattenstoet">Cat Parade</a> through town.</p>
+<p>During the <a href="/wiki/Norwich_Crusade" class="mw-redirect" title="Norwich Crusade">Norwich Crusade</a>, led by the English bishop <a href="/wiki/Henry_le_Despenser" title="Henry le Despenser">Henry le Despenser</a>, <a href="/wiki/Siege_of_Ypres_(1383)" title="Siege of Ypres (1383)">Ypres was besieged</a> from May to August 1383, until French relief forces arrived. After the destruction of <a href="/wiki/Th%C3%A9rouanne" title="Thérouanne">Thérouanne</a>, Ypres became the seat of the new <a href="/wiki/Diocese_of_Ypres" title="Diocese of Ypres">Diocese of Ypres</a> in 1561, and <a href="/wiki/St_Martin%27s_Cathedral,_Ypres" title="St Martin's Cathedral, Ypres">Saint Martin's Church</a> was elevated to cathedral.</p>
+<p>On 25 March 1678 <a href="/wiki/Siege_of_Ypres_(1678)" title="Siege of Ypres (1678)">Ypres was conquered</a> by the forces of <a href="/wiki/Louis_XIV_of_France" title="Louis XIV of France">Louis XIV of France</a>. It remained French under the <a href="/wiki/Treaty_of_Nijmegen" class="mw-redirect" title="Treaty of Nijmegen">treaty of Nijmegen</a>, and <a href="/wiki/Vauban" class="mw-redirect" title="Vauban">Vauban</a> constructed his typical fortifications that can still be seen today. In 1697, after the <a href="/wiki/Treaty_of_Ryswick" title="Treaty of Ryswick">Treaty of Ryswick</a>, Ypres was returned to the <a href="/wiki/Spanish_Netherlands" title="Spanish Netherlands">Spanish Crown</a>.</p>
+<p>During the <a href="/wiki/War_of_the_Spanish_Succession" title="War of the Spanish Succession">War of the Spanish Succession</a>, the <a href="/wiki/John_Churchill,_1st_Duke_of_Marlborough" title="John Churchill, 1st Duke of Marlborough">Duke of Marlborough</a> in 1709 intended to capture Ypres, at the time a major French fortress, but changed his mind owing to the long time and effort it had taken him to capture <a href="/wiki/Tournai" title="Tournai">Tournai</a> and apprehension of disease spreading in his army in the poorly drained land around Ypres (see <a href="/wiki/Battle_of_Malplaquet" title="Battle of Malplaquet">Battle of Malplaquet</a>). In 1713 it was handed over to the Habsburgs, and became part of the <a href="/wiki/Austrian_Netherlands" title="Austrian Netherlands">Austrian Netherlands</a>.</p>
+<p>In 1782 the <a href="/wiki/Habsburg_Austria" class="mw-redirect" title="Habsburg Austria">Habsburg Austrian</a> <a href="/wiki/Joseph_II,_Holy_Roman_Emperor" title="Joseph II, Holy Roman Emperor">Emperor Joseph II</a> ordered parts of the walls torn down. This destruction, which was only partly repaired, made it easier for the French to capture the city in the <a href="/wiki/Siege_of_Ypres_(1794)" title="Siege of Ypres (1794)">1794 Siege of Ypres</a> during the <a href="/wiki/War_of_the_First_Coalition" title="War of the First Coalition">War of the First Coalition</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<p>In 1850 the <a href="/wiki/Ypresian" title="Ypresian">Ypresian</a> Age of the <a href="/wiki/Eocene" title="Eocene">Eocene</a> Epoch was named on the basis of geology in the region by <a href="/wiki/Belgium" title="Belgium">Belgian</a> geologist <a href="/wiki/Andr%C3%A9_Hubert_Dumont" class="mw-redirect" title="André Hubert Dumont">André Hubert Dumont</a>.</p>
+<p>Ypres had long been fortified to keep out invaders. Parts of the early ramparts, dating from 1385, still survive near the Rijselpoort (Lille Gate). Over time, the earthworks were replaced by sturdier masonry and earth structures and a partial <a href="/wiki/Moat" title="Moat">moat</a>. Ypres was further fortified in the 17th and 18th centuries while under the occupation of the <a href="/wiki/Habsburgs" class="mw-redirect" title="Habsburgs">Habsburgs</a> and the French. Major works were completed at the end of the 17th century by the French military engineer <a href="/wiki/S%C3%A9bastien_Le_Prestre_de_Vauban" title="Sébastien Le Prestre de Vauban">Sébastien Le Prestre de Vauban</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<h3><span class="mw-headline" id="First_World_War">First World War</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ypres&amp;action=edit&amp;section=3" title="Edit section: First World War">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:YpresOnFire.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/YpresOnFire.jpg/170px-YpresOnFire.jpg" width="170" height="225" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/YpresOnFire.jpg/255px-YpresOnFire.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a7/YpresOnFire.jpg/340px-YpresOnFire.jpg 2x" data-file-width="523" data-file-height="693" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:YpresOnFire.jpg" class="internal" title="Enlarge"></a></div>
+Ypres's shell-blasted Cloth Hall burns</div>
+</div>
+</div>
+<p>Ypres occupied a strategic position during the First World War because it stood in the path of Germany's planned sweep across the rest of Belgium and into France from the north (the <a href="/wiki/Schlieffen_Plan" title="Schlieffen Plan">Schlieffen Plan</a>). The <a href="/wiki/Neutrality_(international_relations)" class="mw-redirect" title="Neutrality (international relations)">neutrality</a> of Belgium was guaranteed by Britain; Germany's invasion of Belgium brought the <a href="/wiki/British_Empire" title="British Empire">British Empire</a> into the war. The German army surrounded the city on three sides, bombarding it throughout much of the war. To counterattack, British, French, and allied forces made costly advances from the <a href="/wiki/Ypres_Salient" title="Ypres Salient">Ypres Salient</a> into the German lines on the surrounding hills.</p>
+<p>In the <a href="/wiki/First_Battle_of_Ypres" title="First Battle of Ypres">First Battle of Ypres</a> (19 October to 22 November 1914), the Allies captured the town from the Germans. The Germans had used <a href="/wiki/Tear_gas" title="Tear gas">tear gas</a> at the <a href="/wiki/Battle_of_Bolimov" class="mw-redirect" title="Battle of Bolimov">Battle of Bolimov</a> on 3&#160;January 1915. Their use of <a href="/wiki/Poison_gas" class="mw-redirect" title="Poison gas">poison gas</a> for the first time on 22 April 1915 marked the beginning of the <a href="/wiki/Second_Battle_of_Ypres" title="Second Battle of Ypres">Second Battle of Ypres</a>, which continued until 25 May 1915. They captured high ground east of the town. The first gas attack occurred against Canadian, British, and French soldiers, including both metropolitan French soldiers as well as <a href="/wiki/Senegal" title="Senegal">Senegalese</a> and <a href="/wiki/Algeria" title="Algeria">Algerian</a> <a href="/wiki/Tirailleurs" class="mw-redirect" title="Tirailleurs">tirailleurs</a> (light infantry) from French Africa. The gas used was <a href="/wiki/Chlorine" title="Chlorine">chlorine</a>. <a href="/wiki/Mustard_gas" class="mw-redirect" title="Mustard gas">Mustard gas</a>, also called <b>Yperite</b> from the name of this town, was also used for the first time near Ypres, in the autumn of 1917.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Ru%C3%AFne,_1919,_Ieper.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ru%C3%AFne%2C_1919%2C_Ieper.jpg/220px-Ru%C3%AFne%2C_1919%2C_Ieper.jpg" width="220" height="88" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ru%C3%AFne%2C_1919%2C_Ieper.jpg/330px-Ru%C3%AFne%2C_1919%2C_Ieper.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ru%C3%AFne%2C_1919%2C_Ieper.jpg/440px-Ru%C3%AFne%2C_1919%2C_Ieper.jpg 2x" data-file-width="1457" data-file-height="580" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ru%C3%AFne,_1919,_Ieper.jpg" class="internal" title="Enlarge"></a></div>
+Ruins of Ypres – 1919</div>
+</div>
+</div>
+<p>Of the battles, the largest, best-known, and most costly in human suffering was the Third Battle of Ypres (31 July to 6 November 1917, also known as the <a href="/wiki/Battle_of_Passchendaele" title="Battle of Passchendaele">Battle of Passchendaele</a>), in which the British, Canadian, <a href="/wiki/ANZAC" class="mw-redirect" title="ANZAC">ANZAC</a>, and French forces recaptured the <a href="/wiki/Passchendaele_Ridge" class="mw-redirect" title="Passchendaele Ridge">Passchendaele Ridge</a> east of the city at a terrible cost of lives. After months of fighting, this battle resulted in nearly half a million casualties to all sides, and only a few miles of ground won by Allied forces. During the course of the war the town was all but obliterated by the artillery fire.</p>
+<p>English-speaking soldiers in that war often referred to Ieper/Ypres by the deliberate mispronunciation <i>Wipers</i>. British soldiers even published a wartime newspaper called the <i><a href="/wiki/Wipers_Times" class="mw-redirect" title="Wipers Times">Wipers Times</a></i>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> The same style of deliberate mispronunciation was applied to other Flemish place names in the Ypres area for the benefit of British troops, such as Whyteshaete becoming <i>White Sheet</i> and Ploegsteert becoming <i>Plug Street</i>.</p>
+<p>Ypres was one of the sites that hosted an unofficial <a href="/wiki/Christmas_Truce" class="mw-redirect" title="Christmas Truce">Christmas Truce</a> in 1914 between German and British soldiers.</p>
+<p>During World War Two, the British Expeditionary Force (B.E.F.) would fight the Germans in a delaying action at the <a href="/wiki/Battle_of_the_Ypres%E2%80%93Comines_Canal" title="Battle of the Ypres–Comines Canal">Ypres-Comines Canal</a>, one of the actions that allowed the Allied retreat to Dunkirk.</p>
+<h3><span class="mw-headline" id="War_memory_and_memorial">War memory and memorial</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ypres&amp;action=edit&amp;section=4" title="Edit section: War memory and memorial">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Historian <a href="/wiki/Mark_Connelly" title="Mark Connelly">Mark Connelly</a> states that in the 1920s, British veterans set up the Ypres League and made the city the symbol of all that they believed Britain was fighting for and gave it a holy aura in their minds. The Ypres League sought to transform the horrors of trench warfare into a spiritual quest in which British and imperial troops were purified by their sacrifice. In 1920 Lieutenant-Colonel Beckles Willson's guide book, <i>The Holy Ground of British Arms</i> captured the mood of the Ypres League:</p>
+<dl>
+<dd>There is not a single half-acre in Ypres that is not sacred. There is not a single stone which has not sheltered scores of loyal young hearts, whose one impulse and desire was to fight and, if need be, to die for England. Their blood has drenched its cloisters and its cellars, but if never a drop had been spilt, if never a life had been lost in defence of Ypres still would Ypres have been hallowed, if only for the hopes and the courage it has inspired and the scenes of valour and sacrifice it has witnessed.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></dd>
+</dl>
+<p>Ypres became a pilgrimage destination for Britons to imagine and share the sufferings of their men and gain a spiritual benefit.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<p>In the 100th anniversary period more attempts are being made to preserve the First World War heritage in and around Ypres.</p>
+<h3><span class="mw-headline" id="Ypres_today">Ypres today</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ypres&amp;action=edit&amp;section=5" title="Edit section: Ypres today">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Fountain-grote-markt-ieper.redvers.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Fountain-grote-markt-ieper.redvers.jpg/220px-Fountain-grote-markt-ieper.redvers.jpg" width="220" height="123" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Fountain-grote-markt-ieper.redvers.jpg/330px-Fountain-grote-markt-ieper.redvers.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Fountain-grote-markt-ieper.redvers.jpg/440px-Fountain-grote-markt-ieper.redvers.jpg 2x" data-file-width="2046" data-file-height="1140" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Fountain-grote-markt-ieper.redvers.jpg" class="internal" title="Enlarge"></a></div>
+The fountain in the Grote Markt, Ypres, opposite the Cloth Hall</div>
+</div>
+</div>
+<p>After the war the town was rebuilt using money paid by Germany in reparations, with the main square, including the Cloth Hall and town hall, being rebuilt as close to the original designs as possible (the rest of the rebuilt town is more modern in appearance). The Cloth Hall today is home to <a href="/wiki/In_Flanders_Fields_Museum" title="In Flanders Fields Museum">In Flanders Fields Museum</a>, dedicated to Ypres's role in the First World War.</p>
+<p>Today, Ypres is a small city in the very western part of Belgium, the so-called <i>Westhoek</i>. Ypres these days has the title of "city of peace" and maintains a close friendship with another town on which war had a profound impact: <a href="/wiki/Hiroshima" title="Hiroshima">Hiroshima</a>. Both towns witnessed warfare at its worst: Ypres was one of the first places where <a href="/wiki/Chemical_warfare" title="Chemical warfare">chemical warfare</a> was <a href="/wiki/Second_Battle_of_Ypres" title="Second Battle of Ypres">employed</a>, while Hiroshima suffered the debut of <a href="/wiki/Nuclear_warfare" title="Nuclear warfare">nuclear warfare</a>. The city governments of Ypres and Hiroshima advocate that cities should never be targets again and campaign for the abolition of nuclear weapons. Ypres hosts the international campaign secretariat of <a href="/wiki/Mayors_for_Peace" title="Mayors for Peace">Mayors for Peace</a>, an international Mayoral organization mobilizing cities and citizens worldwide to abolish and eliminate nuclear weapons by the year 2020.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<h2><span class="mw-headline" id="Sights">Sights</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ypres&amp;action=edit&amp;section=6" title="Edit section: Sights">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Town_centre">Town centre</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ypres&amp;action=edit&amp;section=7" title="Edit section: Town centre">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Belgie_ieper_lakenhal_nacht.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Belgie_ieper_lakenhal_nacht.jpg/220px-Belgie_ieper_lakenhal_nacht.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Belgie_ieper_lakenhal_nacht.jpg/330px-Belgie_ieper_lakenhal_nacht.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Belgie_ieper_lakenhal_nacht.jpg/440px-Belgie_ieper_lakenhal_nacht.jpg 2x" data-file-width="800" data-file-height="600" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Belgie_ieper_lakenhal_nacht.jpg" class="internal" title="Enlarge"></a></div>
+Cloth Hall at night</div>
+</div>
+</div>
+<p>The imposing <a href="/wiki/Cloth_Hall,_Ypres" class="mw-redirect" title="Cloth Hall, Ypres">Cloth Hall</a> was built in the 13th century and was one of the largest commercial buildings of the Middle Ages. The structure which stands today is the exact copy of the original medieval building, rebuilt after the war. The <a href="/wiki/Belfries_of_Belgium_and_France" title="Belfries of Belgium and France">belfry</a> that surmounts the hall houses a 49-bell <a href="/wiki/Carillon" title="Carillon">carillon</a>. The whole complex was designated a <a href="/wiki/World_Heritage_Site" title="World Heritage Site">World Heritage Site</a> by UNESCO in 1999.</p>
+<p>The <a href="/wiki/Gothic_architecture" title="Gothic architecture">Gothic</a>-style <a href="/wiki/Saint_Martin%27s_Cathedral" class="mw-redirect" title="Saint Martin's Cathedral">Saint Martin's Cathedral</a>, originally built in 1221, was also completely reconstructed after the war, but now with a higher spire. It houses the tombs of <a href="/wiki/Jansenius" class="mw-redirect" title="Jansenius">Jansenius</a>, <a href="/wiki/Bishop_of_Ypres" class="mw-redirect" title="Bishop of Ypres">bishop of Ypres</a> and father of the religious movement known as <a href="/wiki/Jansenism" title="Jansenism">Jansenism</a>, and of <a href="/wiki/Robert_III_of_Flanders" class="mw-redirect" title="Robert III of Flanders">Robert of Bethune</a>, nicknamed "The Lion of Flanders", who was <a href="/wiki/Count_of_Nevers" class="mw-redirect" title="Count of Nevers">Count of Nevers</a> (1273–1322) and <a href="/wiki/Count_of_Flanders" title="Count of Flanders">Count of Flanders</a> (1305–1322).</p>
+<h3><span class="mw-headline" id="Menin_Gate">Menin Gate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ypres&amp;action=edit&amp;section=8" title="Edit section: Menin Gate">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Menin_Gate.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Menin_Gate.jpg/220px-Menin_Gate.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Menin_Gate.jpg/330px-Menin_Gate.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Menin_Gate.jpg/440px-Menin_Gate.jpg 2x" data-file-width="640" data-file-height="480" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Menin_Gate.jpg" class="internal" title="Enlarge"></a></div>
+The <a href="/wiki/Menin_Gate" title="Menin Gate">Menin Gate</a></div>
+</div>
+</div>
+<p>The <a href="/wiki/Menin_Gate" title="Menin Gate">Menin Gate Memorial to the Missing</a><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> Ypres commemorates those soldiers of the British Commonwealth – with the exception of Newfoundland and New Zealand – who fell in the <a href="/wiki/Ypres_Salient" title="Ypres Salient">Ypres Salient</a> during the First World War before 16 August 1917, who have no known grave. Those who died from that date – and all from New Zealand and Newfoundland – are commemorated elsewhere.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> The memorial now bears the names of more than 54,000 officers and men whose graves are not known. The memorial, designed by Sir <a href="/wiki/Reginald_Blomfield" title="Reginald Blomfield">Reginald Blomfield</a> with sculpture by Sir <a href="/wiki/William_Reid_Dick" title="William Reid Dick">William Reid Dick</a>, was unveiled by <a href="/wiki/Herbert_Plumer,_1st_Viscount_Plumer" title="Herbert Plumer, 1st Viscount Plumer">Lord Plumer</a> on 24 July 1927. It was built and is maintained by <a href="/wiki/The_Commonwealth_War_Graves_Commission" class="mw-redirect" title="The Commonwealth War Graves Commission">The Commonwealth War Graves Commission</a>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> It commemorates those of all Commonwealth nations (except New Zealand) who died in the Salient, in the case of United Kingdom casualties before 16 August 1917. Those United Kingdom and New Zealand servicemen who died after that date are named on the memorial at <a href="/wiki/Tyne_Cot" title="Tyne Cot">Tyne Cot</a>, a site which marks the furthest point reached by Commonwealth forces in Belgium until nearly the end of the war. Other New Zealand casualties are commemorated on memorials at <a href="/wiki/Buttes_New_British_Cemetery" title="Buttes New British Cemetery">Buttes New British Cemetery</a> and <a href="/wiki/Messines_Ridge_(New_Zealand)_Memorial" title="Messines Ridge (New Zealand) Memorial">Messines Ridge British Cemetery</a>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></p>
+<p>The memorial's location is especially poignant, as it lies on the eastward route from the town, which <a href="/wiki/Entente_Cordiale" title="Entente Cordiale">Entente</a> soldiers would have taken towards the fighting – many never to return. Every evening since 1928 (except for a period during the Second World War when Ypres was occupied by Germany), at precisely eight o'clock, traffic around the imposing arches of the Menin Gate Memorial has been stopped while the <i><a href="/wiki/Last_Post" title="Last Post">Last Post</a></i> is sounded beneath the gate by the local fire brigade. This tribute is given in honour of the memory of <a href="/wiki/British_Empire" title="British Empire">British Empire</a> soldiers who fought and died there. The Menin Gate in Ypres records only the soldiers for whom there is no known grave. As graves are identified, the names of those buried in them are removed from the Menin Gate.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2011)">citation needed</span></a></i>]</sup></p>
+<p>The ceremony was prohibited by occupying German forces during the Second World War, but it was resumed on the very evening of liberation – 6 September 1944 – notwithstanding the heavy fighting that still went on in other parts of the town. The lions that marked the original gate were given to Australia by the people of Belgium and can be found at the <a href="/wiki/Australian_War_Memorial" title="Australian War Memorial">Australian War Memorial</a> in <a href="/wiki/Canberra" title="Canberra">Canberra</a>. The Last Post ceremony was hosted during the German occupation of Belgium in WWII, at Brookwood Military Cemetery in England.</p>
+<dl>
+<dd>
+<dl>
+<dd>
+<dl>
+<dd>"Who will remember, passing through this Gate,</dd>
+<dd>The unheroic Dead who fed the guns?"</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+<dl>
+<dd>
+<dl>
+<dd>
+<dl>
+<dd>
+<dl>
+<dd>-- <a href="/wiki/Siegfried_Sassoon" title="Siegfried Sassoon">Siegfried Sassoon</a>, <i>On Passing the Menin Gate</i></dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+<h3><span class="mw-headline" id="War_graves">War graves</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ypres&amp;action=edit&amp;section=9" title="Edit section: War graves">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>War graves, both of the Allied side and the Central Powers, cover the landscape around Ypres. The largest number of dead are at <a href="/wiki/Langemark_German_war_cemetery" title="Langemark German war cemetery">Langemark German war cemetery</a> and <a href="/wiki/Tyne_Cot" title="Tyne Cot">Tyne Cot Commonwealth war cemetery</a>. The countryside around Ypres is featured in the famous poem by <a href="/wiki/John_McCrae" title="John McCrae">John McCrae</a>, <i><a href="/wiki/In_Flanders_Fields" title="In Flanders Fields">In Flanders Fields</a></i>.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Ieper_-_Saint_George%27s_Memorial_Church_1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ieper_-_Saint_George%27s_Memorial_Church_1.jpg/220px-Ieper_-_Saint_George%27s_Memorial_Church_1.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ieper_-_Saint_George%27s_Memorial_Church_1.jpg/330px-Ieper_-_Saint_George%27s_Memorial_Church_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ieper_-_Saint_George%27s_Memorial_Church_1.jpg/440px-Ieper_-_Saint_George%27s_Memorial_Church_1.jpg 2x" data-file-width="2304" data-file-height="1728" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ieper_-_Saint_George%27s_Memorial_Church_1.jpg" class="internal" title="Enlarge"></a></div>
+Saint George's Memorial Church</div>
+</div>
+</div>
+<p><a href="/wiki/Saint_George%27s_Memorial_Church,_Ypres" title="Saint George's Memorial Church, Ypres">Saint George's Memorial Church</a> commemorates the British and Commonwealth soldiers who died in the five battles fought for Ypres during First World War.</p>
+<h2><span class="mw-headline" id="Events">Events</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ypres&amp;action=edit&amp;section=10" title="Edit section: Events">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Kattenstoet_(2).JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kattenstoet_%282%29.JPG/220px-Kattenstoet_%282%29.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kattenstoet_%282%29.JPG/330px-Kattenstoet_%282%29.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kattenstoet_%282%29.JPG/440px-Kattenstoet_%282%29.JPG 2x" data-file-width="1024" data-file-height="768" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Kattenstoet_(2).JPG" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Kattenstoet" title="Kattenstoet">Cat Parade</a></div>
+</div>
+</div>
+<ul>
+<li>The <a href="/wiki/Kattenstoet" title="Kattenstoet">Cat Parade</a> ("Kattenstoet") takes place every three years on the second Sunday of May. It involves the throwing of stuffed toy cats from the belfry and a colourful parade of cats and witches. The next Cat Parade takes place on 13 May 2018.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></li>
+<li>Ypres is also the home of the <a href="/wiki/Belgium_Ypres_Westhoek_Rally" title="Belgium Ypres Westhoek Rally">Belgium Ypres Westhoek Rally</a> since its creation in 1965. It is organized by the Auto Club Targa Florio. Some of the drivers to have taken part are among the best-known names in rallying, such as <a href="/wiki/Juha_Kankkunen" title="Juha Kankkunen">Juha Kankkunen</a>, <a href="/wiki/Bruno_Thiry" title="Bruno Thiry">Bruno Thiry</a>, <a href="/wiki/Henri_Toivonen" title="Henri Toivonen">Henri Toivonen</a>, <a href="/wiki/Colin_McRae" title="Colin McRae">Colin McRae</a>, <a href="/wiki/Jimmy_McRae" title="Jimmy McRae">Jimmy McRae</a>, <a href="/wiki/Marc_Duez" title="Marc Duez">Marc Duez</a>, <a href="/wiki/Fran%C3%A7ois_Duval" title="François Duval">François Duval</a>, and <a href="/wiki/Freddy_Loix" title="Freddy Loix">Freddy Loix</a> among others.</li>
+<li>Ypres holds an annual canoe polo tournament in which teams come from all over Europe to play.</li>
+<li>On 9 July 2014, the 101st Tour de France started stage 5 in Ypres.</li>
+<li>During the last weekend of August each year, Ypres hosts the <i>Ieperfest</i>, one of the biggest European festivals in the hardcore punk subculture.</li>
+</ul>
+<h2><span class="mw-headline" id="Economy">Economy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ypres&amp;action=edit&amp;section=11" title="Edit section: Economy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Though Ypres is a historic city, and generates significant income from tourism, it also has a number of industrial areas. The biggest one is along the <a href="/wiki/Ieperlee" title="Ieperlee">Ieperlee</a> canal, which hosts room for around 120 companies and a wind farm in the north of Ypres.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></p>
+<p>The office area known as <a href="/w/index.php?title=Ieper_Business_Park&amp;action=edit&amp;redlink=1" class="new" title="Ieper Business Park (page does not exist)">Ieper Business Park</a> is connected to the industrial area. That office area started as the site of speech recognition company <a href="/wiki/Lernout_%26_Hauspie" title="Lernout &amp; Hauspie">Lernout &amp; Hauspie</a>, and was named "Flanders Language Valley" (mimicking <a href="/wiki/Silicon_Valley" title="Silicon Valley">Silicon Valley</a>), until the company went bankrupt. Since then, the office area had many difficult years, where a big share of the offices were unused. However, those years are mostly over, and currently, the area offers about 1000 employees a job.</p>
+<p>Then there are also various other, smaller industrial areas like the area around <a href="/wiki/Picanol" title="Picanol">Picanol</a> in the south of Ypres.</p>
+<h2><span class="mw-headline" id="Transport">Transport</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ypres&amp;action=edit&amp;section=12" title="Edit section: Transport">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Ieper_railway_station" title="Ieper railway station">Ieper railway station</a> run by <a href="/wiki/NMBS" class="mw-redirect" title="NMBS">NMBS</a> has frequent trains to <a href="/wiki/Kortrijk_railway_station" title="Kortrijk railway station">Kortrijk</a>.</p>
+<p>It can also be accessed from Brussels, linking to Eurostar, and takes about 75 minutes with two stops.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></p>
+<h2><span class="mw-headline" id="Notable_people">Notable people</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ypres&amp;action=edit&amp;section=13" title="Edit section: Notable people">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/William_of_Ypres" title="William of Ypres">William of Ypres</a>, a commander of Flemish mercenaries in England who was reckoned among the more able of the military commanders fighting for <a href="/wiki/Stephen_of_England" class="mw-redirect" title="Stephen of England">King Stephen of England</a> in his <a href="/wiki/The_Anarchy" title="The Anarchy">19-year civil war</a> with the <a href="/wiki/Empress_Matilda" title="Empress Matilda">Empress Matilda</a>.</li>
+<li><a href="/wiki/Jacob_Clemens_non_Papa" title="Jacob Clemens non Papa">Jacob Clemens non Papa</a> (ca. 1510–1556), <a href="/wiki/Renaissance" title="Renaissance">Renaissance</a> composer</li>
+<li><a href="/wiki/Cornelius_Jansen" title="Cornelius Jansen">Cornelius Jansen</a> (1585–1638), bishop of Ypres and father of the <a href="/wiki/Jansenism" title="Jansenism">Jansenism</a> movement</li>
+<li><a href="/wiki/Jules_Malou" title="Jules Malou">Jules Malou</a> (1810–1886), politician, <a href="/wiki/Prime_Minister_of_Belgium" title="Prime Minister of Belgium">Prime Minister of Belgium</a> from 1871 to 1878 and in 1884</li>
+<li><a href="/w/index.php?title=Alphonse_Vandenpeereboom&amp;action=edit&amp;redlink=1" class="new" title="Alphonse Vandenpeereboom (page does not exist)">Alphonse Vandenpeereboom</a><span class="noprint" style="font-size:85%; font-style: normal;">&#160;(<a href="https://nl.wikipedia.org/wiki/Alphonse_Vandenpeereboom" class="extiw" title="nl:Alphonse Vandenpeereboom">nl</a>)</span> (1812–1884), politician, minister</li>
+<li><a href="/w/index.php?title=Albert_Nyssens&amp;action=edit&amp;redlink=1" class="new" title="Albert Nyssens (page does not exist)">Albert Nyssens</a><span class="noprint" style="font-size:85%; font-style: normal;">&#160;(<a href="https://nl.wikipedia.org/wiki/Albert_Nyssens" class="extiw" title="nl:Albert Nyssens">nl</a>)</span> (1855–1901) Minister of Industry and Labour, Lawyer, University Professor,</li>
+<li><a href="/w/index.php?title=Julien_Nyssens&amp;action=edit&amp;redlink=1" class="new" title="Julien Nyssens (page does not exist)">Julien Nyssens</a> (1859–1910) engineer, builder of <a href="/wiki/Zeebrugge" title="Zeebrugge">Zeebrugge</a> harbour.</li>
+<li><a href="/wiki/Albert_Dev%C3%A8ze" title="Albert Devèze">Albert Devèze</a> (1881–1959), politician, minister</li>
+<li><a href="/w/index.php?title=Paul_Sobry&amp;action=edit&amp;redlink=1" class="new" title="Paul Sobry (page does not exist)">Paul Sobry</a><span class="noprint" style="font-size:85%; font-style: normal;">&#160;(<a href="https://nl.wikipedia.org/wiki/Paul_Sobry" class="extiw" title="nl:Paul Sobry">nl</a>)</span> (1895–1954), university professor</li>
+<li><a href="/wiki/Simona_Noorenbergh" title="Simona Noorenbergh">Simona Noorenbergh</a> (b. 1907 – <a href="/w/index.php?title=Fane,_Papua_New_Guinea&amp;action=edit&amp;redlink=1" class="new" title="Fane, Papua New Guinea (page does not exist)">Fane</a> 1990), nun, social worker, co-founder of <a href="/w/index.php?title=Fane,_Papua_New_Guinea&amp;action=edit&amp;redlink=1" class="new" title="Fane, Papua New Guinea (page does not exist)">Fane</a>, Papua New Guinea</li>
+<li><a href="/wiki/John_French,_1st_Earl_of_Ypres" title="John French, 1st Earl of Ypres">John French, 1st Earl of Ypres</a></li>
+<li><a href="/wiki/Antoon_Verschoot" title="Antoon Verschoot">Antoon Verschoot</a> (b. 1925), since 1954 chief bugler at the Menin Gate for the daily Last Post ceremony.</li>
+<li><a href="/wiki/Walter_Fiers" title="Walter Fiers">Walter Fiers</a> (b.Ypres, 1931), molecular biologist</li>
+<li><a href="/wiki/Marc_Vervenne" title="Marc Vervenne">Marc Vervenne</a> (1949– ), emeritus dean Leuven university</li>
+<li>Jo Lernout and Pol Hauspie, founders of the speech technology company <a href="/wiki/Lernout_%26_Hauspie" title="Lernout &amp; Hauspie">Lernout &amp; Hauspie</a></li>
+<li><a href="/wiki/Henk_Lauwers" title="Henk Lauwers">Henk Lauwers</a> (b. 1956), classical baritone singer</li>
+<li><a href="/wiki/Catherine_Verfaillie" title="Catherine Verfaillie">Catherine Verfaillie</a> (b. Ypres, 1957), MD and stem cell pioneer</li>
+<li><a href="/wiki/Nicholas_Lens" title="Nicholas Lens">Nicholas Lens</a> (b. 1957), opera composer</li>
+<li><a href="/wiki/Edouard_Vermeulen" class="mw-redirect" title="Edouard Vermeulen">Edouard Vermeulen</a> (b. 1957), fashion designer</li>
+<li><a href="/wiki/Renaat_Landuyt" title="Renaat Landuyt">Renaat Landuyt</a> (b. 1959), politician, Belgian minister</li>
+<li><a href="/wiki/Erik_Vermeulen" title="Erik Vermeulen">Erik Vermeulen</a> (b. 1959), jazz pianist</li>
+<li><a href="/wiki/Yves_Leterme" title="Yves Leterme">Yves Leterme</a> (b. 1960), politician, former prime minister of Belgium</li>
+<li><a href="/wiki/Isaac_Delahaye" title="Isaac Delahaye">Isaac Delahaye</a> (b. 1982), lead guitarist of <a href="/wiki/Epica_(band)" title="Epica (band)">Epica</a></li>
+</ul>
+<h2><span class="mw-headline" id="Twin_cities">Twin cities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ypres&amp;action=edit&amp;section=14" title="Edit section: Twin cities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/23px-Flag_of_Kazakhstan.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/35px-Flag_of_Kazakhstan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/46px-Flag_of_Kazakhstan.svg.png 2x" data-file-width="600" data-file-height="300" />&#160;</span><a href="/wiki/Kazakhstan" title="Kazakhstan">Kazakhstan</a>: <a href="/wiki/Semey" title="Semey">Semey</a> (since 2012)</li>
+<li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Japan" title="Japan">Japan</a>: <a href="/wiki/Hiroshima" title="Hiroshima">Hiroshima</a></li>
+<li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span>United Kingdom: <a href="/wiki/Sittingbourne" title="Sittingbourne">Sittingbourne</a>, Kent (since 1964)</li>
+<li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" />&#160;</span><a href="/wiki/Germany" title="Germany">Germany</a>: <a href="/wiki/Siegen" title="Siegen">Siegen</a>, <a href="/wiki/Westfalen" class="mw-redirect" title="Westfalen">Westfalen</a> (since 1967)</li>
+<li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/France" title="France">France</a>: <a href="/wiki/Saint-Omer" title="Saint-Omer">Saint-Omer</a>, Pas-de-Calais (since 1969)</li>
+<li><span class="flagicon"><a href="/wiki/Ghana" title="Ghana"><img alt="Ghana" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/23px-Flag_of_Ghana.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/35px-Flag_of_Ghana.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/45px-Flag_of_Ghana.svg.png 2x" data-file-width="450" data-file-height="300" /></a></span> Ghana: <a href="/wiki/Wa,_Ghana" title="Wa, Ghana">Wa</a>, Upper West Region</li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ypres&amp;action=edit&amp;section=15" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-pop-town-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-pop-town_1-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://statbel.fgov.be/fr/binaries/2_Population_de_droit_au_1_janvier%2C_par_commune%2C_par_sexe_2011_2016_tcm326-194205.xls">Population per municipality as of 1 January 2016</a> (XLS; 397 KB)</span></li>
+<li id="cite_note-HistOfY-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-HistOfY_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-HistOfY_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.greatwar.co.uk/westfront/ypsalient/ypres.htm">"A History of Ypres (Ieper): Origins"</a>. Greatwar.co.uk. 2011-10-10<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYpres&amp;rft.btitle=A+History+of+Ypres+%28Ieper%29%3A+Origins&amp;rft.date=2011-10-10&amp;rft.genre=unknown&amp;rft.pub=Greatwar.co.uk&amp;rft_id=http%3A%2F%2Fwww.greatwar.co.uk%2Fwestfront%2Fypsalient%2Fypres.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://isites.harvard.edu/fs/docs/icb.topic599385.files/venice_seminar_MIT_R1a.pdf">http://isites.harvard.edu/fs/docs/icb.topic599385.files/venice_seminar_MIT_R1a.pdf</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=aoX4bsr0EEIC&amp;pg=PA193&amp;dq=ypres++40,000+inhabitants&amp;hl=da&amp;sa=X&amp;ei=rvlwU5yXDaWE4gS3xIHwCw&amp;ved=0CGAQ6AEwBQ#v=onepage&amp;q=ypres%20%2040%2C000%20inhabitants&amp;f=false"><i>IBN JALDUN</i></a><span class="reference-accessdate">. Retrieved <span class="nowrap">5 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYpres&amp;rft.btitle=IBN+JALDUN&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DaoX4bsr0EEIC%26pg%3DPA193%26dq%3Dypres%2B%2B40%2C000%2Binhabitants%26hl%3Dda%26sa%3DX%26ei%3DrvlwU5yXDaWE4gS3xIHwCw%26ved%3D0CGAQ6AEwBQ%23v%3Donepage%26q%3Dypres%2520%252040%252C000%2520inhabitants%26f%3Dfalse&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=Jd23AAAAQBAJ&amp;pg=PA315&amp;dq=ypres++40,000+inhabitants&amp;hl=da&amp;sa=X&amp;ei=Q_pwU6LgOaPBygPCnoCQBQ&amp;ved=0CGcQ6AEwBg#v=onepage&amp;q=ypres%20%2040%2C000%20inhabitants&amp;f=false"><i>Life &amp; Work In Medieval Europe</i></a><span class="reference-accessdate">. Retrieved <span class="nowrap">5 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYpres&amp;rft.btitle=Life+%26+Work+In+Medieval+Europe&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DJd23AAAAQBAJ%26pg%3DPA315%26dq%3Dypres%2B%2B40%2C000%2Binhabitants%26hl%3Dda%26sa%3DX%26ei%3DQ_pwU6LgOaPBygPCnoCQBQ%26ved%3D0CGcQ6AEwBg%23v%3Donepage%26q%3Dypres%2520%252040%252C000%2520inhabitants%26f%3Dfalse&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ethesis.net/staten_van_vlaanderen/svv_hfst_5.htm">"See chapter 5.6.2 (in Dutch)"</a>. Ethesis.net. 1914-11-23<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYpres&amp;rft.btitle=See+chapter+5.6.2+%28in+Dutch%29&amp;rft.date=1914-11-23&amp;rft.genre=unknown&amp;rft.pub=Ethesis.net&amp;rft_id=http%3A%2F%2Fwww.ethesis.net%2Fstaten_van_vlaanderen%2Fsvv_hfst_5.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Ramsay_Weston_Phipps" title="Ramsay Weston Phipps">Phipps, Ramsay Weston</a> (2011). <i>The Armies of the First French Republic: Volume I The Armée du Nord</i>. USA: Pickle Partners Publishing. p.&#160;317. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-908692-24-5" title="Special:BookSources/978-1-908692-24-5">978-1-908692-24-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYpres&amp;rft.au=Phipps%2C+Ramsay+Weston&amp;rft.btitle=The+Armies+of+the+First+French+Republic%3A+Volume+I+The+Arm%C3%A9e+du+Nord&amp;rft.date=2011&amp;rft.genre=book&amp;rft.isbn=978-1-908692-24-5&amp;rft.pages=317&amp;rft.place=USA&amp;rft.pub=Pickle+Partners+Publishing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web">Goode, Dominic (2006). <a rel="nofollow" class="external text" href="http://www.fortified-places.com/ypres/">"Ypres"</a>. fortified-places.com<span class="reference-accessdate">. Retrieved <span class="nowrap">12 April</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYpres&amp;rft.au=Goode%2C+Dominic&amp;rft.btitle=Ypres&amp;rft.date=2006&amp;rft.genre=unknown&amp;rft.pub=fortified-places.com&amp;rft_id=http%3A%2F%2Fwww.fortified-places.com%2Fypres%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.independent.co.uk/arts-entertainment/tv/reviews/tv-review-the-wipers-times-bbc2--a-bit-like-blackadder-only-true-8810148.html">"TV review: The Wipers Times, BBC2 - A bit like Blackadder, only true"</a> Independent 12 September 2013</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Mark Connelly, "The Ypres League and the Commemoration of the Ypres Salient, 1914-1940," <i>War in History</i> (2009) 16#1 pp 51-76, quote p 55</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Connelly, "The Ypres League and the Commemoration of the Ypres Salient, 1914-1940," pp 51-76</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.2020visioncampaign.org">"Mayors for Peace 2020 Vision Campaign"</a>. 2020visioncampaign.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYpres&amp;rft.btitle=Mayors+for+Peace+2020+Vision+Campaign&amp;rft.genre=unknown&amp;rft.pub=2020visioncampaign.org&amp;rft_id=http%3A%2F%2Fwww.2020visioncampaign.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">The gate is called "Menin Gate" because it is situated on the road to the Flemish city of <a href="/wiki/Menen" title="Menen">Menen</a>.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cwgc.org/search/cemetery_details.aspx?cemetery=91800&amp;mode=1">"404"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">5 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYpres&amp;rft.btitle=404&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cwgc.org%2Fsearch%2Fcemetery_details.aspx%3Fcemetery%3D91800%26mode%3D1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cwgc.org">"CWGC - Homepage"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">5 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYpres&amp;rft.btitle=CWGC+-+Homepage&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cwgc.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.cwgc.org/admin/files/cwgc_ypressalient.pdf">[1]</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110615055413/http://www.cwgc.org/admin/files/cwgc_ypressalient.pdf">Archived</a> 15 June 2011 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.kattenstoet.be/en/home.html">"Welcome!"</a>. <i>Kattenstoet Ieper</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-07-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYpres&amp;rft.atitle=Welcome%21&amp;rft.genre=unknown&amp;rft.jtitle=Kattenstoet+Ieper&amp;rft_id=http%3A%2F%2Fwww.kattenstoet.be%2Fen%2Fhome.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://kw.knack.be/west-vlaanderen/nieuws/bedrijventerrein-langs-ieperleekanaal-breidt-uit-met-9-ha/article-normal-119845.html">"Bedrijventerrein langs Ieperleekanaal breidt uit met 9 ha"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYpres&amp;rft.btitle=Bedrijventerrein+langs+Ieperleekanaal+breidt+uit+met+9+ha&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fkw.knack.be%2Fwest-vlaanderen%2Fnieuws%2Fbedrijventerrein-langs-ieperleekanaal-breidt-uit-met-9-ha%2Farticle-normal-119845.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.belgianrail.be">"Taalkeuze - Choix de langue - Choose your language - Wählen Sie Ihre Sprache"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">5 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYpres&amp;rft.btitle=Taalkeuze+-+Choix+de+langue+-+Choose+your+language+-+W%C3%A4hlen+Sie+Ihre+Sprache&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.belgianrail.be&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ypres&amp;action=edit&amp;section=16" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Ypres" class="extiw" title="commons:Category:Ypres">Ypres</a></b></i>.</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/60px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/80px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></td>
+<td class="mbox-text plainlist">Wikivoyage has a travel guide for <i><b><a href="https://en.wikivoyage.org/wiki/Ypres#Q102728" class="extiw" title="wikivoyage:Ypres">Ypres</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.a-w-a.be">Association for World War Archaeology; information about World War I excavations near Ypres</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.inflandersfields.be/">In Flanders Fields Museum</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.lastpost.be/">Last Post Association</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.rleggat.com/ypres/">Pilgrimage to Ypresand Sanctuary Wood</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.collectionscanada.ca/first-world-war/interviews/025015-1100-e.html"><i>The Second Battle of Ypres</i> in Oral Histories of the First World War: Veterans 1914–1918</a> at Library and Archives Canada</li>
+<li><a rel="nofollow" class="external text" href="http://2020visioncampaign.org">Mayors For Peace International Secretariat Ypres</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.fortified-places.com/ypres/">Webpage about the fortifications</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ngw.nl/heraldrywiki/index.php?title=Ieper">Coat of arms of Ieper (Ypres)</a></li>
+<li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.ieper.be">Ieper official website</a></span></span> – Information available in <a href="/wiki/Dutch_language" title="Dutch language">Dutch</a> and limited information available in English</li>
+<li><a rel="nofollow" class="external text" href="http://belgium.beertourism.com/cities/ypres">Ypres Travel Guide</a> - A comprehensive English language guide to Ypres (Ieper); includes history, sightseeing and Belgian beer culture.</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Places_adjacent_to_Ypres" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="4">
+<div id="Places_adjacent_to_Ypres" style="font-size:114%;margin:0 4em">Places adjacent to Ypres</div>
+</th>
+</tr>
+<tr>
+<td class="navbox-image" rowspan="1" style="width:1px;padding:0px 2px 0px 0px">
+<div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Compass_rose_pale.svg/50px-Compass_rose_pale.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Compass_rose_pale.svg/75px-Compass_rose_pale.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Compass_rose_pale.svg/100px-Compass_rose_pale.svg.png 2x" data-file-width="440" data-file-height="440" /></div>
+</td>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<table role="presentation" style="width:100%; margin:0; text-align:center;">
+<tr>
+<td><a href="/wiki/Vleteren" title="Vleteren">Vleteren</a></td>
+<td><a href="/wiki/Lo-Reninge" title="Lo-Reninge">Lo-Reninge</a></td>
+<td><a href="/wiki/Langemark-Poelkapelle" title="Langemark-Poelkapelle">Langemark-Poelkapelle</a></td>
+</tr>
+<tr>
+<td style="width:33%"><a href="/wiki/Poperinge" title="Poperinge">Poperinge</a></td>
+<td style="width:33%;">
+<div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Pfeil_oben.svg/14px-Pfeil_oben.svg.png" title="North" width="14" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Pfeil_oben.svg/21px-Pfeil_oben.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Pfeil_oben.svg/28px-Pfeil_oben.svg.png 2x" data-file-width="501" data-file-height="595" /></div>
+<div style="white-space:nowrap;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pfeil_links.svg/17px-Pfeil_links.svg.png" title="West" width="17" height="14" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pfeil_links.svg/25px-Pfeil_links.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pfeil_links.svg/33px-Pfeil_links.svg.png 2x" data-file-width="595" data-file-height="501" /><b style="display:inline-block; vertical-align:middle; margin:0.75em 1em">Ypres</b><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pfeil_rechts.svg/17px-Pfeil_rechts.svg.png" title="East" width="17" height="14" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pfeil_rechts.svg/25px-Pfeil_rechts.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pfeil_rechts.svg/33px-Pfeil_rechts.svg.png 2x" data-file-width="595" data-file-height="501" /></div>
+<div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pfeil_unten.svg/14px-Pfeil_unten.svg.png" title="South" width="14" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pfeil_unten.svg/21px-Pfeil_unten.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pfeil_unten.svg/28px-Pfeil_unten.svg.png 2x" data-file-width="501" data-file-height="595" /></div>
+</td>
+<td style="width:33%"><a href="/wiki/Zonnebeke" title="Zonnebeke">Zonnebeke</a></td>
+</tr>
+<tr>
+<td></td>
+<td><a href="/wiki/Heuvelland" title="Heuvelland">Heuvelland</a></td>
+<td><a href="/wiki/Comines-Warneton" title="Comines-Warneton">Comines-Warneton</a> (<a href="/wiki/Hainaut_(province)" title="Hainaut (province)">WHT</a>)</td>
+</tr>
+</table>
+</div>
+</td>
+<td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px">
+<div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Compass_rose_pale.svg/50px-Compass_rose_pale.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Compass_rose_pale.svg/75px-Compass_rose_pale.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Compass_rose_pale.svg/100px-Compass_rose_pale.svg.png 2x" data-file-width="440" data-file-height="440" /></div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Municipalities_in_the_Province_of_West_Flanders.2C_Flanders.2C_Belgium" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Municipalities_in_West_Flanders" title="Template:Municipalities in West Flanders"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Municipalities_in_West_Flanders" title="Template talk:Municipalities in West Flanders"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Municipalities_in_West_Flanders&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Municipalities_in_the_Province_of_West_Flanders.2C_Flanders.2C_Belgium" style="font-size:114%;margin:0 4em"><a href="/wiki/Municipalities_of_Belgium" title="Municipalities of Belgium">Municipalities</a> in the <a href="/wiki/Provinces_of_Belgium" title="Provinces of Belgium">Province</a> of <a href="/wiki/West_Flanders" title="West Flanders">West Flanders</a>, <a href="/wiki/Flemish_Region" title="Flemish Region">Flanders</a>, <a href="/wiki/Belgium" title="Belgium">Belgium</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Arrondissement_of_Bruges" title="Arrondissement of Bruges">Bruges</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Beernem" title="Beernem">Beernem</a></li>
+<li><a href="/wiki/Blankenberge" title="Blankenberge">Blankenberge</a></li>
+<li><a href="/wiki/Bruges" title="Bruges">Bruges/Brugge</a></li>
+<li><a href="/wiki/Damme" title="Damme">Damme</a></li>
+<li><a href="/wiki/Jabbeke" title="Jabbeke">Jabbeke</a></li>
+<li><a href="/wiki/Knokke-Heist" title="Knokke-Heist">Knokke-Heist</a></li>
+<li><a href="/wiki/Oostkamp" title="Oostkamp">Oostkamp</a></li>
+<li><a href="/wiki/Torhout" title="Torhout">Torhout</a></li>
+<li><a href="/wiki/Zedelgem" title="Zedelgem">Zedelgem</a></li>
+<li><a href="/wiki/Zuienkerke" title="Zuienkerke">Zuienkerke</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="8" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Belgiewvl.png" class="image"><img alt="Belgiewvl.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Belgiewvl.png/100px-Belgiewvl.png" width="100" height="84" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Belgiewvl.png/150px-Belgiewvl.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Belgiewvl.png/200px-Belgiewvl.png 2x" data-file-width="398" data-file-height="335" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Arrondissement_of_Diksmuide" title="Arrondissement of Diksmuide">Diksmuide</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Diksmuide" title="Diksmuide">Diksmuide</a></li>
+<li><a href="/wiki/Houthulst" title="Houthulst">Houthulst</a></li>
+<li><a href="/wiki/Koekelare" title="Koekelare">Koekelare</a></li>
+<li><a href="/wiki/Kortemark" title="Kortemark">Kortemark</a></li>
+<li><a href="/wiki/Lo-Reninge" title="Lo-Reninge">Lo-Reninge</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Arrondissement_of_Kortrijk" title="Arrondissement of Kortrijk">Kortrijk</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anzegem" title="Anzegem">Anzegem</a></li>
+<li><a href="/wiki/Avelgem" title="Avelgem">Avelgem</a></li>
+<li><a href="/wiki/Deerlijk" title="Deerlijk">Deerlijk</a></li>
+<li><a href="/wiki/Harelbeke" title="Harelbeke">Harelbeke</a></li>
+<li><a href="/wiki/Kortrijk" title="Kortrijk">Kortrijk</a></li>
+<li><a href="/wiki/Kuurne" title="Kuurne">Kuurne</a></li>
+<li><a href="/wiki/Lendelede" title="Lendelede">Lendelede</a></li>
+<li><a href="/wiki/Menen" title="Menen">Menen</a></li>
+<li><a href="/wiki/Spiere-Helkijn" title="Spiere-Helkijn">Spiere-Helkijn</a></li>
+<li><a href="/wiki/Waregem" title="Waregem">Waregem</a></li>
+<li><a href="/wiki/Wevelgem" title="Wevelgem">Wevelgem</a></li>
+<li><a href="/wiki/Zwevegem" title="Zwevegem">Zwevegem</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Arrondissement_of_Ostend" title="Arrondissement of Ostend">Ostend</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bredene" title="Bredene">Bredene</a></li>
+<li><a href="/wiki/De_Haan,_Belgium" title="De Haan, Belgium">De Haan</a></li>
+<li><a href="/wiki/Gistel" title="Gistel">Gistel</a></li>
+<li><a href="/wiki/Ichtegem" title="Ichtegem">Ichtegem</a></li>
+<li><a href="/wiki/Middelkerke" title="Middelkerke">Middelkerke</a></li>
+<li><a href="/wiki/Ostend" title="Ostend">Oostende/Ostend</a></li>
+<li><a href="/wiki/Oudenburg" title="Oudenburg">Oudenburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Arrondissement_of_Roeselare" title="Arrondissement of Roeselare">Roeselare</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hooglede" title="Hooglede">Hooglede</a></li>
+<li><a href="/wiki/Ingelmunster" title="Ingelmunster">Ingelmunster</a></li>
+<li><a href="/wiki/Izegem" title="Izegem">Izegem</a></li>
+<li><a href="/wiki/Ledegem" title="Ledegem">Ledegem</a></li>
+<li><a href="/wiki/Lichtervelde" title="Lichtervelde">Lichtervelde</a></li>
+<li><a href="/wiki/Moorslede" title="Moorslede">Moorslede</a></li>
+<li><a href="/wiki/Roeselare" title="Roeselare">Roeselare</a></li>
+<li><a href="/wiki/Staden" title="Staden">Staden</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Arrondissement_of_Tielt" title="Arrondissement of Tielt">Tielt</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ardooie" title="Ardooie">Ardooie</a></li>
+<li><a href="/wiki/Dentergem" title="Dentergem">Dentergem</a></li>
+<li><a href="/wiki/Meulebeke" title="Meulebeke">Meulebeke</a></li>
+<li><a href="/wiki/Oostrozebeke" title="Oostrozebeke">Oostrozebeke</a></li>
+<li><a href="/wiki/Pittem" title="Pittem">Pittem</a></li>
+<li><a href="/wiki/Ruiselede" title="Ruiselede">Ruiselede</a></li>
+<li><a href="/wiki/Tielt" title="Tielt">Tielt</a></li>
+<li><a href="/wiki/Wielsbeke" title="Wielsbeke">Wielsbeke</a></li>
+<li><a href="/wiki/Wingene" title="Wingene">Wingene</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Arrondissement_of_Veurne" title="Arrondissement of Veurne">Veurne</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alveringem" title="Alveringem">Alveringem</a></li>
+<li><a href="/wiki/De_Panne" title="De Panne">De Panne</a></li>
+<li><a href="/wiki/Koksijde" title="Koksijde">Koksijde</a></li>
+<li><a href="/wiki/Nieuwpoort,_Belgium" title="Nieuwpoort, Belgium">Nieuwpoort</a></li>
+<li><a href="/wiki/Veurne" title="Veurne">Veurne</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Arrondissement_of_Ypres" title="Arrondissement of Ypres">Ypres</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Heuvelland" title="Heuvelland">Heuvelland</a></li>
+<li><a class="mw-selflink selflink">Ieper/Ypres</a></li>
+<li><a href="/wiki/Langemark-Poelkapelle" title="Langemark-Poelkapelle">Langemark-Poelkapelle</a></li>
+<li><a href="/wiki/Mesen" title="Mesen">Mesen</a></li>
+<li><a href="/wiki/Poperinge" title="Poperinge">Poperinge</a></li>
+<li><a href="/wiki/Vleteren" title="Vleteren">Vleteren</a></li>
+<li><a href="/wiki/Wervik" title="Wervik">Wervik</a></li>
+<li><a href="/wiki/Zonnebeke" title="Zonnebeke">Zonnebeke</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/143000948">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/143000948">143000948</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4225219-2">4225219-2</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1209
+Cached time: 20170924030746
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.612 seconds
+Real time usage: 0.793 seconds
+Preprocessor visited node count: 5877/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 96047/2097152 bytes
+Template argument size: 17790/2097152 bytes
+Highest expansion depth: 26/40
+Expensive parser function count: 12/500
+Lua time usage: 0.212/10.000 seconds
+Lua memory usage: 6.8 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  611.991      1 -total
+ 46.10%  282.123      1 Template:Infobox_Belgium_Municipality
+ 45.23%  276.818      1 Template:Infobox_settlement
+ 41.48%  253.839      2 Template:Infobox
+ 16.54%  101.212      1 Template:Reflist
+ 10.00%   61.196      9 Template:Cite_web
+  7.59%   46.430      9 Template:Both
+  6.82%   41.750      1 Template:Coord
+  4.39%   26.885      1 Template:For
+  3.86%   23.609      1 Template:Citation_needed
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:154435-0!canonical and timestamp 20170924030745 and revision id 801322443
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ypres&amp;oldid=801322443">https://en.wikipedia.org/w/index.php?title=Ypres&amp;oldid=801322443</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Ypres" title="Category:Ypres">Ypres</a></li><li><a href="/wiki/Category:Municipalities_of_West_Flanders" title="Category:Municipalities of West Flanders">Municipalities of West Flanders</a></li><li><a href="/wiki/Category:Populated_places_in_West_Flanders" title="Category:Populated places in West Flanders">Populated places in West Flanders</a></li><li><a href="/wiki/Category:Populated_places_in_Belgium" title="Category:Populated places in Belgium">Populated places in Belgium</a></li><li><a href="/wiki/Category:World_War_I_memorials_in_Belgium" title="Category:World War I memorials in Belgium">World War I memorials in Belgium</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_April_2012" title="Category:Use dmy dates from April 2012">Use dmy dates from April 2012</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_containing_Dutch-language_text" title="Category:Articles containing Dutch-language text">Articles containing Dutch-language text</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2011" title="Category:Articles with unsourced statements from August 2011">Articles with unsourced statements from August 2011</a></li><li><a href="/wiki/Category:Interlanguage_link_template_link_number" title="Category:Interlanguage link template link number">Interlanguage link template link number</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ypres" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ypres" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Ypres" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Ypres" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Ypres">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Ypres&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ypres&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ypres" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ypres" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ypres&amp;oldid=801322443" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ypres&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q102728" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ypres&amp;id=801322443" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ypres">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Ypres&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DYpres%26returnto%3DYpres%26oldid%3D801322443%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Ypres&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Ypres" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://en.wikivoyage.org/wiki/Ypres" hreflang="en">Wikivoyage</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Ieper" title="Ieper – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Ypern" title="Ypern – Alemannisch" lang="als" hreflang="als" class="interlanguage-link-target">Alemannisch</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%86%D0%BF%D1%80" title="Іпр – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%86%D0%BF%D1%80" title="Іпр – Belarusian (Taraškievica orthography)" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%98%D0%BF%D0%B5%D1%80" title="Ипер – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Ieper" title="Ieper – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Ieper" title="Ieper – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Ieper_(kapital_sa_munisipyo)" title="Ieper (kapital sa munisipyo) – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Ypry" title="Ypry – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Ieper" title="Ieper – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Ieper" title="Ieper – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Ypern" title="Ypern – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Ieper" title="Ieper – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A5%CF%80%CF%81" title="Υπρ – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Ypres" title="Ypres – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Ipro" title="Ipro – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Ypres" title="Ypres – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D9%BE%D8%B1" title="ایپر – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Ypres" title="Ypres – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Yper" title="Yper – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Ypres" title="Ypres – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Ieper" title="Ieper – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9D%B4%ED%8D%BC%EB%A5%B4" title="이퍼르 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Ieper" title="Ieper – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Ypres" title="Ypres – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%99%D7%A4%D7%A8" title="איפר – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Ypres" title="Ypres – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%98%D0%BF%D1%80" title="Ипр – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Ypra" title="Ypra – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Ipra" title="Ipra – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Ieper" title="Ieper – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Ypras" title="Ypras – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Ieper" title="Ieper – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li><li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Ypres" title="Ypres – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Ypres" title="Ypres – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Ieper" title="Ieper – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Ieper" title="Ieper – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%BC%E3%83%9A%E3%83%AB" title="イーペル – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Ieper" title="Ieper – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Ieper" title="Ieper – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Ypres" title="Ypres – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Ieper" title="Ieper – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Ieper" title="Ieper – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Ypres" title="Ypres – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Ypres" title="Ypres – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%98%D0%BF%D1%80" title="Ипр – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Ypres" title="Ypres – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Ypres" title="Ypres – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Ieper" title="Ieper – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%98%D0%BF%D1%80_(%D0%91%D0%B5%D0%BB%D0%B3%D0%B8%D1%98%D0%B0)" title="Ипр (Белгија) – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Ypres" title="Ypres – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Ieper" title="Ieper – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Ieper" title="Ieper – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Ypres" title="Ypres – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%86%D0%BF%D1%80" title="Іпр – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%DB%8C%D9%BE%D8%B1%DB%8C%D8%B3" title="یپریس – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Ypres" title="Ypres – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Ieper" title="Ieper – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-vls badge-Q17437796 badge-featuredarticle" title="featured article"><a href="https://vls.wikipedia.org/wiki/Yper" title="Yper – West Flemish" lang="vls" hreflang="vls" class="interlanguage-link-target">West-Vlams</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Ypres" title="Ypres – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E4%BC%8A%E7%8F%80%E5%B0%94" title="伊珀尔 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q102728#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 19 September 2017, at 00:32.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ypres&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.612","walltime":"0.793","ppvisitednodes":{"value":5877,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":96047,"limit":2097152},"templateargumentsize":{"value":17790,"limit":2097152},"expansiondepth":{"value":26,"limit":40},"expensivefunctioncount":{"value":12,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  611.991      1 -total"," 46.10%  282.123      1 Template:Infobox_Belgium_Municipality"," 45.23%  276.818      1 Template:Infobox_settlement"," 41.48%  253.839      2 Template:Infobox"," 16.54%  101.212      1 Template:Reflist"," 10.00%   61.196      9 Template:Cite_web","  7.59%   46.430      9 Template:Both","  6.82%   41.750      1 Template:Coord","  4.39%   26.885      1 Template:For","  3.86%   23.609      1 Template:Citation_needed"]},"scribunto":{"limitreport-timeusage":{"value":"0.212","limit":"10.000"},"limitreport-memusage":{"value":7128450,"limit":52428800}},"cachereport":{"origin":"mw1209","timestamp":"20170924030746","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":891,"wgHostname":"mw1209"});});</script>
+	</body>
+</html>

@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Chancel - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Chancel","wgTitle":"Chancel","wgCurRevisionId":799728658,"wgRevisionId":799728658,"wgArticleId":780816,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles incorporating a citation from the 1913 Catholic Encyclopedia with Wikisource reference","Wikipedia introduction cleanup from December 2016","All pages needing cleanup","Articles covered by WikiProject Wikify from December 2016","All articles covered by WikiProject Wikify","Commons category with local link different than on Wikidata","Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference","Church architecture"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Chancel","wgRelevantArticleId":780816,"wgRequestId":"WcfxOQpAADgAAF-MQy0AAABF","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q14616641","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Binnenchor.svg/1200px-Binnenchor.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Chancel"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Chancel&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Chancel&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Chancel"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Chancel rootpage-Chancel skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Chancel</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-style ambox-lead_too_long" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article's <b><a href="/wiki/Wikipedia:Manual_of_Style/Lead_section" title="Wikipedia:Manual of Style/Lead section">lead section</a> may be too long for the length of the article</b>. <span class="hide-when-compact">Please help by moving some material from it into the body of the article. Please read the <a href="/wiki/Wikipedia:Manual_of_Style/Layout" title="Wikipedia:Manual of Style/Layout">layout guide</a> and <a href="/wiki/Wikipedia:Manual_of_Style/Lead_section#Length" title="Wikipedia:Manual of Style/Lead section">lead section guidelines</a> to ensure the section will still be inclusive of all essential details. Please discuss this issue on the article's <a href="/wiki/Talk:Chancel" title="Talk:Chancel">talk page</a>.</span> <small><i>(December 2016)</i></small></span></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Binnenchor.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Binnenchor.svg/300px-Binnenchor.svg.png" width="300" height="145" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Binnenchor.svg/450px-Binnenchor.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Binnenchor.svg/600px-Binnenchor.svg.png 2x" data-file-width="910" data-file-height="440" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Binnenchor.svg" class="internal" title="Enlarge"></a></div>
+Plan of a large <a href="/wiki/Latin_cross" class="mw-redirect" title="Latin cross">Latin cross</a> church, with the chancel (<b>strict definition</b>) highlighted. This chancel terminates in a semicircular sanctuary in the <a href="/wiki/Apse" title="Apse">apse</a>, and is separated from the curved walls to the east in the diagram by an <a href="/wiki/Ambulatory" title="Ambulatory">ambulatory</a>.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Langhaus,_Chor.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Langhaus%2C_Chor.png/300px-Langhaus%2C_Chor.png" width="300" height="145" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Langhaus%2C_Chor.png/450px-Langhaus%2C_Chor.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Langhaus%2C_Chor.png/600px-Langhaus%2C_Chor.png 2x" data-file-width="800" data-file-height="387" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Langhaus,_Chor.png" class="internal" title="Enlarge"></a></div>
+Plan with the <b>broader definition</b> of the chancel highlighted</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Cath%C3%A9drale_Condom_Choeur_BLS.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Cath%C3%A9drale_Condom_Choeur_BLS.jpg/220px-Cath%C3%A9drale_Condom_Choeur_BLS.jpg" width="220" height="177" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Cath%C3%A9drale_Condom_Choeur_BLS.jpg/330px-Cath%C3%A9drale_Condom_Choeur_BLS.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Cath%C3%A9drale_Condom_Choeur_BLS.jpg/440px-Cath%C3%A9drale_Condom_Choeur_BLS.jpg 2x" data-file-width="7044" data-file-height="5677" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Cath%C3%A9drale_Condom_Choeur_BLS.jpg" class="internal" title="Enlarge"></a></div>
+View from the nave of the chancel of <a href="/wiki/Condom_Cathedral" title="Condom Cathedral">Condom Cathedral</a> in France, with ambulatories and two altars, the modern one in the choir</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:St_Peter,_Lilley,_Herts_-_Chancel_-_geograph.org.uk_-_472198.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/St_Peter%2C_Lilley%2C_Herts_-_Chancel_-_geograph.org.uk_-_472198.jpg/220px-St_Peter%2C_Lilley%2C_Herts_-_Chancel_-_geograph.org.uk_-_472198.jpg" width="220" height="303" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/St_Peter%2C_Lilley%2C_Herts_-_Chancel_-_geograph.org.uk_-_472198.jpg/330px-St_Peter%2C_Lilley%2C_Herts_-_Chancel_-_geograph.org.uk_-_472198.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/St_Peter%2C_Lilley%2C_Herts_-_Chancel_-_geograph.org.uk_-_472198.jpg/440px-St_Peter%2C_Lilley%2C_Herts_-_Chancel_-_geograph.org.uk_-_472198.jpg 2x" data-file-width="464" data-file-height="640" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:St_Peter,_Lilley,_Herts_-_Chancel_-_geograph.org.uk_-_472198.jpg" class="internal" title="Enlarge"></a></div>
+A medium-sized English church showing the nave, chancel arch, and a chancel with choir and sanctuary</div>
+</div>
+</div>
+<p>In <a href="/wiki/Church_architecture" title="Church architecture">church architecture</a>, the <b>chancel</b> is the space around the <a href="/wiki/Altar" title="Altar">altar</a>, including the <a href="/wiki/Choir_(architecture)" title="Choir (architecture)">choir</a> and the <a href="/wiki/Sanctuary" title="Sanctuary">sanctuary</a> (sometimes called the <b>presbytery</b>), at the <a href="/wiki/Liturgical_east" class="mw-redirect" title="Liturgical east">liturgical east</a> end of a traditional Christian church building.<sup id="cite_ref-Curl_1-0" class="reference"><a href="#cite_note-Curl-1">[1]</a></sup> It may terminate in an <a href="/wiki/Apse" title="Apse">apse</a>. It is generally the area used by the clergy and choir during worship, while the congregation is in the <a href="/wiki/Nave" title="Nave">nave</a>. Direct access may be provided by a <b>priest's door</b>, usually on the south side of the church.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> This is one definition, sometimes called the "strict" one; in practice in churches where the eastern end contains other elements such as an <a href="/wiki/Ambulatory" title="Ambulatory">ambulatory</a> and side chapels, these are also often counted as part of the chancel, especially when discussing architecture.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> In smaller churches, where the altar is backed by the outside east wall and there is no distinct choir, the chancel and sanctuary may be the same area. In churches with a <a href="/wiki/Retroquire" title="Retroquire">retroquire</a> area behind the altar, this may only be included in the broader definition of chancel.</p>
+<p>In a cathedral or other large church there may be a distinct choir area at the start of the chancel (looking from the nave), before reaching the sanctuary, and an <a href="/wiki/Ambulatory" title="Ambulatory">ambulatory</a> may run beside and behind it. All these may be included in the chancel, at least in architectural terms (see above). In many churches, the altar has now been moved to the front of the chancel, in what was built as the choir area, or to the centre of the transept, somewhat confusing the distinction between chancel, choir and sanctuary. In churches with less traditional plans the term may not be useful in either architectural or ecclesiastical terms. The chancel may be a step or two higher than the level of the nave, and the sanctuary is often raised still further. The chancel is very often separated from the nave by <a href="/wiki/Altar_rails" title="Altar rails">altar rails</a>, or a <a href="/wiki/Rood_screen" title="Rood screen">rood screen</a>, a sanctuary bar, or an open space, and its width and roof height is often different from that of the nave; usually the chancel will be narrower and lower.</p>
+<p>In churches with a traditional <a href="/wiki/Latin_cross" class="mw-redirect" title="Latin cross">Latin cross</a> plan, and a <a href="/wiki/Transept" title="Transept">transept</a> and <a href="/wiki/Crossing_(architecture)" title="Crossing (architecture)">central crossing</a>, the chancel usually begins at the eastern side of the central crossing, often under an extra-large <b>chancel arch</b> supporting the crossing and the roof. This is an arch which separates the chancel from the nave and transept of a church.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> If the chancel, strictly defined as choir and sanctuary, does not fill the full width of a medieval church, there will usually be some form of low wall or screen at its sides, demarcating it from the ambulatory or parallel side chapels.</p>
+<p>As well as the altar, the sanctuary may house a <a href="/wiki/Credence_table" title="Credence table">credence table</a> and seats for officiating and assisting <a href="/wiki/Minister_(Christianity)" title="Minister (Christianity)">ministers</a>. In some churches, the congregation may gather on three sides or in a semicircle around the chancel. In some churches, the <a href="/wiki/Pulpit" title="Pulpit">pulpit</a> and <a href="/wiki/Lectern" title="Lectern">lectern</a> may be in the chancel, but in others these, especially the pulpit, are in the <a href="/wiki/Nave" title="Nave">nave</a>.</p>
+<p><span id="Etymology"></span><span id="Names"></span></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Name"><span class="tocnumber">1</span> <span class="toctext">Name</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Citations"><span class="tocnumber">3.1</span> <span class="toctext">Citations</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Bibliography"><span class="tocnumber">3.2</span> <span class="toctext">Bibliography</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Name">Name</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chancel&amp;action=edit&amp;section=1" title="Edit section: Name">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The word "chancel" derives from the French usage of <i>chancel</i> from the <a href="/wiki/Late_Latin" title="Late Latin">Late Latin</a> word <i>cancellus</i> ("lattice").<sup id="cite_ref-Curl_1-1" class="reference"><a href="#cite_note-Curl-1">[1]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> This refers to the typical form of rood screens. The chancel was formerly known as the <i>presbytery</i>, because it was reserved for the <a href="/wiki/Clergy" title="Clergy">clergy</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chancel&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <a href="/wiki/Early_Christian_architecture" class="mw-redirect" title="Early Christian architecture">Early Christian architecture</a> the <a href="/wiki/Templon" title="Templon">templon</a> was a barrier dividing off the sanctuary from the rest of the church; in <a href="/wiki/Eastern_Christianity" title="Eastern Christianity">Eastern Christianity</a> this developed into different arrangements from those of the Western church, with the sanctuary often not visible by the congregation. In the West the <a href="/wiki/Ciborium_(architecture)" title="Ciborium (architecture)">ciborium</a>, an open-walled but usually roofed structure sheltering the altar, became common, and was originally fitted with curtains that were drawn and pulled back at different points in the Mass, in a way that some <a href="/wiki/Oriental_Orthodoxy" title="Oriental Orthodoxy">Oriental Orthodox</a> churches still practice today.</p>
+<p>A large (or "deep") chancel made most sense in monasteries and cathedrals where there was a large number of singing clergy and boys from a <a href="/wiki/Choir_school" class="mw-redirect" title="Choir school">choir school</a> to occupy the choir. In many orders "choir monk" was a term used to distinguish the educated monks who had taken full vows, or were training to do so, from another class, called "lay brothers" or other terms, who had taken lesser vows and mostly did manual tasks, including farming the monastery's land. These usually sat in the nave, with any lay congregation.</p>
+<p>Following the exposition of the doctrine of <a href="/wiki/Transubstantiation" title="Transubstantiation">transubstantiation</a> at the fourth <a href="/wiki/Lateran_Council" class="mw-redirect" title="Lateran Council">Lateran Council</a> of 1215, clergy were required to ensure that the <a href="/wiki/Eucharist" title="Eucharist">blessed sacrament</a> was to be kept protected from irreverent access or abuse; and accordingly the area of the church used by the lay congregation was to be screened off from that used by the clergy. This distinction was enforced by the development of <a href="/wiki/Canon_law" title="Canon law">canon law</a>, by which the construction and upkeep of the chancel was the responsibility of the <a href="/wiki/Rector_(ecclesiastical)" title="Rector (ecclesiastical)">rector</a>, whereas the construction and upkeep of the nave <a href="/wiki/Chancel_repair_liability" title="Chancel repair liability">was the responsibility</a> of the <a href="/wiki/Parish" title="Parish">parish</a>. Barriers demarcating the chancel became increasing elaborate, but were largely swept away after both the <a href="/wiki/Protestant_Reformation" class="mw-redirect" title="Protestant Reformation">Protestant Reformation</a> and then the <a href="/wiki/Counter-Reformation" title="Counter-Reformation">Counter-Reformation</a> prioritized the congregation having a good view of what was happening in the chancel. Now the low <a href="/wiki/Communion_rail" class="mw-redirect" title="Communion rail">communion rail</a> is generally the only barrier; despite being essentially a <a href="/wiki/Counter-Reformation" title="Counter-Reformation">Counter-Reformation</a> invention, this has proved useful and accepted in the Protestant churches that dispense communion. However the screen enjoyed a small revival in the 19th century, after the passionate urgings of <a href="/wiki/Augustus_Pugin" title="Augustus Pugin">Augustus Pugin</a>, who wrote <i>A Treatise on Chancel Screens and Rood Lofts</i>,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> and others.</p>
+<p>After the Reformation Protestant churches generally moved the altar (now often called the <a href="/wiki/Communion_table" title="Communion table">communion table</a>) forward, typically to the front of the chancel, and often used lay choirs who were placed in a gallery at the west end. The rear of deep chancels became little used in churches surviving from the Middle Ages, and new churches very often omitted one. With the emphasis on sermons, and their audibility, some churches simply converted their chancels to seat part of the congregation. In 19th-century England one of the battles of the <a href="/wiki/Cambridge_Camden_Society" title="Cambridge Camden Society">Cambridge Camden Society</a>, the architectural wing of the <a href="/wiki/Anglo-Catholic" class="mw-redirect" title="Anglo-Catholic">Anglo-Catholics</a> in the <a href="/wiki/Church_of_England" title="Church of England">Church of England</a>, was to restore the chancel as a necessary part of a church. By pushing the altar back to its medieval position and having the choir used by a lay choir, they were largely successful in this, although the harder end of the <a href="/wiki/High_Church" class="mw-redirect" title="High Church">High Church</a> objected to allowing a large group of laity into the chancel.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Different approaches to worship in the 20th century again tended to push altars in larger churches forward, to be closer to the congregation, and the chancel again risks being a less used area of the church.</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chancel&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:chancels" class="extiw" title="commons:Category:chancels">chancels</a></b></i>.</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Citations">Citations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chancel&amp;action=edit&amp;section=4" title="Edit section: Citations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Curl-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Curl_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Curl_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Curl, James Stevens (2006). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=jIWr0IO9dYIC&amp;pg=PA166"><i>A Dictionary of Architecture and Landscape Architecture</i></a>. Oxford University Press. p.&#160;166. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0198606788" title="Special:BookSources/0198606788">0198606788</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChancel&amp;rft.aufirst=James+Stevens&amp;rft.aulast=Curl&amp;rft.btitle=A+Dictionary+of+Architecture+and+Landscape+Architecture&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=0198606788&amp;rft.pages=166&amp;rft.pub=Oxford+University+Press&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DjIWr0IO9dYIC%26pg%3DPA166&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation">"priest's door", <i>A Dictionary of Architecture and Landscape Architecture</i>, Oxford: Oxford University Press, 2000</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChancel&amp;rft.atitle=priest%27s+door&amp;rft.btitle=A+Dictionary+of+Architecture+and+Landscape+Architecture&amp;rft.date=2000&amp;rft.genre=bookitem&amp;rft.place=Oxford&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Fleming, "Chancel"; Pevsner, p. 349</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Harris, Cyril M. (1977). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=6n4JLmyooTwC&amp;pg=PA105"><i>Illustrated Dictionary of Historic Architecture</i></a>. Courier Dover Publications. p.&#160;105. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0486132110" title="Special:BookSources/0486132110">0486132110</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChancel&amp;rft.aufirst=Cyril+M.&amp;rft.aulast=Harris&amp;rft.btitle=Illustrated+Dictionary+of+Historic+Architecture&amp;rft.date=1977&amp;rft.genre=book&amp;rft.isbn=0486132110&amp;rft.pages=105&amp;rft.pub=Courier+Dover+Publications&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D6n4JLmyooTwC%26pg%3DPA105&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Harper, Douglas (2001). <a rel="nofollow" class="external text" href="http://www.etymonline.com/index.php?term=chancel">"Chancel"</a>. <i>Online Etymology Dictionary</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-10-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChancel&amp;rft.atitle=Chancel&amp;rft.aufirst=Douglas&amp;rft.aulast=Harper&amp;rft.date=2001&amp;rft.genre=unknown&amp;rft.jtitle=Online+Etymology+Dictionary&amp;rft_id=http%3A%2F%2Fwww.etymonline.com%2Findex.php%3Fterm%3Dchancel&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" />&#160;<cite class="citation encyclopaedia">Herbermann, Charles, ed. (1913). "<a href="https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Presbytery" class="extiw" title="wikisource:Catholic Encyclopedia (1913)/Presbytery">Presbytery</a>". <i><a href="/wiki/Catholic_Encyclopedia" title="Catholic Encyclopedia">Catholic Encyclopedia</a></i>. New York: Robert Appleton Company.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChancel&amp;rft.atitle=Presbytery&amp;rft.btitle=Catholic+Encyclopedia&amp;rft.date=1913&amp;rft.genre=bookitem&amp;rft.place=New+York&amp;rft.pub=Robert+Appleton+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.co.uk/books?id=qQSbbP1st6MC&amp;pg=PR11">Online text</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">White, 93-97</span></li>
+</ol>
+</div>
+<h3><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chancel&amp;action=edit&amp;section=5" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Fleming, John; <a href="/wiki/Hugh_Honour" title="Hugh Honour">Honour, Hugh</a>; <a href="/wiki/Nikolaus_Pevsner" title="Nikolaus Pevsner">Pevsner, Nikolaus</a> (1986), <i>Dictionary of Architecture</i>, 1980 (3 ed.), Penguin Books Ltd.</li>
+<li><a href="/wiki/Nikolaus_Pevsner" title="Nikolaus Pevsner">Pevsner, Nikolaus</a>; Priscilla Metcalf, <i>The Cathedrals of England; Southern England</i>, 1985, Viking</li>
+<li>White, James F., <i>The Cambridge Movement: The Ecclesiologists and the Gothic Revival</i>, 1962 (2004 reprint), Wipf and Stock Publishers, <a href="/wiki/International_Standard_Book_Number_(identifier)" class="mw-redirect" title="International Standard Book Number (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1592449379" title="Special:BookSources/1592449379">1592449379</a>, 9781592449378, <a rel="nofollow" class="external text" href="https://books.google.co.uk/books?id=zDhLAwAAQBAJ&amp;pg=PA94">google books</a></li>
+<li><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" />&#160;<cite class="citation encyclopaedia">"<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Chancel" class="extiw" title="wikisource:1911 Encyclopædia Britannica/Chancel">Chancel</a>". <i><a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">Encyclopædia Britannica</a></i>. <b>5</b> (11th ed.). 1911. p.&#160;832.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChancel&amp;rft.atitle=Chancel&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft.date=1911&amp;rft.edition=11th&amp;rft.genre=bookitem&amp;rft.pages=832&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1226
+Cached time: 20170909135857
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.180 seconds
+Real time usage: 0.250 seconds
+Preprocessor visited node count: 1187/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 19577/2097152 bytes
+Template argument size: 984/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 2/500
+Lua time usage: 0.065/10.000 seconds
+Lua memory usage: 3.06 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  216.655      1 -total
+ 38.01%   82.347      1 Template:Reflist
+ 25.24%   54.693      1 Template:Lead_too_long
+ 17.19%   37.239      2 Template:Cite_book
+ 15.31%   33.160      1 Template:Ambox
+ 13.29%   28.784      1 Template:Commonscat
+ 10.71%   23.210      1 Template:ISBN
+  7.27%   15.748      1 Template:Cite_EB1911
+  6.70%   14.522      2 Template:Cite_encyclopedia
+  5.29%   11.456      1 Template:Cite_Catholic_Encyclopedia
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:780816-0!canonical and timestamp 20170909135900 and revision id 799728658
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Chancel&amp;oldid=799728658">https://en.wikipedia.org/w/index.php?title=Chancel&amp;oldid=799728658</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Church_architecture" title="Category:Church architecture">Church architecture</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_incorporating_a_citation_from_the_1913_Catholic_Encyclopedia_with_Wikisource_reference" title="Category:Articles incorporating a citation from the 1913 Catholic Encyclopedia with Wikisource reference">Articles incorporating a citation from the 1913 Catholic Encyclopedia with Wikisource reference</a></li><li><a href="/wiki/Category:Wikipedia_introduction_cleanup_from_December_2016" title="Category:Wikipedia introduction cleanup from December 2016">Wikipedia introduction cleanup from December 2016</a></li><li><a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">All pages needing cleanup</a></li><li><a href="/wiki/Category:Articles_covered_by_WikiProject_Wikify_from_December_2016" title="Category:Articles covered by WikiProject Wikify from December 2016">Articles covered by WikiProject Wikify from December 2016</a></li><li><a href="/wiki/Category:All_articles_covered_by_WikiProject_Wikify" title="Category:All articles covered by WikiProject Wikify">All articles covered by WikiProject Wikify</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_different_than_on_Wikidata" title="Category:Commons category with local link different than on Wikidata">Commons category with local link different than on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_1911_Encyclopaedia_Britannica_with_Wikisource_reference" title="Category:Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference">Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Chancel" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Chancel" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Chancel" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Chancel" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Chancel">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Chancel&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Chancel&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Chancel" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Chancel" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Chancel&amp;oldid=799728658" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Chancel&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q14616641" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Chancel&amp;id=799728658" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Chancel">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Chancel&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DChancel%26returnto%3DChancel%26oldid%3D799728658%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Chancel&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Presbyteries" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9F%D1%80%D1%8D%D0%B7%D0%B1%D1%96%D1%82%D1%8D%D1%80%D1%8B%D0%B9" title="Прэзбітэрый – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%9F%D1%80%D1%8D%D0%B7%D1%8C%D0%B1%D1%96%D1%82%D1%8D%D1%80%D1%8B%D1%8E%D0%BC" title="Прэзьбітэрыюм – Belarusian (Taraškievica orthography)" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B7%D0%B2%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D0%B9" title="Презвитерий – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Chantele" title="Chantele – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Presbiteri" title="Presbiteri – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Kn%C4%9B%C5%BEi%C5%A1t%C4%9B" title="Kněžiště – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Presbiterio_(arquitectura)" title="Presbiterio (arquitectura) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Anta%C5%ADaltaro" title="Antaŭaltaro – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Presbiterio_(arkitektura)" title="Presbiterio (arkitektura) – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Chancel" title="Chancel – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Saingeal" title="Saingeal – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Presbiterio" title="Presbiterio – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%A0%9C%EB%8B%A8_(%EA%B1%B4%EC%B6%95)" title="제단 (건축) – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Presbiterio" title="Presbiterio – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Presbiterija" title="Presbiterija – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Presbit%C3%A9rium" title="Presbitérium – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E5%86%85%E9%99%A3" title="内陣 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Prezbiterium" title="Prezbiterium – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Presbit%C3%A9rio_(arquitetura)" title="Presbitério (arquitetura) – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Prezbiteriu" title="Prezbiteriu – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D0%B9_(%D1%85%D1%80%D0%B0%D0%BC)" title="Пресвитерий (храм) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Chancel" title="Chancel – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Presbyt%C3%A9rium_(priestor_v_kostole)" title="Presbytérium (priestor v kostole) – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Prezbiterij" title="Prezbiterij – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B7%D0%B2%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D1%98%D1%83%D0%BC_(%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE%D1%80_%D1%83_%D1%86%D1%80%D0%BA%D0%B2%D0%B8)" title="Презвитеријум (простор у цркви) – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Presbyterium" title="Presbyterium – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B9%80%E0%B8%A7%E0%B8%93%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%98%E0%B8%B5" title="บริเวณคริสต์ศาสนพิธี – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D1%81%D0%B1%D1%96%D1%82%D0%B5%D1%80%D1%96%D0%B9" title="Пресбітерій – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q14616641#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 9 September 2017, at 13:59.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Chancel&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.180","walltime":"0.250","ppvisitednodes":{"value":1187,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":19577,"limit":2097152},"templateargumentsize":{"value":984,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  216.655      1 -total"," 38.01%   82.347      1 Template:Reflist"," 25.24%   54.693      1 Template:Lead_too_long"," 17.19%   37.239      2 Template:Cite_book"," 15.31%   33.160      1 Template:Ambox"," 13.29%   28.784      1 Template:Commonscat"," 10.71%   23.210      1 Template:ISBN","  7.27%   15.748      1 Template:Cite_EB1911","  6.70%   14.522      2 Template:Cite_encyclopedia","  5.29%   11.456      1 Template:Cite_Catholic_Encyclopedia"]},"scribunto":{"limitreport-timeusage":{"value":"0.065","limit":"10.000"},"limitreport-memusage":{"value":3211248,"limit":52428800}},"cachereport":{"origin":"mw1226","timestamp":"20170909135857","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":85,"wgHostname":"mw1261"});});</script>
+	</body>
+</html>

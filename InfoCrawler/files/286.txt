@@ -1,0 +1,577 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Schwabach - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Schwabach","wgTitle":"Schwabach","wgCurRevisionId":779685360,"wgRevisionId":779685360,"wgArticleId":1096499,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Coordinates on Wikidata","Wikipedia articles with VIAF identifiers","Wikipedia articles with GND identifiers","Towns in Bavaria","Historic Jewish communities"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Schwabach","wgRelevantArticleId":1096499,"wgRequestId":"WcdW@ApAMFEAAJWWZ2gAAABG","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":49.329166666667,"lon":11.020833333333},"wgWikibaseItemId":"Q14889","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Schwabach_-_Marktplatz_1.jpg/1200px-Schwabach_-_Marktplatz_1.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Schwabach"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Schwabach&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Schwabach&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Schwabach"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Schwabach rootpage-Schwabach skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Schwabach</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Schwabach_(disambiguation)" class="mw-disambig" title="Schwabach (disambiguation)">Schwabach (disambiguation)</a>.</div>
+<table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org"><span class="wrap">Schwabach</span></span></th>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Schwabach_-_Marktplatz_1.jpg" class="image" title="Market square"><img alt="Market square" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Schwabach_-_Marktplatz_1.jpg/250px-Schwabach_-_Marktplatz_1.jpg" width="250" height="188" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Schwabach_-_Marktplatz_1.jpg/375px-Schwabach_-_Marktplatz_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Schwabach_-_Marktplatz_1.jpg/500px-Schwabach_-_Marktplatz_1.jpg 2x" data-file-width="2560" data-file-height="1920" /></a>
+<div>Market square</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" class="maptable" style="text-align:center">
+<table style="width:100%; background:none;">
+<tr>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:DEU_Schwabach_COA.svg" class="image" title="Coat of arms of Schwabach  "><img alt="Coat of arms of Schwabach  " src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/DEU_Schwabach_COA.svg/70px-DEU_Schwabach_COA.svg.png" width="70" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/DEU_Schwabach_COA.svg/105px-DEU_Schwabach_COA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/DEU_Schwabach_COA.svg/140px-DEU_Schwabach_COA.svg.png 2x" data-file-width="422" data-file-height="482" /></a><br />
+<small>Coat of arms</small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div style="width:170px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:170px;padding:0">
+<div style="position:relative;width:170px"><a href="/wiki/File:Germany_adm_location_map.svg" class="image" title="Schwabach   is located in Germany"><img alt="Schwabach   is located in Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/170px-Germany_adm_location_map.svg.png" width="170" height="202" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/255px-Germany_adm_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/340px-Germany_adm_location_map.svg.png 2x" data-file-width="1073" data-file-height="1272" /></a>
+<div style="position:absolute;top:73.048%;left:55.208%">
+<div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Schwabach  " src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" title="Schwabach  " width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><span style="padding:1px;float:left"><span class="wrap">Schwabach</span></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Schwabach&amp;params=49_19_45_N_11_1_15_E_type:city(40428)_region:DE-BY"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°19′45″N</span> <span class="longitude">11°1′15″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.32917°N 11.02083°E</span><span style="display:none">﻿ / <span class="geo">49.32917; 11.02083</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Schwabach&amp;params=49_19_45_N_11_1_15_E_type:city(40428)_region:DE-BY"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°19′45″N</span> <span class="longitude">11°1′15″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.32917°N 11.02083°E</span><span style="display:none">﻿ / <span class="geo">49.32917; 11.02083</span></span></span></a></span></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Country</th>
+<td><a href="/wiki/Germany" title="Germany">Germany</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/States_of_Germany" title="States of Germany">State</a></th>
+<td><a href="/wiki/Bavaria" title="Bavaria">Bavaria</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Regierungsbezirk" title="Regierungsbezirk">Admin. region</a></th>
+<td><a href="/wiki/Mittelfranken_(region)" class="mw-redirect" title="Mittelfranken (region)">Mittelfranken</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Districts_of_Germany" title="Districts of Germany">District</a></th>
+<td><a href="/wiki/Urban_districts_of_Germany" class="mw-redirect" title="Urban districts of Germany">Urban district</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Government</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/Lord_Mayor" class="mw-redirect" title="Lord Mayor">Lord Mayor</a></th>
+<td>Matthias Thürauf (<a href="/wiki/Christian_Social_Union_of_Bavaria" class="mw-redirect" title="Christian Social Union of Bavaria">CSU</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Area</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>40.71&#160;km<sup>2</sup> (15.72&#160;sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Elevation</th>
+<td>326&#160;m (1,070&#160;ft)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(2015-12-31)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>40,428</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Density</th>
+<td>990/km<sup>2</sup> (2,600/sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="/wiki/Central_European_Time" title="Central European Time">CET</a>/<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a> (UTC+1/+2)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/List_of_postal_codes_in_Germany" title="List of postal codes in Germany">Postal codes</a></th>
+<td class="adr"><span class="postal-code">91101–91126</span></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/List_of_dialling_codes_in_Germany" title="List of dialling codes in Germany">Dialling codes</a></th>
+<td>09122, 0911</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Vehicle_registration_plate" title="Vehicle registration plate">Vehicle registration</a></th>
+<td>SC</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.schwabach.de/">www.schwabach.de</a></td>
+</tr>
+</table>
+<p><b>Schwabach</b> (<small>German pronunciation:</small> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Standard_German" title="Help:IPA/Standard German">[ˈʃvaːbax]</a></span>) is a <a href="/wiki/Germany" title="Germany">German</a> <a href="/wiki/Town#Germany" title="Town">town</a> of about 40,000 inhabitants near <a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a> in the centre of the region of <a href="/wiki/Franconia" title="Franconia">Franconia</a> in the North of <a href="/wiki/Bavaria" title="Bavaria">Bavaria</a>. The city is an autonomous administrative district (<i>kreisfreie Stadt</i>). Schwabach is also the name of a river, which runs through the city prior joining the <a href="/wiki/Rednitz" title="Rednitz">Rednitz</a>.</p>
+<p>Schwabach is famous for its crafts made of <a href="/wiki/Gold" title="Gold">gold</a>, particularly <a href="/wiki/Metal_leaf" title="Metal leaf">gold foil</a>. In 2004, Schwabach celebrated this tradition with an anniversary festival, marking "500 years gold foil in Schwabach".</p>
+<p>Around 1500, a local typesetter developed the "<a href="/wiki/Schwabacher" title="Schwabacher">Schwabacher</a>" font. This font was used for printing the first Bible in German, which had been worked out by <a href="/wiki/Martin_Luther" title="Martin Luther">Martin Luther</a>.</p>
+<p>Schwabach is also the birthplace of composer <a href="/wiki/Adolf_von_Henselt" title="Adolf von Henselt">Adolf von Henselt</a>, the botanist <a href="/wiki/Johann_Gottfried_Zinn" title="Johann Gottfried Zinn">Johann Gottfried Zinn</a>, the biologist <a href="/wiki/Ralf_Baumeister" title="Ralf Baumeister">Ralf Baumeister</a> and one of the developers of <a href="/wiki/MP3" title="MP3">MP3</a>, <a href="/wiki/Bernhard_Grill" title="Bernhard Grill">Bernhard Grill</a>. It was often visited by <a href="/wiki/Albrecht_D%C3%BCrer" title="Albrecht Dürer">Albrecht Dürer</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Etymology"><span class="tocnumber">1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Timeline"><span class="tocnumber">2</span> <span class="toctext">Timeline</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Sons_and_daughters_of_the_town"><span class="tocnumber">3</span> <span class="toctext">Sons and daughters of the town</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Politicians"><span class="tocnumber">3.1</span> <span class="toctext">Politicians</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Athletes"><span class="tocnumber">3.2</span> <span class="toctext">Athletes</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Scientists"><span class="tocnumber">3.3</span> <span class="toctext">Scientists</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Artists"><span class="tocnumber">3.4</span> <span class="toctext">Artists</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Twin_towns"><span class="tocnumber">4</span> <span class="toctext">Twin towns</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Companies"><span class="tocnumber">5</span> <span class="toctext">Companies</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Schwabach&amp;action=edit&amp;section=1" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The name derives from the old <a href="/wiki/Franconia" title="Franconia">Franconian</a> name <i>Suapaha</i> (later <i>Suabaha</i>, then <i>Villa Suabach</i>) which translates as "Schwaben-Bach" in modern <a href="/wiki/German_language" title="German language">German</a>, which means "<a href="/wiki/Swabia" title="Swabia">Swabian</a> <a href="/wiki/Stream" title="Stream">stream</a>", the first part of the name was given by the Franconians who came to the area about a millennium after the <a href="/wiki/Hallstatt_culture" title="Hallstatt culture">Hallstatt culture</a> to the people living on the banks of that stream, which were perceived as "<a href="/wiki/Swabia" title="Swabia">Swabians</a>" by them, while the second part of the name is a reference to the stream which flows through town.</p>
+<h2><span class="mw-headline" id="Timeline">Timeline</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Schwabach&amp;action=edit&amp;section=2" title="Edit section: Timeline">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Golddach_fcm.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Golddach_fcm.jpg/220px-Golddach_fcm.jpg" width="220" height="381" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Golddach_fcm.jpg/330px-Golddach_fcm.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Golddach_fcm.jpg/440px-Golddach_fcm.jpg 2x" data-file-width="1479" data-file-height="2560" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Golddach_fcm.jpg" class="internal" title="Enlarge"></a></div>
+The gold roof of the Schwabach town hall</div>
+</div>
+</div>
+<ul>
+<li>750 BC–AD 500: Archaeological evidence of settlement.</li>
+<li>600–700: Name Schwabach first used to refer to the settlement and the river.</li>
+<li>1346: City wall built.</li>
+<li>1371: Municipal law established.</li>
+<li>1469: Town church built (still in use).</li>
+<li>1500: (ca.) Schwabacher font invented.</li>
+<li>1528: City hall built (still in use).</li>
+<li>1633: First needle factory established in Schwabach.</li>
+<li>1723: Schwabach river flooded to highest point ever. Markings of the flood are still visible.</li>
+<li>1768: The landmark <i>Old <a href="/wiki/Tilia" title="Tilia">Linden Tree</a></i> planted (still there).</li>
+<li>1792: Schwabach became part of <a href="/wiki/Prussia" title="Prussia">Prussia</a>.</li>
+<li>1797: <a href="/wiki/Goethe" class="mw-redirect" title="Goethe">Goethe</a> stayed overnight in Schwabach.</li>
+<li>1806: Schwabach became part of Bavaria.</li>
+<li>1849: Railway station built.</li>
+<li>1941: Schwabach bombed in <a href="/wiki/World_War_II" title="World War II">World War II</a></li>
+<li>1945: American military base established in Schwabach.</li>
+<li>1953: City coat-of-arms introduced.</li>
+<li>1972: Schwabach became an autonomous administrative district.</li>
+<li>1975: Partner-city relationship with <a href="/wiki/Les_Sables_d%27Olonne" class="mw-redirect" title="Les Sables d'Olonne">Les Sables d'Olonne</a> established.</li>
+<li>1980: Schwabach receives the European Union prize for cultural heritage.</li>
+<li>1992: US Army to be withdrawn from Schwabach and surrounding areas.</li>
+<li>2004: 500-year anniversary celebration of the gold foil industry.</li>
+</ul>
+<h2><span class="mw-headline" id="Sons_and_daughters_of_the_town">Sons and daughters of the town</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Schwabach&amp;action=edit&amp;section=3" title="Edit section: Sons and daughters of the town">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Politicians">Politicians</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Schwabach&amp;action=edit&amp;section=4" title="Edit section: Politicians">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Hans_Schuberth" title="Hans Schuberth">Hans Schuberth</a> (born April 5, 1897, died September 2, 1976 in Munich), politician (CSU), Federal Minister for affairs of telecommunication</li>
+<li><a href="/wiki/Karl_Freller" title="Karl Freller">Karl Freller</a> (born March 2, 1956), Member of the Bavarian Parliament (CSU)</li>
+</ul>
+<h3><span class="mw-headline" id="Athletes">Athletes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Schwabach&amp;action=edit&amp;section=5" title="Edit section: Athletes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Matthias_Volz" title="Matthias Volz">Matthias Volz</a> (born 4 May 1910 in Schwabach; died 26 August 2004 in Spalt), Turner, artistic gymnast Olympic champion (team) and bronze medalist in Berlin in 1936, TV 1848 Schwabach</li>
+<li><a href="/wiki/Manfred_Ritschel" title="Manfred Ritschel">Manfred Ritschel</a> (born June 7, 1946), football player</li>
+</ul>
+<h3><span class="mw-headline" id="Scientists">Scientists</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Schwabach&amp;action=edit&amp;section=6" title="Edit section: Scientists">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Bernhard_Grill" title="Bernhard Grill">Bernhard Grill</a> (born January 5, 1961), involved in the development of <a href="/wiki/Mp3" class="mw-redirect" title="Mp3">mp3</a> - format</li>
+</ul>
+<h3><span class="mw-headline" id="Artists">Artists</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Schwabach&amp;action=edit&amp;section=7" title="Edit section: Artists">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Walter_Zimmermann" title="Walter Zimmermann">Walter Zimmermann</a> (born April 15, 1949), composer</li>
+</ul>
+<h2><span class="mw-headline" id="Twin_towns">Twin towns</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Schwabach&amp;action=edit&amp;section=8" title="Edit section: Twin towns">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dd><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Les_Sables-d%27Olonne" title="Les Sables-d'Olonne">Les Sables-d'Olonne</a>, France</dd>
+<dd><span class="flagicon"><a href="/wiki/Turkey" title="Turkey"><img alt="Turkey" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800" /></a></span> <a href="/wiki/Kemer" title="Kemer">Kemer</a>, Turkey</dd>
+<dd><span class="flagicon"><a href="/wiki/Greece" title="Greece"><img alt="Greece" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/23px-Flag_of_Greece.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/35px-Flag_of_Greece.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/45px-Flag_of_Greece.svg.png 2x" data-file-width="600" data-file-height="400" /></a></span> <a href="/wiki/Kalambaka" class="mw-redirect" title="Kalambaka">Kalambaka</a>, Greece</dd>
+</dl>
+<h2><span class="mw-headline" id="Companies">Companies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Schwabach&amp;action=edit&amp;section=9" title="Edit section: Companies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Apollo-Optik" title="Apollo-Optik">Apollo-Optik</a>, optics company</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Schwabach&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.statistikdaten.bayern.de/genesis/online?sequenz=tabelleErgebnis&amp;selectionname=12411-001">"Fortschreibung des Bevölkerungsstandes"</a>. <i><a href="/wiki/Bayerisches_Landesamt_f%C3%BCr_Statistik_und_Datenverarbeitung" class="mw-redirect" title="Bayerisches Landesamt für Statistik und Datenverarbeitung">Bayerisches Landesamt für Statistik und Datenverarbeitung</a></i> (in German). June 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchwabach&amp;rft.atitle=Fortschreibung+des+Bev%C3%B6lkerungsstandes&amp;rft.date=2016-06&amp;rft.genre=unknown&amp;rft.jtitle=Bayerisches+Landesamt+f%C3%BCr+Statistik+und+Datenverarbeitung&amp;rft_id=https%3A%2F%2Fwww.statistikdaten.bayern.de%2Fgenesis%2Fonline%3Fsequenz%3DtabelleErgebnis%26selectionname%3D12411-001&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Schwabach" class="extiw" title="commons:Category:Schwabach">Schwabach</a></b></i>.</td>
+</tr>
+</table>
+<div role="navigation" class="navbox" aria-labelledby="border.7C30px.7CFlag_of_Bavaria_Urban_and_rural_districts_in_the_Free_State_of_Bavaria_in_Germany_border.7C30px.7CFlag_of_Germany" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Germany_districts_Bavaria" title="Template:Germany districts Bavaria"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Germany_districts_Bavaria" title="Template talk:Germany districts Bavaria"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Germany_districts_Bavaria&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="border.7C30px.7CFlag_of_Bavaria_Urban_and_rural_districts_in_the_Free_State_of_Bavaria_in_Germany_border.7C30px.7CFlag_of_Germany" style="font-size:114%;margin:0 4em"><a href="/wiki/File:Flag_of_Bavaria_(lozengy).svg" class="image" title="Flag of Bavaria"><img alt="Flag of Bavaria" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/30px-Flag_of_Bavaria_%28lozengy%29.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/45px-Flag_of_Bavaria_%28lozengy%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/60px-Flag_of_Bavaria_%28lozengy%29.svg.png 2x" data-file-width="1000" data-file-height="600" /></a> Urban and rural districts in the <a href="/wiki/Bavaria" title="Bavaria">Free State of Bavaria</a> in Germany <a href="/wiki/File:Flag_of_Germany.svg" class="image" title="Flag of Germany"><img alt="Flag of Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/30px-Flag_of_Germany.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/45px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Urban<br />
+districts</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Amberg" title="Amberg">Amberg</a></li>
+<li><a href="/wiki/Ansbach" title="Ansbach">Ansbach</a></li>
+<li><a href="/wiki/Aschaffenburg" title="Aschaffenburg">Aschaffenburg</a></li>
+<li><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></li>
+<li><a href="/wiki/Bamberg" title="Bamberg">Bamberg</a></li>
+<li><a href="/wiki/Bayreuth" title="Bayreuth">Bayreuth</a></li>
+<li><a href="/wiki/Coburg" title="Coburg">Coburg</a></li>
+<li><a href="/wiki/Erlangen" title="Erlangen">Erlangen</a></li>
+<li><a href="/wiki/F%C3%BCrth" title="Fürth">Fürth</a></li>
+<li><a href="/wiki/Hof,_Bavaria" title="Hof, Bavaria">Hof</a></li>
+<li><a href="/wiki/Ingolstadt" title="Ingolstadt">Ingolstadt</a></li>
+<li><a href="/wiki/Kaufbeuren" title="Kaufbeuren">Kaufbeuren</a></li>
+<li><a href="/wiki/Kempten" title="Kempten">Kempten</a></li>
+<li><a href="/wiki/Landshut" title="Landshut">Landshut</a></li>
+<li><a href="/wiki/Memmingen" title="Memmingen">Memmingen</a></li>
+<li><a href="/wiki/Munich" title="Munich">München (<i>Munich</i>)</a></li>
+<li><a href="/wiki/Nuremberg" title="Nuremberg">Nürnberg (<i>Nuremberg</i>)</a></li>
+<li><a href="/wiki/Passau" title="Passau">Passau</a></li>
+<li><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></li>
+<li><a href="/wiki/Rosenheim" title="Rosenheim">Rosenheim</a></li>
+<li><a class="mw-selflink selflink">Schwabach</a></li>
+<li><a href="/wiki/Schweinfurt" title="Schweinfurt">Schweinfurt</a></li>
+<li><a href="/wiki/Straubing" title="Straubing">Straubing</a></li>
+<li><a href="/wiki/Weiden_in_der_Oberpfalz" title="Weiden in der Oberpfalz">Weiden</a></li>
+<li><a href="/wiki/W%C3%BCrzburg" title="Würzburg">Würzburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Rural<br />
+districts</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aichach-Friedberg" title="Aichach-Friedberg">Aichach-Friedberg</a></li>
+<li><a href="/wiki/Alt%C3%B6tting_(district)" title="Altötting (district)">Altötting</a></li>
+<li><a href="/wiki/Amberg-Sulzbach" title="Amberg-Sulzbach">Amberg-Sulzbach</a></li>
+<li><a href="/wiki/Ansbach_(district)" title="Ansbach (district)">Ansbach</a></li>
+<li><a href="/wiki/Aschaffenburg_(district)" title="Aschaffenburg (district)">Aschaffenburg</a></li>
+<li><a href="/wiki/Augsburg_(district)" title="Augsburg (district)">Augsburg</a></li>
+<li><a href="/wiki/Bad_Kissingen_(district)" title="Bad Kissingen (district)">Bad Kissingen</a></li>
+<li><a href="/wiki/Bad_T%C3%B6lz-Wolfratshausen" title="Bad Tölz-Wolfratshausen">Bad Tölz-Wolfratshausen</a></li>
+<li><a href="/wiki/Bamberg_(district)" title="Bamberg (district)">Bamberg</a></li>
+<li><a href="/wiki/Bayreuth_(district)" title="Bayreuth (district)">Bayreuth</a></li>
+<li><a href="/wiki/Berchtesgadener_Land" title="Berchtesgadener Land">Berchtesgadener Land</a></li>
+<li><a href="/wiki/Cham_(district)" title="Cham (district)">Cham</a></li>
+<li><a href="/wiki/Coburg_(district)" title="Coburg (district)">Coburg</a></li>
+<li><a href="/wiki/Dachau_(district)" title="Dachau (district)">Dachau</a></li>
+<li><a href="/wiki/Deggendorf_(district)" title="Deggendorf (district)">Deggendorf</a></li>
+<li><a href="/wiki/Dillingen_(district)" title="Dillingen (district)">Dillingen</a></li>
+<li><a href="/wiki/Dingolfing-Landau" title="Dingolfing-Landau">Dingolfing-Landau</a></li>
+<li><a href="/wiki/Donau-Ries" title="Donau-Ries">Donau-Ries</a></li>
+<li><a href="/wiki/Ebersberg_(district)" title="Ebersberg (district)">Ebersberg</a></li>
+<li><a href="/wiki/Eichst%C3%A4tt_(district)" title="Eichstätt (district)">Eichstätt</a></li>
+<li><a href="/wiki/Erding_(district)" title="Erding (district)">Erding</a></li>
+<li><a href="/wiki/Erlangen-H%C3%B6chstadt" title="Erlangen-Höchstadt">Erlangen-Höchstadt</a></li>
+<li><a href="/wiki/Forchheim_(district)" title="Forchheim (district)">Forchheim</a></li>
+<li><a href="/wiki/Freising_(district)" title="Freising (district)">Freising</a></li>
+<li><a href="/wiki/Freyung-Grafenau" title="Freyung-Grafenau">Freyung-Grafenau</a></li>
+<li><a href="/wiki/F%C3%BCrstenfeldbruck_(district)" title="Fürstenfeldbruck (district)">Fürstenfeldbruck</a></li>
+<li><a href="/wiki/F%C3%BCrth_(district)" title="Fürth (district)">Fürth</a></li>
+<li><a href="/wiki/Garmisch-Partenkirchen_(district)" title="Garmisch-Partenkirchen (district)">Garmisch-Partenkirchen</a></li>
+<li><a href="/wiki/G%C3%BCnzburg_(district)" title="Günzburg (district)">Günzburg</a></li>
+<li><a href="/wiki/Ha%C3%9Fberge_(district)" title="Haßberge (district)">Haßberge</a></li>
+<li><a href="/wiki/Hof_(district)" title="Hof (district)">Hof</a></li>
+<li><a href="/wiki/Kelheim_(district)" title="Kelheim (district)">Kelheim</a></li>
+<li><a href="/wiki/Kitzingen_(district)" title="Kitzingen (district)">Kitzingen</a></li>
+<li><a href="/wiki/Kronach_(district)" title="Kronach (district)">Kronach</a></li>
+<li><a href="/wiki/Kulmbach_(district)" title="Kulmbach (district)">Kulmbach</a></li>
+<li><a href="/wiki/Landsberg_(district)" title="Landsberg (district)">Landsberg</a></li>
+<li><a href="/wiki/Landshut_(district)" title="Landshut (district)">Landshut</a></li>
+<li><a href="/wiki/Lichtenfels_(district)" title="Lichtenfels (district)">Lichtenfels</a></li>
+<li><a href="/wiki/Lindau_(district)" title="Lindau (district)">Lindau</a></li>
+<li><a href="/wiki/Main-Spessart" title="Main-Spessart">Main-Spessart</a></li>
+<li><a href="/wiki/Miesbach_(district)" title="Miesbach (district)">Miesbach</a></li>
+<li><a href="/wiki/Miltenberg_(district)" title="Miltenberg (district)">Miltenberg</a></li>
+<li><a href="/wiki/M%C3%BChldorf_(district)" title="Mühldorf (district)">Mühldorf</a></li>
+<li><a href="/wiki/Munich_(district)" title="Munich (district)">München (<i>Munich</i>)</a></li>
+<li><a href="/wiki/Neuburg-Schrobenhausen" title="Neuburg-Schrobenhausen">Neuburg-Schrobenhausen</a></li>
+<li><a href="/wiki/Neumarkt_(district)" title="Neumarkt (district)">Neumarkt</a></li>
+<li><a href="/wiki/Neustadt_(Aisch)-Bad_Windsheim" title="Neustadt (Aisch)-Bad Windsheim">Neustadt (Aisch)-Bad Windsheim</a></li>
+<li><a href="/wiki/Neustadt_an_der_Waldnaab_(district)" title="Neustadt an der Waldnaab (district)">Neustadt an der Waldnaab</a></li>
+<li><a href="/wiki/Neu-Ulm_(district)" title="Neu-Ulm (district)">Neu-Ulm</a></li>
+<li><a href="/wiki/N%C3%BCrnberger_Land" title="Nürnberger Land">Nürnberger Land</a></li>
+<li><a href="/wiki/Oberallg%C3%A4u" title="Oberallgäu">Oberallgäu</a></li>
+<li><a href="/wiki/Ostallg%C3%A4u" title="Ostallgäu">Ostallgäu</a></li>
+<li><a href="/wiki/Passau_(district)" title="Passau (district)">Passau</a></li>
+<li><a href="/wiki/Pfaffenhofen_(district)" title="Pfaffenhofen (district)">Pfaffenhofen</a></li>
+<li><a href="/wiki/Regen_(district)" title="Regen (district)">Regen</a></li>
+<li><a href="/wiki/Regensburg_(district)" title="Regensburg (district)">Regensburg</a></li>
+<li><a href="/wiki/Rh%C3%B6n-Grabfeld" title="Rhön-Grabfeld">Rhön-Grabfeld</a></li>
+<li><a href="/wiki/Rosenheim_(district)" title="Rosenheim (district)">Rosenheim</a></li>
+<li><a href="/wiki/Roth_(district)" title="Roth (district)">Roth</a></li>
+<li><a href="/wiki/Rottal-Inn" title="Rottal-Inn">Rottal-Inn</a></li>
+<li><a href="/wiki/Schwandorf_(district)" title="Schwandorf (district)">Schwandorf</a></li>
+<li><a href="/wiki/Schweinfurt_(district)" title="Schweinfurt (district)">Schweinfurt</a></li>
+<li><a href="/wiki/Starnberg_(district)" title="Starnberg (district)">Starnberg</a></li>
+<li><a href="/wiki/Straubing-Bogen" title="Straubing-Bogen">Straubing-Bogen</a></li>
+<li><a href="/wiki/Tirschenreuth_(district)" title="Tirschenreuth (district)">Tirschenreuth</a></li>
+<li><a href="/wiki/Traunstein_(district)" title="Traunstein (district)">Traunstein</a></li>
+<li><a href="/wiki/Unterallg%C3%A4u" title="Unterallgäu">Unterallgäu</a></li>
+<li><a href="/wiki/Weilheim-Schongau" title="Weilheim-Schongau">Weilheim-Schongau</a></li>
+<li><a href="/wiki/Wei%C3%9Fenburg-Gunzenhausen" title="Weißenburg-Gunzenhausen">Weißenburg-Gunzenhausen</a></li>
+<li><a href="/wiki/Wunsiedel_(district)" title="Wunsiedel (district)">Wunsiedel</a></li>
+<li><a href="/wiki/W%C3%BCrzburg_(district)" title="Würzburg (district)">Würzburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/153628527">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/153628527">153628527</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4053665-8">4053665-8</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1249
+Cached time: 20170924023350
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.468 seconds
+Real time usage: 0.582 seconds
+Preprocessor visited node count: 11107/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 62783/2097152 bytes
+Template argument size: 17210/2097152 bytes
+Highest expansion depth: 26/40
+Expensive parser function count: 4/500
+Lua time usage: 0.135/10.000 seconds
+Lua memory usage: 4.4 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  523.705      1 -total
+ 83.90%  439.397      1 Template:Infobox_German_location
+ 78.52%  411.214      1 Template:Infobox_settlement
+ 67.22%  352.052      1 Template:Infobox
+ 34.89%  182.740      7 Template:Population_Germany
+ 28.59%  149.707      7 Template:Metadata_Population_DE-BY
+  8.21%   42.997      1 Template:Cite_web
+  6.60%   34.579      8 Template:Both
+  6.15%   32.199      1 Template:Coord
+  5.62%   29.412     12 Template:Str_left
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1096499-0!canonical and timestamp 20170924023349 and revision id 779685360
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Schwabach&amp;oldid=779685360">https://en.wikipedia.org/w/index.php?title=Schwabach&amp;oldid=779685360</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Towns_in_Bavaria" title="Category:Towns in Bavaria">Towns in Bavaria</a></li><li><a href="/wiki/Category:Historic_Jewish_communities" title="Category:Historic Jewish communities">Historic Jewish communities</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Schwabach" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Schwabach" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Schwabach" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Schwabach" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Schwabach">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Schwabach&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Schwabach&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Schwabach" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Schwabach" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Schwabach&amp;oldid=779685360" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Schwabach&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q14889" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Schwabach&amp;id=779685360" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Schwabach">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Schwabach&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DSchwabach%26returnto%3DSchwabach%26oldid%3D779685360%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Schwabach&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Schwabach" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://en.wikivoyage.org/wiki/Schwabach" hreflang="en">Wikivoyage</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B4%D9%81%D8%A7%D8%A8%D8%A7%D8%AE" title="شفاباخ – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Schwabach" title="Schwabach – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/%C5%9Evabax" title="Şvabax – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%B4%D9%88%D8%A7%D8%A8%D8%A7%D8%AE" title="شواباخ – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A8%D0%B2%D0%B0%D0%B1%D0%B0%D1%85" title="Швабах – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Schwabach" title="Schwabach – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Schwabach" title="Schwabach – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%A8%D0%B2%D0%B0%D0%B1%D0%B0%D1%85" title="Швабах – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Schwabach_(kapital_sa_distrito)" title="Schwabach (kapital sa distrito) – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Schwabach" title="Schwabach – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Schwabach" title="Schwabach – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Schwabach" title="Schwabach – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Schwabach" title="Schwabach – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Schwabach" title="Schwabach – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Schwabach" title="Schwabach – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Schwabach" title="Schwabach – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B4%D9%88%D8%A7%D8%A8%D8%A7%D8%AE" title="شواباخ – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Schwabach" title="Schwabach – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/Schwabach" title="Schwabach – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%87%D5%BE%D5%A1%D5%A2%D5%A1%D5%AD" title="Շվաբախ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Schwabach" title="Schwabach – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Schwabach" title="Schwabach – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A9%D7%95%D7%95%D7%90%D7%91%D7%9A" title="שוואבך – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A8%D0%B2%D0%B0%D0%B1%D0%B0%D1%85" title="Швабах – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%A8%D0%B2%D0%B0%D0%B1%D0%B0%D1%85" title="Швабах – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Schwabach" title="Schwabach – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Schwabach" title="Schwabach – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Schwabach" title="Schwabach – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%90%E3%83%83%E3%83%8F" title="シュヴァーバッハ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Schwabach" title="Schwabach – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Schwabach" title="Schwabach – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Schwabach" title="Schwabach – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Schwabach" title="Schwabach – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Schwabach" title="Schwabach – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A8%D0%B2%D0%B0%D0%B1%D0%B0%D1%85" title="Швабах – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Schwabach" title="Schwabach – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Schwabach" title="Schwabach – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A8%D0%B2%D0%B0%D0%B1%D0%B0%D1%85" title="Швабах – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Schwabach" title="Schwabach – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Schwabach" title="Schwabach – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Schwabach" title="Schwabach – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%96%BD%E7%93%A6%E5%B7%B4%E8%B5%AB" title="施瓦巴赫 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q14889#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 10 May 2017, at 11:01.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Schwabach&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.468","walltime":"0.582","ppvisitednodes":{"value":11107,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":62783,"limit":2097152},"templateargumentsize":{"value":17210,"limit":2097152},"expansiondepth":{"value":26,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  523.705      1 -total"," 83.90%  439.397      1 Template:Infobox_German_location"," 78.52%  411.214      1 Template:Infobox_settlement"," 67.22%  352.052      1 Template:Infobox"," 34.89%  182.740      7 Template:Population_Germany"," 28.59%  149.707      7 Template:Metadata_Population_DE-BY","  8.21%   42.997      1 Template:Cite_web","  6.60%   34.579      8 Template:Both","  6.15%   32.199      1 Template:Coord","  5.62%   29.412     12 Template:Str_left"]},"scribunto":{"limitreport-timeusage":{"value":"0.135","limit":"10.000"},"limitreport-memusage":{"value":4609791,"limit":52428800}},"cachereport":{"origin":"mw1249","timestamp":"20170924023350","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":66,"wgHostname":"mw1246"});});</script>
+	</body>
+</html>

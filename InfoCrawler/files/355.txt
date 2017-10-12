@@ -1,0 +1,1035 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Imperial Diet (Holy Roman Empire) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Imperial_Diet_(Holy_Roman_Empire)","wgTitle":"Imperial Diet (Holy Roman Empire)","wgCurRevisionId":794931511,"wgRevisionId":794931511,"wgArticleId":30599237,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Uses editors parameter","Articles containing Latin-language text","Articles containing German-language text","Historical legislatures","Imperial Diets (Holy Roman Empire)"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Imperial_Diet_(Holy_Roman_Empire)","wgRelevantArticleId":30599237,"wgRequestId":"WcVeuQpAMEoAADxKocoAAABL","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q669970","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/1/18/Kurien_des_reichstages_des_Heiligen_R%C3%B6mischen_Reiches.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Imperial_Diet_(Holy_Roman_Empire)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Imperial_Diet_(Holy_Roman_Empire)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Imperial_Diet_(Holy_Roman_Empire)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Imperial_Diet_(Holy_Roman_Empire)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Imperial_Diet_Holy_Roman_Empire rootpage-Imperial_Diet_Holy_Roman_Empire skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Imperial Diet (Holy Roman Empire)</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:322px;"><a href="/wiki/File:Kurien_des_reichstages_des_Heiligen_R%C3%B6mischen_Reiches.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kurien_des_reichstages_des_Heiligen_R%C3%B6mischen_Reiches.jpg/320px-Kurien_des_reichstages_des_Heiligen_R%C3%B6mischen_Reiches.jpg" width="320" height="474" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kurien_des_reichstages_des_Heiligen_R%C3%B6mischen_Reiches.jpg/480px-Kurien_des_reichstages_des_Heiligen_R%C3%B6mischen_Reiches.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/1/18/Kurien_des_reichstages_des_Heiligen_R%C3%B6mischen_Reiches.jpg 2x" data-file-width="544" data-file-height="806" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Kurien_des_reichstages_des_Heiligen_R%C3%B6mischen_Reiches.jpg" class="internal" title="Enlarge"></a></div>
+Seating plan for an inauguration of the Imperial Diet in the <a href="/wiki/Regensburg" title="Regensburg">Regensburg</a> Town Hall from a 1675 engraving: Emperor and Prince-electors at the head, secular Princes to the left, ecclesiastical to the right, deputies of Imperial Cities in the foreground.</div>
+</div>
+</div>
+<p>The <b>Imperial Diet</b> (<a href="/wiki/Latin_language" class="mw-redirect" title="Latin language">Latin</a>: <span lang="la" xml:lang="la"><i>Dieta Imperii</i> or <i>Comitium Imperiale</i></span>; <a href="/wiki/German_language" title="German language">German</a>: <span lang="de" xml:lang="de"><i>Reichstag</i></span>) was the deliberative and legislative body of the <a href="/wiki/Holy_Roman_Empire" title="Holy Roman Empire">Holy Roman Empire</a>. Its members were the <a href="/wiki/Imperial_Estate" title="Imperial Estate">Imperial Estates</a>, divided into three colleges. The <a href="/wiki/Diet_(assembly)" title="Diet (assembly)">diet</a> as a permanent, regularized institution evolved from the <i><a href="/wiki/Hoftag" title="Hoftag">Hoftage</a></i> (court assemblies) of the <a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a>. From 1663 until the end of the empire in 1806, it was in <a href="/wiki/Perpetual_Diet_of_Regensburg" title="Perpetual Diet of Regensburg">permanent session</a> at <a href="/wiki/Regensburg" title="Regensburg">Regensburg</a>.</p>
+<p>The Imperial Estates had, according to <a href="/wiki/Feudalism" title="Feudalism">feudal law</a>, no authority above them besides the <a href="/wiki/Holy_Roman_Emperor" title="Holy Roman Emperor">Holy Roman Emperor</a> (or emperor-elect) himself. The holding of an Imperial Estate entitled one to a vote in the diet. Thus, an individual member might have multiple votes and votes in different colleges. In general, members did not attend the permanent diet at Regensburg, but sent representatives instead. The late imperial diet was in effect a permanent meeting of ambassadors between the Estates.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Participants"><span class="tocnumber">2</span> <span class="toctext">Participants</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Electors"><span class="tocnumber">2.1</span> <span class="toctext">Electors</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Princes"><span class="tocnumber">2.2</span> <span class="toctext">Princes</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Cities"><span class="tocnumber">2.3</span> <span class="toctext">Cities</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Religious_bodies"><span class="tocnumber">3</span> <span class="toctext">Religious bodies</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Collection_of_records"><span class="tocnumber">4</span> <span class="toctext">Collection of records</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Locations_of_Imperial_Diets"><span class="tocnumber">5</span> <span class="toctext">Locations of Imperial Diets</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Bibliography"><span class="tocnumber">8</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Imperial_Diet_(Holy_Roman_Empire)&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The precise role and function of the Imperial Diet changed over the centuries, as did the Empire itself, in that the estates and separate territories gained more and more control of their own affairs at the expense of imperial power. Initially, there was neither a fixed time nor location for the Diet. It started as a convention of the <a href="/wiki/Duke" title="Duke">dukes</a> of the old <a href="/wiki/Germanic_peoples" title="Germanic peoples">Germanic</a> tribes that formed the <a href="/wiki/Francia" title="Francia">Frankish kingdom</a> when important decisions had to be made, and was probably based on the old Germanic law whereby each leader relied on the support of his leading men. For example, already under Emperor <a href="/wiki/Charlemagne" title="Charlemagne">Charlemagne</a> during the <a href="/wiki/Saxon_Wars" title="Saxon Wars">Saxon Wars</a>, the Diet, according to the <a href="/wiki/Royal_Frankish_Annals" title="Royal Frankish Annals">Royal Frankish Annals</a>, met at <a href="/wiki/Paderborn" title="Paderborn">Paderborn</a> in 777 officially determined laws concerning the subdued <a href="/wiki/Duchy_of_Saxony" title="Duchy of Saxony">Saxons</a> and other tribes. In 803, the Frankish emperor issued the final version of the <a href="/wiki/Lex_Saxonum" title="Lex Saxonum">Lex Saxonum</a>.</p>
+<p>At the Diet of 919 in <a href="/wiki/Fritzlar" title="Fritzlar">Fritzlar</a> the dukes elected the first <a href="/wiki/List_of_German_monarchs" title="List of German monarchs">King of the Germans</a>, who was a Saxon, <a href="/wiki/Henry_the_Fowler" title="Henry the Fowler">Henry the Fowler</a>, thus overcoming the longstanding rivalry between Franks and Saxons and laying the foundation for the German realm. After the conquest of <a href="/wiki/Kingdom_of_Italy_(medieval)" class="mw-redirect" title="Kingdom of Italy (medieval)">Italy</a>, the 1158 <a href="/wiki/Diet_of_Roncaglia" title="Diet of Roncaglia">Diet of Roncaglia</a> finalized four laws that would significantly alter the (never formally written) <a href="/wiki/Constitution" title="Constitution">constitution</a> of the Empire, marking the beginning of the steady decline of the central power in favour of the local dukes. The <a href="/wiki/Golden_Bull_of_1356" title="Golden Bull of 1356">Golden Bull of 1356</a> cemented the concept of "territorial rule" (<i>Landesherrschaft</i>), the largely independent rule of the dukes over their respective territories, and also limited the number of electors to seven. The Pope, contrary to modern myth, was never involved in the electoral process but only in the process of ratification and coronation of whomever the Prince-Electors chose.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Luther_(Wislicenus).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Luther_%28Wislicenus%29.jpg/300px-Luther_%28Wislicenus%29.jpg" width="300" height="173" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Luther_%28Wislicenus%29.jpg/450px-Luther_%28Wislicenus%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Luther_%28Wislicenus%29.jpg/600px-Luther_%28Wislicenus%29.jpg 2x" data-file-width="709" data-file-height="409" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Luther_(Wislicenus).jpg" class="internal" title="Enlarge"></a></div>
+"Here I stand": <a href="/wiki/Martin_Luther" title="Martin Luther">Martin Luther</a> at the <a href="/wiki/Diet_of_Worms" title="Diet of Worms">Diet of Worms</a>, 1521<br />
+19th-century painting by <a href="/wiki/Hermann_Wislicenus" title="Hermann Wislicenus">Hermann Wislicenus</a></div>
+</div>
+</div>
+<p>However, until the late 15th century, the Diet was not actually formalized as an institution. Instead, the dukes and other princes would irregularly convene at the court of the Emperor; these assemblies were usually referred to as <i><a href="/wiki/Hoftag" title="Hoftag">Hoftage</a></i> (from German <i>Hof</i> "court"). Only beginning in 1489 was the Diet called the <i>Reichstag</i>, and it was formally divided into several <i>collegia</i> ("colleges"). Initially, the two colleges were that of the <a href="/wiki/Prince-elector" title="Prince-elector">prince-electors</a> and that of the other dukes and princes. Later, the <a href="/wiki/Free_imperial_city" title="Free imperial city">imperial cities</a>, that is, cities that had <a href="/wiki/Imperial_immediacy" title="Imperial immediacy">Imperial immediacy</a> and were oligarchic republics independent of a local ruler that were subject only to the Emperor himself, managed to be accepted as a third party.</p>
+<p>Several attempts to reform the Empire and end its slow disintegration, notably starting with the <a href="/wiki/Diet_of_1495" class="mw-redirect" title="Diet of 1495">Diet of 1495</a>, did not have much effect. In contrast, this process was only hastened with the <a href="/wiki/Peace_of_Westphalia" title="Peace of Westphalia">Peace of Westphalia</a> of 1648, which formally bound the Emperor to accept all decisions made by the Diet, in effect depriving him of his few remaining powers. From then to its end in 1806, the Empire was not much more than a collection of largely independent states.</p>
+<p>Probably the most famous Diets were those held in <a href="/wiki/Diet_of_Worms" title="Diet of Worms">Worms</a> in 1495, where the <a href="/wiki/Imperial_Reform" title="Imperial Reform">Imperial Reform</a> was enacted, and <a href="/wiki/Diet_of_Worms" title="Diet of Worms">1521</a>, where <a href="/wiki/Martin_Luther" title="Martin Luther">Martin Luther</a> was banned (see <a href="/wiki/Edict_of_Worms" class="mw-redirect" title="Edict of Worms">Edict of Worms</a>), the Diets of <a href="/wiki/Speyer" title="Speyer">Speyer</a> <a href="/wiki/Diet_of_Speyer_(1526)" title="Diet of Speyer (1526)">1526</a> and <a href="/wiki/Diet_of_Speyer_(1529)" title="Diet of Speyer (1529)">1529</a> (see <a href="/wiki/Protestation_at_Speyer" title="Protestation at Speyer">Protestation at Speyer</a>), and several in <a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a> (<a href="/wiki/Diet_of_Nuremberg" title="Diet of Nuremberg">Diet of Nuremberg</a>). Only with the introduction of the <a href="/wiki/Perpetual_Diet_of_Regensburg" title="Perpetual Diet of Regensburg">Perpetual Diet of Regensburg</a> in 1663 did the Diet permanently convene in a fixed location.</p>
+<p>The Imperial Diet of Constance opened on 27 April 1507;<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> it recognized the unity of the Holy Roman Empire and founded the Imperial Chamber, the empire’s supreme court.</p>
+<h2><span class="mw-headline" id="Participants">Participants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Imperial_Diet_(Holy_Roman_Empire)&amp;action=edit&amp;section=2" title="Edit section: Participants">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Since 1489, the Diet comprised three colleges:</p>
+<h3><span class="mw-headline" id="Electors">Electors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Imperial_Diet_(Holy_Roman_Empire)&amp;action=edit&amp;section=3" title="Edit section: Electors">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/File:Wapen_1545_Kaiserwappen_des_Heiligen_R%C3%B6mischen_Reichs_Polychromie.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Wapen_1545_Kaiserwappen_des_Heiligen_R%C3%B6mischen_Reichs_Polychromie.jpg/200px-Wapen_1545_Kaiserwappen_des_Heiligen_R%C3%B6mischen_Reichs_Polychromie.jpg" width="200" height="216" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Wapen_1545_Kaiserwappen_des_Heiligen_R%C3%B6mischen_Reichs_Polychromie.jpg/300px-Wapen_1545_Kaiserwappen_des_Heiligen_R%C3%B6mischen_Reichs_Polychromie.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Wapen_1545_Kaiserwappen_des_Heiligen_R%C3%B6mischen_Reichs_Polychromie.jpg/400px-Wapen_1545_Kaiserwappen_des_Heiligen_R%C3%B6mischen_Reichs_Polychromie.jpg 2x" data-file-width="978" data-file-height="1055" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Wapen_1545_Kaiserwappen_des_Heiligen_R%C3%B6mischen_Reichs_Polychromie.jpg" class="internal" title="Enlarge"></a></div>
+Coats of arms of prince electors surround the Holy Roman Emperor's; from flags book of Jacob Köbel (1545).</div>
+</div>
+</div>
+<p>The <a href="/wiki/Electoral_college" title="Electoral college">Electoral college</a> (<i>Kurfürstenrat</i>), led by the <a href="/wiki/Electorate_of_Mainz" title="Electorate of Mainz">Prince-Archbishop of Mainz</a> in his capacity as <a href="/wiki/Archchancellor" title="Archchancellor">Archchancellor</a> of <a href="/wiki/Kingdom_of_Germany" title="Kingdom of Germany">Germany</a>. The seven Prince-electors were designated by the Golden Bull of 1356:</p>
+<ul>
+<li>three ecclesiastical <a href="/wiki/Prince-Bishop" class="mw-redirect" title="Prince-Bishop">Prince-Bishops</a>,
+<ul>
+<li>the Prince-Archbishop of Mainz as Archchancellor of Germany</li>
+<li>the <a href="/wiki/Electorate_of_Cologne" title="Electorate of Cologne">Prince-Archbishop of Cologne</a> as Archchancellor of <a href="/wiki/Kingdom_of_Italy" title="Kingdom of Italy">Italy</a></li>
+<li>the <a href="/wiki/Electorate_of_Trier" title="Electorate of Trier">Prince-Archbishop of Trier</a> as Archchancellor of <a href="/wiki/Kingdom_of_Burgundy" title="Kingdom of Burgundy">Burgundy</a></li>
+</ul>
+</li>
+<li>four secular Princes,
+<ul>
+<li>the <a href="/wiki/Kingdom_of_Bohemia" title="Kingdom of Bohemia">King of Bohemia</a> as <a href="/wiki/Cup-bearer" title="Cup-bearer">Archcupbearer</a></li>
+<li>the <a href="/wiki/Electorate_of_the_Palatinate" class="mw-redirect" title="Electorate of the Palatinate">Elector of the Palatinate</a> as <a href="/wiki/Steward_(office)" title="Steward (office)">Archsteward</a> (<i>Erztruchsess</i>)</li>
+<li>the <a href="/wiki/Electorate_of_Saxony" title="Electorate of Saxony">Elector of Saxony</a> as <a href="/wiki/Marshal" title="Marshal">Archmarshal</a></li>
+<li>the <a href="/wiki/Margraviate_of_Brandenburg" title="Margraviate of Brandenburg">Margrave of Brandenburg</a> as <a href="/wiki/Chamberlain_(office)" title="Chamberlain (office)">Archchamberlain</a></li>
+</ul>
+</li>
+</ul>
+<p>The number increased to eight, when in 1623 the <a href="/wiki/Duchy_of_Bavaria" title="Duchy of Bavaria">Duke of Bavaria</a> took over the electoral dignity of the Count Palatine, who himself received a separate vote in the electoral college according to the 1648 <a href="/wiki/Peace_of_Westphalia" title="Peace of Westphalia">Peace of Westphalia</a> (<i>Causa Palatina</i>), including the high office of an <a href="/wiki/Treasurer" title="Treasurer">Archtreasurer</a>. In 1692 the <a href="/wiki/Electorate_of_Brunswick-L%C3%BCneburg" title="Electorate of Brunswick-Lüneburg">Elector of Brunswick-Lüneburg</a> (Hannover) became the ninth Prince-elector as Archbannerbearer during the <a href="/wiki/Nine_Years%27_War" title="Nine Years' War">Nine Years' War</a>.</p>
+<p>In the <a href="/wiki/War_of_the_Bavarian_Succession" title="War of the Bavarian Succession">War of the Bavarian Succession</a>, the electoral dignities of the Palatinate and <a href="/wiki/Electorate_of_Bavaria" title="Electorate of Bavaria">Bavaria</a> were merged, approved by the 1779 <a href="/wiki/Treaty_of_Teschen" title="Treaty of Teschen">Treaty of Teschen</a>. The <a href="/wiki/German_Mediatisation" class="mw-redirect" title="German Mediatisation">German Mediatisation</a> of 1803 entailed the dissolution of the Cologne and Trier Prince-archbishoprics, the Prince-Archbishop of Mainz and German Archchancellor received—as compensation for his lost territory occupied by <a href="/wiki/French_First_Republic" title="French First Republic">Revolutionary France</a>—the newly established <a href="/wiki/Principality_of_Regensburg" title="Principality of Regensburg">Principality of Regensburg</a>. In turn, four secular princes were elevated to prince-electors:</p>
+<ul>
+<li>the <a href="/wiki/Electorate_of_Salzburg" title="Electorate of Salzburg">Duke of Salzburg</a></li>
+<li>the <a href="/wiki/Electorate_of_W%C3%BCrttemberg" title="Electorate of Württemberg">Duke of Württemberg</a></li>
+<li>the <a href="/wiki/Electorate_of_Baden" title="Electorate of Baden">Margrave of Baden</a></li>
+<li>the <a href="/wiki/Electorate_of_Hesse" title="Electorate of Hesse">Landgrave of Hesse-Kassel</a></li>
+</ul>
+<p>These changes however had little effect, as with the abdication of <a href="/wiki/Francis_II,_Holy_Roman_Emperor" title="Francis II, Holy Roman Emperor">Francis II</a> as Holy Roman Emperor the Empire was dissolved only three years later.</p>
+<h3><span class="mw-headline" id="Princes">Princes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Imperial_Diet_(Holy_Roman_Empire)&amp;action=edit&amp;section=4" title="Edit section: Princes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The college of <a href="/wiki/Princes_of_the_Holy_Roman_Empire" title="Princes of the Holy Roman Empire">Imperial Princes</a> (<i>Reichsfürstenrat</i> or <i>Fürstenbank</i>) incorporated the <a href="/wiki/Imperial_Count" title="Imperial Count">Imperial Counts</a> as well as <a href="/wiki/Imperial_immediacy" title="Imperial immediacy">immediate</a> lords, <a href="/wiki/Prince-Bishop" class="mw-redirect" title="Prince-Bishop">Prince-Bishops</a> and <a href="/wiki/List_of_Imperial_abbeys" title="List of Imperial abbeys">Imperial abbots</a>. Strong in members, though often discordant, the second college tried to preserve its interests against the dominance of the Prince-electors.</p>
+<p>The House of Princes was again subdivided into an ecclesiastical and a secular bench. Remarkably, the ecclesiastical bench was headed by the—secular—<a href="/wiki/Archduchy_of_Austria" title="Archduchy of Austria">Archduke of Austria</a> and the <a href="/wiki/Burgundian_Netherlands" title="Burgundian Netherlands">Burgundian</a> duke of the <a href="/wiki/Habsburg_Netherlands" title="Habsburg Netherlands">Habsburg Netherlands</a> (held by <a href="/wiki/Habsburg_Spain" title="Habsburg Spain">Habsburg Spain</a> from 1556). As the Austrian <a href="/wiki/House_of_Habsburg" title="House of Habsburg">House of Habsburg</a> had failed to assume the leadership of the secular bench, they received the guidance over the ecclesiastical princes instead. The first ecclesiastical prince was the <a href="/wiki/Archbishopric_of_Salzburg" title="Archbishopric of Salzburg">Archbishop of Salzburg</a> as <i><a href="/wiki/Primas_Germaniae" title="Primas Germaniae">Primas Germaniae</a></i>; the <a href="/wiki/Roman_Catholic_Archdiocese_of_Besan%C3%A7on" title="Roman Catholic Archdiocese of Besançon">Prince-Archbishop of Besançon</a>, though officially a member until the 1678 <a href="/wiki/Treaties_of_Nijmegen" title="Treaties of Nijmegen">Treaty of Nijmegen</a>, did not attend the Diet's meetings.</p>
+<p>The ecclesiastical bench also comprised the <a href="/wiki/Grand_Master_(order)" title="Grand Master (order)">Grand Master</a> and <i>Deutschmeister</i> of the <a href="/wiki/Teutonic_Knights" class="mw-redirect" title="Teutonic Knights">Teutonic Knights</a>, as well as the <a href="/wiki/Prior" title="Prior">Grand Prior</a> of the Monastic State of the <a href="/wiki/Knights_Hospitaller" title="Knights Hospitaller">Knights Hospitaller</a> at <a href="/wiki/Heitersheim" title="Heitersheim">Heitersheim</a>. The <a href="/wiki/Bishopric_of_L%C3%BCbeck" title="Bishopric of Lübeck">Prince-Bishopric of Lübeck</a> remained an ecclesiastical member even after it had turned <a href="/wiki/Protestant_Reformation" class="mw-redirect" title="Protestant Reformation">Protestant</a>, ruled by <a href="/wiki/Diocesan_administrator" title="Diocesan administrator">diocesan administrators</a> from the <a href="/wiki/Duke_of_Holstein-Gottorp" title="Duke of Holstein-Gottorp">House of Holstein-Gottorp</a> from 1586. The <a href="/wiki/Prince-Bishopric_of_Osnabr%C3%BCck" title="Prince-Bishopric of Osnabrück">Prince-Bishopric of Osnabrück</a>, according to the 1648 Peace of Westphalia was under alternating rule of a <a href="/wiki/Catholic_Church" title="Catholic Church">Catholic</a> bishop and a Lutheran bishop from the House of Brunswick-Lüneburg.</p>
+<p>Each member of the Princes' College held either a single vote (<i>Virilstimme</i>) or a collective vote (<i>Kuriatstimme</i>). Due to the Princes, their single vote from 1582 strictly depended on their immediate fiefs; this principle led to an accumulation of votes, when one ruler held several territories in <a href="/wiki/Personal_union" title="Personal union">personal union</a>. Counts and Lords only were entitled to collective votes, they therefore formed separate colleges like the <a href="/wiki/Wetterau_Association_of_Imperial_Counts" title="Wetterau Association of Imperial Counts">Wetterau Association of Imperial Counts</a> and mergers within the <a href="/wiki/Swabian_Circle" class="mw-redirect" title="Swabian Circle">Swabian</a>, the <a href="/wiki/Franconian_Circle" title="Franconian Circle">Franconian</a> and the <a href="/wiki/Lower_Rhenish%E2%80%93Westphalian_Circle" title="Lower Rhenish–Westphalian Circle">Lower Rhenish–Westphalian Circles</a>. Likewise, on the ecclesiastical bench, the Imperial abbots joined a Swabian or <a href="/wiki/Rhine" title="Rhine">Rhenish</a> college.</p>
+<p>In the German Mediatisation of 1803, numerous ecclesiastical territories were annexed by secular estates. A reform of the Princes' college was however not carried out until the Empire's dissolution in 1806.</p>
+<h3><span class="mw-headline" id="Cities">Cities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Imperial_Diet_(Holy_Roman_Empire)&amp;action=edit&amp;section=5" title="Edit section: Cities">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The college of <a href="/wiki/Free_imperial_city" title="Free imperial city">Imperial Cities</a> (<i>Reichsstädtekollegium</i>) evolved from 1489 onwards, it contributed greatly to the development of the Imperial Diets as a political institution. Nevertheless, the collective vote of the cities initially was of inferior importance until a 1582 <a href="/wiki/Recess_(Holy_Roman_Empire)" title="Recess (Holy Roman Empire)">Recess</a> of the <a href="/wiki/Diet_of_Augsburg" title="Diet of Augsburg">Augsburg Diet</a>. The college was led by the city council of the actual venue; with the implementation of the Perpetual Diet in 1663, the chair passed to <a href="/wiki/Regensburg" title="Regensburg">Regensburg</a>.</p>
+<p>The Imperial cities also divided into a Swabian and Rhenish bench. The Swabian cities were led by <a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a>, <a href="/wiki/Augsburg" title="Augsburg">Augsburg</a> and Regensburg, the Rhenish cities by <a href="/wiki/Cologne" title="Cologne">Cologne</a>, <a href="/wiki/Aachen" title="Aachen">Aachen</a> and <a href="/wiki/Frankfurt" title="Frankfurt">Frankfurt</a>.</p>
+<p>For a complete list of members of the Imperial Diet from 1792, near the end of the Empire, see <a href="/wiki/List_of_Reichstag_participants_(1792)" class="mw-redirect" title="List of Reichstag participants (1792)">List of Reichstag participants (1792)</a>.</p>
+<h2><span class="mw-headline" id="Religious_bodies">Religious bodies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Imperial_Diet_(Holy_Roman_Empire)&amp;action=edit&amp;section=6" title="Edit section: Religious bodies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>After the <a href="/wiki/Peace_of_Westphalia" title="Peace of Westphalia">Peace of Westphalia</a>, religious matters could no longer be decided by a majority vote of the colleges. Instead, the Reichstag would separate into Catholic and Protestant bodies, which would discuss the matter separately and then negotiate an agreement with each other.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> The Catholic body, or <i>corpus catholicum</i>, was headed by the Archbishop-Elector of <a href="/wiki/Electorate_of_Mainz" title="Electorate of Mainz">Mainz</a>.<sup id="cite_ref-kalipke_3-0" class="reference"><a href="#cite_note-kalipke-3">[3]</a></sup></p>
+<p>The Protestant body, or <i><a href="/wiki/Corpus_evangelicorum" class="mw-redirect" title="Corpus evangelicorum">corpus evangelicorum</a></i>, was headed by the Elector of <a href="/wiki/Electorate_of_Saxony" title="Electorate of Saxony">Saxony</a>. At meetings of the Protestant body, Saxony would introduce each topic of discussion, after which <a href="/wiki/Brandenburg-Prussia" title="Brandenburg-Prussia">Brandenburg-Prussia</a> and <a href="/wiki/Electorate_of_Brunswick-Luneburg" class="mw-redirect" title="Electorate of Brunswick-Luneburg">Hanover</a> would speak, followed by the remaining states in order of size. When all the states had spoken, Saxony would weigh the votes and announce a consensus.</p>
+<p><a href="/wiki/Augustus_II_the_Strong" title="Augustus II the Strong">Frederick Augustus I, Elector of Saxony</a> converted to Catholicism in 1697 in order to become King of Poland, but the Electorate itself remained officially Protestant and retained the directorship of the Protestant body. When <a href="/wiki/Augustus_III_of_Poland" title="Augustus III of Poland">the Elector's son</a> also converted to Catholicism, Prussia and Hanover attempted to take over the directorship in 1717–1720, but without success. The Electors of Saxony would head the Protestant body until the end of the Holy Roman Empire.<sup id="cite_ref-kalipke_3-1" class="reference"><a href="#cite_note-kalipke-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="Collection_of_records">Collection of records</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Imperial_Diet_(Holy_Roman_Empire)&amp;action=edit&amp;section=7" title="Edit section: Collection of records">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>After the formation of the new <a href="/wiki/German_Empire" title="German Empire">German Empire</a> in 1871, the Historical Commission of the <a href="/wiki/Bavarian_Academy_of_Sciences" class="mw-redirect" title="Bavarian Academy of Sciences">Bavarian Academy of Sciences</a> started to collect imperial records (<i>Reichsakten</i>) and imperial diet records (<i>Reichstagsakten</i>). In 1893 the commission published the first volume. At present the years 1524–1527 and years up to 1544 are being collected and researched. A volume dealing with the 1532 Diet of Regensburg, including the peace negotiations with the <a href="/wiki/Protestants" class="mw-redirect" title="Protestants">Protestants</a> in <a href="/wiki/Schweinfurt" title="Schweinfurt">Schweinfurt</a> and <a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a>, by <a href="/w/index.php?title=Rosemarie_Aulinger&amp;action=edit&amp;redlink=1" class="new" title="Rosemarie Aulinger (page does not exist)">Rosemarie Aulinger</a> of <a href="/wiki/Vienna" title="Vienna">Vienna</a> was published in 1992.</p>
+<h2><span class="mw-headline" id="Locations_of_Imperial_Diets">Locations of Imperial Diets</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Imperial_Diet_(Holy_Roman_Empire)&amp;action=edit&amp;section=8" title="Edit section: Locations of Imperial Diets">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dd><i>Note: this list is incomplete</i></dd>
+</dl>
+<table class="wikitable">
+<tr>
+<th bgcolor="#F8F8FF">Year</th>
+<th bgcolor="#F8F8FF">Place</th>
+<th bgcolor="#F8F8FF">President</th>
+<th bgcolor="#F8F8FF">Theme</th>
+</tr>
+<tr>
+<td>754</td>
+<td><a href="/wiki/Quierzy-sur-Oise" class="mw-redirect" title="Quierzy-sur-Oise">Quierzy-sur-Oise</a></td>
+<td><a href="/wiki/Pepin_the_Short" title="Pepin the Short">Pepin the Short</a></td>
+<td><a href="/wiki/Donation_of_Pepin" title="Donation of Pepin">Donation of Pepin</a> to <a href="/wiki/Pope_Stephen_II" title="Pope Stephen II">Pope Stephen II</a></td>
+</tr>
+<tr>
+<td>777</td>
+<td><a href="/wiki/Paderborn" title="Paderborn">Paderborn</a></td>
+<td><a href="/wiki/Charlemagne" title="Charlemagne">Charlemagne</a></td>
+<td>First Diet on <a href="/wiki/Saxon_Wars" title="Saxon Wars">Saxon</a> soil, Duke <a href="/wiki/Widukind" title="Widukind">Widukind</a> refused to appear</td>
+</tr>
+<tr>
+<td>782</td>
+<td><a href="/wiki/Lippspringe" class="mw-redirect" title="Lippspringe">Lippspringe</a></td>
+<td><a href="/wiki/Charlemagne" title="Charlemagne">Charlemagne</a></td>
+<td>Division of Saxony into <i><a href="/wiki/Gau_(country_subdivision)" class="mw-redirect" title="Gau (country subdivision)">Gaue</a></i> under Frankish <i><a href="/wiki/Graf" title="Graf">Grafen</a></i> (counts)</td>
+</tr>
+<tr>
+<td>788</td>
+<td><a href="/wiki/Ingelheim_am_Rhein" title="Ingelheim am Rhein">Ingelheim am Rhein</a></td>
+<td><a href="/wiki/Charlemagne" title="Charlemagne">Charlemagne</a></td>
+<td>Deposition of Duke <a href="/wiki/Tassilo_III,_Duke_of_Bavaria" title="Tassilo III, Duke of Bavaria">Tassilo III of Bavaria</a></td>
+</tr>
+<tr>
+<td>799</td>
+<td><a href="/wiki/Paderborn" title="Paderborn">Paderborn</a></td>
+<td><a href="/wiki/Charlemagne" title="Charlemagne">Charlemagne</a></td>
+<td><a href="/wiki/Charlemagne" title="Charlemagne">Charlemagne</a> clears with <a href="/wiki/Pope_Leo_III" title="Pope Leo III">Pope Leo III</a> his installation as Emperor</td>
+</tr>
+<tr>
+<td>806</td>
+<td><a href="/wiki/Thionville" title="Thionville">Diedenhofen</a></td>
+<td><a href="/wiki/Charlemagne" title="Charlemagne">Charlemagne</a></td>
+<td>Division of the <a href="/wiki/Carolingian_Empire" title="Carolingian Empire">Carolingian Empire</a> among <a href="/wiki/Pepin_of_Italy" title="Pepin of Italy">Pepin of Italy</a>, <a href="/wiki/Charles_the_Younger" title="Charles the Younger">Charles the Younger</a> and <a href="/wiki/Louis_the_Pious" title="Louis the Pious">Louis the Pious</a></td>
+</tr>
+<tr>
+<td>817</td>
+<td><a href="/wiki/Aachen" title="Aachen">Aachen</a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>826</td>
+<td>?</td>
+<td>&#160;</td>
+<td>Invitation of the <a href="/wiki/Sorbs" title="Sorbs">Sorbs</a>;</td>
+</tr>
+<tr>
+<td>829</td>
+<td><a href="/wiki/Worms,_Germany" title="Worms, Germany">Worms</a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>831</td>
+<td><a href="/wiki/Aachen" title="Aachen">Aachen</a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>835</td>
+<td><a href="/wiki/Thionville" title="Thionville">Diedenhofen</a></td>
+<td><a href="/wiki/Louis_the_Pious" title="Louis the Pious">Louis the Pious</a></td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>838</td>
+<td><a href="/wiki/Speyer" title="Speyer">Speyer</a></td>
+<td><a href="/wiki/Louis_the_Pious" title="Louis the Pious">Louis the Pious</a></td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>872</td>
+<td><a href="/wiki/Forchheim" title="Forchheim">Forchheim</a></td>
+<td><a href="/wiki/Louis_the_German" title="Louis the German">Louis the German</a></td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>874</td>
+<td><a href="/wiki/Forchheim" title="Forchheim">Forchheim</a></td>
+<td><a href="/wiki/Louis_the_German" title="Louis the German">Louis the German</a></td>
+<td>Discussion and regulation of inheritance</td>
+</tr>
+<tr>
+<td>887</td>
+<td><a href="/wiki/Tribur" class="mw-redirect" title="Tribur">Tribur</a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>889</td>
+<td><a href="/wiki/Forchheim" title="Forchheim">Forchheim</a></td>
+<td><a href="/wiki/Arnulf_of_Carinthia" title="Arnulf of Carinthia">Arnulf of Carinthia</a></td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>892</td>
+<td><a href="/wiki/Forchheim" title="Forchheim">Forchheim</a></td>
+<td><a href="/wiki/Arnulf_of_Carinthia" title="Arnulf of Carinthia">Arnulf of Carinthia</a></td>
+<td>Preparing a War against the Slavs</td>
+</tr>
+<tr>
+<td>896</td>
+<td><a href="/wiki/Forchheim" title="Forchheim">Forchheim</a></td>
+<td><a href="/wiki/Arnulf_of_Carinthia" title="Arnulf of Carinthia">Arnulf of Carinthia</a></td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>903</td>
+<td><a href="/wiki/Forchheim" title="Forchheim">Forchheim</a></td>
+<td><a href="/wiki/Louis_the_Child" title="Louis the Child">Louis the Child</a></td>
+<td>Execution of the <a href="/wiki/Babenberg" class="mw-redirect" title="Babenberg">Babenberg</a> Rebel <a href="/wiki/Adalhard_(Babenberg)" class="mw-redirect" title="Adalhard (Babenberg)">Adalhard</a></td>
+</tr>
+<tr>
+<td>907</td>
+<td><a href="/wiki/Forchheim" title="Forchheim">Forchheim</a></td>
+<td><a href="/wiki/Louis_the_Child" title="Louis the Child">Louis the Child</a></td>
+<td>Council about the <a href="/wiki/Hungarian_people" class="mw-redirect" title="Hungarian people">Magyar</a> attacks</td>
+</tr>
+<tr>
+<td>911</td>
+<td><a href="/wiki/Forchheim" title="Forchheim">Forchheim</a></td>
+<td>&#160;</td>
+<td>Election of <a href="/wiki/Conrad_of_Franconia" class="mw-redirect" title="Conrad of Franconia">Conrad of Franconia</a> King</td>
+</tr>
+<tr>
+<td>914</td>
+<td><a href="/wiki/Forchheim" title="Forchheim">Forchheim</a></td>
+<td><a href="/wiki/Conrad_of_Franconia" class="mw-redirect" title="Conrad of Franconia">Conrad of Franconia</a></td>
+<td>War against <a href="/wiki/Arnulf_I_of_Bavaria" class="mw-redirect" title="Arnulf I of Bavaria">Arnulf I of Bavaria</a></td>
+</tr>
+<tr>
+<td>919</td>
+<td><a href="/wiki/Fritzlar" title="Fritzlar">Fritzlar</a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>926</td>
+<td><a href="/wiki/Worms,_Germany" title="Worms, Germany">Worms</a></td>
+<td><a href="/wiki/Henry_the_Fowler" title="Henry the Fowler">Henry the Fowler</a></td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>952</td>
+<td>on the <a href="/wiki/Lech_(river)" title="Lech (river)">Lech</a> meadows near <a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></td>
+<td><a href="/wiki/Otto_I" class="mw-redirect" title="Otto I">Otto I</a> the Great</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>961</td>
+<td><a href="/wiki/Forchheim" title="Forchheim">Forchheim</a></td>
+<td><a href="/wiki/Otto_I" class="mw-redirect" title="Otto I">Otto I</a> the Great</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>967</td>
+<td><a href="/wiki/Ravenna" title="Ravenna">Ravenna</a></td>
+<td><a href="/wiki/Otto_II,_Holy_Roman_Emperor" title="Otto II, Holy Roman Emperor">Otto II</a></td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>972</td>
+<td><a href="/wiki/Quedlinburg" title="Quedlinburg">Quedlinburg</a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>976</td>
+<td><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>978</td>
+<td><a href="/wiki/Dortmund" title="Dortmund">Dortmund</a></td>
+<td><a href="/wiki/Otto_II,_Holy_Roman_Emperor" title="Otto II, Holy Roman Emperor">Otto II</a></td>
+<td>War against France in the Autumn</td>
+</tr>
+<tr>
+<td>983</td>
+<td><a href="/wiki/Verona" title="Verona">Verona</a></td>
+<td>&#160;</td>
+<td>Election of <a href="/wiki/Otto_III,_Holy_Roman_Emperor" title="Otto III, Holy Roman Emperor">Otto III</a></td>
+</tr>
+<tr>
+<td>985</td>
+<td>&#160;</td>
+<td>&#160;</td>
+<td>End of the usurpation of <a href="/wiki/Henry_II,_Duke_of_Bavaria" title="Henry II, Duke of Bavaria">Henry the Wrangler</a></td>
+</tr>
+<tr>
+<td>993</td>
+<td><a href="/wiki/Dortmund" title="Dortmund">Dortmund</a></td>
+<td><a href="/wiki/Otto_III,_Holy_Roman_Emperor" title="Otto III, Holy Roman Emperor">Otto III</a></td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1030</td>
+<td><a href="/wiki/Minden" title="Minden">Minden</a></td>
+<td><a href="/wiki/Conrad_II,_Holy_Roman_Emperor" title="Conrad II, Holy Roman Emperor">Conrad II</a></td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1066</td>
+<td><a href="/wiki/Tribur" class="mw-redirect" title="Tribur">Tribur</a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1076</td>
+<td><a href="/wiki/Worms,_Germany" title="Worms, Germany">Worms</a></td>
+<td><a href="/wiki/Henry_IV,_Holy_Roman_Emperor" title="Henry IV, Holy Roman Emperor">Henry IV</a></td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1077</td>
+<td><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1098</td>
+<td><a href="/wiki/Mainz" title="Mainz">Mainz</a></td>
+<td>Henry IV.</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1105</td>
+<td><a href="/wiki/Ingelheim_am_Rhein" title="Ingelheim am Rhein">Ingelheim</a></td>
+<td>Henry IV.</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1119</td>
+<td><a href="/wiki/Tribur" class="mw-redirect" title="Tribur">Tribur</a></td>
+<td>Henry IV.</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1122</td>
+<td><a href="/wiki/Worms,_Germany" title="Worms, Germany">Worms</a></td>
+<td><a href="/wiki/Henry_V,_Holy_Roman_Emperor" title="Henry V, Holy Roman Emperor">Henry V</a></td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1126</td>
+<td><a href="/wiki/Speyer" title="Speyer">Speyer</a></td>
+<td><a href="/wiki/Henry_V,_Holy_Roman_Emperor" title="Henry V, Holy Roman Emperor">Henry V</a></td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1146</td>
+<td><a href="/wiki/Speyer" title="Speyer">Speyer</a></td>
+<td><a href="/wiki/Conrad_III_of_Germany" title="Conrad III of Germany">Conrad III</a></td>
+<td>Decision to participate in the <a href="/wiki/Second_Crusade" title="Second Crusade">Second Crusade</a></td>
+</tr>
+<tr>
+<td>1147</td>
+<td><a href="/wiki/Frankfurt" title="Frankfurt">Frankfurt</a></td>
+<td><a href="/wiki/Conrad_III_of_Germany" title="Conrad III of Germany">Conrad III</a></td>
+<td></td>
+</tr>
+<tr>
+<td>1152</td>
+<td><a href="/wiki/Dortmund" title="Dortmund">Dortmund</a>/<a href="/wiki/Merseburg" title="Merseburg">Merseburg</a></td>
+<td><a href="/wiki/Frederick_I,_Holy_Roman_Emperor" title="Frederick I, Holy Roman Emperor">Frederick I Barbarossa</a></td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1154</td>
+<td><a href="/wiki/Goslar" title="Goslar">Goslar</a></td>
+<td></td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1157</td>
+<td><a href="/wiki/Diet_of_Besan%C3%A7on" class="mw-redirect" title="Diet of Besançon">Bisanz</a></td>
+<td><a href="/wiki/Frederick_I,_Holy_Roman_Emperor" title="Frederick I, Holy Roman Emperor">Frederick I Barbarossa</a></td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1158</td>
+<td><a href="/wiki/Diet_of_Roncaglia" title="Diet of Roncaglia">Diet of Roncaglia</a> near Piacenza</td>
+<td><a href="/wiki/Frederick_I,_Holy_Roman_Emperor" title="Frederick I, Holy Roman Emperor">Frederick I Barbarossa</a></td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1165</td>
+<td><a href="/wiki/W%C3%BCrzburg" title="Würzburg">Würzburg</a></td>
+<td><a href="/wiki/Frederick_I,_Holy_Roman_Emperor" title="Frederick I, Holy Roman Emperor">Frederick I Barbarossa</a></td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1168</td>
+<td><a href="/wiki/Bamberg" title="Bamberg">Bamberg</a></td>
+<td><a href="/wiki/Frederick_I,_Holy_Roman_Emperor" title="Frederick I, Holy Roman Emperor">Frederick I Barbarossa</a> / <a href="/wiki/Henry_VI,_Holy_Roman_Emperor" title="Henry VI, Holy Roman Emperor">Henry VI</a></td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1178</td>
+<td><a href="/wiki/Speyer" title="Speyer">Speyer</a></td>
+<td><a href="/wiki/Frederick_I,_Holy_Roman_Emperor" title="Frederick I, Holy Roman Emperor">Frederick I Barbarossa</a></td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1180</td>
+<td><a href="/wiki/Gelnhausen" title="Gelnhausen">Gelnhausen</a></td>
+<td><a href="/wiki/Frederick_I,_Holy_Roman_Emperor" title="Frederick I, Holy Roman Emperor">Frederick I Barbarossa</a> / <a href="/wiki/Henry_VI,_Holy_Roman_Emperor" title="Henry VI, Holy Roman Emperor">Henry VI</a></td>
+<td>Investiture of the <a href="/wiki/Archbishopric_of_Cologne" class="mw-redirect" title="Archbishopric of Cologne">Archbishop of Cologne</a> with the <a href="/wiki/Duchy_of_Westphalia" title="Duchy of Westphalia">Duchy of Westphalia</a></td>
+</tr>
+<tr>
+<td>1181</td>
+<td><a href="/wiki/Erfurt" title="Erfurt">Erfurt</a></td>
+<td><a href="/wiki/Henry_VI,_Holy_Roman_Emperor" title="Henry VI, Holy Roman Emperor">Henry VI</a></td>
+<td>Exile of <a href="/wiki/Henry_the_Lion" title="Henry the Lion">Henry the Lion</a></td>
+</tr>
+<tr>
+<td>1188</td>
+<td><a href="/wiki/Mainz" title="Mainz">Mainz</a></td>
+<td><a href="/wiki/Henry_VI,_Holy_Roman_Emperor" title="Henry VI, Holy Roman Emperor">Henry VI</a></td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1190</td>
+<td><a href="/wiki/Schw%C3%A4bisch_Hall" title="Schwäbisch Hall">Schwäbisch Hall</a></td>
+<td><a href="/wiki/Henry_VI,_Holy_Roman_Emperor" title="Henry VI, Holy Roman Emperor">Henry VI</a></td>
+<td>Abolishment of the Duchy of <a href="/wiki/Lower_Lorraine" title="Lower Lorraine">Lower Lorraine</a></td>
+</tr>
+<tr>
+<td>1193</td>
+<td><a href="/wiki/Speyer" title="Speyer">Speyer</a></td>
+<td><a href="/wiki/Henry_VI,_Holy_Roman_Emperor" title="Henry VI, Holy Roman Emperor">Henry VI</a></td>
+<td>Trial of <a href="/wiki/Richard_I" class="mw-redirect" title="Richard I">Richard I</a></td>
+</tr>
+<tr>
+<td>1196</td>
+<td><a href="/wiki/Frankfurt" title="Frankfurt">Frankfurt</a></td>
+<td><a href="/wiki/Henry_VI,_Holy_Roman_Emperor" title="Henry VI, Holy Roman Emperor">Henry VI</a></td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1205</td>
+<td><a href="/wiki/Speyer" title="Speyer">Speyer</a></td>
+<td><a href="/wiki/Philip_of_Swabia" title="Philip of Swabia">Philip of Swabia</a></td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1213</td>
+<td><a href="/wiki/Speyer" title="Speyer">Speyer</a></td>
+<td><a href="/wiki/Frederick_II,_Holy_Roman_Emperor" title="Frederick II, Holy Roman Emperor">Frederick II</a></td>
+<td>Frederick has his uncle, Philip of Swabia, who was murdered 1208 in Bamberg, interred in the Speyer cathedral</td>
+</tr>
+<tr>
+<td>1235</td>
+<td><a href="/wiki/Mainz" title="Mainz">Mainz</a></td>
+<td><a href="/wiki/Frederick_II,_Holy_Roman_Emperor" title="Frederick II, Holy Roman Emperor">Frederick II</a></td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1273</td>
+<td><a href="/wiki/Speyer" title="Speyer">Speyer</a></td>
+<td><a href="/wiki/Rudolf_I,_Holy_Roman_Emperor" class="mw-redirect" title="Rudolf I, Holy Roman Emperor">Rudolf I</a></td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1287</td>
+<td><a href="/wiki/W%C3%BCrzburg" title="Würzburg">Würzburg</a></td>
+<td><a href="/wiki/Adolf,_King_of_Germany" class="mw-redirect" title="Adolf, King of Germany">Adolf</a></td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1309</td>
+<td><a href="/wiki/Speyer" title="Speyer">Speyer</a></td>
+<td><a href="/wiki/Henry_VII,_Holy_Roman_Emperor" title="Henry VII, Holy Roman Emperor">Henry VII</a></td>
+<td></td>
+</tr>
+<tr>
+<td>1338</td>
+<td><a href="/wiki/Frankfurt" title="Frankfurt">Frankfurt</a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1379</td>
+<td><a href="/wiki/Frankfurt" title="Frankfurt">Frankfurt</a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1356</td>
+<td><a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a></td>
+<td><a href="/wiki/Charles_IV,_Holy_Roman_Emperor" title="Charles IV, Holy Roman Emperor">Charles IV</a></td>
+<td>Issuance of the <a href="/wiki/Golden_Bull_of_1356" title="Golden Bull of 1356">Golden Bull</a></td>
+</tr>
+<tr>
+<td>1384</td>
+<td><a href="/wiki/Speyer" title="Speyer">Speyer</a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1389</td>
+<td><a href="/wiki/Cheb" title="Cheb">Eger</a></td>
+<td><a href="/wiki/Wenceslaus,_King_of_the_Romans" class="mw-redirect" title="Wenceslaus, King of the Romans">Wenceslaus</a></td>
+<td>Peace of <a href="/wiki/Eger" title="Eger">Eger</a></td>
+</tr>
+<tr>
+<td>1414</td>
+<td><a href="/wiki/Speyer" title="Speyer">Speyer</a></td>
+<td><a href="/wiki/Sigismund,_Holy_Roman_Emperor" title="Sigismund, Holy Roman Emperor">Sigismund</a></td>
+<td></td>
+</tr>
+<tr>
+<td>1444</td>
+<td><a href="/wiki/Speyer" title="Speyer">Speyer</a></td>
+<td><a href="/wiki/Frederick_III,_Holy_Roman_Emperor" title="Frederick III, Holy Roman Emperor">Frederick III</a></td>
+<td></td>
+</tr>
+<tr>
+<td>1487</td>
+<td><a href="/wiki/Speyer" title="Speyer">Speyer</a></td>
+<td><a href="/wiki/Frederick_III,_Holy_Roman_Emperor" title="Frederick III, Holy Roman Emperor">Frederick III</a></td>
+<td></td>
+</tr>
+<tr>
+<td>1487</td>
+<td><a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a></td>
+<td><a href="/wiki/Frederick_III,_Holy_Roman_Emperor" title="Frederick III, Holy Roman Emperor">Frederick III</a></td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1488</td>
+<td><a href="/wiki/Esslingen_am_Neckar" title="Esslingen am Neckar">Esslingen</a></td>
+<td><a href="/wiki/Frederick_III,_Holy_Roman_Emperor" title="Frederick III, Holy Roman Emperor">Frederick III</a></td>
+<td>Formation of the <a href="/wiki/Swabian_League" title="Swabian League">Swabian League</a></td>
+</tr>
+<tr>
+<td>1495</td>
+<td><a href="/wiki/Worms,_Germany" title="Worms, Germany">Worms</a></td>
+<td><a href="/wiki/Maximilian_I,_Holy_Roman_Emperor" title="Maximilian I, Holy Roman Emperor">Maximilian I</a></td>
+<td><a href="/wiki/Imperial_Reform" title="Imperial Reform">Imperial Reform</a>; <a href="/wiki/Common_Penny" title="Common Penny">Common Penny</a> in the wake of the <a href="/wiki/Swabian_War" title="Swabian War">Swabian War</a></td>
+</tr>
+<tr>
+<td>1496/97</td>
+<td><a href="/wiki/Lindau" title="Lindau">Lindau</a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1497/98</td>
+<td><a href="/wiki/Freiburg" class="mw-redirect" title="Freiburg">Freiburg</a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1500</td>
+<td><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1505</td>
+<td><a href="/wiki/Cologne" title="Cologne">Cologne</a></td>
+<td>&#160;</td>
+<td>Arbitration ending the <a href="/wiki/War_of_the_Succession_of_Landshut" title="War of the Succession of Landshut">War of the Succession of Landshut</a></td>
+</tr>
+<tr>
+<td>1507</td>
+<td><a href="/wiki/Konstanz" title="Konstanz">Konstanz</a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1512</td>
+<td><a href="/wiki/Trier" title="Trier">Trier</a>/<a href="/wiki/Cologne" title="Cologne">Cologne</a></td>
+<td>&#160;</td>
+<td>10 <a href="/wiki/Imperial_Circle" title="Imperial Circle">Imperial Circles</a></td>
+</tr>
+<tr>
+<td>1518</td>
+<td><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1521</td>
+<td><a href="/wiki/Worms,_Germany" title="Worms, Germany">Worms</a></td>
+<td><a href="/wiki/Charles_V,_Holy_Roman_Emperor" title="Charles V, Holy Roman Emperor">Charles V</a></td>
+<td><a href="/wiki/Diet_of_Worms" title="Diet of Worms">Diet of Worms</a>, ban of <a href="/wiki/Martin_Luther" title="Martin Luther">Martin Luther</a>, <a href="/wiki/Edict_of_Worms" class="mw-redirect" title="Edict of Worms">Edict of Worms</a></td>
+</tr>
+<tr>
+<td>1522</td>
+<td><a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a> I</td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1522/23</td>
+<td><a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a> II</td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1524</td>
+<td><a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a> III</td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1526</td>
+<td><a href="/wiki/Speyer" title="Speyer">Speyer</a> I</td>
+<td>&#160;</td>
+<td><a href="/wiki/Diet_of_Speyer_(1526)" title="Diet of Speyer (1526)">Diet of Speyer (1526)</a>, Suspension of the <a href="/wiki/Edict_of_Worms" class="mw-redirect" title="Edict of Worms">Edict of Worms</a></td>
+</tr>
+<tr>
+<td>1529</td>
+<td><a href="/wiki/Speyer" title="Speyer">Speyer</a> II</td>
+<td>&#160;</td>
+<td><a href="/wiki/Diet_of_Speyer_(1529)" title="Diet of Speyer (1529)">Diet of Speyer (1529)</a>, Reinstatement of the <a href="/wiki/Edict_of_Worms" class="mw-redirect" title="Edict of Worms">Edict of Worms</a>, <a href="/wiki/Protestation_at_Speyer" title="Protestation at Speyer">Protestation at Speyer</a>. Proclamation of the <i>Wiedertäufermandat</i> condemning <a href="/wiki/Anabaptists" class="mw-redirect" title="Anabaptists">Anabaptists</a></td>
+</tr>
+<tr>
+<td>1530</td>
+<td><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></td>
+<td>&#160;</td>
+<td><a href="/wiki/Diet_of_Augsburg" title="Diet of Augsburg">Diet of Augsburg</a> presentation of the <a href="/wiki/Augsburg_Confession" title="Augsburg Confession">Augsburg Confession</a></td>
+</tr>
+<tr>
+<td>1532</td>
+<td><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></td>
+<td><a href="/wiki/Ferdinand_I_of_Germany" class="mw-redirect" title="Ferdinand I of Germany">Ferdinand I</a></td>
+<td><a href="/wiki/Constitutio_Criminalis_Carolina" title="Constitutio Criminalis Carolina">Constitutio Criminalis Carolina</a></td>
+</tr>
+<tr>
+<td>1541</td>
+<td><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1542</td>
+<td><a href="/wiki/Speyer" title="Speyer">Speyer</a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1542</td>
+<td><a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1543</td>
+<td><a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1544</td>
+<td><a href="/wiki/Speyer" title="Speyer">Speyer</a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1548</td>
+<td><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></td>
+<td>&#160;</td>
+<td><a href="/wiki/Augsburg_Interim" title="Augsburg Interim">Augsburg Interim</a></td>
+</tr>
+<tr>
+<td>1550/51</td>
+<td><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1555</td>
+<td><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></td>
+<td>&#160;</td>
+<td><a href="/wiki/Peace_of_Augsburg" title="Peace of Augsburg">Peace of Augsburg</a></td>
+</tr>
+<tr>
+<td>1556/57</td>
+<td><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1559</td>
+<td><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1566</td>
+<td><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1567</td>
+<td><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1570</td>
+<td><a href="/wiki/Speyer" title="Speyer">Speyer</a></td>
+<td>&#160;</td>
+<td>The infantry of the Empire gained a comprehensive military code</td>
+</tr>
+<tr>
+<td>1576</td>
+<td><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1582</td>
+<td><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1594</td>
+<td><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1597/98</td>
+<td><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1603</td>
+<td><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1608</td>
+<td><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1613</td>
+<td><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1640/41</td>
+<td><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1653/54</td>
+<td><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></td>
+<td><a href="/wiki/Ferdinand_III,_Holy_Roman_Emperor" title="Ferdinand III, Holy Roman Emperor">Ferdinand III.</a></td>
+<td>The <a href="/w/index.php?title=Youngest_Recess&amp;action=edit&amp;redlink=1" class="new" title="Youngest Recess (page does not exist)">Youngest Recess</a> <i>(Jüngster Reichsabschied / recessus imperii novissimus)</i></td>
+</tr>
+<tr>
+<td>1663–1806</td>
+<td>in the <i>Reichssaal</i><br />
+of the <a href="/wiki/Regensburg" title="Regensburg">Regensburg</a> town hall<br />
+as the <a href="/wiki/Perpetual_Diet" class="mw-redirect" title="Perpetual Diet">Perpetual Diet</a></td>
+<td>&#160;</td>
+<td>&#160;</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Imperial_Diet_(Holy_Roman_Empire)&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Imperial_Diet_(disambiguation)" class="mw-redirect mw-disambig" title="Imperial Diet (disambiguation)">Imperial Diet (disambiguation)</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Imperial_Diet_(Holy_Roman_Empire)&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">History of the Reformation in Germany, page 70, by Leopold von Ranke.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://germanhistorydocs.ghi-dc.org/pdf/eng/87.%20PeaceWestphalia_en.pdf">"Peace Treaties of Westphalia (October 14/24, 1648)"</a> <span style="font-size:85%;">(PDF)</span>. <i>German History in Documents and Images</i>. <q>In religious and all other affairs in which the estates cannot be considered as one body, and when the Catholic estates and those of the Augsburg Confession are divided into two parties, the dispute is to be decided by amicable agreement alone, and neither side is to be bound by a majority vote.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AImperial+Diet+%28Holy+Roman+Empire%29&amp;rft.atitle=Peace+Treaties+of+Westphalia+%28October+14%2F24%2C+1648%29&amp;rft.genre=unknown&amp;rft.jtitle=German+History+in+Documents+and+Images&amp;rft_id=http%3A%2F%2Fgermanhistorydocs.ghi-dc.org%2Fpdf%2Feng%2F87.%2520PeaceWestphalia_en.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-kalipke-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-kalipke_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-kalipke_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Kalipke, Andreas (2010). "The Corpus Evangelicorum". In Coy, Marschke, and Sabean. <i>The Holy Roman Empire, Reconsidered</i>. Berghahn. pp.&#160;228–247.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AImperial+Diet+%28Holy+Roman+Empire%29&amp;rft.atitle=The+Corpus+Evangelicorum&amp;rft.aufirst=Andreas&amp;rft.aulast=Kalipke&amp;rft.btitle=The+Holy+Roman+Empire%2C+Reconsidered&amp;rft.date=2010&amp;rft.genre=bookitem&amp;rft.pages=228-247&amp;rft.pub=Berghahn&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Uses editors parameter (<a href="/wiki/Category:CS1_maint:_Uses_editors_parameter" title="Category:CS1 maint: Uses editors parameter">link</a>)</span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Imperial_Diet_(Holy_Roman_Empire)&amp;action=edit&amp;section=11" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Peter Claus Hartmann: <i>Das Heilige Römische Reich deutscher Nation in der Neuzeit 1486–1806</i>. Stuttgart 2005, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-15-017045-1" title="Special:BookSources/3-15-017045-1">3-15-017045-1</a>.</li>
+<li>Axel Gotthard: <i>Das Alte Reich 1495–1806</i>. Darmstadt 2003, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-534-15118-6" title="Special:BookSources/3-534-15118-6">3-534-15118-6</a></li>
+<li>Edgar Liebmann: <i>Reichstag</i>. In: Friedrich Jaeger (Hrsg.): <i>Enzyklopädie der Neuzeit, Bd. 10: Physiologie-Religiöses Epos</i>. Stuttgart 2009, str. 948–953, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-534-17605-7" title="Special:BookSources/3-534-17605-7">3-534-17605-7</a></li>
+<li>Barbara Stollberg-Rilinger: <i>Des Kaisers alte Kleider. Verfassungsgeschichte und Symbolsprache des Alten Reiches.</i> München 2008, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-406-57074-2" title="Special:BookSources/978-3-406-57074-2">978-3-406-57074-2</a></li>
+<li>Helmut Neuhaus: <i>Das Reich in der frühen Neuzeit</i> (Enzyklopädie Deutscher Geschichte, Band 42). München 2003, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-486-56729-2" title="Special:BookSources/3-486-56729-2">3-486-56729-2</a>.</li>
+<li>Heinz Angermeier: <i>Das alte Reich in der deutschen Geschichte. Studien über Kontinuitäten und Zäsuren</i>. München 1998, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-486-55897-8" title="Special:BookSources/3-486-55897-8">3-486-55897-8</a></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Imperial_Diet_(Holy_Roman_Empire)&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Reichstag_(Holy_Roman_Empire)" class="extiw" title="commons:Category:Reichstag (Holy Roman Empire)">Reichstag (Holy Roman Empire)</a> at Wikimedia Commons</li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1254
+Cached time: 20170922185118
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.160 seconds
+Real time usage: 0.215 seconds
+Preprocessor visited node count: 2146/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 12477/2097152 bytes
+Template argument size: 3067/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 4/500
+Lua time usage: 0.034/10.000 seconds
+Lua memory usage: 2.35 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  149.272      1 -total
+ 28.17%   42.047      1 Template:Reflist
+ 27.91%   41.656      6 Template:ISBN
+ 25.54%   38.127      2 Template:Language_with_name
+ 24.03%   35.872      2 Template:Lang
+ 22.70%   33.888      1 Template:Lang-la
+ 22.36%   33.383      2 Template:Category_handler
+ 17.76%   26.508      1 Template:Cite_web
+ 14.51%   21.659      1 Template:Commons_category_inline
+ 11.99%   17.903      1 Template:Sister-inline
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:30599237-0!canonical and timestamp 20170922185118 and revision id 794931511
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Imperial_Diet_(Holy_Roman_Empire)&amp;oldid=794931511">https://en.wikipedia.org/w/index.php?title=Imperial_Diet_(Holy_Roman_Empire)&amp;oldid=794931511</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Historical_legislatures" title="Category:Historical legislatures">Historical legislatures</a></li><li><a href="/wiki/Category:Imperial_Diets_(Holy_Roman_Empire)" title="Category:Imperial Diets (Holy Roman Empire)">Imperial Diets (Holy Roman Empire)</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Uses_editors_parameter" title="Category:CS1 maint: Uses editors parameter">CS1 maint: Uses editors parameter</a></li><li><a href="/wiki/Category:Articles_containing_Latin-language_text" title="Category:Articles containing Latin-language text">Articles containing Latin-language text</a></li><li><a href="/wiki/Category:Articles_containing_German-language_text" title="Category:Articles containing German-language text">Articles containing German-language text</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Imperial+Diet+%28Holy+Roman+Empire%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Imperial+Diet+%28Holy+Roman+Empire%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Imperial_Diet_(Holy_Roman_Empire)" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Imperial_Diet_(Holy_Roman_Empire)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Imperial_Diet_(Holy_Roman_Empire)">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Imperial_Diet_(Holy_Roman_Empire)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Imperial_Diet_(Holy_Roman_Empire)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Imperial_Diet_(Holy_Roman_Empire)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Imperial_Diet_(Holy_Roman_Empire)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Imperial_Diet_(Holy_Roman_Empire)&amp;oldid=794931511" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Imperial_Diet_(Holy_Roman_Empire)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q669970" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Imperial_Diet_%28Holy_Roman_Empire%29&amp;id=794931511" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Imperial+Diet+%28Holy+Roman+Empire%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Imperial+Diet+%28Holy+Roman+Empire%29&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DImperial%2BDiet%2B%2528Holy%2BRoman%2BEmpire%2529%26returnto%3DImperial%2BDiet%2B%2528Holy%2BRoman%2BEmpire%2529%26oldid%3D794931511%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Imperial_Diet_(Holy_Roman_Empire)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Reichstag_(Holy_Roman_Empire)" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A0%D1%8D%D0%B9%D1%85%D1%81%D1%82%D0%B0%D0%B3_(%D0%A1%D0%B2%D1%8F%D1%88%D1%87%D1%8D%D0%BD%D0%BD%D0%B0%D1%8F_%D0%A0%D1%8B%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D1%96%D0%BC%D0%BF%D0%B5%D1%80%D1%8B%D1%8F)" title="Рэйхстаг (Свяшчэнная Рымская імперыя) – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B9%D1%85%D1%81%D1%82%D0%B0%D0%B3_(%D0%B8%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%86%D0%B8%D1%8F)" title="Райхстаг (институция) – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Dieta_Imperial" title="Dieta Imperial – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/%C5%98%C3%AD%C5%A1sk%C3%BD_sn%C4%9Bm_(Svat%C3%A1_%C5%99%C3%AD%C5%A1e_%C5%99%C3%ADmsk%C3%A1)" title="Říšský sněm (Svatá říše římská) – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Rigsdagen_(Det_tysk-romerske_Rige)" title="Rigsdagen (Det tysk-romerske Rige) – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Reichstag_(Heiliges_R%C3%B6misches_Reich)" title="Reichstag (Heiliges Römisches Reich) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Reichstag_(Sacro_Imperio_Romano_Germ%C3%A1nico)" title="Reichstag (Sacro Imperio Romano Germánico) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Imperia_dieto" title="Imperia dieto – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AF%DB%8C%D8%AA_%D8%A7%D9%85%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%DB%8C" title="دیت امپراتوری – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Di%C3%A8te_d%27Empire" title="Diète d'Empire – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Dewan_Kekaisaran_Romawi_Suci" title="Dewan Kekaisaran Romawi Suci – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Dieta_(storia)" title="Dieta (storia) – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A0%E1%83%90%E1%83%98%E1%83%AE%E1%83%A1%E1%83%A2%E1%83%90%E1%83%92%E1%83%98_(%E1%83%A1%E1%83%90%E1%83%A6%E1%83%95%E1%83%97%E1%83%9D_%E1%83%A0%E1%83%9D%E1%83%9B%E1%83%98%E1%83%A1_%E1%83%98%E1%83%9B%E1%83%9E%E1%83%94%E1%83%A0%E1%83%98%E1%83%90)" title="რაიხსტაგი (საღვთო რომის იმპერია) – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Dieta_Imperii_(Sacrum_Romanum_Imperium)" title="Dieta Imperii (Sacrum Romanum Imperium) – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Reichstagas_(%C5%A0ventoji_Romos_imperija)" title="Reichstagas (Šventoji Romos imperija) – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Rijksdag_(Heilige_Roomse_Rijk)" title="Rijksdag (Heilige Roomse Rijk) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E5%B8%9D%E5%9B%BD%E8%AD%B0%E4%BC%9A_(%E7%A5%9E%E8%81%96%E3%83%AD%E3%83%BC%E3%83%9E%E5%B8%9D%E5%9B%BD)" title="帝国議会 (神聖ローマ帝国) – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Riksdagen_(Det_tysk-romerske_rike)" title="Riksdagen (Det tysk-romerske rike) – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Sejm_Rzeszy_(%C5%9Awi%C4%99te_Cesarstwo_Rzymskie)" title="Sejm Rzeszy (Święte Cesarstwo Rzymskie) – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Dieta_Imperial%C4%83_a_Sf%C3%A2ntului_Imperiu_Roman" title="Dieta Imperială a Sfântului Imperiu Roman – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B9%D1%85%D1%81%D1%82%D0%B0%D0%B3_(%D0%A1%D0%B2%D1%8F%D1%89%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F)" title="Рейхстаг (Священная Римская империя) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/R%C3%AD%C5%A1sky_snem_(R%C3%ADmsko-nemeck%C3%A1_r%C3%AD%C5%A1a)" title="Ríšsky snem (Rímsko-nemecká ríša) – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Reichstag_(Sveto_Rimsko_Carstvo)" title="Reichstag (Sveto Rimsko Carstvo) – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Pyh%C3%A4n_saksalais-roomalaisen_keisarikunnan_valtiop%C3%A4iv%C3%A4t" title="Pyhän saksalais-roomalaisen keisarikunnan valtiopäivät – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Riksdag_(Tysk-romerska_riket)" title="Riksdag (Tysk-romerska riket) – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B9%D1%85%D1%81%D1%82%D0%B0%D0%B3_(%D0%A1%D0%B2%D1%8F%D1%89%D0%B5%D0%BD%D0%BD%D0%B0_%D0%A0%D0%B8%D0%BC%D1%81%D1%8C%D0%BA%D0%B0_%D1%96%D0%BC%D0%BF%D0%B5%D1%80%D1%96%D1%8F)" title="Рейхстаг (Священна Римська імперія) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%B8%9D%E5%9C%8B%E8%AD%B0%E6%9C%83_(%E7%A5%9E%E8%81%96%E7%BE%85%E9%A6%AC%E5%B8%9D%E5%9C%8B)" title="帝國議會 (神聖羅馬帝國) – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q669970#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 10 August 2017, at 22:42.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Imperial_Diet_(Holy_Roman_Empire)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.160","walltime":"0.215","ppvisitednodes":{"value":2146,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":12477,"limit":2097152},"templateargumentsize":{"value":3067,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  149.272      1 -total"," 28.17%   42.047      1 Template:Reflist"," 27.91%   41.656      6 Template:ISBN"," 25.54%   38.127      2 Template:Language_with_name"," 24.03%   35.872      2 Template:Lang"," 22.70%   33.888      1 Template:Lang-la"," 22.36%   33.383      2 Template:Category_handler"," 17.76%   26.508      1 Template:Cite_web"," 14.51%   21.659      1 Template:Commons_category_inline"," 11.99%   17.903      1 Template:Sister-inline"]},"scribunto":{"limitreport-timeusage":{"value":"0.034","limit":"10.000"},"limitreport-memusage":{"value":2466289,"limit":52428800}},"cachereport":{"origin":"mw1254","timestamp":"20170922185118","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":64,"wgHostname":"mw1239"});});</script>
+	</body>
+</html>

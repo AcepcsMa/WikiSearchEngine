@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>St. Egidien, Nuremberg - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"St._Egidien,_Nuremberg","wgTitle":"St. Egidien, Nuremberg","wgCurRevisionId":788434055,"wgRevisionId":788434055,"wgArticleId":39023868,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with German-language external links","Coordinates on Wikidata","Wikipedia articles with GND identifiers","Lutheran churches in Nuremberg","Lutheran churches converted from Roman Catholicism","Baroque churches in Germany","Rebuilt buildings and structures in Germany","Benedictine monasteries in Germany","1140 establishments in the Holy Roman Empire"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"St._Egidien,_Nuremberg","wgRelevantArticleId":39023868,"wgRequestId":"WcRL8gpAAEEAACDMeDMAAAAL","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":49.4566,"lon":11.0815},"wgWikibaseItemId":"Q2318048","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/3/36/St.egidien.JPG"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/St._Egidien,_Nuremberg"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=St._Egidien,_Nuremberg&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=St._Egidien,_Nuremberg&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/St._Egidien,_Nuremberg"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-St_Egidien_Nuremberg rootpage-St_Egidien_Nuremberg skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">St. Egidien, Nuremberg</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em;border-spacing:2px; width:250px">
+<tr>
+<th colspan="2" class="fn org" style="text-align:center;font-size:125%;font-weight:bold;font-size:larger; background-color: #D3D3D3">St Egidien<br />
+St Giles</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:St.egidien.JPG" class="image"><img alt="St.egidien.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/St.egidien.JPG/220px-St.egidien.JPG" width="220" height="293" srcset="//upload.wikimedia.org/wikipedia/commons/3/36/St.egidien.JPG 1.5x" data-file-width="310" data-file-height="413" /></a>
+<div>St Egidien, Nuremberg</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #D3D3D3">Basic information</th>
+</tr>
+<tr>
+<th scope="row">Location</th>
+<td><a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a></td>
+</tr>
+<tr class="note">
+<th scope="row"><a href="/wiki/List_of_religions_and_spiritual_traditions" title="List of religions and spiritual traditions">Affiliation</a></th>
+<td><a href="/wiki/Evangelical_Lutheran_Church_in_Bavaria" title="Evangelical Lutheran Church in Bavaria">Evangelical Lutheran Church in Bavaria</a></td>
+</tr>
+<tr>
+<th scope="row">Country</th>
+<td><a href="/wiki/Germany" title="Germany">Germany</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Ecclesiastical_polity" title="Ecclesiastical polity">Ecclesiastical or organizational status</a></th>
+<td>Parish Church</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #D3D3D3">Architectural description</th>
+</tr>
+<tr>
+<th scope="row">Architectural type</th>
+<td>Church</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Architectural_style" title="Architectural style">Architectural style</a></th>
+<td><a href="/wiki/Baroque_architecture" title="Baroque architecture">Baroque architecture</a></td>
+</tr>
+<tr>
+<th scope="row">Groundbreaking</th>
+<td class="note">14 October 1711</td>
+</tr>
+<tr>
+<th scope="row">Direction of façade</th>
+<td>W</td>
+</tr>
+</table>
+<p><b>St. Egidien</b> on Egidienplatz is the former <a href="/wiki/Order_of_St._Benedict" class="mw-redirect" title="Order of St. Benedict">Benedictine</a> <a href="/wiki/Abbey" title="Abbey">Abbey</a> of <a href="/wiki/Saint_Giles" title="Saint Giles">Saint Giles</a> (<i>Egidienskirche</i>), now a church in the former free imperial city of <a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a>, southern <a href="/wiki/Germany" title="Germany">Germany</a>. It is considered a significant contribution to the baroque church architecture of <a href="/wiki/Middle_Franconia" title="Middle Franconia">Middle Franconia</a>.<sup id="cite_ref-HLB:N.C3.BCrnberg_Entwicklung_1-0" class="reference"><a href="#cite_note-HLB:N.C3.BCrnberg_Entwicklung-1">[1]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Bells"><span class="tocnumber">2</span> <span class="toctext">Bells</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Organ"><span class="tocnumber">3</span> <span class="toctext">Organ</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=St._Egidien,_Nuremberg&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:St_Egidien_-_N%C3%BCrnberg_022.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/St_Egidien_-_N%C3%BCrnberg_022.JPG/220px-St_Egidien_-_N%C3%BCrnberg_022.JPG" width="220" height="330" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/St_Egidien_-_N%C3%BCrnberg_022.JPG/330px-St_Egidien_-_N%C3%BCrnberg_022.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/St_Egidien_-_N%C3%BCrnberg_022.JPG/440px-St_Egidien_-_N%C3%BCrnberg_022.JPG 2x" data-file-width="4000" data-file-height="6000" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:St_Egidien_-_N%C3%BCrnberg_022.JPG" class="internal" title="Enlarge"></a></div>
+The bronze crucifix by Rudolf Gröschel of 1963</div>
+</div>
+</div>
+<p>The first church building was probably built in the years 1120/1130 on the site of the second, northern Nuremberg royal court. The royal courts administered royal possessions, agriculture and forestry. Thus, it had the status of a royal church.</p>
+<p>Around the year 1140 <a href="/wiki/Conrad_III_of_Germany" title="Conrad III of Germany">Emperor Conrad III</a> and his wife Gertrud raised the foundation to the rank of a benedictine abbey and endowed it generously. They made Carus, Abbot of the <a href="/wiki/Scots_Monastery,_Regensburg" title="Scots Monastery, Regensburg">Scots Monastery, Regensburg</a>, their royal chaplain and the first Abbot of St Egidien. The monastery was rich immediately and subordinate in secular terms only to the <a href="/wiki/Holy_Roman_Emperor" title="Holy Roman Emperor">Holy Roman Emperor</a>. The first monks came from the <a href="/wiki/Scots_Monastery,_Regensburg" title="Scots Monastery, Regensburg">Scots Monastery, Regensburg</a> and <a href="/wiki/St._James%27s_Abbey,_W%C3%BCrzburg" title="St. James's Abbey, Würzburg">St. James's Abbey, Würzburg</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p>It was a three-aisled basilica in the Romanesque style.</p>
+<p>In 1418, the monastery was impoverished and in debt. The altar vessels were mortgaged, and the <a href="/wiki/Scots_Monastery,_Regensburg" title="Scots Monastery, Regensburg">Scots Monastery, Regensburg</a> no longer guaranteed the debt. The abbey was taken over by German Benedictines from Reichenbach After the take-over the monastery was partially rebuilt, and the church and chapels were renovated. The Irish monks had to come to terms with the new regime or leave the abbey.</p>
+<p>At the Reformation in 1525 the monastery was dissolved, and the monastic estates transferred to the city authorities. After the <a href="/wiki/Peace_of_Augsburg" title="Peace of Augsburg">Peace of Augsburg</a> there were two unsuccessful attempts to recover the former monastic estates for the Benedictine order, firstly in 1578 by the Scottish Bishop <a href="/wiki/John_Lesley" title="John Lesley">John Lesley</a> on behalf of <a href="/wiki/Mary,_Queen_of_Scots" title="Mary, Queen of Scots">Mary, Queen of Scots</a>, and from 1629 to 1631 by a Commission for the <a href="/wiki/Prince-Bishopric_of_Bamberg" title="Prince-Bishopric of Bamberg">Prince-Bishopric of Bamberg</a> to implement a <a href="/wiki/Roman_Catholic" class="mw-redirect" title="Roman Catholic">Roman Catholic</a> Restitution Edict. On 6 and 7 July 1696 a fire destroyed the monastery and church.</p>
+<p>The church was rebuilt in the baroque style. The foundation stone was laid on 14 October 1711. The architects were Johann Trost and Gottlieb Trost. It was the largest construction project in Nuremberg in the 18th century. The stucco decorations were done by Donato Polli. The frescos were painted by Daniel Preisler and Johann Martin Schuster.</p>
+<p>The church was badly damaged during the <a href="/wiki/Second_World_War" class="mw-redirect" title="Second World War">Second World War</a> in an air raid on 2 January 1945. The roof on the nave, crossing, transepts and choir collapsed and the outer walls were badly damaged. It was rebuilt between 1946 and 1959<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> by the Nuremberg architect Rudolf Gröschel in an economic interpretative way, as the costs to reconstruct the baroque interior with its ornate detail was unaffordable at the time.</p>
+<h2><span class="mw-headline" id="Bells">Bells</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=St._Egidien,_Nuremberg&amp;action=edit&amp;section=2" title="Edit section: Bells">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are six bells in the towers.</p>
+<table class="wikitable">
+<tr>
+<td style="background-color:#dddddd;"><b>Nr.</b></td>
+<td style="background-color:#dddddd;"><b>Note</b></td>
+<td style="background-color:#dddddd;"><b>Year of Casting</b></td>
+<td style="background-color:#dddddd;"><b>Bellfounder</b></td>
+<td style="background-color:#dddddd;"><b>Diameter</b><br />
+(mm)</td>
+<td style="background-color:#dddddd;"><b>Weight</b><br />
+(kg)</td>
+<td style="background-color:#dddddd;"><b>Tower</b></td>
+</tr>
+<tr>
+<td>1</td>
+<td><b>d<sup>1</sup></b> +1</td>
+<td>1965</td>
+<td>Glockengießerei Bachert, Karlsruhe</td>
+<td align="right">1387</td>
+<td align="right">1534</td>
+<td>South</td>
+</tr>
+<tr>
+<td>2</td>
+<td><b>e<sup>1</sup></b> −1</td>
+<td>1965</td>
+<td>Glockengießerei Bachert, Karlsruhe</td>
+<td align="right">1240</td>
+<td align="right">1066</td>
+<td>North</td>
+</tr>
+<tr>
+<td>3</td>
+<td><b>g<sup>1</sup></b> +1</td>
+<td>1959</td>
+<td>Glockengießerei Bachert, Karlsruhe</td>
+<td align="right">1070</td>
+<td align="right">766</td>
+<td>South</td>
+</tr>
+<tr>
+<td>4</td>
+<td><b>h<sup>1</sup></b> −1</td>
+<td>1959</td>
+<td>Glockengießerei Bachert, Karlsruhe</td>
+<td align="right">825</td>
+<td align="right">340</td>
+<td>North</td>
+</tr>
+<tr>
+<td>5</td>
+<td><b>d<sup>2</sup></b> +1</td>
+<td>1959</td>
+<td>Glockengießerei Bachert, Karlsruhe</td>
+<td align="right">702</td>
+<td align="right">235</td>
+<td>North</td>
+</tr>
+<tr>
+<td>6</td>
+<td><b>e<sup>2</sup></b> ±0</td>
+<td>1959</td>
+<td>Glockengießerei Bachert, Karlsruhe</td>
+<td align="right">640</td>
+<td align="right">185</td>
+<td>North</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Organ">Organ</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=St._Egidien,_Nuremberg&amp;action=edit&amp;section=3" title="Edit section: Organ">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:The_organ_in_Egidienkirche,_N%C3%BCrnberg.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/The_organ_in_Egidienkirche%2C_N%C3%BCrnberg.JPG/220px-The_organ_in_Egidienkirche%2C_N%C3%BCrnberg.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/The_organ_in_Egidienkirche%2C_N%C3%BCrnberg.JPG/330px-The_organ_in_Egidienkirche%2C_N%C3%BCrnberg.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/The_organ_in_Egidienkirche%2C_N%C3%BCrnberg.JPG/440px-The_organ_in_Egidienkirche%2C_N%C3%BCrnberg.JPG 2x" data-file-width="2304" data-file-height="1728" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:The_organ_in_Egidienkirche,_N%C3%BCrnberg.JPG" class="internal" title="Enlarge"></a></div>
+The west end and organ</div>
+</div>
+</div>
+<p>The church has a long tradition of fine music. The first organ was installed in 1460 by <a href="/wiki/Stephan_Kaschendorf" title="Stephan Kaschendorf">Stephan Kaschendorf</a> from Bratislava. Amongst its history of organists are</p>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li>Petrus Mayer (organist fl. 1538)</li>
+<li>Hans Haiden (organist 1574 - 1585)</li>
+<li><a href="/wiki/Kasper_Hassler" title="Kasper Hassler">Kaspar Haßler</a> (organist 1586 - 1587)</li>
+<li>Hans Multerer (organist until 1616)</li>
+<li>Christoph Multerer (organist 1616 - 1622)</li>
+<li>Caspar Neuninger (organist 1622 - 1637)</li>
+<li>Caspar Neumeier (organist 1637 - 1640)</li>
+<li><a href="/wiki/Johann_Erasmus_Kindermann" title="Johann Erasmus Kindermann">Johann Erasmus Kindermann</a> (organist 1640 - 1655)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></li>
+<li>Paul Heinlein (organist 1655 - 1658)</li>
+<li><a href="/wiki/Georg_Caspar_Wecker" title="Georg Caspar Wecker">Georg Caspar Wecker</a> (1658 - 1686)</li>
+<li>Albrecht Martin Lunßdörffer (organist 1686 - 1687)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></li>
+<li>Benedickt Schultheiß (organist 1687 - 1693)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></li>
+<li>Johann Siegmund Richter (organist 1693 - 1705)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></li>
+<li><a href="/wiki/Wilhelm_Hieronymus_Pachelbel" title="Wilhelm Hieronymus Pachelbel">Wilhelm Hieronymus Pachelbel</a> (organist 1706 - 1719)<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></li>
+<li><a href="/wiki/Cornelius_Heinrich_Dretzel" title="Cornelius Heinrich Dretzel">Cornelius Heinrich Dretzel</a> (organist 1719 - 1743)</li>
+<li>Johann Thomas Wagner (organist 1814 - 1818)</li>
+<li>John Gottlieb Fröhr (organist 1814 - 1823)</li>
+<li>Johann Philip Nußbiegel (organist 1818 - 1823)</li>
+<li>Georg Frederich Harscher (organist 1847 - 1870)</li>
+<li>Georg Paul Brecheis (organist 1933 - 1955)<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></li>
+</ul>
+</div>
+<p>The current organ was installed in 1963 by <a href="/wiki/Rieger_Orgelbau" title="Rieger Orgelbau">Rieger Orgelbau</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> It has 3 manuals and 43 stops.</p>
+<div>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:25%;text-align:left;vertical-align:top;">
+<ul>
+<li><b>Rückpositiv</b></li>
+<li>Quintade 8'</li>
+<li>Holzgedackt 8'</li>
+<li>Prinzipal 4'</li>
+<li>Koppelflöte 4'</li>
+<li>Sesquialter 2<sup>2</sup>/<sub>3</sub>' + 1<sup>3</sup>/<sub>5</sub>'</li>
+<li>Gemshorn 2'</li>
+<li>Quinte 1<sup>1</sup>/<sub>3</sub>'</li>
+<li>Scharff 1' 4f.</li>
+<li>Schalmei 8'</li>
+<li>Tremulant</li>
+</ul>
+</td>
+<td style="width:25%;text-align:left;vertical-align:top;">
+<ul>
+<li><b>Hauptwerk</b></li>
+<li>Pommer 16'</li>
+<li>Prinzipal 8'</li>
+<li>Spitzflöte 8'</li>
+<li>Oktave 4'</li>
+<li>Nachthorn 4'</li>
+<li>Quinte 2 2/3'</li>
+<li>Superoktav 2'</li>
+<li>Rauschwerk 2<sup>2</sup>/<sub>3</sub>' 4f.</li>
+<li>Mixtur 1<sup>1</sup>/<sub>3</sub>' 6f.</li>
+<li>Fagott 16'</li>
+<li>Trompete 8'</li>
+</ul>
+</td>
+<td style="width:25%;text-align:left;vertical-align:top;">
+<ul>
+<li><b>Schwellwerk</b></li>
+<li>Prinzipal 8'</li>
+<li>Spitzgambe 8'</li>
+<li>Bleigedackt 8'</li>
+<li>Prinzipal 4'</li>
+<li>Rohrflöte 4'</li>
+<li>Blockflöte 2'</li>
+<li>Terz 1<sup>3</sup>/<sub>5</sub>'</li>
+<li>Nasat 2<sup>2</sup>/<sub>3</sub>'</li>
+<li>Plein jeu 2' 7f.</li>
+<li>Cimbel <sup>1</sup>/<sub>3</sub>' 3f.</li>
+<li>Trompete 8'</li>
+<li>Oboe 8'</li>
+<li>Tremulant</li>
+</ul>
+</td>
+<td style="width:25%;text-align:left;vertical-align:top;">
+<ul>
+<li><b>Pedal</b></li>
+<li>Prinzipal 16'</li>
+<li>Subbaß 16'</li>
+<li>Oktav 8'</li>
+<li>Subbaß 8'</li>
+<li>Choralbaß 4' 3f.</li>
+<li>Pommer 4'</li>
+<li>Hohlflöte 2'</li>
+<li>Mixtur 2' 5f.</li>
+<li>Posaune 16'</li>
+<li>Zinke 8'</li>
+<li>Clairon 4'</li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=St._Egidien,_Nuremberg&amp;params=49.4566_N_11.0815_E_source:dewiki_region:DE-BY_type:landmark"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°27′24″N</span> <span class="longitude">11°04′53″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.4566°N 11.0815°E</span><span style="display:none">﻿ / <span class="geo">49.4566; 11.0815</span></span></span></a></span></span></span></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=St._Egidien,_Nuremberg&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-HLB:N.C3.BCrnberg_Entwicklung-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-HLB:N.C3.BCrnberg_Entwicklung_1-0">^</a></b></span> <span class="reference-text"><span class="languageicon">(in German)</span> <a rel="nofollow" class="external text" href="http://www.historisches-lexikon-bayerns.de/artikel/artikel_45427">Nürnberg, Reichsstadt: Politische und soziale Entwicklung</a> (Political and Social Development of the Imperial City of Nuremberg), <i><a href="https://de.wikipedia.org/wiki/Historisches_Lexikon_Bayerns" class="extiw" title="de:Historisches Lexikon Bayerns">Historisches Lexikon Bayerns</a></i></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Nürnberg Ev.-Luth. Pfarrkirche St. Egidien ehem. Schottenkloster. Ursula Pechloff. 1996 <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3896430351" title="Special:BookSources/3896430351">3896430351</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><i>St. Egidien 1718-1959</i>. Festschrift zur Wiedereinweihung der St. Egidienkirche in Nürnberg. Nürnberg 1959</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">“The” Harvard Biographical Dictionary of Music, Don M. Randel, Harvard University Press, 1996</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Nürnberger Künstlerlexikon: Bildende Künstler, Kunsthandwerker, Gelehrte, Sammler, Kulturschaffende und Mäzene vom 12. bis zur Mitte des 20. Jahrhunderts. Manfred H. Grieb, Walter de Gruyter 2007. p.955</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Dictionary of German Biography. Schmidt - Theyer. K. G. Saur Verlag GmbH &amp; Company, Walter de Gruyter, 2005</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Nürnberger Künstlerlexikon: Bildende Künstler, Kunsthandwerker, Gelehrte, Sammler, Kulturschaffende und Mäzene vom 12. bis zur Mitte des 20. Jahrhunderts. Manfred H. Grieb, Walter de Gruyter 2007. p.1228</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">The Harvard Biographical Dictionary of Musicr, Don Michael Randel, Harvard University Press, 1996. p.660</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Nürnberger Künstlerlexikon: Bildende Künstler, Kunsthandwerker, Gelehrte, Sammler, Kulturschaffende und Mäzene vom 12. bis zur Mitte des 20. Jahrhunderts. Manfred H. Grieb, Walter de Gruyter 2007. p.173</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.rieger-orgelbau.com/en/details/project/Nuernberg_St_Egidien/">http://www.rieger-orgelbau.com/en/details/project/Nuernberg_St_Egidien/</a></span></li>
+</ol>
+</div>
+</div>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:St._Egidien,_Nuremberg" class="extiw" title="commons:Category:St. Egidien, Nuremberg">St. Egidien, Nuremberg</a></b></i>.</td>
+</tr>
+</table>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4439938-8">4439938-8</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1306
+Cached time: 20170921162901
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.188 seconds
+Real time usage: 0.263 seconds
+Preprocessor visited node count: 1869/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 17019/2097152 bytes
+Template argument size: 5905/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 1/500
+Lua time usage: 0.063/10.000 seconds
+Lua memory usage: 2.52 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  230.597      1 -total
+ 44.80%  103.318      1 Template:Infobox_religious_building
+ 35.59%   82.074      1 Template:Infobox
+ 23.62%   54.468      1 Template:Reflist
+ 10.03%   23.139      1 Template:De_icon
+  9.29%   21.425      1 Template:Commons_category
+  9.14%   21.079      1 Template:Link_language
+  9.10%   20.973      1 Template:ISBN
+  5.89%   13.580      1 Template:Authority_control
+  5.67%   13.067      1 Template:Columns-list
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:39023868-0!canonical and timestamp 20170921162901 and revision id 788434055
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=St._Egidien,_Nuremberg&amp;oldid=788434055">https://en.wikipedia.org/w/index.php?title=St._Egidien,_Nuremberg&amp;oldid=788434055</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Lutheran_churches_in_Nuremberg" title="Category:Lutheran churches in Nuremberg">Lutheran churches in Nuremberg</a></li><li><a href="/wiki/Category:Lutheran_churches_converted_from_Roman_Catholicism" title="Category:Lutheran churches converted from Roman Catholicism">Lutheran churches converted from Roman Catholicism</a></li><li><a href="/wiki/Category:Baroque_churches_in_Germany" title="Category:Baroque churches in Germany">Baroque churches in Germany</a></li><li><a href="/wiki/Category:Rebuilt_buildings_and_structures_in_Germany" title="Category:Rebuilt buildings and structures in Germany">Rebuilt buildings and structures in Germany</a></li><li><a href="/wiki/Category:Benedictine_monasteries_in_Germany" title="Category:Benedictine monasteries in Germany">Benedictine monasteries in Germany</a></li><li><a href="/wiki/Category:1140_establishments_in_the_Holy_Roman_Empire" title="Category:1140 establishments in the Holy Roman Empire">1140 establishments in the Holy Roman Empire</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_German-language_external_links" title="Category:Articles with German-language external links">Articles with German-language external links</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=St.+Egidien%2C+Nuremberg" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=St.+Egidien%2C+Nuremberg" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/St._Egidien,_Nuremberg" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:St._Egidien,_Nuremberg" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/St._Egidien,_Nuremberg">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=St._Egidien,_Nuremberg&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=St._Egidien,_Nuremberg&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/St._Egidien,_Nuremberg" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/St._Egidien,_Nuremberg" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=St._Egidien,_Nuremberg&amp;oldid=788434055" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=St._Egidien,_Nuremberg&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2318048" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=St._Egidien%2C_Nuremberg&amp;id=788434055" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=St.+Egidien%2C+Nuremberg">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=St.+Egidien%2C+Nuremberg&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DSt.%2BEgidien%252C%2BNuremberg%26returnto%3DSt.%2BEgidien%252C%2BNuremberg%26oldid%3D788434055%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=St._Egidien,_Nuremberg&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:St._Egidien,_Nuremberg" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/St._Egidien_(N%C3%BCrnberg)" title="St. Egidien (Nürnberg) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%9C%A3%E8%A9%B9%E7%90%86%E6%96%AF%E5%A0%82_(%E7%BA%BD%E4%BC%A6%E5%A0%A1)" title="圣詹理斯堂 (纽伦堡) – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2318048#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 1 July 2017, at 10:45.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=St._Egidien,_Nuremberg&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.188","walltime":"0.263","ppvisitednodes":{"value":1869,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":17019,"limit":2097152},"templateargumentsize":{"value":5905,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  230.597      1 -total"," 44.80%  103.318      1 Template:Infobox_religious_building"," 35.59%   82.074      1 Template:Infobox"," 23.62%   54.468      1 Template:Reflist"," 10.03%   23.139      1 Template:De_icon","  9.29%   21.425      1 Template:Commons_category","  9.14%   21.079      1 Template:Link_language","  9.10%   20.973      1 Template:ISBN","  5.89%   13.580      1 Template:Authority_control","  5.67%   13.067      1 Template:Columns-list"]},"scribunto":{"limitreport-timeusage":{"value":"0.063","limit":"10.000"},"limitreport-memusage":{"value":2642202,"limit":52428800}},"cachereport":{"origin":"mw1306","timestamp":"20170921162901","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":78,"wgHostname":"mw1270"});});</script>
+	</body>
+</html>

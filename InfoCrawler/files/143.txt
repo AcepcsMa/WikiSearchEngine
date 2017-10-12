@@ -1,0 +1,1130 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Fief - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Fief","wgTitle":"Fief","wgCurRevisionId":796082393,"wgRevisionId":796082393,"wgArticleId":145893,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Latin-language text","All articles with unsourced statements","Articles with unsourced statements from May 2013","Wikipedia articles with GND identifiers","Feudalism","Real property law","Land tenure"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Fief","wgRelevantArticleId":145893,"wgRequestId":"Wce5ZQpAIDoAAH4@odQAAAAL","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q188063","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bayeux_Tapestry_scene23_Harold_sacramentum_fecit_Willelmo_duci.jpg/1200px-Bayeux_Tapestry_scene23_Harold_sacramentum_fecit_Willelmo_duci.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Fief"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Fief&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Fief&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Fief"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Fief rootpage-Fief skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Fief</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For the French commune, see <a href="/wiki/Fiefs,_Pas-de-Calais" title="Fiefs, Pas-de-Calais">Fiefs, Pas-de-Calais</a>.</div>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a href="/wiki/Feudalism_in_England" title="Feudalism in England">English feudalism</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em"><a href="/wiki/File:Bayeux_Tapestry_scene23_Harold_sacramentum_fecit_Willelmo_duci.jpg" class="image"><img alt="Bayeux Tapestry scene23 Harold sacramentum fecit Willelmo duci.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bayeux_Tapestry_scene23_Harold_sacramentum_fecit_Willelmo_duci.jpg/200px-Bayeux_Tapestry_scene23_Harold_sacramentum_fecit_Willelmo_duci.jpg" width="200" height="137" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bayeux_Tapestry_scene23_Harold_sacramentum_fecit_Willelmo_duci.jpg/300px-Bayeux_Tapestry_scene23_Harold_sacramentum_fecit_Willelmo_duci.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bayeux_Tapestry_scene23_Harold_sacramentum_fecit_Willelmo_duci.jpg/400px-Bayeux_Tapestry_scene23_Harold_sacramentum_fecit_Willelmo_duci.jpg 2x" data-file-width="2407" data-file-height="1644" /></a>
+<div style="padding-top:0.2em;line-height:1.2em;padding-bottom:0.3em;border-bottom:1px solid #aaa;">
+<div style="padding:0.1em 0;line-height:1.2em;"><i><a href="/wiki/Harold_Godwinson#Harold_in_northern_France" title="Harold Godwinson">Harold Sacramentum Fecit Willelmo Duci</a></i><br />
+<span style="font-size:90%;">(<a href="/wiki/Bayeux_Tapestry" title="Bayeux Tapestry">Bayeux Tapestry</a>)</span></div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em"><a class="mw-selflink selflink">Fief</a></td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist hlist-separated">
+<ul>
+<li><a href="/wiki/Lord" title="Lord">Overlord</a></li>
+<li><a href="/wiki/Vassal" title="Vassal">Vassal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em"><a href="/wiki/Enfeoffment" class="mw-redirect" title="Enfeoffment">Enfeoffment</a></td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em"><a href="/wiki/Subinfeudation" title="Subinfeudation">Subinfeudation</a></td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em"><a href="/wiki/Feoffee" title="Feoffee">Feoffee</a></td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em"><a href="/wiki/Feudal_land_tenure_in_England" title="Feudal land tenure in England">Feudal land tenure in England</a></td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-bottom:0.8em;">
+<div class="hlist hlist-separated">
+<ul>
+<li><a href="/wiki/Fealty" title="Fealty">Fealty</a></li>
+<li><a href="/wiki/Homage_(feudal)" title="Homage (feudal)">Homage</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top:1px solid #aaa;padding-top:0.15em;border-bottom:1px solid #aaa;"><a href="/wiki/Feudalism" title="Feudalism">Feudalism</a></td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:English_feudalism" title="Template:English feudalism"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:English_feudalism" title="Template talk:English feudalism"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:English_feudalism&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Economic_systems" title="Category:Economic systems">a series</a> on</td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Economic_system" title="Economic system">Economic systems</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:lavender;text-align:center;"><a href="/wiki/Economic_ideology" title="Economic ideology">By ideology</a></div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Anarchist_economics" title="Anarchist economics">Anarchist</a></li>
+<li><a href="/wiki/Capitalism" title="Capitalism">Capitalist</a></li>
+<li><a href="/wiki/Christian_finance" title="Christian finance">Christian</a></li>
+<li><a href="/wiki/Communalism_(political_philosophy)" title="Communalism (political philosophy)">Communalist</a></li>
+<li><a href="/wiki/Communist_system" class="mw-redirect" title="Communist system">Communist</a></li>
+<li><a href="/wiki/Corporatism" title="Corporatism">Corporatist</a></li>
+<li><a href="/wiki/Economic_democracy" title="Economic democracy">Democratic</a></li>
+<li><a href="/wiki/Dirigisme" title="Dirigisme">Dirigist</a></li>
+<li><a href="/wiki/Distributism" title="Distributism">Distributist</a></li>
+<li><a href="/wiki/Economics_of_fascism" title="Economics of fascism">Fascist</a></li>
+<li><a href="/wiki/Feminist_economics" title="Feminist economics">Feminist</a></li>
+<li><a href="/wiki/Feudalism" title="Feudalism">Feudalism</a></li>
+<li><a href="/wiki/Georgism" title="Georgism">Georgist</a></li>
+<li><a href="/wiki/Green_economics" class="mw-redirect" title="Green economics">Green</a></li>
+<li><a href="/wiki/Islamic_economic_jurisprudence" class="mw-redirect" title="Islamic economic jurisprudence">Islamic</a></li>
+<li><a href="/wiki/Laissez-faire" title="Laissez-faire">Laissez-faire</a></li>
+<li><a href="/wiki/Market_socialism" title="Market socialism">Market socialist</a></li>
+<li><a href="/wiki/Mercantilism" title="Mercantilism">Mercantilist</a></li>
+<li><a href="/wiki/Mutualism_(movement)" title="Mutualism (movement)">Mutualist</a></li>
+<li><a href="/wiki/Neomercantilism" title="Neomercantilism">Neo-mercantilist</a></li>
+<li><a href="/wiki/Participatory_economics" title="Participatory economics">Participatory</a></li>
+<li><a href="/wiki/Protectionism" title="Protectionism">Protectionist</a></li>
+<li><a href="/wiki/Socialist_economics" title="Socialist economics">Socialist</a></li>
+<li><a href="/wiki/State_capitalism" title="State capitalism">State capitalist</a></li>
+<li><a href="/wiki/Syndicalism" title="Syndicalism">Syndicalist</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:lavender;text-align:center;">By coordination</div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Autarky" title="Autarky">Closed (autarky)</a></li>
+<li><a href="/wiki/Decentralized_planning_(economics)" title="Decentralized planning (economics)">Decentralized</a></li>
+<li><a href="/wiki/Digital_economy" title="Digital economy">Digital</a></li>
+<li><a href="/wiki/Dual_economy" title="Dual economy">Dual</a></li>
+<li><a href="/wiki/Gift_economy" title="Gift economy">Gift</a></li>
+<li><a href="/wiki/Informal_sector" title="Informal sector">Informal</a></li>
+<li><a href="/wiki/Market_economy" title="Market economy">Market</a></li>
+<li><a href="/wiki/Mixed_economy" title="Mixed economy">Mixed</a></li>
+<li><a href="/wiki/Natural_economy" title="Natural economy">Natural</a></li>
+<li><a href="/wiki/Open_economy" title="Open economy">Open</a></li>
+<li><a href="/wiki/Planned_economy" title="Planned economy">Planned</a></li>
+<li><a href="/wiki/Robinson_Crusoe_economy" title="Robinson Crusoe economy">Robinson Crusoe</a></li>
+<li><a href="/wiki/Subsistence_economy" title="Subsistence economy">Subsistence</a></li>
+<li><a href="/wiki/Black_market" title="Black market">Underground</a></li>
+<li><a href="/wiki/Vertical_archipelago" title="Vertical archipelago">Vertical archipelago</a></li>
+<li><a href="/wiki/Virtual_economy" title="Virtual economy">Virtual</a></li>
+<li><a href="/wiki/Welfare_state" title="Welfare state">Welfare</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:lavender;text-align:center;">By regional model</div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li>Asian
+<ul>
+<li><a href="/wiki/East_Asian_model_of_capitalism" title="East Asian model of capitalism">East Asian</a></li>
+<li><a href="/wiki/Chinese_model" class="mw-redirect" title="Chinese model">Chinese</a></li>
+<li><a href="/wiki/Economy_of_Singapore" title="Economy of Singapore">Singaporean</a></li>
+<li><a href="/wiki/Soviet-type_economic_planning" title="Soviet-type economic planning">Soviet</a></li>
+</ul>
+</li>
+<li>European
+<ul>
+<li><a href="/wiki/Anglo-Saxon_model" title="Anglo-Saxon model">Anglo-Saxon</a></li>
+<li><a href="/wiki/German_model" title="German model">German</a></li>
+<li><a href="/wiki/Nordic_model" title="Nordic model">Nordic</a></li>
+<li><a href="/wiki/Social_market_economy" title="Social market economy">Rhenish</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:lavender;text-align:center;">Sectors</div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Common_ownership" title="Common ownership">Common property</a></li>
+<li><a href="/wiki/Private_sector" title="Private sector">Private</a></li>
+<li><a href="/wiki/Public_sector" title="Public sector">Public</a></li>
+<li><a href="/wiki/Voluntary_sector" title="Voluntary sector">Voluntary</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:lavender;text-align:center;">Transition</div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Collective_farming" title="Collective farming">Collectivization</a></li>
+<li><a href="/wiki/Communization" title="Communization">Communization</a></li>
+<li><a href="/wiki/Corporatization" title="Corporatization">Corporatization</a></li>
+<li><a href="/wiki/Demutualization" title="Demutualization">Demutualization</a></li>
+<li><a href="/wiki/Deregulation" title="Deregulation">Deregulation</a></li>
+<li><a href="/wiki/Expropriation" title="Expropriation">Expropriation</a></li>
+<li><a href="/wiki/Financialization" title="Financialization">Financialization</a></li>
+<li><a href="/wiki/Liberalization" title="Liberalization">Liberalization</a></li>
+<li><a href="/wiki/Marketization" title="Marketization">Marketization</a></li>
+<li><a href="/wiki/Municipalization" title="Municipalization">Municipalization</a></li>
+<li><a href="/wiki/Mutualization" title="Mutualization">Mutualization</a></li>
+<li><a href="/wiki/Nationalization" title="Nationalization">Nationalization</a></li>
+<li><a href="/wiki/Privatization" title="Privatization">Privatization</a></li>
+<li><a href="/wiki/Socialization_(economics)" class="mw-redirect" title="Socialization (economics)">Socialization</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:lavender;text-align:center;">Coordination</div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Barter" title="Barter">Barter</a></li>
+<li><a href="/wiki/Cybernetics" title="Cybernetics">Cybernetics</a></li>
+<li><a href="/wiki/Economic_democracy" title="Economic democracy">Democratic</a></li>
+<li><a href="/wiki/Free_market" title="Free market">Free market</a></li>
+<li><a href="/wiki/Calculation_in_kind" title="Calculation in kind">In kind</a></li>
+<li><a href="/wiki/Indicative_planning" title="Indicative planning">Indicative planning</a></li>
+<li><a href="/wiki/Market_(economics)" title="Market (economics)">Market</a></li>
+<li><a href="/wiki/Material_balance_planning" title="Material balance planning">Material balancing</a></li>
+<li><a href="/wiki/Economic_planning" title="Economic planning">Planned</a></li>
+<li><a href="/wiki/Social_peer-to-peer_processes#P2P_economic_system" title="Social peer-to-peer processes">Peer-to-peer</a></li>
+<li><a href="/wiki/Price_system" title="Price system">Price</a></li>
+<li><a href="/wiki/Regulated_market" title="Regulated market">Regulated market</a></li>
+<li><a href="/wiki/Self-managed_economy" class="mw-redirect" title="Self-managed economy">Self-managed</a></li>
+<li><a href="/wiki/Sharing_economy" title="Sharing economy">Shared</a></li>
+<li><a href="/wiki/Access_economy" title="Access economy">Access economy</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:lavender;text-align:center;">Other types</div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Corporate_capitalism" title="Corporate capitalism">Corporate capitalism</a></li>
+<li><a href="/wiki/Expeditionary_Economics" class="mw-redirect" title="Expeditionary Economics">Expeditionary</a></li>
+<li><a href="/wiki/Hunter-gatherer" title="Hunter-gatherer">Hunter-gatherer</a></li>
+<li><a href="/wiki/Inclusive_Democracy" title="Inclusive Democracy">Inclusive Democracy</a></li>
+<li><a href="/wiki/Information_economy" title="Information economy">Information</a></li>
+<li><a href="/wiki/Islamic_economics" title="Islamic economics">Islamic economics</a></li>
+<li><a href="/wiki/Manorialism" title="Manorialism">Manorialism</a></li>
+<li><a href="/wiki/Newly_industrialized_country" title="Newly industrialized country">Newly industrialized</a></li>
+<li><a href="/wiki/Palace_economy" title="Palace economy">Palace</a></li>
+<li><a href="/wiki/Plantation_economy" title="Plantation economy">Plantation</a></li>
+<li><a href="/wiki/Plutonomy" title="Plutonomy">Plutonomy</a></li>
+<li><a href="/wiki/Post-capitalism" title="Post-capitalism">Post-capitalist</a></li>
+<li><a href="/wiki/Post-industrial_economy" title="Post-industrial economy">Post-industrial</a></li>
+<li><a href="/wiki/Post-scarcity_economy" title="Post-scarcity economy">Post-scarcity</a></li>
+<li><a href="/wiki/Resource-based_economy" title="Resource-based economy">Resource-based</a></li>
+<li><a href="/wiki/Social_market_economy" title="Social market economy">Social market</a></li>
+<li><a href="/wiki/Socialist_market_economy" title="Socialist market economy">Socialist market</a></li>
+<li><a href="/wiki/State_monopoly_capitalism" title="State monopoly capitalism">State monopoly capitalist</a></li>
+<li><a href="/wiki/Token_economy" title="Token economy">Token</a></li>
+<li><a href="/wiki/Traditional_economy" title="Traditional economy">Traditional</a></li>
+<li><a href="/wiki/Transition_economy" title="Transition economy">Transition</a></li>
+<li><a href="/wiki/World_economy" title="World economy">World</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="plainlist" style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;line-height:1.2em;font-weight:bold;">
+<ul>
+<li><a href="/wiki/File:Emblem-money.svg" class="image"><img alt="Emblem-money.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/16px-Emblem-money.svg.png" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/24px-Emblem-money.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/32px-Emblem-money.svg.png 2x" data-file-width="48" data-file-height="48" /></a> <a href="/wiki/Portal:Business_and_economics" title="Portal:Business and economics">Business and economics portal</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Economic_systems_sidebar" title="Template:Economic systems sidebar"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Economic_systems_sidebar" title="Template talk:Economic systems sidebar"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Economic_systems_sidebar&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em;padding-bottom:0.1em;"><i>Part of <a href="/wiki/Category:Politics" title="Category:Politics">a series</a> on</i></td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;background:#ededed;padding-bottom:0;font-size:200%;font-weight:normal;color:white;"><a href="/wiki/Politics" title="Politics">Politics</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em;padding:0.4em 0 0.4em;"><a href="/wiki/File:A_coloured_voting_box_(no_bg).svg" class="image"><img alt="Ballot box" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/A_coloured_voting_box_%28no_bg%29.svg/80px-A_coloured_voting_box_%28no_bg%29.svg.png" width="80" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/A_coloured_voting_box_%28no_bg%29.svg/120px-A_coloured_voting_box_%28no_bg%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/A_coloured_voting_box_%28no_bg%29.svg/160px-A_coloured_voting_box_%28no_bg%29.svg.png 2x" data-file-width="160" data-file-height="160" /></a></td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:white;color:#3A5FCD;">Primary topics</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/Index_of_politics_articles" title="Index of politics articles">Index of politics articles</a></li>
+<li><a href="/wiki/Politics_by_country" class="mw-redirect" title="Politics by country">Politics by country</a></li>
+<li><a href="/wiki/Politics_of_country_subdivisions" title="Politics of country subdivisions">Politics by subdivision</a></li>
+<li><a href="/wiki/Political_economy" title="Political economy">Political economy</a></li>
+<li><a href="/wiki/Political_history" title="Political history">Political history</a></li>
+<li><a href="/wiki/Political_history_of_the_world" title="Political history of the world">Political history of the world</a></li>
+<li><a href="/wiki/Political_philosophy" title="Political philosophy">Political philosophy</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:white;color:#3A5FCD;"><a href="/wiki/Political_system" title="Political system">Political systems</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Anarchy" title="Anarchy">Anarchy</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/City-state" title="City-state">City-state</a></li>
+<li><a href="/wiki/Democracy" title="Democracy">Democracy</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Federacy" title="Federacy">Federacy</a></li>
+<li><a href="/wiki/Feudalism" title="Feudalism">Feudalism</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Dictatorship" title="Dictatorship">Dictatorship</a></li>
+<li><a href="/wiki/Directorial_system" title="Directorial system">Directory</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Meritocracy" title="Meritocracy">Meritocracy</a></li>
+<li><a href="/wiki/Monarchy" title="Monarchy">Monarchy</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Parliamentary_system" title="Parliamentary system">Parliamentary</a></li>
+<li><a href="/wiki/Presidential_system" title="Presidential system">Presidential</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Republic" title="Republic">Republic</a></li>
+<li><a href="/wiki/Semi-parliamentary_system" title="Semi-parliamentary system">Semi-parliamentary</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Semi-presidential_system" title="Semi-presidential system">Semi-presidential</a></li>
+<li><a href="/wiki/Theocracy" title="Theocracy">Theocracy</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:white;color:#3A5FCD;">Academic disciplines</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="plainlist">
+<ul>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em; line-height:1.15em;"><a href="/wiki/Political_science" title="Political science">Political science</a><br />
+<small>(<a href="/wiki/List_of_political_scientists" title="List of political scientists">political scientists</a>)</small></div>
+</li>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em; line-height:1.15em;"><a href="/wiki/International_relations" title="International relations">International relations</a><br />
+<small>(<a href="/wiki/International_relations_theory" title="International relations theory">theory</a>)</small></div>
+</li>
+<li><a href="/wiki/Comparative_politics" title="Comparative politics">Comparative politics</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:white;color:#3A5FCD;"><a href="/wiki/Public_administration" title="Public administration">Public administration</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/Bureaucracy" title="Bureaucracy">Bureaucracy</a> <small>(<a href="/wiki/Street-level_bureaucracy" title="Street-level bureaucracy">street-level</a>)</small></li>
+<li><a href="/wiki/Adhocracy" title="Adhocracy">Adhocracy</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:white;color:#3A5FCD;"><a href="/wiki/Policy" title="Policy">Policy</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Public_policy" title="Public policy">Public policy</a> <small>(<a href="/wiki/Public_policy_doctrine" title="Public policy doctrine">doctrine</a>)</small></li>
+</ul>
+<dl>
+<dd><a href="/wiki/Civil_society" title="Civil society">Civil society</a></dd>
+</dl>
+<ul>
+<li><a href="/wiki/Public_interest" title="Public interest">Public interest</a></li>
+<li><a href="/wiki/Foreign_policy" title="Foreign policy">Foreign policy</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:white;color:#3A5FCD;">Organs of government</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Separation_of_powers" title="Separation of powers">Separation of powers</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Legislature" title="Legislature">Legislature</a></li>
+<li><a href="/wiki/Executive_(government)" title="Executive (government)">Executive</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Judiciary" title="Judiciary">Judiciary</a></li>
+<li><a href="/wiki/Election_commission" title="Election commission">Election commission</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:white;color:#3A5FCD;">Related topics</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/Sovereignty" title="Sovereignty">Sovereignty</a></li>
+<li><a href="/wiki/Theories_of_political_behavior" title="Theories of political behavior">Theories of political behavior</a></li>
+<li><a href="/wiki/Political_psychology" title="Political psychology">Political psychology</a></li>
+<li><a href="/wiki/Biology_and_political_orientation" title="Biology and political orientation">Biology and political orientation</a></li>
+<li><a href="/wiki/Political_organisation" title="Political organisation">Political organisations</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:white;color:#3A5FCD;">Subseries</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Voting_system" class="mw-redirect" title="Voting system">Electoral systems</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Election" title="Election">Elections</a> (<a href="/wiki/Voting" title="Voting">voting</a>)</li>
+</ul>
+<ul>
+<li><a href="/wiki/Federalism" title="Federalism">Federalism</a></li>
+<li><a href="/wiki/Forms_of_government" title="Forms of government">Form of government</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Ideology" title="Ideology">Ideology</a></li>
+<li><a href="/wiki/Political_campaign" title="Political campaign">Political campaigning</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Political_party" title="Political party">Political parties</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Politics_sidebar" title="Template:Politics sidebar"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Politics_sidebar" title="Template talk:Politics sidebar"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Politics_sidebar&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em;padding-bottom:0.3em;">Part of the <a href="/wiki/Category:Politics" title="Category:Politics">Politics series</a></td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;background:#efefef;padding-top:0.2em;padding:0.2em 0.2em 0.3em;">Basic <a href="/wiki/Forms_of_government" title="Forms of government">forms of government</a></th>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#efefef;padding:0.2em;;display:block;margin-top:0.6em;">Power structure</th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em;padding-top:0.2em;text-align:left;border-top:#ddd 1px solid;text-align:center;padding-bottom:0.7em;;padding:0.4em 0.2em 0.6em;">
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none">
+<tr>
+<th style="padding:0.1em"><a href="/wiki/Separatism" title="Separatism">Separation</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0;padding-bottom:0.6em;">
+<ul>
+<li><a href="/wiki/Associated_state" title="Associated state">Associated state</a></li>
+<li><a href="/wiki/Dominion" title="Dominion">Dominion</a></li>
+<li><a href="/wiki/Chiefdom" title="Chiefdom">Chiefdom</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em"><a href="/wiki/Federalism" title="Federalism">Federalism</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0;padding-bottom:0.6em;">
+<ul>
+<li><a href="/wiki/Federation" title="Federation">Federation</a></li>
+<li><a href="/wiki/Federacy" title="Federacy">Federacy</a></li>
+<li><a href="/wiki/Confederation" title="Confederation">Confederation</a></li>
+<li><a href="/wiki/Devolution" title="Devolution">Devolution</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em"><a href="/wiki/Supranational_union" title="Supranational union">Integration</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0;padding-bottom:0.6em;">
+<ul>
+<li><a href="/wiki/Associated_state" title="Associated state">Associated state</a></li>
+<li><a href="/wiki/Colony" title="Colony">Colony</a></li>
+<li><a href="/wiki/Dominion" title="Dominion">Dominion</a></li>
+<li><a href="/wiki/Empire" title="Empire">Empire</a></li>
+<li><a href="/wiki/Hegemony" title="Hegemony">Hegemony</a></li>
+<li><a href="/wiki/Transcontinental_state" class="mw-redirect" title="Transcontinental state">Transcontinental state</a></li>
+<li><a href="/wiki/Tributary_state" title="Tributary state">Tributary state</a></li>
+<li><a href="/wiki/Unitary_state" title="Unitary state">Unitary state</a></li>
+<li><a href="/wiki/Protectorate" title="Protectorate">Protectorate</a></li>
+<li><a href="/wiki/Vassal_state" title="Vassal state">Vassal state</a></li>
+<li><a href="/wiki/Satellite_state" title="Satellite state">Satellite state</a></li>
+<li><a href="/wiki/Puppet_state" title="Puppet state">Puppet state</a></li>
+<li><a href="/wiki/Thalassocracy" title="Thalassocracy">Thalassocracy</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em"><a href="/wiki/Administrative_division" title="Administrative division">Administrative division</a></th>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#efefef;padding:0.2em;">Power source</th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em;padding-top:0.2em;text-align:left;border-top:#ddd 1px solid;text-align:center;padding-bottom:0.7em;;padding-top:0.3em;border-top:none;">
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none">
+<tr>
+<th style="padding:0.1em"><a href="/wiki/Democracy" title="Democracy">Democracy</a><br />
+<small><i>power of many</i></small></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0;padding-bottom:0.6em;">
+<ul>
+<li><a href="/wiki/Representative_democracy" title="Representative democracy">Representative</a></li>
+<li><a href="/wiki/Liberal_democracy" title="Liberal democracy">Liberal</a></li>
+<li><a href="/wiki/Delegative_democracy" title="Delegative democracy">Delegative democracy</a></li>
+<li><a href="/wiki/Direct_democracy" title="Direct democracy">Direct</a></li>
+<li><a href="/wiki/Sortition" title="Sortition">Sortition</a></li>
+<li><a href="/wiki/Social_democracy" title="Social democracy">Social democracy</a></li>
+<li><a href="/wiki/Athenian_democracy" title="Athenian democracy">Athenian democracy</a></li>
+<li><a href="/wiki/Cellular_democracy" title="Cellular democracy">Cellular democracy</a></li>
+<li><a href="/wiki/Stratocracy" title="Stratocracy">Military</a></li>
+<li><a href="/wiki/Illiberal_democracy" title="Illiberal democracy">Illiberal democracy</a></li>
+<li><a href="/wiki/Totalitarian_democracy" title="Totalitarian democracy">Totalitarian democracy</a></li>
+<li><a href="/wiki/Semi-democracy" title="Semi-democracy">Semi</a></li>
+<li><a href="/wiki/Guided_democracy" title="Guided democracy">Guided democracy</a></li>
+<li><a href="/wiki/Multi-party_system" title="Multi-party system">Multi-party system</a></li>
+<li><a href="/wiki/Separation_of_powers" title="Separation of powers">Separation of powers</a></li>
+<li><a href="/wiki/Fusion_of_powers" title="Fusion of powers">Fusion of powers</a></li>
+<li><a href="/wiki/Westminster_system" title="Westminster system">Westminster system</a></li>
+<li><a href="/wiki/Rule_of_law" title="Rule of law">Rule of law</a></li>
+<li><i><a href="/wiki/Types_of_democracy" title="Types of democracy">others</a></i></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em"><a href="/wiki/Oligarchy" title="Oligarchy">Oligarchy</a><br />
+<small><i>power of few</i></small></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0;padding-bottom:0.6em;">
+<ul>
+<li><a href="/wiki/Aristocracy" title="Aristocracy">Aristocracy</a></li>
+<li><a href="/wiki/Military_junta" class="mw-redirect" title="Military junta">Military junta</a></li>
+<li><a href="/wiki/Noocracy" title="Noocracy">Noocracy</a></li>
+<li><a href="/wiki/Stratocracy" title="Stratocracy">Stratocracy</a></li>
+<li><a href="/wiki/Plutocracy" title="Plutocracy">Plutocracy</a></li>
+<li><a href="/wiki/Corporatocracy" title="Corporatocracy">Corporatocracy</a></li>
+<li><a href="/wiki/Geniocracy" title="Geniocracy">Geniocracy</a></li>
+<li><a href="/wiki/Timocracy" title="Timocracy">Timocracy</a></li>
+<li><a href="/wiki/Theocracy" title="Theocracy">Theocracy</a></li>
+<li><a href="/wiki/Kritarchy" title="Kritarchy">Kritarchy</a></li>
+<li><a href="/wiki/Particracy" title="Particracy">Particracy</a></li>
+<li><a href="/wiki/Technocracy" title="Technocracy">Technocracy</a></li>
+<li><a href="/wiki/Two-party_system" title="Two-party system">Two-party system</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em"><a href="/wiki/Autocracy" title="Autocracy">Autocracy</a><br />
+<small><i>power of one</i></small></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0;padding-bottom:0.6em;">
+<ul>
+<li><a href="/wiki/Despotism" title="Despotism">Despotism</a></li>
+<li><a href="/wiki/Dictatorship" title="Dictatorship">Dictatorship</a></li>
+<li><a href="/wiki/Civilian_dictatorship" title="Civilian dictatorship">Civilian dictatorship</a></li>
+<li><a href="/wiki/Military_Dictatorship" class="mw-redirect" title="Military Dictatorship">Military Dictatorship</a></li>
+<li><a href="/wiki/Semi-democracy" title="Semi-democracy">Semi-authoritarian</a></li>
+<li><a href="/wiki/One-party_state" title="One-party state">One-party state</a></li>
+<li><a href="/wiki/Dominant-party_system" title="Dominant-party system">Dominant-party system</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em">Hybrids</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0;padding-bottom:0.6em;">
+<ul>
+<li><a href="/wiki/Anocracy" title="Anocracy">Anocracy</a></li>
+<li><a href="/wiki/Electoralism" title="Electoralism">Electoralism</a></li>
+<li><a href="/wiki/Semi-democracy" title="Semi-democracy">Semi-democracy</a></li>
+<li><a href="/wiki/Guided_democracy" title="Guided democracy">Guided democracy</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#efefef;padding:0.2em;">Power ideology</th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em;padding-top:0.2em;text-align:left;border-top:#ddd 1px solid;text-align:center;padding-bottom:0.7em;;padding-top:0.3em;border-top:none;">
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none">
+<tr>
+<th style="padding:0.1em"><a href="/wiki/Monarchism" title="Monarchism">Monarchy</a> vs. <a href="/wiki/Republicanism" title="Republicanism">republic</a><br />
+<small><i>socio-political ideologies</i></small></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0;padding-bottom:0.6em;">
+<ul>
+<li><a href="/wiki/Absolute_monarchy" title="Absolute monarchy">Absolute</a></li>
+<li><a href="/wiki/Constitutional_monarchy" title="Constitutional monarchy">Constitutional</a><br /></li>
+<li><a href="/wiki/Federal_monarchy" title="Federal monarchy">Federal</a></li>
+<li><a href="/wiki/Elective_monarchy" title="Elective monarchy">Elective monarchy</a></li>
+<li><a href="/wiki/Diarchy" title="Diarchy">Diarchy</a></li>
+<li><a href="/wiki/Crowned_republic" title="Crowned republic">Crowned republic</a></li>
+<li><a href="/wiki/Federal_republic" title="Federal republic">Federal republic</a></li>
+<li><a href="/wiki/Constitutional_Republic" class="mw-redirect" title="Constitutional Republic">Constitutional Republic</a></li>
+<li><a href="/wiki/Democratic_republic" title="Democratic republic">Democratic republic</a></li>
+<li><a href="/wiki/Socialist_republic" class="mw-redirect" title="Socialist republic">Socialist republic</a></li>
+<li><a href="/wiki/Directorial_system" title="Directorial system">Directorial</a></li>
+<li><a href="/wiki/Legalism_(Chinese_philosophy)" title="Legalism (Chinese philosophy)">Legalist (Chinese)</a><br /></li>
+<li><a href="/wiki/Parliamentary_republic" title="Parliamentary republic">Parliamentary</a></li>
+<li><a href="/wiki/Semi-presidential_system" title="Semi-presidential system">Semi-presidential</a></li>
+<li><a href="/wiki/Presidential_system" title="Presidential system">Presidential</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em"><a href="/wiki/Authoritarianism" title="Authoritarianism">Authoritarian</a> vs. <a href="/wiki/Libertarianism" title="Libertarianism">libertarian</a><br />
+<small><i>socio-economic ideologies</i></small></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0;padding-bottom:0.6em;">
+<ul>
+<li><a href="/wiki/Colonialism" title="Colonialism">Colonialism</a></li>
+<li><a href="/wiki/Capitalism" title="Capitalism">Capitalism</a></li>
+<li><a href="/wiki/State_capitalism" title="State capitalism">State capitalism</a></li>
+<li><a href="/wiki/Crony_capitalism" title="Crony capitalism">Crony capitalism</a></li>
+<li><a href="/wiki/Anti-capitalism" title="Anti-capitalism">Anti-capitalism</a></li>
+<li><a href="/wiki/Corporatism" title="Corporatism">Corporatism</a></li>
+<li><a href="/wiki/Business_nationalism" title="Business nationalism">Business nationalism</a></li>
+<li><a href="/wiki/Communism" title="Communism">Communism</a></li>
+<li><a href="/wiki/National_Communism" class="mw-redirect" title="National Communism">National Communism</a></li>
+<li><a href="/wiki/Syndicalism" title="Syndicalism">Syndicalism</a></li>
+<li><a href="/wiki/National_Syndicalism" class="mw-redirect" title="National Syndicalism">National Syndicalism</a></li>
+<li><a href="/wiki/World_Communism" class="mw-redirect" title="World Communism">World Communism</a></li>
+<li><a href="/wiki/Anarcho-Communism" class="mw-redirect" title="Anarcho-Communism">Anarcho-Communism</a></li>
+<li><a href="/wiki/Anarcho-Capitalism" class="mw-redirect" title="Anarcho-Capitalism">Anarcho-Capitalism</a></li>
+<li><a href="/wiki/Marxism" title="Marxism">Marxism</a></li>
+<li><a href="/wiki/Marxism-Leninism" class="mw-redirect" title="Marxism-Leninism">Marxism-Leninism</a></li>
+<li><a href="/wiki/Maoism" title="Maoism">Maoism</a></li>
+<li><a href="/wiki/Stalinism" title="Stalinism">Stalinism</a></li>
+<li><a href="/wiki/Leninism" title="Leninism">Leninism</a></li>
+<li><a href="/wiki/Trotskyism" title="Trotskyism">Trotskyism</a></li>
+<li><a href="/wiki/Luxemburgism" title="Luxemburgism">Luxemburgism</a></li>
+<li><a href="/wiki/Left_communism" title="Left communism">Left communism</a></li>
+<li><a href="/wiki/Fascism" title="Fascism">Fascism</a></li>
+<li><a href="/wiki/Falangism" title="Falangism">Falangism</a></li>
+<li><a href="/wiki/Peronism" title="Peronism">Peronism</a></li>
+<li><a href="/wiki/Nazism" title="Nazism">Nazism</a></li>
+<li><a href="/wiki/Neo-Nazism" title="Neo-Nazism">Neo-Nazism</a></li>
+<li><a href="/wiki/Islamism" title="Islamism">Islamism</a></li>
+<li><a href="/wiki/Salafism" class="mw-redirect" title="Salafism">Salafism</a></li>
+<li><a href="/wiki/Wahhabism" title="Wahhabism">Wahhabism</a></li>
+<li><a href="/wiki/Qutbism" title="Qutbism">Qutbism</a></li>
+<li><a href="/wiki/Christian_Fundamentalism" class="mw-redirect" title="Christian Fundamentalism">Christian Fundamentalism</a></li>
+<li><a href="/wiki/Socialism" title="Socialism">Socialism</a></li>
+<li><a href="/wiki/Centrism" title="Centrism">Centrism</a></li>
+<li><a href="/wiki/Liberalism" title="Liberalism">Liberalism</a></li>
+<li><a href="/wiki/Classical_liberalism" title="Classical liberalism">Classical liberalism</a></li>
+<li><a href="/wiki/Neoliberalism" title="Neoliberalism">Neoliberalism</a></li>
+<li><a href="/wiki/Conservatism" title="Conservatism">Conservatism</a></li>
+<li><a href="/wiki/Traditional_conservatism" class="mw-redirect" title="Traditional conservatism">Traditional conservatism</a></li>
+<li><a href="/wiki/Paleoconservatism" title="Paleoconservatism">Paleoconservatism</a></li>
+<li><a href="/wiki/Neoconservatism" title="Neoconservatism">Neoconservatism</a></li>
+<li><a href="/wiki/Populism" title="Populism">Populism</a></li>
+<li><a href="/wiki/Nationalism" title="Nationalism">Nationalism</a></li>
+<li><a href="/wiki/Chauvinism" title="Chauvinism">Chauvinism</a></li>
+<li><a href="/wiki/Cosmopolitanism" title="Cosmopolitanism">Cosmopolitanism</a></li>
+<li><a href="/wiki/Monarchism" title="Monarchism">Monarchism</a></li>
+<li><a href="/wiki/Militarism" title="Militarism">Militarism</a></li>
+<li><a href="/wiki/Imperialism" title="Imperialism">Imperialism</a></li>
+<li><a href="/wiki/Distributism" title="Distributism">Distributism</a></li>
+<li><a href="/wiki/Feudalism" title="Feudalism">Feudalism</a></li>
+<li><a href="/wiki/Tribalism" title="Tribalism">Tribalism</a></li>
+<li><a href="/wiki/Pluralism_(political_philosophy)" title="Pluralism (political philosophy)">Pluralism (political philosophy)</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em"><a href="/wiki/Anarchism" title="Anarchism">Anarchism</a> vs. <a href="/wiki/Statism" title="Statism">statism</a><br />
+<small><i>civil-liberties ideologies</i></small></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0;padding-bottom:0.6em;">
+<ul>
+<li><a href="/wiki/Anarchy" title="Anarchy">Anarchy</a></li>
+<li><a href="/wiki/Anarcho-Communism" class="mw-redirect" title="Anarcho-Communism">Anarcho-Communism</a></li>
+<li><a href="/wiki/Anarcho-Capitalism" class="mw-redirect" title="Anarcho-Capitalism">Anarcho-Capitalism</a></li>
+<li><a href="/wiki/Minarchism" title="Minarchism">Minarchy</a></li>
+<li><a href="/wiki/Police_state" title="Police state">Police state</a></li>
+<li><a href="/wiki/Authoritarianism" title="Authoritarianism">Authoritarianism</a></li>
+<li><a href="/wiki/Totalitarianism" title="Totalitarianism">Totalitarianism</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em"><a href="/wiki/Global_governance" title="Global governance">Global</a> vs. <a href="/wiki/Local_government" title="Local government">local</a><br />
+<small><i>geo-cultural ideologies</i></small></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0;padding-bottom:0.6em;">
+<ul>
+<li><a href="/wiki/Globalism" title="Globalism">Globalism</a></li>
+<li><a href="/wiki/Central_government" title="Central government">Central</a></li>
+<li><a href="/wiki/City-state" title="City-state">City-state</a></li>
+<li><a href="/wiki/National_unity_government" title="National unity government">National unity</a></li>
+<li><a href="/wiki/World_government" title="World government">World</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;background:#efefef;padding-top:0.2em;"><a href="/wiki/Portal:Politics" title="Portal:Politics">Politics portal</a></td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Basic_forms_of_government" title="Template:Basic forms of government"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Basic_forms_of_government" title="Template talk:Basic forms of government"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Basic_forms_of_government&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>A <b>fief</b> (<span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="'f' in 'find'">f</span><span title="/iː/: 'ee' in 'fleece'">iː</span><span title="'f' in 'find'">f</span></span>/</a></span></span>; <a href="/wiki/Latin_language" class="mw-redirect" title="Latin language">Latin</a>: <span lang="la" xml:lang="la"><i>feudum</i></span>) was the central element of <a href="/wiki/Feudalism" title="Feudalism">feudalism</a> and consisted of <a href="/wiki/Inheritance" title="Inheritance">heritable</a> property or rights granted by an <a href="/wiki/Lord" title="Lord">overlord</a> to a <a href="/wiki/Vassal" title="Vassal">vassal</a> who held it in <a href="/wiki/Fealty" title="Fealty">fealty</a> (or "in fee") in return for a form of feudal allegiance and service, usually given by the personal ceremonies of <a href="/wiki/Homage_(medieval)" class="mw-redirect" title="Homage (medieval)">homage</a> and fealty. The fees were often lands or revenue-producing real property held in feudal <a href="/wiki/Land_tenure" title="Land tenure">land tenure</a>: these are typically known as <b>fiefs</b> or <b>fiefdoms</b>. However, not only land but anything of value could be held in fee, including governmental office, rights of exploitation such as hunting or fishing, monopolies in trade, and <a href="/wiki/Tax_farm" class="mw-redirect" title="Tax farm">tax farms</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Terminology"><span class="tocnumber">1</span> <span class="toctext">Terminology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Early_feudal_grants"><span class="tocnumber">2</span> <span class="toctext">Early feudal grants</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Later_feudal_grants_and_knightly_service"><span class="tocnumber">3</span> <span class="toctext">Later feudal grants and knightly service</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Feudal_registers"><span class="tocnumber">4</span> <span class="toctext">Feudal registers</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes"><span class="tocnumber">6</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Terminology">Terminology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fief&amp;action=edit&amp;section=1" title="Edit section: Terminology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Feudalism" title="Feudalism">Feudalism</a></div>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="391" data-file-height="391" /></td>
+<td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/Special:Search/fief" class="extiw" title="wiktionary:Special:Search/fief">fief</a></b></i> in Wiktionary, the free dictionary.</td>
+</tr>
+</table>
+<p>In ancient Rome a "<a href="/wiki/Benefice" title="Benefice">benefice</a>" (from the Latin noun <i>beneficium</i>, meaning "benefit") was a gift of land (<i><a href="/wiki/Precaria" class="mw-redirect" title="Precaria">precaria</a></i>) for life as a reward for services rendered, originally, to the state. In medieval Latin European documents, a land grant in exchange for service continued to be called a <i>beneficium</i> (Latin).<sup id="cite_ref-lubetski_1-0" class="reference"><a href="#cite_note-lubetski-1">[1]</a></sup> Later, the term <i>feudum</i>, or <i>feodum</i>, began to replace <i>beneficium</i> in the documents.<sup id="cite_ref-lubetski_1-1" class="reference"><a href="#cite_note-lubetski-1">[1]</a></sup> The first attested instance of this is from 984, although more primitive forms were seen up to one hundred years earlier.<sup id="cite_ref-lubetski_1-2" class="reference"><a href="#cite_note-lubetski-1">[1]</a></sup> The origin of the <i>feudum</i> and why it replaced <i>beneficium</i> has not been well established, but there are multiple theories, described below.<sup id="cite_ref-lubetski_1-3" class="reference"><a href="#cite_note-lubetski-1">[1]</a></sup></p>
+<p>The most widely held theory is put forth by <a href="/wiki/Marc_Bloch" title="Marc Bloch">Marc Bloch</a><sup id="cite_ref-lubetski_1-4" class="reference"><a href="#cite_note-lubetski-1">[1]</a></sup><sup id="cite_ref-bloch-ety1_2-0" class="reference"><a href="#cite_note-bloch-ety1-2">[2]</a></sup><sup id="cite_ref-bloch-ety2_3-0" class="reference"><a href="#cite_note-bloch-ety2-3">[3]</a></sup> that it is related to the Frankish term <i>*fehu-ôd</i>, in which <i>*fehu</i> means "cattle" and <i>-ôd</i> means "goods", implying "a moveable object of value."<sup id="cite_ref-bloch-ety1_2-1" class="reference"><a href="#cite_note-bloch-ety1-2">[2]</a></sup><sup id="cite_ref-bloch-ety2_3-1" class="reference"><a href="#cite_note-bloch-ety2-3">[3]</a></sup> When land replaced currency as the primary <a href="/wiki/Store_of_value" title="Store of value">store of value</a>, the Germanic word <i>*fehu-ôd</i> replaced the Latin word <i>beneficium</i>.<sup id="cite_ref-bloch-ety1_2-2" class="reference"><a href="#cite_note-bloch-ety1-2">[2]</a></sup><sup id="cite_ref-bloch-ety2_3-2" class="reference"><a href="#cite_note-bloch-ety2-3">[3]</a></sup> This Germanic origin theory was also shared by <a href="/wiki/William_Stubbs" title="William Stubbs">William Stubbs</a> in the nineteenth century.<sup id="cite_ref-lubetski_1-5" class="reference"><a href="#cite_note-lubetski-1">[1]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p>A theory put forward by <a href="/wiki/Archibald_R._Lewis" class="mw-redirect" title="Archibald R. Lewis">Archibald R. Lewis</a><sup id="cite_ref-lubetski_1-6" class="reference"><a href="#cite_note-lubetski-1">[1]</a></sup> that the origin of 'fief' is not <i>feudum</i> (or <i>feodum</i>), but rather <i>foderum</i>, the earliest attested use being in <a href="/wiki/Astronomus" class="mw-redirect" title="Astronomus">Astronomus</a>'s <i><a href="/wiki/Vita_Hludovici" title="Vita Hludovici">Vita Hludovici</a></i> (840).<sup id="cite_ref-arlewis_5-0" class="reference"><a href="#cite_note-arlewis-5">[5]</a></sup> In that text is a passage about <a href="/wiki/Louis_the_Pious" title="Louis the Pious">Louis the Pious</a> which says <i>annona militaris quas vulgo foderum vocant</i>, which can be translated as "(Louis forbade that) military provender which they popularly call 'fodder' (be furnished)."<sup id="cite_ref-lubetski_1-7" class="reference"><a href="#cite_note-lubetski-1">[1]</a></sup></p>
+<p>A theory by <a href="/w/index.php?title=Alauddin_Samarrai&amp;action=edit&amp;redlink=1" class="new" title="Alauddin Samarrai (page does not exist)">Alauddin Samarrai</a> suggests an Arabic origin, from <i>fuyū</i> (the plural of <i>fay</i>, which literally means "the returned", and was used especially for 'land that has been conquered from enemies that did not fight').<sup id="cite_ref-lubetski_1-8" class="reference"><a href="#cite_note-lubetski-1">[1]</a></sup><sup id="cite_ref-samarrai_6-0" class="reference"><a href="#cite_note-samarrai-6">[6]</a></sup> Samarrai's theory is that early forms of 'fief' include <i>feo</i>, <i>feu</i>, <i>feuz</i>, <i>feuum</i> and others, the plurality of forms strongly suggesting origins from a <a href="/wiki/Loanword" title="Loanword">loanword</a>. First use of these terms was in <a href="/wiki/Languedoc" title="Languedoc">Languedoc</a>, one of the least-Germanized areas of Europe and bordered Muslim Spain, where the earliest use of <i>feuum</i> as a replacement for <i>beneficium</i> can be dated to 899, the same year a Muslim base at <a href="/wiki/Fraxinetum" class="mw-redirect" title="Fraxinetum">Fraxinetum</a> (<a href="/wiki/La_Garde-Freinet" title="La Garde-Freinet">La Garde-Freinet</a>) in <a href="/wiki/Provence" title="Provence">Provence</a> was established. It is possible, Samarrai says, that French scribes, writing in Latin, attempted to <a href="/wiki/Transliteration" title="Transliteration">transliterate</a> the Arabic word <i>fuyū</i> (the plural of <i>fay</i>), which was being used by the Muslim invaders and occupiers at the time, resulting in a plurality of forms - <i>feo, feu, feuz, feuum</i> and others - from which eventually <i>feudum</i> derived. Samarrai, however, also advises medieval and early modern Muslim scribes often used etymologically "fanciful roots" in order to claim the most outlandish things to be of Arabian or Muslim origin.<sup id="cite_ref-samarrai_6-1" class="reference"><a href="#cite_note-samarrai-6">[6]</a></sup></p>
+<p>In the 10th and 11th centuries the Latin terms for fee could be used either to describe dependent tenure held by a man from his lord, as the term is used now by historians, or it could mean simply "property" (the <a href="/wiki/Manor" title="Manor">manor</a> was, in effect, a small fief). It lacked a precise meaning until the middle of the 12th century, when it received formal definition from land lawyers.</p>
+<p>In English usage, the word "fee" is first attested around 1250–1300 (Middle English); the word <i>fief</i> from around 1605–15. In French, the term <i>fief</i> is found from the middle of the 13th century (Old French), derived from the 11th-century terms <i>feu</i>, <i>fie</i>. The odd appearance of the second <i>f</i> in the form <i>fief</i> may be due to influence from the verb <i>fiever</i> 'to grant in fee'.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> In French, one also finds "seigneurie" (land and rights possessed by a "seigneur" or "lord", 12th-century), which gives rise to the expression "seigneurial system" to describe feudalism.</p>
+<h2><span class="mw-headline" id="Early_feudal_grants">Early feudal grants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fief&amp;action=edit&amp;section=2" title="Edit section: Early feudal grants">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Originally, <a href="/wiki/Vassal" title="Vassal">vassalage</a> did not imply the giving or receiving of landholdings (which were granted only as a reward for loyalty), but by the eighth century the giving of a landholding was becoming standard.<sup id="cite_ref-Cantor_1993.2C_pp._198-199_8-0" class="reference"><a href="#cite_note-Cantor_1993.2C_pp._198-199-8">[8]</a></sup> The granting of a landholding to a vassal did not relinquish the lord's property rights, but only the use of the lands and their income; the granting lord retained ultimate ownership of the fee and could, technically, recover the lands in case of disloyalty or death.<sup id="cite_ref-Cantor_1993.2C_pp._198-199_8-1" class="reference"><a href="#cite_note-Cantor_1993.2C_pp._198-199-8">[8]</a></sup> In <a href="/wiki/Francia" title="Francia">8th-century France</a>, <a href="/wiki/Charles_Martel" title="Charles Martel">Charles Martel</a> was the first to make large-scale and systematic use (the practice had remained until then sporadic) of the remuneration of vassals by the concession of the usufruct of lands (a <i>beneficatium</i> or "<a href="/wiki/Benefice" title="Benefice">benefice</a>" in the documents) for the life of the vassal, or, sometimes extending to the second or third generation.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<p>By the middle of the 10th century, fee had largely become hereditary.<sup id="cite_ref-Cantor.2C_200_10-0" class="reference"><a href="#cite_note-Cantor.2C_200-10">[10]</a></sup> The eldest son of a deceased vassal would inherit, but first he had to do homage and fealty to the lord and pay a "<a href="/wiki/Feudal_relief" title="Feudal relief">relief</a>" for the land (a monetary recognition of the lord's continuing proprietary rights over the property).</p>
+<p>Historically, the fees of the 11th and the 12th century derived from two separate sources. The first was land carved out of the estates of the upper nobility. The second source was <a href="/wiki/Allod" title="Allod">allodial</a> land transformed into dependent tenures.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2013)">citation needed</span></a></i>]</sup> During the 10th century in northern France and the 11th century in France south of the <a href="/wiki/Loire" title="Loire">Loire</a>, local magnates either recruited or forced the owners of allodial holdings into dependent relationships and they were turned into fiefs. The process occurred later in Germany, and was still going on in the 13th century.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2013)">citation needed</span></a></i>]</sup></p>
+<p>In England, <a href="/wiki/Henry_II_of_England" title="Henry II of England">Henry II</a> transformed them into important sources of royal income and patronage. The discontent of <a href="/wiki/Baron" title="Baron">barons</a> with royal claims to arbitrarily assessed "reliefs" and other feudal payments under Henry's son <a href="/wiki/John_of_England" class="mw-redirect" title="John of England">King John</a> resulted in <a href="/wiki/Magna_Carta" title="Magna Carta">Magna Carta</a> of 1215.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2013)">citation needed</span></a></i>]</sup></p>
+<p>Eventually, great feudal lords sought also to seize governmental and legal authority (the collection of taxes, the right of high justice, etc.) in their lands, and some passed these rights to their own vassals.<sup id="cite_ref-Cantor.2C_200_10-1" class="reference"><a href="#cite_note-Cantor.2C_200-10">[10]</a></sup></p>
+<p>The privilege of minting official coins developed into the concept of <a href="/wiki/Seigniorage" title="Seigniorage">seigniorage</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2013)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="Later_feudal_grants_and_knightly_service">Later feudal grants and knightly service</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fief&amp;action=edit&amp;section=3" title="Edit section: Later feudal grants and knightly service">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 13th-century Germany, Italy, England, France, and Spain the term "feodum" was used to describe a dependent tenure held from a lord by a vassal in return for a specified amount of <a href="/wiki/Knight" title="Knight">knight</a> service and occasional financial payments (<a href="/w/index.php?title=Feudal_incidents&amp;action=edit&amp;redlink=1" class="new" title="Feudal incidents (page does not exist)">feudal incidents</a>).</p>
+<p>However, knight service in war was far less common than:</p>
+<ul>
+<li>castle-guard (called <i><a href="/wiki/Burghut" class="mw-redirect" title="Burghut">Burghut</a></i> in the Holy Roman Empire) the obligation of a vassal to serve in a <a href="/wiki/Castle" title="Castle">castle</a> <a href="/wiki/Garrison" title="Garrison">garrison</a> of the lord),</li>
+<li>suit in court (the vassal's obligation to attend the lord's <a href="/wiki/Court_(royal)" title="Court (royal)">court</a>, to give him counsel, and to help him judge disputes)</li>
+<li>attendance in the lord's entourage (accompanying the lord when he travelled or attended the court of his lord so as to increase the social status of the lord),</li>
+<li>hospitality to the lord or to his servants (accommodation).</li>
+</ul>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Sigismund_fees_the_land_Brandenburg_to_Frederik,_April_30,_1415.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sigismund_fees_the_land_Brandenburg_to_Frederik%2C_April_30%2C_1415.jpg/220px-Sigismund_fees_the_land_Brandenburg_to_Frederik%2C_April_30%2C_1415.jpg" width="220" height="89" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sigismund_fees_the_land_Brandenburg_to_Frederik%2C_April_30%2C_1415.jpg/330px-Sigismund_fees_the_land_Brandenburg_to_Frederik%2C_April_30%2C_1415.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sigismund_fees_the_land_Brandenburg_to_Frederik%2C_April_30%2C_1415.jpg/440px-Sigismund_fees_the_land_Brandenburg_to_Frederik%2C_April_30%2C_1415.jpg 2x" data-file-width="472" data-file-height="192" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Sigismund_fees_the_land_Brandenburg_to_Frederik,_April_30,_1415.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Sigismund,_Holy_Roman_Emperor" title="Sigismund, Holy Roman Emperor">Sigismund</a> fees the <a href="/wiki/Margraviate_of_Brandenburg" title="Margraviate of Brandenburg">Margraviate of Brandenburg</a> to <a href="/wiki/Frederick_I,_Elector_of_Brandenburg" title="Frederick I, Elector of Brandenburg">Frederik</a>, April 30, 1415</div>
+</div>
+</div>
+<p>A lord in late 12th-century England and France could also claim the right of:</p>
+<ul>
+<li>wardship and marriage - right to control descent of fee by choosing husband for female heir and guardian of minors (preferably in consultation with heir's closest male adult kinsmen);</li>
+<li>"aids" - payments to aid the lord in times of need (customarily given to the lord to cover the cost of knighting of eldest son, marriage of eldest daughter, and for <a href="/wiki/Ransom" title="Ransom">ransoming</a> of lord if required);</li>
+<li><a href="/wiki/Escheat" title="Escheat">escheat</a> - the reversion of the fief to the lord in default of an heir.<sup id="cite_ref-abels_11-0" class="reference"><a href="#cite_note-abels-11">[11]</a></sup></li>
+</ul>
+<p>In northern France in the 12th and 13th centuries, military service for fiefs was limited for offensive campaigns to 40 days for a knight. By the 12th century, English and French kings and barons began to commute military service for cash payments (<a href="/wiki/Scutage" title="Scutage">scutages</a>), with which they could purchase the service of <a href="/wiki/Mercenaries" class="mw-redirect" title="Mercenaries">mercenaries</a>.<sup id="cite_ref-abels_11-1" class="reference"><a href="#cite_note-abels-11">[11]</a></sup></p>
+<h2><span class="mw-headline" id="Feudal_registers">Feudal registers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fief&amp;action=edit&amp;section=4" title="Edit section: Feudal registers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A list of several hundred such fees held <a href="/wiki/Tenant-in-chief" title="Tenant-in-chief">in chief</a> between 1198 and 1292, along with their holders' names and form of tenure, was published in three volumes between 1920 and 1931 and is known as <i><a href="/wiki/Book_of_Fees" title="Book of Fees">The Book of Fees</a></i>; it was developed from the 1302 <i><a href="/wiki/Testa_de_Nevill" class="mw-redirect" title="Testa de Nevill">Testa de Nevill</a></i>.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fief&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Appanage" title="Appanage">Appanage</a>, part of the liege's domain granted to a junior relative</li>
+<li><i><a href="/wiki/Book_of_Fees" title="Book of Fees">Book of Fees</a></i>, a scholarly collection of fiefs</li>
+<li><a href="/wiki/Brahmadeya" title="Brahmadeya">Brahmadeya</a>, a royal fief given to a <a href="/wiki/Brahmin" title="Brahmin">Brahmin</a> for service to an Indian king.</li>
+<li><a href="/wiki/Enfeoffment" class="mw-redirect" title="Enfeoffment">Enfeoffment</a></li>
+<li><a href="/wiki/Fee_simple" title="Fee simple">Fee simple</a></li>
+<li><a href="/wiki/Fee_tail" title="Fee tail">Fee tail</a></li>
+<li><a href="/wiki/Fengjian" title="Fengjian">Fengjian</a>, the Chinese system often compared to European feudalism</li>
+<li><a href="/wiki/Feoffee" title="Feoffee">Feoffee</a></li>
+<li><a href="/wiki/Feudal_land_tenure_in_England" title="Feudal land tenure in England">Feudal land tenure in England</a></li>
+<li><a href="/wiki/Herrschaft_(territory)" title="Herrschaft (territory)">Herrschaft</a>, the German equivalent</li>
+<li><a href="/wiki/Knight-service" title="Knight-service">Knight-service</a></li>
+<li><a href="/wiki/Knight%27s_fee" title="Knight's fee">Knight's fee</a></li>
+<li><a href="/wiki/Lord_of_the_manor" title="Lord of the manor">Lord of the manor</a></li>
+<li><a href="/wiki/Seigneurial_system_of_New_France" title="Seigneurial system of New France">Seigneurial system of New France</a>, a semifeudal system in France's American colonies</li>
+<li><a href="/wiki/Subinfeudation" title="Subinfeudation">Subinfeudation</a></li>
+<li><a href="/wiki/Urbarium" title="Urbarium">Urbarium</a>, a medieval record of fees</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fief&amp;action=edit&amp;section=6" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-lubetski-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-lubetski_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-lubetski_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-lubetski_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-lubetski_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-lubetski_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-lubetski_1-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-lubetski_1-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-lubetski_1-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-lubetski_1-8"><sup><i><b>i</b></i></sup></a></span> <span class="reference-text">Meir Lubetski (ed.). <i>Boundaries of the ancient Near Eastern world: a tribute to Cyrus H. Gordon</i>. "Notices on Pe'ah, Fay' and Feudum" by Alauddin Samarrai. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=dO4rbfA_WVIC&amp;pg=PA248">Pg. 248-250</a>, Continuum International Publishing Group, 1998.</span></li>
+<li id="cite_note-bloch-ety1-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-bloch-ety1_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bloch-ety1_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-bloch-ety1_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Marc Bloch. <i>Feudal Society</i>, Vol. 1, 1964. pp.165-66.</span></li>
+<li id="cite_note-bloch-ety2-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-bloch-ety2_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bloch-ety2_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-bloch-ety2_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Marc Bloch. <i>Feudalism</i>, 1961, pg. 106.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a href="/wiki/William_Stubbs" title="William Stubbs">William Stubbs</a>. <i>The Constitutional History of England</i> (3 volumes), 2nd edition 1875-78, Vol. 1, pg. 251, n. 1</span></li>
+<li id="cite_note-arlewis-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-arlewis_5-0">^</a></b></span> <span class="reference-text"><a href="/wiki/Archibald_R._Lewis" class="mw-redirect" title="Archibald R. Lewis">Archibald R. Lewis</a>. <i>The Development of Southern French and Catalan Society 718-1050</i>, 1965, pp. 76-77.</span></li>
+<li id="cite_note-samarrai-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-samarrai_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-samarrai_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="/w/index.php?title=Alauddin_Samarrai&amp;action=edit&amp;redlink=1" class="new" title="Alauddin Samarrai (page does not exist)">Alauddin Samarrai</a>. "The term 'fief': A possible Arabic origin", <i>Studies in Medieval Culture</i>, 4.1 (1973), pp. 78-82.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">"fee, n.2." OED Online. Oxford University Press, June 2017. Web. 18 August 2017.</span></li>
+<li id="cite_note-Cantor_1993.2C_pp._198-199-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Cantor_1993.2C_pp._198-199_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Cantor_1993.2C_pp._198-199_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Cantor (1993), pp. 198-199.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Lebecq, pp.196-197.</span></li>
+<li id="cite_note-Cantor.2C_200-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Cantor.2C_200_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Cantor.2C_200_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Cantor (1993), p. 200.</span></li>
+<li id="cite_note-abels-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-abels_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-abels_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Abels, Richard. <a rel="nofollow" class="external text" href="http://www.usna.edu/Users/history/abels/hh315/Feudal.htm">"Feudalism"</a>. United States Naval Academy.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFief&amp;rft.aufirst=Richard&amp;rft.aulast=Abels&amp;rft.btitle=Feudalism&amp;rft.genre=unknown&amp;rft.pub=United+States+Naval+Academy&amp;rft_id=http%3A%2F%2Fwww.usna.edu%2FUsers%2Fhistory%2Fabels%2Fhh315%2FFeudal.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fief&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png" width="38" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/57px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/76px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikisource" title="Wikisource">Wikisource</a> has the text of the <a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">1911 <i>Encyclopædia Britannica</i></a> article <i><b><a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Fief" class="extiw" title="wikisource:1911 Encyclopædia Britannica/Fief">Fief</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/Norman_F._Cantor" class="mw-redirect" title="Norman F. Cantor">Norman F. Cantor</a>. <i>The Civilization of the Middle Ages</i>. New York: HarperPerennial, 1993. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-06-092553-1" title="Special:BookSources/0-06-092553-1">0-06-092553-1</a></li>
+<li>Stéphane Lebecq. <i>Les origines franques: Ve-IXe siècles.</i> Series: Nouvelle histoire de la France médiévale. Paris: Editions du Seuil, 1999. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/2-02-011552-2" title="Special:BookSources/2-02-011552-2">2-02-011552-2</a></li>
+<li><cite class="citation book">Reynolds, Susan (1996). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=vkQ8z7S2cIIC"><i>Fiefs and Vassals: The Medieval Evidence Reinterpreted</i></a>. Clarendon Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780198206484" title="Special:BookSources/9780198206484">9780198206484</a><span class="reference-accessdate">. Retrieved <span class="nowrap">12 September</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFief&amp;rft.aufirst=Susan&amp;rft.aulast=Reynolds&amp;rft.btitle=Fiefs+and+Vassals%3A+The+Medieval+Evidence+Reinterpreted&amp;rft.date=1996&amp;rft.genre=book&amp;rft.isbn=9780198206484&amp;rft.pub=Clarendon+Press&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DvkQ8z7S2cIIC&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4167145-4">4167145-4</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1275
+Cached time: 20170924133759
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.328 seconds
+Real time usage: 0.442 seconds
+Preprocessor visited node count: 2506/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 113446/2097152 bytes
+Template argument size: 10518/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 3/500
+Lua time usage: 0.133/10.000 seconds
+Lua memory usage: 3.33 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  347.726      1 -total
+ 15.14%   52.656      1 Template:Reflist
+ 14.20%   49.363      4 Template:Citation_needed
+ 12.39%   43.082      5 Template:Sidebar
+ 12.25%   42.589      4 Template:Fix
+ 10.37%   36.074      1 Template:Cite_web
+  8.55%   29.739      1 Template:Authority_control
+  8.33%   28.972      2 Template:ISBN
+  7.98%   27.758      1 Template:For
+  7.67%   26.671      1 Template:IPAc-en
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:145893-0!canonical and timestamp 20170924133758 and revision id 796082393
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Fief&amp;oldid=796082393">https://en.wikipedia.org/w/index.php?title=Fief&amp;oldid=796082393</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Feudalism" title="Category:Feudalism">Feudalism</a></li><li><a href="/wiki/Category:Real_property_law" title="Category:Real property law">Real property law</a></li><li><a href="/wiki/Category:Land_tenure" title="Category:Land tenure">Land tenure</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_Latin-language_text" title="Category:Articles containing Latin-language text">Articles containing Latin-language text</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2013" title="Category:Articles with unsourced statements from May 2013">Articles with unsourced statements from May 2013</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Fief" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Fief" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Fief" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Fief" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Fief">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Fief&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Fief&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Fief" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Fief" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Fief&amp;oldid=796082393" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Fief&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q188063" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Fief&amp;id=796082393" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Fief">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Fief&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DFief%26returnto%3DFief%26oldid%3D796082393%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Fief&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Lehnswesen" title="Lehnswesen – Alemannisch" lang="als" hreflang="als" class="interlanguage-link-target">Alemannisch</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A5%D9%82%D8%B7%D8%A7%D8%B9%D8%A9" title="إقطاعة – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Feudu" title="Feudu – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A4%D0%B5%D0%BE%D0%B4" title="Феод – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%A4%D1%8D%D0%BE%D0%B4" title="Фэод – Belarusian (Taraškievica orthography)" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A4%D0%B5%D0%BE%D0%B4" title="Феод – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Feu" title="Feu – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Lehnswesen" title="Lehnswesen – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A6%CE%AD%CE%BF%CF%85%CE%B4%CE%BF" title="Φέουδο – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Feudo" title="Feudo – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Fe%C5%ADdo" title="Feŭdo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Feudo" title="Feudo – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AA%DB%8C%D9%88%D9%84_(%D8%A7%D8%B1%D9%88%D9%BE%D8%A7)" title="تیول (اروپا) – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Fief" title="Fief – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%B4%89%ED%86%A0" title="봉토 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%96%D5%A5%D5%B8%D5%A4" title="Ֆեոդ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Feud" title="Feud – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Feudo" title="Feudo – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/L%C3%A9n" title="Lén – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Feudo" title="Feudo – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A4%D7%99%D7%99%D7%A3" title="פייף – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A4%D0%B5%D0%BE%D0%B4" title="Феод – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/L%C4%93nis" title="Lēnis – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Feodas" title="Feodas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Hie%C3%ABredeenste" title="Hieëredeenste – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Feudum" title="Feudum – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Leenstelsel" title="Leenstelsel – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-nds-nl"><a href="https://nds-nl.wikipedia.org/wiki/Liefeigenschop" title="Liefeigenschop – Low Saxon" lang="nds-NL" hreflang="nds-NL" class="interlanguage-link-target">Nedersaksies</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%BC%E3%82%A8%E3%83%B3" title="レーエン – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-nrm"><a href="https://nrm.wikipedia.org/wiki/Fieu" title="Fieu – Norman" lang="nrm" hreflang="nrm" class="interlanguage-link-target">Nouormand</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/F%C3%A8u" title="Fèu – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Feod" title="Feod – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Lenno" title="Lenno – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Feudo" title="Feudo – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D0%BE%D0%B4" title="Феод – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Feu" title="Feu – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Fiefdom" title="Fiefdom – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A4%D0%B5%D1%83%D0%B4" title="Феуд – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Feud" title="Feud – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/F%C3%B6rl%C3%A4ning" title="Förläning – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Yurtluk" title="Yurtluk – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BD_(%D1%84%D0%B5%D0%BE%D0%B4)" title="Лен (феод) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-wa"><a href="https://wa.wikipedia.org/wiki/F%C3%AE" title="Fî – Walloon" lang="wa" hreflang="wa" class="interlanguage-link-target">Walon</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%87%87%E9%82%91%E5%88%B6" title="采邑制 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q188063#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 18 August 2017, at 10:54.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Fief&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.328","walltime":"0.442","ppvisitednodes":{"value":2506,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":113446,"limit":2097152},"templateargumentsize":{"value":10518,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  347.726      1 -total"," 15.14%   52.656      1 Template:Reflist"," 14.20%   49.363      4 Template:Citation_needed"," 12.39%   43.082      5 Template:Sidebar"," 12.25%   42.589      4 Template:Fix"," 10.37%   36.074      1 Template:Cite_web","  8.55%   29.739      1 Template:Authority_control","  8.33%   28.972      2 Template:ISBN","  7.98%   27.758      1 Template:For","  7.67%   26.671      1 Template:IPAc-en"]},"scribunto":{"limitreport-timeusage":{"value":"0.133","limit":"10.000"},"limitreport-memusage":{"value":3491867,"limit":52428800}},"cachereport":{"origin":"mw1275","timestamp":"20170924133759","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":73,"wgHostname":"mw1188"});});</script>
+	</body>
+</html>

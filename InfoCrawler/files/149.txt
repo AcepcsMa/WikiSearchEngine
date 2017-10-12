@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Nave - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Nave","wgTitle":"Nave","wgCurRevisionId":801707174,"wgRevisionId":801707174,"wgArticleId":297040,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from January 2010","All articles needing additional references","Church architecture","Arches and vaults"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Nave","wgRelevantArticleId":297040,"wgRequestId":"WcOOxQpAMEoAAGUqvGEAAABU","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q188714","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preload","preloadparams","preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.18"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Langhaus%2C_Hauptschiff.svg/1200px-Langhaus%2C_Hauptschiff.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Nave"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Nave&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Nave&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Nave"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Nave rootpage-Nave skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Nave</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Nave_(disambiguation)" class="mw-disambig" title="Nave (disambiguation)">Nave (disambiguation)</a>.</div>
+<div role="note" class="hatnote navigation-not-searchable">For the Hebrew name, see <a href="/wiki/Naveh_(disambiguation)" class="mw-redirect mw-disambig" title="Naveh (disambiguation)">Naveh</a>.</div>
+<div role="note" class="hatnote navigation-not-searchable">Not to be confused with <a href="/wiki/Knave_(disambiguation)" class="mw-redirect mw-disambig" title="Knave (disambiguation)">Knave (disambiguation)</a>.</div>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Nave&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(January 2010)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Langhaus,_Hauptschiff.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Langhaus%2C_Hauptschiff.svg/220px-Langhaus%2C_Hauptschiff.svg.png" width="220" height="106" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Langhaus%2C_Hauptschiff.svg/330px-Langhaus%2C_Hauptschiff.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Langhaus%2C_Hauptschiff.svg/440px-Langhaus%2C_Hauptschiff.svg.png 2x" data-file-width="910" data-file-height="440" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Langhaus,_Hauptschiff.svg" class="internal" title="Enlarge"></a></div>
+Schematical illustration of a plan view of a cathedral, with the coloured area showing the nave</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Saint-Sulpice,_Nave,_Paris_20140515_1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Saint-Sulpice%2C_Nave%2C_Paris_20140515_1.jpg/220px-Saint-Sulpice%2C_Nave%2C_Paris_20140515_1.jpg" width="220" height="176" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Saint-Sulpice%2C_Nave%2C_Paris_20140515_1.jpg/330px-Saint-Sulpice%2C_Nave%2C_Paris_20140515_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Saint-Sulpice%2C_Nave%2C_Paris_20140515_1.jpg/440px-Saint-Sulpice%2C_Nave%2C_Paris_20140515_1.jpg 2x" data-file-width="13866" data-file-height="11093" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Saint-Sulpice,_Nave,_Paris_20140515_1.jpg" class="internal" title="Enlarge"></a></div>
+The nave of the <a href="/wiki/Church_of_Saint-Sulpice,_Paris" title="Church of Saint-Sulpice, Paris">Saint-Sulpice Church</a> in Paris</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:NefStGeorges1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/NefStGeorges1.jpg/220px-NefStGeorges1.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/NefStGeorges1.jpg/330px-NefStGeorges1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/NefStGeorges1.jpg/440px-NefStGeorges1.jpg 2x" data-file-width="1024" data-file-height="768" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:NefStGeorges1.jpg" class="internal" title="Enlarge"></a></div>
+The Romanesque nave of the abbey church of <a href="/wiki/Saint-Georges_de_Boscherville_Abbey" class="mw-redirect" title="Saint-Georges de Boscherville Abbey">Saint-Georges-de-Boscherville</a>, Normandy, France, has a triforium passage above the aisle vaulting.</div>
+</div>
+</div>
+<p>The <b>nave</b> <span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="'n' in 'nigh'">n</span><span title="/eɪ/: 'a' in 'face'">eɪ</span><span title="'v' in 'vie'">v</span></span>/</a></span></span> is the central <a href="/wiki/Aisle" title="Aisle">aisle</a> of a <a href="/wiki/Basilica" title="Basilica">basilica</a> <a href="/wiki/Church_architecture" title="Church architecture">church</a>, or the main body of a church (whether aisled or not) between its rear wall and the far end of its intersection with the <a href="/wiki/Transcept" class="mw-redirect" title="Transcept">transcept</a> at the <a href="/wiki/Chancel" title="Chancel">chancel</a>. It is the zone of a church accessible by the <a href="/wiki/Laity" title="Laity">laity</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#History"><span class="tocnumber">3</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Record-holders"><span class="tocnumber">4</span> <span class="toctext">Record-holders</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nave&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The nave extends from the entry — which may have a separate vestibule (the <a href="/wiki/Narthex" title="Narthex">narthex</a>) — to the chancel and may be flanked by lower <a href="/wiki/Aisle#Church_architecture" title="Aisle">side-aisles</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> separated from the nave by an <a href="/wiki/Arcade_(architecture)" title="Arcade (architecture)">arcade</a>. If the aisles are high and of a width comparable to the central nave, the structure is sometimes said to have three naves. It provides the central approach to the high <a href="/wiki/Altar" title="Altar">altar</a>.</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nave&amp;action=edit&amp;section=2" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The term <i>nave</i> is from <i>navis</i>, the <a href="/wiki/Latin" title="Latin">Latin</a> word for <i>ship</i>, an early Christian symbol.<sup id="cite_ref-newadvent_3-0" class="reference"><a href="#cite_note-newadvent-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> The term may also have been suggested by the keel shape of the <a href="/wiki/Vault_(architecture)" title="Vault (architecture)">vaulting</a> of a church. In many Scandinavian and Baltic countries a model ship is commonly found hanging in the nave of a church,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> and in some languages the same word means both 'nave' and 'ship', as for instance Danish <i><a href="https://en.wiktionary.org/wiki/skib" class="extiw" title="wikt:skib">skib</a></i> or Swedish <i><a href="https://en.wiktionary.org/wiki/skepp" class="extiw" title="wikt:skepp">skepp</a></i>.</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nave&amp;action=edit&amp;section=3" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Affresco_dell%27aspetto_antico_della_basilica_costantiniana_di_san_pietro_nel_IV_secolo.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Affresco_dell%27aspetto_antico_della_basilica_costantiniana_di_san_pietro_nel_IV_secolo.jpg/220px-Affresco_dell%27aspetto_antico_della_basilica_costantiniana_di_san_pietro_nel_IV_secolo.jpg" width="220" height="203" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Affresco_dell%27aspetto_antico_della_basilica_costantiniana_di_san_pietro_nel_IV_secolo.jpg/330px-Affresco_dell%27aspetto_antico_della_basilica_costantiniana_di_san_pietro_nel_IV_secolo.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Affresco_dell%27aspetto_antico_della_basilica_costantiniana_di_san_pietro_nel_IV_secolo.jpg/440px-Affresco_dell%27aspetto_antico_della_basilica_costantiniana_di_san_pietro_nel_IV_secolo.jpg 2x" data-file-width="942" data-file-height="870" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Affresco_dell%27aspetto_antico_della_basilica_costantiniana_di_san_pietro_nel_IV_secolo.jpg" class="internal" title="Enlarge"></a></div>
+A fresco showing Old St Peter's Basilica, built in the 4th century: the central area, illuminated by high windows, is flanked by aisles.</div>
+</div>
+</div>
+<p>The earliest churches were built when builders were familiar with the form of the Roman <a href="/wiki/Basilica" title="Basilica">basilica</a>, a public building for business transactions. It had a wide central area, with aisles separated by columns, and with windows near the ceiling. <a href="/wiki/Old_St._Peter%27s_Basilica" title="Old St. Peter's Basilica">Old St. Peter's Basilica</a> in Rome is an early church which had this form. It was built in the 4th century on the orders of Roman emperor <a href="/wiki/Constantine_I" class="mw-redirect" title="Constantine I">Constantine I</a>, and replaced in the 16th century.<sup id="cite_ref-newadvent_3-1" class="reference"><a href="#cite_note-newadvent-3">[3]</a></sup><sup id="cite_ref-britannica_6-0" class="reference"><a href="#cite_note-britannica-6">[6]</a></sup></p>
+<p>The nave, the main body of the building, is the section set apart for the laity, while the <a href="/wiki/Chancel" title="Chancel">chancel</a> is reserved for the clergy. In medieval churches the nave was separated from the chancel by the <a href="/wiki/Rood_screen" title="Rood screen">rood screen</a>; these, being elaborately decorated, were notable features in European churches from the 14th to the mid-16th century.<sup id="cite_ref-newadvent_3-2" class="reference"><a href="#cite_note-newadvent-3">[3]</a></sup><sup id="cite_ref-britannica_6-1" class="reference"><a href="#cite_note-britannica-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<p>Medieval naves were divided into bays, the repetition of form giving an effect of great length; and the vertical element of the nave was emphasized. During the Renaissance, in place of dramatic effects there were more balanced proportions.<sup id="cite_ref-britannica_6-2" class="reference"><a href="#cite_note-britannica-6">[6]</a></sup></p>
+<h2><span class="mw-headline" id="Record-holders">Record-holders</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nave&amp;action=edit&amp;section=4" title="Edit section: Record-holders">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Bath.abbey.fan.vault.arp.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bath.abbey.fan.vault.arp.jpg/220px-Bath.abbey.fan.vault.arp.jpg" width="220" height="312" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bath.abbey.fan.vault.arp.jpg/330px-Bath.abbey.fan.vault.arp.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bath.abbey.fan.vault.arp.jpg/440px-Bath.abbey.fan.vault.arp.jpg 2x" data-file-width="1612" data-file-height="2288" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Bath.abbey.fan.vault.arp.jpg" class="internal" title="Enlarge"></a></div>
+Late Gothic <a href="/wiki/Fan_vault" title="Fan vault">fan vaulting</a> (1608, restored 1860s) over the nave at <a href="/wiki/Bath_Abbey" title="Bath Abbey">Bath Abbey</a>, <a href="/wiki/Bath,_Somerset" title="Bath, Somerset">Bath</a>, <a href="/wiki/England" title="England">England</a>. Suppression of the <a href="/wiki/Triforium" title="Triforium">triforium</a> offers a greater expanse of <a href="/wiki/Clerestory" title="Clerestory">clerestory</a> windows.</div>
+</div>
+</div>
+<ul>
+<li>Longest nave in <a href="/wiki/Denmark" title="Denmark">Denmark</a>: <a href="/wiki/Aarhus_Cathedral" title="Aarhus Cathedral">Aarhus Cathedral</a>, 93&#160;m (305&#160;ft)</li>
+<li>Longest nave in <a href="/wiki/England" title="England">England</a>: <a href="/wiki/St_Albans_Cathedral" title="St Albans Cathedral">St Albans Cathedral</a>, <a href="/wiki/St_Albans" title="St Albans">St Albans</a>, 84&#160;m (276&#160;ft)</li>
+<li>Longest nave in <a href="/wiki/Ireland" title="Ireland">Ireland</a>: <a href="/wiki/St_Patrick%27s_Cathedral,_Dublin" title="St Patrick's Cathedral, Dublin">St Patrick's Cathedral, Dublin</a>, 91&#160;m (299&#160;ft), externally</li>
+<li>Longest nave in <a href="/wiki/France" title="France">France</a>: <a href="/wiki/Bourges_Cathedral" title="Bourges Cathedral">Bourges Cathedral</a>, 91&#160;m (299&#160;ft), including choir where a crossing would be if there were transepts</li>
+<li>Longest nave in <a href="/wiki/Germany" title="Germany">Germany</a>: <a href="/wiki/Cologne_cathedral" class="mw-redirect" title="Cologne cathedral">Cologne cathedral</a>, 58&#160;m (190&#160;ft), including two bays between the towers</li>
+<li>Longest nave in <a href="/wiki/Italy" title="Italy">Italy</a>: <a href="/wiki/St_Peter%27s_Basilica" class="mw-redirect" title="St Peter's Basilica">St Peter's Basilica</a> in <a href="/wiki/Rome" title="Rome">Rome</a>, 91&#160;m (299&#160;ft), in four bays</li>
+<li>Longest nave in <a href="/wiki/Spain" title="Spain">Spain</a>: <a href="/wiki/Seville" title="Seville">Seville</a>, 60&#160;m (200&#160;ft), in five bays</li>
+<li>Longest nave in the <a href="/wiki/United_States" title="United States">United States</a>: <a href="/wiki/Cathedral_of_Saint_John_the_Divine" title="Cathedral of Saint John the Divine">Cathedral of Saint John the Divine</a>, <a href="/wiki/New_York_City" title="New York City">New York City</a>, United States (Episcopal), 70&#160;m (230&#160;ft)</li>
+<li>Highest vaulted nave: <a href="/wiki/Beauvais_Cathedral" title="Beauvais Cathedral">Beauvais Cathedral</a>, France, 48&#160;m (157&#160;ft), but only one bay of the nave was actually built; however, choir and transepts were completed to the same height.</li>
+<li>Highest completed nave: <a href="/wiki/St._Peter%27s_Basilica" title="St. Peter's Basilica">Rome, St. Peter's</a>, Italy, 46&#160;m (151&#160;ft)</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nave&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Abbey" title="Abbey">Abbey</a>, with architectural discussion and groundplans</li>
+<li><a href="/wiki/Cathedral_architecture" class="mw-redirect" title="Cathedral architecture">Cathedral architecture</a></li>
+<li><a href="/wiki/Cathedral_diagram" class="mw-redirect" title="Cathedral diagram">Cathedral diagram</a></li>
+<li><a href="/wiki/List_of_highest_church_naves" title="List of highest church naves">List of highest church naves</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nave&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia">Stevens Curl, James, ed. (2006). "nave". <i>Oxford Dictionary of Architecture and Landscape Architecture</i> (illustrated ed.). Oxford University Press. p.&#160;518. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780198606789" title="Special:BookSources/9780198606789">9780198606789</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANave&amp;rft.atitle=nave&amp;rft.btitle=Oxford+Dictionary+of+Architecture+and+Landscape+Architecture&amp;rft.date=2006&amp;rft.edition=illustrated&amp;rft.genre=bookitem&amp;rft.isbn=9780198606789&amp;rft.pages=518&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.answers.com/topic/nave">"Nave"</a>. <i><a href="/wiki/Answers.com" title="Answers.com">Answers.com</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">11 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANave&amp;rft.atitle=Nave&amp;rft.genre=unknown&amp;rft.jtitle=Answers.com&amp;rft_id=http%3A%2F%2Fwww.answers.com%2Ftopic%2Fnave&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-newadvent-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-newadvent_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-newadvent_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-newadvent_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation encyclopaedia"><a rel="nofollow" class="external text" href="http://www.newadvent.org/cathen/10724a.htm">"nave"</a>. <i>New Advent Encyclopedia</i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 March</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANave&amp;rft.atitle=nave&amp;rft.btitle=New+Advent+Encyclopedia&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fwww.newadvent.org%2Fcathen%2F10724a.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.jesuswalk.com/christian-symbols/ship.htm">"Ship as a Symbol of the Church (Bark of St. Peter)"</a>. <i>JesusWalk.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">11 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANave&amp;rft.atitle=Ship+as+a+Symbol+of+the+Church+%28Bark+of+St.+Peter%29&amp;rft.genre=unknown&amp;rft.jtitle=JesusWalk.com&amp;rft_id=http%3A%2F%2Fwww.jesuswalk.com%2Fchristian-symbols%2Fship.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.sidneyherald.com/archives/ship-hangs-in-balance-at-pella-evangelical-lutheran-church/article_9485d09f-e314-5f3e-b071-0cf8b2059dd7.html">"Ship hangs in balance at Pella Evangelical Lutheran Church"</a>. <i><a href="/wiki/Sidney_Herald" class="mw-redirect" title="Sidney Herald">Sidney Herald</a></i>. <a href="/wiki/Sidney,_Montana" title="Sidney, Montana">Sidney, Montana</a>. 10 June 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">3 January</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANave&amp;rft.atitle=Ship+hangs+in+balance+at+Pella+Evangelical+Lutheran+Church&amp;rft.date=2008-06-10&amp;rft.genre=unknown&amp;rft.jtitle=Sidney+Herald&amp;rft_id=http%3A%2F%2Fwww.sidneyherald.com%2Farchives%2Fship-hangs-in-balance-at-pella-evangelical-lutheran-church%2Farticle_9485d09f-e314-5f3e-b071-0cf8b2059dd7.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-britannica-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-britannica_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-britannica_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-britannica_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation encyclopaedia"><a rel="nofollow" class="external text" href="http://www.britannica.com/EBchecked/topic/406945/nave">"nave"</a>. <i><a href="/wiki/Encyclop%C3%A6dia_Britannica" title="Encyclopædia Britannica">Encyclopædia Britannica</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">11 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANave&amp;rft.atitle=nave&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fwww.britannica.com%2FEBchecked%2Ftopic%2F406945%2Fnave&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia"><a rel="nofollow" class="external text" href="http://www.britannica.com/EBchecked/topic/509174/rood-screen">"Rood screen"</a>. <i>Encyclopædia Britannica</i><span class="reference-accessdate">. Retrieved <span class="nowrap">11 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANave&amp;rft.atitle=Rood+screen&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fwww.britannica.com%2FEBchecked%2Ftopic%2F509174%2Frood-screen&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<table role="presentation" class="noprint navbox metadata plainlist" style="background-color:#f9f9f9;border:1px solid #aaa;clear:both;margin-bottom:0.5em;margin-top:0.5em">
+<tr>
+<td style="width:175px"><span style="font-size:125%"><b><a href="/wiki/Portal:Contents/Portals" title="Portal:Contents/Portals">Portals</a></b></span><br />
+<span style="font-size:90%">Access related topics</span></td>
+<td style="text-align:left">
+<ul>
+<li style="float:left;margin-left:0.3em;height:3.6em"><span style="display:inline-block;margin-right:0.3em;width:30px;line-height:3.6em;text-align:center"><a href="/wiki/File:P_parthenon.svg" class="image"><img alt="P parthenon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/P_parthenon.svg/30px-P_parthenon.svg.png" width="30" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/P_parthenon.svg/45px-P_parthenon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/P_parthenon.svg/60px-P_parthenon.svg.png 2x" data-file-width="400" data-file-height="360" /></a></span><span style="display:inline-block;width:11em;vertical-align:middle"><i><b><a href="/wiki/Portal:Architecture" title="Portal:Architecture">Architecture portal</a></b></i></span></li>
+<li style="float:left;margin-left:0.3em;height:3.6em"><span style="display:inline-block;margin-right:0.3em;width:30px;line-height:3.6em;text-align:center"><a href="/wiki/File:P_christianity.svg" class="image"><img alt="P christianity.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/P_christianity.svg/30px-P_christianity.svg.png" width="30" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/P_christianity.svg/45px-P_christianity.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/P_christianity.svg/60px-P_christianity.svg.png 2x" data-file-width="400" data-file-height="360" /></a></span><span style="display:inline-block;width:11em;vertical-align:middle"><i><b><a href="/wiki/Portal:Christianity" title="Portal:Christianity">Christianity portal</a></b></i></span></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<hr /></td>
+</tr>
+<tr>
+<td style="width:175px"><span style="font-size:90%">Find out more on Wikipedia's</span><br />
+<span style="font-size:125%"><b><a href="/wiki/Wikipedia:Wikimedia_sister_projects" title="Wikipedia:Wikimedia sister projects">Sister projects</a></b></span></td>
+<td style="text-align:left">
+<ul>
+<li style="float:left;margin-left:0.3em;height:3.6em"><span style="display:inline-block;margin-right:0.3em;width:30px;line-height:3.6em;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/22px-Commons-logo.svg.png" width="22" height="30" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/33px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span><span style="display:inline-block;width:11em;vertical-align:middle"><a href="https://commons.wikimedia.org/wiki/Special:Search/Category:Naves" class="extiw" title="commons:Special:Search/Category:Naves">Media</a><br />
+from Commons</span></li>
+</ul>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1278
+Cached time: 20170921100414
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.196 seconds
+Real time usage: 0.264 seconds
+Preprocessor visited node count: 619/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 18139/2097152 bytes
+Template argument size: 80/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 1/500
+Lua time usage: 0.106/10.000 seconds
+Lua memory usage: 5.63 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  219.263      1 -total
+ 34.49%   75.625      1 Template:Reflist
+ 24.49%   53.708     10 Template:Convert
+ 21.28%   46.650      4 Template:Cite_encyclopedia
+ 12.40%   27.193      1 Template:Refimprove
+ 10.61%   23.257      1 Template:Ambox
+  9.35%   20.498      1 Template:Other_uses
+  6.58%   14.426      1 Template:Subject_bar
+  6.07%   13.319      3 Template:Cite_web
+  4.87%   10.668      1 Template:IPAc-en
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:297040-0!canonical and timestamp 20170921100432 and revision id 801707174
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Nave&amp;oldid=801707174">https://en.wikipedia.org/w/index.php?title=Nave&amp;oldid=801707174</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Church_architecture" title="Category:Church architecture">Church architecture</a></li><li><a href="/wiki/Category:Arches_and_vaults" title="Category:Arches and vaults">Arches and vaults</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_January_2010" title="Category:Articles needing additional references from January 2010">Articles needing additional references from January 2010</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Nave" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Nave" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Nave" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Nave" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Nave">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Nave&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Nave&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Nave" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Nave" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Nave&amp;oldid=801707174" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Nave&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q188714" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Nave&amp;id=801707174" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Nave">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Nave&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DNave%26returnto%3DNave%26oldid%3D801707174%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Nave&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Naves" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B5%D8%AD%D9%86_(%D9%83%D9%86%D9%8A%D8%B3%D8%A9)" title="صحن (كنيسة) – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Nau_(arquitectura)" title="Nau (arquitectura) – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9D%D0%B5%D1%84" title="Неф – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%9D%D1%8D%D1%84" title="Нэф – Belarusian (Taraškievica orthography)" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9D%D0%B5%D1%84" title="Неф – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Nev" title="Nev – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Nau_(arquitectura)" title="Nau (arquitectura) – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Lo%C4%8F_(architektura)" title="Loď (architektura) – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Kirkeskib_(bygningsdel)" title="Kirkeskib (bygningsdel) – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Kirchenschiff" title="Kirchenschiff – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/L%C3%B6%C3%B6v" title="Lööv – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9A%CF%85%CF%81%CE%AF%CF%89%CF%82_%CE%BD%CE%B1%CF%8C%CF%82_(%CE%A7%CF%81%CE%B9%CF%83%CF%84%CE%B9%CE%B1%CE%BD%CE%B9%CE%BA%CF%8C%CF%82)" title="Κυρίως ναός (Χριστιανικός) – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Nave_(arquitectura)" title="Nave (arquitectura) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Navo" title="Navo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Habearte" title="Habearte – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B4%D8%A8%D8%B3%D8%AA%D8%A7%D9%86_(%DA%A9%D9%84%DB%8C%D8%B3%D8%A7)" title="شبستان (کلیسا) – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Nef" title="Nef – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Skip_(tsjerke)" title="Skip (tsjerke) – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Corp_eaglaise" title="Corp eaglaise – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Nave_(arquitectura)" title="Nave (arquitectura) – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%8B%A0%EB%9E%91" title="신랑 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%86%D5%A1%D5%BE_(%D5%B3%D5%A1%D6%80%D5%BF%D5%A1%D6%80%D5%A1%D5%BA%D5%A5%D5%BF%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6)" title="Նավ (ճարտարապետություն) – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Brod_(arhitektura)" title="Brod (arhitektura) – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Navo_(arkitekturo)" title="Navo (arkitekturo) – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Navata" title="Navata – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A1%D7%A4%D7%99%D7%A0%D7%94_(%D7%90%D7%93%D7%A8%D7%99%D7%9B%D7%9C%D7%95%D7%AA)" title="ספינה (אדריכלות) – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Nava" title="Nava – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Sjeep_(boew)" title="Sjeep (boew) – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/F%C5%91haj%C3%B3" title="Főhajó – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Schip_(bouwkunst)" title="Schip (bouwkunst) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E8%BA%AB%E5%BB%8A" title="身廊 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Midtskip" title="Midtskip – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Kyrkjeskip" title="Kyrkjeskip – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Nawa" title="Nawa – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Nave_(arquitetura)" title="Nave (arquitetura) – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Nav%C4%83_(arhitectur%C4%83)" title="Navă (arhitectură) – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D1%84" title="Неф – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Naves" title="Naves – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Nave" title="Nave – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Lo%C4%8F_(architekt%C3%BAra)" title="Loď (architektúra) – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Cerkvena_ladja" title="Cerkvena ladja – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%91%D1%80%D0%BE%D0%B4_(%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)" title="Брод (архитектура) – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Brod_(arhitektura)" title="Brod (arhitektura) – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Laiva_(arkkitehtuuri)" title="Laiva (arkkitehtuuri) – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Skepp_(arkitektur)" title="Skepp (arkitektur) – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B9%80%E0%B8%A7%E0%B8%93%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B9%82%E0%B8%9A%E0%B8%AA%E0%B8%96%E0%B9%8C" title="บริเวณกลางโบสถ์ – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B2%D0%B0_(%D0%B0%D1%80%D1%85%D1%96%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)" title="Нава (архітектура) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vls"><a href="https://vls.wikipedia.org/wiki/Middnbeuke" title="Middnbeuke – West Flemish" lang="vls" hreflang="vls" class="interlanguage-link-target">West-Vlams</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%AE%BF" title="中殿 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q188714#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 21 September 2017, at 10:04.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Nave&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.196","walltime":"0.264","ppvisitednodes":{"value":619,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":18139,"limit":2097152},"templateargumentsize":{"value":80,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  219.263      1 -total"," 34.49%   75.625      1 Template:Reflist"," 24.49%   53.708     10 Template:Convert"," 21.28%   46.650      4 Template:Cite_encyclopedia"," 12.40%   27.193      1 Template:Refimprove"," 10.61%   23.257      1 Template:Ambox","  9.35%   20.498      1 Template:Other_uses","  6.58%   14.426      1 Template:Subject_bar","  6.07%   13.319      3 Template:Cite_web","  4.87%   10.668      1 Template:IPAc-en"]},"scribunto":{"limitreport-timeusage":{"value":"0.106","limit":"10.000"},"limitreport-memusage":{"value":5900971,"limit":52428800}},"cachereport":{"origin":"mw1278","timestamp":"20170921100414","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":59,"wgHostname":"mw1239"});});</script>
+	</body>
+</html>

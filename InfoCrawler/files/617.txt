@@ -1,0 +1,1642 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Nuremberg–Munich high-speed railway - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Nuremberg–Munich_high-speed_railway","wgTitle":"Nuremberg–Munich high-speed railway","wgCurRevisionId":772070440,"wgRevisionId":772070440,"wgArticleId":9466863,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Interlanguage link template link number","High-speed railway lines in Germany","Railway lines in Bavaria","Rail transport in Nuremberg","Ingolstadt","Rail transport in Munich"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Nuremberg–Munich_high-speed_railway","wgRelevantArticleId":9466863,"wgRequestId":"WcYj4wpAAEAAAIQRHkIAAABI","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q705295","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/1/18/SFS_Nuernberg-Muenchen.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Nuremberg%E2%80%93Munich_high-speed_railway"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Nuremberg%E2%80%93Munich_high-speed_railway&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Nuremberg%E2%80%93Munich_high-speed_railway&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Nuremberg%E2%80%93Munich_high-speed_railway"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Nuremberg–Munich_high-speed_railway rootpage-Nuremberg–Munich_high-speed_railway skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Nuremberg–Munich high-speed railway</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="width:22em;width:25em;">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">Nuremberg–Munich high-speed railway</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:SFS_Nuernberg-Muenchen.png" class="image"><img alt="SFS Nuernberg-Muenchen.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/SFS_Nuernberg-Muenchen.png/201px-SFS_Nuernberg-Muenchen.png" width="201" height="271" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/SFS_Nuernberg-Muenchen.png/302px-SFS_Nuernberg-Muenchen.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/SFS_Nuernberg-Muenchen.png/402px-SFS_Nuernberg-Muenchen.png 2x" data-file-width="1122" data-file-height="1515" /></a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #efefef;">Overview</th>
+</tr>
+<tr>
+<th scope="row">Native name</th>
+<td><span class="nickname" lang="de" xml:lang="de">Schnellfahrstrecke Nürnberg–Ingolstadt–München</span></td>
+</tr>
+<tr>
+<th scope="row">Locale</th>
+<td><a href="/wiki/Bavaria" title="Bavaria">Bavaria</a></td>
+</tr>
+<tr>
+<th scope="row">Line number</th>
+<td>New line: 5934; Old line: 5501</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #efefef;">Technical</th>
+</tr>
+<tr>
+<th scope="row">Line length</th>
+<td>170.8 km</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Track_gauge" title="Track gauge">Track gauge</a></th>
+<td><span class="nowrap">1,435&#160;mm</span> (<span class="nowrap">4&#160;ft&#160;<span class="frac">8<span class="visualhide">&#160;</span><sup>1</sup>⁄<sub>2</sub></span>&#160;in</span>)</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Minimum_railway_curve_radius" title="Minimum railway curve radius">Minimum radius</a></th>
+<td>300 km/h section: 4085&#160;m<br />
+Upgraded track: 814 m</td>
+</tr>
+<tr>
+<th scope="row">Operating speed</th>
+<td>300 km/h, upgraded track: 200 km/h</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Grade_(slope)" title="Grade (slope)">Maximum incline</a></th>
+<td>300 km/h section: 20 <a href="/wiki/Permille" class="mw-redirect" title="Permille">‰</a> (300 km/h section)<br />
+Upgraded track: 12.5 <a href="/wiki/Permille" class="mw-redirect" title="Permille">‰</a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;vertical-align: middle; padding: 0">
+<table style="border-spacing: 0; width: 100%; min-width: 100%" class="mw-collapsible uncollapsed">
+<tr style="background-color: #efefef;">
+<th style="text-align:center">
+<div style="margin:0 4em">Route map</div>
+</th>
+</tr>
+<tr>
+<td style="text-align:center; padding-top: 3px">
+<table class="collapsible" style="width: auto; border: 0px !important; padding:0; border-spacing: 0px !important;float:none;width:100%;margin:0;border:none;position:relative;background-color:#f9f9f9;" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<div class="selfreference noprint" style="text-align:right; font-size:90%; padding-right:.5em"><a href="/wiki/Template:Railway_line_legend" title="Template:Railway line legend">Legend</a></div>
+</td>
+</tr>
+<tr>
+<td>
+<table cellpadding="0" cellspacing="0" align="center" width="100%" class="" style="display:table">
+<tr>
+<th style="padding:.2em; text-align:center; vertical-align:middle; color:black; background-color: #eeeeee">&#160;<span style="font-size:110%">Operating points and lines<sup id="cite_ref-Eisenbahnatlas_1-0" class="reference"><a href="#cite_note-Eisenbahnatlas-1">[1]</a></sup></span>&#160;</th>
+</tr>
+<tr>
+<td style="text-align:center;">
+<table cellpadding="0" cellspacing="0" style="background-color:&#160;; line-height: 1.2em; border: none; width: auto; text-align: left; margin:.5em; font-size:110%; white-space:nowrap;">
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_BHF.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/BSicon_BHF.svg/20px-BSicon_BHF.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/BSicon_BHF.svg/30px-BSicon_BHF.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/BSicon_BHF.svg/40px-BSicon_BHF.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">100.6</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><a href="/wiki/Nuremberg_Hauptbahnhof" class="mw-redirect" title="Nuremberg Hauptbahnhof">Nuremberg Hauptbahnhof</a></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_LSTR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/BSicon_LSTR.svg/20px-BSicon_LSTR.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/BSicon_LSTR.svg/30px-BSicon_LSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1f/BSicon_LSTR.svg/40px-BSicon_LSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important"></td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><span style="font-size:90%;padding-left:3px"><i>see <a href="/wiki/Nuremberg%E2%80%93Regensburg_railway" title="Nuremberg–Regensburg railway">Nuremberg–Regensburg railway</a></i></span></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_ABZg%2Br.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/BSicon_ABZg%2Br.svg/20px-BSicon_ABZg%2Br.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/BSicon_ABZg%2Br.svg/30px-BSicon_ABZg%2Br.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/12/BSicon_ABZg%2Br.svg/40px-BSicon_ABZg%2Br.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important"></td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><span style="font-size:90%;padding-left:3px">from <a href="/w/index.php?title=Nuremberg_marshalling_yard&amp;action=edit&amp;redlink=1" class="new" title="Nuremberg marshalling yard (page does not exist)">Nuremberg marshalling yard</a></span></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_DST.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/BSicon_DST.svg/20px-BSicon_DST.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/BSicon_DST.svg/30px-BSicon_DST.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/40/BSicon_DST.svg/40px-BSicon_DST.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="font-size:80%; font-weight:inherit; color:inherit; background-color:transparent; margin-top:-2px; margin-bottom:-2px; display:inline-table; vertical-align:middle; text-align:right;">
+<tr>
+<td style="text-align:inherit;padding:0;line-height:0.9;border-bottom:1px solid gray;font-size:inherit">91.0</td>
+</tr>
+<tr>
+<td style="text-align:inherit;padding:0;line-height:0.9;font-size:inherit">9.6</td>
+</tr>
+</table>
+</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;">Nürnberg <a href="/w/index.php?title=N%C3%BCrnberger_Reichswald&amp;action=edit&amp;redlink=1" class="new" title="Nürnberger Reichswald (page does not exist)">Reichswald</a> junction</td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_ABZgl.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/BSicon_ABZgl.svg/20px-BSicon_ABZgl.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/BSicon_ABZgl.svg/30px-BSicon_ABZgl.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/BSicon_ABZgl.svg/40px-BSicon_ABZgl.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important"></td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><span style="font-size:90%;padding-left:3px"><a href="/wiki/Nuremberg%E2%80%93Regensburg_railway" title="Nuremberg–Regensburg railway">Nuremberg–Regensburg line</a></span></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_KMW.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/BSicon_KMW.svg/20px-BSicon_KMW.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/BSicon_KMW.svg/30px-BSicon_KMW.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/BSicon_KMW.svg/40px-BSicon_KMW.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">9.8</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><span style="font-size:90%;padding-left:3px"><i>Beginning of new line</i></span></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_SBR%C3%9CCKE.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/BSicon_SBR%C3%9CCKE.svg/20px-BSicon_SBR%C3%9CCKE.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/BSicon_SBR%C3%9CCKE.svg/30px-BSicon_SBR%C3%9CCKE.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/BSicon_SBR%C3%9CCKE.svg/40px-BSicon_SBR%C3%9CCKE.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">10.6</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><span style="font-size:90%;padding-left:3px"><a href="/wiki/Bundesautobahn_6" title="Bundesautobahn 6">A6</a></span></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_KRZo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/BSicon_KRZo.svg/20px-BSicon_KRZo.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/BSicon_KRZo.svg/30px-BSicon_KRZo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/BSicon_KRZo.svg/40px-BSicon_KRZo.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">11.2</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><span style="font-size:90%;padding-left:3px">to Regensburg</span></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_WBR%C3%9CCKE.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BSicon_WBR%C3%9CCKE.svg/20px-BSicon_WBR%C3%9CCKE.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BSicon_WBR%C3%9CCKE.svg/30px-BSicon_WBR%C3%9CCKE.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BSicon_WBR%C3%9CCKE.svg/40px-BSicon_WBR%C3%9CCKE.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">15.0</td>
+<td style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><span style="font-size:90%;padding-left:3px"><a href="/w/index.php?title=Schwarzach_viaduct&amp;action=edit&amp;redlink=1" class="new" title="Schwarzach viaduct (page does not exist)">Schwarzach viaduct</a></span></td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px; font-size:90%;&#160;; border: 0px !important;">(104&#160;m)</td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_SBR%C3%9CCKE.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/BSicon_SBR%C3%9CCKE.svg/20px-BSicon_SBR%C3%9CCKE.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/BSicon_SBR%C3%9CCKE.svg/30px-BSicon_SBR%C3%9CCKE.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/BSicon_SBR%C3%9CCKE.svg/40px-BSicon_SBR%C3%9CCKE.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">15.5</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><span style="font-size:90%;padding-left:3px"><a href="/wiki/Bundesautobahn_73" title="Bundesautobahn 73">A73</a> (Nürnberg/Feucht interchange)</span></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_BHF.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/BSicon_BHF.svg/20px-BSicon_BHF.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/BSicon_BHF.svg/30px-BSicon_BHF.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/BSicon_BHF.svg/40px-BSicon_BHF.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">25.4</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><a href="/wiki/Allersberg_(Rothsee)_station" title="Allersberg (Rothsee) station">Allersberg (Rothsee)</a></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_TUNNEL2.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/BSicon_TUNNEL2.svg/20px-BSicon_TUNNEL2.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/BSicon_TUNNEL2.svg/30px-BSicon_TUNNEL2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/BSicon_TUNNEL2.svg/40px-BSicon_TUNNEL2.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">29.0</td>
+<td style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><span style="font-size:90%;padding-left:3px"><a href="/w/index.php?title=G%C3%B6ggelsbuch_tunnel&amp;action=edit&amp;redlink=1" class="new" title="Göggelsbuch tunnel (page does not exist)">Göggelsbuch tunnel</a></span></td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px; font-size:90%;&#160;; border: 0px !important;">(2287&#160;m)</td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_WBR%C3%9CCKE.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BSicon_WBR%C3%9CCKE.svg/20px-BSicon_WBR%C3%9CCKE.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BSicon_WBR%C3%9CCKE.svg/30px-BSicon_WBR%C3%9CCKE.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BSicon_WBR%C3%9CCKE.svg/40px-BSicon_WBR%C3%9CCKE.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">33.6</td>
+<td style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><span style="font-size:90%;padding-left:3px"><a href="/wiki/Rhine%E2%80%93Main%E2%80%93Danube_Canal" title="Rhine–Main–Danube Canal">Main-Danube Canal</a></span></td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px; font-size:90%;&#160;; border: 0px !important;">(141&#160;m)</td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_TUNNEL2.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/BSicon_TUNNEL2.svg/20px-BSicon_TUNNEL2.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/BSicon_TUNNEL2.svg/30px-BSicon_TUNNEL2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/BSicon_TUNNEL2.svg/40px-BSicon_TUNNEL2.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">40.5</td>
+<td style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><span style="font-size:90%;padding-left:3px"><a href="/w/index.php?title=Offenbau_tunnel&amp;action=edit&amp;redlink=1" class="new" title="Offenbau tunnel (page does not exist)">Offenbau tunnel</a></span></td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px; font-size:90%;&#160;; border: 0px !important;">(1333&#160;m)</td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_BST.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/BSicon_BST.svg/20px-BSicon_BST.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/BSicon_BST.svg/30px-BSicon_BST.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/BSicon_BST.svg/40px-BSicon_BST.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">42.4</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;">Lohen signal box</td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_SBR%C3%9CCKE.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/BSicon_SBR%C3%9CCKE.svg/20px-BSicon_SBR%C3%9CCKE.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/BSicon_SBR%C3%9CCKE.svg/30px-BSicon_SBR%C3%9CCKE.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/BSicon_SBR%C3%9CCKE.svg/40px-BSicon_SBR%C3%9CCKE.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">47.2</td>
+<td style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><span style="font-size:90%;padding-left:3px"><a href="/wiki/Landesstra%C3%9Fe" title="Landesstraße">Staatsstraße</a> 2227 near Großhöbing</span></td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px; font-size:90%;&#160;; border: 0px !important;">(305&#160;m)</td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_TUNNEL2.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/BSicon_TUNNEL2.svg/20px-BSicon_TUNNEL2.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/BSicon_TUNNEL2.svg/30px-BSicon_TUNNEL2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/BSicon_TUNNEL2.svg/40px-BSicon_TUNNEL2.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">49.1</td>
+<td style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><span style="font-size:90%;padding-left:3px"><a href="/w/index.php?title=Euerwang_tunnel&amp;action=edit&amp;redlink=1" class="new" title="Euerwang tunnel (page does not exist)">Euerwang tunnel</a></span></td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px; font-size:90%;&#160;; border: 0px !important;">(7700 m)</td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_WBR%C3%9CCKE.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BSicon_WBR%C3%9CCKE.svg/20px-BSicon_WBR%C3%9CCKE.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BSicon_WBR%C3%9CCKE.svg/30px-BSicon_WBR%C3%9CCKE.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BSicon_WBR%C3%9CCKE.svg/40px-BSicon_WBR%C3%9CCKE.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">57.7</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><span style="font-size:90%;padding-left:3px"><a href="/wiki/Anlauter" title="Anlauter">Anlauter</a></span></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_TUNNEL2.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/BSicon_TUNNEL2.svg/20px-BSicon_TUNNEL2.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/BSicon_TUNNEL2.svg/30px-BSicon_TUNNEL2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/BSicon_TUNNEL2.svg/40px-BSicon_TUNNEL2.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">57.8</td>
+<td style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><span style="font-size:90%;padding-left:3px"><a href="/w/index.php?title=Schellenberg_tunnel&amp;action=edit&amp;redlink=1" class="new" title="Schellenberg tunnel (page does not exist)">Schellenberg tunnel</a></span></td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px; font-size:90%;&#160;; border: 0px !important;">(650 m)</td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_BHF.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/BSicon_BHF.svg/20px-BSicon_BHF.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/BSicon_BHF.svg/30px-BSicon_BHF.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/BSicon_BHF.svg/40px-BSicon_BHF.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">58.6</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><a href="/wiki/Kinding_(Altm%C3%BChltal)_station" title="Kinding (Altmühltal) station">Kinding (Altmühltal)</a></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_WBR%C3%9CCKE.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BSicon_WBR%C3%9CCKE.svg/20px-BSicon_WBR%C3%9CCKE.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BSicon_WBR%C3%9CCKE.svg/30px-BSicon_WBR%C3%9CCKE.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BSicon_WBR%C3%9CCKE.svg/40px-BSicon_WBR%C3%9CCKE.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">59.4</td>
+<td style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><span style="font-size:90%;padding-left:3px"><a href="/wiki/Altm%C3%BChl" title="Altmühl">Altmühl</a></span></td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px; font-size:90%;&#160;; border: 0px !important;">(79&#160;m)</td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_TUNNEL2.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/BSicon_TUNNEL2.svg/20px-BSicon_TUNNEL2.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/BSicon_TUNNEL2.svg/30px-BSicon_TUNNEL2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/BSicon_TUNNEL2.svg/40px-BSicon_TUNNEL2.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">59.6</td>
+<td style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><span style="font-size:90%;padding-left:3px"><a href="/w/index.php?title=Irlah%C3%BCll_tunnel&amp;action=edit&amp;redlink=1" class="new" title="Irlahüll tunnel (page does not exist)">Irlahüll tunnel</a></span></td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px; font-size:90%;&#160;; border: 0px !important;">(7260 m)</td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_TUNNEL2.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/BSicon_TUNNEL2.svg/20px-BSicon_TUNNEL2.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/BSicon_TUNNEL2.svg/30px-BSicon_TUNNEL2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/BSicon_TUNNEL2.svg/40px-BSicon_TUNNEL2.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">67.6</td>
+<td style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><span style="font-size:90%;padding-left:3px"><a href="/w/index.php?title=Denkendorf_tunnel&amp;action=edit&amp;redlink=1" class="new" title="Denkendorf tunnel (page does not exist)">Denkendorf tunnel</a></span></td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px; font-size:90%;&#160;; border: 0px !important;">(1925 m)</td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_TUNNEL2.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/BSicon_TUNNEL2.svg/20px-BSicon_TUNNEL2.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/BSicon_TUNNEL2.svg/30px-BSicon_TUNNEL2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/BSicon_TUNNEL2.svg/40px-BSicon_TUNNEL2.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">76.0</td>
+<td style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><span style="font-size:90%;padding-left:3px"><a href="/w/index.php?title=Stammham_tunnel&amp;action=edit&amp;redlink=1" class="new" title="Stammham tunnel (page does not exist)">Stammham tunnel</a></span></td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px; font-size:90%;&#160;; border: 0px !important;">(1320 m)</td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_TUNNEL2.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/BSicon_TUNNEL2.svg/20px-BSicon_TUNNEL2.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/BSicon_TUNNEL2.svg/30px-BSicon_TUNNEL2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/BSicon_TUNNEL2.svg/40px-BSicon_TUNNEL2.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">78.1</td>
+<td style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><span style="font-size:90%;padding-left:3px"><a href="/w/index.php?title=Geisberg_tunnel&amp;action=edit&amp;redlink=1" class="new" title="Geisberg tunnel (page does not exist)">Geisberg tunnel</a></span></td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px; font-size:90%;&#160;; border: 0px !important;">(3289 m)</td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_TUNNEL2.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/BSicon_TUNNEL2.svg/20px-BSicon_TUNNEL2.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/BSicon_TUNNEL2.svg/30px-BSicon_TUNNEL2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/BSicon_TUNNEL2.svg/40px-BSicon_TUNNEL2.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">85.0</td>
+<td style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><span style="font-size:90%;padding-left:3px"><a href="/wiki/Audi_Tunnel" title="Audi Tunnel">Audi Tunnel</a></span></td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px; font-size:90%;&#160;; border: 0px !important;">(1258 m)</td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_BHF.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/BSicon_BHF.svg/20px-BSicon_BHF.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/BSicon_BHF.svg/30px-BSicon_BHF.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/BSicon_BHF.svg/40px-BSicon_BHF.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">86.8</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><a href="/wiki/Ingolstadt_Nord_station" title="Ingolstadt Nord station">Ingolstadt Nord</a><span style="font-size:90%;padding-left:3px">End of new line</span></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_KMW.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/BSicon_KMW.svg/20px-BSicon_KMW.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/BSicon_KMW.svg/30px-BSicon_KMW.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/BSicon_KMW.svg/40px-BSicon_KMW.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="font-size:80%; font-weight:inherit; color:inherit; background-color:transparent; margin-top:-2px; margin-bottom:-2px; display:inline-table; vertical-align:middle; text-align:right;">
+<tr>
+<td style="text-align:inherit;padding:0;line-height:0.9;border-bottom:1px solid gray;font-size:inherit">87.0</td>
+</tr>
+<tr>
+<td style="text-align:inherit;padding:0;line-height:0.9;font-size:inherit">84.3</td>
+</tr>
+</table>
+</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;">
+<table cellspacing="0" cellpadding="0" style="font-size:80%; font-weight:inherit; color:inherit; background-color:transparent; margin-top:-2px; margin-bottom:-2px; display:inline-table; vertical-align:middle; text-align:inherit;">
+<tr>
+<td style="text-align:inherit;padding:0;line-height:0.9;font-size:inherit"><big>interweaving of <a href="/wiki/Ingolstadt%E2%80%93Treuchtlingen_railway" title="Ingolstadt–Treuchtlingen railway">Treuchtlingen–Munich line</a></big></td>
+</tr>
+<tr>
+<td style="text-align:inherit;padding:0;line-height:0.9;font-size:inherit">(3 tracks)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_ABZg%2Br.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/BSicon_ABZg%2Br.svg/20px-BSicon_ABZg%2Br.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/BSicon_ABZg%2Br.svg/30px-BSicon_ABZg%2Br.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/12/BSicon_ABZg%2Br.svg/40px-BSicon_ABZg%2Br.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">84.3</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><span style="font-size:90%;padding-left:3px">from <a href="/wiki/Treuchtlingen" title="Treuchtlingen">Treuchtlingen</a></span></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_WBR%C3%9CCKE.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BSicon_WBR%C3%9CCKE.svg/20px-BSicon_WBR%C3%9CCKE.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BSicon_WBR%C3%9CCKE.svg/30px-BSicon_WBR%C3%9CCKE.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BSicon_WBR%C3%9CCKE.svg/40px-BSicon_WBR%C3%9CCKE.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">83.4</td>
+<td style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><span style="font-size:90%;padding-left:3px"><a href="/w/index.php?title=Ingolstadt_railway_bridge&amp;action=edit&amp;redlink=1" class="new" title="Ingolstadt railway bridge (page does not exist)">Ingolstadt railway bridge</a> over the <a href="/wiki/Danube" title="Danube">Danube</a></span></td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px; font-size:90%;&#160;; border: 0px !important;">(184&#160;m)</td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_BHF.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/BSicon_BHF.svg/20px-BSicon_BHF.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/BSicon_BHF.svg/30px-BSicon_BHF.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/BSicon_BHF.svg/40px-BSicon_BHF.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">81.0</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><a href="/wiki/Ingolstadt_Hauptbahnhof" title="Ingolstadt Hauptbahnhof">Ingolstadt Hauptbahnhof</a></td>
+</tr>
+<tr>
+<td colspan="4">
+<hr /></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important"></td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><span style="font-size:90%;padding-left:3px">Beginning of upgraded line</span></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_KRZu.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/BSicon_KRZu.svg/20px-BSicon_KRZu.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/BSicon_KRZu.svg/30px-BSicon_KRZu.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/BSicon_KRZu.svg/40px-BSicon_KRZu.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">78.4</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><span style="font-size:90%;padding-left:3px"><a href="/wiki/Paar_Valley_Railway" title="Paar Valley Railway">Paar Valley Railway</a> (track towards Ingolstadt)</span></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_eHST.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/BSicon_eHST.svg/20px-BSicon_eHST.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/BSicon_eHST.svg/30px-BSicon_eHST.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/BSicon_eHST.svg/40px-BSicon_eHST.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">77.1</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;">Oberstimm</td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_ABZg%2Bl.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/BSicon_ABZg%2Bl.svg/20px-BSicon_ABZg%2Bl.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/BSicon_ABZg%2Bl.svg/30px-BSicon_ABZg%2Bl.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/BSicon_ABZg%2Bl.svg/40px-BSicon_ABZg%2Bl.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">74.4</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><span style="font-size:90%;padding-left:3px">Ebenhausen factory siding</span></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_BHF.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/BSicon_BHF.svg/20px-BSicon_BHF.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/BSicon_BHF.svg/30px-BSicon_BHF.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/BSicon_BHF.svg/40px-BSicon_BHF.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">72.4</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><a href="/wiki/Reichertshofen" title="Reichertshofen">Reichertshofen (Oberbayern)</a></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_WBR%C3%9CCKE.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BSicon_WBR%C3%9CCKE.svg/20px-BSicon_WBR%C3%9CCKE.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BSicon_WBR%C3%9CCKE.svg/30px-BSicon_WBR%C3%9CCKE.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BSicon_WBR%C3%9CCKE.svg/40px-BSicon_WBR%C3%9CCKE.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">71.0</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><span style="font-size:90%;padding-left:3px"><a href="/wiki/Paar" title="Paar">Paar</a></span></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_SBR%C3%9CCKE.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/BSicon_SBR%C3%9CCKE.svg/20px-BSicon_SBR%C3%9CCKE.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/BSicon_SBR%C3%9CCKE.svg/30px-BSicon_SBR%C3%9CCKE.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/BSicon_SBR%C3%9CCKE.svg/40px-BSicon_SBR%C3%9CCKE.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">67.8</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><span style="font-size:90%;padding-left:3px"><a href="/wiki/Bundesautobahn_9" title="Bundesautobahn 9">A9</a></span></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_eHST.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/BSicon_eHST.svg/20px-BSicon_eHST.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/BSicon_eHST.svg/30px-BSicon_eHST.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/BSicon_eHST.svg/40px-BSicon_eHST.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">66.4</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;">Hög</td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_WBR%C3%9CCKE.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BSicon_WBR%C3%9CCKE.svg/20px-BSicon_WBR%C3%9CCKE.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BSicon_WBR%C3%9CCKE.svg/30px-BSicon_WBR%C3%9CCKE.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BSicon_WBR%C3%9CCKE.svg/40px-BSicon_WBR%C3%9CCKE.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important"></td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><span style="font-size:90%;padding-left:3px"><a href="/wiki/Ilm_(Bavaria)" title="Ilm (Bavaria)">Ilm</a></span></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_ABZg%2Bl.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/BSicon_ABZg%2Bl.svg/20px-BSicon_ABZg%2Bl.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/BSicon_ABZg%2Bl.svg/30px-BSicon_ABZg%2Bl.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/BSicon_ABZg%2Bl.svg/40px-BSicon_ABZg%2Bl.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">60.6</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><span style="font-size:90%;padding-left:3px">to <a href="/w/index.php?title=Hallertauer_Local_Railway&amp;action=edit&amp;redlink=1" class="new" title="Hallertauer Local Railway (page does not exist)">Wolnzach Markt</a> (freight only)</span></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_BHF.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/BSicon_BHF.svg/20px-BSicon_BHF.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/BSicon_BHF.svg/30px-BSicon_BHF.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/BSicon_BHF.svg/40px-BSicon_BHF.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">60.2</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><a href="/wiki/Rohrbach_(Oberbayern)" class="mw-redirect" title="Rohrbach (Oberbayern)">Rohrbach (Ilm)</a><span style="font-size:90%;padding-left:3px">four tracks (outside tracks)</span></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_SBR%C3%9CCKE.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/BSicon_SBR%C3%9CCKE.svg/20px-BSicon_SBR%C3%9CCKE.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/BSicon_SBR%C3%9CCKE.svg/30px-BSicon_SBR%C3%9CCKE.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/BSicon_SBR%C3%9CCKE.svg/40px-BSicon_SBR%C3%9CCKE.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">58.4</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><span style="font-size:90%;padding-left:3px">A9</span></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_eHST.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/BSicon_eHST.svg/20px-BSicon_eHST.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/BSicon_eHST.svg/30px-BSicon_eHST.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/BSicon_eHST.svg/40px-BSicon_eHST.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">55</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;">Walkersbach</td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_%C3%9CST.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/BSicon_%C3%9CST.svg/20px-BSicon_%C3%9CST.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/BSicon_%C3%9CST.svg/30px-BSicon_%C3%9CST.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/BSicon_%C3%9CST.svg/40px-BSicon_%C3%9CST.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">54.6</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><a href="/wiki/%C3%9Cberleitstelle" class="mw-redirect" title="Überleitstelle">Üst</a> Uttenhofen (crossover)</td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_BHF.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/BSicon_BHF.svg/20px-BSicon_BHF.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/BSicon_BHF.svg/30px-BSicon_BHF.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/BSicon_BHF.svg/40px-BSicon_BHF.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">49.7</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><a href="/wiki/Pfaffenhofen_an_der_Ilm" title="Pfaffenhofen an der Ilm">Pfaffenhofen (Ilm)</a><span style="font-size:90%;padding-left:3px">three tracks plus sidings</span></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_BHF.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/BSicon_BHF.svg/20px-BSicon_BHF.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/BSicon_BHF.svg/30px-BSicon_BHF.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/BSicon_BHF.svg/40px-BSicon_BHF.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">43.8</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><a href="/wiki/Reichertshausen" title="Reichertshausen">Reichertshausen (Ilm)</a><span style="font-size:90%;padding-left:3px">4 tracks (outside platforms)</span></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_HST.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/BSicon_HST.svg/20px-BSicon_HST.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/BSicon_HST.svg/30px-BSicon_HST.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/BSicon_HST.svg/40px-BSicon_HST.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">40.2</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><a href="/wiki/Reichertshausen" title="Reichertshausen">Paindorf</a></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_S%2BBHF.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BSicon_S%2BBHF.svg/20px-BSicon_S%2BBHF.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BSicon_S%2BBHF.svg/30px-BSicon_S%2BBHF.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BSicon_S%2BBHF.svg/40px-BSicon_S%2BBHF.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">36.4</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><a href="/wiki/Petershausen" title="Petershausen">Petershausen (Oberbayern)</a><span style="font-size:90%;padding-left:3px"><a href="/wiki/S2_(Munich)" title="S2"><img alt="S2" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/M%C3%BCnchen_S2.svg/28px-M%C3%BCnchen_S2.svg.png" width="28" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/M%C3%BCnchen_S2.svg/42px-M%C3%BCnchen_S2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/M%C3%BCnchen_S2.svg/55px-M%C3%BCnchen_S2.svg.png 2x" data-file-width="1060" data-file-height="465" /></a> terminus</span></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_WBR%C3%9CCKE.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BSicon_WBR%C3%9CCKE.svg/20px-BSicon_WBR%C3%9CCKE.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BSicon_WBR%C3%9CCKE.svg/30px-BSicon_WBR%C3%9CCKE.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BSicon_WBR%C3%9CCKE.svg/40px-BSicon_WBR%C3%9CCKE.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">34.8</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><span style="font-size:90%;padding-left:3px"><a href="/wiki/Glonn_(Amper)" title="Glonn (Amper)">Glonn</a></span></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_SHST.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/BSicon_SHST.svg/20px-BSicon_SHST.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/BSicon_SHST.svg/30px-BSicon_SHST.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/BSicon_SHST.svg/40px-BSicon_SHST.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">30.3</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><a href="/wiki/Vierkirchen" title="Vierkirchen">Vierkirchen</a>-Esterhofen</td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_SHST.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/BSicon_SHST.svg/20px-BSicon_SHST.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/BSicon_SHST.svg/30px-BSicon_SHST.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/BSicon_SHST.svg/40px-BSicon_SHST.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">27.1</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><a href="/wiki/R%C3%B6hrmoos" title="Röhrmoos">Röhrmoos</a><span style="font-size:90%;padding-left:3px">three tracks</span></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_BR%C3%9CCKE2.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/BSicon_BR%C3%9CCKE2.svg/20px-BSicon_BR%C3%9CCKE2.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/BSicon_BR%C3%9CCKE2.svg/30px-BSicon_BR%C3%9CCKE2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/BSicon_BR%C3%9CCKE2.svg/40px-BSicon_BR%C3%9CCKE2.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">24.1</td>
+<td style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><span style="font-size:90%;padding-left:3px">Viaduct near Reipertshofen</span></td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px; font-size:90%;&#160;; border: 0px !important;">(141&#160;m)</td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_SHST.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/BSicon_SHST.svg/20px-BSicon_SHST.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/BSicon_SHST.svg/30px-BSicon_SHST.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/BSicon_SHST.svg/40px-BSicon_SHST.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">22.1</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><a href="/wiki/Hebertshausen" title="Hebertshausen">Hebertshausen</a></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_ABZg%2Br.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/BSicon_ABZg%2Br.svg/20px-BSicon_ABZg%2Br.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/BSicon_ABZg%2Br.svg/30px-BSicon_ABZg%2Br.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/12/BSicon_ABZg%2Br.svg/40px-BSicon_ABZg%2Br.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important"></td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><a href="/wiki/Dachau%E2%80%93Altom%C3%BCnster_railway" title="Dachau–Altomünster railway">to Altomünster</a><span style="font-size:90%;padding-left:3px"><a href="/wiki/S2_(Munich)" title="S2"><img alt="S2" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/M%C3%BCnchen_S2.svg/28px-M%C3%BCnchen_S2.svg.png" width="28" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/M%C3%BCnchen_S2.svg/42px-M%C3%BCnchen_S2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/M%C3%BCnchen_S2.svg/55px-M%C3%BCnchen_S2.svg.png 2x" data-file-width="1060" data-file-height="465" /></a></span></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_WBR%C3%9CCKE.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BSicon_WBR%C3%9CCKE.svg/20px-BSicon_WBR%C3%9CCKE.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BSicon_WBR%C3%9CCKE.svg/30px-BSicon_WBR%C3%9CCKE.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BSicon_WBR%C3%9CCKE.svg/40px-BSicon_WBR%C3%9CCKE.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important"></td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><span style="font-size:90%;padding-left:3px"><a href="/wiki/Amper" title="Amper">Amper</a></span></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_S%2BBHF.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BSicon_S%2BBHF.svg/20px-BSicon_S%2BBHF.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BSicon_S%2BBHF.svg/30px-BSicon_S%2BBHF.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BSicon_S%2BBHF.svg/40px-BSicon_S%2BBHF.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">17.8</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><a href="/wiki/Dachau_station" title="Dachau station">Dachau</a><span style="font-size:90%;padding-left:3px">four tracks (outside tracks)</span></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_SHST.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/BSicon_SHST.svg/20px-BSicon_SHST.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/BSicon_SHST.svg/30px-BSicon_SHST.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/BSicon_SHST.svg/40px-BSicon_SHST.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">14.2</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;">München-Karlsfeld<span style="font-size:90%;padding-left:3px">four tracks</span></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_ABZgl.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/BSicon_ABZgl.svg/20px-BSicon_ABZgl.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/BSicon_ABZgl.svg/30px-BSicon_ABZgl.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/BSicon_ABZgl.svg/40px-BSicon_ABZgl.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">13.6</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;">
+<table cellspacing="0" cellpadding="0" style="font-size:80%; font-weight:inherit; color:inherit; background-color:transparent; margin-top:-2px; margin-bottom:-2px; display:inline-table; vertical-align:middle; text-align:inherit;">
+<tr>
+<td style="text-align:inherit;padding:0;line-height:0.9;font-size:inherit"><big><a href="/wiki/Munich_North_Ring" title="Munich North Ring">North Ring</a></big></td>
+</tr>
+<tr>
+<td style="text-align:inherit;padding:0;line-height:0.9;font-size:inherit">to <a href="/w/index.php?title=Munich_North_marshalling_yard&amp;action=edit&amp;redlink=1" class="new" title="Munich North marshalling yard (page does not exist)">Munich North marshalling yard</a> (double track)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_SHST.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/BSicon_SHST.svg/20px-BSicon_SHST.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/BSicon_SHST.svg/30px-BSicon_SHST.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/BSicon_SHST.svg/40px-BSicon_SHST.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">10.4</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;">München-Allach<span style="font-size:90%;padding-left:3px">four tracks</span></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_SHST.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/BSicon_SHST.svg/20px-BSicon_SHST.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/BSicon_SHST.svg/30px-BSicon_SHST.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/BSicon_SHST.svg/40px-BSicon_SHST.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">9.0</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;">München-Untermenzing</td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_SHST.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/BSicon_SHST.svg/20px-BSicon_SHST.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/BSicon_SHST.svg/30px-BSicon_SHST.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/BSicon_SHST.svg/40px-BSicon_SHST.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">7.5</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;">München-Obermenzing</td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_ABZg%2Bl.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/BSicon_ABZg%2Bl.svg/20px-BSicon_ABZg%2Bl.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/BSicon_ABZg%2Bl.svg/30px-BSicon_ABZg%2Bl.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/BSicon_ABZg%2Bl.svg/40px-BSicon_ABZg%2Bl.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">5.3</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><span style="font-size:90%;padding-left:3px">Kanal junction to <a href="/wiki/Munich%E2%80%93Regensburg_railway" title="Munich–Regensburg railway">Munich–Regensburg railway</a></span></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_S%2BBHF.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BSicon_S%2BBHF.svg/20px-BSicon_S%2BBHF.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BSicon_S%2BBHF.svg/30px-BSicon_S%2BBHF.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BSicon_S%2BBHF.svg/40px-BSicon_S%2BBHF.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">0.0</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><a href="/wiki/Munich_Hauptbahnhof" class="mw-redirect" title="Munich Hauptbahnhof">Munich Hauptbahnhof</a></td>
+</tr>
+<tr>
+<td style="padding:0;&#160;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+<tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;">
+<div style="position: relative;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important"></td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><span style="font-size:90%;padding-left:3px"><a href="/wiki/Trunk_line_(Munich_S-Bahn)" class="mw-redirect" title="Trunk line (Munich S-Bahn)">S-Bahn trunk line</a></span></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Irlahuell_tunnel_south_portal.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Irlahuell_tunnel_south_portal.jpg/220px-Irlahuell_tunnel_south_portal.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Irlahuell_tunnel_south_portal.jpg/330px-Irlahuell_tunnel_south_portal.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Irlahuell_tunnel_south_portal.jpg/440px-Irlahuell_tunnel_south_portal.jpg 2x" data-file-width="2272" data-file-height="1704" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Irlahuell_tunnel_south_portal.jpg" class="internal" title="Enlarge"></a></div>
+The Irlahülltunnel (7,260&#160;m or 23,819&#160;ft) is one of the longest and steepest (20 <a href="/wiki/Permille" class="mw-redirect" title="Permille">permille</a>) rail tunnels in Germany</div>
+</div>
+</div>
+<p>The <b>Nuremberg–Munich high-speed railway line</b> is a <a href="/wiki/Germany" title="Germany">German</a> high-speed <a href="/wiki/Railway" class="mw-redirect" title="Railway">railway</a> 171&#160;km (106&#160;mi) in length. It links the two largest cities in <a href="/wiki/Bavaria" title="Bavaria">Bavaria</a>, <a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a> and <a href="/wiki/Munich" title="Munich">Munich</a>.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:NIM_Baustelle2001_Leidorf_Koeschinger_Forst.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/NIM_Baustelle2001_Leidorf_Koeschinger_Forst.jpg/220px-NIM_Baustelle2001_Leidorf_Koeschinger_Forst.jpg" width="220" height="330" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/NIM_Baustelle2001_Leidorf_Koeschinger_Forst.jpg/330px-NIM_Baustelle2001_Leidorf_Koeschinger_Forst.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/NIM_Baustelle2001_Leidorf_Koeschinger_Forst.jpg/440px-NIM_Baustelle2001_Leidorf_Koeschinger_Forst.jpg 2x" data-file-width="1575" data-file-height="2362" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:NIM_Baustelle2001_Leidorf_Koeschinger_Forst.jpg" class="internal" title="Enlarge"></a></div>
+Construction of the route had a large environmental impact; shown: <i>Kösching Forest</i> near Ingolstadt in 2001.</div>
+</div>
+</div>
+<p>The northern section, between Nuremberg and <a href="/wiki/Ingolstadt" title="Ingolstadt">Ingolstadt</a>, is a new 300&#160;km/h (186&#160;mph) track built from scratch between 1998 and 2006. It is 90.1&#160;km (56.0&#160;mi) in length with nine tunnels (total length: 27&#160;km or 17&#160;mi). In order to minimize damage to the environment, it runs for the most part right next to <a href="/wiki/Bundesautobahn_9" title="Bundesautobahn 9">Bundesautobahn 9</a>.</p>
+<p>The southern section, between <a href="/wiki/Ingolstadt" title="Ingolstadt">Ingolstadt</a> and Munich, is 19th-century track. Its southern section has been upgraded for up to 200&#160;km/h (124&#160;mph). Between 2010 and 2013, further upgrades to the midsection of the track will be done. The minimum speed on the Munich-Ingolstadt section should then be 160&#160;km/h (99&#160;mph), with 190&#160;km/h (118&#160;mph) in the middle and 200&#160;km/h in the southern section.</p>
+<p>Both long-distance and regional services operate on the line. <a href="/wiki/InterCityExpress" class="mw-redirect" title="InterCityExpress">InterCityExpress</a> trains reach the tracks' 300&#160;km/h speed-limit. <a href="/wiki/Intercity_(Deutsche_Bahn)" title="Intercity (Deutsche Bahn)">InterCity</a> and <a href="/wiki/RegionalExpress" class="mw-redirect" title="RegionalExpress">RegionalExpress</a> trains travel at a maximum speed of 200&#160;km/h. The <a href="/wiki/Allersberg-Express" title="Allersberg-Express">Allersberg-Express</a>, a <a href="/wiki/RegionalBahn" class="mw-redirect" title="RegionalBahn">RegionalBahn</a> shuttle service, is operated between <a href="/wiki/Allersberg" title="Allersberg">Allersberg</a> and Nuremberg.</p>
+<p>The line was officially inaugurated on May 13, 2006. Limited operation with a twice-hourly long-distance service started on May 28, 2006. The line has been in full operation since December 2006. Compared to the former track via <a href="/wiki/Augsburg" title="Augsburg">Augsburg</a>, it cut off 29&#160;km (18&#160;mi), or about 30 minutes journey time on long-distance and an hour on regional trains.</p>
+<p>Most of the track is equipped with <a href="/wiki/Linienzugbeeinflussung" title="Linienzugbeeinflussung">Linienzugbeeinflussung</a> and <a href="/wiki/GSM-R" title="GSM-R">GSM-R</a>. <a href="/wiki/European_Train_Control_System" title="European Train Control System">ETCS</a> was planned to be introduced in 2009, although this seems to be delayed until at least 2017. The total costs (as of January 2006) were about <a href="/wiki/Euro" title="Euro">€</a> 3.6 billion.</p>
+<p>The line is part of the <a href="/wiki/Berlin%E2%80%93Palermo_railway_axis" title="Berlin–Palermo railway axis">Line 1</a> of <a href="/wiki/Trans-European_Transport_Networks" title="Trans-European Transport Networks">Trans-European Transport Networks</a> (TEN-T).</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg%E2%80%93Munich_high-speed_railway&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Munich–Ingolstadt line was opened in 1867 and was extended to <a href="/wiki/Treuchtlingen" title="Treuchtlingen">Treuchtlingen</a> as the <a href="/wiki/Ingolstadt%E2%80%93Treuchtlingen_railway" title="Ingolstadt–Treuchtlingen railway">Ingolstadt–Treuchtlingen line</a> in 1870.</p>
+<p>The first proposal for a high-speed line dates back to 1983, when the Nuremberg section of <a href="/wiki/Deutsche_Bundesbahn" title="Deutsche Bundesbahn">Deutsche Bundesbahn</a> proposed a more direct line between Nuremberg and Munich. The project was added to the 1985 federal traffic infrastructure plan. The following years were marked by heated debate on the route of the line, in particular if it should run via <a href="/wiki/Ingolstadt" title="Ingolstadt">Ingolstadt</a> or <a href="/wiki/Augsburg" title="Augsburg">Augsburg</a>. While the Ingolstadt line is much more direct (171&#160;km or 106&#160;mi) than the existing Augsburg route (199&#160;km or 124&#160;mi), the metropolitan area of Augsburg is considered much larger than Ingolstadt's. Apart from concerns that fewer long-distance trains would run via (and stop at) Augsburg, there were also concerns about the environmental effects of the 75&#160;km (47&#160;mi) of track that had to be built from scratch. Large-scale construction began in 1998, when numerous disputes had finally been settled and the total cost was estimated to be <a href="/wiki/Euro" title="Euro">€</a> 2.3 billion. The <a href="/wiki/Euro" title="Euro">€</a> 1.3 billion cost increase arose from numerous geological problems found during construction and additional works required to meet environmental and security concerns.</p>
+<p>On September 2, 2006, <a href="/wiki/%C3%96sterreichische_Bundesbahnen" class="mw-redirect" title="Österreichische Bundesbahnen">ÖBB</a> locomotive 1216 050 (a <a href="/wiki/Siemens_Eurosprinter" class="mw-redirect" title="Siemens Eurosprinter">Siemens Eurosprinter</a>) set a new world record for locomotives with a top speed of 357&#160;km/h (222&#160;mph); reached near <a href="/wiki/Hilpoltstein" title="Hilpoltstein">Hilpoltstein</a>.</p>
+<table style="background:transparent;margin-top:0.5em">
+<tr>
+<th style="text-align:center;font-weight:bold">Trains running on the Nuremberg–Munich high-speed railway</th>
+</tr>
+<tr>
+<td>
+<table style="width:200px;float:left;border-collapse:collapse;margin:3px">
+<tr>
+<td style="height:200px;border:1px solid #CCCCCC;background-color:#F8F8F8;padding:0px;text-align:center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:ICE1_Schellenberg.jpg" class="image" title="An ICE 1 at 250&#160;km/h (155&#160;mph) near Kinding."><img alt="An ICE 1 at 250 km/h near Kinding." src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/ICE1_Schellenberg.jpg/180px-ICE1_Schellenberg.jpg" width="180" height="120" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/ICE1_Schellenberg.jpg/270px-ICE1_Schellenberg.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/ICE1_Schellenberg.jpg/360px-ICE1_Schellenberg.jpg 2x" data-file-width="1000" data-file-height="667" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="display:block;font-size:1em;padding:0px">
+<div class="gallerytext" style="min-height:6.1em;width:187px;line-height:1.3em;padding:2px 6px 1px 6px;margin:0px;border:none;border-width:0px">An <a href="/wiki/ICE_1" title="ICE 1">ICE 1</a> at 250&#160;km/h (155&#160;mph) near Kinding.&#160;</div>
+</td>
+</tr>
+</table>
+<table style="width:200px;float:left;border-collapse:collapse;margin:3px">
+<tr>
+<td style="height:200px;border:1px solid #CCCCCC;background-color:#F8F8F8;padding:0px;text-align:center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:TGV_POS_Nuremberg_Ingolstadt.jpg" class="image" title="In July 2006, a French TGV undertakes a 330&#160;km/h (205&#160;mph) test ride for technical approval in Germany."><img alt="In July 2006, a French TGV undertakes a 330 km/h test ride for technical approval in Germany." src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TGV_POS_Nuremberg_Ingolstadt.jpg/180px-TGV_POS_Nuremberg_Ingolstadt.jpg" width="180" height="135" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TGV_POS_Nuremberg_Ingolstadt.jpg/270px-TGV_POS_Nuremberg_Ingolstadt.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TGV_POS_Nuremberg_Ingolstadt.jpg/360px-TGV_POS_Nuremberg_Ingolstadt.jpg 2x" data-file-width="2272" data-file-height="1704" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="display:block;font-size:1em;padding:0px">
+<div class="gallerytext" style="min-height:6.1em;width:187px;line-height:1.3em;padding:2px 6px 1px 6px;margin:0px;border:none;border-width:0px">In July 2006, a French <a href="/wiki/TGV" title="TGV">TGV</a> undertakes a 330&#160;km/h (205&#160;mph) test ride for technical approval in Germany.&#160;</div>
+</td>
+</tr>
+</table>
+<table style="width:200px;float:left;border-collapse:collapse;margin:3px">
+<tr>
+<td style="height:200px;border:1px solid #CCCCCC;background-color:#F8F8F8;padding:0px;text-align:center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:101_029_MNE.jpg" class="image" title="At a top speed of 200&#160;km/h (124&#160;mph), the München-Nürnberg-Express is the fastest regional train in Germany."><img alt="At a top speed of 200 km/h, the München-Nürnberg-Express is the fastest regional train in Germany." src="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/101_029_MNE.jpg/180px-101_029_MNE.jpg" width="180" height="120" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/101_029_MNE.jpg/270px-101_029_MNE.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/30/101_029_MNE.jpg/360px-101_029_MNE.jpg 2x" data-file-width="1000" data-file-height="667" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="display:block;font-size:1em;padding:0px">
+<div class="gallerytext" style="min-height:6.1em;width:187px;line-height:1.3em;padding:2px 6px 1px 6px;margin:0px;border:none;border-width:0px">At a top speed of 200&#160;km/h (124&#160;mph), the <a href="/wiki/M%C3%BCnchen-N%C3%BCrnberg-Express" title="München-Nürnberg-Express">München-Nürnberg-Express</a> is the fastest regional train in Germany.&#160;</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg%E2%80%93Munich_high-speed_railway&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/High-speed_rail_in_Germany" title="High-speed rail in Germany">High-speed rail in Germany</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg%E2%80%93Munich_high-speed_railway&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-Eisenbahnatlas-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Eisenbahnatlas_1-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><i>Eisenbahnatlas Deutschland (German railway atlas)</i>. Schweers + Wall. 2009. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-89494-139-0" title="Special:BookSources/978-3-89494-139-0">978-3-89494-139-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANuremberg%E2%80%93Munich+high-speed+railway&amp;rft.btitle=Eisenbahnatlas+Deutschland+%28German+railway+atlas%29&amp;rft.date=2009&amp;rft.genre=book&amp;rft.isbn=978-3-89494-139-0&amp;rft.pub=Schweers+%2B+Wall&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg%E2%80%93Munich_high-speed_railway&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:N%C3%BCrnberg%E2%80%93Ingolstadt%E2%80%93M%C3%BCnchen_high-speed_railway_line" class="extiw" title="commons:Category:Nürnberg–Ingolstadt–München high-speed railway line">Nürnberg–Ingolstadt–München high-speed railway line</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://en.structurae.de/projects/data/index.cfm?ID=p00103">Datasheet</a> at <i>structurae.de</i></li>
+<li><a rel="nofollow" class="external text" href="http://www.railway-technology.com/projects/Nurnberg/index.html#Nurnberg">Article</a> at <i>railway-technology.com</i></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="23x15px.7Cborder_.7Calt.3DEurope.7Clink.3DEurope_Berlin.E2.80.93Palermo_railway_axis" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Berlin%E2%80%93Palermo_railway_axis" title="Template:Berlin–Palermo railway axis"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Berlin%E2%80%93Palermo_railway_axis" title="Template talk:Berlin–Palermo railway axis"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Berlin%E2%80%93Palermo_railway_axis&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="23x15px.7Cborder_.7Calt.3DEurope.7Clink.3DEurope_Berlin.E2.80.93Palermo_railway_axis" style="font-size:114%;margin:0 4em"><span class="flagicon"><a href="/wiki/Europe" title="Europe"><img alt="Europe" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/23px-Flag_of_Europe.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/35px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/45px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540" /></a></span> <a href="/wiki/Berlin%E2%80%93Palermo_railway_axis" title="Berlin–Palermo railway axis">Berlin–Palermo railway axis</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Berlin%E2%80%93Halle_railway" title="Berlin–Halle railway">Berlin–Halle</a></li>
+<li><a href="/wiki/Erfurt%E2%80%93Leipzig/Halle_high-speed_railway" title="Erfurt–Leipzig/Halle high-speed railway">Halle/Leipzig–Erfurt</a></li>
+<li><a href="/wiki/Nuremberg%E2%80%93Erfurt_high-speed_railway" title="Nuremberg–Erfurt high-speed railway">Erfurt–Nuremberg</a></li>
+<li><a class="mw-selflink selflink">Nuremberg–Munich</a></li>
+<li><a href="/wiki/Munich%E2%80%93Rosenheim_railway" title="Munich–Rosenheim railway">Munich–Rosenheim</a></li>
+<li><a href="/wiki/Rosenheim%E2%80%93Kufstein_railway" title="Rosenheim–Kufstein railway">Rosenheim–Kufstein</a></li>
+<li><a href="/wiki/Lower_Inn_Valley_Railway" title="Lower Inn Valley Railway">Kufstein–Wörgl</a></li>
+<li><a href="/wiki/New_Lower_Inn_Valley_railway" title="New Lower Inn Valley railway">Wörgl–Innsbruck</a></li>
+<li><a href="/wiki/Innsbruck_bypass" title="Innsbruck bypass">Innsbruck bypass</a></li>
+<li><a href="/wiki/Brenner_Base_Tunnel" title="Brenner Base Tunnel">Innsbruck–Franzensfeste (Brenner Base Tunnel)</a></li>
+<li><a href="/wiki/Brenner_Railway" title="Brenner Railway">Franzensfeste–Verona</a></li>
+<li><a href="/wiki/Milan%E2%80%93Bologna_high-speed_railway" title="Milan–Bologna high-speed railway">Milan</a>/<a href="/wiki/Verona%E2%80%93Bologna_railway" title="Verona–Bologna railway">Verona–Bologna</a></li>
+<li><a href="/wiki/Bologna%E2%80%93Florence_high-speed_railway" title="Bologna–Florence high-speed railway">Bologna–Florence</a></li>
+<li><a href="/wiki/Florence%E2%80%93Rome_high-speed_railway" title="Florence–Rome high-speed railway">Florence–Rome</a></li>
+<li><a href="/wiki/Rome%E2%80%93Naples_high-speed_railway" title="Rome–Naples high-speed railway">Rome–Naples</a></li>
+<li><a href="/wiki/Naples%E2%80%93Salerno_high-speed_railway" title="Naples–Salerno high-speed railway">Naples–Salerno</a></li>
+<li><a href="/wiki/Battipaglia%E2%80%93Reggio_di_Calabria_railway" title="Battipaglia–Reggio di Calabria railway">Battipaglia–Reggio di Calabria</a></li>
+<li><a href="/wiki/Strait_of_Messina_Bridge" title="Strait of Messina Bridge">Strait of Messina Bridge</a></li>
+<li><a href="/w/index.php?title=Messina%E2%80%93Palermo_railway&amp;action=edit&amp;redlink=1" class="new" title="Messina–Palermo railway (page does not exist)">Messina–Palermo</a><sup class="noprint" style="font-style: normal;">[<a href="https://de.wikipedia.org/wiki/Bahnstrecke_Palermo%E2%80%93Messina" class="extiw" title="de:Bahnstrecke Palermo–Messina">de</a>]</sup></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="High-speed_railway_lines" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:High-speed_railway_lines" title="Template:High-speed railway lines"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:High-speed_railway_lines" title="Template talk:High-speed railway lines"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:High-speed_railway_lines&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="High-speed_railway_lines" style="font-size:114%;margin:0 4em"><a href="/wiki/High-speed_railway_line" title="High-speed railway line">High-speed railway lines</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Africa</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0"></table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Asia</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">China<br />
+(Mainland)</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">(* Indicates overlap with conventional services)
+<ul>
+<li><a href="/wiki/Beijing%E2%80%93Shanghai_High-Speed_Railway" title="Beijing–Shanghai High-Speed Railway">Beijing–Shanghai</a></li>
+<li><a href="/wiki/Beijing%E2%80%93Shijiazhuang_High-Speed_Railway" title="Beijing–Shijiazhuang High-Speed Railway">Beijing–Shijiazhuang</a><a href="/wiki/Shijiazhuang%E2%80%93Wuhan_High-Speed_Railway" title="Shijiazhuang–Wuhan High-Speed Railway">–Wuhan</a><a href="/wiki/Wuhan%E2%80%93Guangzhou_High-Speed_Railway" title="Wuhan–Guangzhou High-Speed Railway">–Guangzhou</a><a href="/wiki/Guangzhou%E2%80%93Shenzhen%E2%80%93Hong_Kong_Express_Rail_Link" title="Guangzhou–Shenzhen–Hong Kong Express Rail Link">–Shenzhen</a></li>
+<li><a href="/wiki/Beijing%E2%80%93Tianjin_Intercity_Railway" title="Beijing–Tianjin Intercity Railway">Beijing–Tianjin</a></li>
+<li><a href="/wiki/Hefei%E2%80%93Bengbu_High-Speed_Railway" title="Hefei–Bengbu High-Speed Railway">Bengbu–Hefei</a><a href="/wiki/Hefei%E2%80%93Fuzhou_High-Speed_Railway" title="Hefei–Fuzhou High-Speed Railway">–Fuzhou</a></li>
+<li><a href="/wiki/Changchun%E2%80%93Jilin_Intercity_Railway" title="Changchun–Jilin Intercity Railway">Changchun–Jilin</a></li>
+<li><a href="/wiki/Chengdu%E2%80%93Dujiangyan_Intercity_Railway" title="Chengdu–Dujiangyan Intercity Railway">Chengdu–Dujiangyan</a></li>
+<li><a href="/wiki/Harbin%E2%80%93Dalian_High-Speed_Railway" title="Harbin–Dalian High-Speed Railway">Dalian–Harbin</a><a href="/wiki/Harbin%E2%80%93Qiqihar_Intercity_Railway" title="Harbin–Qiqihar Intercity Railway">–Qiqihar</a></li>
+<li><a href="/wiki/Guangzhou%E2%80%93Zhuhai_Intercity_Railway" title="Guangzhou–Zhuhai Intercity Railway">Guangzhou–Zhuhai</a></li>
+<li><a href="/wiki/Guiyang%E2%80%93Guangzhou_High-Speed_Railway" title="Guiyang–Guangzhou High-Speed Railway">Guiyang–Guangzhou</a></li>
+<li><a href="/wiki/Guiyang%E2%80%93Kaiyang_Intercity_Railway" title="Guiyang–Kaiyang Intercity Railway">Guiyang–Kaiyang</a></li>
+<li><a href="/wiki/Hainan_Eastern_Ring_High-Speed_Railway" title="Hainan Eastern Ring High-Speed Railway">Hainan Eastern Ring</a></li>
+<li><a href="/wiki/Hengyang%E2%80%93Liuzhou_Intercity_Railway" title="Hengyang–Liuzhou Intercity Railway">Hengyang–Liuzhou</a></li>
+<li><a href="/wiki/Jilin%E2%80%93Hunchun_Intercity_Railway" title="Jilin–Hunchun Intercity Railway">Jilin–Hunchun</a></li>
+<li><a href="/wiki/Qingdao%E2%80%93Jinan_High-Speed_Railway" title="Qingdao–Jinan High-Speed Railway">Jinan–Qingdao</a><a href="/wiki/Qingdao%E2%80%93Rongcheng_Intercity_Railway" title="Qingdao–Rongcheng Intercity Railway">–Rongcheng</a>*</li>
+<li><a href="/wiki/Nanchang%E2%80%93Jiujiang_Intercity_Railway" title="Nanchang–Jiujiang Intercity Railway">Jiujiang–Nanchang</a><a href="/wiki/Xiangtang%E2%80%93Putian_Railway" title="Xiangtang–Putian Railway">–Fuzhou</a>*</li>
+<li><a href="/wiki/Lanzhou%E2%80%93Zhongchuan_Airport_Intercity_Railway" title="Lanzhou–Zhongchuan Airport Intercity Railway">Lanzhou–Zhongchuan Airport</a></li>
+<li><a href="/wiki/Liuzhou%E2%80%93Nanning_Intercity_Railway" title="Liuzhou–Nanning Intercity Railway">Liuzhou–Nanning</a>*</li>
+<li><a href="/wiki/Nanjing%E2%80%93Anqing_Intercity_Railway" title="Nanjing–Anqing Intercity Railway">Nanjing–Anqing</a></li>
+<li><a href="/wiki/Nanjing%E2%80%93Hangzhou_Passenger_Railway" title="Nanjing–Hangzhou Passenger Railway">Nanjing–Hangzhou</a><a href="/wiki/Hangzhou%E2%80%93Ningbo_High-Speed_Railway" title="Hangzhou–Ningbo High-Speed Railway">–Ningbo</a><a href="/wiki/Ningbo%E2%80%93Taizhou%E2%80%93Wenzhou_Railway" title="Ningbo–Taizhou–Wenzhou Railway">–Taizhou–Wenzhou</a><a href="/wiki/Wenzhou%E2%80%93Fuzhou_Railway" title="Wenzhou–Fuzhou Railway">–Fuzhou</a><a href="/wiki/Fuzhou%E2%80%93Xiamen_Railway" title="Fuzhou–Xiamen Railway">–Xiamen</a><a href="/wiki/Xiamen%E2%80%93Shenzhen_Railway" title="Xiamen–Shenzhen Railway">–Shenzhen</a></li>
+<li><a href="/wiki/Hefei%E2%80%93Nanjing_Passenger_Railway" title="Hefei–Nanjing Passenger Railway">Nanjing–Hefei</a><a href="/wiki/Hefei%E2%80%93Wuhan_high-speed_railway" title="Hefei–Wuhan high-speed railway">–Wuhan</a>*</li>
+<li><a href="/wiki/Nanning%E2%80%93Guangzhou_High-Speed_Railway" title="Nanning–Guangzhou High-Speed Railway">Nanning–Guangzhou</a></li>
+<li><a href="/wiki/Nanning%E2%80%93Kunming_High-Speed_Railway" title="Nanning–Kunming High-Speed Railway">Nanning–Kunming</a></li>
+<li><a href="/wiki/Panjin%E2%80%93Yingkou_High-Speed_Railway" title="Panjin–Yingkou High-Speed Railway">Panjin–Yingkou</a></li>
+<li><a href="/wiki/Shanghai%E2%80%93Hangzhou_Passenger_Railway" title="Shanghai–Hangzhou Passenger Railway">Shanghai–Hangzhou</a><a href="/wiki/Hangzhou%E2%80%93Changsha_High-Speed_Railway" title="Hangzhou–Changsha High-Speed Railway">–Changsha</a><a href="/wiki/Changsha%E2%80%93Kunming_High-Speed_Railway" title="Changsha–Kunming High-Speed Railway">–Guiyang</a></li>
+<li><a href="/wiki/Shanghai%E2%80%93Nanjing_Intercity_Railway" title="Shanghai–Nanjing Intercity Railway">Shanghai–Nanjing</a></li>
+<li><a href="/wiki/Shenyang%E2%80%93Dandong_Intercity_Railway" title="Shenyang–Dandong Intercity Railway">Shenyang–Dandong</a></li>
+<li><a href="/wiki/Suining%E2%80%93Chongqing_Railway" title="Suining–Chongqing Railway">Suining–Chongqing</a>*</li>
+<li><a href="/wiki/Shijiazhuang%E2%80%93Taiyuan_High-Speed_Railway" title="Shijiazhuang–Taiyuan High-Speed Railway">Taiyuan–Shijiazhuang</a></li>
+<li><a href="/wiki/Datong%E2%80%93Xi%27an_Passenger_Railway" title="Datong–Xi'an Passenger Railway">Taiyuan–Xi'an</a></li>
+<li><a href="/wiki/Tianjin%E2%80%93Baoding_Intercity_Railway" title="Tianjin–Baoding Intercity Railway">Tianjin–Baoding</a></li>
+<li><a href="/wiki/Tianjin%E2%80%93Qinhuangdao_High-Speed_Railway" title="Tianjin–Qinhuangdao High-Speed Railway">Tianjin–Qinhuangdao</a><a href="/wiki/Qinhuangdao%E2%80%93Shenyang_High-Speed_Railway" title="Qinhuangdao–Shenyang High-Speed Railway">–Shenyang</a>*</li>
+<li><a href="/wiki/Wuhan%E2%80%93Xianning_Intercity_Railway" title="Wuhan–Xianning Intercity Railway">Wuhan–Xianning</a></li>
+<li><a href="/wiki/Wuhan%E2%80%93Xiaogan_Intercity_Railway" title="Wuhan–Xiaogan Intercity Railway">Wuhan–Xiaogan</a></li>
+<li><a href="/wiki/Xuzhou%E2%80%93Lanzhou_High-Speed_Railway" title="Xuzhou–Lanzhou High-Speed Railway">Xuzhou–Lanzhou</a></li>
+<li><a href="/wiki/Zhengzhou%E2%80%93Jiaozuo_Intercity_Railway" title="Zhengzhou–Jiaozuo Intercity Railway">Zhengzhou–Jiaozuo</a></li>
+<li><a href="/wiki/Zhengzhou%E2%80%93Kaifeng_Intercity_Railway" title="Zhengzhou–Kaifeng Intercity Railway">Zhengzhou–Kaifeng</a></li>
+<li><a href="/wiki/Zhengzhou%E2%80%93Xi%27an_High-Speed_Railway" title="Zhengzhou–Xi'an High-Speed Railway">Zhengzhou–Xi'an</a><a href="/wiki/Xi%27an%E2%80%93Baoji_High-Speed_Railway" title="Xi'an–Baoji High-Speed Railway">–Baoji</a><a href="/wiki/Baoji%E2%80%93Lanzhou_High-Speed_Railway" title="Baoji–Lanzhou High-Speed Railway">–Lanzhou</a><a href="/wiki/Lanzhou%E2%80%93Xinjiang_High-Speed_Railway" title="Lanzhou–Xinjiang High-Speed Railway">–Urumqi</a></li>
+<li><a href="/wiki/Zhengzhou%E2%80%93Xuzhou_High-Speed_Railway" title="Zhengzhou–Xuzhou High-Speed Railway">Zhengzhou–Xuzhou</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Japan</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hokkaido_Shinkansen" title="Hokkaido Shinkansen">Hokkaido Shinkansen</a></li>
+<li><a href="/wiki/Hokuriku_Shinkansen" title="Hokuriku Shinkansen">Hokuriku Shinkansen</a></li>
+<li><a href="/wiki/J%C5%8Detsu_Shinkansen" title="Jōetsu Shinkansen">Jōetsu Shinkansen</a></li>
+<li><a href="/wiki/Kyushu_Shinkansen" title="Kyushu Shinkansen">Kyushu Shinkansen</a></li>
+<li><a href="/wiki/San%27y%C5%8D_Shinkansen" title="San'yō Shinkansen">San'yō Shinkansen</a></li>
+<li><a href="/wiki/T%C5%8Dhoku_Shinkansen" title="Tōhoku Shinkansen">Tōhoku Shinkansen</a></li>
+<li><a href="/wiki/T%C5%8Dkaid%C5%8D_Shinkansen" title="Tōkaidō Shinkansen">Tōkaidō Shinkansen</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">India</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Rajendranagar_Anand_Vihar_Jan_Sadharan_Express" class="mw-redirect" title="Rajendranagar Anand Vihar Jan Sadharan Express">Rajendranagar Anand Vihar Jan Sadharan Express</a></li>
+<li><a href="/wiki/Gorakhpur_Mumbai_Jan_Sadharan_Express" title="Gorakhpur Mumbai Jan Sadharan Express">Gorakhpur Mumbai Jan Sadharan Express</a></li>
+<li><a href="/wiki/Lokmanya_Tilak_Terminus_-_Tatanagar_Antyodaya_Express" title="Lokmanya Tilak Terminus - Tatanagar Antyodaya Express">Lokmanya Tilak Terminus - Tatanagar Antyodaya Express</a></li>
+<li><a href="/wiki/Varanasi%E2%80%93Lucknow_line" title="Varanasi–Lucknow line">Varanasi–Lucknow line</a></li>
+<li><a href="/wiki/Lucknow-Gorakhpur_line" class="mw-redirect" title="Lucknow-Gorakhpur line">Lucknow-Gorakhpur line</a></li>
+<li><a href="/wiki/Jalandhar-Jammu_line" class="mw-redirect" title="Jalandhar-Jammu line">Jalandhar-Jammu line</a></li>
+<li><a href="/wiki/Gatimaan_Express" title="Gatimaan Express">Gatimaan Express</a></li>
+<li><a href="/wiki/Tejas_Express" title="Tejas Express">Tejas Express</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">South Korea</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Gyeongbu_High_Speed_Railway" title="Gyeongbu High Speed Railway">Gyeongbu HSR</a></li>
+<li><a href="/wiki/Honam_High_Speed_Railway" title="Honam High Speed Railway">Honam HSR</a></li>
+<li><a href="/wiki/Suseo_High_Speed_Railway" title="Suseo High Speed Railway">Suseo HSR</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Taiwan</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Taiwan_High_Speed_Rail" title="Taiwan High Speed Rail">Taiwan HSR</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Turkey</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ankara%E2%80%93Istanbul_high-speed_railway" title="Ankara–Istanbul high-speed railway">Ankara–Pendik</a></li>
+<li><a href="/wiki/Polatl%C4%B1%E2%80%93Konya_high-speed_railway" title="Polatlı–Konya high-speed railway">Polatlı–Konya</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Europe</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Belgium</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/HSL_1" title="HSL 1">HSL 1</a></li>
+<li><a href="/wiki/HSL_2" title="HSL 2">HSL 2</a></li>
+<li><a href="/wiki/HSL_3" title="HSL 3">HSL 3</a></li>
+<li><a href="/wiki/HSL_4" title="HSL 4">HSL 4</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">France</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/LGV_Atlantique" title="LGV Atlantique">LGV Atlantique</a></li>
+<li><a href="/wiki/LGV_Bretagne-Pays_de_la_Loire" title="LGV Bretagne-Pays de la Loire">LGV Bretagne-Pays de la Loire</a></li>
+<li><a href="/wiki/LGV_Est" title="LGV Est">LGV Est</a></li>
+<li><a href="/wiki/LGV_Interconnexion_Est" title="LGV Interconnexion Est">LGV Interconnexion Est</a></li>
+<li><a href="/wiki/LGV_M%C3%A9diterran%C3%A9e" title="LGV Méditerranée">LGV Méditerranée</a></li>
+<li><a href="/wiki/LGV_Nord" title="LGV Nord">LGV Nord</a></li>
+<li><a href="/wiki/LGV_Rhin-Rh%C3%B4ne" title="LGV Rhin-Rhône">LGV Rhin-Rhône</a></li>
+<li><a href="/wiki/LGV_Rh%C3%B4ne-Alpes" title="LGV Rhône-Alpes">LGV Rhône-Alpes</a></li>
+<li><a href="/wiki/LGV_Sud-Est" title="LGV Sud-Est">LGV Sud-Est</a></li>
+<li><a href="/wiki/LGV_Sud_Europe_Atlantique" title="LGV Sud Europe Atlantique">LGV Sud Europe Atlantique</a></li>
+<li><a href="/wiki/Perpignan%E2%80%93Barcelona_high-speed_rail_line" title="Perpignan–Barcelona high-speed rail line">Perpignan–Barcelona</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Germany</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cologne%E2%80%93Aachen_high-speed_railway" title="Cologne–Aachen high-speed railway">Cologne–Düren</a></li>
+<li><a href="/wiki/K%C3%B6ln%E2%80%93Frankfurt_high-speed_rail_line" title="Köln–Frankfurt high-speed rail line">Cologne–Frankfurt</a></li>
+<li><a href="/wiki/Erfurt%E2%80%93Leipzig/Halle_high-speed_railway" title="Erfurt–Leipzig/Halle high-speed railway">Erfurt–Leipzig/Halle</a></li>
+<li><a href="/wiki/Hanover%E2%80%93W%C3%BCrzburg_high-speed_railway" title="Hanover–Würzburg high-speed railway">Hanover–Würzburg</a></li>
+<li><a href="/wiki/Mannheim%E2%80%93Stuttgart_high-speed_railway" title="Mannheim–Stuttgart high-speed railway">Mannheim–Stuttgart</a></li>
+<li><a class="mw-selflink selflink">Nuremberg–Ingolstadt</a></li>
+<li><a href="/wiki/Karlsruhe%E2%80%93Basel_high-speed_railway" title="Karlsruhe–Basel high-speed railway">Rastatt–Offenburg</a></li>
+<li><a href="/wiki/Hanover%E2%80%93Berlin_high-speed_railway" title="Hanover–Berlin high-speed railway">Wolfsburg–Berlin</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Italy</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bologna%E2%80%93Florence_high-speed_railway" title="Bologna–Florence high-speed railway">Bologna–Florence</a></li>
+<li><a href="/wiki/Florence%E2%80%93Rome_high-speed_railway" title="Florence–Rome high-speed railway">Florence–Rome</a></li>
+<li><a href="/wiki/Milan%E2%80%93Bologna_high-speed_railway" title="Milan–Bologna high-speed railway">Milan–Bologna</a></li>
+<li><a href="/wiki/Milan%E2%80%93Verona_high-speed_railway" title="Milan–Verona high-speed railway">Milan-Verona</a></li>
+<li><a href="/wiki/Naples%E2%80%93Salerno_high-speed_railway" title="Naples–Salerno high-speed railway">Naples–Salerno</a></li>
+<li><a href="/wiki/Rome%E2%80%93Naples_high-speed_railway" title="Rome–Naples high-speed railway">Rome–Naples</a></li>
+<li><a href="/wiki/Turin%E2%80%93Milan_high-speed_railway" title="Turin–Milan high-speed railway">Turin–Milan</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Netherlands</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/HSL-Zuid" title="HSL-Zuid">HSL-Zuid</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Norway</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Gardermoen_Line" title="Gardermoen Line">Gardermoen Line</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Spain</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atlantic_Axis_high-speed_rail_line" title="Atlantic Axis high-speed rail line">Atlantic Axis</a></li>
+<li><a href="/wiki/Perpignan%E2%80%93Barcelona_high-speed_rail_line" title="Perpignan–Barcelona high-speed rail line">Barcelona–Perpignan</a></li>
+<li><a href="/wiki/Madrid%E2%80%93Barcelona_high-speed_rail_line" title="Madrid–Barcelona high-speed rail line">Madrid–Barcelona</a></li>
+<li><a href="/wiki/Madrid%E2%80%93Le%C3%B3n_high-speed_rail_line" title="Madrid–León high-speed rail line">Madrid–León</a></li>
+<li><a href="/wiki/Madrid%E2%80%93M%C3%A1laga_high-speed_rail_line" title="Madrid–Málaga high-speed rail line">Madrid–Malaga</a></li>
+<li><a href="/wiki/Madrid%E2%80%93Seville_high-speed_rail_line" title="Madrid–Seville high-speed rail line">Madrid–Seville</a></li>
+<li><a href="/wiki/Madrid%E2%80%93Toledo_high-speed_rail_line" title="Madrid–Toledo high-speed rail line">Madrid–Toledo</a></li>
+<li><a href="/wiki/Madrid%E2%80%93Levante_high-speed_rail_network" title="Madrid–Levante high-speed rail network">Madrid–Valencia/Alicante</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">United Kingdom</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/High_Speed_1" title="High Speed 1">High Speed 1</a></li>
+<li><a href="/wiki/High_Speed_2" title="High Speed 2">High Speed 2</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">North America</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0"></table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">South America</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0"></table>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1218
+Cached time: 20170922203358
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.452 seconds
+Real time usage: 0.552 seconds
+Preprocessor visited node count: 9190/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 702955/2097152 bytes
+Template argument size: 318627/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 1/500
+Lua time usage: 0.123/10.000 seconds
+Lua memory usage: 5.69 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  370.424      1 -total
+ 59.04%  218.690      1 Template:Infobox_rail_line
+ 52.91%  195.985      1 Template:Infobox
+ 32.09%  118.860      1 Template:BS-map
+ 27.99%  103.695     65 Template:BS
+ 24.26%   89.851     65 Template:BSrow
+ 12.36%   45.801      7 Template:Navbox
+ 11.45%   42.419     16 Template:Convert
+  9.49%   35.142      1 Template:Reflist
+  8.22%   30.465     65 Template:BS-overlap
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:9466863-0!canonical and timestamp 20170922203357 and revision id 772070440
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Nuremberg–Munich_high-speed_railway&amp;oldid=772070440">https://en.wikipedia.org/w/index.php?title=Nuremberg–Munich_high-speed_railway&amp;oldid=772070440</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:High-speed_railway_lines_in_Germany" title="Category:High-speed railway lines in Germany">High-speed railway lines in Germany</a></li><li><a href="/wiki/Category:Railway_lines_in_Bavaria" title="Category:Railway lines in Bavaria">Railway lines in Bavaria</a></li><li><a href="/wiki/Category:Rail_transport_in_Nuremberg" title="Category:Rail transport in Nuremberg">Rail transport in Nuremberg</a></li><li><a href="/wiki/Category:Ingolstadt" title="Category:Ingolstadt">Ingolstadt</a></li><li><a href="/wiki/Category:Rail_transport_in_Munich" title="Category:Rail transport in Munich">Rail transport in Munich</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Interlanguage_link_template_link_number" title="Category:Interlanguage link template link number">Interlanguage link template link number</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Nuremberg%E2%80%93Munich+high-speed+railway" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Nuremberg%E2%80%93Munich+high-speed+railway" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Nuremberg%E2%80%93Munich_high-speed_railway" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Nuremberg%E2%80%93Munich_high-speed_railway" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Nuremberg%E2%80%93Munich_high-speed_railway">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Nuremberg%E2%80%93Munich_high-speed_railway&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Nuremberg%E2%80%93Munich_high-speed_railway&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Nuremberg%E2%80%93Munich_high-speed_railway" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Nuremberg%E2%80%93Munich_high-speed_railway" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Nuremberg%E2%80%93Munich_high-speed_railway&amp;oldid=772070440" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Nuremberg%E2%80%93Munich_high-speed_railway&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q705295" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Nuremberg%E2%80%93Munich_high-speed_railway&amp;id=772070440" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Nuremberg%E2%80%93Munich+high-speed+railway">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Nuremberg%E2%80%93Munich+high-speed+railway&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DNuremberg%25E2%2580%2593Munich%2Bhigh-speed%2Brailway%26returnto%3DNuremberg%25E2%2580%2593Munich%2Bhigh-speed%2Brailway%26oldid%3D772070440%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Nuremberg%E2%80%93Munich_high-speed_railway&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:N%C3%BCrnberg%E2%80%93Ingolstadt%E2%80%93M%C3%BCnchen_high-speed_railway_line" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de badge-Q17437798 badge-goodarticle" title="good article"><a href="https://de.wikipedia.org/wiki/Schnellfahrstrecke_N%C3%BCrnberg%E2%80%93Ingolstadt%E2%80%93M%C3%BCnchen" title="Schnellfahrstrecke Nürnberg–Ingolstadt–München – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/L%C3%ADnea_de_alta_velocidad_N%C3%BAremberg-Ingolstadt-M%C3%BAnich" title="Línea de alta velocidad Núremberg-Ingolstadt-Múnich – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Altrapida_fervojlinio_Nurenbergo-Munkeno" title="Altrapida fervojlinio Nurenbergo-Munkeno – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/LGV_Nuremberg_-_Ingolstadt" title="LGV Nuremberg - Ingolstadt – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Linea_ad_alta_velocit%C3%A0_Norimberga-Ingolstadt-Monaco_di_Baviera" title="Linea ad alta velocità Norimberga-Ingolstadt-Monaco di Baviera – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/N%C3%BCrnberg%E2%80%93M%C3%BCnchen_nagysebess%C3%A9g%C5%B1_vas%C3%BAtvonal" title="Nürnberg–München nagysebességű vasútvonal – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Spoorlijn_N%C3%BCrnberg_-_M%C3%BCnchen" title="Spoorlijn Nürnberg - München – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%AB%E3%83%B3%E3%83%99%E3%83%AB%E3%82%AF-%E3%82%A4%E3%83%B3%E3%82%B4%E3%83%AB%E3%82%B7%E3%83%A5%E3%82%BF%E3%83%83%E3%83%88-%E3%83%9F%E3%83%A5%E3%83%B3%E3%83%98%E3%83%B3%E9%AB%98%E9%80%9F%E7%B7%9A" title="ニュルンベルク-インゴルシュタット-ミュンヘン高速線 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/H%C3%B8yhastighetslinjen_N%C3%BCrnberg%E2%80%93Ingolstadt%E2%80%93M%C3%BCnchen" title="Høyhastighetslinjen Nürnberg–Ingolstadt–München – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Szybka_kolej_Norymberga-Monachium" title="Szybka kolej Norymberga-Monachium – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%BA%BD%E4%BC%A6%E5%A0%A1%EF%BC%8D%E6%85%95%E5%B0%BC%E9%BB%91%E9%AB%98%E9%80%9F%E9%93%81%E8%B7%AF" title="纽伦堡－慕尼黑高速铁路 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q705295#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 25 March 2017, at 04:25.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Nuremberg%E2%80%93Munich_high-speed_railway&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.452","walltime":"0.552","ppvisitednodes":{"value":9190,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":702955,"limit":2097152},"templateargumentsize":{"value":318627,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  370.424      1 -total"," 59.04%  218.690      1 Template:Infobox_rail_line"," 52.91%  195.985      1 Template:Infobox"," 32.09%  118.860      1 Template:BS-map"," 27.99%  103.695     65 Template:BS"," 24.26%   89.851     65 Template:BSrow"," 12.36%   45.801      7 Template:Navbox"," 11.45%   42.419     16 Template:Convert","  9.49%   35.142      1 Template:Reflist","  8.22%   30.465     65 Template:BS-overlap"]},"scribunto":{"limitreport-timeusage":{"value":"0.123","limit":"10.000"},"limitreport-memusage":{"value":5966131,"limit":52428800}},"cachereport":{"origin":"mw1218","timestamp":"20170922203358","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":82,"wgHostname":"mw1269"});});</script>
+	</body>
+</html>

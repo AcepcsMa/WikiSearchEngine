@@ -1,0 +1,1163 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Bundesautobahn 6 - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Bundesautobahn_6","wgTitle":"Bundesautobahn 6","wgCurRevisionId":769261057,"wgRevisionId":769261057,"wgArticleId":2668171,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing German-language text","Infobox road maps for Wikidata migration","Articles with German-language external links","Autobahns in Germany","Roads in Bavaria","Roads in Baden-Württemberg","Roads in Hesse","Roads in Rhineland-Palatinate","Roads in Saarland"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Bundesautobahn_6","wgRelevantArticleId":2668171,"wgRequestId":"WcibCApAAD0AAJRJCTgAAAAP","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q9016","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bundesautobahn_6_number.svg/1200px-Bundesautobahn_6_number.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Bundesautobahn_6"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Bundesautobahn_6&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Bundesautobahn_6&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Bundesautobahn_6"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Bundesautobahn_6 rootpage-Bundesautobahn_6 skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Bundesautobahn 6</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="width:22em;width:300px; font-size:90%; padding:0">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+<p style="margin:0 0 4px 0"><a href="/wiki/File:Bundesautobahn_6_number.svg" class="image"><img alt="A6 shield}}" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bundesautobahn_6_number.svg/120px-Bundesautobahn_6_number.svg.png" width="120" height="72" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bundesautobahn_6_number.svg/180px-Bundesautobahn_6_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bundesautobahn_6_number.svg/240px-Bundesautobahn_6_number.svg.png 2x" data-file-width="400" data-file-height="240" /></a></p>
+A6</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><big><span lang="de" xml:lang="de"><i>Bundesautobahn 6</i></span></big></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Bundesautobahn_6_map.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bundesautobahn_6_map.png/200px-Bundesautobahn_6_map.png" width="200" height="270" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bundesautobahn_6_map.png/300px-Bundesautobahn_6_map.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bundesautobahn_6_map.png/400px-Bundesautobahn_6_map.png 2x" data-file-width="1122" data-file-height="1515" /></a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:#039; color:#fff;">Route information</th>
+</tr>
+<tr>
+<th scope="row" style="text-align:right">Length:</th>
+<td>477&#160;km (296&#160;mi)</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:#039; color:#fff;">Major junctions</th>
+</tr>
+<tr>
+<th scope="row" style="text-align:right">West&#160;end:</th>
+<td><a href="/wiki/France" title="France">French</a> border near <a href="/wiki/Saarbr%C3%BCcken" title="Saarbrücken">Saarbrücken</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:right">&#160;</th>
+<td>
+<table style="min-width: 15em; width:auto;" class="collapsible collapsed">
+<tr>
+<th colspan="3">Route</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center; padding-right:.5em;"></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center; padding-right:.5em;"><a href="/wiki/A320_autoroute" title="A320 autoroute"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Autoroute_fran%C3%A7aise_320.svg/39px-Autoroute_fran%C3%A7aise_320.svg.png" width="39" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Autoroute_fran%C3%A7aise_320.svg/60px-Autoroute_fran%C3%A7aise_320.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Autoroute_fran%C3%A7aise_320.svg/78px-Autoroute_fran%C3%A7aise_320.svg.png 2x" data-file-width="300" data-file-height="100" /></a></td>
+<td><i><a href="/wiki/France" title="France">France</a></i></td>
+</tr>
+<tr>
+<td colspan="3">
+<hr /></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:EU-Icon.svg" class="image"><img alt="EU-Icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/EU-Icon.svg/15px-EU-Icon.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/EU-Icon.svg/23px-EU-Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/EU-Icon.svg/30px-EU-Icon.svg.png 2x" data-file-width="15" data-file-height="15" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(1)</td>
+<td><a href="/w/index.php?title=Goldene_Bremm&amp;action=edit&amp;redlink=1" class="new" title="Goldene Bremm (page does not exist)">Goldene Bremm</a> <a href="/wiki/Border_checkpoint" title="Border checkpoint">border crossing</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Tank.svg" class="image"><img alt="AB-Tank.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/AB-Tank.svg/12px-AB-Tank.svg.png" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/AB-Tank.svg/18px-AB-Tank.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/AB-Tank.svg/24px-AB-Tank.svg.png 2x" data-file-width="12" data-file-height="12" /></a></td>
+<td><a href="/wiki/File:AB-Rast.svg" class="image"><img alt="AB-Rast.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/AB-Rast.svg/12px-AB-Rast.svg.png" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/AB-Rast.svg/18px-AB-Rast.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/AB-Rast.svg/24px-AB-Rast.svg.png 2x" data-file-width="12" data-file-height="12" /></a></td>
+<td><i><a href="/wiki/Rest_area" title="Rest area">Services</a> Goldene Bremm</i></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(2)</td>
+<td><a href="/wiki/Saarbr%C3%BCcken" title="Saarbrücken">Saarbrücken</a>-Goldene Bremm</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Kreuz-blau.svg" class="image"><img alt="AB-Kreuz-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/16px-AB-Kreuz-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/24px-AB-Kreuz-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/32px-AB-Kreuz-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(3)</td>
+<td>Saarbrücken <a href="/wiki/Interchange_(road)" title="Interchange (road)">3-way interchange</a> <a href="/wiki/Bundesautobahn_620" title="Bundesautobahn 620"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bundesautobahn_620_number.svg/24px-Bundesautobahn_620_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bundesautobahn_620_number.svg/35px-Bundesautobahn_620_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bundesautobahn_620_number.svg/47px-Bundesautobahn_620_number.svg.png 2x" data-file-width="400" data-file-height="240" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(4)</td>
+<td>Saarbrücken-Fechingen</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Br%C3%BCcke.svg" class="image"><img alt="AB-Brücke.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/16px-AB-Br%C3%BCcke.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/24px-AB-Br%C3%BCcke.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/32px-AB-Br%C3%BCcke.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td></td>
+<td>Talbrücke Bischmisheim <small>950 m</small></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(5)</td>
+<td><a href="/wiki/St._Ingbert" class="mw-redirect" title="St. Ingbert">St. Ingbert</a>-West</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(6)</td>
+<td><a href="/wiki/St._Ingbert" class="mw-redirect" title="St. Ingbert">St. Ingbert</a>-Mitte</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(7)</td>
+<td><a href="/w/index.php?title=Rohrbach_(Saar)&amp;action=edit&amp;redlink=1" class="new" title="Rohrbach (Saar) (page does not exist)">Rohrbach</a> (ex IGB-Ost)<a href="/wiki/Bundesstra%C3%9Fe_40" title="Bundesstraße 40"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bundesstra%C3%9Fe_40_number.svg/24px-Bundesstra%C3%9Fe_40_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bundesstra%C3%9Fe_40_number.svg/35px-Bundesstra%C3%9Fe_40_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bundesstra%C3%9Fe_40_number.svg/47px-Bundesstra%C3%9Fe_40_number.svg.png 2x" data-file-width="200" data-file-height="120" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Kreuz-blau.svg" class="image"><img alt="AB-Kreuz-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/16px-AB-Kreuz-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/24px-AB-Kreuz-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/32px-AB-Kreuz-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(8)</td>
+<td><a href="/wiki/Neunkirchen_(Saar)" class="mw-redirect" title="Neunkirchen (Saar)">Neunkirchen</a> <a href="/wiki/Interchange_(road)" title="Interchange (road)">4-way interchange</a> <a href="/wiki/Bundesautobahn_8" title="Bundesautobahn 8"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bundesautobahn_8_number.svg/24px-Bundesautobahn_8_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bundesautobahn_8_number.svg/35px-Bundesautobahn_8_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bundesautobahn_8_number.svg/47px-Bundesautobahn_8_number.svg.png 2x" data-file-width="400" data-file-height="240" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(9)</td>
+<td><a href="/wiki/Homburg_(Saar)" title="Homburg (Saar)">Homburg (Saar)</a> <a href="/wiki/Bundesstra%C3%9Fe_423" title="Bundesstraße 423"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bundesstra%C3%9Fe_423_number.svg/24px-Bundesstra%C3%9Fe_423_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bundesstra%C3%9Fe_423_number.svg/35px-Bundesstra%C3%9Fe_423_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bundesstra%C3%9Fe_423_number.svg/47px-Bundesstra%C3%9Fe_423_number.svg.png 2x" data-file-width="200" data-file-height="120" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Tank.svg" class="image"><img alt="AB-Tank.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/AB-Tank.svg/12px-AB-Tank.svg.png" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/AB-Tank.svg/18px-AB-Tank.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/AB-Tank.svg/24px-AB-Tank.svg.png 2x" data-file-width="12" data-file-height="12" /></a></td>
+<td><a href="/wiki/File:AB-Rast.svg" class="image"><img alt="AB-Rast.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/AB-Rast.svg/12px-AB-Rast.svg.png" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/AB-Rast.svg/18px-AB-Rast.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/AB-Rast.svg/24px-AB-Rast.svg.png 2x" data-file-width="12" data-file-height="12" /></a></td>
+<td><i><a href="/wiki/Rest_area" title="Rest area">Services</a> Homburg (Saar)</i></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(10)</td>
+<td><a href="/wiki/Waldmohr" title="Waldmohr">Waldmohr</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Tank.svg" class="image"><img alt="AB-Tank.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/AB-Tank.svg/12px-AB-Tank.svg.png" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/AB-Tank.svg/18px-AB-Tank.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/AB-Tank.svg/24px-AB-Tank.svg.png 2x" data-file-width="12" data-file-height="12" /></a></td>
+<td><a href="/wiki/File:AB-Rast.svg" class="image"><img alt="AB-Rast.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/AB-Rast.svg/12px-AB-Rast.svg.png" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/AB-Rast.svg/18px-AB-Rast.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/AB-Rast.svg/24px-AB-Rast.svg.png 2x" data-file-width="12" data-file-height="12" /></a></td>
+<td><i><a href="/wiki/Rest_area" title="Rest area">Services</a> Waldmohr</i></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(11)</td>
+<td><a href="/wiki/Bruchm%C3%BChlbach-Miesau" title="Bruchmühlbach-Miesau">Bruchmühlbach-Miesau</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Kreuz-blau.svg" class="image"><img alt="AB-Kreuz-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/16px-AB-Kreuz-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/24px-AB-Kreuz-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/32px-AB-Kreuz-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(12)</td>
+<td><a href="/wiki/Landstuhl" title="Landstuhl">Landstuhl</a>-West <a href="/wiki/Interchange_(road)" title="Interchange (road)">4-way interchange</a> <a href="/wiki/Bundesautobahn_62" title="Bundesautobahn 62"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bundesautobahn_62_number.svg/24px-Bundesautobahn_62_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bundesautobahn_62_number.svg/35px-Bundesautobahn_62_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bundesautobahn_62_number.svg/47px-Bundesautobahn_62_number.svg.png 2x" data-file-width="400" data-file-height="240" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(13)</td>
+<td><a href="/wiki/Ramstein-Miesenbach" title="Ramstein-Miesenbach">Ramstein-Miesenbach</a>/<a href="/wiki/Ramstein_Air_Base" title="Ramstein Air Base">Ramstein Air Base</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(14)</td>
+<td><a href="/wiki/Kaiserslautern" title="Kaiserslautern">Kaiserslautern</a>-Einsiedlerhof</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(15)</td>
+<td>Kaiserslautern-West <a href="/wiki/Bundesstra%C3%9Fe_270" title="Bundesstraße 270"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bundesstra%C3%9Fe_270_number.svg/24px-Bundesstra%C3%9Fe_270_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bundesstra%C3%9Fe_270_number.svg/35px-Bundesstra%C3%9Fe_270_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bundesstra%C3%9Fe_270_number.svg/47px-Bundesstra%C3%9Fe_270_number.svg.png 2x" data-file-width="200" data-file-height="120" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Kreuz-blau.svg" class="image"><img alt="AB-Kreuz-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/16px-AB-Kreuz-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/24px-AB-Kreuz-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/32px-AB-Kreuz-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(16a)</td>
+<td>Kaiserslautern <a href="/wiki/Interchange_(road)" title="Interchange (road)">3-way interchange</a> <a href="/wiki/Bundesautobahn_63" title="Bundesautobahn 63"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bundesautobahn_63_number.svg/24px-Bundesautobahn_63_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bundesautobahn_63_number.svg/35px-Bundesautobahn_63_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bundesautobahn_63_number.svg/47px-Bundesautobahn_63_number.svg.png 2x" data-file-width="400" data-file-height="240" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(16b)</td>
+<td>Kaiserslautern-Ost <a href="/wiki/Bundesstra%C3%9Fe_37" title="Bundesstraße 37"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bundesstra%C3%9Fe_37_number.svg/24px-Bundesstra%C3%9Fe_37_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bundesstra%C3%9Fe_37_number.svg/35px-Bundesstra%C3%9Fe_37_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bundesstra%C3%9Fe_37_number.svg/47px-Bundesstra%C3%9Fe_37_number.svg.png 2x" data-file-width="200" data-file-height="120" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(17)</td>
+<td><a href="/wiki/Enkenbach-Alsenborn" title="Enkenbach-Alsenborn">Enkenbach-Alsenborn</a> <a href="/wiki/Bundesstra%C3%9Fe_48" title="Bundesstraße 48"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bundesstra%C3%9Fe_48_number.svg/24px-Bundesstra%C3%9Fe_48_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bundesstra%C3%9Fe_48_number.svg/35px-Bundesstra%C3%9Fe_48_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bundesstra%C3%9Fe_48_number.svg/47px-Bundesstra%C3%9Fe_48_number.svg.png 2x" data-file-width="200" data-file-height="120" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(18)</td>
+<td><a href="/w/index.php?title=Wattenheim_(Pfalz)&amp;action=edit&amp;redlink=1" class="new" title="Wattenheim (Pfalz) (page does not exist)">Wattenheim</a> <a href="/wiki/Bundesstra%C3%9Fe_47" title="Bundesstraße 47"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bundesstra%C3%9Fe_47_number.svg/24px-Bundesstra%C3%9Fe_47_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bundesstra%C3%9Fe_47_number.svg/35px-Bundesstra%C3%9Fe_47_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bundesstra%C3%9Fe_47_number.svg/47px-Bundesstra%C3%9Fe_47_number.svg.png 2x" data-file-width="200" data-file-height="120" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Tank.svg" class="image"><img alt="AB-Tank.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/AB-Tank.svg/12px-AB-Tank.svg.png" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/AB-Tank.svg/18px-AB-Tank.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/AB-Tank.svg/24px-AB-Tank.svg.png 2x" data-file-width="12" data-file-height="12" /></a></td>
+<td><a href="/wiki/File:AB-Rast.svg" class="image"><img alt="AB-Rast.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/AB-Rast.svg/12px-AB-Rast.svg.png" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/AB-Rast.svg/18px-AB-Rast.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/AB-Rast.svg/24px-AB-Rast.svg.png 2x" data-file-width="12" data-file-height="12" /></a></td>
+<td><i><a href="/wiki/Rest_area" title="Rest area">Services</a> Pfalz</i></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(19)</td>
+<td><a href="/wiki/Gr%C3%BCnstadt" title="Grünstadt">Grünstadt</a> <a href="/wiki/Bundesstra%C3%9Fe_271" title="Bundesstraße 271"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bundesstra%C3%9Fe_271_number.svg/24px-Bundesstra%C3%9Fe_271_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bundesstra%C3%9Fe_271_number.svg/35px-Bundesstra%C3%9Fe_271_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bundesstra%C3%9Fe_271_number.svg/47px-Bundesstra%C3%9Fe_271_number.svg.png 2x" data-file-width="200" data-file-height="120" /></a></td>
+</tr>
+<tr style="background-color:#ddd; color:#666;">
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; vertical-align: top; padding:0 .5em;"></td>
+<td><i>Hessheim (planned)</i></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Kreuz-blau.svg" class="image"><img alt="AB-Kreuz-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/16px-AB-Kreuz-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/24px-AB-Kreuz-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/32px-AB-Kreuz-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(21)</td>
+<td><a href="/wiki/Frankenthal_(Pfalz)" class="mw-redirect" title="Frankenthal (Pfalz)">Frankenthal</a> <a href="/wiki/Interchange_(road)" title="Interchange (road)">4-way interchange</a> <a href="/wiki/Bundesautobahn_61" title="Bundesautobahn 61"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Bundesautobahn_61_number.svg/24px-Bundesautobahn_61_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Bundesautobahn_61_number.svg/35px-Bundesautobahn_61_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Bundesautobahn_61_number.svg/47px-Bundesautobahn_61_number.svg.png 2x" data-file-width="400" data-file-height="240" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(22)</td>
+<td><a href="/wiki/Frankenthal_(Pfalz)" class="mw-redirect" title="Frankenthal (Pfalz)">Frankenthal</a>-Nord</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(23)</td>
+<td><a href="/wiki/Ludwigshafen" title="Ludwigshafen">Ludwigshafen</a>-Nord <a href="/wiki/Bundesstra%C3%9Fe_9" title="Bundesstraße 9"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bundesstra%C3%9Fe_9_number.svg/24px-Bundesstra%C3%9Fe_9_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bundesstra%C3%9Fe_9_number.svg/35px-Bundesstra%C3%9Fe_9_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bundesstra%C3%9Fe_9_number.svg/47px-Bundesstra%C3%9Fe_9_number.svg.png 2x" data-file-width="200" data-file-height="120" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Br%C3%BCcke.svg" class="image"><img alt="AB-Brücke.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/16px-AB-Br%C3%BCcke.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/24px-AB-Br%C3%BCcke.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/32px-AB-Br%C3%BCcke.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td></td>
+<td><a href="/wiki/Theodor-Heuss-Br%C3%BCcke" class="mw-redirect" title="Theodor-Heuss-Brücke">Theodor-Heuss-Brücke</a> <small>830 m</small></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(24)</td>
+<td><a href="/wiki/Mannheim" title="Mannheim">Mannheim</a>-Sandhofen <a href="/wiki/Bundesstra%C3%9Fe_44" title="Bundesstraße 44"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bundesstra%C3%9Fe_44_number.svg/24px-Bundesstra%C3%9Fe_44_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bundesstra%C3%9Fe_44_number.svg/35px-Bundesstra%C3%9Fe_44_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bundesstra%C3%9Fe_44_number.svg/47px-Bundesstra%C3%9Fe_44_number.svg.png 2x" data-file-width="200" data-file-height="120" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Kreuz-blau.svg" class="image"><img alt="AB-Kreuz-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/16px-AB-Kreuz-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/24px-AB-Kreuz-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/32px-AB-Kreuz-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(25)</td>
+<td><a href="/wiki/Viernheim" title="Viernheim">Viernheimer</a> Dreieck <a href="/wiki/Bundesautobahn_67" title="Bundesautobahn 67"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bundesautobahn_67_number.svg/24px-Bundesautobahn_67_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bundesautobahn_67_number.svg/35px-Bundesautobahn_67_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bundesautobahn_67_number.svg/47px-Bundesautobahn_67_number.svg.png 2x" data-file-width="400" data-file-height="240" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Kreuz-blau.svg" class="image"><img alt="AB-Kreuz-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/16px-AB-Kreuz-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/24px-AB-Kreuz-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/32px-AB-Kreuz-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(26)</td>
+<td>Viernheimer Kreuz <a href="/wiki/Bundesautobahn_659" title="Bundesautobahn 659"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bundesautobahn_659_number.svg/24px-Bundesautobahn_659_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bundesautobahn_659_number.svg/35px-Bundesautobahn_659_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bundesautobahn_659_number.svg/47px-Bundesautobahn_659_number.svg.png 2x" data-file-width="400" data-file-height="240" /></a><a href="/wiki/Bundesstra%C3%9Fe_38" title="Bundesstraße 38"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bundesstra%C3%9Fe_38_number.svg/24px-Bundesstra%C3%9Fe_38_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bundesstra%C3%9Fe_38_number.svg/35px-Bundesstra%C3%9Fe_38_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bundesstra%C3%9Fe_38_number.svg/47px-Bundesstra%C3%9Fe_38_number.svg.png 2x" data-file-width="200" data-file-height="120" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Br%C3%BCcke.svg" class="image"><img alt="AB-Brücke.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/16px-AB-Br%C3%BCcke.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/24px-AB-Br%C3%BCcke.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/32px-AB-Br%C3%BCcke.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td></td>
+<td>Neckarbrücke <small>530 m</small></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Kreuz-blau.svg" class="image"><img alt="AB-Kreuz-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/16px-AB-Kreuz-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/24px-AB-Kreuz-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/32px-AB-Kreuz-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(27)</td>
+<td><a href="/wiki/Mannheim" title="Mannheim">Mannheim</a> <a href="/wiki/Interchange_(road)" title="Interchange (road)">4-way interchange</a> <a href="/wiki/Bundesautobahn_656" title="Bundesautobahn 656"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Bundesautobahn_656_number.svg/24px-Bundesautobahn_656_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Bundesautobahn_656_number.svg/35px-Bundesautobahn_656_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Bundesautobahn_656_number.svg/47px-Bundesautobahn_656_number.svg.png 2x" data-file-width="400" data-file-height="240" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(28)</td>
+<td>Mannheim/<a href="/wiki/Schwetzingen" title="Schwetzingen">Schwetzingen</a> <a href="/wiki/Bundesstra%C3%9Fe_36" title="Bundesstraße 36"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bundesstra%C3%9Fe_36_number.svg/24px-Bundesstra%C3%9Fe_36_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bundesstra%C3%9Fe_36_number.svg/35px-Bundesstra%C3%9Fe_36_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bundesstra%C3%9Fe_36_number.svg/47px-Bundesstra%C3%9Fe_36_number.svg.png 2x" data-file-width="200" data-file-height="120" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(29)</td>
+<td>Schwetzingen/<a href="/wiki/Hockenheim" title="Hockenheim">Hockenheim</a> <a href="/wiki/Bundesstra%C3%9Fe_36" title="Bundesstraße 36"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bundesstra%C3%9Fe_36_number.svg/24px-Bundesstra%C3%9Fe_36_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bundesstra%C3%9Fe_36_number.svg/35px-Bundesstra%C3%9Fe_36_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bundesstra%C3%9Fe_36_number.svg/47px-Bundesstra%C3%9Fe_36_number.svg.png 2x" data-file-width="200" data-file-height="120" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Kreuz-blau.svg" class="image"><img alt="AB-Kreuz-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/16px-AB-Kreuz-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/24px-AB-Kreuz-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/32px-AB-Kreuz-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(30)</td>
+<td>Hockenheim <a href="/wiki/Interchange_(road)" title="Interchange (road)">3-way interchange</a> <a href="/wiki/Bundesautobahn_61" title="Bundesautobahn 61"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Bundesautobahn_61_number.svg/24px-Bundesautobahn_61_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Bundesautobahn_61_number.svg/35px-Bundesautobahn_61_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Bundesautobahn_61_number.svg/47px-Bundesautobahn_61_number.svg.png 2x" data-file-width="400" data-file-height="240" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Tank.svg" class="image"><img alt="AB-Tank.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/AB-Tank.svg/12px-AB-Tank.svg.png" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/AB-Tank.svg/18px-AB-Tank.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/AB-Tank.svg/24px-AB-Tank.svg.png 2x" data-file-width="12" data-file-height="12" /></a></td>
+<td><a href="/wiki/File:AB-Rast.svg" class="image"><img alt="AB-Rast.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/AB-Rast.svg/12px-AB-Rast.svg.png" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/AB-Rast.svg/18px-AB-Rast.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/AB-Rast.svg/24px-AB-Rast.svg.png 2x" data-file-width="12" data-file-height="12" /></a></td>
+<td><i><a href="/wiki/Rest_area" title="Rest area">Services</a> Am <a href="/wiki/Hockenheimring" title="Hockenheimring">Hockenheimring</a></i></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Kreuz-blau.svg" class="image"><img alt="AB-Kreuz-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/16px-AB-Kreuz-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/24px-AB-Kreuz-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/32px-AB-Kreuz-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(31)</td>
+<td><a href="/wiki/Walldorf_(Baden)" class="mw-redirect" title="Walldorf (Baden)">Walldorf</a> <a href="/wiki/Interchange_(road)" title="Interchange (road)">4-way interchange</a> <a href="/wiki/Bundesautobahn_5" title="Bundesautobahn 5"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bundesautobahn_5_number.svg/24px-Bundesautobahn_5_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bundesautobahn_5_number.svg/35px-Bundesautobahn_5_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bundesautobahn_5_number.svg/47px-Bundesautobahn_5_number.svg.png 2x" data-file-width="400" data-file-height="240" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(32)</td>
+<td><a href="/wiki/Wiesloch" title="Wiesloch">Wiesloch</a>/<a href="/wiki/Rauenberg_(Kraichgau)" class="mw-redirect" title="Rauenberg (Kraichgau)">Rauenberg</a> <a href="/wiki/Bundesstra%C3%9Fe_39" title="Bundesstraße 39"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bundesstra%C3%9Fe_39_number.svg/24px-Bundesstra%C3%9Fe_39_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bundesstra%C3%9Fe_39_number.svg/35px-Bundesstra%C3%9Fe_39_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bundesstra%C3%9Fe_39_number.svg/47px-Bundesstra%C3%9Fe_39_number.svg.png 2x" data-file-width="200" data-file-height="120" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(33)</td>
+<td><a href="/wiki/Sinsheim" title="Sinsheim">Sinsheim</a> <a href="/wiki/Bundesstra%C3%9Fe_39" title="Bundesstraße 39"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bundesstra%C3%9Fe_39_number.svg/24px-Bundesstra%C3%9Fe_39_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bundesstra%C3%9Fe_39_number.svg/35px-Bundesstra%C3%9Fe_39_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bundesstra%C3%9Fe_39_number.svg/47px-Bundesstra%C3%9Fe_39_number.svg.png 2x" data-file-width="200" data-file-height="120" /></a><a href="/wiki/Bundesstra%C3%9Fe_292" title="Bundesstraße 292"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Bundesstra%C3%9Fe_292_number.svg/24px-Bundesstra%C3%9Fe_292_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Bundesstra%C3%9Fe_292_number.svg/35px-Bundesstra%C3%9Fe_292_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Bundesstra%C3%9Fe_292_number.svg/47px-Bundesstra%C3%9Fe_292_number.svg.png 2x" data-file-width="200" data-file-height="120" /></a></td>
+</tr>
+<tr style="background-color:#ddd; color:#666;">
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; vertical-align: top; padding:0 .5em;"><a href="/wiki/File:Zeichen_123_-_Baustelle,_StVO_1992.svg" class="image"><img alt="Zeichen 123 - Baustelle, StVO 1992.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Zeichen_123_-_Baustelle%2C_StVO_1992.svg/16px-Zeichen_123_-_Baustelle%2C_StVO_1992.svg.png" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Zeichen_123_-_Baustelle%2C_StVO_1992.svg/24px-Zeichen_123_-_Baustelle%2C_StVO_1992.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Zeichen_123_-_Baustelle%2C_StVO_1992.svg/32px-Zeichen_123_-_Baustelle%2C_StVO_1992.svg.png 2x" data-file-width="847" data-file-height="744" /></a></td>
+<td><i>Sinsheim-Süd (under construction)</i></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Tank.svg" class="image"><img alt="AB-Tank.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/AB-Tank.svg/12px-AB-Tank.svg.png" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/AB-Tank.svg/18px-AB-Tank.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/AB-Tank.svg/24px-AB-Tank.svg.png 2x" data-file-width="12" data-file-height="12" /></a></td>
+<td><a href="/wiki/File:AB-Rast.svg" class="image"><img alt="AB-Rast.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/AB-Rast.svg/12px-AB-Rast.svg.png" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/AB-Rast.svg/18px-AB-Rast.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/AB-Rast.svg/24px-AB-Rast.svg.png 2x" data-file-width="12" data-file-height="12" /></a></td>
+<td><i><a href="/wiki/Rest_area" title="Rest area">Services</a> <a href="/wiki/Kraichgau" title="Kraichgau">Kraichgau</a></i></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(34)</td>
+<td>Sinsheim-Steinsfurt</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(35)</td>
+<td><a href="/wiki/Bad_Rappenau" title="Bad Rappenau">Bad Rappenau</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(36)</td>
+<td><a href="/wiki/Heilbronn" title="Heilbronn">Heilbronn</a>/<a href="/wiki/Untereisesheim" title="Untereisesheim">Untereisesheim</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Br%C3%BCcke.svg" class="image"><img alt="AB-Brücke.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/16px-AB-Br%C3%BCcke.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/24px-AB-Br%C3%BCcke.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/32px-AB-Br%C3%BCcke.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td></td>
+<td>Neckartalbrücke <small>1348 m</small></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(37)</td>
+<td>Heilbronn/<a href="/wiki/Neckarsulm" title="Neckarsulm">Neckarsulm</a> <a href="/wiki/Bundesstra%C3%9Fe_27" title="Bundesstraße 27"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bundesstra%C3%9Fe_27_number.svg/24px-Bundesstra%C3%9Fe_27_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bundesstra%C3%9Fe_27_number.svg/35px-Bundesstra%C3%9Fe_27_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bundesstra%C3%9Fe_27_number.svg/47px-Bundesstra%C3%9Fe_27_number.svg.png 2x" data-file-width="200" data-file-height="120" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Kreuz-blau.svg" class="image"><img alt="AB-Kreuz-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/16px-AB-Kreuz-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/24px-AB-Kreuz-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/32px-AB-Kreuz-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(38)</td>
+<td><a href="/w/index.php?title=Kreuz_Weinsberg&amp;action=edit&amp;redlink=1" class="new" title="Kreuz Weinsberg (page does not exist)">Kreuz Weinsberg</a> <a href="/wiki/Interchange_(road)" title="Interchange (road)">4-way interchange</a> <a href="/wiki/Bundesautobahn_81" title="Bundesautobahn 81"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bundesautobahn_81_number.svg/24px-Bundesautobahn_81_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bundesautobahn_81_number.svg/35px-Bundesautobahn_81_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bundesautobahn_81_number.svg/47px-Bundesautobahn_81_number.svg.png 2x" data-file-width="400" data-file-height="240" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(39)</td>
+<td><a href="/wiki/Bretzfeld" title="Bretzfeld">Bretzfeld</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(40)</td>
+<td><a href="/wiki/%C3%96hringen" title="Öhringen">Öhringen</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(41)</td>
+<td><a href="/wiki/Neuenstein_(Hohenlohe)" class="mw-redirect" title="Neuenstein (Hohenlohe)">Neuenstein</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Tank.svg" class="image"><img alt="AB-Tank.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/AB-Tank.svg/12px-AB-Tank.svg.png" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/AB-Tank.svg/18px-AB-Tank.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/AB-Tank.svg/24px-AB-Tank.svg.png 2x" data-file-width="12" data-file-height="12" /></a></td>
+<td><a href="/wiki/File:AB-Rast.svg" class="image"><img alt="AB-Rast.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/AB-Rast.svg/12px-AB-Rast.svg.png" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/AB-Rast.svg/18px-AB-Rast.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/AB-Rast.svg/24px-AB-Rast.svg.png 2x" data-file-width="12" data-file-height="12" /></a></td>
+<td><i><a href="/wiki/Rest_area" title="Rest area">Services</a> Hohenlohe</i></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(42)</td>
+<td><a href="/wiki/Kupferzell" title="Kupferzell">Kupferzell</a> <a href="/wiki/Bundesstra%C3%9Fe_19" title="Bundesstraße 19"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Bundesstra%C3%9Fe_19_number.svg/24px-Bundesstra%C3%9Fe_19_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Bundesstra%C3%9Fe_19_number.svg/35px-Bundesstra%C3%9Fe_19_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Bundesstra%C3%9Fe_19_number.svg/47px-Bundesstra%C3%9Fe_19_number.svg.png 2x" data-file-width="200" data-file-height="120" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(43)</td>
+<td><a href="/wiki/Schw%C3%A4bisch_Hall" title="Schwäbisch Hall">Schwäbisch Hall</a> <a href="/wiki/Bundesstra%C3%9Fe_14" title="Bundesstraße 14"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bundesstra%C3%9Fe_14_number.svg/24px-Bundesstra%C3%9Fe_14_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bundesstra%C3%9Fe_14_number.svg/35px-Bundesstra%C3%9Fe_14_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bundesstra%C3%9Fe_14_number.svg/47px-Bundesstra%C3%9Fe_14_number.svg.png 2x" data-file-width="200" data-file-height="120" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Br%C3%BCcke.svg" class="image"><img alt="AB-Brücke.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/16px-AB-Br%C3%BCcke.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/24px-AB-Br%C3%BCcke.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/32px-AB-Br%C3%BCcke.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td></td>
+<td><a href="/wiki/Kochertalbr%C3%BCcke" class="mw-redirect" title="Kochertalbrücke">Kochertalbrücke</a> <small>1128 m</small></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(44)</td>
+<td><a href="/wiki/Ilshofen" title="Ilshofen">Ilshofen</a>/<a href="/wiki/Wolpertshausen" title="Wolpertshausen">Wolpertshausen</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(45)</td>
+<td><a href="/wiki/Kirchberg_an_der_Jagst" title="Kirchberg an der Jagst">Kirchberg</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Br%C3%BCcke.svg" class="image"><img alt="AB-Brücke.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/16px-AB-Br%C3%BCcke.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/24px-AB-Br%C3%BCcke.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/32px-AB-Br%C3%BCcke.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td></td>
+<td>Jagsttalbrücke</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Br%C3%BCcke.svg" class="image"><img alt="AB-Brücke.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/16px-AB-Br%C3%BCcke.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/24px-AB-Br%C3%BCcke.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/32px-AB-Br%C3%BCcke.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td></td>
+<td>Gronachtalbrücke <small>528 m</small></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(46)</td>
+<td><a href="/wiki/Crailsheim" title="Crailsheim">Crailsheim</a>-Nord <a href="/wiki/Bundesstra%C3%9Fe_290" title="Bundesstraße 290"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bundesstra%C3%9Fe_290_number.svg/24px-Bundesstra%C3%9Fe_290_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bundesstra%C3%9Fe_290_number.svg/35px-Bundesstra%C3%9Fe_290_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bundesstra%C3%9Fe_290_number.svg/47px-Bundesstra%C3%9Fe_290_number.svg.png 2x" data-file-width="200" data-file-height="120" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(47)</td>
+<td><a href="/wiki/Schnelldorf" title="Schnelldorf">Schnelldorf</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Kreuz-blau.svg" class="image"><img alt="AB-Kreuz-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/16px-AB-Kreuz-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/24px-AB-Kreuz-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/32px-AB-Kreuz-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(48)</td>
+<td><a href="/wiki/Feuchtwangen" title="Feuchtwangen">Feuchtwangen</a>/Crailsheim <a href="/wiki/Interchange_(road)" title="Interchange (road)">4-way interchange</a> <a href="/wiki/Bundesautobahn_7" title="Bundesautobahn 7"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bundesautobahn_7_number.svg/24px-Bundesautobahn_7_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bundesautobahn_7_number.svg/35px-Bundesautobahn_7_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bundesautobahn_7_number.svg/47px-Bundesautobahn_7_number.svg.png 2x" data-file-width="400" data-file-height="240" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(49)</td>
+<td>Feuchtwangen-Nord <a href="/wiki/Bundesstra%C3%9Fe_25" title="Bundesstraße 25"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bundesstra%C3%9Fe_25_number.svg/24px-Bundesstra%C3%9Fe_25_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bundesstra%C3%9Fe_25_number.svg/35px-Bundesstra%C3%9Fe_25_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bundesstra%C3%9Fe_25_number.svg/47px-Bundesstra%C3%9Fe_25_number.svg.png 2x" data-file-width="200" data-file-height="120" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Tank.svg" class="image"><img alt="AB-Tank.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/AB-Tank.svg/12px-AB-Tank.svg.png" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/AB-Tank.svg/18px-AB-Tank.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/AB-Tank.svg/24px-AB-Tank.svg.png 2x" data-file-width="12" data-file-height="12" /></a></td>
+<td><a href="/wiki/File:AB-Rast.svg" class="image"><img alt="AB-Rast.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/AB-Rast.svg/12px-AB-Rast.svg.png" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/AB-Rast.svg/18px-AB-Rast.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/AB-Rast.svg/24px-AB-Rast.svg.png 2x" data-file-width="12" data-file-height="12" /></a></td>
+<td><i><a href="/wiki/Rest_area" title="Rest area">Services</a> Frankenhöhe</i></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(50)</td>
+<td><a href="/wiki/Aurach_(Landkreis_Ansbach)" class="mw-redirect" title="Aurach (Landkreis Ansbach)">Aurach</a> <a href="/wiki/Bundesstra%C3%9Fe_14" title="Bundesstraße 14"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bundesstra%C3%9Fe_14_number.svg/24px-Bundesstra%C3%9Fe_14_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bundesstra%C3%9Fe_14_number.svg/35px-Bundesstra%C3%9Fe_14_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bundesstra%C3%9Fe_14_number.svg/47px-Bundesstra%C3%9Fe_14_number.svg.png 2x" data-file-width="200" data-file-height="120" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(51)</td>
+<td><a href="/wiki/Herrieden" title="Herrieden">Herrieden</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(52)</td>
+<td><a href="/wiki/Ansbach" title="Ansbach">Ansbach</a> <a href="/wiki/Bundesstra%C3%9Fe_13" title="Bundesstraße 13"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bundesstra%C3%9Fe_13_number.svg/24px-Bundesstra%C3%9Fe_13_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bundesstra%C3%9Fe_13_number.svg/35px-Bundesstra%C3%9Fe_13_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bundesstra%C3%9Fe_13_number.svg/47px-Bundesstra%C3%9Fe_13_number.svg.png 2x" data-file-width="200" data-file-height="120" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(53)</td>
+<td><a href="/wiki/Lichtenau_(Mittelfranken)" class="mw-redirect" title="Lichtenau (Mittelfranken)">Lichtenau</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(54)</td>
+<td><a href="/wiki/Neuendettelsau" title="Neuendettelsau">Neuendettelsau</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Tank.svg" class="image"><img alt="AB-Tank.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/AB-Tank.svg/12px-AB-Tank.svg.png" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/AB-Tank.svg/18px-AB-Tank.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/AB-Tank.svg/24px-AB-Tank.svg.png 2x" data-file-width="12" data-file-height="12" /></a></td>
+<td><a href="/wiki/File:AB-Rast.svg" class="image"><img alt="AB-Rast.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/AB-Rast.svg/12px-AB-Rast.svg.png" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/AB-Rast.svg/18px-AB-Rast.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/AB-Rast.svg/24px-AB-Rast.svg.png 2x" data-file-width="12" data-file-height="12" /></a></td>
+<td><i><a href="/wiki/Rest_area" title="Rest area">Services</a> <a href="/wiki/Kammerstein" title="Kammerstein">Kammersteiner</a> Land</i></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(55)</td>
+<td><a href="/wiki/Schwabach" title="Schwabach">Schwabach</a>-West <a href="/wiki/Bundesstra%C3%9Fe_466" title="Bundesstraße 466"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Bundesstra%C3%9Fe_466_number.svg/24px-Bundesstra%C3%9Fe_466_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Bundesstra%C3%9Fe_466_number.svg/35px-Bundesstra%C3%9Fe_466_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Bundesstra%C3%9Fe_466_number.svg/47px-Bundesstra%C3%9Fe_466_number.svg.png 2x" data-file-width="200" data-file-height="120" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(56)</td>
+<td>Schwabach-Süd</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(57)</td>
+<td><a href="/wiki/Roth,_Bavaria" title="Roth, Bavaria">Roth</a> <a href="/wiki/Bundesstra%C3%9Fe_2" title="Bundesstraße 2"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bundesstra%C3%9Fe_2_number.svg/24px-Bundesstra%C3%9Fe_2_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bundesstra%C3%9Fe_2_number.svg/35px-Bundesstra%C3%9Fe_2_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bundesstra%C3%9Fe_2_number.svg/47px-Bundesstra%C3%9Fe_2_number.svg.png 2x" data-file-width="200" data-file-height="120" /></a><a href="/wiki/Bundesstra%C3%9Fe_2a" title="Bundesstraße 2a"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bundesstra%C3%9Fe_2a_number.svg/24px-Bundesstra%C3%9Fe_2a_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bundesstra%C3%9Fe_2a_number.svg/35px-Bundesstra%C3%9Fe_2a_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bundesstra%C3%9Fe_2a_number.svg/47px-Bundesstra%C3%9Fe_2a_number.svg.png 2x" data-file-width="200" data-file-height="120" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Kreuz-blau.svg" class="image"><img alt="AB-Kreuz-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/16px-AB-Kreuz-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/24px-AB-Kreuz-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/32px-AB-Kreuz-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(58)</td>
+<td><a href="/wiki/N%C3%BCrnberg" class="mw-redirect" title="Nürnberg">Nürnberg</a>-Süd <a href="/wiki/Interchange_(road)" title="Interchange (road)">4-way interchange</a> <a href="/wiki/Bundesautobahn_73" title="Bundesautobahn 73"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bundesautobahn_73_number.svg/24px-Bundesautobahn_73_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bundesautobahn_73_number.svg/35px-Bundesautobahn_73_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bundesautobahn_73_number.svg/47px-Bundesautobahn_73_number.svg.png 2x" data-file-width="400" data-file-height="240" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(59)</td>
+<td>Nürnberg-Langwasser</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Kreuz-blau.svg" class="image"><img alt="AB-Kreuz-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/16px-AB-Kreuz-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/24px-AB-Kreuz-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/32px-AB-Kreuz-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(60)</td>
+<td>Nürnberg-Ost <a href="/wiki/Interchange_(road)" title="Interchange (road)">4-way interchange</a> <a href="/wiki/Bundesautobahn_9" title="Bundesautobahn 9"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bundesautobahn_9_number.svg/24px-Bundesautobahn_9_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bundesautobahn_9_number.svg/35px-Bundesautobahn_9_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bundesautobahn_9_number.svg/47px-Bundesautobahn_9_number.svg.png 2x" data-file-width="400" data-file-height="240" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Kreuz-blau.svg" class="image"><img alt="AB-Kreuz-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/16px-AB-Kreuz-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/24px-AB-Kreuz-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/32px-AB-Kreuz-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(61)</td>
+<td>Altdorf <a href="/wiki/Interchange_(road)" title="Interchange (road)">4-way interchange</a> <a href="/wiki/Bundesautobahn_3" title="Bundesautobahn 3"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bundesautobahn_3_number.svg/24px-Bundesautobahn_3_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bundesautobahn_3_number.svg/35px-Bundesautobahn_3_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bundesautobahn_3_number.svg/47px-Bundesautobahn_3_number.svg.png 2x" data-file-width="400" data-file-height="240" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(62)</td>
+<td><a href="/wiki/Altdorf_bei_N%C3%BCrnberg" title="Altdorf bei Nürnberg">Altdorf bei Nürnberg</a>/<a href="/wiki/Leinburg" title="Leinburg">Leinburg</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(63)</td>
+<td><a href="/wiki/Alfeld_(Mittelfranken)" class="mw-redirect" title="Alfeld (Mittelfranken)">Alfeld</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(64)</td>
+<td><a href="/wiki/Sulzbach-Rosenberg" title="Sulzbach-Rosenberg">Sulzbach-Rosenberg</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Tank.svg" class="image"><img alt="AB-Tank.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/AB-Tank.svg/12px-AB-Tank.svg.png" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/AB-Tank.svg/18px-AB-Tank.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/AB-Tank.svg/24px-AB-Tank.svg.png 2x" data-file-width="12" data-file-height="12" /></a></td>
+<td><a href="/wiki/File:AB-Rast.svg" class="image"><img alt="AB-Rast.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/AB-Rast.svg/12px-AB-Rast.svg.png" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/AB-Rast.svg/18px-AB-Rast.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/AB-Rast.svg/24px-AB-Rast.svg.png 2x" data-file-width="12" data-file-height="12" /></a></td>
+<td><i><a href="/wiki/Rest_area" title="Rest area">Services</a> <a href="/w/index.php?title=Oberpf%C3%A4lzer_Alb&amp;action=edit&amp;redlink=1" class="new" title="Oberpfälzer Alb (page does not exist)">Oberpfälzer Alb</a></i></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(65)</td>
+<td><a href="/wiki/Amberg" title="Amberg">Amberg</a>-West <a href="/wiki/Bundesstra%C3%9Fe_299" title="Bundesstraße 299"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bundesstra%C3%9Fe_299_number.svg/24px-Bundesstra%C3%9Fe_299_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bundesstra%C3%9Fe_299_number.svg/35px-Bundesstra%C3%9Fe_299_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bundesstra%C3%9Fe_299_number.svg/47px-Bundesstra%C3%9Fe_299_number.svg.png 2x" data-file-width="200" data-file-height="120" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(66)</td>
+<td>Amberg-Süd</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(67)</td>
+<td>Amberg-Ost <a href="/wiki/Bundesstra%C3%9Fe_85" title="Bundesstraße 85"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bundesstra%C3%9Fe_85_number.svg/24px-Bundesstra%C3%9Fe_85_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bundesstra%C3%9Fe_85_number.svg/35px-Bundesstra%C3%9Fe_85_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bundesstra%C3%9Fe_85_number.svg/47px-Bundesstra%C3%9Fe_85_number.svg.png 2x" data-file-width="200" data-file-height="120" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Br%C3%BCcke.svg" class="image"><img alt="AB-Brücke.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/16px-AB-Br%C3%BCcke.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/24px-AB-Br%C3%BCcke.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/32px-AB-Br%C3%BCcke.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td></td>
+<td>Fensterbachtalbrücke <small>240 m</small></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(68)</td>
+<td><a href="/wiki/Schmidgaden" title="Schmidgaden">Schmidgaden</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Br%C3%BCcke.svg" class="image"><img alt="AB-Brücke.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/16px-AB-Br%C3%BCcke.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/24px-AB-Br%C3%BCcke.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/32px-AB-Br%C3%BCcke.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td></td>
+<td>Hüttenbachtalbrücke <small>130 m</small></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(69)</td>
+<td><a href="/wiki/Nabburg" title="Nabburg">Nabburg</a>-West</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Br%C3%BCcke.svg" class="image"><img alt="AB-Brücke.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/16px-AB-Br%C3%BCcke.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/24px-AB-Br%C3%BCcke.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/32px-AB-Br%C3%BCcke.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td></td>
+<td>Kulmbachtalbrücke <small>515 m</small></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Br%C3%BCcke.svg" class="image"><img alt="AB-Brücke.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/16px-AB-Br%C3%BCcke.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/24px-AB-Br%C3%BCcke.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/32px-AB-Br%C3%BCcke.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td></td>
+<td>Döllnitztalbrücke <small>280 m</small></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Br%C3%BCcke.svg" class="image"><img alt="AB-Brücke.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/16px-AB-Br%C3%BCcke.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/24px-AB-Br%C3%BCcke.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/32px-AB-Br%C3%BCcke.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td></td>
+<td>Ödschlagtalbrücke <small>240 m</small></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Kreuz-blau.svg" class="image"><img alt="AB-Kreuz-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/16px-AB-Kreuz-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/24px-AB-Kreuz-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/AB-Kreuz-blau.svg/32px-AB-Kreuz-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(70)</td>
+<td><i>Kreuz <a href="/wiki/Oberpf%C3%A4lzer_Wald" class="mw-redirect" title="Oberpfälzer Wald">Oberpfälzer Wald</a></i> <a href="/wiki/Bundesautobahn_93" title="Bundesautobahn 93"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bundesautobahn_93_number.svg/24px-Bundesautobahn_93_number.svg.png" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bundesautobahn_93_number.svg/35px-Bundesautobahn_93_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bundesautobahn_93_number.svg/47px-Bundesautobahn_93_number.svg.png 2x" data-file-width="400" data-file-height="240" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-Br%C3%BCcke.svg" class="image"><img alt="AB-Brücke.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/16px-AB-Br%C3%BCcke.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/24px-AB-Br%C3%BCcke.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/AB-Br%C3%BCcke.svg/32px-AB-Br%C3%BCcke.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td></td>
+<td>Naabtalbrücke <small>450 m</small></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(71)</td>
+<td><i><a href="/wiki/Wernberg-K%C3%B6blitz" title="Wernberg-Köblitz">Wernberg-Köblitz</a></i></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(72)</td>
+<td><i><a href="/wiki/Leuchtenberg" title="Leuchtenberg">Leuchtenberg</a></i></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(73)</td>
+<td><i><a href="/wiki/Vohenstrau%C3%9F" title="Vohenstrauß">Vohenstrauß</a></i></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(74)</td>
+<td>Vohenstrauß-Ost</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(75)</td>
+<td><a href="/wiki/Pleystein" title="Pleystein">Pleystein</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:AB-AS-blau.svg" class="image"><img alt="AB-AS-blau.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/16px-AB-AS-blau.svg.png" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/24px-AB-AS-blau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AB-AS-blau.svg/32px-AB-AS-blau.svg.png 2x" data-file-width="16" data-file-height="12" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(76)</td>
+<td><a href="/wiki/Waidhaus" title="Waidhaus">Waidhaus</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:EU-Icon.svg" class="image"><img alt="EU-Icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/EU-Icon.svg/15px-EU-Icon.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/EU-Icon.svg/23px-EU-Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/EU-Icon.svg/30px-EU-Icon.svg.png 2x" data-file-width="15" data-file-height="15" /></a></td>
+<td style="text-align:right; padding:0 .5em;">(77)</td>
+<td>Waidhaus/<a href="/wiki/Rozvadov" title="Rozvadov">Rozvadov</a> <a href="/wiki/Border_checkpoint" title="Border checkpoint">border crossing</a></td>
+</tr>
+<tr>
+<td colspan="3">
+<hr /></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center; padding-right:.5em;"><a href="/wiki/D5_motorway_(Czech_Republic)" title="D5 motorway (Czech Republic)"><span style="padding:1px .5em;color:#fff;background-color:#c00;font-weight:bold;">D 5</span></a></td>
+<td>
+<div style="float: right;"><span class="noprint plainlinks"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Bundesautobahn_6_route_map&amp;action=edit">[edit</a>]</span></div>
+<i><a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a></i></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:right">East&#160;end:</th>
+<td><a href="/wiki/Czech_Republic" title="Czech Republic">Czech</a> border near <a href="/wiki/Waidhaus" title="Waidhaus">Waidhaus</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:#039; color:#fff;">Location</th>
+</tr>
+<tr>
+<th scope="row" style="text-align:right">States:</th>
+<td><a href="/wiki/Saarland" title="Saarland">Saarland</a>, <a href="/wiki/Rhineland-Palatinate" title="Rhineland-Palatinate">Rhineland-Palatinate</a>, <a href="/wiki/Hesse" title="Hesse">Hesse</a>, <a href="/wiki/Baden-W%C3%BCrttemberg" title="Baden-Württemberg">Baden-Württemberg</a>, <a href="/wiki/Bavaria" title="Bavaria">Bavaria</a></td>
+</tr>
+<tr style="display:none">
+<th colspan="2"></th>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:#039; color:#fff;">Highway system</th>
+</tr>
+<tr>
+<td colspan="2" class="hlist" style="text-align:center">
+<div class="hlist">
+<ul>
+<li><b>Roads in Germany</b></li>
+</ul>
+<ul>
+<li><a href="/wiki/Autobahn" title="Autobahn">Autobahns</a>
+<ul>
+<li><a href="/wiki/List_of_autobahns_in_Germany" title="List of autobahns in Germany">List</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Bundesstra%C3%9Fe" title="Bundesstraße">Federal</a>
+<ul>
+<li><a href="/wiki/List_of_federal_highways_in_Germany" title="List of federal highways in Germany">List</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Landesstra%C3%9Fe" title="Landesstraße">State</a></li>
+<li><a href="/wiki/List_of_E-roads_in_Germany" title="List of E-roads in Germany">E-roads</a></li>
+</ul>
+</div>
+<table style="width:100%; background:none; border-collapse:collapse">
+<tr>
+<td style="text-align:left;padding:0;vertical-align:middle;width:45%">← <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bundesautobahn_5_number.svg/34px-Bundesautobahn_5_number.svg.png" width="34" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bundesautobahn_5_number.svg/50px-Bundesautobahn_5_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bundesautobahn_5_number.svg/67px-Bundesautobahn_5_number.svg.png 2x" data-file-width="400" data-file-height="240" /> <span class="nowrap"><a href="/wiki/Bundesautobahn_5" title="Bundesautobahn 5">A 5</a></span></td>
+<td style="text-align:center;width:10%;padding:0;vertical-align:middle;white-space:nowrap"></td>
+<td style="text-align:right;padding:0;vertical-align:middle;width:45%"><span class="nowrap"><a href="/wiki/Bundesautobahn_7" title="Bundesautobahn 7">A 7</a></span> <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bundesautobahn_7_number.svg/34px-Bundesautobahn_7_number.svg.png" width="34" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bundesautobahn_7_number.svg/50px-Bundesautobahn_7_number.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bundesautobahn_7_number.svg/67px-Bundesautobahn_7_number.svg.png 2x" data-file-width="400" data-file-height="240" /> →</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p><b>Bundesautobahn&#160;6</b> (translates from <a href="/wiki/German_language" title="German language">German</a> as <i>Federal Motorway&#160;6</i>, short form <b>Autobahn&#160;6</b>, abbreviated as <b>BAB&#160;6</b> or <b>A&#160;6</b>), also known as <b>Via Carolina</b> (between <a href="/wiki/N%C3%BCrnberg" class="mw-redirect" title="Nürnberg">Nürnberg</a> and the Czech border continuing to <a href="/wiki/Prague" title="Prague">Prague</a>) is a 477&#160;km (296.4&#160;mi) long German <a href="/wiki/Autobahn" title="Autobahn">autobahn</a>. It starts at the <a href="/wiki/France" title="France">French</a> border near <a href="/wiki/Saarbr%C3%BCcken" title="Saarbrücken">Saarbrücken</a> in the west and end at the <a href="/wiki/Czech_Republic" title="Czech Republic">Czech</a> border near <a href="/wiki/Waidhaus" title="Waidhaus">Waidhaus</a> in the east.</p>
+<p>The first plans for the A&#160;6 were laid out in 1935, construction on several parts began in 1938. In 1940, construction near <a href="/wiki/Mannheim" title="Mannheim">Mannheim</a> was stopped when the bridge across the <a href="/wiki/Rhine" title="Rhine">Rhine</a> collapsed, killing many workers. A new bridge, the <a href="/wiki/Theodor_Heuss_Bridge_(Frankenthal)" title="Theodor Heuss Bridge (Frankenthal)">Theodor Heuss Bridge (Frankenthal)</a>, was opened in 1953. Other parts of the A&#160;6 were completed in 1941. A part near <a href="/wiki/Kaiserslautern" title="Kaiserslautern">Kaiserslautern</a> was used as an airstrip by the <a href="/wiki/Luftwaffe" title="Luftwaffe">Luftwaffe</a> during <a href="/wiki/World_War_II" title="World War II">World War II</a>. After the war, it was taken over by US forces and became the <a href="/wiki/Ramstein_Air_Base" title="Ramstein Air Base">Ramstein Air Base</a>, while the A&#160;6 was re-built south of the air base.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:452px;"><a href="/wiki/File:Weinsberg_Autobahnkreuz_von_Burg_Maerz_2005.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Weinsberg_Autobahnkreuz_von_Burg_Maerz_2005.jpg/450px-Weinsberg_Autobahnkreuz_von_Burg_Maerz_2005.jpg" width="450" height="175" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Weinsberg_Autobahnkreuz_von_Burg_Maerz_2005.jpg/675px-Weinsberg_Autobahnkreuz_von_Burg_Maerz_2005.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Weinsberg_Autobahnkreuz_von_Burg_Maerz_2005.jpg/900px-Weinsberg_Autobahnkreuz_von_Burg_Maerz_2005.jpg 2x" data-file-width="3072" data-file-height="1192" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Weinsberg_Autobahnkreuz_von_Burg_Maerz_2005.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Weinsberg" title="Weinsberg">Weinsberg</a> intersection of the <b>A&#160;6</b> and <b>A&#160;81</b>. The A&#160;6 runs from bottom-left to top-right.</div>
+</div>
+</div>
+<p>In the 1960s, construction was continued. One new section cut through the <a href="/wiki/Hockenheimring" title="Hockenheimring">Hockenheimring</a>, requiring a major redesign of the race track which resulted in the construction of the <i>Motodrom</i> stadium.</p>
+<p>Much like its southern counterpart, the <a href="/wiki/Bundesautobahn_8" title="Bundesautobahn 8">A&#160;8</a>, the A&#160;6 is relatively old and has received little upgrading, making it difficult for it to handle today's traffic. The section around <a href="/wiki/Mannheim" title="Mannheim">Mannheim</a> is currently being widened and modernised from a four-lane to a six-lane motorway requiring the construction of a new bridge over the River <a href="/wiki/Neckar" title="Neckar">Neckar</a>.</p>
+<p>About the Kocher Viaduct (German: Kochertalbrücke) near Schwäbisch Hall, the Autobahn 6 crosses the Kocher valley between Heilbronn and Nuremberg. With its maximum height of 185&#160;m (607&#160;ft) above the valley bottom, it is the highest viaduct in Germany.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Kochertalbruecke_080606.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Kochertalbruecke_080606.jpg/300px-Kochertalbruecke_080606.jpg" width="300" height="179" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Kochertalbruecke_080606.jpg/450px-Kochertalbruecke_080606.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Kochertalbruecke_080606.jpg/600px-Kochertalbruecke_080606.jpg 2x" data-file-width="1600" data-file-height="953" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Kochertalbruecke_080606.jpg" class="internal" title="Enlarge"></a></div>
+Kochertalbrücke</div>
+</div>
+</div>
+<p>The direct motorway connection between Prague and <a href="/wiki/Paris" title="Paris">Paris</a> was completed when the last missing section between junction <a href="/wiki/Amberg" title="Amberg">Amberg</a>-Ost and interchange <i><a href="/wiki/Upper_Palatinate_Forest" class="mw-redirect" title="Upper Palatinate Forest">Oberpfälzer Wald</a></i> was inaugurated on 10 September 2008.</p>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bundesautobahn_6&amp;action=edit&amp;section=1" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Openstreetmap_logo.svg/16px-Openstreetmap_logo.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Openstreetmap_logo.svg/24px-Openstreetmap_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Openstreetmap_logo.svg/32px-Openstreetmap_logo.svg.png 2x" data-file-width="256" data-file-height="256" /> Geographic data related to <a rel="nofollow" class="external text" href="https://www.openstreetmap.org/relation/15190">Bundesautobahn 6</a> at <a href="/wiki/OpenStreetMap" title="OpenStreetMap">OpenStreetMap</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.autobahnatlas-online.de/A6.htm">Bundesautobahn 6 – detailed route plan</a> <span class="languageicon">(in German)</span></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Autobahn_system_in_Germany" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Bundesautobahn" title="Template:Bundesautobahn"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Bundesautobahn" title="Template talk:Bundesautobahn"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Bundesautobahn&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Autobahn_system_in_Germany" style="font-size:114%;margin:0 4em"><a href="/wiki/Autobahn" title="Autobahn">Autobahn system in Germany</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Major routes</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bundesautobahn_1" title="Bundesautobahn 1">A 1</a></li>
+<li><a href="/wiki/Bundesautobahn_2" title="Bundesautobahn 2">A 2</a></li>
+<li><a href="/wiki/Bundesautobahn_3" title="Bundesautobahn 3">A 3</a></li>
+<li><a href="/wiki/Bundesautobahn_4" title="Bundesautobahn 4">A 4</a></li>
+<li><a href="/wiki/Bundesautobahn_5" title="Bundesautobahn 5">A 5</a></li>
+<li><a class="mw-selflink selflink">A 6</a></li>
+<li><a href="/wiki/Bundesautobahn_7" title="Bundesautobahn 7">A 7</a></li>
+<li><a href="/wiki/Bundesautobahn_8" title="Bundesautobahn 8">A 8</a></li>
+<li><a href="/wiki/Bundesautobahn_9" title="Bundesautobahn 9">A 9</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Regional<br />
+routes</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bundesautobahn_10" title="Bundesautobahn 10">A 10</a></li>
+<li><a href="/wiki/Bundesautobahn_11" title="Bundesautobahn 11">A 11</a></li>
+<li><a href="/wiki/Bundesautobahn_12" title="Bundesautobahn 12">A 12</a></li>
+<li><a href="/wiki/Bundesautobahn_13" title="Bundesautobahn 13">A 13</a></li>
+<li><a href="/wiki/Bundesautobahn_14" title="Bundesautobahn 14">A 14</a></li>
+<li><a href="/wiki/Bundesautobahn_15" title="Bundesautobahn 15">A 15</a></li>
+<li><a href="/wiki/Bundesautobahn_17" title="Bundesautobahn 17">A 17</a></li>
+<li><a href="/wiki/Bundesautobahn_19" title="Bundesautobahn 19">A 19</a></li>
+<li><a href="/wiki/Bundesautobahn_20" title="Bundesautobahn 20">A 20</a></li>
+<li><a href="/wiki/Bundesautobahn_21" title="Bundesautobahn 21">A 21</a></li>
+<li><a href="/wiki/Bundesautobahn_23" title="Bundesautobahn 23">A 23</a></li>
+<li><a href="/wiki/Bundesautobahn_24" title="Bundesautobahn 24">A 24</a></li>
+<li><a href="/wiki/Bundesautobahn_25" title="Bundesautobahn 25">A 25</a></li>
+<li><a href="/wiki/Bundesautobahn_26" title="Bundesautobahn 26">A 26</a></li>
+<li><a href="/wiki/Bundesautobahn_27" title="Bundesautobahn 27">A 27</a></li>
+<li><a href="/wiki/Bundesautobahn_28" title="Bundesautobahn 28">A 28</a></li>
+<li><a href="/wiki/Bundesautobahn_29" title="Bundesautobahn 29">A 29</a></li>
+<li><a href="/wiki/Bundesautobahn_30" title="Bundesautobahn 30">A 30</a></li>
+<li><a href="/wiki/Bundesautobahn_31" title="Bundesautobahn 31">A 31</a></li>
+<li><a href="/wiki/Bundesautobahn_33" title="Bundesautobahn 33">A 33</a></li>
+<li><a href="/wiki/Bundesautobahn_37" title="Bundesautobahn 37">A 37</a></li>
+<li><a href="/wiki/Bundesautobahn_38" title="Bundesautobahn 38">A 38</a></li>
+<li><a href="/wiki/Bundesautobahn_39" title="Bundesautobahn 39">A 39</a></li>
+<li><a href="/wiki/Bundesautobahn_40" title="Bundesautobahn 40">A 40</a></li>
+<li><a href="/wiki/Bundesautobahn_42" title="Bundesautobahn 42">A 42</a></li>
+<li><a href="/wiki/Bundesautobahn_43" title="Bundesautobahn 43">A 43</a></li>
+<li><a href="/wiki/Bundesautobahn_44" title="Bundesautobahn 44">A 44</a></li>
+<li><a href="/wiki/Bundesautobahn_45" title="Bundesautobahn 45">A 45</a></li>
+<li><a href="/wiki/Bundesautobahn_46" title="Bundesautobahn 46">A 46</a></li>
+<li><a href="/wiki/Bundesautobahn_48" title="Bundesautobahn 48">A 48</a></li>
+<li><a href="/wiki/Bundesautobahn_49" title="Bundesautobahn 49">A 49</a></li>
+<li><a href="/wiki/Bundesautobahn_52" title="Bundesautobahn 52">A 52</a></li>
+<li><a href="/wiki/Bundesautobahn_57" title="Bundesautobahn 57">A 57</a></li>
+<li><a href="/wiki/Bundesautobahn_59" title="Bundesautobahn 59">A 59</a></li>
+<li><a href="/wiki/Bundesautobahn_60" title="Bundesautobahn 60">A 60</a></li>
+<li><a href="/wiki/Bundesautobahn_61" title="Bundesautobahn 61">A 61</a></li>
+<li><a href="/wiki/Bundesautobahn_62" title="Bundesautobahn 62">A 62</a></li>
+<li><a href="/wiki/Bundesautobahn_63" title="Bundesautobahn 63">A 63</a></li>
+<li><a href="/wiki/Bundesautobahn_64" title="Bundesautobahn 64">A 64</a></li>
+<li><a href="/wiki/Bundesautobahn_65" title="Bundesautobahn 65">A 65</a></li>
+<li><a href="/wiki/Bundesautobahn_66" title="Bundesautobahn 66">A 66</a></li>
+<li><a href="/wiki/Bundesautobahn_67" title="Bundesautobahn 67">A 67</a></li>
+<li><a href="/wiki/Bundesautobahn_70" title="Bundesautobahn 70">A 70</a></li>
+<li><a href="/wiki/Bundesautobahn_71" title="Bundesautobahn 71">A 71</a></li>
+<li><a href="/wiki/Bundesautobahn_72" title="Bundesautobahn 72">A 72</a></li>
+<li><a href="/wiki/Bundesautobahn_73" title="Bundesautobahn 73">A 73</a></li>
+<li><a href="/wiki/Bundesautobahn_81" title="Bundesautobahn 81">A 81</a></li>
+<li><a href="/wiki/Bundesautobahn_92" title="Bundesautobahn 92">A 92</a></li>
+<li><a href="/wiki/Bundesautobahn_93" title="Bundesautobahn 93">A 93</a></li>
+<li><a href="/wiki/Bundesautobahn_94" title="Bundesautobahn 94">A 94</a></li>
+<li><a href="/wiki/Bundesautobahn_95" title="Bundesautobahn 95">A 95</a></li>
+<li><a href="/wiki/Bundesautobahn_96" title="Bundesautobahn 96">A 96</a></li>
+<li><a href="/wiki/Bundesautobahn_98" title="Bundesautobahn 98">A 98</a></li>
+<li><a href="/wiki/Bundesautobahn_99" title="Bundesautobahn 99">A 99</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Local routes</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<div class="floatright"><a href="/wiki/File:Zeichen_330_-_Autobahn,_StVO_1992.svg" class="image" title="German Autobahn symbol"><img alt="German Autobahn symbol" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Zeichen_330_-_Autobahn%2C_StVO_1992.svg/50px-Zeichen_330_-_Autobahn%2C_StVO_1992.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Zeichen_330_-_Autobahn%2C_StVO_1992.svg/75px-Zeichen_330_-_Autobahn%2C_StVO_1992.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Zeichen_330_-_Autobahn%2C_StVO_1992.svg/100px-Zeichen_330_-_Autobahn%2C_StVO_1992.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+<ul>
+<li><a href="/wiki/Bundesautobahn_100" title="Bundesautobahn 100">A 100</a></li>
+<li><a href="/wiki/Bundesautobahn_103" title="Bundesautobahn 103">A 103</a></li>
+<li><a href="/wiki/Bundesautobahn_111" title="Bundesautobahn 111">A 111</a></li>
+<li><a href="/wiki/Bundesautobahn_113" title="Bundesautobahn 113">A 113</a></li>
+<li><a href="/wiki/Bundesautobahn_114" title="Bundesautobahn 114">A 114</a></li>
+<li><a href="/wiki/Bundesautobahn_115" title="Bundesautobahn 115">A 115</a></li>
+<li><a href="/wiki/Bundesautobahn_117" title="Bundesautobahn 117">A 117</a></li>
+<li><a href="/wiki/Bundesautobahn_143" title="Bundesautobahn 143">A 143</a></li>
+<li><a href="/wiki/Bundesautobahn_210" title="Bundesautobahn 210">A 210</a></li>
+<li><a href="/wiki/Bundesautobahn_215" title="Bundesautobahn 215">A 215</a></li>
+<li><a href="/wiki/Bundesautobahn_226" title="Bundesautobahn 226">A 226</a></li>
+<li><a href="/wiki/Bundesautobahn_252" title="Bundesautobahn 252">A 252</a></li>
+<li><a href="/wiki/Bundesautobahn_253" title="Bundesautobahn 253">A 253</a></li>
+<li><a href="/wiki/Bundesautobahn_255" title="Bundesautobahn 255">A 255</a></li>
+<li><a href="/wiki/Bundesautobahn_261" title="Bundesautobahn 261">A 261</a></li>
+<li><a href="/wiki/Bundesautobahn_270" title="Bundesautobahn 270">A 270</a></li>
+<li><a href="/wiki/Bundesautobahn_280" title="Bundesautobahn 280">A 280</a></li>
+<li><a href="/wiki/Bundesautobahn_281" title="Bundesautobahn 281">A 281</a></li>
+<li><a href="/wiki/Bundesautobahn_293" title="Bundesautobahn 293">A 293</a></li>
+<li><a href="/wiki/Bundesautobahn_352" title="Bundesautobahn 352">A 352</a></li>
+<li><a href="/wiki/Bundesautobahn_391" title="Bundesautobahn 391">A 391</a></li>
+<li><a href="/wiki/Bundesautobahn_392" title="Bundesautobahn 392">A 392</a></li>
+<li><a href="/wiki/Bundesautobahn_395" title="Bundesautobahn 395">A 395</a></li>
+<li><a href="/wiki/Bundesautobahn_445" title="Bundesautobahn 445">A 445</a></li>
+<li><a href="/w/index.php?title=Bundesautobahn_448&amp;action=edit&amp;redlink=1" class="new" title="Bundesautobahn 448 (page does not exist)">A 448</a></li>
+<li><a href="/wiki/Bundesautobahn_480" title="Bundesautobahn 480">A 480</a></li>
+<li><a href="/wiki/Bundesautobahn_485" title="Bundesautobahn 485">A 485</a></li>
+<li><a href="/wiki/Bundesautobahn_516" title="Bundesautobahn 516">A 516</a></li>
+<li><a href="/wiki/Bundesautobahn_524" title="Bundesautobahn 524">A 524</a></li>
+<li><a href="/wiki/Bundesautobahn_535" title="Bundesautobahn 535">A 535</a></li>
+<li><a href="/wiki/Bundesautobahn_540" title="Bundesautobahn 540">A 540</a></li>
+<li><a href="/wiki/Bundesautobahn_542" title="Bundesautobahn 542">A 542</a></li>
+<li><a href="/wiki/Bundesautobahn_544" title="Bundesautobahn 544">A 544</a></li>
+<li><a href="/wiki/Bundesautobahn_553" title="Bundesautobahn 553">A 553</a></li>
+<li><a href="/wiki/Bundesautobahn_555" title="Bundesautobahn 555">A 555</a></li>
+<li><a href="/wiki/Bundesautobahn_559" title="Bundesautobahn 559">A 559</a></li>
+<li><a href="/wiki/Bundesautobahn_560" title="Bundesautobahn 560">A 560</a></li>
+<li><a href="/wiki/Bundesautobahn_562" title="Bundesautobahn 562">A 562</a></li>
+<li><a href="/wiki/Bundesautobahn_565" title="Bundesautobahn 565">A 565</a></li>
+<li><a href="/wiki/Bundesautobahn_571" title="Bundesautobahn 571">A 571</a></li>
+<li><a href="/wiki/Bundesautobahn_573" title="Bundesautobahn 573">A 573</a></li>
+<li><a href="/wiki/Bundesautobahn_602" title="Bundesautobahn 602">A 602</a></li>
+<li><a href="/wiki/Bundesautobahn_620" title="Bundesautobahn 620">A 620</a></li>
+<li><a href="/wiki/Bundesautobahn_623" title="Bundesautobahn 623">A 623</a></li>
+<li><a href="/wiki/Bundesautobahn_643" title="Bundesautobahn 643">A 643</a></li>
+<li><a href="/wiki/Bundesautobahn_648" title="Bundesautobahn 648">A 648</a></li>
+<li><a href="/wiki/Bundesautobahn_650" title="Bundesautobahn 650">A 650</a></li>
+<li><a href="/wiki/Bundesautobahn_656" title="Bundesautobahn 656">A 656</a></li>
+<li><a href="/wiki/Bundesautobahn_659" title="Bundesautobahn 659">A 659</a></li>
+<li><a href="/wiki/Bundesautobahn_661" title="Bundesautobahn 661">A 661</a></li>
+<li><a href="/wiki/Bundesautobahn_671" title="Bundesautobahn 671">A 671</a></li>
+<li><a href="/wiki/Bundesautobahn_672" title="Bundesautobahn 672">A 672</a></li>
+<li><a href="/wiki/Bundesautobahn_831" title="Bundesautobahn 831">A 831</a></li>
+<li><a href="/wiki/Bundesautobahn_861" title="Bundesautobahn 861">A 861</a></li>
+<li><a href="/wiki/Bundesautobahn_864" title="Bundesautobahn 864">A 864</a></li>
+<li><a href="/wiki/Bundesautobahn_952" title="Bundesautobahn 952">A 952</a></li>
+<li><a href="/wiki/Bundesautobahn_980" title="Bundesautobahn 980">A 980</a></li>
+<li><a href="/wiki/Bundesautobahn_995" title="Bundesautobahn 995">A 995</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Planned<br />
+or<br />
+former<br />
+routes</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;font-style:italic">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=Bundesautobahn_16&amp;action=edit&amp;redlink=1" class="new" title="Bundesautobahn 16 (page does not exist)">A 16</a></li>
+<li><a href="/wiki/Bundesstra%C3%9Fe_178" title="Bundesstraße 178">A 17*</a></li>
+<li><a href="/w/index.php?title=Bundesautobahn_18&amp;action=edit&amp;redlink=1" class="new" title="Bundesautobahn 18 (page does not exist)">A 18</a></li>
+<li><a href="/wiki/Bundesautobahn_22" title="Bundesautobahn 22">A 22</a></li>
+<li><a href="/w/index.php?title=Bundesautobahn_32&amp;action=edit&amp;redlink=1" class="new" title="Bundesautobahn 32 (page does not exist)">A 32</a></li>
+<li><a href="/w/index.php?title=Bundesautobahn_34&amp;action=edit&amp;redlink=1" class="new" title="Bundesautobahn 34 (page does not exist)">A 34</a></li>
+<li><a href="/w/index.php?title=Bundesautobahn_35&amp;action=edit&amp;redlink=1" class="new" title="Bundesautobahn 35 (page does not exist)">A 35</a></li>
+<li><a href="/wiki/Bundesautobahn_36" title="Bundesautobahn 36">A 36</a></li>
+<li><a href="/w/index.php?title=Bundesautobahn_40_(original_plan)&amp;action=edit&amp;redlink=1" class="new" title="Bundesautobahn 40 (original plan) (page does not exist)">A 40*</a></li>
+<li><a href="/w/index.php?title=Bundesautobahn_41&amp;action=edit&amp;redlink=1" class="new" title="Bundesautobahn 41 (page does not exist)">A 41</a></li>
+<li><a href="/w/index.php?title=Bundesautobahn_47&amp;action=edit&amp;redlink=1" class="new" title="Bundesautobahn 47 (page does not exist)">A 47</a></li>
+<li><a href="/wiki/Bundesautobahn_4" title="Bundesautobahn 4">A 50</a></li>
+<li><a href="/w/index.php?title=Bundesstra%C3%9Fe_509&amp;action=edit&amp;redlink=1" class="new" title="Bundesstraße 509 (page does not exist)">A 51</a></li>
+<li><a href="/wiki/Bundesautobahn_44" title="Bundesautobahn 44">A 53</a></li>
+<li><a href="/wiki/Bundesautobahn_542" title="Bundesautobahn 542">A 54</a></li>
+<li><a href="/w/index.php?title=Bundesautobahn_55&amp;action=edit&amp;redlink=1" class="new" title="Bundesautobahn 55 (page does not exist)">A 55</a></li>
+<li><a href="/wiki/Bundesautobahn_562" title="Bundesautobahn 562">A 56</a></li>
+<li><a href="/wiki/Bundesstra%C3%9Fe_9" title="Bundesstraße 9">A 69</a></li>
+<li><a href="/w/index.php?title=Bundesautobahn_74&amp;action=edit&amp;redlink=1" class="new" title="Bundesautobahn 74 (page does not exist)">A 74</a></li>
+<li><a href="/w/index.php?title=Bundesautobahn_75&amp;action=edit&amp;redlink=1" class="new" title="Bundesautobahn 75 (page does not exist)">A 75</a></li>
+<li><a href="/wiki/Bundesstra%C3%9Fe_2" title="Bundesstraße 2">A 77</a></li>
+<li><a href="/w/index.php?title=Bundesautobahn_80&amp;action=edit&amp;redlink=1" class="new" title="Bundesautobahn 80 (page does not exist)">A 80</a></li>
+<li><a href="/wiki/Bundesautobahn_8" title="Bundesautobahn 8">A 82</a></li>
+<li><a href="/wiki/Bundesstra%C3%9Fe_27" title="Bundesstraße 27">A 83</a></li>
+<li><a href="/w/index.php?title=Bundesstra%C3%9Fe_28a&amp;action=edit&amp;redlink=1" class="new" title="Bundesstraße 28a (page does not exist)">A 84</a></li>
+<li><a href="/wiki/Bundesautobahn_85" title="Bundesautobahn 85">A 85</a></li>
+<li><a href="/wiki/Bundesautobahn_86" title="Bundesautobahn 86">A 86</a></li>
+<li><a href="/w/index.php?title=Bundesstra%C3%9Fe_29&amp;action=edit&amp;redlink=1" class="new" title="Bundesstraße 29 (page does not exist)">A 87</a></li>
+<li><a href="/w/index.php?title=Bundesstra%C3%9Fe_312&amp;action=edit&amp;redlink=1" class="new" title="Bundesstraße 312 (page does not exist)">A 88</a></li>
+<li><a href="/wiki/Bundesstra%C3%9Fe_30" title="Bundesstraße 30">A 89</a></li>
+<li><a href="/w/index.php?title=Bundesautobahn_90&amp;action=edit&amp;redlink=1" class="new" title="Bundesautobahn 90 (page does not exist)">A 90</a></li>
+<li><a href="/wiki/Bundesautobahn_91" title="Bundesautobahn 91">A 91</a></li>
+<li><a href="/wiki/Bundesautobahn_100" title="Bundesautobahn 100">A 102</a></li>
+<li><a href="/wiki/Bundesautobahn_100" title="Bundesautobahn 100">A 104</a></li>
+<li><a href="/wiki/Bundesautobahn_111" title="Bundesautobahn 111">A 105</a></li>
+<li><a href="/w/index.php?title=Bundesautobahn_106&amp;action=edit&amp;redlink=1" class="new" title="Bundesautobahn 106 (page does not exist)">A 106</a></li>
+<li><a href="/w/index.php?title=Bundesautobahn_107&amp;action=edit&amp;redlink=1" class="new" title="Bundesautobahn 107 (page does not exist)">A 107</a></li>
+<li><a href="/wiki/Bundesautobahn_38" title="Bundesautobahn 38">A 140</a></li>
+<li><a href="/wiki/Bundesstra%C3%9Fe_96" title="Bundesstraße 96">A 201</a></li>
+<li><a href="/w/index.php?title=Bundesstra%C3%9Fe_200&amp;action=edit&amp;redlink=1" class="new" title="Bundesstraße 200 (page does not exist)">A 205</a></li>
+<li><a href="/wiki/Bundesstra%C3%9Fe_75" title="Bundesstraße 75">A 227</a></li>
+<li><a href="/wiki/Bundesautobahn_241" title="Bundesautobahn 241">A 241</a></li>
+<li><a href="/wiki/Bundesautobahn_250" title="Bundesautobahn 250">A 250</a></li>
+<li><a href="/wiki/Bundesautobahn_21" title="Bundesautobahn 21">A 263</a></li>
+<li><a href="/wiki/Bundesstra%C3%9Fe_75" title="Bundesstraße 75">A 282</a></li>
+<li><a href="/w/index.php?title=Bundesstra%C3%9Fe_210&amp;action=edit&amp;redlink=1" class="new" title="Bundesstraße 210 (page does not exist)">A 290</a></li>
+<li><a href="/wiki/Bundesstra%C3%9Fe_54" title="Bundesstraße 54">A 314</a></li>
+<li><a href="/wiki/Bundesautobahn_30" title="Bundesautobahn 30">A 339</a></li>
+<li><a href="/wiki/Bundesautobahn_395" title="Bundesautobahn 395">A 369</a></li>
+<li><a href="/wiki/Bundesautobahn_37" title="Bundesautobahn 37">A 376</a></li>
+<li><a href="/wiki/Bundesautobahn_388" title="Bundesautobahn 388">A 388</a></li>
+<li><a href="/wiki/Bundesautobahn_40" title="Bundesautobahn 40">A 430</a></li>
+<li><a href="/w/index.php?title=Bundesautobahn_432&amp;action=edit&amp;redlink=1" class="new" title="Bundesautobahn 432 (page does not exist)">A 432</a></li>
+<li><a href="/w/index.php?title=Bundesautobahn_441&amp;action=edit&amp;redlink=1" class="new" title="Bundesautobahn 441 (page does not exist)">A 441</a></li>
+<li><a href="/w/index.php?title=Bundesstra%C3%9Fe_236&amp;action=edit&amp;redlink=1" class="new" title="Bundesstraße 236 (page does not exist)">A 441*</a></li>
+<li><a href="/w/index.php?title=Bundesstra%C3%9Fe_233&amp;action=edit&amp;redlink=1" class="new" title="Bundesstraße 233 (page does not exist)">A 443</a></li>
+<li><a href="/w/index.php?title=Bundesstra%C3%9Fe_256&amp;action=edit&amp;redlink=1" class="new" title="Bundesstraße 256 (page does not exist)">A 451</a></li>
+<li><a href="/w/index.php?title=Bundesstra%C3%9Fe_49&amp;action=edit&amp;redlink=1" class="new" title="Bundesstraße 49 (page does not exist)">A 480*</a></li>
+<li><a href="/w/index.php?title=Bundesautobahn_533&amp;action=edit&amp;redlink=1" class="new" title="Bundesautobahn 533 (page does not exist)">A 533</a></li>
+<li><a href="/w/index.php?title=Bundesautobahn_545&amp;action=edit&amp;redlink=1" class="new" title="Bundesautobahn 545 (page does not exist)">A 545</a></li>
+<li><a href="/w/index.php?title=Bundesautobahn_552&amp;action=edit&amp;redlink=1" class="new" title="Bundesautobahn 552 (page does not exist)">A 552</a></li>
+<li><a href="/w/index.php?title=Bundesautobahn_558&amp;action=edit&amp;redlink=1" class="new" title="Bundesautobahn 558 (page does not exist)">A 558</a></li>
+<li><a href="/wiki/Bundesautobahn_544" title="Bundesautobahn 544">A 580</a></li>
+<li><a href="/w/index.php?title=Bundesstra%C3%9Fe_41&amp;action=edit&amp;redlink=1" class="new" title="Bundesstraße 41 (page does not exist)">A 610</a></li>
+<li><a href="/w/index.php?title=Bundesstra%C3%9Fe_269&amp;action=edit&amp;redlink=1" class="new" title="Bundesstraße 269 (page does not exist)">A 621</a></li>
+<li><a href="/wiki/Bundesstra%C3%9Fe_8" title="Bundesstraße 8">A 647</a></li>
+<li><a href="/wiki/Bundesautobahn_65" title="Bundesautobahn 65">A 652</a></li>
+<li><a href="/w/index.php?title=Bundesautobahn_653&amp;action=edit&amp;redlink=1" class="new" title="Bundesautobahn 653 (page does not exist)">A 653</a></li>
+<li><a href="/w/index.php?title=Bundesautobahn_654&amp;action=edit&amp;redlink=1" class="new" title="Bundesautobahn 654 (page does not exist)">A 654</a></li>
+<li><a href="/w/index.php?title=Bundesautobahn_655&amp;action=edit&amp;redlink=1" class="new" title="Bundesautobahn 655 (page does not exist)">A 655</a></li>
+<li><a href="/wiki/Bundesstra%C3%9Fe_26" title="Bundesstraße 26">A 680</a></li>
+<li><a href="/wiki/Bundesstra%C3%9Fe_45" title="Bundesstraße 45">A 683</a></li>
+<li><a href="/w/index.php?title=Bundesstra%C3%9Fe_469&amp;action=edit&amp;redlink=1" class="new" title="Bundesstraße 469 (page does not exist)">A 687</a></li>
+<li><a href="/w/index.php?title=Bundesstra%C3%9Fe_19&amp;action=edit&amp;redlink=1" class="new" title="Bundesstraße 19 (page does not exist)">A 713</a></li>
+<li><a href="/wiki/Bundesautobahn_72" title="Bundesautobahn 72">A 720</a></li>
+<li><a href="/wiki/Bundesautobahn_72" title="Bundesautobahn 72">A 722</a></li>
+<li><a href="/w/index.php?title=Bundesstra%C3%9Fe_505&amp;action=edit&amp;redlink=1" class="new" title="Bundesstraße 505 (page does not exist)">A 731</a></li>
+<li><a href="/wiki/Bundesstra%C3%9Fe_2" title="Bundesstraße 2">A 751</a></li>
+<li><a href="/wiki/Bundesstra%C3%9Fe_8" title="Bundesstraße 8">A 752</a></li>
+<li><a href="/wiki/Bundesautobahn_73" title="Bundesautobahn 73">A 753</a></li>
+<li><a href="/wiki/Bundesstra%C3%9Fe_500" title="Bundesstraße 500">A 828</a></li>
+<li><a href="/w/index.php?title=Bundesstra%C3%9Fe_464&amp;action=edit&amp;redlink=1" class="new" title="Bundesstraße 464 (page does not exist)">A 833</a></li>
+<li><a href="/w/index.php?title=Bundesautobahn_834&amp;action=edit&amp;redlink=1" class="new" title="Bundesautobahn 834 (page does not exist)">A 834</a></li>
+<li><a href="/wiki/Bundesstra%C3%9Fe_28" title="Bundesstraße 28">A 840</a></li>
+<li><a href="/wiki/Bundesautobahn_860" title="Bundesautobahn 860">A 860</a></li>
+<li><a href="/wiki/Bundesautobahn_862" title="Bundesautobahn 862">A 862</a></li>
+<li><a href="/wiki/Bundesstra%C3%9Fe_500" title="Bundesstraße 500">A 863</a></li>
+<li><a href="/w/index.php?title=Bundesautobahn_863_(original_plan)&amp;action=edit&amp;redlink=1" class="new" title="Bundesautobahn 863 (original plan) (page does not exist)">A 863*</a></li>
+<li><a href="/w/index.php?title=Bundesstra%C3%9Fe_33&amp;action=edit&amp;redlink=1" class="new" title="Bundesstraße 33 (page does not exist)">A 881</a></li>
+<li><a href="/w/index.php?title=Bundesautobahn_895&amp;action=edit&amp;redlink=1" class="new" title="Bundesautobahn 895 (page does not exist)">A 895</a></li>
+<li><a href="/w/index.php?title=Bundesautobahn_921&amp;action=edit&amp;redlink=1" class="new" title="Bundesautobahn 921 (page does not exist)">A 921</a></li>
+<li><a href="/wiki/Bundesautobahn_92" title="Bundesautobahn 92">A 922</a></li>
+<li><a href="/wiki/Bundesautobahn_94" title="Bundesautobahn 94">A 942</a></li>
+<li><a href="/w/index.php?title=Bundesstra%C3%9Fe_304&amp;action=edit&amp;redlink=1" class="new" title="Bundesstraße 304 (page does not exist)">A 944</a></li>
+<li><a href="/w/index.php?title=Bundesstra%C3%9Fe_19&amp;action=edit&amp;redlink=1" class="new" title="Bundesstraße 19 (page does not exist)">A 985</a></li>
+<li><a href="/wiki/Bundesautobahn_9" title="Bundesautobahn 9">A 990</a></li>
+<li><a href="/wiki/Bundesautobahn_92" title="Bundesautobahn 92">A 991</a></li>
+<li><a href="/wiki/Bundesautobahn_94" title="Bundesautobahn 94">A 992</a></li>
+<li><a href="/w/index.php?title=Bundesautobahn_993&amp;action=edit&amp;redlink=1" class="new" title="Bundesautobahn 993 (page does not exist)">A 993</a></li>
+<li><a href="/wiki/Bundesautobahn_8" title="Bundesautobahn 8">A 994</a></li>
+<li><a href="/wiki/Bundesautobahn_95" title="Bundesautobahn 95">A 996</a></li>
+<li><a href="/wiki/Bundesautobahn_96" title="Bundesautobahn 96">A 997</a></li>
+<li><a href="/wiki/Bundesautobahn_8" title="Bundesautobahn 8">A 998</a></li>
+<li><a href="/wiki/Bundesautobahn_999" title="Bundesautobahn 999">A 999</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">See also</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Reichsautobahn" title="Reichsautobahn">Reichsautobahn</a> (history)</li>
+<li><a href="/wiki/Autobahnpolizei" title="Autobahnpolizei">Autobahnpolizei</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li>* original plan: number is used by another route now</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1164
+Cached time: 20170905015914
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.464 seconds
+Real time usage: 0.601 seconds
+Preprocessor visited node count: 2287/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 122821/2097152 bytes
+Template argument size: 34249/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 55/500
+Lua time usage: 0.096/10.000 seconds
+Lua memory usage: 2.79 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  350.235      1 -total
+ 79.70%  279.122      1 Template:Infobox_road
+ 66.96%  234.507      1 Template:Infobox
+ 28.06%   98.286      1 Template:Bundesautobahn_6_route_map
+ 10.41%   36.469      1 Template:Convert
+  9.55%   33.434     27 Template:BAB-B-1
+  7.93%   27.782      2 Template:Infobox_road/translation/DEU
+  7.41%   25.943      2 Template:Lang
+  7.08%   24.786      3 Template:Category_handler
+  4.68%   16.407     16 Template:BAB-A-1
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2668171-0!canonical and timestamp 20170905015914 and revision id 769261057
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Bundesautobahn_6&amp;oldid=769261057">https://en.wikipedia.org/w/index.php?title=Bundesautobahn_6&amp;oldid=769261057</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Autobahns_in_Germany" title="Category:Autobahns in Germany">Autobahns in Germany</a></li><li><a href="/wiki/Category:Roads_in_Bavaria" title="Category:Roads in Bavaria">Roads in Bavaria</a></li><li><a href="/wiki/Category:Roads_in_Baden-W%C3%BCrttemberg" title="Category:Roads in Baden-Württemberg">Roads in Baden-Württemberg</a></li><li><a href="/wiki/Category:Roads_in_Hesse" title="Category:Roads in Hesse">Roads in Hesse</a></li><li><a href="/wiki/Category:Roads_in_Rhineland-Palatinate" title="Category:Roads in Rhineland-Palatinate">Roads in Rhineland-Palatinate</a></li><li><a href="/wiki/Category:Roads_in_Saarland" title="Category:Roads in Saarland">Roads in Saarland</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_German-language_text" title="Category:Articles containing German-language text">Articles containing German-language text</a></li><li><a href="/wiki/Category:Infobox_road_maps_for_Wikidata_migration" title="Category:Infobox road maps for Wikidata migration">Infobox road maps for Wikidata migration</a></li><li><a href="/wiki/Category:Articles_with_German-language_external_links" title="Category:Articles with German-language external links">Articles with German-language external links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Bundesautobahn+6" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Bundesautobahn+6" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Bundesautobahn_6" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Bundesautobahn_6" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Bundesautobahn_6">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Bundesautobahn_6&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Bundesautobahn_6&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Bundesautobahn_6" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Bundesautobahn_6" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Bundesautobahn_6&amp;oldid=769261057" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Bundesautobahn_6&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q9016" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Bundesautobahn_6&amp;id=769261057" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Bundesautobahn+6">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Bundesautobahn+6&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DBundesautobahn%2B6%26returnto%3DBundesautobahn%2B6%26oldid%3D769261057%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Bundesautobahn_6&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Bundesautobahn_6" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Bundesautobahn_6" title="Bundesautobahn 6 – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/D%C3%A1lnice_A6_(N%C4%9Bmecko)" title="Dálnice A6 (Německo) – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Bundesautobahn_6" title="Bundesautobahn 6 – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Bundesautobahn_6" title="Bundesautobahn 6 – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Germana_a%C5%ADtovojo_A6" title="Germana aŭtovojo A6 – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Bundesautobahn_6" title="Bundesautobahn 6 – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Bundesautobahn_6" title="Bundesautobahn 6 – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/A6-os_aut%C3%B3p%C3%A1lya_(N%C3%A9metorsz%C3%A1g)" title="A6-os autópálya (Németország) – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Bundesautobahn_6" title="Bundesautobahn 6 – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Autostrada_A6_(Niemcy)" title="Autostrada A6 (Niemcy) – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Bundesautobahn_6" title="Bundesautobahn 6 – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/A6_(%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D0%BB%D1%8C,_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F)" title="A6 (автомагистраль, Германия) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Dia%C4%BEnica_A6_(Nemecko)" title="Diaľnica A6 (Nemecko) – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Bundesautobahn_6" title="Bundesautobahn 6 – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/A6_(motorv%C3%A4g,_Tyskland)" title="A6 (motorväg, Tyskland) – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%BE%B7%E5%9B%BD6%E5%8F%B7%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF" title="德国6号高速公路 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q9016#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 8 March 2017, at 13:29.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Bundesautobahn_6&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.464","walltime":"0.601","ppvisitednodes":{"value":2287,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":122821,"limit":2097152},"templateargumentsize":{"value":34249,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":55,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  350.235      1 -total"," 79.70%  279.122      1 Template:Infobox_road"," 66.96%  234.507      1 Template:Infobox"," 28.06%   98.286      1 Template:Bundesautobahn_6_route_map"," 10.41%   36.469      1 Template:Convert","  9.55%   33.434     27 Template:BAB-B-1","  7.93%   27.782      2 Template:Infobox_road/translation/DEU","  7.41%   25.943      2 Template:Lang","  7.08%   24.786      3 Template:Category_handler","  4.68%   16.407     16 Template:BAB-A-1"]},"scribunto":{"limitreport-timeusage":{"value":"0.096","limit":"10.000"},"limitreport-memusage":{"value":2924366,"limit":52428800}},"cachereport":{"origin":"mw1164","timestamp":"20170905015914","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":74,"wgHostname":"mw1266"});});</script>
+	</body>
+</html>

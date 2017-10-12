@@ -1,0 +1,660 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Brooklyn College - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Brooklyn_College","wgTitle":"Brooklyn College","wgCurRevisionId":800014191,"wgRevisionId":800014191,"wgArticleId":320470,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Coordinates on Wikidata","Pages using deprecated image syntax","Instances of Infobox university using image size","All articles with unsourced statements","Articles with unsourced statements from June 2010","All articles with dead external links","Articles with dead external links from November 2016","Articles with permanently dead external links","Educational institutions established in 1930","Universities and colleges in New York (state)","Universities and colleges in New York City","Brooklyn College","Universities and colleges in Brooklyn","Midwood, Brooklyn","1930 establishments in New York (state)","Flatbush, Brooklyn","Universities and colleges on Long Island"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Brooklyn_College","wgRelevantArticleId":320470,"wgRequestId":"WbYIHQpAMFEAAGh0q4oAAAAO","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":40.631111111111,"lon":-73.9525},"wgWikibaseItemId":"Q371625","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preload","preloadparams","preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.17"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Brooklyn_College_Seal.svg/1200px-Brooklyn_College_Seal.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Brooklyn_College"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Brooklyn_College&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Brooklyn_College&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Brooklyn_College"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Brooklyn_College rootpage-Brooklyn_College skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Brooklyn College</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em">
+<caption class="fn org">Brooklyn College</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Brooklyn_College_Seal.svg" class="image"><img alt="Brooklyn College Seal.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/b/bb/Brooklyn_College_Seal.svg/150px-Brooklyn_College_Seal.svg.png" width="150" height="149" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/bb/Brooklyn_College_Seal.svg/225px-Brooklyn_College_Seal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/bb/Brooklyn_College_Seal.svg/300px-Brooklyn_College_Seal.svg.png 2x" data-file-width="249" data-file-height="248" /></a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">Motto</th>
+<td><i>Nil sine magno labore</i> ("Nothing without great effort")</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">Type</th>
+<td>Public</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">Established</th>
+<td>1930</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;"><a href="/wiki/Financial_endowment" title="Financial endowment">Endowment</a></th>
+<td>$77 million<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;"><a href="/wiki/University_president" class="mw-redirect" title="University president">President</a></th>
+<td>Michelle Anderson</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Administrative staff</div>
+</th>
+<td>519 full-time,<br />
+444 part-time</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">Students</th>
+<td>16,463 (2014)</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;"><a href="/wiki/Undergraduate_education" title="Undergraduate education">Undergraduates</a></th>
+<td>13,276 (2014)</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;"><a href="/wiki/Postgraduate_education" title="Postgraduate education">Postgraduates</a></th>
+<td>3,187 (2014)</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">Location</th>
+<td class="adr"><span class="locality"><a href="/wiki/Brooklyn" title="Brooklyn">Brooklyn</a></span>, <span class="state"><a href="/wiki/New_York_City" title="New York City">New York City</a>, <a href="/wiki/New_York_(state)" title="New York (state)">New York</a></span>, <span class="country-name">United States</span><br />
+<span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Brooklyn_College&amp;params=40_37_52_N_73_57_9_W_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">40°37′52″N</span> <span class="longitude">73°57′9″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">40.63111°N 73.95250°W</span><span style="display:none">﻿ / <span class="geo">40.63111; -73.95250</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Brooklyn_College&amp;params=40_37_52_N_73_57_9_W_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">40°37′52″N</span> <span class="longitude">73°57′9″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">40.63111°N 73.95250°W</span><span style="display:none">﻿ / <span class="geo">40.63111; -73.95250</span></span></span></a></span></span></span></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">Campus</th>
+<td><a href="/wiki/Urban_area" title="Urban area">Urban</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">Athletics</th>
+<td><a href="/wiki/National_Collegiate_Athletic_Association" title="National Collegiate Athletic Association">NCAA</a> <a href="/wiki/Division_III_(NCAA)" class="mw-redirect" title="Division III (NCAA)">Division III</a> – <a href="/wiki/City_University_of_New_York_Athletic_Conference" title="City University of New York Athletic Conference">CUNYAC (South)</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;"><a href="/wiki/Athletic_nickname" title="Athletic nickname">Nickname</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.brooklyncollegeathletics.com/">Bulldogs</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">Affiliations</th>
+<td><a href="/wiki/City_University_of_New_York" title="City University of New York">CUNY</a><br />
+<a href="/wiki/American_Association_of_State_Colleges_and_Universities" title="American Association of State Colleges and Universities">AASCU</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">Sports</th>
+<td>14 varsity teams</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">Mascot</th>
+<td><a href="/wiki/Bulldog" title="Bulldog">Bulldog</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.brooklyn.cuny.edu/">www.brooklyn.cuny.edu</a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Brooklyn_College_Logo.svg" class="image"><img alt="Brooklyn College Logo.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/4/43/Brooklyn_College_Logo.svg/250px-Brooklyn_College_Logo.svg.png" width="250" height="111" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/43/Brooklyn_College_Logo.svg/375px-Brooklyn_College_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/43/Brooklyn_College_Logo.svg/500px-Brooklyn_College_Logo.svg.png 2x" data-file-width="203" data-file-height="90" /></a></div>
+</div>
+</td>
+</tr>
+</table>
+<p><b>Brooklyn College</b> is a senior college of the <a href="/wiki/City_University_of_New_York" title="City University of New York">City University of New York</a>, located in the <a href="/wiki/Midwood,_Brooklyn" title="Midwood, Brooklyn">Midwood</a> neighborhood of <a href="/wiki/Brooklyn" title="Brooklyn">Brooklyn</a>, <a href="/wiki/New_York_City" title="New York City">New York City</a>.</p>
+<p>Brooklyn College's origin began in 1910 with the establishment of an extension division of the <a href="/wiki/City_College_of_New_York" title="City College of New York">City College for Teachers</a>. The school then began offering evening classes for first-year male college students in 1917. In 1930 by the New York City Board of Higher Education, the College authorized the combination of the <a href="/wiki/Downtown_Brooklyn" title="Downtown Brooklyn">Downtown Brooklyn</a> branches of <a href="/wiki/Hunter_College" title="Hunter College">Hunter College</a> – at that time a <a href="/wiki/Women%27s_college" title="Women's college">women's college</a> – and the <a href="/wiki/City_College_of_New_York" title="City College of New York">City College of New York</a> – a <a href="/wiki/Men%27s_college" class="mw-redirect" title="Men's college">men's college</a> – both of which had been established in 1926.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> With the merger of these branches, Brooklyn College became the first public coeducational <a href="/wiki/Liberal_arts_college" title="Liberal arts college">liberal arts college</a> in New York City.</p>
+<p>The college's 26-acre (110,000&#160;m<sup>2</sup>) campus is known for its beauty, and is often regarded as "the poor man's Harvard" because of its low tuition and reputation for respectable academics. U S News &amp; World Report has ranked the school tied for number 83 as a Regional college (North region).The school was ranked in the top ten for value, diversity, and location by Princeton Review in 2003 and in the top fifty for value in 2009.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Campus_history"><span class="tocnumber">1</span> <span class="toctext">Campus history</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Construction"><span class="tocnumber">1.1</span> <span class="toctext">Construction</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Modern_campus_history"><span class="tocnumber">1.2</span> <span class="toctext">Modern campus history</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Schools"><span class="tocnumber">2</span> <span class="toctext">Schools</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Curriculum"><span class="tocnumber">3</span> <span class="toctext">Curriculum</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Undergraduate_curriculum"><span class="tocnumber">3.1</span> <span class="toctext">Undergraduate curriculum</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Division_of_Graduate_Studies"><span class="tocnumber">3.2</span> <span class="toctext">Division of Graduate Studies</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#B.A.-M.D._program"><span class="tocnumber">3.3</span> <span class="toctext">B.A.-M.D. program</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#The_Scholars_Program"><span class="tocnumber">3.4</span> <span class="toctext">The Scholars Program</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Coordinated_Engineering_Program"><span class="tocnumber">3.5</span> <span class="toctext">Coordinated Engineering Program</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Brooklyn_College_Feirstein_Graduate_School_of_Cinema"><span class="tocnumber">3.6</span> <span class="toctext">Brooklyn College Feirstein Graduate School of Cinema</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Athletics"><span class="tocnumber">4</span> <span class="toctext">Athletics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Mascot"><span class="tocnumber">4.1</span> <span class="toctext">Mascot</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#People"><span class="tocnumber">5</span> <span class="toctext">People</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Alumni"><span class="tocnumber">5.1</span> <span class="toctext">Alumni</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Notable_faculty"><span class="tocnumber">5.2</span> <span class="toctext">Notable faculty</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Campus_history">Campus history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooklyn_College&amp;action=edit&amp;section=1" title="Edit section: Campus history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:2016_Brooklyn_College_Library.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2016_Brooklyn_College_Library.jpg/300px-2016_Brooklyn_College_Library.jpg" width="300" height="253" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2016_Brooklyn_College_Library.jpg/450px-2016_Brooklyn_College_Library.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2016_Brooklyn_College_Library.jpg/600px-2016_Brooklyn_College_Library.jpg 2x" data-file-width="3992" data-file-height="3368" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:2016_Brooklyn_College_Library.jpg" class="internal" title="Enlarge"></a></div>
+The Library, part of the original campus laid out by Philip Randolph, now known as "East Quad"</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Construction">Construction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooklyn_College&amp;action=edit&amp;section=2" title="Edit section: Construction">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1932, the <a href="/wiki/Architect" title="Architect">architect</a> Randolph Evans drafted a plan for the college's campus on a large plot of land his employer owned in the <a href="/wiki/Midwood" class="mw-redirect" title="Midwood">Midwood</a> section of Brooklyn. He sketched out a <a href="/wiki/Georgian_Architecture" class="mw-redirect" title="Georgian Architecture">Georgian</a>-style campus facing a central <a href="/wiki/Quadrangle_(architecture)" title="Quadrangle (architecture)">quadrangle</a>, and anchored by a library building with a tall tower. Evans presented the sketches to the president of the college at the time, Dr. William A. Boylan. Boylan was pleased with the plans, and the lot of land was purchased for $1.6 million. Construction of the new campus began in 1935, with a groundbreaking ceremony attended by then <a href="/wiki/Mayor" title="Mayor">Mayor</a> <a href="/wiki/Fiorello_La_Guardia" class="mw-redirect" title="Fiorello La Guardia">Fiorello La Guardia</a> and Brooklyn <a href="/wiki/Borough_President" class="mw-redirect" title="Borough President">Borough President</a> Raymond Ingersoll. In 1936, then-President of the United States <a href="/wiki/Franklin_D._Roosevelt" title="Franklin D. Roosevelt">Franklin D. Roosevelt</a> went to Brooklyn College to lay the <a href="/wiki/Cornerstone" title="Cornerstone">cornerstone</a> of the Brooklyn College Gymnasium. President Boylan, Borough President Ingersoll, and President Roosevelt all had buildings on Brooklyn College's campus named after them. The campus located in <a href="/wiki/Midwood" class="mw-redirect" title="Midwood">Midwood</a> became the only Brooklyn College campus after the school's <a href="/wiki/Downtown_Brooklyn" title="Downtown Brooklyn">Downtown Brooklyn</a> campus was shut down during the 1975 budget emergency.</p>
+<h3><span class="mw-headline" id="Modern_campus_history">Modern campus history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooklyn_College&amp;action=edit&amp;section=3" title="Edit section: Modern campus history">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Brooklyn College's campus East Quad today looks much as it did when it was originally constructed. The campus also serves as home to the <a rel="nofollow" class="external text" href="http://brooklyncenteronline.org/">Brooklyn Center for the Performing Arts</a> complex and its four theaters, including the <a href="/wiki/George_Gershwin_Theatre_(Brooklyn)" title="George Gershwin Theatre (Brooklyn)">George Gershwin</a>.</p>
+<p>The demolition of Gershwin Hall, replaced by The Leonard &amp; Claire Tow Center for the Performing Arts, is the most recent construction on an evolving campus.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Other changes to the original design include the demolition of Plaza Building, due to its inefficient use of space, poor ventilation, and significant maintenance costs. To replace Plaza Building the college constructed West Quad Center, designed by the notable <a href="/wiki/Uruguay" title="Uruguay">Uruguayan</a> architect <a href="/wiki/Rafael_Vi%C3%B1oly" title="Rafael Viñoly">Rafael Viñoly</a>. The new building contains classroom space, offices, gymnasiums and a swimming pool. It houses the offices of Registration, Admissions, Financial Aid, and the Department of <a href="/wiki/Physical_Education" class="mw-redirect" title="Physical Education">Physical Education</a> and Exercise Science. The grounds contain a <a href="/wiki/Quadrangle_(architecture)" title="Quadrangle (architecture)">quadrangle</a> with grassy areas and trees. New <a href="/wiki/Fa%C3%A7ade" class="mw-redirect" title="Façade">façades</a> are being constructed on Roosevelt and James halls where they once connected with Plaza Building. The 2009–10 <a href="/wiki/City_University_of_New_York_Athletic_Conference" title="City University of New York Athletic Conference">CUNYAC</a> championship men's basketball team now plays its home games in the West Quad Center.</p>
+<p>This follows a major library renovation that saw the library moved to a temporary home while construction took place. The Brooklyn College library is now located in its original location in a completely renovated and expanded LaGuardia Hall. Noted as one of the most beautiful in the United States,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> the campus has been shown on numerous movies and television shows.</p>
+<p><br /></p>
+<div class="center">
+<div class="thumb tnone">
+<div class="thumbinner" style="width:802px;"><a href="/wiki/File:2016_Brooklyn_College_campus.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/2016_Brooklyn_College_campus.jpg/800px-2016_Brooklyn_College_campus.jpg" width="800" height="268" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/2016_Brooklyn_College_campus.jpg/1200px-2016_Brooklyn_College_campus.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/40/2016_Brooklyn_College_campus.jpg/1600px-2016_Brooklyn_College_campus.jpg 2x" data-file-width="4608" data-file-height="1541" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:2016_Brooklyn_College_campus.jpg" class="internal" title="Enlarge"></a></div>
+Part of the Brooklyn College campus, from left to right: James Hall, Boylan Hall, Library, Ingersoll Hall, Roosevelt Hall</div>
+</div>
+</div>
+</div>
+<h2><span class="mw-headline" id="Schools">Schools</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooklyn_College&amp;action=edit&amp;section=4" title="Edit section: Schools">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:277px;"><a href="/wiki/File:Entry_gate_to_Brooklyn_College_(2013).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Entry_gate_to_Brooklyn_College_%282013%29.jpg/275px-Entry_gate_to_Brooklyn_College_%282013%29.jpg" width="275" height="168" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Entry_gate_to_Brooklyn_College_%282013%29.jpg/413px-Entry_gate_to_Brooklyn_College_%282013%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Entry_gate_to_Brooklyn_College_%282013%29.jpg/550px-Entry_gate_to_Brooklyn_College_%282013%29.jpg 2x" data-file-width="4519" data-file-height="2756" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Entry_gate_to_Brooklyn_College_(2013).jpg" class="internal" title="Enlarge"></a></div>
+Entry gate</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:277px;"><a href="/wiki/File:2016_Brooklyn_College_West_Quad_Center.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/2016_Brooklyn_College_West_Quad_Center.jpg/275px-2016_Brooklyn_College_West_Quad_Center.jpg" width="275" height="187" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/2016_Brooklyn_College_West_Quad_Center.jpg/413px-2016_Brooklyn_College_West_Quad_Center.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/2016_Brooklyn_College_West_Quad_Center.jpg/550px-2016_Brooklyn_College_West_Quad_Center.jpg 2x" data-file-width="4303" data-file-height="2927" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:2016_Brooklyn_College_West_Quad_Center.jpg" class="internal" title="Enlarge"></a></div>
+West Quad Center</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:277px;"><a href="/wiki/File:2016_Brooklyn_College_James_Hall.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2016_Brooklyn_College_James_Hall.jpg/275px-2016_Brooklyn_College_James_Hall.jpg" width="275" height="159" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2016_Brooklyn_College_James_Hall.jpg/413px-2016_Brooklyn_College_James_Hall.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2016_Brooklyn_College_James_Hall.jpg/550px-2016_Brooklyn_College_James_Hall.jpg 2x" data-file-width="4423" data-file-height="2554" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:2016_Brooklyn_College_James_Hall.jpg" class="internal" title="Enlarge"></a></div>
+James Hall</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:277px;"><a href="/wiki/File:Roosevelt_Hall,_Brooklyn_College_(2013).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Roosevelt_Hall%2C_Brooklyn_College_%282013%29.jpg/275px-Roosevelt_Hall%2C_Brooklyn_College_%282013%29.jpg" width="275" height="139" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Roosevelt_Hall%2C_Brooklyn_College_%282013%29.jpg/413px-Roosevelt_Hall%2C_Brooklyn_College_%282013%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Roosevelt_Hall%2C_Brooklyn_College_%282013%29.jpg/550px-Roosevelt_Hall%2C_Brooklyn_College_%282013%29.jpg 2x" data-file-width="4288" data-file-height="2170" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Roosevelt_Hall,_Brooklyn_College_(2013).jpg" class="internal" title="Enlarge"></a></div>
+Roosevelt Hall</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:277px;"><a href="/wiki/File:2016_Brooklyn_College_Boylan_Hall.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/2016_Brooklyn_College_Boylan_Hall.jpg/275px-2016_Brooklyn_College_Boylan_Hall.jpg" width="275" height="178" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/2016_Brooklyn_College_Boylan_Hall.jpg/413px-2016_Brooklyn_College_Boylan_Hall.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/2016_Brooklyn_College_Boylan_Hall.jpg/550px-2016_Brooklyn_College_Boylan_Hall.jpg 2x" data-file-width="4444" data-file-height="2870" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:2016_Brooklyn_College_Boylan_Hall.jpg" class="internal" title="Enlarge"></a></div>
+Boylan Hall</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:277px;"><a href="/wiki/File:2016_Brooklyn_College_Lily_Pond.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/2016_Brooklyn_College_Lily_Pond.jpg/275px-2016_Brooklyn_College_Lily_Pond.jpg" width="275" height="223" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/2016_Brooklyn_College_Lily_Pond.jpg/413px-2016_Brooklyn_College_Lily_Pond.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/2016_Brooklyn_College_Lily_Pond.jpg/550px-2016_Brooklyn_College_Lily_Pond.jpg 2x" data-file-width="4257" data-file-height="3456" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:2016_Brooklyn_College_Lily_Pond.jpg" class="internal" title="Enlarge"></a></div>
+Lily Pond</div>
+</div>
+</div>
+<p>Brooklyn College is made up of five schools:</p>
+<ul>
+<li>Murray Koppelman School of Business</li>
+<li>School of Education</li>
+<li>School of Humanities and Social Sciences</li>
+<li>School of Natural and Behavioral Sciences</li>
+<li>School of Visual, Media and Performing Arts</li>
+</ul>
+<h2><span class="mw-headline" id="Curriculum">Curriculum</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooklyn_College&amp;action=edit&amp;section=5" title="Edit section: Curriculum">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Undergraduate_curriculum">Undergraduate curriculum</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooklyn_College&amp;action=edit&amp;section=6" title="Edit section: Undergraduate curriculum">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Beginning in 1981, the college instituted a group of classes that all undergraduates were required to take, called "Core Studies". The classes were: Classical Origins of Western Culture, Introduction to Art, Introduction to Music, People, Power, and Politics, The Shaping of the Modern World, Introduction to Mathematical Reasoning and Computer Programming, Landmarks of Literature, Chemistry, Physics, Biology, Geology, Studies in African, Asian, and Latin American Cultures, and Knowledge, Existence and Values.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<p>In 2006, the Core Curriculum was revamped, and the 13 required courses were replaced with 15 courses in 3 disciplines, from which students were required to take 11.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> In fall 2013, Brooklyn College embarked on CUNY's new general education alternative, the Pathways curriculum, consisting of three components: Required Core (four courses), Flexible Core (six courses) and College Option (four courses)—totaling 42 credits.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Brooklyn College offers over a hundred majors varying from the visual arts to Women's Studies.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<h3><span class="mw-headline" id="Division_of_Graduate_Studies">Division of Graduate Studies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooklyn_College&amp;action=edit&amp;section=7" title="Edit section: Division of Graduate Studies">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Division of Graduate Studies at Brooklyn College was established in 1935 and offers more than seventy programs in the arts, education, humanities, sciences, and computer and social sciences. Among those programs, is the Graduate theatre program, which is the top ranked in the CUNY system and 14th in country; faculty include a <a href="/wiki/Tony_Award" title="Tony Award">Tony Award</a> nominee.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+<p>Graduate programs are offered in Accounting, Acting (MFA), Africana Studies, Anthropology and Archaeology, Art, Biology, Chemistry, Computer and Information Science, Directing (MFA), Earth and Environmental Sciences, Economics, Education, English, Film, Health and Nutrition Sciences, History, Judaic Studies, Mathematics, Modern Languages and Literatures, Music, Performing Arts Management (MFA), Physical Education and Exercise Science, Physics, Political Science, Psychology, Puerto Rican and Latino Studies, Sociology, Speech Communication Arts and Sciences, Television and Radio, and Theater.</p>
+<h3><span class="mw-headline" id="B.A.-M.D._program">B.A.-M.D. program</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooklyn_College&amp;action=edit&amp;section=8" title="Edit section: B.A.-M.D. program">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Brooklyn College <a href="/wiki/Bachelor_of_Arts" title="Bachelor of Arts">B.A.</a>–<a href="/wiki/Doctor_of_Medicine" title="Doctor of Medicine">M.D.</a> program is an 8-year program affiliated with <a href="/wiki/SUNY_Downstate_Medical_Center" title="SUNY Downstate Medical Center">SUNY Downstate Medical Center</a>. The Program follows a rigorous selection process, with a maximum of 15 students selected every year. Each student selected to the program receives a Brooklyn College Presidential Scholarship. B.A.–M.D. students must engage in <a href="/wiki/Community_service" title="Community service">community service</a> for three years, beginning in their lower sophomore semester. During one summer of their undergraduate studies, students are required to volunteer in a clinical setting where they are involved in direct <a href="/wiki/Patient_care" class="mw-redirect" title="Patient care">patient care</a>. B.A.-M.D. students are encouraged to major in the <a href="/wiki/Humanities" title="Humanities">humanities</a> or <a href="/wiki/Social_sciences" class="mw-redirect" title="Social sciences">social sciences</a>. A student who majors in a science must choose a minor in the humanities or social sciences. All students meet the pre-med science requirements by taking <a href="/wiki/Cell_biology" title="Cell biology">cell</a> and <a href="/wiki/Molecular_biology" title="Molecular biology">molecular biology</a>, <a href="/wiki/Botany" title="Botany">botany</a>, <a href="/wiki/Physiology" title="Physiology">physiology</a>, general <a href="/wiki/Chemistry" title="Chemistry">chemistry</a>, <a href="/wiki/Organic_chemistry" title="Organic chemistry">organic chemistry</a>, and general <a href="/wiki/Physics" title="Physics">physics</a>. B.A.–M.D. students must maintain at Brooklyn College an overall <a href="/wiki/Grade_point_average" class="mw-redirect" title="Grade point average">grade point average</a> of 3.5, and a pre-med science GPA of 3.5.</p>
+<h3><span class="mw-headline" id="The_Scholars_Program">The Scholars Program</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooklyn_College&amp;action=edit&amp;section=9" title="Edit section: The Scholars Program">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Scholars Program is home to a small number of students with strong writing ability and academic record. Being the oldest honors program in the <a href="/wiki/CUNY" class="mw-redirect" title="CUNY">CUNY</a> system, The Scholars Program has served as a model for many other honors programs nationwide. It was established in 1960 and is an interdisciplinary liberal arts program. The program offers honors-level Core courses and seminars as well as small, personalized classes. Upon graduation from Brooklyn College, many Scholars continue their education in competitive programs at top-ranked universities like Princeton, Yale, and New York University. The program accepts incoming freshmen in addition to matriculated sophomores and transfer students (up to 48 credits). Once admitted, they receive a Brooklyn College Foundation Presidential Scholarship of up to $4,000 for every year of their undergraduate study at Brooklyn College and a laptop computer. <sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p>
+<h3><span class="mw-headline" id="Coordinated_Engineering_Program">Coordinated Engineering Program</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooklyn_College&amp;action=edit&amp;section=10" title="Edit section: Coordinated Engineering Program">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Coordinated Honors Engineering Program offers a course of study equivalent to the first two years at any engineering school. Students who maintain the required academic level are guaranteed transfer to one of the three coordinating schools—NYU-Poly, City College of New York School of Engineering, and the College of Staten Island Engineering Science Program—to complete their bachelor’s degree in engineering. Coordinating Engineering students have also transferred to SUNY Stony Brook, University of Wisconsin, University of Michigan, Cooper Union, and the Massachusetts Institute of Technology. Students admitted as incoming First-Year receive a Brooklyn College Foundation Presidential Scholarship that provides full tuition for their two years of full-time undergraduate study in the Coordinated Engineering Program. As members of the Honors Academy, Engineering Honors students take advantage of individual advising, faculty consultation, and early registration. In the Commons they find study facilities, computer access, academic, scholarship, internship, and career opportunities, and, above all, intellectual stimulation among other talented students like themselves. Students applying to the Engineering Honors Program will also be considered for the Scholars Program.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p>
+<h3><span class="mw-headline" id="Brooklyn_College_Feirstein_Graduate_School_of_Cinema">Brooklyn College Feirstein Graduate School of Cinema</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooklyn_College&amp;action=edit&amp;section=11" title="Edit section: Brooklyn College Feirstein Graduate School of Cinema">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Feirstein_Graduate_School_of_Cinema" title="Feirstein Graduate School of Cinema">Feirstein Graduate School of Cinema</a></div>
+<p>Barry R. Feirstein Graduate School of Cinema is the first public graduate film school in the city of New York. It is the only film school in America to have its own classroom on a film lot with the collaboration of <a href="/wiki/Steiner_Studios" title="Steiner Studios">Steiner Studios</a>, the largest soundstage on the East Coast. The program offers a M.A. in Cinema Studies and M.F.A in Cinema Arts with five disciplines of <a href="/wiki/Cinematography" title="Cinematography">Cinematography</a>, <a href="/wiki/Film_director" title="Film director">Directing</a>, <a href="/wiki/Post-production" title="Post-production">Post-production</a>, <a href="/wiki/Film_producer" title="Film producer">Producing</a> and <a href="/wiki/Screenwriting" title="Screenwriting">Screenwriting</a>. The school opened in Fall 2015. The discipline of Digital Arts will be available in Fall 2016.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></p>
+<h2><span class="mw-headline" id="Athletics">Athletics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooklyn_College&amp;action=edit&amp;section=12" title="Edit section: Athletics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Brooklyn College teams participate as a member of the <a href="/wiki/National_Collegiate_Athletic_Association" title="National Collegiate Athletic Association">National Collegiate Athletic Association</a>'s <a href="/wiki/Division_III_(NCAA)" class="mw-redirect" title="Division III (NCAA)">Division III</a>. The Bulldogs are a member of the <a href="/wiki/City_University_of_New_York_Athletic_Conference" title="City University of New York Athletic Conference">City University of New York Athletic Conference</a> (CUNYAC). Men's sports include basketball, cheerleading, cross country, soccer, swimming &amp; diving, tennis and volleyball; while women's sports include basketball, cheerleading, cross country, soccer, softball, swimming &amp; diving, tennis and volleyball.</p>
+<h3><span class="mw-headline" id="Mascot">Mascot</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooklyn_College&amp;action=edit&amp;section=13" title="Edit section: Mascot">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2010 Brooklyn College adopted the Bulldog as its new mascot.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> The athletic program was originally known as the Kingsmen. In 1994 the mascot was changed to the Bridges. However, after building new facilities and undergoing other changes the athletic director pushed for a new name to reflect the new program.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></p>
+<h2><span class="mw-headline" id="People">People</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooklyn_College&amp;action=edit&amp;section=14" title="Edit section: People">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Alumni">Alumni</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooklyn_College&amp;action=edit&amp;section=15" title="Edit section: Alumni">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:182px;"><a href="/wiki/File:Bernie_Sanders.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bernie_Sanders.jpg/180px-Bernie_Sanders.jpg" width="180" height="228" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bernie_Sanders.jpg/270px-Bernie_Sanders.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bernie_Sanders.jpg/360px-Bernie_Sanders.jpg 2x" data-file-width="682" data-file-height="864" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Bernie_Sanders.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Bernie_Sanders" title="Bernie Sanders">Bernie Sanders</a></div>
+</div>
+</div>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/List_of_Brooklyn_College_alumni" title="List of Brooklyn College alumni">List of Brooklyn College alumni</a></div>
+<p>Notable alumni of Brooklyn College include Senator <a href="/wiki/Bernie_Sanders" title="Bernie Sanders">Bernie Sanders</a> (1959-1960),<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> Senator <a href="/wiki/Barbara_Boxer" title="Barbara Boxer">Barbara Boxer</a> (B.A. 1962), Congresswoman <a href="/wiki/Shirley_Chisholm" title="Shirley Chisholm">Shirley Chisholm</a> (B.A., 1946), <a href="/wiki/Pulitzer_Prize" title="Pulitzer Prize">Pulitzer Prize</a>-winning author <a href="/wiki/Frank_McCourt" title="Frank McCourt">Frank McCourt</a> (M.A., 1967), <a href="/wiki/Harvard_Law_School" title="Harvard Law School">Harvard Law School</a> professor and author <a href="/wiki/Alan_M._Dershowitz" class="mw-redirect" title="Alan M. Dershowitz">Alan M. Dershowitz</a>, <a href="/wiki/Securities_and_Exchange_Commission" class="mw-redirect" title="Securities and Exchange Commission">Securities and Exchange Commission</a> Chairman <a href="/wiki/Harvey_Pitt" title="Harvey Pitt">Harvey Pitt</a>, <a href="/wiki/Emmy_Award" title="Emmy Award">Emmy Award</a>-winning actor <a href="/wiki/Jimmy_Smits" title="Jimmy Smits">Jimmy Smits</a> (B.A., 1980), <i><a href="/wiki/Sopranos" class="mw-redirect" title="Sopranos">Sopranos</a></i> stars <a href="/wiki/Steve_Schirripa" title="Steve Schirripa">Steve Schirripa</a> (B.A., 1980) and <a href="/wiki/Dominic_Chianese" title="Dominic Chianese">Dominic Chianese</a> (B.A., 1961), <a href="/wiki/New_York_Mets" title="New York Mets">New York Mets</a> President <a href="/wiki/Saul_Katz" title="Saul Katz">Saul Katz</a> (B.A., 1960), and <a href="/wiki/Academy_Award" class="mw-redirect" title="Academy Award">Academy Award</a>-nominated filmmaker <a href="/wiki/Paul_Mazursky" title="Paul Mazursky">Paul Mazursky</a> (B.A., 1952).Joseph Babatunde (B.A 2000) Fifa U-17 world cup champion</p>
+<p>In a <a href="/wiki/United_States_National_Research_Council" class="mw-redirect" title="United States National Research Council">National Research Council</a> study of baccalaureate origins of Ph.D. recipients between 1920 and 1995, Brooklyn College ranked 19th in the nation.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2010)">citation needed</span></a></i>]</sup></p>
+<h3><span class="mw-headline" id="Notable_faculty">Notable faculty</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooklyn_College&amp;action=edit&amp;section=16" title="Edit section: Notable faculty">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:182px;"><a href="/wiki/File:Michael_Cunningham_JB_by_David_Shankbone.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Michael_Cunningham_JB_by_David_Shankbone.jpg/180px-Michael_Cunningham_JB_by_David_Shankbone.jpg" width="180" height="228" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Michael_Cunningham_JB_by_David_Shankbone.jpg/270px-Michael_Cunningham_JB_by_David_Shankbone.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Michael_Cunningham_JB_by_David_Shankbone.jpg/360px-Michael_Cunningham_JB_by_David_Shankbone.jpg 2x" data-file-width="1420" data-file-height="1800" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Michael_Cunningham_JB_by_David_Shankbone.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Michael_Cunningham" title="Michael Cunningham">Michael Cunningham</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:182px;"><a href="/wiki/File:ItzhakPerlmanWhitehouse2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/ItzhakPerlmanWhitehouse2.jpg/180px-ItzhakPerlmanWhitehouse2.jpg" width="180" height="195" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/ItzhakPerlmanWhitehouse2.jpg/270px-ItzhakPerlmanWhitehouse2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/5/53/ItzhakPerlmanWhitehouse2.jpg 2x" data-file-width="326" data-file-height="354" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:ItzhakPerlmanWhitehouse2.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Itzhak_Perlman" title="Itzhak Perlman">Itzhak Perlman</a></div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/F._Murray_Abraham" title="F. Murray Abraham">F. Murray Abraham</a> – actor of stage and screen; professor of theater, winner of the Academy Award for Best Actor</li>
+<li><a href="/wiki/Vito_Acconci" title="Vito Acconci">Vito Acconci</a> – designer, landscape architect, performance and installation artist</li>
+<li><a href="/wiki/Eric_Alterman" title="Eric Alterman">Eric Alterman</a> – American liberal journalist</li>
+<li><a href="/wiki/Hannah_Arendt" title="Hannah Arendt">Hannah Arendt</a> – philosopher and political theorist; author of <i><a href="/wiki/The_Origins_of_Totalitarianism" title="The Origins of Totalitarianism">The Origins of Totalitarianism</a></i> (1951) and <i><a href="/wiki/The_Human_Condition_(book)" title="The Human Condition (book)">The Human Condition</a></i> (1958)</li>
+<li><a href="/wiki/John_Ashbery" title="John Ashbery">John Ashbery</a> – poet, Pulitzer Prize winner</li>
+<li><a href="/wiki/Robert_Beauchamp" title="Robert Beauchamp">Robert Beauchamp</a> – painter<sup id="cite_ref-Ro_21-0" class="reference"><a href="#cite_note-Ro-21">[21]</a></sup></li>
+<li><a href="/wiki/Edwin_G._Burrows" title="Edwin G. Burrows">Edwin G. Burrows</a> – historian; Pulitzer Prize winner for co-writing <i><a href="/wiki/Gotham:_A_History_of_New_York_City_to_1898" title="Gotham: A History of New York City to 1898">Gotham: A History of New York City to 1898</a></i> with <a href="/wiki/Mike_Wallace_(historian)" title="Mike Wallace (historian)">Mike Wallace</a></li>
+<li><a href="/wiki/Frances_Sergeant_Childs" title="Frances Sergeant Childs">Frances Sergeant Childs</a> – historian; one of the college's founding faculty members</li>
+<li><a href="/wiki/Eleanor_Cory" title="Eleanor Cory">Eleanor Cory</a> – composer</li>
+<li><a href="/wiki/Michael_Cunningham" title="Michael Cunningham">Michael Cunningham</a> – novelist; winner of Pulitzer Prize for Fiction and PEN/Faulkner Award for <i><a href="/wiki/The_Hours_(novel)" title="The Hours (novel)">The Hours</a></i></li>
+<li><a href="/wiki/Rudy_D%27Amico" title="Rudy D'Amico">Rudy D'Amico</a> – professional <a href="/wiki/National_Basketball_Association" title="National Basketball Association">National Basketball Association</a> scout, and former Brooklyn College and professional basketball coach who coached Maccabi Tel Aviv to the <a href="/wiki/Euroleague" class="mw-redirect" title="Euroleague">Euroleague</a> Championship</li>
+<li><a href="/wiki/Charles_Dodge_(composer)" title="Charles Dodge (composer)">Charles Dodge</a> – composer, founder of the Center for Computer Music</li>
+<li><a href="/wiki/Paul_Edwards_(philosopher)" title="Paul Edwards (philosopher)">Paul Edwards</a> – Professor of Philosophy, editor of the <i>Encyclopedia of Philosophy</i></li>
+<li><a href="/wiki/John_Hope_Franklin" title="John Hope Franklin">John Hope Franklin</a> – American historian, former Chairman of the History Department, president of <a href="/wiki/Phi_Beta_Kappa" class="mw-redirect" title="Phi Beta Kappa">Phi Beta Kappa</a>, and recipient of the <a href="/wiki/Presidential_Medal_of_Freedom" title="Presidential Medal of Freedom">Presidential Medal of Freedom</a></li>
+<li><a href="/wiki/Jack_Gelber" title="Jack Gelber">Jack Gelber</a> – playwright and theater director; taught at Brooklyn College from 1972–2003</li>
+<li><a href="/wiki/Allen_Ginsberg" title="Allen Ginsberg">Allen Ginsberg</a> – beat poet; taught at Brooklyn College from 1986–97</li>
+<li><a href="/wiki/David_Grubbs" title="David Grubbs">David Grubbs</a> – musician, composer, recording artist</li>
+<li><a href="/wiki/Carey_Harrison" title="Carey Harrison">Carey Harrison</a> – novelist/dramatist</li>
+<li><a href="/wiki/Amy_Hempel" title="Amy Hempel">Amy Hempel</a> – American <a href="/wiki/Short_story" title="Short story">short story</a> writer, journalist, and coordinator of the MFA Fiction-Writing Program</li>
+<li><a href="/wiki/Seymour_Hess" title="Seymour Hess">Seymour L. Hess</a> – meteorologist and planetary scientist.</li>
+<li><a href="/wiki/Agnieszka_Holland" title="Agnieszka Holland">Agnieszka Holland</a> – film director, best known for <i><a href="/wiki/Europa_Europa" title="Europa Europa">Europa Europa</a></i> (1992)</li>
+<li><a href="/wiki/Carl_Holty" title="Carl Holty">Carl Holty</a> – painter</li>
+<li><a href="/wiki/John_Hospers" title="John Hospers">John Hospers</a> – first presidential candidate of the <a href="/wiki/United_States_Libertarian_Party" class="mw-redirect" title="United States Libertarian Party">United States Libertarian Party</a>; professor from 1956–66</li>
+<li><a href="/wiki/Paul_Jacobs_(pianist)" title="Paul Jacobs (pianist)">Paul Jacobs</a> – classical pianist; specialist in modern music</li>
+<li><a href="/wiki/KC_Johnson" title="KC Johnson">KC Johnson</a> – Professor of American history</li>
+<li><a href="/wiki/B%C3%A9la_Kir%C3%A1ly" title="Béla Király">Béla Király</a> (1912 – 2009)- professor emeritus, former Hungarian general taught military history and central European history</li>
+<li><a href="/wiki/Tania_Le%C3%B3n" title="Tania León">Tania León</a> – Cuban-born composer and conductor</li>
+<li><a href="/wiki/Don_Lemon" title="Don Lemon">Don Lemon</a> – CNN anchor and journalist</li>
+<li><a href="/wiki/Ben_Lerner" title="Ben Lerner">Ben Lerner</a> – poet and writer</li>
+<li><a href="/wiki/Abraham_Maslow" title="Abraham Maslow">Abraham Maslow</a> – psychologist in the school of <a href="/wiki/Humanistic_psychology" title="Humanistic psychology">humanistic psychology</a>, best known for his theory of human motivation which led to a therapeutic technique known as <a href="/wiki/Self-actualization" title="Self-actualization">self-actualization</a>; taught from 1937–51</li>
+<li><a href="/wiki/Wilson_Carey_McWilliams" title="Wilson Carey McWilliams">Wilson Carey McWilliams</a> – <a href="/wiki/Political_scientist" class="mw-redirect" title="Political scientist">political scientist</a>, author of <i>The Idea of Fraternity in America</i> (1973, University of California Press), for which he won the National Historical Society prize in 1974</li>
+<li><a href="/wiki/Ursula_Oppens" title="Ursula Oppens">Ursula Oppens</a> – pianist, co-founded the contemporary music ensemble <a href="/wiki/Speculum_Musicae" title="Speculum Musicae">Speculum Musicae</a>, Conservatory of Music</li>
+<li><a href="/wiki/Philip_Pearlstein" title="Philip Pearlstein">Philip Pearlstein</a> – Distinguished Professor Emeritus, influential American painter known for his Modernist Realism nudes</li>
+<li><a href="/wiki/Itzhak_Perlman" title="Itzhak Perlman">Itzhak Perlman</a> – violinist, Conservatory of Music</li>
+<li><a href="/wiki/Mark_Rothko" title="Mark Rothko">Mark Rothko</a> – influential abstract expressionist painter</li>
+<li><a href="/wiki/Susan_Fromberg_Schaeffer" title="Susan Fromberg Schaeffer">Susan Fromberg Schaeffer</a> – novelist and Broeklundian Professor of English</li>
+<li><a href="/wiki/Albert_Schatz_(scientist)" title="Albert Schatz (scientist)">Albert Schatz</a> – microbiologist, co-discoverer of <a href="/wiki/Streptomycin" title="Streptomycin">streptomycin</a></li>
+<li><a href="/wiki/Mark_Strand" title="Mark Strand">Mark Strand</a> – Pulitzer Prize-winning poet, essayist, and translator</li>
+<li><a href="/wiki/Glenn_Thrush" title="Glenn Thrush">Glenn Thrush</a> – <a href="/wiki/Politico" title="Politico">Politico</a> senior writer, author</li>
+<li><a href="/wiki/Hans_L._Trefousse" title="Hans L. Trefousse">Hans L. Trefousse</a> – Distinguished Emeritus Professor of History; taught from 1946-1998, historian and author<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></li>
+<li><a href="/wiki/Ad_Reinhardt" title="Ad Reinhardt">Ad Reinhardt</a>, <a href="/wiki/Elizabeth_Murray_(born_1940)" class="mw-redirect" title="Elizabeth Murray (born 1940)">Elizabeth Murray</a>, <a href="/wiki/Vito_Acconci" title="Vito Acconci">Vito Acconci</a>, <a href="/wiki/William_T._Williams" title="William T. Williams">William T. Williams</a>, <a href="/wiki/Archie_Rand" title="Archie Rand">Archie Rand</a>, <a href="/wiki/Jennifer_McCoy" class="mw-redirect" title="Jennifer McCoy">Jennifer McCoy</a>, <a href="/wiki/Patricia_Cronin" title="Patricia Cronin">Patricia Cronin</a> – artists (1950s to present)</li>
+<li><a href="/wiki/Carleton_Washburne" title="Carleton Washburne">Carleton Washburne</a> – Director of Teacher Education, known for his <a href="/wiki/Progressive_education" title="Progressive education">progressive education</a> works</li>
+<li><a href="/wiki/Theresa_Wolfson" title="Theresa Wolfson">Theresa Wolfson</a> – Professor of Labor Economics, won the John Dewey Award of the <a href="/wiki/League_for_Industrial_Democracy" title="League for Industrial Democracy">League for Industrial Democracy</a><sup id="cite_ref-Jewish_Women.27s_Archive_23-0" class="reference"><a href="#cite_note-Jewish_Women.27s_Archive-23">[23]</a></sup><sup id="cite_ref-JVL_Theresa_Wolfson_24-0" class="reference"><a href="#cite_note-JVL_Theresa_Wolfson-24">[24]</a></sup></li>
+<li><a href="/wiki/Joel_Zwick" title="Joel Zwick">Joel Zwick</a> – Professor in the Film Department, director of <i><a href="/wiki/Full_House" title="Full House">Full House</a></i>, <i><a href="/wiki/Fuller_House_(TV_series)" title="Fuller House (TV series)">Fuller House</a></i>, <i><a href="/wiki/Family_Matters" title="Family Matters">Family Matters</a></i>, <i><a href="/wiki/My_Big_Fat_Greek_Wedding" title="My Big Fat Greek Wedding">My Big Fat Greek Wedding</a></i> and <i><a href="/wiki/Fat_Albert" class="mw-redirect" title="Fat Albert">Fat</a> Albert￼￼. Joseph Babatunde. (B.A, 2000) Fifa U-17 World Cup Champion 1985</i></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooklyn_College&amp;action=edit&amp;section=17" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Economics" title="Economics">Economics</a></li>
+<li><a href="/wiki/Glossary_of_economics" title="Glossary of economics">Glossary of economics</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooklyn_College&amp;action=edit&amp;section=18" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.brooklyn.cuny.edu/web/about/facts.php">"Brooklyn College | CUNY-Brooklyn College | Best College &amp;#124"</a>. <i><a href="/wiki/U._S._News_%26_World_Report" class="mw-redirect" title="U. S. News &amp; World Report">U. S. News &amp; World Report</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 21,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrooklyn+College&amp;rft.atitle=Brooklyn+College+%26%23124%3B+CUNY-Brooklyn+College+%26%23124%3B+Best+College+%26%23124&amp;rft.genre=article&amp;rft.jtitle=U.+S.+News+%26+World+Report&amp;rft_id=http%3A%2F%2Fwww.brooklyn.cuny.edu%2Fweb%2Fabout%2Ffacts.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Berroll, Selma and Gargan, William M. "Brooklyn College" in <cite id="CITEREFJackson2010" class="citation"><a href="/wiki/Kenneth_T._Jackson" title="Kenneth T. Jackson">Jackson, Kenneth T.</a>, ed. (2010), <i><a href="/wiki/The_Encyclopedia_of_New_York_City" title="The Encyclopedia of New York City">The Encyclopedia of New York City</a></i> (2nd ed.), New Haven: Yale University Press, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-300-11465-2" title="Special:BookSources/978-0-300-11465-2">978-0-300-11465-2</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrooklyn+College&amp;rft.btitle=The+Encyclopedia+of+New+York+City&amp;rft.date=2010&amp;rft.edition=2nd&amp;rft.genre=book&amp;rft.isbn=978-0-300-11465-2&amp;rft.place=New+Haven&amp;rft.pub=Yale+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>, p.176</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://colleges.usnews.rankingsandreviews.com/best-colleges/brooklyn-college-2687">"College Rankings"</a>. <i><a href="/wiki/U.S._News_%26_World_Report" title="U.S. News &amp; World Report">U.S. News &amp; World Report</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">1 May</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrooklyn+College&amp;rft.atitle=College+Rankings&amp;rft.genre=article&amp;rft.jtitle=U.S.+News+%26+World+Report&amp;rft_id=http%3A%2F%2Fcolleges.usnews.rankingsandreviews.com%2Fbest-colleges%2Fbrooklyn-college-2687&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Freudenheim, Ellen &amp; Wiener, Anna. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=HIxPgnmtQlcC&amp;pg=PA258"><i>Brooklyn: The Ultimate Guide to New York's Most Happening Borough</i></a><span class="reference-accessdate">. Retrieved <span class="nowrap">October 14,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrooklyn+College&amp;rft.au=Freudenheim%2C+Ellen&amp;rft.au=Wiener%2C+Anna&amp;rft.btitle=Brooklyn%3A+The+Ultimate+Guide+to+New+York%27s+Most+Happening+Borough&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DHIxPgnmtQlcC%26pg%3DPA258&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation news">Valenti, John (August 7, 1986). <a rel="nofollow" class="external text" href="https://pqasb.pqarchiver.com/newsday/access/100165217.html?dids=100165217:100165217&amp;FMT=ABS&amp;FMTS=ABS:FT&amp;type=current&amp;date=Aug+07%2C+1986&amp;author=By+John+Valenti&amp;pub=Newsday+(Combined+editions)&amp;desc=Brooklyn+College+Basketball+%60Problems%27&amp;pqatl=google">"Brooklyn College Basketball Problems"</a>. <i><a href="/wiki/Newsday" title="Newsday">Newsday</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">October 14,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrooklyn+College&amp;rft.atitle=Brooklyn+College+Basketball+Problems&amp;rft.aufirst=John&amp;rft.aulast=Valenti&amp;rft.date=1986-08-07&amp;rft.genre=article&amp;rft.jtitle=Newsday&amp;rft_id=https%3A%2F%2Fpqasb.pqarchiver.com%2Fnewsday%2Faccess%2F100165217.html%3Fdids%3D100165217%3A100165217%26FMT%3DABS%26FMTS%3DABS%3AFT%26type%3Dcurrent%26date%3DAug%2B07%252C%2B1986%26author%3DBy%2BJohn%2BValenti%26pub%3DNewsday%2B%28Combined%2Beditions%29%26desc%3DBrooklyn%2BCollege%2BBasketball%2B%2560Problems%2527%26pqatl%3Dgoogle&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news">Calder, Rich (May 14, 2011). <a rel="nofollow" class="external text" href="http://nypost.com/2011/05/14/new-performing-arts-center-for-brooklyn-college/">"New performing arts center for Brooklyn College"</a>. <i><a href="/wiki/New_York_Post" title="New York Post">New York Post</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-09-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrooklyn+College&amp;rft.atitle=New+performing+arts+center+for+Brooklyn+College&amp;rft.aufirst=Rich&amp;rft.aulast=Calder&amp;rft.date=2011-05-14&amp;rft.genre=article&amp;rft.jtitle=New+York+Post&amp;rft_id=http%3A%2F%2Fnypost.com%2F2011%2F05%2F14%2Fnew-performing-arts-center-for-brooklyn-college%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.brooklyn.cuny.edu/bc/spotlite/news/082202.htm">"Campus #1 in Beauty"</a>. <i>Brooklyn College</i>. August 20, 2002<span class="reference-accessdate">. Retrieved <span class="nowrap">July 21,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrooklyn+College&amp;rft.atitle=Campus+%231+in+Beauty&amp;rft.date=2002-08-20&amp;rft.genre=unknown&amp;rft.jtitle=Brooklyn+College&amp;rft_id=http%3A%2F%2Fwww.brooklyn.cuny.edu%2Fbc%2Fspotlite%2Fnews%2F082202.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.brooklyn.cuny.edu/bc/ahp/CoreStudies.html">"Old Core Curriculum"</a>. <i>Brooklyn College</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 21,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrooklyn+College&amp;rft.atitle=Old+Core+Curriculum&amp;rft.genre=unknown&amp;rft.jtitle=Brooklyn+College&amp;rft_id=http%3A%2F%2Fwww.brooklyn.cuny.edu%2Fbc%2Fahp%2FCoreStudies.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.brooklyn.cuny.edu/portal/core/index.html">"New Core Curriculum"</a>. <i>Brooklyn College</i>. February 6, 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">July 21,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrooklyn+College&amp;rft.atitle=New+Core+Curriculum&amp;rft.date=2009-02-06&amp;rft.genre=unknown&amp;rft.jtitle=Brooklyn+College&amp;rft_id=http%3A%2F%2Fwww.brooklyn.cuny.edu%2Fportal%2Fcore%2Findex.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.brooklyn.cuny.edu/web/academics/general/pathways.php">"Brooklyn College - Pathways"</a>. <i>Brooklyn College</i><span class="reference-accessdate">. Retrieved <span class="nowrap">21 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrooklyn+College&amp;rft.atitle=Brooklyn+College+-+Pathways&amp;rft.genre=unknown&amp;rft.jtitle=Brooklyn+College&amp;rft_id=http%3A%2F%2Fwww.brooklyn.cuny.edu%2Fweb%2Facademics%2Fgeneral%2Fpathways.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.brooklyn.cuny.edu/programs/index.jsp?div=U">"Undergraduate Programs and Advisors"</a> <i>Brooklyn College</i></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://depthome.brooklyn.cuny.edu/theater/people_faculty_townsend_justin.html">"Justin Townsend"</a> Brooklyn College website</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.tonyawards.com/en_US/search/results.html?query=Justin+Townsend">"Justin Townsend"</a> <a href="/wiki/Tony_Award" title="Tony Award">Tony Award</a> Nominees</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.brooklyn.cuny.edu/web/academics/honors/academy/programs/scholars.php">"<span style="padding-left:0.2em;">"</span>Scholars Program<span style="padding-right:0.2em;">"</span>"</a>. <i>Brooklyn College</i><span class="reference-accessdate">. Retrieved <span class="nowrap">21 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrooklyn+College&amp;rft.atitle=%22Scholars+Program%22&amp;rft.genre=unknown&amp;rft.jtitle=Brooklyn+College&amp;rft_id=http%3A%2F%2Fwww.brooklyn.cuny.edu%2Fweb%2Facademics%2Fhonors%2Facademy%2Fprograms%2Fscholars.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.brooklyn.cuny.edu/pub/engineering.htm">Engineering</a> <i>Brooklyn College</i> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080912221247/http://www.brooklyn.cuny.edu/pub/engineering.htm">Archived</a> September 12, 2008, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/admissions.php">"Barry R. Feirstein Graduate School of Cinema - Admissions"</a>. <i>Brooklyn College</i><span class="reference-accessdate">. Retrieved <span class="nowrap">21 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrooklyn+College&amp;rft.atitle=Barry+R.+Feirstein+Graduate+School+of+Cinema+-+Admissions&amp;rft.genre=unknown&amp;rft.jtitle=Brooklyn+College&amp;rft_id=http%3A%2F%2Fwww.brooklyn.cuny.edu%2Fweb%2Facademics%2Fschools%2Fmediaarts%2Fschools%2Ffeirstein%2Fadmissions.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.brooklyn.cuny.edu/web/off_dosa/100101_SA_Newsletter_Spring2010.pdf">"Newsletter Spring 2010"</a> <i>Brooklyn College</i></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Staff (October 25, 2009) <a rel="nofollow" class="external text" href="http://www.brooklyncollegeathletics.com/news/2009/10/15/GEN_1015095428.aspx">"Brooklyn College To Choose New Athletics Team Name &amp; Mascot"</a> <i>Brooklyn College Bulldogs</i></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Horowitz, Jason (July 24, 2015) <a rel="nofollow" class="external text" href="https://www.nytimes.com/2015/07/25/us/politics/bernie-sanderss-100-brooklyn-roots-show-beyond-his-accent.html?_r=0">"Bernie Sanders’s ‘100% Brooklyn’ Roots Are as Unshakable as His Accent"</a> <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Staff (July 13, 2016) <a rel="nofollow" class="external text" href="http://www.cnn.com/2015/05/27/us/bernie-sanders-fast-facts/index.html">"Bernie Sanders Fast Facts"</a> <a href="/wiki/CNN" title="CNN">CNN</a></span></li>
+<li id="cite_note-Ro-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ro_21-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://rogallery.com/Beauchamp_Robert/beauchamp-bio.html">"Robert Beauchamp, American (1923–1995)"</a>. Ro Gallery. 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">Jun 30,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrooklyn+College&amp;rft.btitle=Robert+Beauchamp%2C+American+%281923%E2%80%931995%29&amp;rft.date=2011&amp;rft.genre=unknown&amp;rft.pub=Ro+Gallery&amp;rft_id=http%3A%2F%2Frogallery.com%2FBeauchamp_Robert%2Fbeauchamp-bio.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.historians.org/perspectives/issues/2010/1004/1004mem2.cfm">"Hans L. Trefousse (1921-2010)"</a>. <i>Historians.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">21 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrooklyn+College&amp;rft.atitle=Hans+L.+Trefousse+%281921-2010%29&amp;rft.genre=unknown&amp;rft.jtitle=Historians.org&amp;rft_id=http%3A%2F%2Fwww.historians.org%2Fperspectives%2Fissues%2F2010%2F1004%2F1004mem2.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Jewish_Women.27s_Archive-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-Jewish_Women.27s_Archive_23-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://jwa.org/encyclopedia/article/wolfson-theresa">"Theresa Wolfson"</a>. <i>Jewish Women's Archive</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 13,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrooklyn+College&amp;rft.atitle=Theresa+Wolfson&amp;rft.genre=unknown&amp;rft.jtitle=Jewish+Women%27s+Archive&amp;rft_id=http%3A%2F%2Fjwa.org%2Fencyclopedia%2Farticle%2Fwolfson-theresa&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-JVL_Theresa_Wolfson-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-JVL_Theresa_Wolfson_24-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.jewishvirtuallibrary.org/jsource/judaica/ejud_0002_0021_0_21065.html">"Wolfson, Theresa"</a>. <i>Jewish Virtual Library</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 14,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrooklyn+College&amp;rft.atitle=Wolfson%2C+Theresa&amp;rft.genre=unknown&amp;rft.jtitle=Jewish+Virtual+Library&amp;rft_id=https%3A%2F%2Fwww.jewishvirtuallibrary.org%2Fjsource%2Fjudaica%2Fejud_0002_0021_0_21065.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brooklyn_College&amp;action=edit&amp;section=19" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Brooklyn_College" class="extiw" title="commons:Category:Brooklyn College">Brooklyn College</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.brooklyn.cuny.edu">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="http://www.brooklyncollegeathletics.com">Brooklyn College Athletics</a></li>
+<li><a rel="nofollow" class="external text" href="http://library.brooklyn.cuny.edu">Brooklyn College Library</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20040613074554/http://www.brooklynexcelsior.com/">Brooklyn College Excelsior</a> (newspaper)</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070516213533/http://bckingsman.com/">Brooklyn College Kingsman</a> (newspaper)</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070102021325/http://students.brooklyn.cuny.edu/ems/">Brooklyn College Emergency Medical Squad</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060705161111/http://bcacm.org/">Brooklyn College Computer Science Society</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.bcorchestra.blogspot.com">Brooklyn College Orchestra</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since November 2016">permanent dead link</span></a></i>]</span></sup></li>
+<li><a rel="nofollow" class="external text" href="http://www.1kenilworth.com">Residence Hall at Brooklyn College</a></li>
+<li><a rel="nofollow" class="external text" href="http://downstate.edu">SUNY Downstate</a></li>
+<li><a rel="nofollow" class="external text" href="http://bamd.brooklyn.edu">Brooklyn College BA/MD Program</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Units_of_the_City_University_of_New_York" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:CUNY" title="Template:CUNY"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:CUNY" title="Template talk:CUNY"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:CUNY&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Units_of_the_City_University_of_New_York" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_City_University_of_New_York_institutions" title="List of City University of New York institutions">Units</a> of the <a href="/wiki/City_University_of_New_York" title="City University of New York">City University of New York</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Two-year<br />
+(Community Colleges)</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Borough_of_Manhattan_Community_College" title="Borough of Manhattan Community College">Borough of Manhattan</a></li>
+<li><a href="/wiki/Bronx_Community_College" title="Bronx Community College">Bronx</a></li>
+<li><a href="/wiki/Guttman_Community_College" title="Guttman Community College">Guttman</a></li>
+<li><a href="/wiki/Hostos_Community_College" title="Hostos Community College">Hostos</a></li>
+<li><a href="/wiki/Kingsborough_Community_College" title="Kingsborough Community College">Kingsborough</a></li>
+<li><a href="/wiki/LaGuardia_Community_College" title="LaGuardia Community College">LaGuardia</a></li>
+<li><a href="/wiki/Queensborough_Community_College" title="Queensborough Community College">Queensborough</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Four-year</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Baruch_College" title="Baruch College">Baruch</a></li>
+<li><a class="mw-selflink selflink">Brooklyn</a></li>
+<li><a href="/wiki/City_College_of_New_York" title="City College of New York">City</a></li>
+<li><a href="/wiki/New_York_City_College_of_Technology" title="New York City College of Technology">City Tech</a></li>
+<li><a href="/wiki/Hunter_College" title="Hunter College">Hunter</a></li>
+<li><a href="/wiki/John_Jay_College_of_Criminal_Justice" title="John Jay College of Criminal Justice">John Jay</a></li>
+<li><a href="/wiki/Lehman_College" title="Lehman College">Lehman</a></li>
+<li><a href="/wiki/William_E._Macaulay_Honors_College" title="William E. Macaulay Honors College">Macaulay</a></li>
+<li><a href="/wiki/Medgar_Evers_College" title="Medgar Evers College">Medgar Evers</a></li>
+<li><a href="/wiki/Queens_College,_City_University_of_New_York" title="Queens College, City University of New York">Queens</a></li>
+<li><a href="/wiki/College_of_Staten_Island" title="College of Staten Island">Staten Island</a></li>
+<li><a href="/wiki/York_College,_City_University_of_New_York" title="York College, City University of New York">York</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Graduate</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Graduate_Center,_CUNY" title="Graduate Center, CUNY">Graduate Center</a></li>
+<li><a href="/wiki/CUNY_Graduate_School_of_Journalism" title="CUNY Graduate School of Journalism">Journalism</a></li>
+<li><a href="/wiki/CUNY_School_of_Law" title="CUNY School of Law">Law</a></li>
+<li><a href="/wiki/CUNY_School_of_Professional_Studies" title="CUNY School of Professional Studies">Professional Studies</a></li>
+<li><a href="/wiki/CUNY_School_of_Public_Health" title="CUNY School of Public Health">School of Public Health</a></li>
+<li><a href="/wiki/Sophie_Davis_School_of_Biomedical_Education" title="Sophie Davis School of Biomedical Education">Biomedical Education</a></li>
+<li><a href="/wiki/CUNY_Medical_School" class="mw-redirect" title="CUNY Medical School">Medicine</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Media</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>CUNY Radio
+<ul>
+<li><a href="/wiki/WSIA" title="WSIA">WSIA</a></li>
+<li><a href="/wiki/WHCR-FM" title="WHCR-FM">WHCR</a></li>
+<li><a href="/wiki/WKRB" title="WKRB">WKRB</a></li>
+</ul>
+</li>
+<li><a href="/wiki/CUNY_TV" title="CUNY TV">CUNY TV</a></li>
+<li><a href="/wiki/The_Feminist_Press" title="The Feminist Press">The Feminist Press</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1284
+Cached time: 20170911035019
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.364 seconds
+Real time usage: 0.467 seconds
+Preprocessor visited node count: 2062/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 65474/2097152 bytes
+Template argument size: 3910/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.166/10.000 seconds
+Lua memory usage: 7.77 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  365.547      1 -total
+ 36.61%  133.816      1 Template:Reflist
+ 27.49%  100.491      1 Template:Infobox_university
+ 23.24%   84.970      1 Template:Infobox
+ 12.59%   46.009      2 Template:Br_separated_entries
+ 11.74%   42.921      4 Template:Cite_news
+ 11.15%   40.771     10 Template:Cite_web
+  9.97%   36.460      2 Template:Fix
+  9.84%   35.955      1 Template:Convert
+  9.31%   34.050      1 Template:Citation_needed
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:320470-0!canonical and timestamp 20170911035029 and revision id 800014191
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Brooklyn_College&amp;oldid=800014191">https://en.wikipedia.org/w/index.php?title=Brooklyn_College&amp;oldid=800014191</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Educational_institutions_established_in_1930" title="Category:Educational institutions established in 1930">Educational institutions established in 1930</a></li><li><a href="/wiki/Category:Universities_and_colleges_in_New_York_(state)" title="Category:Universities and colleges in New York (state)">Universities and colleges in New York (state)</a></li><li><a href="/wiki/Category:Universities_and_colleges_in_New_York_City" title="Category:Universities and colleges in New York City">Universities and colleges in New York City</a></li><li><a href="/wiki/Category:Brooklyn_College" title="Category:Brooklyn College">Brooklyn College</a></li><li><a href="/wiki/Category:Universities_and_colleges_in_Brooklyn" title="Category:Universities and colleges in Brooklyn">Universities and colleges in Brooklyn</a></li><li><a href="/wiki/Category:Midwood,_Brooklyn" title="Category:Midwood, Brooklyn">Midwood, Brooklyn</a></li><li><a href="/wiki/Category:1930_establishments_in_New_York_(state)" title="Category:1930 establishments in New York (state)">1930 establishments in New York (state)</a></li><li><a href="/wiki/Category:Flatbush,_Brooklyn" title="Category:Flatbush, Brooklyn">Flatbush, Brooklyn</a></li><li><a href="/wiki/Category:Universities_and_colleges_on_Long_Island" title="Category:Universities and colleges on Long Island">Universities and colleges on Long Island</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Instances_of_Infobox_university_using_image_size" title="Category:Instances of Infobox university using image size">Instances of Infobox university using image size</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2010" title="Category:Articles with unsourced statements from June 2010">Articles with unsourced statements from June 2010</a></li><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_November_2016" title="Category:Articles with dead external links from November 2016">Articles with dead external links from November 2016</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Brooklyn+College" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Brooklyn+College" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Brooklyn_College" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Brooklyn_College" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Brooklyn_College">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Brooklyn_College&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Brooklyn_College&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Brooklyn_College" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Brooklyn_College" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Brooklyn_College&amp;oldid=800014191" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Brooklyn_College&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q371625" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Brooklyn_College&amp;id=800014191" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Brooklyn+College">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Brooklyn+College&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DBrooklyn%2BCollege%26returnto%3DBrooklyn%2BCollege%26oldid%3D800014191%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Brooklyn_College&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Brooklyn_College" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Brooklyn_College" title="Brooklyn College – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/College_de_Brooklyn_de_la_Universidad_de_la_Ciudad_de_Nueva_York" title="College de Brooklyn de la Universidad de la Ciudad de Nueva York – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Brooklyn_College" title="Brooklyn College – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Brooklyn_College" title="Brooklyn College – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%B8%8C%EB%A3%A8%ED%81%B4%EB%A6%B0_%EC%B9%BC%EB%A6%AC%EC%A7%80" title="브루클린 칼리지 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%91%D7%A8%D7%95%D7%A7%D7%9C%D7%99%D7%9F_%D7%A7%D7%95%D7%9C%D7%92%27" title="ברוקלין קולג' – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Collegium_Brooklynense" title="Collegium Brooklynense – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%E5%B8%82%E7%AB%8B%E5%A4%A7%E5%AD%A6%E3%83%96%E3%83%AB%E3%83%83%E3%82%AF%E3%83%AA%E3%83%B3%E6%A0%A1" title="ニューヨーク市立大学ブルックリン校 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Brooklyn_College" title="Brooklyn College – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Brooklyn_College" title="Brooklyn College – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%91%D1%80%D1%83%D0%BA%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%B4%D0%B6" title="Бруклинский колледж – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Brooklyn_College" title="Brooklyn College – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%B8%83%E9%B2%81%E5%85%8B%E6%9E%97%E5%AD%A6%E9%99%A2" title="布鲁克林学院 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q371625#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 11 September 2017, at 03:50.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Brooklyn_College&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.364","walltime":"0.467","ppvisitednodes":{"value":2062,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":65474,"limit":2097152},"templateargumentsize":{"value":3910,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  365.547      1 -total"," 36.61%  133.816      1 Template:Reflist"," 27.49%  100.491      1 Template:Infobox_university"," 23.24%   84.970      1 Template:Infobox"," 12.59%   46.009      2 Template:Br_separated_entries"," 11.74%   42.921      4 Template:Cite_news"," 11.15%   40.771     10 Template:Cite_web","  9.97%   36.460      2 Template:Fix","  9.84%   35.955      1 Template:Convert","  9.31%   34.050      1 Template:Citation_needed"]},"scribunto":{"limitreport-timeusage":{"value":"0.166","limit":"10.000"},"limitreport-memusage":{"value":8143428,"limit":52428800}},"cachereport":{"origin":"mw1284","timestamp":"20170911035019","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":78,"wgHostname":"mw1246"});});</script>
+	</body>
+</html>

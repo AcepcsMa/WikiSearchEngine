@@ -1,0 +1,742 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Civil parish - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Civil_parish","wgTitle":"Civil parish","wgCurRevisionId":798021559,"wgRevisionId":798021559,"wgArticleId":644233,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Pages using web citations with no URL","Pages using citations with accessdate and no URL","Webarchive template other archives","Use dmy dates from September 2015","Use British English from October 2013","All articles with unsourced statements","Articles with unsourced statements from November 2015","Wikipedia articles in need of updating from March 2017","All Wikipedia articles in need of updating","Civil parishes in England","Types of subdivision in the United Kingdom"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Civil_parish","wgRelevantArticleId":644233,"wgRequestId":"WcgTqApAMFAAAHgoShgAAABD","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1115575","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Uk_parishes.png/1200px-Uk_parishes.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Civil_parish"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Civil_parish&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Civil_parish&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Civil_parish"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Civil_parish rootpage-Civil_parish skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Civil parish</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about civil parishes in England. For civil parishes in other countries, see <a href="/wiki/Civil_parish_(disambiguation)" class="mw-disambig" title="Civil parish (disambiguation)">Civil parish (disambiguation)</a>.</div>
+<table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">Civil parish (England)</th>
+</tr>
+<tr>
+<th scope="row">Category</th>
+<td><a href="/wiki/Parish_(administrative_division)" title="Parish (administrative division)">Parish</a></td>
+</tr>
+<tr>
+<th scope="row">Location</th>
+<td><a href="/wiki/England" title="England">England</a></td>
+</tr>
+<tr>
+<th scope="row">Found&#160;in</th>
+<td><a href="/wiki/Districts_of_England" title="Districts of England">Districts</a></td>
+</tr>
+<tr>
+<th scope="row">Created&#160;by</th>
+<td>Various, see text</td>
+</tr>
+<tr>
+<th scope="row">Created</th>
+<td>Various, see text</td>
+</tr>
+<tr>
+<th scope="row">Number</th>
+<td><a href="/wiki/List_of_civil_parishes_in_England" title="List of civil parishes in England">10,449</a> (as of 2015<sup id="cite_ref-Office_for_National_Statistics_1-0" class="reference"><a href="#cite_note-Office_for_National_Statistics-1">[1]</a></sup>)</td>
+</tr>
+<tr>
+<th scope="row">Possible types</th>
+<td>City<br />
+Community<br />
+Neighbourhood<br />
+Parish<br />
+Town<br />
+Village</td>
+</tr>
+<tr>
+<th scope="row">Populations</th>
+<td>0–<a href="/wiki/List_of_the_most_populous_civil_parishes_in_England" title="List of the most populous civil parishes in England">80,000</a></td>
+</tr>
+<tr>
+<th scope="row">Government</th>
+<td><a href="/wiki/Parish_councils_in_England" title="Parish councils in England">City council</a><br />
+<a href="/wiki/Parish_councils_in_England" title="Parish councils in England">Community council</a><br />
+<a href="/wiki/Parish_councils_in_England" title="Parish councils in England">Neighbourhood council</a><br />
+<a href="/wiki/Parish_councils_in_England" title="Parish councils in England">Parish council</a><br />
+<a href="/wiki/Parish_councils_in_England" title="Parish councils in England">Town council</a><br />
+<a href="/wiki/Parish_councils_in_England" title="Parish councils in England">Village council</a></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Uk_parishes.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Uk_parishes.png/300px-Uk_parishes.png" width="300" height="300" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Uk_parishes.png/450px-Uk_parishes.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Uk_parishes.png/600px-Uk_parishes.png 2x" data-file-width="2000" data-file-height="2000" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Uk_parishes.png" class="internal" title="Enlarge"></a></div>
+Map of English parishes and Welsh communities</div>
+</div>
+</div>
+<p>In England, a <b>civil parish</b> (CP) is a territorial designation which is the lowest tier of local government below <a href="/wiki/Districts_of_England" title="Districts of England">districts</a> and <a href="/wiki/Metropolitan_and_non-metropolitan_counties_of_England" title="Metropolitan and non-metropolitan counties of England">counties</a>, or their combined form, the <a href="/wiki/Unitary_authority" title="Unitary authority">unitary authority</a>. It is an <a href="/wiki/Parish_(administrative_division)" title="Parish (administrative division)">administrative parish</a>, in contrast to an <a href="/wiki/Ecclesiastical_parish" class="mw-redirect" title="Ecclesiastical parish">ecclesiastical parish</a>.</p>
+<p>A civil parish can range in size from a large <a href="/wiki/Town" title="Town">town</a> with a population of about 80,000 to a single <a href="/wiki/Village" title="Village">village</a> with fewer than a hundred inhabitants. In a limited number of cases a parish might include a whole city where <a href="/wiki/City_status_in_the_United_Kingdom" title="City status in the United Kingdom">city status</a> has been granted by the <a href="/wiki/Monarchy_of_the_United_Kingdom" title="Monarchy of the United Kingdom">Monarch</a>. Reflecting this diverse nature, a civil parish may be known as a town, village, <a href="/wiki/Neighbourhood" title="Neighbourhood">neighbourhood</a> or <a href="/wiki/Community" title="Community">community</a> by resolution of its <a href="/wiki/Parish_councils_in_England" title="Parish councils in England">parish council</a>. Approximately 35% of the English population live in a civil parish. As of 31 December 2015 there were 10,449 parishes in England.<sup id="cite_ref-Office_for_National_Statistics_1-1" class="reference"><a href="#cite_note-Office_for_National_Statistics-1">[1]</a></sup></p>
+<p>On 1 April 2014, <a href="/wiki/Queen%27s_Park,_London" title="Queen's Park, London">Queen's Park</a> became the first civil parish in <a href="/wiki/Greater_London" title="Greater London">Greater London</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Before 2008 their creation was not permitted within a <a href="/wiki/London_borough" class="mw-redirect" title="London borough">London borough</a>.<sup id="cite_ref-reviews_3-0" class="reference"><a href="#cite_note-reviews-3">[3]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Ancient_origins"><span class="tocnumber">1.1</span> <span class="toctext">Ancient origins</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Civil_and_ecclesiastical_split"><span class="tocnumber">1.2</span> <span class="toctext">Civil and ecclesiastical split</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Reform"><span class="tocnumber">1.3</span> <span class="toctext">Reform</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Revival"><span class="tocnumber">1.4</span> <span class="toctext">Revival</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Governance"><span class="tocnumber">2</span> <span class="toctext">Governance</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Powers_and_functions"><span class="tocnumber">2.1</span> <span class="toctext">Powers and functions</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Councillors_and_elections"><span class="tocnumber">2.2</span> <span class="toctext">Councillors and elections</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Status_and_styles"><span class="tocnumber">2.3</span> <span class="toctext">Status and styles</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Charter_trustees"><span class="tocnumber">2.4</span> <span class="toctext">Charter trustees</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Geography"><span class="tocnumber">3</span> <span class="toctext">Geography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Area"><span class="tocnumber">3.1</span> <span class="toctext">Area</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Deserted_parishes"><span class="tocnumber">3.2</span> <span class="toctext">Deserted parishes</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Exclaves_and_divided_parishes"><span class="tocnumber">3.3</span> <span class="toctext">Exclaves and divided parishes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Civil_parish&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Ancient_origins">Ancient origins</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Civil_parish&amp;action=edit&amp;section=2" title="Edit section: Ancient origins">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The division of land into ancient <a href="/wiki/Parish" title="Parish">parishes</a> was linked to the <a href="/wiki/Manorialism" title="Manorialism">manorial system</a>: parishes and manors often covered the same area and had the same boundaries.<sup id="cite_ref-Baker_1989_4-0" class="reference"><a href="#cite_note-Baker_1989-4">[4]</a></sup> The manor was the principal unit of local administration and justice in the early rural economy. Later the church replaced the manor court as the rural administrative centre, and levied a local tax on produce known as a <a href="/wiki/Tithe" title="Tithe">tithe</a>.<sup id="cite_ref-Baker_1989_4-1" class="reference"><a href="#cite_note-Baker_1989-4">[4]</a></sup> In the medieval period, responsibilities such as relief of the poor passed increasingly from the Lord of the Manor to the parish's <a href="/wiki/Rector_(ecclesiastical)" title="Rector (ecclesiastical)">rector</a>, who in practice would delegate tasks among his vestry or the (often well-endowed) monasteries. After the <a href="/wiki/Dissolution_of_the_monasteries" class="mw-redirect" title="Dissolution of the monasteries">dissolution of the monasteries</a>, the power to levy a <a href="/wiki/Rates_(tax)" title="Rates (tax)">rate</a> to fund relief of the poor was conferred on the parish authorities by the <a href="/wiki/Act_for_the_Relief_of_the_Poor_1601" title="Act for the Relief of the Poor 1601">Act for the Relief of the Poor 1601</a>. Both before and after this optional social change, local (vestry-administered) <a href="/wiki/Charitable_organization" title="Charitable organization">charities</a> are well-documented.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<p>The parish authorities were known as <a href="/wiki/Vestry" title="Vestry">vestries</a> and consisted of all the <a href="/wiki/Rates_(tax)" title="Rates (tax)">ratepayers</a> of the parish. As the number of ratepayers of some parishes grew, it became increasingly difficult to convene meetings as an open vestry. In some, mostly built up, areas the <a href="/wiki/Vestry#The_select_vestry" title="Vestry">select vestry</a> took over responsibility from the entire body of ratepayers. This innovation improved efficiency, but allowed governance by a self-perpetuating elite.<sup id="cite_ref-Baker_1989_4-2" class="reference"><a href="#cite_note-Baker_1989-4">[4]</a></sup> The administration of the parish system relied on the monopoly of the established English Church, which for a few years after <a href="/wiki/Henry_VIII_of_England" title="Henry VIII of England">Henry VIII</a> alternated between the Roman Catholic Church and the <a href="/wiki/Church_of_England" title="Church of England">Church of England</a>, before settling on the latter on the accession of <a href="/wiki/Elizabeth_I_of_England" title="Elizabeth I of England">Elizabeth I</a> in 1558. By the 18th century, religious membership was becoming more fractured in some places, due for instance to the progress of <a href="/wiki/Methodism" title="Methodism">Methodism</a>. The legitimacy of the parish vestry came into question and the perceived inefficiency and corruption inherent in the system became a source for concern in some places.<sup id="cite_ref-Baker_1989_4-3" class="reference"><a href="#cite_note-Baker_1989-4">[4]</a></sup> For this reason, during the early 19th century the parish progressively lost its powers to <i>ad hoc</i> boards and other organisations, for example the loss of responsibility for poor relief through the <a href="/wiki/Poor_Law_Amendment_Act_1834" title="Poor Law Amendment Act 1834">Poor Law Amendment Act 1834</a>. <a href="/wiki/Sanitary_district" title="Sanitary district">Sanitary districts</a> covered England in 1875 and Ireland three years later. The replacement boards were each entitled to levy their own rate in the parish. The church rate ceased to be levied in many parishes and became voluntary from 1868.<sup id="cite_ref-Baker_1989_4-4" class="reference"><a href="#cite_note-Baker_1989-4">[4]</a></sup></p>
+<h3><span class="mw-headline" id="Civil_and_ecclesiastical_split">Civil and ecclesiastical split</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Civil_parish&amp;action=edit&amp;section=3" title="Edit section: Civil and ecclesiastical split">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The ancient parishes diverged into two distinct systems of parishes during the 19th century. The <a href="/w/index.php?title=Poor_Law_Amendment_Act_1866&amp;action=edit&amp;redlink=1" class="new" title="Poor Law Amendment Act 1866 (page does not exist)">Poor Law Amendment Act 1866</a> declared all areas that levied a separate rate, including <a href="/wiki/Extra-parochial_area" title="Extra-parochial area">extra-parochial areas</a>, <a href="/wiki/Township_(England)" title="Township (England)">townships</a>, and <a href="/wiki/Chapelry" title="Chapelry">chapelries</a>, to be "civil parishes". The Church of England parishes, which together covered the whole of England, became officially termed "ecclesiastical parishes", and after 1921 each was the responsibility of a local <a href="/wiki/Parochial_church_council" title="Parochial church council">parochial church council</a>.</p>
+<p>In the late 19th century, most of the ancient irregularities inherited by the civil parish system were cleaned up, and the majority of <a href="/wiki/Exclave" class="mw-redirect" title="Exclave">exclaves</a> were abolished. The United Kingdom Census 1911 noted that 8,322 (58%) of parishes in England and Wales were not identical for civil and ecclesiastical purposes.</p>
+<h3><span class="mw-headline" id="Reform">Reform</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Civil_parish&amp;action=edit&amp;section=4" title="Edit section: Reform">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1894 civil parishes were reformed by the <a href="/wiki/Local_Government_Act_1894" title="Local Government Act 1894">Local Government Act 1894</a> to become the lowest tier of government in rural areas. The Act abolished <a href="/wiki/Vestry" title="Vestry">vestries</a>, set up <a href="/wiki/Urban_district_(Great_Britain_and_Ireland)" title="Urban district (Great Britain and Ireland)">urban districts</a> and <a href="/wiki/Rural_district" title="Rural district">rural districts</a>, established elected civil parish councils in all rural parishes with more than 300 electors, and established annual <a href="/wiki/Parish_meeting" title="Parish meeting">parish meetings</a> in all rural parishes, whatever their population. Civil parishes were grouped into rural districts. Boundaries were altered to avoid parishes being split between counties.</p>
+<p>Urban civil parishes continued to exist; however they were generally coterminous (geographically identical) with the <a href="/wiki/Urban_district_(Great_Britain_and_Ireland)" title="Urban district (Great Britain and Ireland)">urban district</a> or <a href="/wiki/Municipal_borough" title="Municipal borough">municipal borough</a> in which they lay, which took over almost all of their functions. Large towns which had previously been split between civil parishes were, for the most part, eventually consolidated into one parish. No parish councils were formed for urban parishes, and their only function was electing guardians to the <a href="/wiki/Poor_law_union" title="Poor law union">poor law unions</a>. Many of these would include areas in more than one district. With the abolition of the Poor Law system in 1930, such urban parishes had virtually no function.</p>
+<p>In 1965 civil parishes in <a href="/wiki/London" title="London">London</a> were formally abolished when <a href="/wiki/Greater_London" title="Greater London">Greater London</a> was created, as the legislative framework for Greater London did not make provision for any local government body below a <a href="/wiki/London_borough" class="mw-redirect" title="London borough">London borough</a>. (Since all of London was previously part of a metropolitan borough, municipal borough or urban district, no actual parish councils were abolished.)</p>
+<p>In 1974 the <a href="/wiki/Local_Government_Act_1972" title="Local Government Act 1972">Local Government Act 1972</a> retained civil parishes in rural areas and low-population urban districts, but abolished them in larger urban districts, especially boroughs. In non-metropolitan counties, smaller <a href="/wiki/Urban_district_(Great_Britain_and_Ireland)" title="Urban district (Great Britain and Ireland)">urban districts</a> and <a href="/wiki/Municipal_borough" title="Municipal borough">municipal boroughs</a> were abolished and succeeded by establishment of new <a href="/wiki/Successor_parish" title="Successor parish">successor parishes</a>, with a boundary coterminous with an existing urban district or borough, or if divided by a district boundary as much as was comprised in a single district. In urban areas that were considered too large to be single parishes, the parishes were simply abolished, and they became <a href="/wiki/Unparished_area" title="Unparished area">unparished areas</a>. The Act, however, permitted sub-division of all districts (apart from London boroughs, reformed in 1965) into civil parishes. For example, <a href="/wiki/Oxford" title="Oxford">Oxford</a>, whilst entirely unparished in 1974, now has four civil parishes, which together cover part of its area.</p>
+<h3><span class="mw-headline" id="Revival">Revival</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Civil_parish&amp;action=edit&amp;section=5" title="Edit section: Revival">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Nowadays the creation of town and <a href="/wiki/Parish_councils_in_England" title="Parish councils in England">parish councils</a> is encouraged in <a href="/wiki/Unparished_area" title="Unparished area">unparished areas</a>. The <a href="/wiki/Local_Government_and_Rating_Act_1997" title="Local Government and Rating Act 1997">Local Government and Rating Act 1997</a> created a procedure which gave residents in unparished areas the right to demand that a new parish and parish council be created.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> This right was extended to <a href="/wiki/London_borough" class="mw-redirect" title="London borough">London boroughs</a> by the <a href="/wiki/Local_Government_and_Public_Involvement_in_Health_Act_2007" title="Local Government and Public Involvement in Health Act 2007">Local Government and Public Involvement in Health Act 2007</a><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> - with this, the <a href="/wiki/City_of_London" title="City of London">City of London</a> is at present the only part of England where civil parishes cannot be created.</p>
+<p>If enough electors in the area of a proposed new parish (ranging from 50% in an area with less than 500 electors to 10% in one with more than 2,500) sign a <a href="/wiki/Petition" title="Petition">petition</a> demanding its creation, then the local district council or unitary authority must consider the proposal.<sup id="cite_ref-reviews_3-1" class="reference"><a href="#cite_note-reviews-3">[3]</a></sup> Recently established parish councils include <a href="/wiki/Daventry" title="Daventry">Daventry</a> (2003), <a href="/wiki/Folkestone" title="Folkestone">Folkestone</a> (2004), and <a href="/wiki/Brixham" title="Brixham">Brixham</a> (2007). In 2003 seven new parish councils were set up for <a href="/wiki/Burton_upon_Trent" title="Burton upon Trent">Burton upon Trent</a>, and in 2001 the <a href="/wiki/Milton_Keynes" title="Milton Keynes">Milton Keynes</a> urban area became entirely parished, with ten new parishes being created. In 2003, the village of <a href="/wiki/Great_Coates" title="Great Coates">Great Coates</a> (<a href="/wiki/Grimsby" title="Grimsby">Grimsby</a>) regained parish status. Parishes can also be abolished where there is evidence that this in response to "justified, clear and sustained local support" from the area's inhabitants.<sup id="cite_ref-reviews_3-2" class="reference"><a href="#cite_note-reviews-3">[3]</a></sup> Examples are <a href="/wiki/Birtley,_Tyne_and_Wear" title="Birtley, Tyne and Wear">Birtley</a>, which was abolished in 2006, and <a href="/wiki/Southsea" title="Southsea">Southsea</a>, abolished in 2010.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<h2><span class="mw-headline" id="Governance">Governance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Civil_parish&amp;action=edit&amp;section=6" title="Edit section: Governance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Parish_councils_in_England" title="Parish councils in England">Parish councils in England</a></div>
+<p>Every civil parish has a parish meeting, which all the electors of the parish are entitled to attend. Generally a meeting is held once a year. A civil parish may have a <a href="/wiki/Parish_councils_in_England" title="Parish councils in England">parish council</a> which exercises various local responsibilities prescribed by statute. Parishes with fewer than 200 electors are usually deemed too small to have a parish council, and instead will only have a <a href="/wiki/Parish_meeting" title="Parish meeting">parish meeting</a>: an example of <a href="/wiki/Direct_democracy" title="Direct democracy">direct democracy</a>. Alternatively several small parishes can be grouped together and share a common parish council, or even a common parish meeting. In places where there is no civil parish (unparished areas), the administration of the activities normally undertaken by the parish becomes the responsibility of the district or borough council. According to the <a href="/wiki/Department_for_Communities_and_Local_Government" title="Department for Communities and Local Government">Department for Communities and Local Government</a>, in England in 2011 there were 9,946 parishes.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Since 1997 around 100 new civil parishes have been created, in some cases by splitting existing civil parishes, but mostly by creating new ones from unparished areas.</p>
+<h3><span class="mw-headline" id="Powers_and_functions">Powers and functions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Civil_parish&amp;action=edit&amp;section=7" title="Edit section: Powers and functions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Typical activities undertaken by parish or town councils include:<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<ul>
+<li>The provision and upkeep of certain local facilities such as <a href="/wiki/Allotment_(gardening)" title="Allotment (gardening)">allotments</a>, bus shelters, parks, playgrounds, public seats, public toilets, public clocks, <a href="/wiki/Street_light" title="Street light">street lights</a>, village or town halls, and various leisure and recreation facilities.</li>
+<li>Maintenance of <a href="/wiki/Footpath" title="Footpath">footpaths</a>, <a href="/wiki/Cemetery" title="Cemetery">cemeteries</a> and <a href="/wiki/Village_green" title="Village green">village greens</a></li>
+<li>Since 1997 parish councils have had new powers to provide community transport (such as a <a href="/wiki/Minibus" title="Minibus">minibus</a>) and crime prevention measures (such as <a href="/wiki/Closed_circuit_television" class="mw-redirect" title="Closed circuit television">CCTV</a>) and to contribute money towards <a href="/wiki/Traffic_calming" title="Traffic calming">traffic calming</a> schemes.</li>
+<li>Parish councils are supposed to act as a channel of local opinion to larger local government bodies, and as such have the right to be consulted on any <a href="/wiki/Town_and_country_planning" class="mw-redirect" title="Town and country planning">planning</a> decisions affecting the parish.</li>
+<li>Giving of <a href="/wiki/Grant_(money)" title="Grant (money)">grants</a> to local voluntary organisations, and sponsoring public events, including entering <a href="/wiki/Britain_in_Bloom" title="Britain in Bloom">Britain in Bloom</a>.</li>
+</ul>
+<p>The role played by parish councils varies. Smaller parish councils have only limited resources and generally play only a minor role, while some larger parish councils have a role similar to that of a small <a href="/wiki/Non-metropolitan_district" title="Non-metropolitan district">district council</a>. Parish councils receive funding by levying a "precept" on the <a href="/wiki/Council_tax" class="mw-redirect" title="Council tax">council tax</a> paid by the residents of the parish.</p>
+<h3><span class="mw-headline" id="Councillors_and_elections">Councillors and elections</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Civil_parish&amp;action=edit&amp;section=8" title="Edit section: Councillors and elections">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Parish councils comprise volunteer <a href="/wiki/Councillor" title="Councillor">councillors</a> who are <a href="/wiki/Election" title="Election">elected</a> to serve for four years. Decisions of the council are carried out by a paid officer, typically known as a parish clerk. Councils may employ additional people (including bodies corporate, provided where necessary, by tender) to carry out specific tasks dictated by the council. Some councils have chosen to pay their elected members an allowance, as permitted under part 5 of the Local Authorities (Members' Allowances) (England) Regulations 2003.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<p>The number of councillors varies roughly in proportion to the population of the parish.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2015)">citation needed</span></a></i>]</sup> Most rural parish councillors are elected to represent the entire parish, though in parishes with larger populations or those that cover larger areas, the parish can be divided into wards. Each of these wards then returns councillors to the parish council (the numbers depending on their population). Only if there are more candidates standing for election than there are seats on the council will an election be held. However, sometimes there are fewer candidates than seats. When this happens, the vacant seats have to be filled by <a href="/wiki/Co-option" title="Co-option">co-option</a> by the council. If a vacancy arises for a seat mid-term, an election is only held if a certain number (usually ten) of parish residents request an election. Otherwise the council will co-opt someone to be the replacement councillor.</p>
+<p>The <a href="/wiki/Localism_Act_2011" title="Localism Act 2011">Localism Act 2011</a> introduced new arrangements which replaced the <a href="/wiki/Standards_Board_for_England" title="Standards Board for England">'Standards Board regime'</a> with local monitoring by district, unitary or equivalent authorities. Under new regulations which came into effect in 2012 all parish councils in England are required to adopt a code of conduct with which parish councillors must comply, and to promote and maintain high standards. A new criminal offence of failing to comply with statutory requirements was introduced. More than one 'model code' has been published, and councils are free to modify an existing code or adopt a new code. In either case the code must comply with the <a href="/wiki/Nolan_Principles_of_Public_Life" class="mw-redirect" title="Nolan Principles of Public Life">Nolan Principles of Public Life</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+<h3><span class="mw-headline" id="Status_and_styles">Status and styles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Civil_parish&amp;action=edit&amp;section=9" title="Edit section: Status and styles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A parish can gain <a href="/wiki/City_status_in_the_United_Kingdom" title="City status in the United Kingdom">city status</a> but only if that is granted by <a href="/wiki/British_monarchy" class="mw-redirect" title="British monarchy">the Crown</a>. In <a href="/wiki/England" title="England">England</a>, there are currently eight parishes with city status, all places with long-established Anglican cathedrals: <a href="/wiki/Chichester" title="Chichester">Chichester</a>, <a href="/wiki/Ely,_Cambridgeshire" title="Ely, Cambridgeshire">Ely</a>, <a href="/wiki/Hereford" title="Hereford">Hereford</a>, <a href="/wiki/Lichfield" title="Lichfield">Lichfield</a>, <a href="/wiki/Ripon" title="Ripon">Ripon</a>, <a href="/wiki/Salisbury" title="Salisbury">Salisbury</a>, <a href="/wiki/Truro" title="Truro">Truro</a> and <a href="/wiki/Wells,_Somerset" title="Wells, Somerset">Wells</a>.</p>
+<p>The council of an ungrouped parish may unilaterally pass a resolution giving the parish the status of a town.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> The parish council becomes a "town council".<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> Around 400 parish councils are called town councils.</p>
+<p>Under the <a href="/wiki/Local_Government_and_Public_Involvement_in_Health_Act_2007" title="Local Government and Public Involvement in Health Act 2007">Local Government and Public Involvement in Health Act 2007</a>, a civil parish may now be given an "alternative style" meaning one of the following:</p>
+<ul>
+<li>community</li>
+<li>neighbourhood</li>
+<li>village</li>
+</ul>
+<p>The chairman of a town council will have the title "town mayor" and that of a parish council which is a city will usually have the title of <a href="/wiki/Mayors_in_England" title="Mayors in England">mayor</a>. As a result, a parish council can also be called a <a href="/wiki/Town_council" title="Town council">town council</a>, a community council, a village council or occasionally a city council (though most cities are not parishes but principal areas, or in England specifically <a href="/wiki/Metropolitan_borough" title="Metropolitan borough">metropolitan boroughs</a> or <a href="/wiki/Non-metropolitan_district" title="Non-metropolitan district">non-metropolitan districts</a>).<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></p>
+<h3><span class="mw-headline" id="Charter_trustees">Charter trustees</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Civil_parish&amp;action=edit&amp;section=10" title="Edit section: Charter trustees">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>When a city or town has been abolished as a borough, and it is considered desirable to maintain continuity of the charter, the charter may be transferred to a parish council for its area. Where there is no such parish council, the district council may appoint <a href="/wiki/Charter_trustee" class="mw-redirect" title="Charter trustee">charter trustees</a> to whom the charter and the arms of the former borough will belong. The charter trustees (who consist of the councillor or councillors for the area of the former borough) maintain traditions such as <a href="/wiki/Mayors_in_the_United_Kingdom" class="mw-redirect" title="Mayors in the United Kingdom">mayoralty</a>. An example of such a city was <a href="/wiki/Hereford" title="Hereford">Hereford</a>, whose city council was merged in 1998 to form a unitary <a href="/wiki/Herefordshire" title="Herefordshire">Herefordshire</a>. The area of the city of Hereford remained unparished until 2000 when a parish council was created for the city. The charter trustees for the <a href="/wiki/City_of_Bath" class="mw-redirect" title="City of Bath">City of Bath</a> make up the majority of the councillors on <a href="/wiki/Bath_and_North_East_Somerset" title="Bath and North East Somerset">Bath and North East Somerset</a> Council.</p>
+<h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Civil_parish&amp;action=edit&amp;section=11" title="Edit section: Geography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Update" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="Ambox current red.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/42px-Ambox_current_red.svg.png" width="42" height="34" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/63px-Ambox_current_red.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/84px-Ambox_current_red.svg.png 2x" data-file-width="360" data-file-height="290" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section needs to be <b>updated</b>. <span class="hide-when-compact">Please update this article to reflect recent events or newly available information.</span> <small><i>(March 2017)</i></small></span></td>
+</tr>
+</table>
+<p>Civil parishes cover 35% of England's population, with one in <a href="/wiki/Greater_London" title="Greater London">Greater London</a> and very few in the other conurbations. Civil parishes vary greatly in size: many cover tiny <a href="/wiki/Hamlet_(place)" title="Hamlet (place)">hamlets</a> with populations of less than 100, whereas some large parishes cover towns with populations of tens of thousands. <a href="/wiki/Weston-super-Mare" title="Weston-super-Mare">Weston-super-Mare</a>, with a population of 71,758, is the most populous civil parish. In many cases, several small <a href="/wiki/Village" title="Village">villages</a> are located in a single parish. Large urban areas are mostly unparished, as the government at the time of the <a href="/wiki/Local_Government_Act_1972" title="Local Government Act 1972">Local Government Act 1972</a> discouraged their creation for large towns or their suburbs, but there is generally nothing to stop their establishment. For example, <a href="/wiki/Birmingham" title="Birmingham">Birmingham</a> has just one parish, <a href="/wiki/New_Frankley" title="New Frankley">New Frankley</a>, whilst <a href="/wiki/Oxford" title="Oxford">Oxford</a> has four, and <a href="/wiki/Northampton" title="Northampton">Northampton</a> has seven. Parishes could not however be established in London until the law was changed in 2007.</p>
+<h3><span class="mw-headline" id="Area">Area</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Civil_parish&amp;action=edit&amp;section=12" title="Edit section: Area">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A civil parish can range in area from a small village or town ward to a large tract of mostly uninhabited moorland in the Cheviots, Pennines or Dartmoor.</p>
+<h3><span class="mw-headline" id="Deserted_parishes">Deserted parishes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Civil_parish&amp;action=edit&amp;section=13" title="Edit section: Deserted parishes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The 2001 census recorded several parishes with no inhabitants. These were <a href="/wiki/Chester_Castle_(parish)" title="Chester Castle (parish)">Chester Castle</a> (in the middle of <a href="/wiki/Chester" title="Chester">Chester</a> city centre), <a href="/wiki/Newland_with_Woodhouse_Moor" title="Newland with Woodhouse Moor">Newland with Woodhouse Moor</a>, <a href="/wiki/Beaumont_Chase" title="Beaumont Chase">Beaumont Chase</a>, <a href="/wiki/Martinsthorpe" title="Martinsthorpe">Martinsthorpe</a>, <a href="/wiki/Meering" title="Meering">Meering</a>, <a href="/wiki/Stanground_North" title="Stanground North">Stanground North</a> (subsequently abolished), <a href="/wiki/Sturston,_Norfolk" title="Sturston, Norfolk">Sturston</a>, <a href="/wiki/Tottington,_Norfolk" title="Tottington, Norfolk">Tottington</a>, and <a href="/wiki/Tyneham" title="Tyneham">Tyneham</a>. The lands of the last three were taken over by the <a href="/wiki/British_Armed_Forces" title="British Armed Forces">British Armed Forces</a> during <a href="/wiki/World_War_II" title="World War II">World War II</a> and remain deserted.</p>
+<h3><span class="mw-headline" id="Exclaves_and_divided_parishes">Exclaves and divided parishes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Civil_parish&amp;action=edit&amp;section=14" title="Edit section: Exclaves and divided parishes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Direct predecessors of the civil parishes are known as the "ancient parishes". A minority of these had <a href="/wiki/Enclave_and_exclave" title="Enclave and exclave">exclaves</a>: such an exclave could be</p>
+<ul>
+<li>an enclave within another parish,</li>
+<li>surrounded by more than one other parish, or</li>
+<li>a <a href="/wiki/Enclave_and_exclave" title="Enclave and exclave">pene-enclave</a>, partly surrounded by sea.</li>
+</ul>
+<p>In some cases an exclave was in a different <a href="/wiki/Counties_of_England" title="Counties of England">county</a>. In other cases, counties themselves could have an exclave made up of a parish. Both of these anomalies would result in a different <a href="/wiki/Knight_of_the_shire" class="mw-redirect" title="Knight of the shire">representatives on the national level</a> and different <a href="/wiki/Justices_of_the_peace" class="mw-redirect" title="Justices of the peace">justices of the peace</a>, sheriffs, bailiffs, churchwardens, highway wardens and constables, in the exclave from those parishes surrounding them. There were also a few examples of parishes split between two or more counties, such as <a href="/wiki/Todmorden" title="Todmorden">Todmorden</a>, split between <a href="/wiki/Lancashire" title="Lancashire">Lancashire</a> and <a href="/wiki/Yorkshire" title="Yorkshire">Yorkshire</a>.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></p>
+<p>These anomalies might have arisen at the time of the <a href="/wiki/Feudal_system" class="mw-redirect" title="Feudal system">feudal system</a>, when the land interests of a lord of the <a href="/wiki/Manor" title="Manor">manor</a> included more than one parcel of land which were not geographically contiguous, and the area of the manor (later parish) arose from such land interests. This might have arisen originally as a deliberate attempt to <a href="/wiki/Agricultural_diversification" title="Agricultural diversification">diversify</a> the lord's (or overlord's) interests, but perhaps more often it would arise from inheritance. It might however cause inconvenience to ordinary people, whether needing to attend church for baptisms, marriages or funerals or other reasons, or to obtain justice, pay rates or obtain poor relief. This frequent <a href="/wiki/Mischief_rule" title="Mischief rule">nuisance</a> began to be remedied nationally in <a href="/wiki/Statute" title="Statute">statute</a> by Parliament in the early 19th century in the <a href="/wiki/Poor_Law_Amendment_Act_1834" title="Poor Law Amendment Act 1834">Poor Law Reforms</a>, and was more widely remedied (but not wholly eliminated) in 1844. Before civil parishes were introduced, the <a href="/wiki/Counties_(Detached_Parts)_Act_1844" title="Counties (Detached Parts) Act 1844">Counties (Detached Parts) Act 1844</a> transferred many parishes which were exclaves of a county to the county which mostly surrounded them. The <a href="/wiki/List_of_county_exclaves_in_England_and_Wales_1844%E2%80%931974" title="List of county exclaves in England and Wales 1844–1974">remaining exclaves of counties</a> were transferred in the 1890s and in 1931, with one exception. An exclave of the parish of <a href="/wiki/Tetworth" title="Tetworth">Tetworth</a>, surrounded by <a href="/wiki/Cambridgeshire" title="Cambridgeshire">Cambridgeshire</a>, was finally removed in 1965 from <a href="/wiki/Huntingdonshire" title="Huntingdonshire">Huntingdonshire</a>.</p>
+<p>Other legislation, including the <a href="/wiki/Divided_Parishes_and_Poor_Law_Amendment_Act_1882" title="Divided Parishes and Poor Law Amendment Act 1882">Divided Parishes and Poor Law Amendment Act 1882</a>, eliminated instances of civil parishes being split between multiple counties, and by 1901 <a href="/wiki/Stanground,_Peterborough" title="Stanground, Peterborough">Stanground</a> (in <a href="/wiki/Huntingdonshire" title="Huntingdonshire">Huntingdonshire</a> and the <a href="/wiki/Isle_of_Ely" title="Isle of Ely">Isle of Ely</a>) was the sole remaining example.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> Stanground was split into two parishes, one in each county, in 1905.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></p>
+<p>The <a href="/wiki/Church_of_England" title="Church of England">Church of England</a> has adopted similar reforms to <a href="/wiki/Ecclesiastical_parish" class="mw-redirect" title="Ecclesiastical parish">ecclesiastical parishes</a> on a locally controlled (<a href="/wiki/Subsidiarity" title="Subsidiarity">subsidiarity</a>), <i><a href="/wiki/Ad_hoc" title="Ad hoc">ad hoc</a></i> basis, and still has a few with exclaves.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></p>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Cowley_Civil_Parish_Map_1868.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cowley_Civil_Parish_Map_1868.svg/107px-Cowley_Civil_Parish_Map_1868.svg.png" width="107" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cowley_Civil_Parish_Map_1868.svg/161px-Cowley_Civil_Parish_Map_1868.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cowley_Civil_Parish_Map_1868.svg/214px-Cowley_Civil_Parish_Map_1868.svg.png 2x" data-file-width="645" data-file-height="723" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Exclaves of Cowley.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:East_Barnet_Valley_Civil_Parish_Map_1863.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/East_Barnet_Valley_Civil_Parish_Map_1863.svg/96px-East_Barnet_Valley_Civil_Parish_Map_1863.svg.png" width="96" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/East_Barnet_Valley_Civil_Parish_Map_1863.svg/144px-East_Barnet_Valley_Civil_Parish_Map_1863.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/East_Barnet_Valley_Civil_Parish_Map_1863.svg/192px-East_Barnet_Valley_Civil_Parish_Map_1863.svg.png 2x" data-file-width="609" data-file-height="762" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Exclaves of Enfield.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35.5px auto;"><a href="/wiki/File:Westminster_Civil_Parish_Map_1870.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Westminster_Civil_Parish_Map_1870.png/120px-Westminster_Civil_Parish_Map_1870.png" width="120" height="79" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Westminster_Civil_Parish_Map_1870.png/180px-Westminster_Civil_Parish_Map_1870.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Westminster_Civil_Parish_Map_1870.png/240px-Westminster_Civil_Parish_Map_1870.png 2x" data-file-width="8153" data-file-height="5384" /></a></div>
+</div>
+<div class="gallerytext">
+<p>A parish exclave within Westminster.</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Civil_parish&amp;action=edit&amp;section=15" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_civil_parishes_in_England" title="List of civil parishes in England">List of civil parishes in England</a></li>
+<li><a href="/wiki/Community_(Wales)" title="Community (Wales)">Community (Wales)</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Civil_parish&amp;action=edit&amp;section=16" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation book">Wright, R S; Hobhouse, Henry (1884). <i>An Outline of Local Government and Local Taxation in England and Wales (Excluding the Metropolis)</i>. London: W Maxwell &amp; Son.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACivil+parish&amp;rft.au=Hobhouse%2C+Henry&amp;rft.aufirst=R+S&amp;rft.aulast=Wright&amp;rft.btitle=An+Outline+of+Local+Government+and+Local+Taxation+in+England+and+Wales+%28Excluding+the+Metropolis%29&amp;rft.date=1884&amp;rft.genre=book&amp;rft.place=London&amp;rft.pub=W+Maxwell+%26+Son&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Office_for_National_Statistics-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Office_for_National_Statistics_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Office_for_National_Statistics_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ons.gov.uk/ons/guide-method/geography/beginner-s-guide/administrative/england/parishes-and-communities/index.html">Office for National Statistics</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/news/uk-england-london-18249803">Queen's Park parish council gets go-ahead</a> <a href="/wiki/BBC" title="BBC">BBC</a></span></li>
+<li id="cite_note-reviews-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-reviews_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-reviews_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-reviews_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="http://www.communities.gov.uk/documents/localgovernment/pdf/1527635.pdf"><i>Guidance on Community Governance Reviews</i></a> <span style="font-size:85%;">(PDF)</span>. London: <a href="/wiki/Department_for_Communities_and_Local_Government" title="Department for Communities and Local Government">Department for Communities and Local Government</a>. 2010. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4098-2421-3" title="Special:BookSources/978-1-4098-2421-3">978-1-4098-2421-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACivil+parish&amp;rft.btitle=Guidance+on+Community+Governance+Reviews&amp;rft.date=2010&amp;rft.genre=book&amp;rft.isbn=978-1-4098-2421-3&amp;rft.place=London&amp;rft.pub=Department+for+Communities+and+Local+Government&amp;rft_id=http%3A%2F%2Fwww.communities.gov.uk%2Fdocuments%2Flocalgovernment%2Fpdf%2F1527635.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Baker_1989-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Baker_1989_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Baker_1989_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Baker_1989_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Baker_1989_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Baker_1989_4-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Charles_Arnold-Baker" title="Charles Arnold-Baker">Arnold-Baker, Charles</a> (1989). <i>Local Council Administration in English Parishes and Welsh Communities</i>. Longcross Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-902378-09-4" title="Special:BookSources/978-0-902378-09-4">978-0-902378-09-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACivil+parish&amp;rft.aufirst=Charles&amp;rft.aulast=Arnold-Baker&amp;rft.btitle=Local+Council+Administration+in+English+Parishes+and+Welsh+Communities&amp;rft.date=1989&amp;rft.genre=book&amp;rft.isbn=978-0-902378-09-4&amp;rft.pub=Longcross+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><i><a href="/wiki/Victoria_County_Histories" class="mw-redirect" title="Victoria County Histories">Victoria County Histories</a></i> provides, for most parishes but not all, evidence of local private charities with details.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nalc.gov.uk/About_NALC/What_is_a_parish_or_town_council/All_about_local_councils.aspx"><i>What is a parish or town council</i>, National Association of Local Councils website, accessed 14 August 2010</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20100903020139/http://www.nalc.gov.uk/About_NALC/What_is_a_parish_or_town_council/All_about_local_councils.aspx">Archived</a> 3 September 2010 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Sections 58-77 of the Act, which received <a href="/wiki/Royal_Assent" class="mw-redirect" title="Royal Assent">Royal Assent</a> on 30 October 2007: <a rel="nofollow" class="external free" href="https://publications.parliament.uk/pa/pabills/200607/local_government_and_public_involvement_in_health.htm">https://publications.parliament.uk/pa/pabills/200607/local_government_and_public_involvement_in_health.htm</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web">"Birtley Town Council – Annual Return 2005/2006". Gateshead Council. 29 September 2006.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACivil+parish&amp;rft.btitle=Birtley+Town+Council+%E2%80%93+Annual+Return+2005%2F2006&amp;rft.date=2006-09-29&amp;rft.genre=unknown&amp;rft.pub=Gateshead+Council&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="display:none;font-size:100%" class="error citation-comment">Missing or empty <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#cite_web_url" title="Help:CS1 errors">help</a>);</span> <span style="display:none;font-size:100%" class="error citation-comment"><code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> requires <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#accessdate_missing_url" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20111101080618/http://www2.portsmouth.co.uk/pdfs/publicnotices/2010/160410.pdf">"The Portsmouth City Council (Reorganisation of Community Governance) Order 2010"</a> <span style="font-size:85%;">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="http://www2.portsmouth.co.uk/pdfs/publicnotices/2010/160410.pdf">the original</a> <span style="font-size:85%;">(PDF)</span> on 1 November 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">11 September</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACivil+parish&amp;rft.btitle=The+Portsmouth+City+Council+%28Reorganisation+of+Community+Governance%29+Order+2010&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww2.portsmouth.co.uk%2Fpdfs%2Fpublicnotices%2F2010%2F160410.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.communities.gov.uk/publications/corporate/statistics/parishes201112">Parishes and Charter Trustees in England 2011-12</a></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nalc.gov.uk/Document/Download.aspx?uid=079806d3-0e69-4588-9a32-ef02c91598df">Full list of powers of parish councils</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070715034316/http://www.nalc.gov.uk/Document/Download.aspx?uid=079806d3-0e69-4588-9a32-ef02c91598df">Archived</a> 15 July 2007 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. - Downloadable Microsoft Word Document</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.statutelaw.gov.uk/content.aspx?LegType=All+Primary&amp;PageNumber=1&amp;NavFrom=2&amp;parentActiveTextDocId=0&amp;linkToSearchEnacted=0&amp;linkToSearchDay=3&amp;linkToLocale=E%2BW%2BS%2BN.I.&amp;linkToMatchExactLocale=0&amp;linkToSearchMonth=12&amp;linkToSearchYear=2008&amp;linkToATDocumentId=840810&amp;filesize=133430">Local Government Act 2000 The Local Authorities (Members’ Allowances) (England) Regulations 2003 Reg 30</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.parliament.uk/business/publications/research/briefing-papers/SN05707/local-government-the-standards-regime-in-england">Local government: the standards regime in England - Commons Library Standard Note</a>, Accessed 1 May 2015</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">"The council of a parish which is not grouped with any other parish may resolve that the parish shall have the status of a town"<cite class="citation web"><a rel="nofollow" class="external text" href="http://www.opsi.gov.uk/RevisedStatutes/Acts/ukpga/1972/cukpga_19720070_en_35#pt13-pb1-l1g255">"Local Government Act 1972 (c.70), Part XIII"</a>. <i>Revised Statutes</i>. <a href="/wiki/Office_of_Public_Sector_Information" title="Office of Public Sector Information">Office of Public Sector Information</a>. 1972<span class="reference-accessdate">. Retrieved <span class="nowrap">11 September</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACivil+parish&amp;rft.atitle=Local+Government+Act+1972+%28c.70%29%2C+Part+XIII&amp;rft.date=1972&amp;rft.genre=unknown&amp;rft.jtitle=Revised+Statutes&amp;rft_id=http%3A%2F%2Fwww.opsi.gov.uk%2FRevisedStatutes%2FActs%2Fukpga%2F1972%2Fcukpga_19720070_en_35%23pt13-pb1-l1g255&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation book"><i>Local government in England and Wales: A Guide to the New System</i>. London: <a href="/wiki/HMSO" class="mw-redirect" title="HMSO">HMSO</a>. 1974. p.&#160;158. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-11-750847-0" title="Special:BookSources/0-11-750847-0">0-11-750847-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACivil+parish&amp;rft.btitle=Local+government+in+England+and+Wales%3A+A+Guide+to+the+New+System&amp;rft.date=1974&amp;rft.genre=book&amp;rft.isbn=0-11-750847-0&amp;rft.pages=158&amp;rft.place=London&amp;rft.pub=HMSO&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nalc.gov.uk/About_NALC/What_is_a_parish_or_town_council/What_is_a_council.aspx">NALC - National Association of Local Councils</a> <a rel="nofollow" class="external text" href="http://webarchive.nationalarchives.gov.uk/20110926170042/http://www.nalc.gov.uk/About_NALC/What_is_a_parish_or_town_council/What_is_a_council.aspx">Archived</a> 26 September 2011 at the <a href="/wiki/UK_Government_Web_Archive" title="UK Government Web Archive">UK Government Web Archive</a> Retrieved 26 December 2009</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.communities.gov.uk/publications/localgovernment/communitygovernancereviews">Guidance on Community Governance Reviews</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090517030600/http://www.communities.gov.uk/publications/localgovernment/communitygovernancereviews">Archived</a> 17 May 2009 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. (April 2008), London: Department for Communities and Local Government. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-8511-2917-1" title="Special:BookSources/978-1-8511-2917-1">978-1-8511-2917-1</a>. Retrieved 26 December 2009.</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.todmorden.org.uk">Todmorden</a> Civil Parish Council and Community website. Retrieved 27 November 2014</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.visionofbritain.org.uk/text/chap_page.jsp?t_id=SRC_P&amp;c_id=3&amp;cpub_id=EW1901GEN">1901 Census of England and Wales, General Report: Administrative Counties and County Boroughs</a></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Local Government Board Order No. 56410, made under the <a href="/wiki/Local_Government_Act_1894" title="Local Government Act 1894">Local Government Act 1894</a> (56 &amp; 57 Vict. c.73) s.36</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.achurchnearyou.com/parishfinder.php?hascombe">Ecclesiastical parish still with detached part (example): Hascombe</a> The <a href="/wiki/Church_of_England" title="Church of England">Church of England</a>. Retrieved 27 November 2014</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Civil_parish&amp;action=edit&amp;section=17" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://www.theguardian.com/commentisfree/2011/may/16/in-praise-of-civil-parishes">In praise of ... civil parishes</a> Editorial in <i>The Guardian</i>, 2011-05-16.</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Civil_parishes_in_England" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Civil_parishes_in_England" title="Template:Civil parishes in England"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Civil_parishes_in_England" title="Template talk:Civil parishes in England"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Civil_parishes_in_England&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Civil_parishes_in_England" style="font-size:114%;margin:0 4em"><a href="/wiki/Civil_parishes_in_England" class="mw-redirect" title="Civil parishes in England">Civil parishes in England</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Administration</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Extra-parochial_area" title="Extra-parochial area">Extra-parochial area</a></li>
+<li><a href="/wiki/National_Association_of_Local_Councils" title="National Association of Local Councils">National Association of Local Councils</a></li>
+<li><a href="/wiki/Society_of_Local_Council_Clerks" title="Society of Local Council Clerks">Society of Local Council Clerks</a></li>
+<li><a href="/wiki/Parish_councils_in_England" title="Parish councils in England">Parish council</a></li>
+<li><a href="/wiki/Parish_meeting" title="Parish meeting">Parish meeting</a></li>
+<li><a href="/wiki/Successor_parish" title="Successor parish">Successor parish</a></li>
+<li><a href="/wiki/Unparished_area" title="Unparished area">Unparished area</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Legislation</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Local_Government_Act_1894" title="Local Government Act 1894">Local Government Act 1894</a></li>
+<li><a href="/wiki/Local_Government_Act_1929" title="Local Government Act 1929">Local Government Act 1929</a></li>
+<li><a href="/wiki/Local_Government_Act_1933" title="Local Government Act 1933">Local Government Act 1933</a></li>
+<li><a href="/wiki/Local_Government_Act_1972" title="Local Government Act 1972">Local Government Act 1972</a></li>
+<li><a href="/wiki/Local_Government_and_Rating_Act_1997" title="Local Government and Rating Act 1997">Local Government and Rating Act 1997</a></li>
+<li><a href="/wiki/Local_Government_and_Public_Involvement_in_Health_Act_2007" title="Local Government and Public Involvement in Health Act 2007">Local Government and Public Involvement in Health Act 2007</a></li>
+<li><a href="/wiki/Localism_Act_2011" title="Localism Act 2011">Localism Act 2011</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_civil_parishes_in_England" title="List of civil parishes in England">Lists by county</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Civil_parishes_in_Bedfordshire" title="Civil parishes in Bedfordshire">Bedfordshire</a></li>
+<li><a href="/wiki/Civil_parishes_in_Berkshire" title="Civil parishes in Berkshire">Berkshire</a></li>
+<li><a href="/wiki/List_of_civil_parishes_in_Buckinghamshire" title="List of civil parishes in Buckinghamshire">Buckinghamshire</a></li>
+<li><a href="/wiki/Civil_parishes_in_Cambridgeshire" title="Civil parishes in Cambridgeshire">Cambridgeshire</a></li>
+<li><a href="/wiki/Civil_parishes_in_Cheshire" title="Civil parishes in Cheshire">Cheshire</a></li>
+<li><a href="/wiki/Civil_parishes_in_Cornwall" title="Civil parishes in Cornwall">Cornwall</a></li>
+<li><a href="/wiki/Civil_parishes_in_Cumbria" title="Civil parishes in Cumbria">Cumbria</a></li>
+<li><a href="/wiki/List_of_civil_parishes_in_Derbyshire" title="List of civil parishes in Derbyshire">Derbyshire</a></li>
+<li><a href="/wiki/List_of_civil_parishes_in_Devon" title="List of civil parishes in Devon">Devon</a></li>
+<li><a href="/wiki/List_of_civil_parishes_in_Dorset" title="List of civil parishes in Dorset">Dorset</a></li>
+<li><a href="/wiki/List_of_civil_parishes_in_County_Durham" title="List of civil parishes in County Durham">Durham</a></li>
+<li><a href="/wiki/List_of_civil_parishes_in_the_East_Riding_of_Yorkshire" title="List of civil parishes in the East Riding of Yorkshire">East Riding of Yorkshire</a></li>
+<li><a href="/wiki/List_of_civil_parishes_in_East_Sussex" title="List of civil parishes in East Sussex">East Sussex</a></li>
+<li><a href="/wiki/List_of_civil_parishes_in_Essex" title="List of civil parishes in Essex">Essex</a></li>
+<li><a href="/wiki/List_of_civil_parishes_in_Gloucestershire" title="List of civil parishes in Gloucestershire">Gloucestershire</a></li>
+<li><a href="/wiki/List_of_civil_parishes_in_Greater_London" title="List of civil parishes in Greater London">Greater London</a></li>
+<li><a href="/wiki/Civil_parishes_in_Greater_Manchester" title="Civil parishes in Greater Manchester">Greater Manchester</a></li>
+<li><a href="/wiki/List_of_civil_parishes_in_Hampshire" title="List of civil parishes in Hampshire">Hampshire</a></li>
+<li><a href="/wiki/List_of_civil_parishes_in_Herefordshire" title="List of civil parishes in Herefordshire">Herefordshire</a></li>
+<li><a href="/wiki/List_of_civil_parishes_in_Hertfordshire" title="List of civil parishes in Hertfordshire">Hertfordshire</a></li>
+<li><a href="/wiki/List_of_civil_parishes_on_the_Isle_of_Wight" title="List of civil parishes on the Isle of Wight">Isle of Wight</a></li>
+<li><a href="/wiki/List_of_civil_parishes_in_Kent" title="List of civil parishes in Kent">Kent</a></li>
+<li><a href="/wiki/Civil_parishes_in_Lancashire" title="Civil parishes in Lancashire">Lancashire</a></li>
+<li><a href="/wiki/List_of_civil_parishes_in_Leicestershire" title="List of civil parishes in Leicestershire">Leicestershire</a></li>
+<li><a href="/wiki/List_of_civil_parishes_in_Lincolnshire" title="List of civil parishes in Lincolnshire">Lincolnshire</a></li>
+<li><a href="/wiki/Civil_parishes_in_Merseyside" title="Civil parishes in Merseyside">Merseyside</a></li>
+<li><a href="/wiki/List_of_civil_parishes_in_Norfolk" title="List of civil parishes in Norfolk">Norfolk</a></li>
+<li><a href="/wiki/List_of_civil_parishes_in_Northamptonshire" title="List of civil parishes in Northamptonshire">Northamptonshire</a></li>
+<li><a href="/wiki/List_of_civil_parishes_in_Northumberland" title="List of civil parishes in Northumberland">Northumberland</a></li>
+<li><a href="/wiki/List_of_civil_parishes_in_North_Yorkshire" title="List of civil parishes in North Yorkshire">North Yorkshire</a></li>
+<li><a href="/wiki/List_of_civil_parishes_in_Nottinghamshire" title="List of civil parishes in Nottinghamshire">Nottinghamshire</a></li>
+<li><a href="/wiki/List_of_civil_parishes_in_Oxfordshire" title="List of civil parishes in Oxfordshire">Oxfordshire</a></li>
+<li><a href="/wiki/List_of_civil_parishes_in_Rutland" title="List of civil parishes in Rutland">Rutland</a></li>
+<li><a href="/wiki/List_of_civil_parishes_in_Shropshire" title="List of civil parishes in Shropshire">Shropshire</a></li>
+<li><a href="/wiki/List_of_civil_parishes_in_Somerset" title="List of civil parishes in Somerset">Somerset</a></li>
+<li><a href="/wiki/Civil_parishes_in_South_Yorkshire" title="Civil parishes in South Yorkshire">South Yorkshire</a></li>
+<li><a href="/wiki/List_of_civil_parishes_in_Staffordshire" title="List of civil parishes in Staffordshire">Staffordshire</a></li>
+<li><a href="/wiki/List_of_civil_parishes_in_Suffolk" title="List of civil parishes in Suffolk">Suffolk</a></li>
+<li><a href="/wiki/List_of_civil_parishes_in_Surrey" title="List of civil parishes in Surrey">Surrey</a></li>
+<li><a href="/wiki/Civil_parishes_in_Tyne_and_Wear" title="Civil parishes in Tyne and Wear">Tyne and Wear</a></li>
+<li><a href="/wiki/List_of_civil_parishes_in_Warwickshire" title="List of civil parishes in Warwickshire">Warwickshire</a></li>
+<li><a href="/wiki/Civil_parishes_in_the_West_Midlands_(county)" title="Civil parishes in the West Midlands (county)">West Midlands</a></li>
+<li><a href="/wiki/List_of_civil_parishes_in_West_Sussex" title="List of civil parishes in West Sussex">West Sussex</a></li>
+<li><a href="/wiki/Civil_parishes_in_West_Yorkshire" title="Civil parishes in West Yorkshire">West Yorkshire</a></li>
+<li><a href="/wiki/List_of_civil_parishes_in_Wiltshire" title="List of civil parishes in Wiltshire">Wiltshire</a></li>
+<li><a href="/wiki/List_of_civil_parishes_in_Worcestershire" title="List of civil parishes in Worcestershire">Worcestershire</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Civil_parishes" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Civil_parish" title="Template:Civil parish"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/w/index.php?title=Template_talk:Civil_parish&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Civil parish (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Civil_parish&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Civil_parishes" style="font-size:114%;margin:0 4em">Civil parishes</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">England</a> (<a href="/wiki/List_of_civil_parishes_in_England" title="List of civil parishes in England">list</a>)</li>
+<li><a href="/wiki/Civil_parishes_in_Ireland" title="Civil parishes in Ireland">Ireland</a> (<a href="/wiki/List_of_civil_parishes_of_Ireland" title="List of civil parishes of Ireland">list</a>)</li>
+<li><a href="/wiki/Civil_parishes_in_Scotland" title="Civil parishes in Scotland">Scotland</a> (<a href="/wiki/List_of_civil_parishes_in_Scotland" title="List of civil parishes in Scotland">list</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Administrative_geography_of_the_United_Kingdom" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Administrative_geography_of_the_United_Kingdom" title="Template:Administrative geography of the United Kingdom"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Administrative_geography_of_the_United_Kingdom" title="Template talk:Administrative geography of the United Kingdom"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Administrative_geography_of_the_United_Kingdom&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Administrative_geography_of_the_United_Kingdom" style="font-size:114%;margin:0 4em"><a href="/wiki/Administrative_geography_of_the_United_Kingdom" title="Administrative geography of the United Kingdom">Administrative geography of the United Kingdom</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Local_government_in_the_United_Kingdom" title="Local government in the United Kingdom">United Kingdom local government</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_of_local_government_in_the_United_Kingdom" title="History of local government in the United Kingdom">History</a></li>
+<li>Subdivisions: <a href="/wiki/List_of_shrievalties" title="List of shrievalties">Shrievalties</a></li>
+<li><a href="/wiki/Lieutenancy_area" title="Lieutenancy area">Lieutenancy areas</a></li>
+<li><a href="/wiki/Counties_of_the_United_Kingdom" title="Counties of the United Kingdom">Counties</a> (<a href="/wiki/List_of_counties_of_the_United_Kingdom" title="List of counties of the United Kingdom">list</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Local_government_in_England" title="Local government in England">England local government</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_of_local_government_in_England" title="History of local government in England">History</a></li>
+<li><a href="/wiki/Subdivisions_of_England" title="Subdivisions of England">Subdivisions</a>: <a href="/wiki/Regions_of_England" title="Regions of England">Regions</a></li>
+<li><a href="/wiki/Ceremonial_counties_of_England" title="Ceremonial counties of England">Ceremonial counties</a>
+<ul>
+<li><a href="/wiki/List_of_ceremonial_counties_of_England" title="List of ceremonial counties of England">list</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Combined_authority" title="Combined authority">Combined authorities</a></li>
+<li><a href="/wiki/Metropolitan_and_non-metropolitan_counties_of_England" title="Metropolitan and non-metropolitan counties of England">Metropolitan and Non-metropolitan counties</a></li>
+<li><a href="/wiki/Unitary_authorities_of_England" title="Unitary authorities of England">Unitary authorities</a> (<a href="/wiki/Template:Unitary_authorities_of_England" title="Template:Unitary authorities of England">list</a>)</li>
+<li><a href="/wiki/Districts_of_England" title="Districts of England">Districts</a> (<a href="/wiki/List_of_English_districts" title="List of English districts">list</a>)</li>
+<li><a href="/wiki/Civil_parishes_in_England" class="mw-redirect" title="Civil parishes in England">Civil parishes</a> (<a href="/wiki/List_of_civil_parishes_in_England" title="List of civil parishes in England">list</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Local_government_in_Northern_Ireland" title="Local government in Northern Ireland">Northern Ireland local government</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Local_government_in_Northern_Ireland#History" title="Local government in Northern Ireland">History</a></li>
+<li>Subdivisions: <a href="/wiki/Counties_of_Northern_Ireland" title="Counties of Northern Ireland">Counties</a></li>
+<li><a href="/wiki/Districts_of_Northern_Ireland" class="mw-redirect" title="Districts of Northern Ireland">Districts</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Local_government_in_Scotland" title="Local government in Scotland">Scotland local government</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_of_local_government_in_Scotland" title="History of local government in Scotland">History</a></li>
+<li><a href="/wiki/Subdivisions_of_Scotland" title="Subdivisions of Scotland">Subdivisions</a>: <a href="/wiki/Sheriffdom" title="Sheriffdom">Sheriffdoms</a></li>
+<li><a href="/wiki/Lieutenancy_areas_of_Scotland" title="Lieutenancy areas of Scotland">Lieutenancy areas</a></li>
+<li><a href="/wiki/Council_areas_of_Scotland" class="mw-redirect" title="Council areas of Scotland">Council areas</a></li>
+<li><a href="/wiki/List_of_community_council_areas_in_Scotland" title="List of community council areas in Scotland">Community council areas</a></li>
+<li><a href="/wiki/List_of_civil_parishes_in_Scotland" title="List of civil parishes in Scotland">Civil parishes</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Local_government_in_Wales" title="Local government in Wales">Wales local government</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_of_local_government_in_Wales" title="History of local government in Wales">History</a></li>
+<li>Subdivisions: <a href="/wiki/Preserved_counties_of_Wales" title="Preserved counties of Wales">Preserved counties</a></li>
+<li><a href="/wiki/Local_government_in_Wales" title="Local government in Wales">Principal areas</a></li>
+<li><a href="/wiki/Community_(Wales)" title="Community (Wales)">Communities</a> (<a href="/wiki/List_of_communities_in_Wales" title="List of communities in Wales">list</a>)</li>
+<li><a href="/wiki/Historic_counties_of_Wales" title="Historic counties of Wales">Historic counties</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="23x15px.7Cborder_.7Calt.3DEngland.7Clink.3DEngland_Subdivisions_of_England" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Subdivisions_of_England" title="Template:Subdivisions of England"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Subdivisions_of_England" title="Template talk:Subdivisions of England"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Subdivisions_of_England&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="23x15px.7Cborder_.7Calt.3DEngland.7Clink.3DEngland_Subdivisions_of_England" style="font-size:114%;margin:0 4em"><span class="flagicon"><a href="/wiki/England" title="England"><img alt="England" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" /></a></span> <a href="/wiki/Subdivisions_of_England" title="Subdivisions of England">Subdivisions of England</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Region</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Regions_of_England" title="Regions of England">Regions</a></li>
+<li><a href="/wiki/NUTS_1_statistical_regions_of_England" title="NUTS 1 statistical regions of England">NUTS 1 statistical regions of England</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Counties_of_England" title="Counties of England">County</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Metropolitan_county" title="Metropolitan county">Metropolitan</a></li>
+<li><a href="/wiki/Non-metropolitan_county" title="Non-metropolitan county">Non-metropolitan</a></li>
+<li><a href="/wiki/Ceremonial_counties_of_England" title="Ceremonial counties of England">Ceremonial</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Districts_of_England" title="Districts of England">District</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Metropolitan_borough" title="Metropolitan borough">Metropolitan</a></li>
+<li><a href="/wiki/Non-metropolitan_district" title="Non-metropolitan district">Non-metropolitan</a></li>
+<li><a href="/wiki/London_borough" class="mw-redirect" title="London borough">London borough</a></li>
+<li><a href="/wiki/City_of_London" title="City of London">City of London</a></li>
+<li><a href="/wiki/Unitary_authorities_of_England" title="Unitary authorities of England">Unitary authority</a></li>
+<li><a href="/wiki/Isles_of_Scilly" title="Isles of Scilly">Isles of Scilly</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Civil parish</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Civil parish</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1265
+Cached time: 20170921144327
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.308 seconds
+Real time usage: 0.407 seconds
+Preprocessor visited node count: 2041/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 69018/2097152 bytes
+Template argument size: 2615/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 4/500
+Lua time usage: 0.120/10.000 seconds
+Lua memory usage: 4.1 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  332.560      1 -total
+ 28.33%   94.202      1 Template:Reflist
+ 14.18%   47.152      1 Template:Citation_needed
+ 13.57%   45.135      4 Template:Cite_book
+ 12.93%   42.989      1 Template:Fix
+ 10.14%   33.711      1 Template:Infobox_subdivision_type
+  9.08%   30.203      1 Template:Infobox
+  7.87%   26.180      1 Template:ISBN
+  7.61%   25.321      1 Template:About
+  7.61%   25.320      2 Template:Category_handler
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:644233-0!canonical and timestamp 20170921144327 and revision id 798021559
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Civil_parish&amp;oldid=798021559">https://en.wikipedia.org/w/index.php?title=Civil_parish&amp;oldid=798021559</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Civil_parishes_in_England" title="Category:Civil parishes in England">Civil parishes in England</a></li><li><a href="/wiki/Category:Types_of_subdivision_in_the_United_Kingdom" title="Category:Types of subdivision in the United Kingdom">Types of subdivision in the United Kingdom</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Pages_using_web_citations_with_no_URL" title="Category:Pages using web citations with no URL">Pages using web citations with no URL</a></li><li><a href="/wiki/Category:Pages_using_citations_with_accessdate_and_no_URL" title="Category:Pages using citations with accessdate and no URL">Pages using citations with accessdate and no URL</a></li><li><a href="/wiki/Category:Webarchive_template_other_archives" title="Category:Webarchive template other archives">Webarchive template other archives</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_September_2015" title="Category:Use dmy dates from September 2015">Use dmy dates from September 2015</a></li><li><a href="/wiki/Category:Use_British_English_from_October_2013" title="Category:Use British English from October 2013">Use British English from October 2013</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2015" title="Category:Articles with unsourced statements from November 2015">Articles with unsourced statements from November 2015</a></li><li><a href="/wiki/Category:Wikipedia_articles_in_need_of_updating_from_March_2017" title="Category:Wikipedia articles in need of updating from March 2017">Wikipedia articles in need of updating from March 2017</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_in_need_of_updating" title="Category:All Wikipedia articles in need of updating">All Wikipedia articles in need of updating</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Civil+parish" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Civil+parish" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Civil_parish" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Civil_parish" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Civil_parish">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Civil_parish&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Civil_parish&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Civil_parish" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Civil_parish" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Civil_parish&amp;oldid=798021559" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Civil_parish&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1115575" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Civil_parish&amp;id=798021559" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Civil+parish">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Civil+parish&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DCivil%2Bparish%26returnto%3DCivil%2Bparish%26oldid%3D798021559%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Civil_parish&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Civil_parishes_of_England" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Civil_parish" title="Civil parish – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D8%B1%D8%B4%D9%8A%D8%A9_%D9%85%D8%AF%D9%86%D9%8A%D8%A9" title="أبرشية مدنية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Parrezio%C3%B9_keodedel_Bro-Saoz_(Civil_Parishes)" title="Parrezioù keodedel Bro-Saoz (Civil Parishes) – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Anglick%C3%A9_obce" title="Anglické obce – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Parroquias_civiles_en_Inglaterra" title="Parroquias civiles en Inglaterra – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%85%D8%AD%D9%84%D9%87_%D9%85%D8%AF%D9%86%DB%8C" title="محله مدنی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Paroisse_civile_(Royaume-Uni)" title="Paroisse civile (Royaume-Uni) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Parroquia_civil" title="Parroquia civil – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Paroki_sipil" title="Paroki sipil – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Parrocchie_civili_dell%27Inghilterra" title="Parrocchie civili dell'Inghilterra – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Civil_parish" title="Civil parish – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Verdslig_sogn" title="Verdslig sogn – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Parr%C3%B2quia_civila_(Reialme_Unit)" title="Parròquia civila (Reialme Unit) – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Civil_parish" title="Civil parish – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Par%C3%B3quias_civis_na_Inglaterra" title="Paróquias civis na Inglaterra – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%89%D0%B8%D0%BD%D1%8B_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B8" title="Общины Англии – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Ceevil_pairish" title="Ceevil pairish – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Civil_parishes_in_England" title="Civil parishes in England – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Civil_parish" title="Civil parish – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Civil_parish" title="Civil parish – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%B4%DB%81%D8%B1%DB%8C_%D9%BE%DB%8C%D8%B1%D8%B4" title="شہری پیرش – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/X%C3%A3_(Anh)" title="Xã (Anh) – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vls"><a href="https://vls.wikipedia.org/wiki/Civil_parish" title="Civil parish – West Flemish" lang="vls" hreflang="vls" class="interlanguage-link-target">West-Vlams</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%B0%91%E6%94%BF%E6%95%99%E5%8D%80" title="民政教區 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1115575#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 30 August 2017, at 14:30.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Civil_parish&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.308","walltime":"0.407","ppvisitednodes":{"value":2041,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":69018,"limit":2097152},"templateargumentsize":{"value":2615,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  332.560      1 -total"," 28.33%   94.202      1 Template:Reflist"," 14.18%   47.152      1 Template:Citation_needed"," 13.57%   45.135      4 Template:Cite_book"," 12.93%   42.989      1 Template:Fix"," 10.14%   33.711      1 Template:Infobox_subdivision_type","  9.08%   30.203      1 Template:Infobox","  7.87%   26.180      1 Template:ISBN","  7.61%   25.321      1 Template:About","  7.61%   25.320      2 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"10.000"},"limitreport-memusage":{"value":4302226,"limit":52428800}},"cachereport":{"origin":"mw1265","timestamp":"20170921144327","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":73,"wgHostname":"mw1245"});});</script>
+	</body>
+</html>

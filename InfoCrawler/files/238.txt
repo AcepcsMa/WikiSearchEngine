@@ -1,0 +1,617 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Thaumaturgy - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Thaumaturgy","wgTitle":"Thaumaturgy","wgCurRevisionId":799234779,"wgRevisionId":799234779,"wgArticleId":207147,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from February 2008","All articles needing additional references","Articles with hAudio microformats","Articles including recorded pronunciations (US English)","Articles containing Greek-language text","Articles with specifically marked weasel-worded phrases from October 2016","Articles needing additional references from May 2012","Magic (paranormal)","Sainthood","Types of saints","Wonderworkers"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Thaumaturgy","wgRelevantArticleId":207147,"wgRequestId":"WcbuZgpAIDgAAFmtpUAAAACV","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1349880","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Thaumaturgy"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Thaumaturgy&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Thaumaturgy&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Thaumaturgy"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Thaumaturgy rootpage-Thaumaturgy skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Thaumaturgy</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">"Miracle worker" redirects here. For the works about Helen Keller, see <a href="/wiki/The_Miracle_Worker" title="The Miracle Worker">The Miracle Worker</a>.</div>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Thaumaturgy&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(February 2008)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<p><b>Thaumaturgy</b> (<span class="nowrap"><small><a href="/wiki/American_English" title="American English">US</a>:</small> <span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="/θ/: 'th' in 'thigh'">θ</span><span title="/ɔː/: 'au' in 'fraud'">ɔː</span><span title="'m' in 'my'">m</span><span title="/ə/: 'a' in 'about'">ə</span><span title="/ˌ/: secondary stress follows">ˌ</span><span title="'t' in 'tie'">t</span><span title="/ɜːr/: 'ur' in 'fur'">ɜːr</span><span title="/dʒ/: 'j' in 'jam'">dʒ</span><span title="/iː/ or /ɪ/: 'y' in 'happy'">i</span></span>/</a></span><small class="nowrap metadata">&#160;(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap"><a href="/wiki/File:En-us-thaumaturgy.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a>&#160;</span><a href="//upload.wikimedia.org/wikipedia/commons/3/3e/En-us-thaumaturgy.ogg" class="internal" title="En-us-thaumaturgy.ogg">listen</a></span></span>)</small></span>, from <a href="/wiki/Greek_language" title="Greek language">Greek</a> <span lang="el" xml:lang="el">θαῦμα <i>thaûma</i></span>, meaning "miracle" or "marvel" and <span lang="el" xml:lang="el">ἔργον <i>érgon</i></span>, meaning "work") is the capability of a <a href="/wiki/Magic_(paranormal)" title="Magic (paranormal)">magician</a> or a <a href="/wiki/Saint" title="Saint">saint</a> to work <a href="/wiki/Magic_(paranormal)" title="Magic (paranormal)">magic</a> or <a href="/wiki/Miracle" title="Miracle">miracles</a>. <a href="/wiki/Isaac_Bonewits" title="Isaac Bonewits">Isaac Bonewits</a> defined thaumaturgy as "the use of magic for nonreligious purposes; the art and science of 'wonder working;' using magic to actually change things in the physical world".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> It is sometimes translated into English as <b>wonderworking</b>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> A practitioner of thaumaturgy is a <b>thaumaturge</b>, <b>thaumaturgist</b> or <b>miracle-worker</b>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Religious_views"><span class="tocnumber">1</span> <span class="toctext">Religious views</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Christianity"><span class="tocnumber">1.1</span> <span class="toctext">Christianity</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Islam"><span class="tocnumber">1.2</span> <span class="toctext">Islam</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Judaism"><span class="tocnumber">1.3</span> <span class="toctext">Judaism</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Buddhism"><span class="tocnumber">1.4</span> <span class="toctext">Buddhism</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Magic"><span class="tocnumber">2</span> <span class="toctext">Magic</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Hermetic_Qabalah"><span class="tocnumber">2.1</span> <span class="toctext">Hermetic Qabalah</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Philosophy"><span class="tocnumber">3</span> <span class="toctext">Philosophy</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#In_popular_culture"><span class="tocnumber">4</span> <span class="toctext">In popular culture</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_sources"><span class="tocnumber">7</span> <span class="toctext">External sources</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Religious_views">Religious views</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thaumaturgy&amp;action=edit&amp;section=1" title="Edit section: Religious views">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Christianity">Christianity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thaumaturgy&amp;action=edit&amp;section=2" title="Edit section: Christianity">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Eastern_Christianity" title="Category:Eastern Christianity">a series</a> on</td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Eastern_Christianity" title="Eastern Christianity">Eastern Christianity</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em"><a href="/wiki/File:Jerusalem_Holy-Sepulchre_Jesus-Detail-01.png" class="image" title="Christ Pantocrator (Deesis mosaic detail)"><img alt="Christ Pantocrator (Deesis mosaic detail)" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Jerusalem_Holy-Sepulchre_Jesus-Detail-01.png/120px-Jerusalem_Holy-Sepulchre_Jesus-Detail-01.png" width="120" height="119" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Jerusalem_Holy-Sepulchre_Jesus-Detail-01.png/180px-Jerusalem_Holy-Sepulchre_Jesus-Detail-01.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/Jerusalem_Holy-Sepulchre_Jesus-Detail-01.png/240px-Jerusalem_Holy-Sepulchre_Jesus-Detail-01.png 2x" data-file-width="1432" data-file-height="1416" /></a></td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;">Main communions</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-top:1px solid #aaa;padding:0.15em 0.75em 0.25em;border-bottom:1px solid #aaa;">
+<ul>
+<li><a href="/wiki/Eastern_Orthodox_Church" title="Eastern Orthodox Church">Eastern Orthodox Church</a></li>
+<li><a href="/wiki/Oriental_Orthodoxy" title="Oriental Orthodoxy">Oriental Orthodoxy</a></li>
+<li><a href="/wiki/Eastern_Catholic_Churches" title="Eastern Catholic Churches">Eastern Catholic Churches</a></li>
+<li><a href="/wiki/Church_of_the_East" title="Church of the East">Church of the East</a> <span style="font-size:90%;">(<a href="/wiki/Assyrian_Church_of_the_East" title="Assyrian Church of the East">Assyrian</a> and <a href="/wiki/Ancient_Church_of_the_East" title="Ancient Church of the East">Ancient</a>)</span></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;">Eastern liturgical rites</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-top:1px solid #aaa;padding:0.15em 0.75em 0.25em;border-bottom:1px solid #aaa;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Byzantine_Rite" title="Byzantine Rite">Byzantine</a> <span style="font-size:90%;">(and <a href="/wiki/Eastern_Orthodox_worship" title="Eastern Orthodox worship">Eastern Orthodox</a>)</span></li>
+<li><a href="/wiki/Alexandrian_Rite" title="Alexandrian Rite">Alexandrian</a></li>
+<li><a href="/wiki/Antiochene_Rite" title="Antiochene Rite">Antiochene</a></li>
+<li><a href="/wiki/Armenian_Rite" title="Armenian Rite">Armenian</a></li>
+<li><a href="/wiki/East_Syrian_Rite" title="East Syrian Rite">East Syrian</a></li>
+<li><a href="/wiki/Malabar_rites" title="Malabar rites">Malabar</a></li>
+<li><a href="/wiki/Malankara_Rite" title="Malankara Rite">Malankara</a></li>
+<li><a href="/wiki/West_Syrian_Rite" title="West Syrian Rite">West Syrian</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;">Major controversies</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-top:1px solid #aaa;padding:0.15em 0.75em 0.25em;border-bottom:1px solid #aaa;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Nestorianism" title="Nestorianism">Nestorianism</a></li>
+<li><a href="/wiki/Monophysitism" title="Monophysitism">Monophysitism</a></li>
+<li><a href="/wiki/Dyophysite" class="mw-redirect" title="Dyophysite">Dyophysitism</a></li>
+<li><a href="/wiki/Miaphysitism" title="Miaphysitism">Miaphysitism</a></li>
+<li><a href="/wiki/Henotikon" title="Henotikon">Henotikon</a></li>
+<li><a href="/wiki/Three-Chapter_Controversy" title="Three-Chapter Controversy">Three Chapters</a></li>
+<li><a href="/wiki/Monothelitism" title="Monothelitism">Monothelitism</a></li>
+<li><a href="/wiki/Byzantine_Iconoclasm" title="Byzantine Iconoclasm">Iconoclasm</a></li>
+<li><a href="/wiki/Filioque" title="Filioque">Filioque</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center;">Other topics</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-top:1px solid #aaa;padding:0.15em 0.75em 0.25em;border-bottom:1px solid #aaa;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Christian_mysticism" title="Christian mysticism">Christian mysticism</a></li>
+<li><a href="/wiki/Christology" title="Christology">Christology</a></li>
+<li><a href="/wiki/Divine_Liturgy" title="Divine Liturgy">Divine Liturgy</a></li>
+<li><a href="/wiki/History_of_Eastern_Christianity" title="History of Eastern Christianity">Eastern Christian history</a></li>
+<li><a href="/wiki/Eastern_Christian_monasticism" title="Eastern Christian monasticism">Monasticism</a></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Index_of_Eastern_Christianity-related_articles" title="Index of Eastern Christianity-related articles">Index of related articles</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;padding-top:0.1em;">
+<ul>
+<li><a href="/wiki/Portal:Eastern_Christianity" title="Portal:Eastern Christianity">Eastern Christianity portal</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Eastern_Christianity_sidebar" title="Template:Eastern Christianity sidebar"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Eastern_Christianity_sidebar" title="Template talk:Eastern Christianity sidebar"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Eastern_Christianity_sidebar&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>In original Greek writings, the term <i>thaumaturge</i> referred to several Christian <a href="/wiki/Saint" title="Saint">saints</a>. This is usually translated into English as "wonderworker": a saint through whom God works miracles, not just occasionally, but as a matter of course. It was even said<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch"><span title="The material near this tag may use weasel words or too-vague attribution. (October 2016)">by whom?</span></a></i>]</sup> that God raises up not more than one every century. Famous ancient Christian thaumaturges include <a href="/wiki/Saint_Gregory_of_Neocaesarea" class="mw-redirect" title="Saint Gregory of Neocaesarea">Saint Gregory of Neocaesarea</a>, also known as Saint Gregory Thaumaturgus (c. 213–270), <a href="/wiki/Saint_Menas" title="Saint Menas">Saint Menas</a> of Egypt (285 – c. 309), <a href="/wiki/Saint_Nicholas_of_Myra" class="mw-redirect" title="Saint Nicholas of Myra">Saint Nicholas of Myra</a> (270–343), <a href="/wiki/Saint_Anthony_of_Padua" class="mw-redirect" title="Saint Anthony of Padua">Saint Anthony of Padua</a> (1195–1231), <a href="/wiki/Saint_Philomena" class="mw-redirect" title="Saint Philomena">Saint Philomena</a>, <a href="/wiki/Saint_Ambrose_of_Optina" class="mw-redirect" title="Saint Ambrose of Optina">Saint Ambrose of Optina</a> (1812–1891), <a href="/wiki/Gerard_Majella" title="Gerard Majella">Saint Gerard Majella</a> (1726–1755) and <a href="/wiki/Saint_John_of_Kronstadt" class="mw-redirect" title="Saint John of Kronstadt">Saint John of Kronstadt</a> (1829–1908). The <a href="/wiki/Carmelite" class="mw-redirect" title="Carmelite">Carmelite</a> <a href="/wiki/Bishop_of_Fiesole" class="mw-redirect" title="Bishop of Fiesole">Bishop of Fiesole</a>, <a href="/wiki/Saint_Andrew_Corsini" class="mw-redirect" title="Saint Andrew Corsini">Saint Andrew Corsini</a> (1302–1373), was also called a thaumaturge during his lifetime.</p>
+<p>Kings of France and England were also called thaumaturges, as they were traditionally considered able to <a href="/wiki/Royal_touch" title="Royal touch">heal scrofula</a>.</p>
+<h3><span class="mw-headline" id="Islam">Islam</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thaumaturgy&amp;action=edit&amp;section=3" title="Edit section: Islam">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Islamic_view_of_miracles" title="Islamic view of miracles">Islamic view of miracles</a></div>
+<p><b>Miracle</b> in the <a href="/wiki/Qur%27an" class="mw-redirect" title="Qur'an">Qur'an</a> can be defined as a supernatural intervention in the life of human beings.<sup id="cite_ref-EoQ_3-0" class="reference"><a href="#cite_note-EoQ-3">[3]</a></sup> According to this definition, <a href="/wiki/Miracle" title="Miracle">miracles</a> are present "in a threefold sense: in <a href="/wiki/Sacred_history" title="Sacred history">sacred history</a>, in connection with the <a href="/wiki/Prophets_of_Islam" class="mw-redirect" title="Prophets of Islam">Islamic prophet</a> <a href="/wiki/Muhammad" title="Muhammad">Muhammad</a> himself and in relation to revelation".<sup id="cite_ref-EoQ_3-1" class="reference"><a href="#cite_note-EoQ-3">[3]</a></sup> The Qur'an does not use the technical <a href="/wiki/Arabic_language" class="mw-redirect" title="Arabic language">Arabic</a> word for miracle (<i>Muʿdjiza</i>) literally meaning "that by means of which [the Prophet] confounds, overwhelms, his opponents". It rather uses the term <i><a href="/wiki/Ayah" title="Ayah">Ayah</a></i> (literally meaning <a href="/wiki/Omen" title="Omen">sign</a>).<sup id="cite_ref-EoI_4-0" class="reference"><a href="#cite_note-EoI-4">[4]</a></sup> The term <i>Ayah</i> is used in the Qur'an in the above mentioned threefold sense: it refers to the "verses" of the Qur'an (believed to be the divine speech in <a href="/wiki/Natural_language" title="Natural language">human language</a>; presented by Muhammad as his chief miracle); as well as to miracles of it and the signs (particularly those of creation).<sup id="cite_ref-EoQ_3-2" class="reference"><a href="#cite_note-EoQ-3">[3]</a></sup><sup id="cite_ref-EoI_4-1" class="reference"><a href="#cite_note-EoI-4">[4]</a></sup></p>
+<h3><span class="mw-headline" id="Judaism">Judaism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thaumaturgy&amp;action=edit&amp;section=4" title="Edit section: Judaism">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">See: <a href="/wiki/Practical_Kabbalah" title="Practical Kabbalah">Practical Kabbalah</a> and <a href="/wiki/Baal_Shem" title="Baal Shem">Baal Shem</a>.</div>
+<h3><span class="mw-headline" id="Buddhism">Buddhism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thaumaturgy&amp;action=edit&amp;section=5" title="Edit section: Buddhism">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">See: <a href="/wiki/Abhij%C3%B1%C4%81" title="Abhijñā">Abhijñā</a>.</div>
+<p>In the introduction of his translation of the "Spiritual Powers (神通 <i>Jinzū</i>)" chapter of <a href="/wiki/D%C5%8Dgen" title="Dōgen">Dōgen</a>'s <a href="/wiki/Sh%C5%8Db%C5%8Dgenz%C5%8D" title="Shōbōgenzō">Shōbōgenzō</a>, Carl Bielefel refers to the powers developed by adepts of Buddhist meditation as belonging to the "thaumaturgical tradition".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="Magic">Magic</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thaumaturgy&amp;action=edit&amp;section=6" title="Edit section: Magic">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the 16th century, the word <i>thaumaturgy</i> entered the English language meaning miraculous or magical powers.</p>
+<p>The word was first anglicized and used in the magical sense in <a href="/wiki/John_Dee_(mathematician)" class="mw-redirect" title="John Dee (mathematician)">John Dee</a>'s book <i>Mathematicall Praeface to Euclid's Elements</i> (1570). He mentions an "art mathematical" called "thaumaturgy... which giveth certain order to make strange works, of the sense to be perceived and of men greatly to be wondered at".</p>
+<p>In Dee's time, "the Mathematicks" referred not merely to the abstract computations associated with the term today, but to physical mechanical devices which employed mathematical principles in their design. These devices, operated by means of compressed air, springs, strings, pulleys or levers, were seen by unsophisticated people (who did not understand their working principles) as magical devices which could only have been made with the aid of demons and devils.<sup id="cite_ref-Zetterburg_6-0" class="reference"><a href="#cite_note-Zetterburg-6">[6]</a></sup></p>
+<p>By building such mechanical devices, Dee earned a reputation as a conjurer "dreaded" by neighborhood children.<sup id="cite_ref-Zetterburg_6-1" class="reference"><a href="#cite_note-Zetterburg-6">[6]</a></sup> He complained of this assessment in his "Mathematicall Praeface": "And for these, and such like marvellous Actes and Feates, Naturally, and Mechanically, wrought and contrived: ought any honest Student and Modest Christian Philosopher, be counted, &amp; called a Conjurer? Shall the folly of Idiotes, and the Malice of the Scornfull, so much prevaille ... Shall that man, be (in hugger mugger) condemned, as a Companion of the hellhoundes, and a Caller, and Conjurer of wicked and damned Spirites?"<sup id="cite_ref-Zetterburg_6-2" class="reference"><a href="#cite_note-Zetterburg-6">[6]</a></sup></p>
+<h3><span class="mw-headline" id="Hermetic_Qabalah">Hermetic Qabalah</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thaumaturgy&amp;action=edit&amp;section=7" title="Edit section: Hermetic Qabalah">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the <a href="/wiki/Hermetic_Qabalah" title="Hermetic Qabalah">Hermetic Qabalah</a> mystical tradition, a person titled a magician has the power to make subtle changes in higher realms, which in turn produce physical results. For instance, if a Magician made slight changes in the world of formation (<a href="/wiki/Olam_Yetzirah" class="mw-redirect" title="Olam Yetzirah">Olam Yetzirah</a>), such as within the Sefirah of <a href="/wiki/Yesod_(Kabbalah)" class="mw-redirect" title="Yesod (Kabbalah)">Yesod</a> upon which <a href="/wiki/Malkuth" title="Malkuth">Malkuth</a> (the material realm) is based and within which all former <a href="/wiki/Sephirot_(Kabbalah)" class="mw-redirect" title="Sephirot (Kabbalah)">Sephiroth</a> are brought together, then these alterations would appear in the world of action (<a href="/wiki/Olam_Assiah" class="mw-redirect" title="Olam Assiah">Olam Assiah</a>).</p>
+<h2><span class="mw-headline" id="Philosophy">Philosophy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thaumaturgy&amp;action=edit&amp;section=8" title="Edit section: Philosophy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In his book, <i>The Gift of Death</i>, <a href="/wiki/Deconstruction" title="Deconstruction">deconstructionist philosopher</a> <a href="/wiki/Jacques_Derrida" title="Jacques Derrida">Jacques Derrida</a> refers to <a href="/wiki/Philosophy" title="Philosophy">philosophy</a> as thaumaturgy. The idea is taken from the fifth essay of Jan Patočka's work, <i>Heretical Essays in the History of Philosophy</i><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Derrida's reading is based on a deconstruction of the origin of the concepts of responsibility, faith, and gift.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<h2><span class="mw-headline" id="In_popular_culture">In popular culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thaumaturgy&amp;action=edit&amp;section=9" title="Edit section: In popular culture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Thaumaturgy&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(May 2012)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<p>The term <b>thaumaturgy</b> is used in various novels and games as a synonym for <a href="/wiki/Magic_(paranormal)" title="Magic (paranormal)">magic</a>, a particular sub-school (often mechanical) of magic, or as the "science" of magic.</p>
+<ul>
+<li>Thaumaturgy is often used as a name for the magic in <a href="/wiki/Terry_Pratchett" title="Terry Pratchett">Terry Pratchett</a>'s <i><a href="/wiki/Discworld" title="Discworld">Discworld</a></i> novels.</li>
+<li>Thaumaturgy is defined as the "science" or "physics" of magic in RPGs such as <i><a href="/wiki/GURPS" title="GURPS">GURPS</a></i>,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> novels such as China Miéville's <a href="/wiki/Perdido_Street_Station" title="Perdido Street Station">Perdido Street Station</a>, and real world works such as Marcus Cordey's <i>Magical Theory and Tradition</i> and <a href="/wiki/Isaac_Bonewits" title="Isaac Bonewits">Isaac Bonewits</a>' 1971 <i>Real Magic</i> and his 2005 <i>Authentic Thaumaturgy</i></li>
+<li>In <a href="/wiki/Lyndon_Hardy" title="Lyndon Hardy">Lyndon Hardy</a>'s <i>Magics</i> trilogy, thaumaturgy is one of the five disciplines of magic. It figures most prominently in the first book, <i><a href="/wiki/Master_of_the_Five_Magics" title="Master of the Five Magics">Master of the Five Magics</a></i>.</li>
+<li>In the roleplaying game <i><a href="/wiki/Dungeons_%26_Dragons" title="Dungeons &amp; Dragons">Dungeons &amp; Dragons</a></i> the thaumaturgist (sic) is a prestige class which specifically summons <a href="/wiki/Outsider_(Dungeons_%26_Dragons)" title="Outsider (Dungeons &amp; Dragons)">outsiders</a>.</li>
+<li>In <a href="/wiki/White_Wolf_Publishing" title="White Wolf Publishing">White Wolf Publishing</a>'s <a href="/wiki/Role-playing_game" title="Role-playing game">role-playing game</a>, <i><a href="/wiki/Vampire:_The_Masquerade" title="Vampire: The Masquerade">Vampire: The Masquerade</a>,</i> Thaumaturgy is a magical Discipline encompassing the Hermetic style of blood magic the Tremere converted from their old practices when they became vampires.</li>
+<li>In the <i><a href="/wiki/Elder_Scrolls" class="mw-redirect" title="Elder Scrolls">Elder Scrolls</a></i> games <i><a href="/wiki/Daggerfall" class="mw-redirect" title="Daggerfall">Daggerfall</a></i> and <i><a href="/wiki/Battlespire" class="mw-redirect" title="Battlespire">Battlespire</a></i>, thaumaturgy is a character skill, which is loosely defined as "focus[ing] on manipulating known forces and objects within their natural laws".</li>
+<li>In <i><a href="/wiki/Final_Fantasy_XIV" title="Final Fantasy XIV">Final Fantasy XIV</a></i>, thaumaturge is the title of a playable character class.</li>
+<li>In <i><a href="/wiki/Dominions_3:_The_Awakening" title="Dominions 3: The Awakening">Dominions 3: The Awakening</a></i>, thaumaturgy is one of the paths of magic that can be researched.</li>
+<li>In <a href="/wiki/Jim_Butcher" title="Jim Butcher">Jim Butcher</a>'s <i><a href="/wiki/The_Dresden_Files" title="The Dresden Files">The Dresden Files</a></i>, thaumaturgy is the creation of a magical link between an object and a person (as when using voodoo dolls).</li>
+<li>In <i><a href="/wiki/The_Lunar_Chronicles" title="The Lunar Chronicles">The Lunar Chronicles</a></i> by <a href="/wiki/Marissa_Meyer" title="Marissa Meyer">Marissa Meyer</a>, thaumaturges are the bodyguards and police force of the Lunar Queen Levana.</li>
+<li>In <i><a href="/wiki/Magic:_The_Gathering" title="Magic: The Gathering">Magic: The Gathering</a></i>, many cards in the plane of <a href="/wiki/Theros" title="Theros">Theros</a> feature Thaumaturges, most notably the Battle Thaumaturge. In the planeswalker's guide to the setting, they are flavoured more akin to <a href="/wiki/Theurgy" title="Theurgy">theurgists</a>, having their magic stem from the gods.</li>
+<li>In <i><a href="/wiki/Minecraft" title="Minecraft">Minecraft</a></i>, the player Azanor is the developer of the popular modification Thaumcraft, which brings many extensions to the game based around Thaumaturgy.</li>
+<li>In <i><a href="/wiki/Path_of_Exile" title="Path of Exile">Path of Exile</a></i>, the witch makes mention of thaumaturgy in several places along the storyline and in various dungeons.</li>
+<li>In <a href="/wiki/Patrick_Rothfuss" title="Patrick Rothfuss">Patrick Rothfuss</a>' trilogy, <i><a href="/wiki/The_Kingkiller_Chronicle" title="The Kingkiller Chronicle">The Kingkiller Chronicle</a></i>, a "Thaum" is the unit used to describe heat energy at the University.</li>
+<li>In <i>Wizard101</i>, Thaumaturges are wizards who specialize in ice magic. These wizards specialize in tanking hits, having spells that do not deal a lot of damage, but can provide shielding spells and taunt enemies, drawing them away from more important players.</li>
+<li>In <i>Ultima VIII&#160;: Pagan,</i> Thaumaturgy is one of the five schools of magic along with Sorcery, Necromancy, Theurgy and Tempestry. Thaumaturgy contains miscellenaous spells of usually non-elemental nature. Its practice is not tied to one of the titans.</li>
+<li>In <i><a href="/wiki/Beautiful_Creatures_(novel)" title="Beautiful Creatures (novel)">Beautiful Creatures</a></i>, the book by Kami Garcia and Margaret Stohl, Ryan, a cousin of the main character's love interest, Lena, is discovered as being a Thaumaturge when she heals the main character after an accident. When asked "I'm guessing that's a fancy Caster name for healer?" Lena replies, "Something like that."</li>
+<li>In <i><a href="/wiki/The_Elder_Scrolls_V:_Skyrim" title="The Elder Scrolls V: Skyrim">The Elder Scrolls V: Skyrim</a></i> A man who has the ability to cure vampirism calls himself a thaumaturge in Morthal.</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thaumaturgy&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Category:Wonderworkers" title="Category:Wonderworkers">Category:Wonderworkers</a></li>
+<li><a href="/wiki/Laying_on_of_hands" title="Laying on of hands">Laying on of hands</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thaumaturgy&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Bonewits, Isaac (2005) <i>Authentic Thaumaturgy</i> second edition <a href="/wiki/International_Standard_Book_Number_(identifier)" class="mw-redirect" title="International Standard Book Number (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-55634-360-4" title="Special:BookSources/1-55634-360-4">1-55634-360-4</a> pg 138</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Harper, Douglas (November 2001). <a rel="nofollow" class="external text" href="http://www.etymonline.com/index.php?term=thaumaturge">"<span style="padding-left:0.2em;">"</span>Thaumaturge" etymology"</a>. <a href="/wiki/Online_Etymology_Dictionary" title="Online Etymology Dictionary">Online Etymology Dictionary</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-07-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThaumaturgy&amp;rft.aufirst=Douglas&amp;rft.aulast=Harper&amp;rft.btitle=%22Thaumaturge%22+etymology&amp;rft.date=2001-11&amp;rft.genre=unknown&amp;rft.pub=Online+Etymology+Dictionary&amp;rft_id=http%3A%2F%2Fwww.etymonline.com%2Findex.php%3Fterm%3Dthaumaturge&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-EoQ-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-EoQ_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-EoQ_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-EoQ_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Denis Gril, <i>Miracles</i>, <a href="/wiki/Encyclopedia_of_the_Qur%27an" class="mw-redirect" title="Encyclopedia of the Qur'an">Encyclopedia of the Qur'an</a></span></li>
+<li id="cite_note-EoI-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-EoI_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-EoI_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">A.J. Wensinck, <i>Muʿd̲j̲iza</i>, <a href="/wiki/Encyclopaedia_of_Islam" title="Encyclopaedia of Islam">Encyclopedia of Islam</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.stanford.edu/group/scbs/sztp3/translations/shobogenzo/translations/jinzu/pdf/jinzu_introduction.pdf">"Treasury of the Eye of the True Dharma: Book 35, Spiritual Powers"</a> <span style="font-size:85%;">(PDF)</span>. Translated by Carl Bielefeldt.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThaumaturgy&amp;rft.btitle=Treasury+of+the+Eye+of+the+True+Dharma%3A+Book+35%2C+Spiritual+Powers&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fweb.stanford.edu%2Fgroup%2Fscbs%2Fsztp3%2Ftranslations%2Fshobogenzo%2Ftranslations%2Fjinzu%2Fpdf%2Fjinzu_introduction.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Zetterburg-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Zetterburg_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Zetterburg_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Zetterburg_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><i>The Mistaking of 'the Mathematicks' for Magic in Tudor and Stuart England</i> by J. Peter Zetterberg. "Sixteenth Century Journal," II.1, Spring, 1980</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><i>Heretical Essays in the History of Philosophy</i> by Jan Patočka, page=105.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><i>The Gift of Death</i> by Jacques Derrida, page=15.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">(1986) <i>GURPS Basic Set</i> 1st edition</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">(2004) <i>GURPS Basic Set</i> 4th edition pg 225</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">(2004) <i>GURPS Thaumaturgy</i> 1st edition pg 9</span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_sources">External sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thaumaturgy&amp;action=edit&amp;section=12" title="Edit section: External sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="391" data-file-height="391" /></td>
+<td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/thaumaturgy" class="extiw" title="wiktionary:thaumaturgy">thaumaturgy</a></b></i>, <i><b><a href="https://en.wiktionary.org/wiki/%CE%B8%CE%B1%CF%8D%CE%BC%CE%B1" class="extiw" title="wiktionary:θαύμα">θαύμα</a></b></i>, or <i><b><a href="https://en.wiktionary.org/wiki/%E1%BC%94%CF%81%CE%B3%CE%BF%CE%BD" class="extiw" title="wiktionary:ἔργον">ἔργον</a></b></i> in Wiktionary, the free dictionary.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.etymonline.com/index.php?search=thaumaturg&amp;searchmode=none">EtymologyOnLine</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Private_revelation_in_the_Catholic_Church" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3" style="background-color:gold">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Private_revelation_in_the_Catholic_Church" title="Template:Private revelation in the Catholic Church"><abbr title="View this template" style="background-color:gold;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Private_revelation_in_the_Catholic_Church" title="Template talk:Private revelation in the Catholic Church"><abbr title="Discuss this template" style="background-color:gold;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Private_revelation_in_the_Catholic_Church&amp;action=edit"><abbr title="Edit this template" style="background-color:gold;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Private_revelation_in_the_Catholic_Church" style="font-size:114%;margin:0 4em"><a href="/wiki/Private_revelation" title="Private revelation">Private revelation</a> in the <a href="/wiki/Catholic_Church" title="Catholic Church">Catholic Church</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:gold;width:1%"><a href="/wiki/Revelation#Christianity" title="Revelation">Revelations</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Apparitional_experience" title="Apparitional experience">Apparitional experience</a></li>
+<li><a href="/wiki/Christian_mysticism" title="Christian mysticism">Christian mysticism</a></li>
+<li><a href="/wiki/Locution_(paranormal)" title="Locution (paranormal)">Locution</a>
+<ul>
+<li><a href="/wiki/Interior_locution" title="Interior locution">interior</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Marian_apparition" title="Marian apparition">Marian apparition</a></li>
+<li><a href="/wiki/Religious_ecstasy" title="Religious ecstasy">Religious ecstasy</a></li>
+<li><a href="/wiki/Vision_(spirituality)" title="Vision (spirituality)">Vision (spirituality)</a></li>
+<li><a href="/wiki/Visions_of_Jesus_and_Mary" title="Visions of Jesus and Mary">Visions of Jesus and Mary</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Tuam_Cathedral_of_the_Assumption_Sacred_Heart_Detail_2009_09_14.jpg" class="image" title="Stained glass at Tuam Cathedral, depicting Marguerite Marie Alacoque when she receives a revelation of the Sacred Heart"><img alt="Stained glass at Tuam Cathedral, depicting Marguerite Marie Alacoque when she receives a revelation of the Sacred Heart" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Tuam_Cathedral_of_the_Assumption_Sacred_Heart_Detail_2009_09_14.jpg/100px-Tuam_Cathedral_of_the_Assumption_Sacred_Heart_Detail_2009_09_14.jpg" width="100" height="105" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Tuam_Cathedral_of_the_Assumption_Sacred_Heart_Detail_2009_09_14.jpg/150px-Tuam_Cathedral_of_the_Assumption_Sacred_Heart_Detail_2009_09_14.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Tuam_Cathedral_of_the_Assumption_Sacred_Heart_Detail_2009_09_14.jpg/200px-Tuam_Cathedral_of_the_Assumption_Sacred_Heart_Detail_2009_09_14.jpg 2x" data-file-width="517" data-file-height="543" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:gold;width:1%"><a href="/wiki/Miracle#Catholic_Church" title="Miracle">Miracles</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bilocation" title="Bilocation">Bilocation</a></li>
+<li><a href="/wiki/Charism" class="mw-redirect" title="Charism">Charism</a>
+<ul>
+<li><a href="/wiki/Gift_of_miracles" title="Gift of miracles">Gift of miracles</a></li>
+<li><a href="/wiki/Gifts_of_healing" title="Gifts of healing">Gifts of healing</a></li>
+<li><a href="/wiki/Glossolalia" title="Glossolalia">Glossolalia</a></li>
+<li><a href="/wiki/Interpretation_of_tongues" title="Interpretation of tongues">Interpretation of tongues</a></li>
+<li><a href="/wiki/Prophecy" title="Prophecy">Prophecy</a></li>
+<li><a href="/wiki/Word_of_Knowledge" title="Word of Knowledge">Word of Knowledge</a></li>
+<li><a href="/wiki/Word_of_wisdom" title="Word of wisdom">Word of wisdom</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Eucharistic_miracle" title="Eucharistic miracle">Eucharistic miracle</a>
+<ul>
+<li><a href="/wiki/Miracle_of_Lanciano" title="Miracle of Lanciano">Miracle of Lanciano</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Levitation" title="Levitation">Levitation</a></li>
+<li><a href="/wiki/Lourdes_water" title="Lourdes water">Lourdes water</a></li>
+<li><a href="/wiki/Miracle_of_the_Sun" title="Miracle of the Sun">Miracle of the Sun</a></li>
+<li><a href="/wiki/Odour_of_sanctity" title="Odour of sanctity">Odour of sanctity</a></li>
+<li><a href="/wiki/Stigmata" title="Stigmata">Stigmata</a></li>
+<li><a href="/wiki/Tabor_Light" title="Tabor Light">Tabor Light</a></li>
+<li><a class="mw-selflink selflink">Thaumaturgy</a></li>
+<li><a href="/wiki/Weeping_statue" title="Weeping statue">Weeping statue</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:gold;width:1%"><a href="/wiki/Discernment#Christianity" title="Discernment">Discernment</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Decree#Catholic_Church" title="Decree">Documents</a>
+<ul>
+<li><a href="/wiki/Canon_law_of_the_Catholic_Church" title="Canon law of the Catholic Church">Code of canon law</a></li>
+<li><i><a href="/wiki/Haurietis_aquas" title="Haurietis aquas">Haurietis aquas</a></i></li>
+<li><i><a href="/wiki/Normae_Congregationis" title="Normae Congregationis">Normae Congregationis</a></i></li>
+<li><i><a href="/wiki/Tribus_circiter" title="Tribus circiter">Tribus circiter</a></i></li>
+</ul>
+</li>
+<li><a href="/wiki/Magisterium" title="Magisterium">Magisterium</a></li>
+<li><a href="/wiki/Rule_of_Faith" title="Rule of Faith">Rule of Faith</a></li>
+<li><i><a href="/wiki/Sensus_fidelium" title="Sensus fidelium">Sensus fidei</a></i></li>
+<li><a href="/wiki/Catholic_theology" title="Catholic theology">Theology</a>
+<ul>
+<li><a href="/wiki/Bridal_theology" title="Bridal theology">Bridal theology</a></li>
+<li><a href="/wiki/Christology" title="Christology">Christology</a></li>
+<li><a href="/wiki/Mariology" title="Mariology">Mariology</a></li>
+<li><a href="/wiki/Mystical_theology" title="Mystical theology">Mystical theology</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:gold;width:1%"><a href="/wiki/Popular_piety" title="Popular piety">Popular piety</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Acts_of_reparation" title="Acts of reparation">Acts of reparation</a></li>
+<li><a href="/wiki/Immaculate_Heart_of_Mary" title="Immaculate Heart of Mary">Immaculate Heart of Mary</a>
+<ul>
+<li><a href="/wiki/Consecration_and_entrustment_to_Mary" title="Consecration and entrustment to Mary">Consecration</a></li>
+<li><a href="/wiki/First_Saturdays_Devotion" title="First Saturdays Devotion">First Saturdays Devotion</a></li>
+<li><a href="/wiki/Miraculous_Medal" title="Miraculous Medal">Miraculous Medal</a></li>
+<li><a href="/wiki/Our_Lady_of_Sorrows" title="Our Lady of Sorrows">Seven Dolors</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Christian_pilgrimage" title="Christian pilgrimage">Pilgrimage</a></li>
+<li><a href="/wiki/Rosary" title="Rosary">Rosary</a>
+<ul>
+<li><a href="/wiki/Marie_Martha_Chambon" title="Marie Martha Chambon">Rosary of the Holy Wounds</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Sacred_Heart" title="Sacred Heart">Sacred Heart</a>
+<ul>
+<li><a href="/wiki/Divine_Mercy" title="Divine Mercy">Divine Mercy</a></li>
+<li><a href="/wiki/Eucharistic_adoration" title="Eucharistic adoration">Eucharistic adoration</a></li>
+<li><a href="/wiki/First_Friday_Devotion" title="First Friday Devotion">First Friday Devotion</a></li>
+<li><a href="/wiki/Holy_Hour" title="Holy Hour">Holy Hour</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Michael_(archangel)" title="Michael (archangel)">Saint Michael</a>
+<ul>
+<li><a href="/wiki/Chaplet_of_Saint_Michael" title="Chaplet of Saint Michael">Chaplet of Saint Michael</a></li>
+<li><a href="/wiki/Prayer_to_Saint_Michael" title="Prayer to Saint Michael">Prayer to Saint Michael</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Scapular#Devotional_scapular" title="Scapular">Scapular</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:gold;width:1%"><a href="/wiki/Shrine#Christianity" title="Shrine">Shrines</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Divine_Mercy_Sanctuary,_Krak%C3%B3w" title="Divine Mercy Sanctuary, Kraków">Sanctuary of the Divine Mercy</a></li>
+<li><a href="/wiki/Christ_the_King_(Almada)" title="Christ the King (Almada)">Sanctuary of Christ the King</a></li>
+<li><a href="/wiki/Church_of_the_Sacred_Heart_of_Jesus_(Ermesinde)" title="Church of the Sacred Heart of Jesus (Ermesinde)">Shrine of the Sacred Heart of Jesus</a></li>
+<li><a href="/wiki/Roman_Catholic_Marian_churches" class="mw-redirect" title="Roman Catholic Marian churches">Marian shrines</a>
+<ul>
+<li><a href="/wiki/Basilica_of_Our_Lady_of_Guadalupe" title="Basilica of Our Lady of Guadalupe">Basilica of Our Lady of Guadalupe</a></li>
+<li><a href="/wiki/Cathedral-Basilica_of_Our_Lady_of_the_Pillar" title="Cathedral-Basilica of Our Lady of the Pillar">Cathedral-Basilica of Our Lady of the Pillar</a></li>
+<li><a href="/wiki/Chapel_of_Our_Lady_of_the_Miraculous_Medal" title="Chapel of Our Lady of the Miraculous Medal">Chapel of Our Lady of the Miraculous Medal</a></li>
+<li><a href="/wiki/Sanctuary_of_F%C3%A1tima" title="Sanctuary of Fátima">Sanctuary of Our Lady of Fátima</a></li>
+<li><a href="/wiki/Sanctuary_of_Our_Lady_of_Lourdes" title="Sanctuary of Our Lady of Lourdes">Sanctuary of Our Lady of Lourdes</a></li>
+<li><a href="/wiki/National_Shrine_of_Our_Lady_of_Good_Help" title="National Shrine of Our Lady of Good Help">National Shrine of Our Lady of Good Help</a></li>
+<li><a href="/wiki/Shrine_of_Our_Lady_of_the_Hens" title="Shrine of Our Lady of the Hens">Shrine of Our Lady of the Hens</a></li>
+<li><a href="/wiki/Shrine_of_the_Virgin_of_the_Rosary_of_Pompei" title="Shrine of the Virgin of the Rosary of Pompei">Shrine of the Virgin of the Rosary of Pompei</a></li>
+<li><a href="/wiki/Our_Lady_of_the_Rosary_of_San_Nicol%C3%A1s" title="Our Lady of the Rosary of San Nicolás">Sanctuary of Our Lady of the Rosary of San Nicolás</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Sanctuary_of_Monte_Sant%27Angelo" title="Sanctuary of Monte Sant'Angelo">Sanctuary of Monte Sant'Angelo</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3" style="background-color:gold">
+<div>
+<ul>
+<li><a href="/wiki/File:046CupolaSPietro.jpg" class="image"><img alt="046CupolaSPietro.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/046CupolaSPietro.jpg/16px-046CupolaSPietro.jpg" width="16" height="12" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/046CupolaSPietro.jpg/24px-046CupolaSPietro.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/046CupolaSPietro.jpg/32px-046CupolaSPietro.jpg 2x" data-file-width="800" data-file-height="600" /></a> <a href="/wiki/Portal:Catholicism" title="Portal:Catholicism">Catholicism portal</a></li>
+<li>&#160;<img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <b><a href="/wiki/Portal:Private_revelation" title="Portal:Private revelation">Portal</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1279
+Cached time: 20170906133734
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.220 seconds
+Real time usage: 0.325 seconds
+Preprocessor visited node count: 1397/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 53569/2097152 bytes
+Template argument size: 2020/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 6/500
+Lua time usage: 0.086/10.000 seconds
+Lua memory usage: 3.11 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  262.717      1 -total
+ 28.64%   75.239      1 Template:Reflist
+ 13.87%   36.430      2 Template:Cite_web
+ 12.04%   31.637      1 Template:Refimprove
+ 11.56%   30.379      2 Template:Ambox
+ 10.89%   28.618      1 Template:By_whom?
+ 10.37%   27.241      1 Template:Private_revelation
+ 10.16%   26.686      1 Template:ISBN
+  9.14%   24.011      1 Template:Fix
+  9.09%   23.877      1 Template:Navbox
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:207147-0!canonical and timestamp 20170906133734 and revision id 799234779
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Thaumaturgy&amp;oldid=799234779">https://en.wikipedia.org/w/index.php?title=Thaumaturgy&amp;oldid=799234779</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Magic_(paranormal)" title="Category:Magic (paranormal)">Magic (paranormal)</a></li><li><a href="/wiki/Category:Sainthood" title="Category:Sainthood">Sainthood</a></li><li><a href="/wiki/Category:Types_of_saints" title="Category:Types of saints">Types of saints</a></li><li><a href="/wiki/Category:Wonderworkers" title="Category:Wonderworkers">Wonderworkers</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_February_2008" title="Category:Articles needing additional references from February 2008">Articles needing additional references from February 2008</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Articles_including_recorded_pronunciations_(US_English)" title="Category:Articles including recorded pronunciations (US English)">Articles including recorded pronunciations (US English)</a></li><li><a href="/wiki/Category:Articles_containing_Greek-language_text" title="Category:Articles containing Greek-language text">Articles containing Greek-language text</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_October_2016" title="Category:Articles with specifically marked weasel-worded phrases from October 2016">Articles with specifically marked weasel-worded phrases from October 2016</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_May_2012" title="Category:Articles needing additional references from May 2012">Articles needing additional references from May 2012</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Thaumaturgy" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Thaumaturgy" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Thaumaturgy" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Thaumaturgy" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Thaumaturgy">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Thaumaturgy&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Thaumaturgy&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Thaumaturgy" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Thaumaturgy" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Thaumaturgy&amp;oldid=799234779" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Thaumaturgy&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1349880" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Thaumaturgy&amp;id=799234779" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Thaumaturgy">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Thaumaturgy&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DThaumaturgy%26returnto%3DThaumaturgy%26oldid%3D799234779%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Thaumaturgy&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A6%D1%83%D0%B4%D0%B0%D1%82%D0%B2%D0%BE%D1%80%D0%B0%D1%86" title="Цудатворац – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A7%D1%83%D0%B4%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D1%86" title="Чудотворец – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Taumat%C3%BArgia" title="Taumatúrgia – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Thaumaturg" title="Thaumaturg – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Thaumaturgie" title="Thaumaturgie – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Taumaturgia" title="Taumaturgia – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Thaumaturgie" title="Thaumaturgie – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Taumaturgio" title="Taumaturgio – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Taumaturgia" title="Taumaturgia – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Thaumaturgia" title="Thaumaturgia – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Thaumaturg" title="Thaumaturg – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E5%A5%87%E8%B9%9F%E8%80%85" title="奇蹟者 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Taumaturgia" title="Taumaturgia – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Taumaturgie" title="Taumaturgie – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A7%D1%83%D0%B4%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D1%86" title="Чудотворец – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Taumaturgos" title="Taumaturgos – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A7%D1%83%D0%B4%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D1%86%D1%8C" title="Чудотворець – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1349880#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 6 September 2017, at 13:37.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Thaumaturgy&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.220","walltime":"0.325","ppvisitednodes":{"value":1397,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":53569,"limit":2097152},"templateargumentsize":{"value":2020,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  262.717      1 -total"," 28.64%   75.239      1 Template:Reflist"," 13.87%   36.430      2 Template:Cite_web"," 12.04%   31.637      1 Template:Refimprove"," 11.56%   30.379      2 Template:Ambox"," 10.89%   28.618      1 Template:By_whom?"," 10.37%   27.241      1 Template:Private_revelation"," 10.16%   26.686      1 Template:ISBN","  9.14%   24.011      1 Template:Fix","  9.09%   23.877      1 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.086","limit":"10.000"},"limitreport-memusage":{"value":3259163,"limit":52428800}},"cachereport":{"origin":"mw1279","timestamp":"20170906133734","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":63,"wgHostname":"mw1186"});});</script>
+	</body>
+</html>

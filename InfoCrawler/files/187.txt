@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Antilles - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Antilles","wgTitle":"Antilles","wgCurRevisionId":796582581,"wgRevisionId":796582581,"wgArticleId":250125,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with Spanish-language external links","Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference","Wikipedia articles incorporating text from the 1911 Encyclopædia Britannica","All articles with unsourced statements","Articles with unsourced statements from February 2013","Articles with unsourced statements from August 2013","Wikipedia articles with VIAF identifiers","Wikipedia articles with GND identifiers","Greater Antilles","Lesser Antilles","International archipelagoes"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Antilles","wgRelevantArticleId":250125,"wgRequestId":"WcnVnApAME0AAEcolXMAAABV","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q166131","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Caribbean_general_map.png/1200px-Caribbean_general_map.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Antilles"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Antilles&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Antilles&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Antilles"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Antilles rootpage-Antilles skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Antilles</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Antilles_(disambiguation)" class="mw-disambig" title="Antilles (disambiguation)">Antilles (disambiguation)</a>.</div>
+<p><i>See also <a href="/wiki/West_Indies" title="West Indies">West Indies</a>, <a href="/wiki/Caribbean" title="Caribbean">Caribbean</a></i></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:402px;"><a href="/wiki/File:Caribbean_general_map.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Caribbean_general_map.png/400px-Caribbean_general_map.png" width="400" height="235" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Caribbean_general_map.png/600px-Caribbean_general_map.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Caribbean_general_map.png/800px-Caribbean_general_map.png 2x" data-file-width="1699" data-file-height="1000" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Caribbean_general_map.png" class="internal" title="Enlarge"></a></div>
+Map of the Antilles</div>
+</div>
+</div>
+<p>The <b>Antilles</b> (<span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/æ/: 'a' in 'bad'">æ</span><span title="'n' in 'nigh'">n</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="'t' in 'tie'">t</span><span title="/ɪ/: 'i' in 'kit'">ɪ</span><span title="'l' in 'lie'">l</span><span title="/iː/: 'ee' in 'fleece'">iː</span><span title="'z' in 'zoom'">z</span></span>/</a></span></span>; <i>Antilles</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/French" title="Help:IPA/French">[ɑ̃.tij]</a></span> in <a href="/wiki/French_language" title="French language">French</a>; <i>Antillas</i> in <a href="/wiki/Spanish_language" title="Spanish language">Spanish</a>; <i>Antillen</i> in <a href="/wiki/Dutch_language" title="Dutch language">Dutch</a> and <i>Antilhas</i> in <a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a>) is an <a href="/wiki/Archipelago" title="Archipelago">archipelago</a> bordered by the <a href="/wiki/Caribbean_Sea" title="Caribbean Sea">Caribbean Sea</a> to the south and west, the <a href="/wiki/Gulf_of_Mexico" title="Gulf of Mexico">Gulf of Mexico</a> to the northwest, and the <a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic Ocean</a> to the north and east.</p>
+<p>The Antillean islands are divided into two smaller groupings: the <a href="/wiki/Greater_Antilles" title="Greater Antilles">Greater Antilles</a> and the <a href="/wiki/Lesser_Antilles" title="Lesser Antilles">Lesser Antilles</a>. The Greater Antilles includes the larger islands of <a href="/wiki/Cuba" title="Cuba">Cuba</a>, <a href="/wiki/Jamaica" title="Jamaica">Jamaica</a>, <a href="/wiki/Puerto_Rico" title="Puerto Rico">Puerto Rico</a>, <a href="/wiki/Hispaniola" title="Hispaniola">Hispaniola</a> (subdivided into <a href="/wiki/Haiti" title="Haiti">Haiti</a> and the <a href="/wiki/Dominican_Republic" title="Dominican Republic">Dominican Republic</a>) and the <a href="/wiki/Cayman_Islands" title="Cayman Islands">Cayman Islands</a>. The Lesser Antilles contains the northerly <a href="/wiki/Leeward_Islands" title="Leeward Islands">Leeward Islands</a>, the southeasterly <a href="/wiki/Windward_Islands" title="Windward Islands">Windward Islands</a>, and the <a href="/wiki/Leeward_Antilles" title="Leeward Antilles">Leeward Antilles</a> just north of <a href="/wiki/Venezuela" title="Venezuela">Venezuela</a>. The <a href="/wiki/Lucayan_Archipelago" title="Lucayan Archipelago">Lucayan Archipelago</a> (consisting of <a href="/wiki/The_Bahamas" title="The Bahamas">the Bahamas</a> and <a href="/wiki/Turks_and_Caicos_Islands" title="Turks and Caicos Islands">Turks and Caicos Islands</a>), though part of the <a href="/wiki/West_Indies" title="West Indies">West Indies</a>, are generally not included among the Antillean islands.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<p><a href="/wiki/Geography" title="Geography">Geographically</a>, the Antillean islands are generally considered a subregion of <a href="/wiki/North_America" title="North America">North America</a>. Culturally speaking, Cuba, the Dominican Republic, and Puerto Rico – and sometimes the whole of the Antilles – are included in <a href="/wiki/Latin_America" title="Latin America">Latin America</a><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2013)">citation needed</span></a></i>]</sup>, although some sources avoid this socio-economic oversimplification by using the phrase "Latin America and the Caribbean" instead (see <a href="/wiki/Latin_America#Etymology_and_definitions" title="Latin America">Latin America</a>, "In Contemporary Usage"). In terms of <a href="/wiki/Geology" title="Geology">geology</a>, the Greater Antilles are made up of <a href="/wiki/Continental_crust" title="Continental crust">continental rock</a>, as distinct from the Lesser Antilles, which are mostly young <a href="/wiki/Volcano" title="Volcano">volcanic</a> or <a href="/wiki/Coral_island" title="Coral island">coral islands</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Demographics"><span class="tocnumber">2</span> <span class="toctext">Demographics</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Nations_and_territories"><span class="tocnumber">3</span> <span class="toctext">Nations and territories</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Lucayan_Archipelago"><span class="tocnumber">3.1</span> <span class="toctext">Lucayan Archipelago</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Greater_Antilles"><span class="tocnumber">3.2</span> <span class="toctext">Greater Antilles</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Lesser_Antilles"><span class="tocnumber">3.3</span> <span class="toctext">Lesser Antilles</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="#Leeward_Antilles"><span class="tocnumber">3.3.1</span> <span class="toctext">Leeward Antilles</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Leeward_Islands"><span class="tocnumber">3.3.2</span> <span class="toctext">Leeward Islands</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Windward_Islands"><span class="tocnumber">3.3.3</span> <span class="toctext">Windward Islands</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-10"><a href="#Other_islands"><span class="tocnumber">3.4</span> <span class="toctext">Other islands</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Antilles&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Carte_antilles_1843.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Carte_antilles_1843.jpg/220px-Carte_antilles_1843.jpg" width="220" height="158" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Carte_antilles_1843.jpg/330px-Carte_antilles_1843.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Carte_antilles_1843.jpg/440px-Carte_antilles_1843.jpg 2x" data-file-width="2850" data-file-height="2043" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Carte_antilles_1843.jpg" class="internal" title="Enlarge"></a></div>
+Map of Antilles / Caribbean in 1843.</div>
+</div>
+</div>
+<p>The word <i>Antilles</i> originated in the period before the European conquest of the <a href="/wiki/New_World" title="New World">New World</a>, <i><a href="/wiki/Antilia" class="mw-redirect" title="Antilia">Antilia</a></i> being one of those mysterious lands which figured on the <a href="/wiki/Medieval" class="mw-redirect" title="Medieval">medieval</a> <a href="/wiki/Chart" title="Chart">charts</a>, sometimes as an <a href="/wiki/Archipelago" title="Archipelago">archipelago</a>, sometimes as continuous land of greater or lesser extent, its location fluctuating in mid-ocean between the <a href="/wiki/Canary_Islands" title="Canary Islands">Canary Islands</a> and <a href="/wiki/India" title="India">India</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p>After the 1492 arrival of <a href="/wiki/Christopher_Columbus" title="Christopher Columbus">Christopher Columbus</a>'s expedition in what was later called the West Indies, the European powers realized that the dispersed lands constituted an extensive archipelago inhabiting the Caribbean Sea and the <a href="/wiki/Gulf_of_Mexico" title="Gulf of Mexico">Gulf of Mexico</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2013)">citation needed</span></a></i>]</sup> The Antilles were called multiple names before their current name became the norm. Early Spanish visitors called them the <i>Windward Islands</i>. They were also called the <i>Forward Islands</i> by 18th-century British.<sup id="cite_ref-Kitchin1_3-0" class="reference"><a href="#cite_note-Kitchin1-3">[3]</a></sup> Thereafter, the term <i>Antilles</i> was commonly assigned to the formation, and "Sea of the Antilles" became a common alternative name for the Caribbean Sea in various European languages.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2013)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="Demographics">Demographics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Antilles&amp;action=edit&amp;section=2" title="Edit section: Demographics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Antilles were described in 1778 by <a href="/wiki/Thomas_Kitchin" title="Thomas Kitchin">Thomas Kitchin</a> as once being called the <i>Caribbee Isles</i> in homage to the Carib people who were the islands' first inhabitants.</p>
+<h2><span class="mw-headline" id="Nations_and_territories">Nations and territories</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Antilles&amp;action=edit&amp;section=3" title="Edit section: Nations and territories">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/List_of_islands_in_the_Antilles" class="mw-redirect" title="List of islands in the Antilles">List of islands in the Antilles</a></div>
+<h3><span class="mw-headline" id="Lucayan_Archipelago">Lucayan Archipelago</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Antilles&amp;action=edit&amp;section=4" title="Edit section: Lucayan Archipelago">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Lucayan_Archipelago" title="Lucayan Archipelago">Lucayan Archipelago</a></div>
+<ul>
+<li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/23px-Flag_of_the_Bahamas.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/35px-Flag_of_the_Bahamas.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/46px-Flag_of_the_Bahamas.svg.png 2x" data-file-width="600" data-file-height="300" />&#160;</span><a href="/wiki/The_Bahamas" title="The Bahamas">Bahamas</a></li>
+<li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_the_Turks_and_Caicos_Islands.svg/23px-Flag_of_the_Turks_and_Caicos_Islands.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_the_Turks_and_Caicos_Islands.svg/35px-Flag_of_the_Turks_and_Caicos_Islands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_the_Turks_and_Caicos_Islands.svg/46px-Flag_of_the_Turks_and_Caicos_Islands.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="/wiki/Turks_and_Caicos_Islands" title="Turks and Caicos Islands">Turks and Caicos Islands</a> (<a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>)</li>
+</ul>
+<h3><span class="mw-headline" id="Greater_Antilles">Greater Antilles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Antilles&amp;action=edit&amp;section=5" title="Edit section: Greater Antilles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Greater_Antilles" title="Greater Antilles">Greater Antilles</a></div>
+<ul>
+<li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/23px-Flag_of_Cuba.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/35px-Flag_of_Cuba.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/46px-Flag_of_Cuba.svg.png 2x" data-file-width="800" data-file-height="400" />&#160;</span><a href="/wiki/Cuba" title="Cuba">Cuba</a></li>
+<li><a href="/wiki/Hispaniola" title="Hispaniola">Hispaniola</a>
+<ul>
+<li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/23px-Flag_of_Haiti.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/35px-Flag_of_Haiti.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/46px-Flag_of_Haiti.svg.png 2x" data-file-width="500" data-file-height="300" />&#160;</span><a href="/wiki/Haiti" title="Haiti">Haiti</a></li>
+<li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/23px-Flag_of_the_Dominican_Republic.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/35px-Flag_of_the_Dominican_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/45px-Flag_of_the_Dominican_Republic.svg.png 2x" data-file-width="750" data-file-height="500" />&#160;</span><a href="/wiki/Dominican_Republic" title="Dominican Republic">Dominican Republic</a></li>
+</ul>
+</li>
+<li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/23px-Flag_of_Jamaica.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/35px-Flag_of_Jamaica.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/46px-Flag_of_Jamaica.svg.png 2x" data-file-width="600" data-file-height="300" />&#160;</span><a href="/wiki/Jamaica" title="Jamaica">Jamaica</a></li>
+<li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/23px-Flag_of_Puerto_Rico.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/35px-Flag_of_Puerto_Rico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/45px-Flag_of_Puerto_Rico.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Puerto_Rico" title="Puerto Rico">Puerto Rico</a> (<a href="/wiki/United_States" title="United States">United States</a>)</li>
+<li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_the_Cayman_Islands.svg/23px-Flag_of_the_Cayman_Islands.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_the_Cayman_Islands.svg/35px-Flag_of_the_Cayman_Islands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_the_Cayman_Islands.svg/46px-Flag_of_the_Cayman_Islands.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="/wiki/Cayman_Islands" title="Cayman Islands">Cayman Islands</a> (<a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>)</li>
+</ul>
+<h3><span class="mw-headline" id="Lesser_Antilles">Lesser Antilles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Antilles&amp;action=edit&amp;section=6" title="Edit section: Lesser Antilles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Lesser_Antilles" title="Lesser Antilles">Lesser Antilles</a></div>
+<h4><span class="mw-headline" id="Leeward_Antilles">Leeward Antilles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Antilles&amp;action=edit&amp;section=7" title="Edit section: Leeward Antilles">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Leeward_Antilles" title="Leeward Antilles">Leeward Antilles</a></div>
+<ul>
+<li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Aruba.svg/23px-Flag_of_Aruba.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Aruba.svg/35px-Flag_of_Aruba.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Aruba.svg/45px-Flag_of_Aruba.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Aruba" title="Aruba">Aruba</a> (<a href="/wiki/Kingdom_of_the_Netherlands" title="Kingdom of the Netherlands">Kingdom of the Netherlands</a>)</li>
+<li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Bonaire.svg/23px-Flag_of_Bonaire.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Bonaire.svg/35px-Flag_of_Bonaire.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Bonaire.svg/45px-Flag_of_Bonaire.svg.png 2x" data-file-width="600" data-file-height="400" />&#160;</span><a href="/wiki/Bonaire" title="Bonaire">Bonaire</a> (<a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>)</li>
+<li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/23px-Flag_of_Cura%C3%A7ao.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/35px-Flag_of_Cura%C3%A7ao.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/45px-Flag_of_Cura%C3%A7ao.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Cura%C3%A7ao" title="Curaçao">Curaçao</a> (<a href="/wiki/Kingdom_of_the_Netherlands" title="Kingdom of the Netherlands">Kingdom of the Netherlands</a>)</li>
+<li><span class="flagicon"><a href="/wiki/Venezuela" title="Venezuela"><img alt="Venezuela" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/23px-Flag_of_Venezuela.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/35px-Flag_of_Venezuela.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/45px-Flag_of_Venezuela.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Federal_Dependencies_of_Venezuela" title="Federal Dependencies of Venezuela">Federal Dependencies of Venezuela</a>
+<ul>
+<li><a href="/wiki/Los_Monjes_Archipelago" title="Los Monjes Archipelago">Los Monjes Archipelago</a></li>
+<li><a href="/wiki/La_Tortuga_Island" title="La Tortuga Island">La Tortuga Island</a></li>
+<li><a href="/wiki/La_Sola_Island" title="La Sola Island">La Sola Island</a></li>
+<li><a href="/wiki/Los_Testigos_Islands" title="Los Testigos Islands">Los Testigos Islands</a></li>
+<li><a href="/wiki/Islas_Los_Frailes" title="Islas Los Frailes">Los Frailes Islands</a></li>
+<li><a href="/wiki/Patos_Island_(Venezuela)" title="Patos Island (Venezuela)">Patos Island</a></li>
+<li><a href="/wiki/Los_Roques_Archipelago" class="mw-redirect" title="Los Roques Archipelago">Los Roques Archipelago</a></li>
+<li><a href="/wiki/Blanquilla_Island" title="Blanquilla Island">Blanquilla Island</a></li>
+<li><a href="/wiki/Los_Hermanos_Archipelago" title="Los Hermanos Archipelago">Los Hermanos Archipelago</a></li>
+<li><a href="/wiki/La_Orchila" title="La Orchila">Orchila Island</a></li>
+<li><a href="/wiki/Las_Aves_Archipelago" class="mw-redirect" title="Las Aves Archipelago">Las Aves Archipelago</a></li>
+<li><a href="/wiki/Isla_Aves" title="Isla Aves">Aves Island</a></li>
+</ul>
+</li>
+<li><span class="flagicon"><a href="/wiki/Venezuela" title="Venezuela"><img alt="Venezuela" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/23px-Flag_of_Venezuela.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/35px-Flag_of_Venezuela.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/45px-Flag_of_Venezuela.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Nueva_Esparta" title="Nueva Esparta">Nueva Esparta State</a>
+<ul>
+<li><a href="/wiki/Margarita_Island" title="Margarita Island">Margarita Island</a></li>
+<li><a href="/wiki/Coche,_Venezuela" class="mw-redirect" title="Coche, Venezuela">Coche</a></li>
+<li><a href="/wiki/Cubagua" title="Cubagua">Cubagua</a></li>
+</ul>
+</li>
+</ul>
+<h4><span class="mw-headline" id="Leeward_Islands">Leeward Islands</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Antilles&amp;action=edit&amp;section=8" title="Edit section: Leeward Islands">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Leeward_Islands" title="Leeward Islands">Leeward Islands</a></div>
+<ul>
+<li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Anguilla.svg/23px-Flag_of_Anguilla.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Anguilla.svg/35px-Flag_of_Anguilla.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Anguilla.svg/46px-Flag_of_Anguilla.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="/wiki/Anguilla" title="Anguilla">Anguilla</a> (<a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>)</li>
+<li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/23px-Flag_of_Antigua_and_Barbuda.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/35px-Flag_of_Antigua_and_Barbuda.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/45px-Flag_of_Antigua_and_Barbuda.svg.png 2x" data-file-width="690" data-file-height="460" />&#160;</span><a href="/wiki/Antigua_and_Barbuda" title="Antigua and Barbuda">Antigua and Barbuda</a>
+<ul>
+<li><a href="/wiki/Antigua" title="Antigua">Antigua</a></li>
+<li><a href="/wiki/Barbuda" title="Barbuda">Barbuda</a></li>
+<li><a href="/wiki/Redonda" title="Redonda">Redonda</a></li>
+</ul>
+</li>
+<li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_the_British_Virgin_Islands.svg/23px-Flag_of_the_British_Virgin_Islands.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_the_British_Virgin_Islands.svg/35px-Flag_of_the_British_Virgin_Islands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_the_British_Virgin_Islands.svg/46px-Flag_of_the_British_Virgin_Islands.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="/wiki/British_Virgin_Islands" title="British Virgin Islands">British Virgin Islands</a> (<a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>)</li>
+<li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Guadeloupe_%28local%29.svg/23px-Flag_of_Guadeloupe_%28local%29.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Guadeloupe_%28local%29.svg/35px-Flag_of_Guadeloupe_%28local%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Guadeloupe_%28local%29.svg/45px-Flag_of_Guadeloupe_%28local%29.svg.png 2x" data-file-width="450" data-file-height="300" />&#160;</span><a href="/wiki/Guadeloupe" title="Guadeloupe">Guadeloupe</a> (<a href="/wiki/France" title="France">France</a>)
+<ul>
+<li><a href="/wiki/La_D%C3%A9sirade" title="La Désirade">La Désirade</a></li>
+<li><a href="/wiki/Marie-Galante" title="Marie-Galante">Marie-Galante</a></li>
+<li><a href="/wiki/%C3%8Eles_des_Saintes" title="Îles des Saintes">Les Saintes</a></li>
+</ul>
+</li>
+<li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Montserrat.svg/23px-Flag_of_Montserrat.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Montserrat.svg/35px-Flag_of_Montserrat.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Montserrat.svg/46px-Flag_of_Montserrat.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="/wiki/Montserrat" title="Montserrat">Montserrat</a> (<a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>)</li>
+<li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Flag_of_Saba.svg/23px-Flag_of_Saba.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Flag_of_Saba.svg/35px-Flag_of_Saba.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Flag_of_Saba.svg/45px-Flag_of_Saba.svg.png 2x" data-file-width="750" data-file-height="500" />&#160;</span><a href="/wiki/Saba" title="Saba">Saba</a> (<a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>)</li>
+<li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Saint_Barthelemy_%28local%29.svg/23px-Flag_of_Saint_Barthelemy_%28local%29.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Saint_Barthelemy_%28local%29.svg/35px-Flag_of_Saint_Barthelemy_%28local%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Saint_Barthelemy_%28local%29.svg/45px-Flag_of_Saint_Barthelemy_%28local%29.svg.png 2x" data-file-width="450" data-file-height="300" />&#160;</span><a href="/wiki/Saint_Barth%C3%A9lemy" title="Saint Barthélemy">Saint Barthélemy</a> (<a href="/wiki/France" title="France">France</a>)</li>
+<li><a href="/wiki/Saint_Martin" title="Saint Martin">Saint Martin</a>
+<ul>
+<li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Collectivity_of_Saint_Martin" title="Collectivity of Saint Martin">Saint Martin</a> (<a href="/wiki/France" title="France">France</a>)</li>
+<li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Sint_Maarten.svg/23px-Flag_of_Sint_Maarten.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Sint_Maarten.svg/35px-Flag_of_Sint_Maarten.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Sint_Maarten.svg/45px-Flag_of_Sint_Maarten.svg.png 2x" data-file-width="675" data-file-height="450" />&#160;</span><a href="/wiki/Sint_Maarten" title="Sint Maarten">Sint Maarten</a> (<a href="/wiki/Kingdom_of_the_Netherlands" title="Kingdom of the Netherlands">Kingdom of the Netherlands</a>)</li>
+</ul>
+</li>
+<li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/23px-Flag_of_Saint_Kitts_and_Nevis.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/35px-Flag_of_Saint_Kitts_and_Nevis.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/45px-Flag_of_Saint_Kitts_and_Nevis.svg.png 2x" data-file-width="750" data-file-height="500" />&#160;</span><a href="/wiki/Saint_Kitts_and_Nevis" title="Saint Kitts and Nevis">Saint Kitts and Nevis</a>
+<ul>
+<li><a href="/wiki/Saint_Kitts" title="Saint Kitts">Saint Kitts</a></li>
+<li><a href="/wiki/Nevis" title="Nevis">Nevis</a></li>
+</ul>
+</li>
+<li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Sint_Eustatius.svg/23px-Flag_of_Sint_Eustatius.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Sint_Eustatius.svg/35px-Flag_of_Sint_Eustatius.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Sint_Eustatius.svg/45px-Flag_of_Sint_Eustatius.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Sint_Eustatius" title="Sint Eustatius">Sint Eustatius</a> (<a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>)</li>
+<li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_the_United_States_Virgin_Islands.svg/23px-Flag_of_the_United_States_Virgin_Islands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_the_United_States_Virgin_Islands.svg/35px-Flag_of_the_United_States_Virgin_Islands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_the_United_States_Virgin_Islands.svg/45px-Flag_of_the_United_States_Virgin_Islands.svg.png 2x" data-file-width="1276" data-file-height="850" />&#160;</span><a href="/wiki/United_States_Virgin_Islands" title="United States Virgin Islands">U.S. Virgin Islands</a> (<a href="/wiki/United_States" title="United States">United States</a>)
+<ul>
+<li><a href="/wiki/Saint_Croix" class="mw-redirect" title="Saint Croix">Saint Croix</a></li>
+<li><a href="/wiki/Saint_Thomas,_U.S._Virgin_Islands" title="Saint Thomas, U.S. Virgin Islands">Saint Thomas</a></li>
+<li><a href="/wiki/Saint_John,_U.S._Virgin_Islands" title="Saint John, U.S. Virgin Islands">Saint John</a></li>
+</ul>
+</li>
+</ul>
+<h4><span class="mw-headline" id="Windward_Islands">Windward Islands</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Antilles&amp;action=edit&amp;section=9" title="Edit section: Windward Islands">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Windward_Islands" title="Windward Islands">Windward Islands</a></div>
+<ul>
+<li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/23px-Flag_of_Dominica.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/35px-Flag_of_Dominica.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/46px-Flag_of_Dominica.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="/wiki/Dominica" title="Dominica">Dominica</a></li>
+<li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/23px-Flag_of_Grenada.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/35px-Flag_of_Grenada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/46px-Flag_of_Grenada.svg.png 2x" data-file-width="600" data-file-height="360" />&#160;</span><a href="/wiki/Grenada" title="Grenada">Grenada</a></li>
+<li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Snake_Flag_of_Martinique.svg/23px-Snake_Flag_of_Martinique.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Snake_Flag_of_Martinique.svg/35px-Snake_Flag_of_Martinique.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Snake_Flag_of_Martinique.svg/45px-Snake_Flag_of_Martinique.svg.png 2x" data-file-width="625" data-file-height="416" />&#160;</span><a href="/wiki/Martinique" title="Martinique">Martinique</a> (<a href="/wiki/France" title="France">France</a>)</li>
+<li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/23px-Flag_of_Saint_Lucia.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/35px-Flag_of_Saint_Lucia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/46px-Flag_of_Saint_Lucia.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="/wiki/Saint_Lucia" title="Saint Lucia">Saint Lucia</a></li>
+<li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/23px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/35px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/45px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png 2x" data-file-width="450" data-file-height="300" />&#160;</span><a href="/wiki/Saint_Vincent_and_the_Grenadines" title="Saint Vincent and the Grenadines">Saint Vincent and the Grenadines</a></li>
+</ul>
+<h3><span class="mw-headline" id="Other_islands">Other islands</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Antilles&amp;action=edit&amp;section=10" title="Edit section: Other islands">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/23px-Flag_of_Barbados.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/35px-Flag_of_Barbados.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/45px-Flag_of_Barbados.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Barbados" title="Barbados">Barbados</a></li>
+<li><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/23px-Flag_of_Trinidad_and_Tobago.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/35px-Flag_of_Trinidad_and_Tobago.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/46px-Flag_of_Trinidad_and_Tobago.svg.png 2x" data-file-width="800" data-file-height="480" />&#160;</span><a href="/wiki/Trinidad_and_Tobago" title="Trinidad and Tobago">Trinidad and Tobago</a>
+<ul>
+<li><a href="/wiki/Tobago" title="Tobago">Tobago</a></li>
+<li><a href="/wiki/Trinidad" title="Trinidad">Trinidad</a></li>
+</ul>
+</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Antilles&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Antillia" title="Antillia">Antillia</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Antilles&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Some sources, such as Encarta in Spanish, include the Bahamas in the Antilles. <a rel="nofollow" class="external autonumber" href="http://es.encarta.msn.com/encyclopedia_761555176/Antillas.html">[1]</a> <span class="languageicon">(in Spanish)</span>. <a rel="nofollow" class="external text" href="https://www.webcitation.org/5kwKSz46J">Archived</a> 2009-10-31.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a href="/wiki/File:Wikisource-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a>&#160;One or more of the preceding sentences&#160;incorporates text from a publication now in the <a href="/wiki/Public_domain" title="Public domain">public domain</a>:&#160;<cite id="CITEREFChisholm1911" class="citation encyclopaedia">Chisholm, Hugh, ed. (1911). "<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Antilles" class="extiw" title="wikisource:1911 Encyclopædia Britannica/Antilles">Antilles</a>". <i><a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">Encyclopædia Britannica</a></i>. <b>2</b> (11th ed.). Cambridge University Press. p.&#160;126.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAntilles&amp;rft.atitle=Antilles&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft.date=1911&amp;rft.edition=11th&amp;rft.genre=bookitem&amp;rft.pages=126&amp;rft.pub=Cambridge+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Kitchin1-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Kitchin1_3-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Kitchin, Thomas (1778). <a rel="nofollow" class="external text" href="http://www.wdl.org/en/item/4397/view/1/14/"><i>The Present State of the West-Indies: Containing an Accurate Description of What Parts Are Possessed by the Several Powers in Europe</i></a>. London: R. Baldwin. p.&#160;5.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAntilles&amp;rft.aufirst=Thomas&amp;rft.aulast=Kitchin&amp;rft.btitle=The+Present+State+of+the+West-Indies%3A+Containing+an+Accurate+Description+of+What+Parts+Are+Possessed+by+the+Several+Powers+in+Europe&amp;rft.date=1778&amp;rft.genre=book&amp;rft.pages=5&amp;rft.place=London&amp;rft.pub=R.+Baldwin&amp;rft_id=http%3A%2F%2Fwww.wdl.org%2Fen%2Fitem%2F4397%2Fview%2F1%2F14%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Caribbean.C2.A0articles" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Caribbean_topics" title="Template:Caribbean topics"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Caribbean_topics" title="Template talk:Caribbean topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Caribbean_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Caribbean.C2.A0articles" style="font-size:114%;margin:0 4em"><a href="/wiki/Caribbean" title="Caribbean">Caribbean</a>&#160;articles</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_the_Caribbean" title="History of the Caribbean">History</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:6.5em;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/w/index.php?title=Timeline_of_Caribbean_history&amp;action=edit&amp;redlink=1" class="new" title="Timeline of Caribbean history (page does not exist)">Timeline</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ta%C3%ADno" title="Taíno">Taíno</a>–<a href="/wiki/Arawak" title="Arawak">Arawak</a></li>
+<li><a href="/wiki/Spanish_West_Indies" title="Spanish West Indies">Spanish Caribbean (1492–1898)</a></li>
+<li><a href="/wiki/Netherlands_Antilles" title="Netherlands Antilles">Dutch Caribbean (1554–1863)</a></li>
+<li><a href="/wiki/History_of_the_British_West_Indies" title="History of the British West Indies">British Caribbean (1586–1834)</a></li>
+<li><a href="/wiki/French_West_Indies" title="French West Indies">French Caribbean (1625–1817)</a></li>
+<li><a href="/wiki/Couronian_colonization_of_the_Americas" title="Couronian colonization of the Americas">Baltic-German Caribbean (1654-1689)</a></li>
+<li><a href="/wiki/Danish_West_Indies" title="Danish West Indies">Danish Caribbean (1672–1917)</a></li>
+<li><a href="/wiki/Saint_Thomas_(Brandenburg_colony)" title="Saint Thomas (Brandenburg colony)">German Caribbean (1685-1693)</a></li>
+<li><a href="/wiki/Swedish_colony_of_Saint_Barth%C3%A9lemy" title="Swedish colony of Saint Barthélemy">Swedish Caribbean (1784–1878)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.5em;padding-left:0.5em;padding-right:0.5em;font-weight:normal;">By topic</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Afro-Caribbean_history" title="Afro-Caribbean history">Afro-Caribbean</a></li>
+<li><a href="/wiki/Territorial_evolution_of_the_Caribbean" title="Territorial evolution of the Caribbean">Territorial evolution</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geography_of_the_Caribbean" class="mw-redirect" title="Geography of the Caribbean">Geography</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:6.5em;padding-left:0.5em;padding-right:0.5em;font-weight:normal;">Regions</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Antilles</a>
+<ul>
+<li><a href="/wiki/Greater_Antilles" title="Greater Antilles">Greater Antilles</a></li>
+<li><a href="/wiki/Lesser_Antilles" title="Lesser Antilles">Lesser Antilles</a>
+<ul>
+<li><a href="/wiki/Leeward_Islands" title="Leeward Islands">Leeward</a></li>
+<li><a href="/wiki/Leeward_Antilles" title="Leeward Antilles">Leeward Antilles</a></li>
+<li><a href="/wiki/Windward_Islands" title="Windward Islands">Windward</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/wiki/Caribbean_Basin" class="mw-redirect" title="Caribbean Basin">Caribbean Basin</a></li>
+<li><a href="/wiki/Caribbean_Lowlands" title="Caribbean Lowlands">Caribbean Lowlands</a></li>
+<li><a href="/wiki/Caribbean_Plate" title="Caribbean Plate">Caribbean Plate</a></li>
+<li><a href="/wiki/Caribbean_Sea" title="Caribbean Sea">Caribbean Sea</a></li>
+<li><a href="/wiki/Caribbean_South_America" title="Caribbean South America">Caribbean South America</a></li>
+<li><a href="/wiki/Southern_Caribbean" title="Southern Caribbean">Southern Caribbean</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.5em;padding-left:0.5em;padding-right:0.5em;font-weight:normal;">By topic</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Caribbean_bioregion" title="Caribbean bioregion">Bioregion</a></li>
+<li><a href="/wiki/List_of_earthquakes_in_the_Caribbean" title="List of earthquakes in the Caribbean">Earthquakes</a></li>
+<li><a href="/wiki/Extreme_points_of_the_Caribbean" title="Extreme points of the Caribbean">Extreme points</a></li>
+<li><a href="/wiki/List_of_Caribbean_islands" title="List of Caribbean islands">Islands</a>
+<ul>
+<li><a href="/wiki/List_of_Caribbean_islands_by_area" title="List of Caribbean islands by area">by area</a></li>
+</ul>
+</li>
+<li><a href="/wiki/List_of_metropolitan_areas_in_the_West_Indies" title="List of metropolitan areas in the West Indies">Metropolitan areas</a></li>
+<li><a href="/wiki/List_of_mountain_peaks_of_the_Caribbean" title="List of mountain peaks of the Caribbean">Mountains</a></li>
+<li><a href="/wiki/List_of_rivers_of_Central_America_and_the_Caribbean" title="List of rivers of Central America and the Caribbean">Rivers</a></li>
+<li><a href="/wiki/List_of_Ultras_of_the_Caribbean" title="List of Ultras of the Caribbean">Ultras</a></li>
+<li><a href="/wiki/List_of_sovereign_states_and_dependent_territories_in_the_Caribbean#Sovereign_states" title="List of sovereign states and dependent territories in the Caribbean">sovereign states</a></li>
+<li><a href="/wiki/List_of_sovereign_states_and_dependent_territories_in_the_Caribbean#Dependent_territories" title="List of sovereign states and dependent territories in the Caribbean">dependent territories</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Politics_of_the_Caribbean" title="Politics of the Caribbean">Politics</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/African-Caribbean_leftism" title="African-Caribbean leftism">African-Caribbean leftism</a></li>
+<li><a href="/wiki/Caribbean_Community" title="Caribbean Community">Caribbean Community</a></li>
+<li><a href="/wiki/CARIFORUM" title="CARIFORUM">CARIFORUM</a></li>
+<li><a href="/wiki/Organisation_of_Eastern_Caribbean_States" title="Organisation of Eastern Caribbean States">Organisation of Eastern Caribbean States</a></li>
+<li><a href="/wiki/List_of_sovereign_states_and_dependent_territories_in_the_Caribbean" title="List of sovereign states and dependent territories in the Caribbean">Sovereign states and dependent territories</a></li>
+<li><a href="/wiki/Western_Caribbean_Zone" title="Western Caribbean Zone">Western Caribbean Zone</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Economy_of_the_Caribbean" title="Economy of the Caribbean">Economy</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_largest_airlines_in_Central_America_and_the_Caribbean" title="List of largest airlines in Central America and the Caribbean">Airlines</a></li>
+<li><a href="/wiki/List_of_airports_in_the_Caribbean" title="List of airports in the Caribbean">Airports</a></li>
+<li><a href="/wiki/Central_banks_and_currencies_of_the_Caribbean" title="Central banks and currencies of the Caribbean">Central banks and currencies</a></li>
+<li><a href="/wiki/Citrus_industry_in_the_Caribbean" title="Citrus industry in the Caribbean">Citrus</a></li>
+<li><a href="/wiki/Fishing_industry_in_the_Caribbean" title="Fishing industry in the Caribbean">Fishing</a></li>
+<li><a href="/wiki/List_of_stock_exchanges_in_the_Americas" title="List of stock exchanges in the Americas">Stock exchanges</a>
+<ul>
+<li><a href="/wiki/Eastern_Caribbean_Securities_Exchange" title="Eastern Caribbean Securities Exchange">Eastern Caribbean Securities Exchange</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Sugar_plantations_in_the_Caribbean" title="Sugar plantations in the Caribbean">Sugar</a>
+<ul>
+<li><a href="/wiki/Cuban_sugar_economy" title="Cuban sugar economy">in Cuba</a></li>
+<li><a href="/wiki/Sugar_production_in_the_Danish_West_Indies" title="Sugar production in the Danish West Indies">in the Danish West Indies</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Telecommunications_in_the_Caribbean" class="mw-redirect" title="Telecommunications in the Caribbean">Telecommunications</a></li>
+<li><a href="/wiki/Tourism_in_the_Caribbean" title="Tourism in the Caribbean">Tourism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Culture_of_the_Caribbean" title="Culture of the Caribbean">Culture</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Afro-Caribbean" title="Afro-Caribbean">Afro-Caribbean</a></li>
+<li><a href="/wiki/Caribbean_art" title="Caribbean art">Art</a></li>
+<li><a href="/wiki/Beer_in_the_Caribbean" title="Beer in the Caribbean">Beer</a></li>
+<li><a href="/wiki/Caribbean_cuisine" title="Caribbean cuisine">Cuisine</a></li>
+<li><a href="/wiki/Caribbean_literature" title="Caribbean literature">Literature</a></li>
+<li><a href="/wiki/List_of_Caribbean_music_genres" title="List of Caribbean music genres">Music</a></li>
+<li><a href="/wiki/Caribbean_people" title="Caribbean people">People</a></li>
+<li><a href="/wiki/Sport_in_the_Caribbean" class="mw-redirect" title="Sport in the Caribbean">Sport</a></li>
+<li><a href="/wiki/List_of_stadiums_in_Central_America_and_the_Caribbean" title="List of stadiums in Central America and the Caribbean">Stadiums</a></li>
+<li><a href="/wiki/List_of_television_stations_in_the_Caribbean" title="List of television stations in the Caribbean">Television stations</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;">Demographics</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=Immigration_to_the_Caribbean&amp;action=edit&amp;redlink=1" class="new" title="Immigration to the Caribbean (page does not exist)">Immigration</a></li>
+<li><a href="/wiki/Languages_of_the_Caribbean" title="Languages of the Caribbean">Languages</a>
+<ul>
+<li><a href="/wiki/Pre-Arawakan_languages_of_the_Greater_Antilles" title="Pre-Arawakan languages of the Greater Antilles">Pre-Arawakan</a></li>
+</ul>
+</li>
+<li><a href="/wiki/List_of_Caribbean_island_countries_by_population" title="List of Caribbean island countries by population">Population</a></li>
+<li><a href="/wiki/Influx_of_disease_in_the_Caribbean" title="Influx of disease in the Caribbean">Diseases</a></li>
+<li><a href="/wiki/Religion_in_the_Caribbean" class="mw-redirect" title="Religion in the Caribbean">Religion</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="font-weight:bold;">
+<div>
+<ul>
+<li><a href="/wiki/Category:Caribbean" title="Category:Caribbean">Category</a></li>
+<li><a href="/wiki/Portal:Caribbean" title="Portal:Caribbean">Portal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/304911370">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/304911370">304911370</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4002293-6">4002293-6</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1242
+Cached time: 20170926042045
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.308 seconds
+Real time usage: 0.427 seconds
+Preprocessor visited node count: 3987/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 89902/2097152 bytes
+Template argument size: 16126/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 26/500
+Lua time usage: 0.103/10.000 seconds
+Lua memory usage: 4.02 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  300.942      1 -total
+ 22.12%   66.566      1 Template:Reflist
+ 19.18%   57.725      8 Template:Navbox
+ 17.98%   54.122      1 Template:Caribbean_topics
+ 17.03%   51.258      1 Template:Region_topics
+ 16.57%   49.860     30 Template:Flag
+ 15.02%   45.201      3 Template:Citation_needed
+ 14.25%   42.891      1 Template:EB1911
+ 13.25%   39.876      3 Template:Fix
+ 12.08%   36.342      1 Template:Cite_EB1911
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:250125-0!canonical and timestamp 20170926042044 and revision id 796582581
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Antilles&amp;oldid=796582581">https://en.wikipedia.org/w/index.php?title=Antilles&amp;oldid=796582581</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Greater_Antilles" title="Category:Greater Antilles">Greater Antilles</a></li><li><a href="/wiki/Category:Lesser_Antilles" title="Category:Lesser Antilles">Lesser Antilles</a></li><li><a href="/wiki/Category:International_archipelagoes" title="Category:International archipelagoes">International archipelagoes</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_Spanish-language_external_links" title="Category:Articles with Spanish-language external links">Articles with Spanish-language external links</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_1911_Encyclopaedia_Britannica_with_Wikisource_reference" title="Category:Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference">Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_text_from_the_1911_Encyclop%C3%A6dia_Britannica" title="Category:Wikipedia articles incorporating text from the 1911 Encyclopædia Britannica">Wikipedia articles incorporating text from the 1911 Encyclopædia Britannica</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2013" title="Category:Articles with unsourced statements from February 2013">Articles with unsourced statements from February 2013</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2013" title="Category:Articles with unsourced statements from August 2013">Articles with unsourced statements from August 2013</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Antilles" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Antilles" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Antilles" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Antilles" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Antilles">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Antilles&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Antilles&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Antilles" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Antilles" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Antilles&amp;oldid=796582581" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Antilles&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q166131" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Antilles&amp;id=796582581" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Antilles">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Antilles&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DAntilles%26returnto%3DAntilles%26oldid%3D796582581%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Antilles&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Caribbean" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Antille" title="Antille – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AC%D8%B2%D8%B1_%D8%A7%D9%84%D8%A3%D9%86%D8%AA%D9%8A%D9%84" title="جزر الأنتيل – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-frp"><a href="https://frp.wikipedia.org/wiki/Antiles" title="Antiles – Arpitan" lang="frp" hreflang="frp" class="interlanguage-link-target">Arpetan</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Antil_adalar%C4%B1" title="Antil adaları – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D1%8B%D0%BB%D1%8C%D1%81%D0%BA%D1%96%D1%8F_%D0%B0%D1%81%D1%82%D1%80%D0%B0%D0%B2%D1%8B" title="Антыльскія астравы – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D1%8B%D0%BB%D1%8C%D1%81%D0%BA%D1%96%D1%8F_%D0%B0%D1%81%D1%82%D1%80%D0%B0%D0%B2%D1%8B" title="Антыльскія астравы – Belarusian (Taraškievica orthography)" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%B8%D0%BB%D1%81%D0%BA%D0%B8_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B8" title="Антилски острови – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Antilhez" title="Antilhez – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Antilles" title="Antilles – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Antily" title="Antily – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Antilles" title="Antilles – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Antillerne" title="Antillerne – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Antillen" title="Antillen – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Antillid" title="Antillid – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%91%CE%BD%CF%84%CE%AF%CE%BB%CE%BB%CE%B5%CF%82" title="Αντίλλες – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Antillas" title="Antillas – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Antiloj" title="Antiloj – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Antillak" title="Antillak – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A2%D9%86%D8%AA%DB%8C%D9%84" title="آنتیل – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Antilles" title="Antilles – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Antillen" title="Antillen – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Na_hAintill%C3%AD" title="Na hAintillí – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%95%A4%ED%8B%B8%EB%A6%AC%EC%8A%A4_%EC%A0%9C%EB%8F%84" title="앤틸리스 제도 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B1%D5%B6%D5%BF%D5%AB%D5%AC%D5%B5%D5%A1%D5%B6_%D5%AF%D5%B2%D5%A6%D5%AB%D5%B6%D5%A5%D6%80" title="Անտիլյան կղզիներ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Antillen" title="Antillen – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Antillaeyjar" title="Antillaeyjar – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Antille" title="Antille – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%94%D7%90%D7%99%D7%99%D7%9D_%D7%94%D7%90%D7%A0%D7%98%D7%99%D7%9C%D7%99%D7%9D" title="האיים האנטילים – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%95%E0%B3%86%E0%B2%B0%E0%B2%BF%E0%B2%AC%E0%B3%8D%E0%B2%AC%E0%B2%BF%E0%B2%AF%E0%B2%A8%E0%B3%8D" title="ಕೆರಿಬ್ಬಿಯನ್ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%B8%D0%BB%D1%8C_%D0%B0%D1%80%D0%B0%D0%BB%D0%B4%D0%B0%D1%80%D1%8B" title="Антиль аралдары – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%B8%D0%BB_%D0%B0%D1%80%D0%B0%D0%BB%D0%B4%D0%B0%D1%80%D1%8B" title="Антил аралдары – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-mrj"><a href="https://mrj.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%B8%D0%BB_%D0%BE%D1%88%D0%BC%D0%B0%D0%BE%D1%82%D1%8B%D0%B2%D0%BB%D3%93" title="Антил ошмаотывлӓ – Western Mari" lang="mrj" hreflang="mrj" class="interlanguage-link-target">Кырык мары</a></li><li class="interlanguage-link interwiki-lad"><a href="https://lad.wikipedia.org/wiki/Antiyas" title="Antiyas – Ladino" lang="lad" hreflang="lad" class="interlanguage-link-target">Ladino</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Antillae" title="Antillae – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Anti%C4%BCu_salas" title="Antiļu salas – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Antilai" title="Antilai – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Antil" title="Antil – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%B8%D0%BB%D0%B8" title="Антили – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%85%E0%B4%A8%E0%B5%8D%E0%B4%B1%E0%B4%BF%E0%B4%B2%E0%B4%BF%E0%B4%B8%E0%B5%8D_%E0%B4%A6%E0%B5%8D%E0%B4%B5%E0%B5%80%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE" title="അന്റിലിസ് ദ്വീപുകൾ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%85%E0%A4%81%E0%A4%9F%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%B8" title="अँटिल्स – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Kepulauan_Antille" title="Kepulauan Antille – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Antillen" title="Antillen – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%86%E3%82%A3%E3%83%AB%E8%AB%B8%E5%B3%B6" title="アンティル諸島 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Antilen" title="Antilen – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Antillene" title="Antillene – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Antillane" title="Antillane – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Antilhas" title="Antilhas – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Antil_orollari" title="Antil orollari – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Antyle" title="Antyle – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Antilhas" title="Antilhas – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%B8%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0" title="Антильские острова – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Antilles" title="Antilles – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Antilli" title="Antilli – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Antily" title="Antily – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%B8%D0%BB%D0%B8" title="Антили – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Antili" title="Antili – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Antillerna" title="Antillerna – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%85%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%B2%E0%AE%BF%E0%AE%9A%E0%AF%81" title="அண்டிலிசு – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Antiller" title="Antiller – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%B8%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D1%96_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B8" title="Антильські острови – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%A7%D9%86%D9%B9%DB%8C%D9%84%DB%8C%D8%B2" title="انٹیلیز – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Anti%C5%82e" title="Antiłe – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Antilles" title="Antilles – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Antillas" title="Antillas – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E5%AE%89%E5%9C%B0%E5%88%97%E6%96%AF%E7%BE%A4%E5%B3%B6" title="安地列斯群島 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%AE%89%E7%9A%84%E5%88%97%E6%96%AF%E7%BE%A4%E5%B3%B6" title="安的列斯群島 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q166131#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 21 August 2017, at 20:45.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Antilles&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.308","walltime":"0.427","ppvisitednodes":{"value":3987,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":89902,"limit":2097152},"templateargumentsize":{"value":16126,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":26,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  300.942      1 -total"," 22.12%   66.566      1 Template:Reflist"," 19.18%   57.725      8 Template:Navbox"," 17.98%   54.122      1 Template:Caribbean_topics"," 17.03%   51.258      1 Template:Region_topics"," 16.57%   49.860     30 Template:Flag"," 15.02%   45.201      3 Template:Citation_needed"," 14.25%   42.891      1 Template:EB1911"," 13.25%   39.876      3 Template:Fix"," 12.08%   36.342      1 Template:Cite_EB1911"]},"scribunto":{"limitreport-timeusage":{"value":"0.103","limit":"10.000"},"limitreport-memusage":{"value":4215609,"limit":52428800}},"cachereport":{"origin":"mw1242","timestamp":"20170926042045","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":514,"wgHostname":"mw1242"});});</script>
+	</body>
+</html>

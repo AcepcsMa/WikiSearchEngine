@@ -1,0 +1,971 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Bratwurst - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Bratwurst","wgTitle":"Bratwurst","wgCurRevisionId":801929398,"wgRevisionId":801929398,"wgArticleId":225765,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using deprecated image syntax","Articles with hAudio microformats","All articles with unsourced statements","Articles with unsourced statements from March 2013","All accuracy disputes","Articles with disputed statements from April 2016","German cuisine","German sausages","American sausages","Cuisine of Wisconsin","Sandwiches","Veal dishes"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Bratwurst","wgRelevantArticleId":225765,"wgRequestId":"WcV4cQpAMFQAAKUpEsMAAABB","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q899882","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/b/b0/German_Bratw%C3%BCrste.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Bratwurst"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Bratwurst&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Bratwurst&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Bratwurst"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Bratwurst rootpage-Bratwurst skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Bratwurst</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox hrecipe adr" style="width:22em">
+<caption class="fn"><span>Bratwurst</span></caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:German_Bratw%C3%BCrste.jpg" class="image"><img alt="German Bratwürste.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/German_Bratw%C3%BCrste.jpg/250px-German_Bratw%C3%BCrste.jpg" width="250" height="271" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/German_Bratw%C3%BCrste.jpg/375px-German_Bratw%C3%BCrste.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/German_Bratw%C3%BCrste.jpg/500px-German_Bratw%C3%BCrste.jpg 2x" data-file-width="600" data-file-height="650" /></a>
+<div style="padding-bottom:0.25em;border-bottom:1px solid #aaa;">A variety of <i>Bratwürste</i> on a stand at the Hauptmarkt in <a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="padding-top:0.245em;line-height:1.15em; padding-right:0.65em;">Type</th>
+<td><a href="/wiki/Sausage" title="Sausage">Sausage</a></td>
+</tr>
+<tr class="note">
+<th scope="row" style="padding-top:0.245em;line-height:1.15em; padding-right:0.65em;">Place of origin</th>
+<td class="country-name"><a href="/wiki/Germany" title="Germany">Germany</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-top:0.245em;line-height:1.15em; padding-right:0.65em;">Main ingredients</th>
+<td class="ingredient"><a href="/wiki/Meat" title="Meat">Meat</a> (<a href="/wiki/Veal" title="Veal">veal</a>, <a href="/wiki/Pork" title="Pork">pork</a> or <a href="/wiki/Beef" title="Beef">beef</a>)</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;border-top:1px solid #aaa;padding-top:0.25em;"><a href="/wiki/File:Wikibooks-logo-en-noslogan.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/16px-Wikibooks-logo-en-noslogan.svg.png" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/24px-Wikibooks-logo-en-noslogan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/32px-Wikibooks-logo-en-noslogan.svg.png 2x" data-file-width="400" data-file-height="400" /></a> <a href="https://en.wikibooks.org/wiki/Special:Search/Cookbook:_Bratwurst" class="extiw" title="wikibooks:Special:Search/Cookbook: Bratwurst">Cookbook: Bratwurst</a>&#160; <a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> <a href="https://commons.wikimedia.org/wiki/Special:Search/Bratwurst" class="extiw" title="commons:Special:Search/Bratwurst">Media: Bratwurst</a></td>
+</tr>
+</table>
+<p><b>Bratwurst</b> (<small>German:</small> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Standard_German" title="Help:IPA/Standard German">[ˈbʁaːtvʊɐ̯st]</a></span><small class="nowrap metadata">&#160;(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap"><a href="/wiki/File:De-Bratwurst.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a>&#160;</span><a href="//upload.wikimedia.org/wikipedia/commons/7/77/De-Bratwurst.ogg" class="internal" title="De-Bratwurst.ogg">listen</a></span></span>)</small>) is a type of German <a href="/wiki/Sausage" title="Sausage">sausage</a> made from <a href="/wiki/Veal" title="Veal">veal</a>, <a href="/wiki/Beef" title="Beef">beef</a>, or most commonly <a href="/wiki/Pork" title="Pork">pork</a>. The name is derived from the <a href="/wiki/Old_High_German" title="Old High German">Old High German</a> <i>Brätwurst</i>, from <i>brät-</i>, finely chopped meat, and <i>Wurst</i>, sausage, although in modern German it is often associated with the verb <i>braten</i>, to pan fry or roast.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Types_and_traditions"><span class="tocnumber">2</span> <span class="toctext">Types and traditions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Germany"><span class="tocnumber">2.1</span> <span class="toctext">Germany</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Franconian_varieties"><span class="tocnumber">2.1.1</span> <span class="toctext">Franconian varieties</span></a>
+<ul>
+<li class="toclevel-4 tocsection-5"><a href="#Fr.C3.A4nkische_Bratwurst"><span class="tocnumber">2.1.1.1</span> <span class="toctext"><i>Fränkische Bratwurst</i></span></a></li>
+<li class="toclevel-4 tocsection-6"><a href="#Coburger_Bratwurst"><span class="tocnumber">2.1.1.2</span> <span class="toctext"><i>Coburger Bratwurst</i></span></a></li>
+<li class="toclevel-4 tocsection-7"><a href="#Kulmbacher_Bratwurst"><span class="tocnumber">2.1.1.3</span> <span class="toctext"><i>Kulmbacher Bratwurst</i></span></a></li>
+<li class="toclevel-4 tocsection-8"><a href="#N.C3.BCrnberger_Rostbratwurst"><span class="tocnumber">2.1.1.4</span> <span class="toctext"><i>Nürnberger Rostbratwurst</i></span></a></li>
+<li class="toclevel-4 tocsection-9"><a href="#W.C3.BCrzburger_Bratwurst"><span class="tocnumber">2.1.1.5</span> <span class="toctext"><i>Würzburger Bratwurst</i></span></a></li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-10"><a href="#Other_varieties"><span class="tocnumber">2.1.2</span> <span class="toctext">Other varieties</span></a>
+<ul>
+<li class="toclevel-4 tocsection-11"><a href="#Th.C3.BCringer_Rostbratwurst"><span class="tocnumber">2.1.2.1</span> <span class="toctext"><i>Thüringer Rostbratwurst</i></span></a></li>
+<li class="toclevel-4 tocsection-12"><a href="#Nordhessische_Bratwurst"><span class="tocnumber">2.1.2.2</span> <span class="toctext"><i>Nordhessische Bratwurst</i></span></a></li>
+<li class="toclevel-4 tocsection-13"><a href="#Rote_Wurst"><span class="tocnumber">2.1.2.3</span> <span class="toctext"><i>Rote Wurst</i></span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-14"><a href="#United_States"><span class="tocnumber">2.2</span> <span class="toctext">United States</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bratwurst&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>While sausage recipes can be found as early as 228 AD, the first documented evidence of the <i>Bratwurst</i> in Germany dates back to 1313, and can be found in the Franconian city of <a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> which is still an internationally renowned center for the production of grill sausages.</p>
+<h2><span class="mw-headline" id="Types_and_traditions">Types and traditions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bratwurst&amp;action=edit&amp;section=2" title="Edit section: Types and traditions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Germany">Germany</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bratwurst&amp;action=edit&amp;section=3" title="Edit section: Germany">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Recipes for the sausage vary by region and even locality; some sources list over 40 different varieties of <a href="/wiki/German_cuisine" title="German cuisine">German</a> bratwurst,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-autogenerated1_5-0" class="reference"><a href="#cite_note-autogenerated1-5">[5]</a></sup> many of the best known originating in <a href="/wiki/Franconia" title="Franconia">Franconia</a> (today for the most part situated in northern <a href="/wiki/Bavaria" title="Bavaria">Bavaria</a>, but still culturally quite distinct), its northern neighbour <a href="/wiki/Thuringia" title="Thuringia">Thuringia</a> and adjacent areas. How the sausages are served is also locally different, but most commonly they are regarded as a snack served with or in a white <a href="/wiki/Bread_roll" title="Bread roll">bread roll</a> made from <a href="/wiki/Wheat" title="Wheat">wheat</a> flour and eaten with <a href="/wiki/Mustard_(condiment)" title="Mustard (condiment)">mustard</a>. As a pub dish, it is often accompanied by <a href="/wiki/Sauerkraut" title="Sauerkraut">sauerkraut</a> or <a href="/wiki/Potato_salad" title="Potato salad">potato salad</a> and sometimes served with dark, crusty country bread made predominantly from <a href="/wiki/Rye" title="Rye">rye</a> flour, less commonly with a <i>Brezel</i> (<a href="/wiki/Pretzel" title="Pretzel">pretzel</a>). It is a very popular form of <a href="/wiki/Fast_food" title="Fast food">fast food</a> in German-speaking countries, often cooked and sold by street vendors from small stands.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:%E5%BE%B7%E5%9C%8B%E6%B2%B9%E7%85%8E%E9%A6%99%E8%85%B8Bratwurst.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%E5%BE%B7%E5%9C%8B%E6%B2%B9%E7%85%8E%E9%A6%99%E8%85%B8Bratwurst.jpg/220px-%E5%BE%B7%E5%9C%8B%E6%B2%B9%E7%85%8E%E9%A6%99%E8%85%B8Bratwurst.jpg" width="220" height="130" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%E5%BE%B7%E5%9C%8B%E6%B2%B9%E7%85%8E%E9%A6%99%E8%85%B8Bratwurst.jpg/330px-%E5%BE%B7%E5%9C%8B%E6%B2%B9%E7%85%8E%E9%A6%99%E8%85%B8Bratwurst.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%E5%BE%B7%E5%9C%8B%E6%B2%B9%E7%85%8E%E9%A6%99%E8%85%B8Bratwurst.jpg/440px-%E5%BE%B7%E5%9C%8B%E6%B2%B9%E7%85%8E%E9%A6%99%E8%85%B8Bratwurst.jpg 2x" data-file-width="1511" data-file-height="892" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:%E5%BE%B7%E5%9C%8B%E6%B2%B9%E7%85%8E%E9%A6%99%E8%85%B8Bratwurst.jpg" class="internal" title="Enlarge"></a></div>
+Bratwurst as traditional German <a href="/wiki/Fast_food" title="Fast food">fast food</a> in <a href="/wiki/M%C3%BCnster" title="Münster">Münster</a></div>
+</div>
+</div>
+<h4><span class="mw-headline" id="Franconian_varieties">Franconian varieties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bratwurst&amp;action=edit&amp;section=4" title="Edit section: Franconian varieties">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<h5><span id="Fränkische_Bratwurst"></span><span class="mw-headline" id="Fr.C3.A4nkische_Bratwurst"><i>Fränkische Bratwurst</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bratwurst&amp;action=edit&amp;section=5" title="Edit section: Fränkische Bratwurst">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:2010.08.22.143425_N%C3%BCrnberger_Rostbratwurst_Kirwa_Sulzbach-Rosenberg.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/2010.08.22.143425_N%C3%BCrnberger_Rostbratwurst_Kirwa_Sulzbach-Rosenberg.jpg/220px-2010.08.22.143425_N%C3%BCrnberger_Rostbratwurst_Kirwa_Sulzbach-Rosenberg.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/2010.08.22.143425_N%C3%BCrnberger_Rostbratwurst_Kirwa_Sulzbach-Rosenberg.jpg/330px-2010.08.22.143425_N%C3%BCrnberger_Rostbratwurst_Kirwa_Sulzbach-Rosenberg.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/2010.08.22.143425_N%C3%BCrnberger_Rostbratwurst_Kirwa_Sulzbach-Rosenberg.jpg/440px-2010.08.22.143425_N%C3%BCrnberger_Rostbratwurst_Kirwa_Sulzbach-Rosenberg.jpg 2x" data-file-width="1920" data-file-height="1280" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:2010.08.22.143425_N%C3%BCrnberger_Rostbratwurst_Kirwa_Sulzbach-Rosenberg.jpg" class="internal" title="Enlarge"></a></div>
+<i>Fränkische Bratwurst</i></div>
+</div>
+</div>
+<p>The Franconian sausage is a relatively long (10–20&#160;cm&#160;[3.9–7.9&#160;in]), thick, coarse sausage, common to the whole Franconian region with slight variations. It dates back to 1313.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2013)">citation needed</span></a></i>]</sup> With <a href="/wiki/Marjoram" title="Marjoram">marjoram</a> as a characteristic ingredient, it is close in taste to the <i>Nürnberger Bratwurst</i> but juicier, due to its size and coarseness. The <i>Fränkische Bratwurst</i> is traditionally served with sauerkraut or potato salad, but with no mustard—although many customers<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Accuracy_dispute#Disputed_statement" title="Wikipedia:Accuracy dispute"><span title="The material near this tag is possibly inaccurate or nonfactual. (April 2016)">dubious</span></a> <span class="metadata">– <a href="/wiki/Talk:Bratwurst#Dubious" title="Talk:Bratwurst">discuss</a></span></i>]</sup> disregard this tradition and demand plenty of it.</p>
+<h5><span class="mw-headline" id="Coburger_Bratwurst"><i>Coburger Bratwurst</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bratwurst&amp;action=edit&amp;section=6" title="Edit section: Coburger Bratwurst">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<p><i>Bratwurst</i> originating in the city of <a href="/wiki/Coburg" title="Coburg">Coburg</a> in Franconia was first documented there in 1498.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> It is made from a minimum of 15% veal or beef, and its seasonings include only salt, pepper, nutmeg, and lemon zest. It is coarse in texture and measures about 25&#160;cm (9.8&#160;in) in length. Traditionally, it is grilled over pinecones and served in a bread roll (<i>Brötchen</i>).</p>
+<h5><span class="mw-headline" id="Kulmbacher_Bratwurst"><i>Kulmbacher Bratwurst</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bratwurst&amp;action=edit&amp;section=7" title="Edit section: Kulmbacher Bratwurst">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<p>The <i>Kulmbacher Bratwurst</i> is a fine-grained Rohwurst from the city of <a href="/wiki/Kulmbach" title="Kulmbach">Kulmbach</a> in <a href="/wiki/Upper_Franconia" title="Upper Franconia">Upper Franconia</a>. Long and thin, it is made mostly from very finely ground veal, with very little pork. This sausage may be seasoned with salt, white pepper, nutmeg, lemon peel, marjoram, caraway, and garlic. The exact mixture is a closely guarded trade secret of each butcher. Kulmbacher bratwursts are usually pan fried or grilled over a wood fire. They are sold and served freshly grilled from vendors' stands in the Marktplatz, in pairs, with or without mustard, on crusty rolls sprinkled with anise.</p>
+<h5><span id="Nürnberger_Rostbratwurst"></span><span class="mw-headline" id="N.C3.BCrnberger_Rostbratwurst"><i>Nürnberger Rostbratwurst</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bratwurst&amp;action=edit&amp;section=8" title="Edit section: Nürnberger Rostbratwurst">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Bratwurst_Gl%C3%B6ckl.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Bratwurst_Gl%C3%B6ckl.jpg/220px-Bratwurst_Gl%C3%B6ckl.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Bratwurst_Gl%C3%B6ckl.jpg/330px-Bratwurst_Gl%C3%B6ckl.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Bratwurst_Gl%C3%B6ckl.jpg/440px-Bratwurst_Gl%C3%B6ckl.jpg 2x" data-file-width="2816" data-file-height="2112" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Bratwurst_Gl%C3%B6ckl.jpg" class="internal" title="Enlarge"></a></div>
+<i>Nürnberger Bratwurst</i> with sauerkraut and mustard, as served in the <i>Nürnberger Bratwurst Glöckl</i> in <a href="/wiki/Munich" title="Munich">Munich</a></div>
+</div>
+</div>
+<p>The small, thin bratwurst from Franconia's largest city, Nuremberg, was first documented in 1567; it is surprisingly small, being only 7 to 9&#160;cm (2.8 to 3.5&#160;in) in length and weighing between 20 and 25 g. The denominations <i>Nürnberger Bratwurst</i> and <i>Nürnberger Rostbratwurst</i> (<i>Rost</i> refers to the cooking grate above the flames) are <a href="/wiki/Protected_Geographical_Status" class="mw-redirect" title="Protected Geographical Status">Protected Geographical Indications (PGI)</a> under EU law since 2003,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> and may therefore only be produced in the city of Nürnberg, where an "Association for the Protection of <i>Nürnberger Bratwürste</i>" was established in 1997.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<p><a href="/wiki/Pork" title="Pork">Pork</a>-based and typically seasoned with fresh marjoram which gives them their distinctive flavour, these sausages are traditionally grilled over a beechwood fire. As a main dish, they are served in sets of six, eight, 10 or 12 on a <a href="/wiki/Pewter" title="Pewter">pewter</a> plate (round but also frequently heart- or bell-shaped) with either sauerkraut or potato salad, and accompanied by a dollop of horseradish or mustard. They are also sold as a snack by street vendors as <i>Drei im Weckla</i> (three in a bun; the spelling <i>Drei im Weggla</i> is also common, <i>Weggla</i>/<i>Weckla</i> being the word for "bread roll" in the Nuremberg dialect), with mustard being offered to spice them up to personal taste.</p>
+<p>A particular way of preparing Nuremberg sausages without grilling them is to cook them in a spiced vinegar and onion stock; this variety is called <a href="/wiki/Saure_Zipfel" title="Saure Zipfel"><i>Blaue Zipfel</i></a> (blue lobes).</p>
+<ul class="gallery mw-gallery-traditional center">
+<li class="gallerybox" style="width: 235px">
+<div style="width: 235px">
+<div class="thumb" style="width: 230px;">
+<div style="margin:36px auto;"><a href="/wiki/File:N%C3%BCrnberger_Rostbratw%C3%BCrste.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/N%C3%BCrnberger_Rostbratw%C3%BCrste.JPG/200px-N%C3%BCrnberger_Rostbratw%C3%BCrste.JPG" width="200" height="133" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/N%C3%BCrnberger_Rostbratw%C3%BCrste.JPG/300px-N%C3%BCrnberger_Rostbratw%C3%BCrste.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/90/N%C3%BCrnberger_Rostbratw%C3%BCrste.JPG/400px-N%C3%BCrnberger_Rostbratw%C3%BCrste.JPG 2x" data-file-width="4288" data-file-height="2848" /></a></div>
+</div>
+<div class="gallerytext">
+<p><i>Nürnberger Rostbratwurst</i></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 235px">
+<div style="width: 235px">
+<div class="thumb" style="width: 230px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Drei_im_Weggla.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Drei_im_Weggla.jpg/178px-Drei_im_Weggla.jpg" width="178" height="175" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Drei_im_Weggla.jpg/267px-Drei_im_Weggla.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Drei_im_Weggla.jpg/356px-Drei_im_Weggla.jpg 2x" data-file-width="1388" data-file-height="1366" /></a></div>
+</div>
+<div class="gallerytext">
+<p><i>Drei im Weggla</i></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 235px">
+<div style="width: 235px">
+<div class="thumb" style="width: 230px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Blaue_Zipfel.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Blaue_Zipfel.jpg/190px-Blaue_Zipfel.jpg" width="190" height="175" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Blaue_Zipfel.jpg/285px-Blaue_Zipfel.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Blaue_Zipfel.jpg/379px-Blaue_Zipfel.jpg 2x" data-file-width="2220" data-file-height="2048" /></a></div>
+</div>
+<div class="gallerytext">
+<p><i>Blaue Zipfel mit Brezel</i></p>
+</div>
+</div>
+</li>
+</ul>
+<h5><span id="Würzburger_Bratwurst"></span><span class="mw-headline" id="W.C3.BCrzburger_Bratwurst"><i>Würzburger Bratwurst</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bratwurst&amp;action=edit&amp;section=9" title="Edit section: Würzburger Bratwurst">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<p>The <i>Würzburger Bratwurst</i>, also known as the <i>Winzerbratwurst</i>, comes from the city of <a href="/wiki/W%C3%BCrzburg" title="Würzburg">Würzburg</a> in Franconia. Its size is similar to the <i>Thüringer Rostbratwurst</i>, but its ingredients include white <a href="/wiki/Franconia_(wine_region)" title="Franconia (wine region)">Franken-Wine</a>.</p>
+<h4><span class="mw-headline" id="Other_varieties">Other varieties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bratwurst&amp;action=edit&amp;section=10" title="Edit section: Other varieties">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<h5><span id="Thüringer_Rostbratwurst"></span><span class="mw-headline" id="Th.C3.BCringer_Rostbratwurst"><i>Thüringer Rostbratwurst</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bratwurst&amp;action=edit&amp;section=11" title="Edit section: Thüringer Rostbratwurst">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Rostbrater.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Rostbrater.JPG/220px-Rostbrater.JPG" width="220" height="268" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Rostbrater.JPG/330px-Rostbrater.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/b/bf/Rostbrater.JPG 2x" data-file-width="400" data-file-height="488" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Rostbrater.JPG" class="internal" title="Enlarge"></a></div>
+<i>Thüringer Rostbratwürste</i></div>
+</div>
+</div>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Thuringian_sausage" title="Thuringian sausage">Thuringian sausage</a></div>
+<p>The <i>Thüringer Rostbratwurst</i> is a spicy sausage from <a href="/wiki/Thuringia" title="Thuringia">Thuringia</a>. It is 15–20&#160;cm (5.9–7.9&#160;in) long and thin in shape, traditionally grilled over a charcoal fire and eaten with mustard and bread. The name <i>Thüringer Rostbratwurst</i> is also recognised as a PGI under EU law.</p>
+<p>Triggered by the discovery in 2000 of an account entry of 1404 first mentioning the <i>Bratwurst</i> in Thuringia in the town of <a href="/wiki/Arnstadt" title="Arnstadt">Arnstadt</a>, the association "Friends of the <i>Thuringian Bratwurst</i>" was founded in 2006. In the same year, the association established the <i>Erstes Deutsches Bratwurstmuseum</i> (First German Bratwurst Museum) in the village of <a href="/wiki/Wachsenburggemeinde" title="Wachsenburggemeinde">Holzhausen</a>. A two-metre-high wooden monument of a <i>Bratwurst</i> in a bun on a local traffic roundabout advertises the museum.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<ul class="gallery mw-gallery-traditional center">
+<li class="gallerybox" style="width: 210px">
+<div style="width: 210px">
+<div class="thumb" style="width: 205px;">
+<div style="margin:37px auto;"><a href="/wiki/File:Rostbratwurstbrot.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Rostbratwurstbrot.png/175px-Rostbratwurstbrot.png" width="175" height="131" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Rostbratwurstbrot.png/263px-Rostbratwurstbrot.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/25/Rostbratwurstbrot.png/350px-Rostbratwurstbrot.png 2x" data-file-width="3648" data-file-height="2736" /></a></div>
+</div>
+<div class="gallerytext">
+<p><i>Thüringer Rostbratwurst</i> in a bun with mustard</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 210px">
+<div style="width: 210px">
+<div class="thumb" style="width: 205px;">
+<div style="margin:37px auto;"><a href="/wiki/File:Th%C3%BCringer_Rostbratwurst.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Th%C3%BCringer_Rostbratwurst.jpg/175px-Th%C3%BCringer_Rostbratwurst.jpg" width="175" height="131" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Th%C3%BCringer_Rostbratwurst.jpg/263px-Th%C3%BCringer_Rostbratwurst.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Th%C3%BCringer_Rostbratwurst.jpg/350px-Th%C3%BCringer_Rostbratwurst.jpg 2x" data-file-width="3072" data-file-height="2304" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Close-up of <i>Thüringer Rostbratwurst</i></p>
+</div>
+</div>
+</li>
+</ul>
+<h5><span class="mw-headline" id="Nordhessische_Bratwurst"><i>Nordhessische Bratwurst</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bratwurst&amp;action=edit&amp;section=12" title="Edit section: Nordhessische Bratwurst">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<p>The <i>Nordhessische Bratwurst</i> (from northern <a href="/wiki/Hessen" class="mw-redirect" title="Hessen">Hessen</a>) is similar to the <i>Thüringer Rostbratwurst</i> in taste. It is made from coarsely ground pork and is heavily seasoned. It measures around 20&#160;cm (7.9&#160;in) in length. Traditionally, it is grilled over a wood fire and served on a cut-open roll with mustard.</p>
+<h5><span class="mw-headline" id="Rote_Wurst"><i>Rote Wurst</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bratwurst&amp;action=edit&amp;section=13" title="Edit section: Rote Wurst">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Rote_Bratw%C3%BCrste_auf_einem_Grillrost.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Rote_Bratw%C3%BCrste_auf_einem_Grillrost.JPG/220px-Rote_Bratw%C3%BCrste_auf_einem_Grillrost.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Rote_Bratw%C3%BCrste_auf_einem_Grillrost.JPG/330px-Rote_Bratw%C3%BCrste_auf_einem_Grillrost.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Rote_Bratw%C3%BCrste_auf_einem_Grillrost.JPG/440px-Rote_Bratw%C3%BCrste_auf_einem_Grillrost.JPG 2x" data-file-width="3648" data-file-height="2736" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Rote_Bratw%C3%BCrste_auf_einem_Grillrost.JPG" class="internal" title="Enlarge"></a></div>
+<i>Rote Wurst</i></div>
+</div>
+</div>
+<p>The <i>Rote Wurst</i> (red sausage) is a favorite <i>Bratwurst</i> of the <a href="/wiki/Swabia" title="Swabia">Swabian</a> region. It is similar to the <i><a href="/wiki/Bockwurst" title="Bockwurst">Bockwurst</a></i>, and is made from finely ground pork and bacon. Its taste is spicy. To prevent splitting during grilling or pan frying, an X is cut into the ends of the sausage. The ends open during cooking, but the rest of the sausage remains intact, giving it its traditional shape.</p>
+<p>Another variant is making a row of x-shaped cuts along its length.</p>
+<h3><span class="mw-headline" id="United_States">United States</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bratwurst&amp;action=edit&amp;section=14" title="Edit section: United States">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Bratwurst, often shortened to "brat" in <a href="/wiki/American_English" title="American English">American English</a>, is a common type of sausage in the <a href="/wiki/United_States" title="United States">United States</a>, especially in the state of <a href="/wiki/Wisconsin" title="Wisconsin">Wisconsin</a>, where the largest ancestry group is German.<sup id="cite_ref-census.gov_10-0" class="reference"><a href="#cite_note-census.gov-10">[10]</a></sup> Originally brought to North America by German immigrants, it is a common sight at summer cookouts, alongside the more famous hot dog. Wisconsin is also the origin of the "beer brat", a regional favorite where the bratwurst are simmered in beer (generally a mixture of a pilsner style beer with butter and onions) prior to grilling over charcoal.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<p>Bratwurst was popularized in <a href="/wiki/Sheboygan_County,_Wisconsin" title="Sheboygan County, Wisconsin">Sheboygan County, Wisconsin</a> in the 1920s. In general, each local butcher shop would take orders and hand make bratwurst fresh to be picked up on a particular day. The fat content of the sausages was substantial, making daily pick up necessary to avoid spoilage. Some of the fat is removed as a result of the cooking over charcoal.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<p>Bratwurst has also become popular as a mainstay of sports stadiums, especially baseball parks, after Bill Sperling introduced bratwurst to <a href="/wiki/Major_League_Baseball" title="Major League Baseball">Major League Baseball</a> in <a href="/wiki/Milwaukee_County_Stadium" title="Milwaukee County Stadium">Milwaukee County Stadium</a> in 1954. The brats, which sold for 35 cents then, were grilled and placed into a container of a special tomato sauce before being served.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> The bratwurst were such a hit, Sperling said, that <a href="/wiki/Duke_Snider" title="Duke Snider">Duke Snider</a> of the <a href="/wiki/History_of_the_Brooklyn_Dodgers" title="History of the Brooklyn Dodgers">Brooklyn Dodgers</a> took a case back to New York.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> <a href="/wiki/Miller_Park_(Milwaukee)" title="Miller Park (Milwaukee)">Miller Park</a> in <a href="/wiki/Milwaukee" title="Milwaukee">Milwaukee</a> sells more bratwurst than hot dogs.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p>
+<p>Every year, during the <a href="/wiki/Memorial_Day" title="Memorial Day">Memorial Day</a> weekend, the city of <a href="/wiki/Madison,_Wisconsin" title="Madison, Wisconsin">Madison, Wisconsin</a> hosts the <a href="/wiki/Brat_Fest" title="Brat Fest">Brat Fest</a>, which is billed as the "world's largest bratwurst festival."</p>
+<p>The town of <a href="/wiki/Bucyrus,_Ohio" title="Bucyrus, Ohio">Bucyrus, Ohio</a> (which calls itself the "Bratwurst Capital of America") has held the three-day Bucyrus Bratwurst Festival annually since 1967.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bratwurst&amp;action=edit&amp;section=15" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Foodlogo2.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Foodlogo2.svg/32px-Foodlogo2.svg.png" width="32" height="23" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Foodlogo2.svg/48px-Foodlogo2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Foodlogo2.svg/64px-Foodlogo2.svg.png 2x" data-file-width="146" data-file-height="106" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Food" title="Portal:Food">Food portal</a></span></li>
+</ul>
+</div>
+<div class="div-col columns column-width" style="-moz-column-width: 20em; -webkit-column-width: 20em; column-width: 20em;">
+<ul>
+<li><a href="/wiki/Blood_sausage" title="Blood sausage">Blood sausage</a></li>
+<li><a href="/wiki/Braadworst" class="mw-redirect" title="Braadworst">Braadworst</a></li>
+<li><a href="/wiki/Currywurst" title="Currywurst">Currywurst</a></li>
+<li><a href="/wiki/Hot_dog" title="Hot dog">Hot dog</a></li>
+<li><a href="/wiki/Knackwurst" title="Knackwurst">Knackwurst</a></li>
+<li><a href="/wiki/List_of_sandwiches" title="List of sandwiches">List of sandwiches</a></li>
+<li><a href="/wiki/List_of_sausage_dishes" title="List of sausage dishes">List of sausage dishes</a></li>
+<li><a href="/wiki/List_of_sausages" title="List of sausages">List of sausages</a></li>
+<li><a href="/wiki/Sausage_Race" title="Sausage Race">Sausage Race</a></li>
+<li><a href="/wiki/Wurst_mart" class="mw-redirect" title="Wurst mart">Wurst mart</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bratwurst&amp;action=edit&amp;section=16" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://dict.leo.org/ende?lp=ende&amp;search=braten">"LEO Deutsch-Englisch Wörterbuch"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-04-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABratwurst&amp;rft.btitle=LEO+Deutsch-Englisch+W%C3%B6rterbuch&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdict.leo.org%2Fende%3Flp%3Dende%26search%3Dbraten&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation news">Tjiang, Thomas (2013-09-13). <a rel="nofollow" class="external text" href="https://www.welt.de/regionales/muenchen/article119983539/Nuernberger-Bratwurst-Klassiker-wird-700-Jahre-alt.html">"Nürnberger Bratwurst-Klassiker wird 700 Jahre alt"</a>. <i>Welt Online</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-09-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABratwurst&amp;rft.atitle=N%C3%BCrnberger+Bratwurst-Klassiker+wird+700+Jahre+alt&amp;rft.aufirst=Thomas&amp;rft.aulast=Tjiang&amp;rft.date=2013-09-13&amp;rft.genre=article&amp;rft.jtitle=Welt+Online&amp;rft_id=https%3A%2F%2Fwww.welt.de%2Fregionales%2Fmuenchen%2Farticle119983539%2FNuernberger-Bratwurst-Klassiker-wird-700-Jahre-alt.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.tagesspiegel.de/weltspiegel/geschichte-der-bratwurst-neue-historische-quelle-ruft-streit-zwischen-thueringern-und-franken-hervor/153812.html">"Geschichte der Bratwurst: Neue historische Quelle ruft Streit zwischen Thüringern und Franken hervor"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-09-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABratwurst&amp;rft.btitle=Geschichte+der+Bratwurst%3A+Neue+historische+Quelle+ruft+Streit+zwischen+Th%C3%BCringern+und+Franken+hervor&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.tagesspiegel.de%2Fweltspiegel%2Fgeschichte-der-bratwurst-neue-historische-quelle-ruft-streit-zwischen-thueringern-und-franken-hervor%2F153812.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.germanfoodguide.com/bratwurst.cfm">German Food Guide</a></span></li>
+<li id="cite_note-autogenerated1-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-autogenerated1_5-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Whitlock, Craig (2007-12-02). "Germans Take Pride in the Wurst". The Washington Post.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABratwurst&amp;rft.atitle=Germans+Take+Pride+in+the+Wurst&amp;rft.aufirst=Craig&amp;rft.aulast=Whitlock&amp;rft.date=2007-12-02&amp;rft.genre=article&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.bratwurstmuseum.de/geschichte.html"><i>1. Deutsches Bratwurstmuseum</i> — History of the Bratwurst</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R1257:EN:NOT">"Commission of the European Commission Regulation (EC) No 1257/2003"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-04-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABratwurst&amp;rft.btitle=Commission+of+the+European+Commission+Regulation+%28EC%29+No+1257%2F2003&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Feur-lex.europa.eu%2FLexUriServ%2FLexUriServ.do%3Furi%3DCELEX%3A32003R1257%3AEN%3ANOT&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nuernberger-bratwuerste.de/EN/index.php?m=Association&amp;um=">Schutzverband Nürnberger Bratwürste e.V.</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bratwurstmuseum.de/geschichte.html">"Geschichte der Bratwurst - Bratwurstmuseum Holzhausen / Verein "Freunde der Thüringer Bratwurst e.V.<span style="padding-right:0.2em;">"</span>"</a>. <i>www.bratwurstmuseum.de</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-09-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABratwurst&amp;rft.atitle=Geschichte+der+Bratwurst+-+Bratwurstmuseum+Holzhausen+%2F+Verein+%22Freunde+der+Th%C3%BCringer+Bratwurst+e.V.%22&amp;rft.genre=unknown&amp;rft.jtitle=www.bratwurstmuseum.de&amp;rft_id=http%3A%2F%2Fwww.bratwurstmuseum.de%2Fgeschichte.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-census.gov-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-census.gov_10-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.census.gov/prod/2004pubs/c2kbr-35.pdf">"Ancestry: 2000," U.S. Census Bureau</a></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.jamesandeverett.com/2012/05/26/wisconsin-style-beer-brats/">"Wisconsin Style Beer Brats"</a>, <i>James and Everett</i>, May 26, 2012. Retrieved May 21, 2016.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">R. W. Apple, Jr. "<a rel="nofollow" class="external text" href="https://www.nytimes.com/2002/06/05/dining/the-meat-that-made-sheboygan-famous.html">The Meat That Made Sheboygan Famous</a>", <i>The New York Times</i>, June 5, 2002. Retrieved July 14, 2014.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://news.google.com/newspapers?nid=1368&amp;dat=19880601&amp;id=EN4VAAAAIBAJ&amp;sjid=oRIEAAAAIBAJ&amp;pg=5461,128644">The Milwaukee Sentinel - Google News Archive Search</a></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.madison.com/archives/read.php?ref=/tct/2006/01/03/0601030319.php">madison.com</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.jsonline.com/business/29400524.html">At Miller Park, more sausages than hot dogs are sold</a></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation news">Fenton, Laura (August 19, 2005). <a rel="nofollow" class="external text" href="http://www.msnbc.msn.com/id/9005587">"What!? I can get this stuff for how much?"</a>. <i>Today at msnbc</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-10-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABratwurst&amp;rft.atitle=What%21%3F+I+can+get+this+stuff+for+how+much%3F&amp;rft.aufirst=Laura&amp;rft.aulast=Fenton&amp;rft.date=2005-08-19&amp;rft.genre=article&amp;rft.jtitle=Today+at+msnbc&amp;rft_id=http%3A%2F%2Fwww.msnbc.msn.com%2Fid%2F9005587&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://consumer.discoverohio.com">"Discover Ohio"</a>. <i>Ohio Department of Development, Division of Tourism</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-02-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABratwurst&amp;rft.atitle=Discover+Ohio&amp;rft.genre=article&amp;rft.jtitle=Ohio+Department+of+Development%2C+Division+of+Tourism&amp;rft_id=http%3A%2F%2Fconsumer.discoverohio.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bratwurst&amp;action=edit&amp;section=17" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Bratwurst" class="extiw" title="commons:Category:Bratwurst">Bratwurst</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.bratwurst-recipes.com/">Bratwurst recipes</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.graf-von-katzenelnbogen.de/bratwurst.html">600 Years Bratwurst in Katzenelnbogen</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.kitchenproject.com/german/Bratwurst/history.htm">The History of Bratwurst</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Sausage" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Sausage" title="Template:Sausage"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Sausage" title="Template talk:Sausage"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sausage&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Sausage" style="font-size:114%;margin:0 4em"><a href="/wiki/Sausage" title="Sausage">Sausage</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Overview</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Casing_(sausage)" title="Casing (sausage)">Casings</a></li>
+<li><a href="/wiki/List_of_sausages" title="List of sausages">List of sausages</a></li>
+<li><a href="/wiki/List_of_sausage_dishes" title="List of sausage dishes">List of sausage dishes</a></li>
+<li><a href="/wiki/Sausage_making" title="Sausage making">Sausage making</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="8" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Salami_aka.jpg" class="image" title="Salami"><img alt="Salami" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Salami_aka.jpg/97px-Salami_aka.jpg" width="97" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Salami_aka.jpg/146px-Salami_aka.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/Salami_aka.jpg/194px-Salami_aka.jpg 2x" data-file-width="1200" data-file-height="829" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Fresh sausage</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Kielbasa#Poland" title="Kielbasa">Biała kiełbasa</a></li>
+<li><a href="/wiki/Boerewors" title="Boerewors">Boerewors</a></li>
+<li><a href="/wiki/Boudin" title="Boudin">Boudin</a></li>
+<li><a href="/wiki/Braadworst" class="mw-redirect" title="Braadworst">Braadworst</a></li>
+<li><a class="mw-selflink selflink">Bratwurst</a></li>
+<li><a href="/wiki/Breakfast_sausage" title="Breakfast sausage">Breakfast</a></li>
+<li><a href="/wiki/Carniolan_sausage" title="Carniolan sausage">Carniolan</a></li>
+<li><a href="/wiki/Falukorv" title="Falukorv">Falukorv</a></li>
+<li><a href="/wiki/Knackwurst" title="Knackwurst">Knackwurst</a></li>
+<li><a href="/wiki/Kohlwurst" title="Kohlwurst">Kohlwurst</a></li>
+<li><a href="/wiki/Kupati" title="Kupati">Kupati</a></li>
+<li><a href="/wiki/Merguez" title="Merguez">Merguez</a></li>
+<li><a href="/wiki/Thuringian_sausage" title="Thuringian sausage">Thüringer</a></li>
+<li><a href="/wiki/Weisswurst" title="Weisswurst">Weisswurst</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Dry sausage</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Salami" title="Salami">Salami</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cacciatore" title="Cacciatore">Cacciatore</a></li>
+<li><a href="/wiki/Ciauscolo" title="Ciauscolo">Ciauscolo</a></li>
+<li><a href="/wiki/Genoa_salami" title="Genoa salami">Genoa salami</a></li>
+<li><a href="/wiki/Soppressata" title="Soppressata">Soppressata</a></li>
+<li><a href="/wiki/Prasky" title="Prasky">Prasky</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chinese_sausage" title="Chinese sausage">Chinese</a></li>
+<li><a href="/wiki/Chorizo" title="Chorizo">Chorizo</a></li>
+<li><a href="/wiki/Fuet" title="Fuet">Fuet</a></li>
+<li><a href="/wiki/Landj%C3%A4ger" title="Landjäger">Landjäger</a></li>
+<li><a href="/wiki/Longaniza" title="Longaniza">Longaniza</a></li>
+<li><a href="/wiki/Lukanka" title="Lukanka">Lukanka</a></li>
+<li><a href="/wiki/Metworst" title="Metworst">Metworst</a></li>
+<li><a href="/wiki/Pepperoni" title="Pepperoni">Pepperoni</a></li>
+<li><a href="/wiki/Saucisson" title="Saucisson">Saucisson</a></li>
+<li><a href="/wiki/Sobrassada" title="Sobrassada">Sobrassada</a></li>
+<li><a href="/wiki/Sujuk" title="Sujuk">Sujuk</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Smoked sausage</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Andouille" title="Andouille">Andouille</a></li>
+<li><a href="/wiki/Hungarian_sausages" title="Hungarian sausages">Kolbász</a></li>
+<li><a href="/wiki/Krakowska" title="Krakowska">Krakowska</a></li>
+<li><a href="/wiki/Kulen" title="Kulen">Kulen</a></li>
+<li><a href="/wiki/Lebanon_bologna" title="Lebanon bologna">Lebanon bologna</a></li>
+<li><a href="/wiki/Lingui%C3%A7a" title="Linguiça">Linguiça</a></li>
+<li><a href="/wiki/Morteau_sausage" title="Morteau sausage">Morteau</a></li>
+<li><a href="/wiki/Rookworst" title="Rookworst">Rookworst</a></li>
+<li><a href="/wiki/Skilandis" title="Skilandis">Skilandis</a></li>
+<li><a href="/wiki/Teewurst" title="Teewurst">Teewurst</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Cooked sausage</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Battered_sausage" title="Battered sausage">Battered</a></li>
+<li><a href="/wiki/Bologna_sausage" title="Bologna sausage">Bologna</a></li>
+<li><a href="/wiki/Botifarra" title="Botifarra">Botifarra</a></li>
+<li><a class="mw-selflink selflink">Bratwurst</a></li>
+<li><a href="/wiki/Braunschweiger_(sausage)" title="Braunschweiger (sausage)">Braunschweiger</a></li>
+<li><a href="/wiki/Br%C3%BChwurst" title="Brühwurst">Brühwurst</a></li>
+<li><a href="/wiki/Cervelat" title="Cervelat">Cervelat</a></li>
+<li><a href="/wiki/Cumberland_sausage" title="Cumberland sausage">Cumberland</a></li>
+<li><a href="/wiki/Gelbwurst" title="Gelbwurst">Gelbwurst</a></li>
+<li><a href="/wiki/Hot_dog" title="Hot dog">Hot dog</a>
+<ul>
+<li><a href="/wiki/Hot_dog_variations" title="Hot dog variations">variations</a></li>
+<li><a href="/wiki/Vegetarian_hot_dog" title="Vegetarian hot dog">vegetarian</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Italian_sausage" title="Italian sausage">Italian</a></li>
+<li><a href="/wiki/Lincolnshire_sausage" title="Lincolnshire sausage">Lincolnshire</a></li>
+<li><a href="/wiki/Mortadella" title="Mortadella">Mortadella</a></li>
+<li><a href="/wiki/Saveloy" title="Saveloy">Saveloy</a></li>
+<li><a href="/wiki/Vienna_sausage" title="Vienna sausage">Vienna</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Cooked smoked<br />
+sausage</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bierwurst" title="Bierwurst">Bierwurst</a></li>
+<li><a href="/wiki/Bockwurst" title="Bockwurst">Bockwurst</a></li>
+<li><a href="/wiki/Cabanossi" title="Cabanossi">Cabanossi</a> / <a href="/wiki/Kabanos" title="Kabanos">Kabanos</a></li>
+<li><a href="/wiki/Kielbasa" title="Kielbasa">Kielbasa</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Precooked<br />
+sausage</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Black_pudding" title="Black pudding">Black pudding</a></li>
+<li><a href="/wiki/Blood_sausage" title="Blood sausage">Blood sausage</a></li>
+<li><a href="/wiki/Boudin" title="Boudin">Boudin</a></li>
+<li><a href="/wiki/Goetta" title="Goetta">Goetta</a></li>
+<li><a href="/wiki/Haggis" title="Haggis">Haggis</a></li>
+<li><a href="/wiki/Head_cheese" title="Head cheese">Head cheese</a></li>
+<li><a href="/wiki/Kaszanka" title="Kaszanka">Kaszanka</a></li>
+<li><a href="/wiki/Kishka_(food)" title="Kishka (food)">Kishka</a></li>
+<li><a href="/wiki/Knipp" title="Knipp">Knipp</a></li>
+<li><a href="/wiki/Kochwurst" title="Kochwurst">Kochwurst</a></li>
+<li><a href="/wiki/Liverwurst" title="Liverwurst">Liverwurst</a></li>
+<li><a href="/wiki/Pinkel" title="Pinkel">Pinkel</a></li>
+<li><a href="/wiki/Salceson" title="Salceson">Salceson</a></li>
+<li><a href="/wiki/Stippgr%C3%BCtze" title="Stippgrütze">Stippgrütze</a></li>
+<li><a href="/wiki/Sundae_(Korean_food)" title="Sundae (Korean food)">Sundae</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Related articles</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Charcuterie" title="Charcuterie">Charcuterie</a></li>
+<li><a href="/wiki/Dried_meat" title="Dried meat">Dried meat</a></li>
+<li><a href="/wiki/List_of_dried_foods" title="List of dried foods">List of dried foods</a></li>
+<li><a href="/wiki/List_of_embutidos" class="mw-redirect" title="List of embutidos">List of embutidos</a></li>
+<li><a href="/wiki/List_of_smoked_foods" title="List of smoked foods">List of smoked foods</a></li>
+<li><a href="/wiki/Lunch_meat" title="Lunch meat">Lunch meat</a></li>
+<li><a href="/wiki/P%C3%A2t%C3%A9" title="Pâté">Pâté</a></li>
+<li><a href="/wiki/Salumi" title="Salumi">Salumi</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Street_food" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Street_food" title="Template:Street food"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Street_food" title="Template talk:Street food"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Street_food&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Street_food" style="font-size:114%;margin:0 4em"><a href="/wiki/Street_food" title="Street food">Street food</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Street foods</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Acaraj%C3%A9" title="Acarajé">Acarajé</a></li>
+<li><a href="/wiki/Aloo_chaat" title="Aloo chaat">Aloo chaat</a></li>
+<li><a href="/wiki/Aloo_tikki" title="Aloo tikki">Aloo tikki</a></li>
+<li><a href="/wiki/Anticucho" title="Anticucho">Anticucho</a></li>
+<li><a href="/wiki/Apam_balik" title="Apam balik">Apam balik</a></li>
+<li><a href="/wiki/Arancini" title="Arancini">Arancini</a></li>
+<li><a href="/wiki/Arepa" title="Arepa">Arepa</a></li>
+<li><a href="/wiki/Asinan" title="Asinan">Asinan</a></li>
+<li><a href="/wiki/Bagel" title="Bagel">Bagel</a></li>
+<li><a href="/wiki/Bakpau" title="Bakpau">Bakpau</a></li>
+<li><a href="/wiki/Bakso" title="Bakso">Bakso</a></li>
+<li><a href="/wiki/Banana_cue" title="Banana cue">Banana cue</a></li>
+<li><a href="/wiki/B%C3%A1nh_canh" title="Bánh canh">Bánh canh</a></li>
+<li><a href="/wiki/B%C3%A1nh_h%E1%BB%8Fi" title="Bánh hỏi">Bánh hỏi</a></li>
+<li><a href="/wiki/B%C3%A1nh_m%C3%AC" title="Bánh mì">Bánh mì sandwich</a></li>
+<li><a href="/wiki/B%C3%A1nh_x%C3%A8o" title="Bánh xèo">Bánh xèo</a></li>
+<li><a href="/wiki/Batagor" title="Batagor">Batagor</a></li>
+<li><a href="/wiki/Beguni" title="Beguni">Beguni</a></li>
+<li><a href="/wiki/Belgian_waffle" title="Belgian waffle">Belgian waffle</a></li>
+<li><a href="/wiki/Beondegi" title="Beondegi">Beondegi</a></li>
+<li><a href="/wiki/Bhelpuri" title="Bhelpuri">Bhelpuri</a></li>
+<li><a href="/wiki/Binaki" title="Binaki">Binaki</a></li>
+<li><a href="/wiki/Biryani" title="Biryani">Biryani</a></li>
+<li><a href="/wiki/B%C3%B6rek#Greek_bour.C3.A9ki.2C_bourek.C3.A1ki.2C_bougatsa.2C_and_pita" title="Börek">Bourekas</a></li>
+<li><a class="mw-selflink selflink">Bratwurst</a></li>
+<li><a href="/wiki/Brochette" title="Brochette">Brochette</a></li>
+<li><a href="/wiki/Bublik" title="Bublik">Bublik</a></li>
+<li><a href="/wiki/Bubur_ayam" title="Bubur ayam">Bubur ayam</a></li>
+<li><a href="/wiki/Bun_cha" title="Bun cha">Bun cha</a></li>
+<li><a href="/wiki/Bungeo-ppang" title="Bungeo-ppang">Bungeo-ppang</a></li>
+<li><a href="/wiki/Bunny_chow" title="Bunny chow">Bunny chow</a></li>
+<li><a href="/wiki/Burrito" title="Burrito">Burrito</a>
+<ul>
+<li><a href="/wiki/Breakfast_burrito" title="Breakfast burrito">Breakfast burrito</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Calzone" title="Calzone">Calzone</a></li>
+<li><a href="/wiki/Camote_cue" title="Camote cue">Camote cue</a></li>
+<li><a href="/wiki/Cart_noodle" title="Cart noodle">Cart noodle</a></li>
+<li><a href="/wiki/Chaat" title="Chaat">Chaat</a></li>
+<li><a href="/wiki/Chebureki" title="Chebureki">Chebureki</a></li>
+<li><a href="/wiki/Chiko_Roll" title="Chiko Roll">Chiko Roll</a></li>
+<li><a href="/wiki/Chimichanga" title="Chimichanga">Chimichanga</a></li>
+<li><a href="/wiki/Chinese_bhel" title="Chinese bhel">Chinese bhel</a></li>
+<li><a href="/wiki/Cockle_(bivalve)" title="Cockle (bivalve)">Cockle (bivalve)</a></li>
+<li><a href="/wiki/C%C5%8Dng_y%C3%B3u_b%C7%90ng" class="mw-redirect" title="Cōng yóu bǐng">Cōng yóu bǐng</a></li>
+<li><a href="/wiki/Covrigi" title="Covrigi">Covrigi</a></li>
+<li><a href="/wiki/Coxinha" title="Coxinha">Coxinha</a></li>
+<li><a href="/wiki/Cr%C3%AApe" title="Crêpe">Crêpe</a></li>
+<li><a href="/wiki/Currywurst" title="Currywurst">Currywurst</a></li>
+<li><a href="/wiki/Dahi_puri" title="Dahi puri">Dahi puri</a></li>
+<li><a href="/wiki/Dak-kkochi" title="Dak-kkochi">Dak-kkochi</a></li>
+<li><a href="/wiki/Dim_sum" title="Dim sum">Dim sum</a></li>
+<li><a href="/wiki/Dosa" title="Dosa">Dosa</a></li>
+<li><a href="/wiki/Douhua" title="Douhua">Douhua</a></li>
+<li><a href="/wiki/Empanada" title="Empanada">Empanada</a></li>
+<li><a href="/wiki/Enchilada" title="Enchilada">Enchilada</a></li>
+<li><a href="/wiki/Esquites" title="Esquites">Esquites</a></li>
+<li><a href="/wiki/Falafel" title="Falafel">Falafel</a></li>
+<li><a href="/wiki/Farinata" title="Farinata">Farinata</a></li>
+<li><a href="/wiki/Fish_ball" title="Fish ball">Fish ball</a></li>
+<li><a href="/wiki/Focaccia" title="Focaccia">Focaccia</a></li>
+<li><a href="/wiki/French_fries" title="French fries">French fries</a></li>
+<li><a href="/wiki/Fried_chicken" title="Fried chicken">Fried chicken</a></li>
+<li><a href="/wiki/Frybread" title="Frybread">Navajo frybread</a></li>
+<li><a href="/wiki/Galette-saucisse" title="Galette-saucisse">Galette-saucisse</a></li>
+<li><a href="/wiki/Ginanggang" title="Ginanggang">Ginanggang</a></li>
+<li><a href="/wiki/Gorengan" class="mw-redirect" title="Gorengan">Gorengan</a></li>
+<li><a href="/wiki/Ghugni" title="Ghugni">Ghugni</a></li>
+<li><a href="/wiki/Gukhwappang" class="mw-redirect" title="Gukhwappang">Gukhwappang</a></li>
+<li><a href="/wiki/Gyeranppang" class="mw-redirect" title="Gyeranppang">Gyeranppang</a></li>
+<li><a href="/wiki/Gyro_(food)" title="Gyro (food)">Gyro</a></li>
+<li><a href="/wiki/Haleem" title="Haleem">Haleem</a></li>
+<li><a href="/wiki/Hot_dog" title="Hot dog">Hot dog</a></li>
+<li><a href="/wiki/Isaw" title="Isaw">Isaw</a></li>
+<li><a href="/wiki/Idli" title="Idli">Idli</a></li>
+<li><a href="/wiki/Jhalmuri" title="Jhalmuri">Jhalmuri</a></li>
+<li><a href="/wiki/Jiaozi" title="Jiaozi">Jiaozi</a></li>
+<li><a href="/wiki/Kaassouffl%C3%A9" title="Kaassoufflé">Kaassoufflé</a></li>
+<li><a href="/wiki/Kachori" title="Kachori">Kachori</a></li>
+<li><a href="/wiki/Kapsalon" title="Kapsalon">Kapsalon</a></li>
+<li><a href="/wiki/Kati_roll" title="Kati roll">Kati roll</a></li>
+<li><a href="/wiki/Kebab" title="Kebab">Kebab</a>
+<ul>
+<li><a href="/wiki/Chapli_kebab" title="Chapli kebab">Chapli kebab</a></li>
+<li><a href="/wiki/Doner_kebab" title="Doner kebab">Doner kebab</a></li>
+<li><a href="/wiki/Kyinkyinga" title="Kyinkyinga">Kyinkyinga</a></li>
+<li><a href="/wiki/Shami_kebab" title="Shami kebab">Shami kebab</a></li>
+<li><a href="/wiki/List_of_kebabs" class="mw-redirect" title="List of kebabs">List of kebabs</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Kerak_telor" title="Kerak telor">Kerak telor</a></li>
+<li><a href="/wiki/Ketoprak_(dish)" title="Ketoprak (dish)">Ketoprak</a></li>
+<li><a href="/wiki/Khachapuri" title="Khachapuri">Khachapuri</a></li>
+<li><a href="/wiki/Khanom_Tokyo" title="Khanom Tokyo">Khanom Tokyo</a></li>
+<li><a href="/wiki/Knish" title="Knish">Knish</a></li>
+<li><a href="/wiki/Laksa" title="Laksa">Laksa</a></li>
+<li><a href="/wiki/L%C3%A1ngos" title="Lángos">Lángos</a></li>
+<li><a href="/wiki/Luchi" title="Luchi">Luchi</a></li>
+<li><a href="/wiki/Malatang" title="Malatang">Malatang</a></li>
+<li><a href="/wiki/Maruya_(food)" title="Maruya (food)">Maruya</a></li>
+<li><a href="/wiki/Masala_puri" title="Masala puri">Masala puri</a></li>
+<li><a href="/wiki/Meat_pie" title="Meat pie">Meat pie</a></li>
+<li><a href="/wiki/Mie_ayam" title="Mie ayam">Mie ayam</a></li>
+<li><a href="/wiki/Murtabak" title="Murtabak">Murtabak</a></li>
+<li><a href="/wiki/Naan" title="Naan">Naan</a></li>
+<li><a href="/wiki/Nem_chua_r%C3%A1n" title="Nem chua rán">Nem chua rán</a></li>
+<li><a href="/wiki/Obwarzanek_krakowski" title="Obwarzanek krakowski">Obwarzanek krakowski</a></li>
+<li><a href="/wiki/Pad_Thai" class="mw-redirect" title="Pad Thai">Pad thai</a></li>
+<li><a href="/wiki/Pajeon" title="Pajeon">Pajeon</a></li>
+<li><a href="/wiki/Pakora" title="Pakora">Pakora</a></li>
+<li><a href="/wiki/Paneer_tikka" title="Paneer tikka">Paneer tikka</a></li>
+<li><a href="/wiki/Pani_ca_meusa" title="Pani ca meusa">Pani ca meusa</a></li>
+<li><a href="/wiki/Panini_(sandwich)" title="Panini (sandwich)">Panini</a></li>
+<li><a href="/wiki/Panipuri" title="Panipuri">Panipuri</a></li>
+<li><a href="/wiki/Panzerotti" title="Panzerotti">Panzerotti</a></li>
+<li><a href="/wiki/Panzarotti" class="mw-redirect" title="Panzarotti">Panzarotti</a></li>
+<li><a href="/wiki/Papri_chaat" title="Papri chaat">Papri chaat</a></li>
+<li><a href="/wiki/Paratha" title="Paratha">Paratha</a></li>
+<li><a href="/wiki/Pasty" title="Pasty">Pasty</a></li>
+<li><a href="/wiki/Pav_Bhaji" class="mw-redirect" title="Pav Bhaji">Pav Bhaji</a></li>
+<li><a href="/wiki/Pempek" title="Pempek">Pempek</a></li>
+<li><a href="/wiki/Pepito_(sandwich)" title="Pepito (sandwich)">Pepito</a></li>
+<li><a href="/wiki/Peremech" title="Peremech">Peremech</a></li>
+<li><a href="/wiki/Pho" title="Pho">Pho</a></li>
+<li><a href="/wiki/Picarones" title="Picarones">Picarones</a></li>
+<li><a href="/wiki/Pilaf" title="Pilaf">Pilaf</a></li>
+<li><a href="/wiki/Pirozhki" title="Pirozhki">Pirozhki</a></li>
+<li><a href="/wiki/Pizza_al_taglio" title="Pizza al taglio">Pizza al taglio</a></li>
+<li><a href="/wiki/Pizzetta" title="Pizzetta">Pizzetta</a></li>
+<li><a href="/wiki/Pl%C4%83cint%C4%83" title="Plăcintă">Plăcintă</a></li>
+<li><a href="/wiki/Poutine" title="Poutine">Poutine</a></li>
+<li><a href="/wiki/Pretzel" title="Pretzel">Pretzel</a></li>
+<li><a href="/wiki/Punugulu" title="Punugulu">Punugulu</a></li>
+<li><a href="/wiki/Puri_(food)" title="Puri (food)">Puri</a></li>
+<li><a href="/wiki/Quail_eggs" title="Quail eggs">Quail eggs</a></li>
+<li><a href="/wiki/Quesadilla" title="Quesadilla">Quesadilla</a></li>
+<li><a href="/wiki/Rat-on-a-stick" title="Rat-on-a-stick">Rat-on-a-stick</a></li>
+<li><a href="/wiki/Ra%C5%BEnji%C4%87i" title="Ražnjići">Ražnjići</a></li>
+<li><a href="/wiki/Rogan_josh" title="Rogan josh">Rogan josh</a></li>
+<li><a href="/wiki/Rojak" title="Rojak">Rojak</a></li>
+<li><a href="/wiki/Roti" title="Roti">Roti</a></li>
+<li><a href="/wiki/Rumali_roti" title="Rumali roti">Rumali roti</a></li>
+<li><a href="/wiki/Rustico_(pastry)" title="Rustico (pastry)">Rustico</a></li>
+<li><a href="/wiki/Sabich" title="Sabich">Sabich</a></li>
+<li><a href="/wiki/Samosa" title="Samosa">Samosa</a></li>
+<li><a href="/wiki/Sandwich" title="Sandwich">Sandwich</a></li>
+<li><a href="/wiki/Sardenara" title="Sardenara">Sardenara</a></li>
+<li><a href="/wiki/Satay" title="Satay">Satay</a></li>
+<li><a href="/wiki/Scaccia" title="Scaccia">Scaccia</a></li>
+<li><a href="/wiki/Seblak" title="Seblak">Seblak</a></li>
+<li><a href="/wiki/Sevpuri" title="Sevpuri">Sevpuri</a></li>
+<li><a href="/wiki/Sfenj" title="Sfenj">Sfenj</a></li>
+<li><a href="/wiki/Shao_Kao" class="mw-redirect" title="Shao Kao">Shao Kao</a></li>
+<li><a href="/wiki/Shashlik" title="Shashlik">Shashlik</a></li>
+<li><a href="/wiki/Shawarma" title="Shawarma">Shawarma</a></li>
+<li><a href="/wiki/Sicilian_pizza" title="Sicilian pizza">Sicilian pizza</a></li>
+<li><a href="/wiki/Siomay" title="Siomay">Siomay</a></li>
+<li><a href="/wiki/Soto_(food)" title="Soto (food)">Soto</a></li>
+<li><a href="/wiki/Souvlaki" title="Souvlaki">Souvlaki</a></li>
+<li><a href="/wiki/Stigghiola" title="Stigghiola">Stigghiola</a></li>
+<li><a href="/wiki/Taco" title="Taco">Taco</a>
+<ul>
+<li><a href="/wiki/Korean_taco" title="Korean taco">Korean taco</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Tahri_(dish)" title="Tahri (dish)">Tahri</a></li>
+<li><a href="/wiki/Tahu_gejrot" title="Tahu gejrot">Tahu gejrot</a></li>
+<li><a href="/wiki/Tahu_sumedang" title="Tahu sumedang">Tahu sumedang</a></li>
+<li><a href="/wiki/Takoyaki" title="Takoyaki">Takoyaki</a></li>
+<li><a href="/wiki/Tamale" title="Tamale">Tamale</a></li>
+<li><a href="/wiki/Tandoori_chicken" title="Tandoori chicken">Tandoori chicken</a></li>
+<li><a href="/wiki/Tangbao" title="Tangbao">Tangbao</a></li>
+<li><a href="/wiki/Taquito" title="Taquito">Taquito</a></li>
+<li><a href="/wiki/Tauge_goreng" title="Tauge goreng">Tauge goreng</a></li>
+<li><a href="/wiki/Tokneneng" title="Tokneneng">Tokneneng</a></li>
+<li><a href="/wiki/Tornado_potato" title="Tornado potato">Tornado potato</a></li>
+<li><a href="/wiki/Turon_(food)" title="Turon (food)">Turon</a></li>
+<li><a href="/wiki/Vada_(food)" title="Vada (food)">Vada</a></li>
+<li><a href="/wiki/Vada_pav" title="Vada pav">Vada pav</a></li>
+<li><a href="/wiki/Vastedda" title="Vastedda">Vastedda</a></li>
+<li><a href="/wiki/Vietnamese_noodles" title="Vietnamese noodles">Vietnamese noodles</a></li>
+<li><a href="/wiki/X%C3%B4i" title="Xôi">Xôi</a></li>
+<li><a href="/wiki/Yakitori" title="Yakitori">Yakitori</a></li>
+<li><a href="/wiki/Zapiekanka" title="Zapiekanka">Zapiekanka</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="6" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:La_Ranchera_Serving_Side.jpg" class="image" title="A food truck"><img alt="A food truck" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/La_Ranchera_Serving_Side.jpg/120px-La_Ranchera_Serving_Side.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/La_Ranchera_Serving_Side.jpg/180px-La_Ranchera_Serving_Side.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/La_Ranchera_Serving_Side.jpg/240px-La_Ranchera_Serving_Side.jpg 2x" data-file-width="400" data-file-height="300" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Food_truck" title="Food truck">Food trucks</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Big_Gay_Ice_Cream_Truck" class="mw-redirect" title="Big Gay Ice Cream Truck">Big Gay Ice Cream Truck</a></li>
+<li><a href="/wiki/Chef_Jeremiah" title="Chef Jeremiah">Chef Jeremiah</a></li>
+<li><a href="/wiki/Chi%27Lantro_BBQ" title="Chi'Lantro BBQ">Chi'Lantro BBQ</a></li>
+<li><a href="/wiki/Clover_Food_Lab" title="Clover Food Lab">Clover Food Lab</a></li>
+<li><a href="/wiki/Coolhaus" title="Coolhaus">Coolhaus</a></li>
+<li><a href="/wiki/Don_Chow_Tacos" title="Don Chow Tacos">Don Chow Tacos</a></li>
+<li><a href="/wiki/Grease_trucks" title="Grease trucks">Grease trucks</a></li>
+<li><a href="/wiki/The_Grilled_Cheese_Truck" title="The Grilled Cheese Truck">The Grilled Cheese Truck</a></li>
+<li><a href="/wiki/The_Halal_Guys" title="The Halal Guys">The Halal Guys</a></li>
+<li><a href="/wiki/Harry%27s_Cafe_de_Wheels" title="Harry's Cafe de Wheels">Harry's Cafe de Wheels</a></li>
+<li><a href="/wiki/Honeysuckle_Gelato" title="Honeysuckle Gelato">Honeysuckle Gelato</a></li>
+<li><a href="/wiki/Kelvin_Natural_Slush_Co." title="Kelvin Natural Slush Co.">Kelvin Natural Slush Co.</a></li>
+<li><a href="/wiki/KIND_Movement" class="mw-redirect" title="KIND Movement">KIND Movement</a></li>
+<li><a href="/wiki/Kogi_Korean_BBQ" title="Kogi Korean BBQ">Kogi Korean BBQ</a></li>
+<li><a href="/wiki/Korilla_BBQ" title="Korilla BBQ">Korilla BBQ</a></li>
+<li><a href="/wiki/Maximus/Minimus" title="Maximus/Minimus">Maximus/Minimus</a></li>
+<li><a href="/wiki/Off_the_Grid_(food_organization)" title="Off the Grid (food organization)">Off the Grid</a></li>
+<li><a href="/wiki/Philadelphia_Mobile_Food_Association" title="Philadelphia Mobile Food Association">Philadelphia Mobile Food Association</a></li>
+<li><a href="/wiki/Pincho_Man" title="Pincho Man">Pincho Man</a></li>
+<li><a href="/wiki/P%C3%B8lsevogn" title="Pølsevogn">Pølsevogn</a></li>
+<li><a href="/wiki/Taco_Bus" title="Taco Bus">Taco Bus</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">By location</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hong_Kong_street_food" title="Hong Kong street food">Hong Kong street food</a></li>
+<li><a href="/wiki/Street_food_of_Indonesia" title="Street food of Indonesia">Indonesian street food</a></li>
+<li><a href="/wiki/Street_food_of_Thailand" title="Street food of Thailand">Thai street food</a></li>
+<li><a href="/wiki/Mexican_street_food" title="Mexican street food">Mexican street food</a></li>
+<li><a href="/wiki/Regional_street_food" title="Regional street food">Regional street food</a></li>
+<li><a href="/wiki/Street_food_of_Chennai" title="Street food of Chennai">Street food of Chennai</a></li>
+<li><a href="/wiki/Street_food_of_Mumbai" title="Street food of Mumbai">Street food of Mumbai</a></li>
+<li><a href="/wiki/Street_food_in_South_Korea" title="Street food in South Korea">South Korea</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Mobile_catering" title="Mobile catering">Mobile catering</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Field_kitchen" title="Field kitchen">Field kitchen</a></li>
+<li><a href="/wiki/Food_booth" title="Food booth">Food booth</a></li>
+<li><a href="/wiki/Food_cart" title="Food cart">Food cart</a></li>
+<li><a href="/wiki/Food_truck" title="Food truck">Food truck</a>
+<ul>
+<li><a href="/wiki/Food_truck_rally" title="Food truck rally">Food truck rally</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Hot_dog_cart" title="Hot dog cart">Hot dog cart</a></li>
+<li><a href="/wiki/Hot_dog_stand" title="Hot dog stand">Hot dog stand</a></li>
+<li><a href="/wiki/Ice_cream_van" title="Ice cream van">Ice cream van</a></li>
+<li><a href="/wiki/P%C3%B8lsevogn" title="Pølsevogn">Sausage wagon</a></li>
+<li><a href="/wiki/Taco_stand" title="Taco stand">Taco stand</a></li>
+<li><i><a href="/wiki/Yatai_(retail)" class="mw-redirect" title="Yatai (retail)">Yatai</a></i></li>
+<li><i><a href="/wiki/Pojangmacha" title="Pojangmacha">Pojangmacha</a></i></li>
+<li><a href="/wiki/W%C3%BCrstelstand" title="Würstelstand">Würstelstand</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Lists</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_street_foods" title="List of street foods">List of street foods</a></li>
+<li><a href="/wiki/List_of_food_trucks" title="List of food trucks">List of food trucks</a>
+<ul>
+<li><a href="/wiki/Food_trucks_in_Tampa,_Florida" title="Food trucks in Tampa, Florida">Food trucks in Tampa, Florida</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">See also</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Food_street" title="Food street">Food street</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1280
+Cached time: 20170922205337
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.328 seconds
+Real time usage: 0.432 seconds
+Preprocessor visited node count: 1517/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 66452/2097152 bytes
+Template argument size: 2123/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.124/10.000 seconds
+Lua memory usage: 5.17 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  319.820      1 -total
+ 27.88%   89.165      1 Template:Reflist
+ 15.09%   48.252      4 Template:Cite_web
+ 14.53%   46.456      2 Template:Fix
+ 12.99%   41.549      1 Template:Infobox_prepared_food
+ 12.94%   41.382      1 Template:Citation_needed
+ 10.91%   34.881      5 Template:Convert
+ 10.66%   34.082      1 Template:Infobox
+  8.67%   27.728      1 Template:Commons_category
+  7.89%   25.246      3 Template:Category_handler
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:225765-0!canonical and timestamp 20170922205348 and revision id 801929398
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Bratwurst&amp;oldid=801929398">https://en.wikipedia.org/w/index.php?title=Bratwurst&amp;oldid=801929398</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:German_cuisine" title="Category:German cuisine">German cuisine</a></li><li><a href="/wiki/Category:German_sausages" title="Category:German sausages">German sausages</a></li><li><a href="/wiki/Category:American_sausages" title="Category:American sausages">American sausages</a></li><li><a href="/wiki/Category:Cuisine_of_Wisconsin" title="Category:Cuisine of Wisconsin">Cuisine of Wisconsin</a></li><li><a href="/wiki/Category:Sandwiches" title="Category:Sandwiches">Sandwiches</a></li><li><a href="/wiki/Category:Veal_dishes" title="Category:Veal dishes">Veal dishes</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2013" title="Category:Articles with unsourced statements from March 2013">Articles with unsourced statements from March 2013</a></li><li><a href="/wiki/Category:All_accuracy_disputes" title="Category:All accuracy disputes">All accuracy disputes</a></li><li><a href="/wiki/Category:Articles_with_disputed_statements_from_April_2016" title="Category:Articles with disputed statements from April 2016">Articles with disputed statements from April 2016</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Bratwurst" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Bratwurst" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Bratwurst" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Bratwurst" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Bratwurst">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Bratwurst&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Bratwurst&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Bratwurst" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Bratwurst" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Bratwurst&amp;oldid=801929398" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Bratwurst&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q899882" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Bratwurst&amp;id=801929398" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Bratwurst">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Bratwurst&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DBratwurst%26returnto%3DBratwurst%26oldid%3D801929398%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Bratwurst&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Bratwurst" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B3%D8%AC%D9%82_%D8%A7%D9%84%D9%85%D8%B4%D9%88%D9%8A" title="السجق المشوي – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Bratwurst" title="Bratwurst – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Bratwurst" title="Bratwurst – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Bratwurst" title="Bratwurst – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Bratwurst" title="Bratwurst – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Bratwurst" title="Bratwurst – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Briedwoarst" title="Briedwoarst – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B2%D6%80%D5%A1%D5%BF%D5%BE%D5%B8%D6%82%D6%80%D5%BD%D5%BF" title="Բրատվուրստ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A5%88%E0%A4%9F%E0%A4%B5%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%9F" title="ब्रैटवुर्स्ट – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Bratwurst" title="Bratwurst – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Braadworst" title="Braadworst – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%BC%E3%83%88%E3%83%B4%E3%83%AB%E3%82%B9%E3%83%88" title="ブラートヴルスト – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Bratwurst" title="Bratwurst – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Bratwurst" title="Bratwurst – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D1%82%D0%B2%D1%83%D1%80%D1%81%D1%82" title="Братвурст – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Bratwurst" title="Bratwurst – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Pe%C4%8Denica" title="Pečenica – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Braatvursti" title="Braatvursti – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Bratwurst" title="Bratwurst – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Bratwurst" title="Bratwurst – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%BE%B7%E5%9C%8B%E6%B2%B9%E7%85%8E%E9%A6%99%E8%85%B8" title="德國油煎香腸 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q899882#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 22 September 2017, at 20:53.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Bratwurst&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.328","walltime":"0.432","ppvisitednodes":{"value":1517,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":66452,"limit":2097152},"templateargumentsize":{"value":2123,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  319.820      1 -total"," 27.88%   89.165      1 Template:Reflist"," 15.09%   48.252      4 Template:Cite_web"," 14.53%   46.456      2 Template:Fix"," 12.99%   41.549      1 Template:Infobox_prepared_food"," 12.94%   41.382      1 Template:Citation_needed"," 10.91%   34.881      5 Template:Convert"," 10.66%   34.082      1 Template:Infobox","  8.67%   27.728      1 Template:Commons_category","  7.89%   25.246      3 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.124","limit":"10.000"},"limitreport-memusage":{"value":5421220,"limit":52428800}},"cachereport":{"origin":"mw1280","timestamp":"20170922205337","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":68,"wgHostname":"mw1249"});});</script>
+	</body>
+</html>

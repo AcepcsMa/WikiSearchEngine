@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Nuremberg Castle - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Nuremberg_Castle","wgTitle":"Nuremberg Castle","wgCurRevisionId":787362811,"wgRevisionId":787362811,"wgArticleId":1623416,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Coordinates on Wikidata","Articles containing German-language text","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Castles in Bavaria","Buildings and structures in Nuremberg","Imperial castles","Registered historic buildings and monuments in Bavaria","Imperial palaces of the Holy Roman Empire"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Nuremberg_Castle","wgRelevantArticleId":1623416,"wgRequestId":"WchXFQpAAD8AAHwMahIAAACX","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":49.457777777778,"lon":11.075833333333},"wgWikibaseItemId":"Q707396","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Nuernberg_Burg_Panorama_PtGUI.jpg/1200px-Nuernberg_Burg_Panorama_PtGUI.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Nuremberg_Castle"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Nuremberg_Castle&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Nuremberg_Castle&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Nuremberg_Castle"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Nuremberg_Castle rootpage-Nuremberg_Castle skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Nuremberg Castle</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Nuremberg_Castle&amp;params=49_27_28_N_11_04_33_E_region:DE-BY_type:landmark"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°27′28″N</span> <span class="longitude">11°04′33″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.45778°N 11.07583°E</span><span style="display:none">﻿ / <span class="geo">49.45778; 11.07583</span></span></span></a></span></span></span></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:502px;"><a href="/wiki/File:N%C3%BCrnberg_Burg_ArM.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/N%C3%BCrnberg_Burg_ArM.jpg/500px-N%C3%BCrnberg_Burg_ArM.jpg" width="500" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/N%C3%BCrnberg_Burg_ArM.jpg/750px-N%C3%BCrnberg_Burg_ArM.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/N%C3%BCrnberg_Burg_ArM.jpg/1000px-N%C3%BCrnberg_Burg_ArM.jpg 2x" data-file-width="3094" data-file-height="1024" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:N%C3%BCrnberg_Burg_ArM.jpg" class="internal" title="Enlarge"></a></div>
+Nuremberg Castle: Palas, Imperial Chapel, Heathens' Tower on the left - Sinwell Tower in the middle left - Pentagonal Tower, Imperial Stables and Luginsland Tower on the right</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Nuernberg_Burg_Panorama_PtGUI.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Nuernberg_Burg_Panorama_PtGUI.jpg/220px-Nuernberg_Burg_Panorama_PtGUI.jpg" width="220" height="107" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Nuernberg_Burg_Panorama_PtGUI.jpg/330px-Nuernberg_Burg_Panorama_PtGUI.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/Nuernberg_Burg_Panorama_PtGUI.jpg/440px-Nuernberg_Burg_Panorama_PtGUI.jpg 2x" data-file-width="2889" data-file-height="1400" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Nuernberg_Burg_Panorama_PtGUI.jpg" class="internal" title="Enlarge"></a></div>
+The courtyard with <i>Heidenturm</i> (Heathens' Tower), <i>Kaiserkapelle</i> (Imperial Chapel), and <i>Tiefer Brunnen</i> (Deep Well)</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Nuernberg-Burg.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nuernberg-Burg.jpg/220px-Nuernberg-Burg.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nuernberg-Burg.jpg/330px-Nuernberg-Burg.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nuernberg-Burg.jpg/440px-Nuernberg-Burg.jpg 2x" data-file-width="1944" data-file-height="1296" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Nuernberg-Burg.jpg" class="internal" title="Enlarge"></a></div>
+<i>Tiefer Brunnen</i> (Deep well, small building with gable roof in the middle) and <i>Sinwellturm</i> (Sinwell Tower)</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:K0429475_Burg_Nuernberg_Luftaufnahme.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/K0429475_Burg_Nuernberg_Luftaufnahme.JPG/220px-K0429475_Burg_Nuernberg_Luftaufnahme.JPG" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/K0429475_Burg_Nuernberg_Luftaufnahme.JPG/330px-K0429475_Burg_Nuernberg_Luftaufnahme.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/K0429475_Burg_Nuernberg_Luftaufnahme.JPG/440px-K0429475_Burg_Nuernberg_Luftaufnahme.JPG 2x" data-file-width="1200" data-file-height="800" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:K0429475_Burg_Nuernberg_Luftaufnahme.JPG" class="internal" title="Enlarge"></a></div>
+Aerial picture</div>
+</div>
+</div>
+<p><b>Nuremberg Castle</b> (<a href="/wiki/German_language" title="German language">German</a>: <span lang="de" xml:lang="de"><i>Nürnberger Burg</i></span>) is a group of medieval fortified buildings on a <a href="/wiki/Sandstone" title="Sandstone">sandstone</a> ridge dominating the historical center of <a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a> in <a href="/wiki/Bavaria" title="Bavaria">Bavaria</a>, <a href="/wiki/Germany" title="Germany">Germany</a>.</p>
+<p>The castle, together with the <a href="/wiki/City_walls_of_Nuremberg" title="City walls of Nuremberg">city walls</a>, is considered to be one of Europe's most formidable medieval fortifications.<sup id="cite_ref-stadt_1-0" class="reference"><a href="#cite_note-stadt-1">[1]</a></sup> It represented the power and importance of the Holy Roman Empire and the outstanding role of the Imperial City of Nuremberg.<sup id="cite_ref-BayVerwWeb_2-0" class="reference"><a href="#cite_note-BayVerwWeb-2">[2]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Summary"><span class="tocnumber">1</span> <span class="toctext">Summary</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Buildings"><span class="tocnumber">2</span> <span class="toctext">Buildings</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Imperial_Castle"><span class="tocnumber">2.1</span> <span class="toctext">Imperial Castle</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Burgraves.27_Castle"><span class="tocnumber">2.2</span> <span class="toctext">Burgraves' Castle</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Buildings_erected_by_the_Imperial_City"><span class="tocnumber">2.3</span> <span class="toctext">Buildings erected by the Imperial City</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#History"><span class="tocnumber">3</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Pre-Salian_and_Salian_period"><span class="tocnumber">3.1</span> <span class="toctext">Pre-Salian and Salian period</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Hohenstaufen_period"><span class="tocnumber">3.2</span> <span class="toctext">Hohenstaufen period</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#The_Castle_in_the_Late_Middle_Ages"><span class="tocnumber">3.3</span> <span class="toctext">The Castle in the Late Middle Ages</span></a>
+<ul>
+<li class="toclevel-3 tocsection-10"><a href="#The_Burgraves.27_Castle"><span class="tocnumber">3.3.1</span> <span class="toctext">The Burgraves' Castle</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#The_Imperial_Castle_as_part_of_the_City"><span class="tocnumber">3.3.2</span> <span class="toctext">The Imperial Castle as part of the City</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-12"><a href="#Modern_Era"><span class="tocnumber">3.4</span> <span class="toctext">Modern Era</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Summary">Summary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg_Castle&amp;action=edit&amp;section=1" title="Edit section: Summary">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the Middle Ages, German <a href="/wiki/List_of_German_monarchs" title="List of German monarchs">kings</a> (respectively <a href="/wiki/Holy_Roman_Emperor" title="Holy Roman Emperor">Holy Roman Emperors</a> after their coronation by the <a href="/wiki/Pope" title="Pope">Pope</a>) did not have a capital, but voyaged from one of their castles (<a href="/wiki/Kaiserpfalz" title="Kaiserpfalz">Kaiserpfalz</a> or <a href="/wiki/Imperial_castle" title="Imperial castle">Imperial castle</a>) to the next. Thus, the castle at Nürnberg became an important imperial castle, and in the following centuries, all German kings and emperors stayed at the castle, most of whom on several occasions.<sup id="cite_ref-official_guide_3-0" class="reference"><a href="#cite_note-official_guide-3">[3]</a></sup><sup id="cite_ref-Friedel_4-0" class="reference"><a href="#cite_note-Friedel-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<p>Nuremberg Castle comprises three sections: the <a href="/wiki/Imperial_castle" title="Imperial castle">Imperial castle</a> (<i>Kaiserburg</i>), the former <a href="/wiki/Burgraves_of_Nuremberg" class="mw-redirect" title="Burgraves of Nuremberg">Burgraves' castle</a> (<i>Burggrafenburg</i>), and the buildings erected by the <a href="/wiki/Imperial_City_of_Nuremberg" class="mw-redirect" title="Imperial City of Nuremberg">Imperial City</a> at the eastern site (<i>Reichsstädtische Bauten</i>).</p>
+<p>The first fortified buildings appear to have been erected around 1000.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Thereafter, three major construction periods may be distinguished:</p>
+<ul>
+<li>the castle built under the <a href="/wiki/Salian_dynasty" title="Salian dynasty">Salian</a> kings respectively Holy Roman Emperors (1027–1125);</li>
+<li>a new castle built under the <a href="/wiki/Hohenstaufen" title="Hohenstaufen">Hohenstaufen</a> emperors (1138–1254);</li>
+<li>reconstruction of the Palas as well as various modifications and additions in the late medieval centuries.</li>
+</ul>
+<p>The castle lost its importance after the <a href="/wiki/Thirty_Years%27_War" title="Thirty Years' War">Thirty Years' War</a> (1618 to 1648). In the 19th century with its general interest in the medieval period, some modifications were added. During the <a href="/wiki/Nazi_Germany" title="Nazi Germany">Nazi period</a>, in preparation of the Nuremberg party rally in 1936, it was "returned to its original state." A few years later, during <a href="/wiki/World_War_II" title="World War II">World War II</a> and its air raids in 1944/1945, a large part of the castle was laid in ruins. It took some thirty years to complete the rebuilding and restoration to its present state.</p>
+<h2><span class="mw-headline" id="Buildings">Buildings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg_Castle&amp;action=edit&amp;section=2" title="Edit section: Buildings">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Imperial_Castle">Imperial Castle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg_Castle&amp;action=edit&amp;section=3" title="Edit section: Imperial Castle">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The usual access to the castle is via Burgstrasse ending in front of the sandstone ridge. A wide footpath leads into the outer courtyard through the <i>Heavenly Gate</i> (<i>Himmelstor</i>) situated next to the <i>Hasenburg</i> tower (named after the Bohemian <i>Hasenburg</i> family).</p>
+<p>The <i>Sinwell Tower</i> built in the 2nd half of the 13th century was the major <a href="/wiki/Keep" title="Keep">keep</a> of the Castle. It is named after its cylindrical form: in <a href="/wiki/Middle_High_German" title="Middle High German">Middle High German</a> <i>sinwell</i> means <i>perfectly round</i>. In the 1560s, its height was increased by a further floor and a pavilion roof with a pointed helm.</p>
+<p>The <i>Deep Well</i> (<i>Tiefer Brunnen</i>) inside the small half-timbered house in the middle of the courtyard is certainly as old as the castle itself, as it was the castle's only source of water. Its shaft reaches the water level in a depth of 50 meters (164 feet) and the water usually is 3&#160;m (10&#160;ft) deep. Above the water level, a niche was cut out of the rock for cleaning purposes. The lower stone walls of the building date from 1563. The little annex built in the following year was used as bathroom and changing room. The <i>Deep Well</i> provided sufficient quantities of water for normal consumption, but during Imperial Diets and visits by the Emperor, water barrels had to be transported on wagons from the city.</p>
+<p>The <i>Castellan's House</i> (<i>Kastellansgebäude</i>), the <i>Secretarial Building</i> (<i>Sekretariatsgebäude</i>) and the <i>Finance Building</i> (<i>Finanzstadel</i>) as well as the post-medieval <i>Himmelsstallung</i> are further buildings in the outer court, to a large extent reconstructed after World War II.</p>
+<p>The <i>Inner Gate</i> (<i>Inneres Tor</i>) leads to the <i>Inner Courtyard</i> (<i>Innerer Burghof</i>), surrounded by the <i>Palas</i>, the <i>Imperial Chapel</i> and the <i>Kemenate</i>. In the courtyard, remains of foundations of the Salian Period may be seen. In the middle, there is the <i>Kunigunde Lime Tree</i> planted in 1984, replacing older trees first mentioned in 1455 and named after <a href="/wiki/Cunigunde_of_Luxembourg" title="Cunigunde of Luxembourg">Saint Cunigunde</a>, consort of Emperor <a href="/wiki/Henry_II,_Holy_Roman_Emperor" title="Henry II, Holy Roman Emperor">Henry II</a> (Saint Henry).</p>
+<p>The <i>Palas</i>, the main building of the Imperial Castle, has two floors which were used for official functions and as the Emperors residence. It was rebuilt and modified a number of times during the castle's history. It now houses the permanent exhibition&#160;»Emperor – Empire – City. The Imperial Castle in Nuremberg«.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:N%C3%BCrnberg,_Burg,_Burgkapelle,_Detail_Innen-20160304-003.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/N%C3%BCrnberg%2C_Burg%2C_Burgkapelle%2C_Detail_Innen-20160304-003.jpg/220px-N%C3%BCrnberg%2C_Burg%2C_Burgkapelle%2C_Detail_Innen-20160304-003.jpg" width="220" height="330" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/N%C3%BCrnberg%2C_Burg%2C_Burgkapelle%2C_Detail_Innen-20160304-003.jpg/330px-N%C3%BCrnberg%2C_Burg%2C_Burgkapelle%2C_Detail_Innen-20160304-003.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/N%C3%BCrnberg%2C_Burg%2C_Burgkapelle%2C_Detail_Innen-20160304-003.jpg/440px-N%C3%BCrnberg%2C_Burg%2C_Burgkapelle%2C_Detail_Innen-20160304-003.jpg 2x" data-file-width="4016" data-file-height="6016" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:N%C3%BCrnberg,_Burg,_Burgkapelle,_Detail_Innen-20160304-003.jpg" class="internal" title="Enlarge"></a></div>
+Upper Chapel</div>
+</div>
+</div>
+<p>The <i>Imperial Chapel</i> (<i>Kaiserkapelle</i>), from an architectural point of view, is the most important building on the castle rock. It was built around 1200, at the same time as the original Palas. It is a <a href="/wiki/Romanesque_architecture" title="Romanesque architecture">romanesque</a> double chapel consisting of two chapels one above the other and connected only through an opening in the ceiling, thus representing the hierarchical levels in the medieval society.</p>
+<p>The <i>Heathens' Tower</i> (<i>Heidenturm</i>) stands next to the Imperial Chapel. It was built at the same time as the Chapel. When the Castle was restored for the visit of Emperor <a href="/wiki/Charles_V,_Holy_Roman_Emperor" title="Charles V, Holy Roman Emperor">Charles V</a>, <i>heathen idols and pictures</i> on the tower were removed, meaning romanesque sculptures, and thus the tower's name in colloquial parlance subsists until today.</p>
+<p>The <i>Kemenate</i> (<i>Ladies' Building</i>) originally was built during the Hohenstaufen period, but later replaced by a large four storeyed building. The present building was burned down in 1945 and later reconstructed. At present, it houses the ticket office, the small museum shop and a multimedia show about the building history of the Imperial Castle.</p>
+<h3><span id="Burgraves'_Castle"></span><span class="mw-headline" id="Burgraves.27_Castle">Burgraves' Castle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg_Castle&amp;action=edit&amp;section=4" title="Edit section: Burgraves' Castle">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Burgraves' Castle was situated on the area between the <i>Sinwell Tower</i> and the <i>Luginsland</i>, but after its destruction in 1420 and the purchase of its remains by the city, very little is left.</p>
+<p>The <i>Pentagonal Tower</i> standing above the northern rock face is among the oldest buildings on the castle rock. It was the <a href="/wiki/Keep" title="Keep">keep</a> of the Burgraves' Castle. Its lower part made of ashlars may have been built at the same time as the Imperial Chapel. During later <a href="/wiki/Gothic_architecture" title="Gothic architecture">gothic</a> times, a storey of brickwork was added.</p>
+<p>The <i>Walburga Chapel</i> appears to have been built shortly thereafter. It was originally dedicated to <a href="/wiki/Saint_Othmar" title="Saint Othmar">Saint Othmar</a>, but after the city purchased the ruins of Burgraves' Castle, it was rebuilt and dedicated to <a href="/wiki/Saint_Walpurga" title="Saint Walpurga">Saint Walpurga</a>. Destroyed in World War II, it was reconstructed and opened to the public in 1970.</p>
+<h3><span class="mw-headline" id="Buildings_erected_by_the_Imperial_City">Buildings erected by the Imperial City</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg_Castle&amp;action=edit&amp;section=5" title="Edit section: Buildings erected by the Imperial City">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <i>Luginsland</i> (literally <i>look into the land</i>) was built in 1377 near the main gate of the Burgraves' castle, in order to enable the city to monitor the activities inside the Burgraves' Castle, at a time when the relations between the city and the Burgraves had already deteriorated.</p>
+<p>The <i>Vestner Gate</i> was the only exit from the castle to the north, at that time an open land.</p>
+<p>The <i>Imperial Stables</i> were built as a granary in 1494 to 1495 by <a href="/w/index.php?title=Hans_Beheim_the_Elder&amp;action=edit&amp;redlink=1" class="new" title="Hans Beheim the Elder (page does not exist)">Hans Beheim the Elder</a>, Nuremberg's most important architect at that time. The ground floor was also used as stables. Severely damaged in World War II, it was renovated and is now a <a href="/wiki/Hostel" title="Hostel">Youth Hostel</a>.</p>
+<p>The <i>Bastions</i> were built in 1538 to 1545 in response to the progress in artillery which threatened the northern side of the castle. At about the same time, the fortifications of the city of Nuremberg as a whole were renewed and extended.</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg_Castle&amp;action=edit&amp;section=6" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Pre-Salian_and_Salian_period">Pre-Salian and Salian period</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg_Castle&amp;action=edit&amp;section=7" title="Edit section: Pre-Salian and Salian period">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Archeological excavations within the castle unearthed remnants of walls dated around 1000, and in deeper strata even older ones that may be attributed to a building of <a href="/wiki/Henry_of_Schweinfurt" title="Henry of Schweinfurt">Henry of Schweinfurt</a>.<sup id="cite_ref-FriedelHLB_7-0" class="reference"><a href="#cite_note-FriedelHLB-7">[7]</a></sup></p>
+<p>The first written record is of 1050, when <a href="/wiki/Henry_III,_Holy_Roman_Emperor" title="Henry III, Holy Roman Emperor">Henry III</a> issued the so-called <i>Sigena document</i> in <i>Norenberc</i> releasing a <a href="/wiki/Serfdom" title="Serfdom">bondswoman</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> His father <a href="/wiki/Conrad_II,_Holy_Roman_Emperor" title="Conrad II, Holy Roman Emperor">Conrad II</a>, on voyages from <a href="/wiki/Regensburg" title="Regensburg">Regensburg</a> (Ratisbon) to <a href="/wiki/Bamberg" title="Bamberg">Bamberg</a> in 1025 and 1030, still had issued documents<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> in <i>Megelendorf</i>, a small village some 4&#160;km further to the east where the river <a href="/wiki/Pegnitz_(river)" title="Pegnitz (river)">Pegnitz</a> could be crossed by a <a href="/wiki/Ford_(crossing)" title="Ford (crossing)">ford</a> (presently <i>Mögelsdorf</i>, a district of Nuremberg). In the customary way, these documents indicate the place and date of their issuance, but do not contain any reference to the type of the place (e.g. castle, village etc.).</p>
+<p>Henry III used the castle in his campaigns to extend his rule over <a href="/wiki/Bohemia" title="Bohemia">Bohemia</a>, <a href="/wiki/Poland" title="Poland">Poland</a> and <a href="/wiki/Hungary" title="Hungary">Hungary</a>. <a href="/wiki/Henry_IV,_Holy_Roman_Emperor" title="Henry IV, Holy Roman Emperor">Henry IV</a>, who had been the opponent of <a href="/wiki/Pope_Gregory_VII" title="Pope Gregory VII">Pope Gregory VII</a> in the <a href="/wiki/Investiture_Controversy" title="Investiture Controversy">Investiture Controversy</a>, at the end of his reign, in 1105, had to endure that in his absence, after a siege lasting two months, the castle was taken by his son <a href="/wiki/Henry_V,_Holy_Roman_Emperor" title="Henry V, Holy Roman Emperor">Henry V</a> and that at the end of the same year he was forced by his son to abdicate.<sup id="cite_ref-official_guide_3-1" class="reference"><a href="#cite_note-official_guide-3">[3]</a></sup></p>
+<p>Upon the death of Henry V in 1125, the last member of the Salian dynasty, his elected successor <a href="/wiki/Lothair_II,_Holy_Roman_Emperor" title="Lothair II, Holy Roman Emperor">Lothair of Supplinburg</a> attempted to seize the crown lands from the <a href="/wiki/Hohenstaufen" title="Hohenstaufen">Hohenstaufen</a> <a href="/wiki/Frederick_II,_Duke_of_Swabia" title="Frederick II, Duke of Swabia">Frederick II, Duke of Swabia</a> and his brother <a href="/wiki/Conrad_III_of_Germany" title="Conrad III of Germany">Conrad</a> who considered all these lands, including Nuremberg Castle, to be part of the Salian family property inherited by them. After several sieges, Lothair succeeded in October 1130 in capturing the castle.<sup id="cite_ref-Friedel_4-1" class="reference"><a href="#cite_note-Friedel-4">[4]</a></sup></p>
+<h3><span class="mw-headline" id="Hohenstaufen_period">Hohenstaufen period</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg_Castle&amp;action=edit&amp;section=8" title="Edit section: Hohenstaufen period">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Upon Lothair's death in 1137, the Hohenstaufen Conrad was elected King <a href="/wiki/Conrad_III_of_Germany" title="Conrad III of Germany">Conrad III</a> in the subsequent year and soon afterwards started to build a new Imperial Castle which appears to have been completed unter his reign. The new buildings comprised the Palas, the Imperial Chapel and the Heathens' Tower.<sup id="cite_ref-FriedelHLB_7-1" class="reference"><a href="#cite_note-FriedelHLB-7">[7]</a></sup></p>
+<p>At about the same time, Conrad established the <a href="/wiki/Burgraviate_of_Nuremberg" title="Burgraviate of Nuremberg">Burgraviate</a> in order to ensure the safety of the castle in the absence of the king. Thus, the first burgraves from the Austrian House of <a href="/wiki/Raabs_an_der_Thaya" title="Raabs an der Thaya">Raabs</a> built the Burgraves' Castle next to the Imperial Castle and were granted a substantial landholding in the vicinity.<sup id="cite_ref-Friedel_4-2" class="reference"><a href="#cite_note-Friedel-4">[4]</a></sup></p>
+<p><a href="/wiki/Frederick_I,_Holy_Roman_Emperor" title="Frederick I, Holy Roman Emperor">Frederick I (Barbarossa)</a> used the castle for a number of <a href="/wiki/Imperial_Diet_(Holy_Roman_Empire)" title="Imperial Diet (Holy Roman Empire)">Diets</a> and receptions, e.g. of a legation from the <a href="/wiki/Byzantine_Empire" title="Byzantine Empire">Eastern Roman Empire</a> in 1156, but according to recent research, he did not contribute to the building of the Palace.<sup id="cite_ref-FriedelHLB_7-2" class="reference"><a href="#cite_note-FriedelHLB-7">[7]</a></sup></p>
+<p>Henry VI apparently was engaged in various building activities related to the Palas, the Imperial Chapel and adjacent buildings.<sup id="cite_ref-FriedelHLB_7-3" class="reference"><a href="#cite_note-FriedelHLB-7">[7]</a></sup></p>
+<p>After the last count of Raabs had died, his son-in-law <a href="/wiki/Frederick_I,_Burgrave_of_Nuremberg" title="Frederick I, Burgrave of Nuremberg">Frederick</a> of <a href="/wiki/House_of_Hohenzollern" title="House of Hohenzollern">Zollern</a>, in 1192, was granted the Burgraviate by Emperor <a href="/wiki/Henry_VI,_Holy_Roman_Emperor" title="Henry VI, Holy Roman Emperor">Henry VI</a>. The Zollerns, soon renamed Hohenzollern, held it until the Burgraves' Castle was destroyed and afterwards its ruins sold to the city of Nuremberg in 1427 (the Hohenzollerns, however, continued to administer their landholdings outside of Nuremberg).<sup id="cite_ref-Friedel_4-3" class="reference"><a href="#cite_note-Friedel-4">[4]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Frederick_II_(HRE).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Frederick_II_%28HRE%29.jpg/220px-Frederick_II_%28HRE%29.jpg" width="220" height="306" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Frederick_II_%28HRE%29.jpg/330px-Frederick_II_%28HRE%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/a/ac/Frederick_II_%28HRE%29.jpg 2x" data-file-width="435" data-file-height="605" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Frederick_II_(HRE).jpg" class="internal" title="Enlarge"></a></div>
+Frederick II</div>
+</div>
+</div>
+<p><a href="/wiki/Frederick_II,_Holy_Roman_Emperor" title="Frederick II, Holy Roman Emperor">Frederick II</a>, on the occasion of his first diet at the Imperial Castle in 1219, granted the <i>Great Letter of Freedom</i> (<i><span lang="de" xml:lang="de">Großer Freiheitsbrief</span></i>) to the city, including <a href="/wiki/German_town_law" title="German town law">town rights</a>, <a href="/wiki/Imperial_immediacy" title="Imperial immediacy">Imperial immediacy</a> (<i>Reichsfreiheit</i>), the privilege to mint coins, and an independent customs policy, making the city an <a href="/wiki/Imperial_Free_City" class="mw-redirect" title="Imperial Free City">Imperial Free City</a> subject only to the Emperor. Frederick II also transferred various responsibilities for the care of the Imperial Castle to the city. This was the starting point not only of a remarkable development of the city, but also of a long dispute between the city and the Burgraves.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<p>Frederick II stayed at the castle at least 16 times, and his son King <a href="/wiki/Henry_(VII)_of_Germany" title="Henry (VII) of Germany">Henry (VII) of Germany</a> as many as 21 times.<sup id="cite_ref-official_guide_3-2" class="reference"><a href="#cite_note-official_guide-3">[3]</a></sup> In 1224, on the first diet of thirteen year old King Henry (VII), <a href="/wiki/Walther_von_der_Vogelweide" title="Walther von der Vogelweide">Walther von der Vogelweide</a> was on the guest list, and in 1225, Henry (VII) was married at the castle to <a href="/wiki/Margaret_of_Austria,_Queen_of_Bohemia" title="Margaret of Austria, Queen of Bohemia">Margaret of Babenberg</a>, daughter of Duke <a href="/wiki/Leopold_VI,_Duke_of_Austria" title="Leopold VI, Duke of Austria">Leopold VI of Austria</a>.<sup id="cite_ref-Friedel_4-4" class="reference"><a href="#cite_note-Friedel-4">[4]</a></sup></p>
+<p>Frederick II made his last visit to Germany in 1236 and returned to Italy in 1237 for the remaining thirteen years of his life, leaving the German affairs to his son <a href="/wiki/Conrad_IV_of_Germany" title="Conrad IV of Germany">Conrad IV</a>.</p>
+<h3><span class="mw-headline" id="The_Castle_in_the_Late_Middle_Ages">The Castle in the Late Middle Ages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg_Castle&amp;action=edit&amp;section=9" title="Edit section: The Castle in the Late Middle Ages">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Holy_Roman_Empire#Interregnum" title="Holy Roman Empire">Interregnum</a> ceased in 1273 with the election in Frankfurt of King <a href="/wiki/Rudolf_I_of_Germany" title="Rudolf I of Germany">Rudolf I</a>, the first King of the Romans of the <a href="/wiki/House_of_Habsburg" title="House of Habsburg">House of Habsburg</a>. Immediately thereafter, Rudolf I attested a number of privileges to the Burgraves in consideration of their assistance in his election. Rudolf I held several diets at the Imperial Castle, and under his reign as well as under the reign of his successors <a href="/wiki/Adolf_of_Germany" title="Adolf of Germany">Adolf</a> of <a href="/wiki/House_of_Nassau" title="House of Nassau">Nassau</a> and <a href="/wiki/Albert_I_of_Germany" title="Albert I of Germany">Albert I</a> of Habsburg, new buildings were added such as the Sinwell Tower, and works were executed on the Palas and the upper parts of the Chapel Tower (Heathens' Tower). During the same period, the Burgraves extended their adjacent castle.<sup id="cite_ref-FriedelHLB_7-4" class="reference"><a href="#cite_note-FriedelHLB-7">[7]</a></sup></p>
+<h4><span id="The_Burgraves'_Castle"></span><span class="mw-headline" id="The_Burgraves.27_Castle">The Burgraves' Castle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg_Castle&amp;action=edit&amp;section=10" title="Edit section: The Burgraves' Castle">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Both the Burgraves and the city improved their positions in the surrounding lands. The city of Nuremberg prospered and became one of the most important towns in Germany. The <a href="/wiki/Golden_Bull_of_1356" title="Golden Bull of 1356">Golden Bull of 1356</a> named Nuremberg as the place of the first Imperial Diet of a newly elected ruler.<sup id="cite_ref-BayVerwWeb_2-1" class="reference"><a href="#cite_note-BayVerwWeb-2">[2]</a></sup> The Burgraves' rise to power reached its climax when King <a href="/wiki/Sigismund,_Holy_Roman_Emperor" title="Sigismund, Holy Roman Emperor">Sigismund</a> transferred the <a href="/wiki/Margraviate_of_Brandenburg" title="Margraviate of Brandenburg">Margraviate of Brandenburg</a> to the Hohenzollern in 1411.</p>
+<p>Thus, it was inevitable that the relations between the city and the Burgraves on the castle hill deteriorated significantly. In 1367, the city obstructed the Burgraves' access to the city by a wall in front of their castle, and in 1377, the city erected the <i>Luginsland</i> tower (literally <i>look into the land</i>) near the main gate of the Burgraves' castle, in order to control the activities inside the castle. In 1388/89, there was an armed conflict which was settled. Finally, the Burgraves' Castle was attacked in 1420 by <a href="/wiki/Louis_VII,_Duke_of_Bavaria" title="Louis VII, Duke of Bavaria">Duke Louis VII of Bavaria</a> and burned down, probably with the consent of the city. In 1422, Sigismund transferred the care of the Imperial Castle to the city, and in 1427, <a href="/wiki/Frederick_I,_Elector_of_Brandenburg" title="Frederick I, Elector of Brandenburg">Frederick I, Elector of Brandenburg</a> sold the remains of the Burgraves' Castle to the city.<sup id="cite_ref-BayVerwWeb_2-2" class="reference"><a href="#cite_note-BayVerwWeb-2">[2]</a></sup><sup id="cite_ref-Friedel_4-5" class="reference"><a href="#cite_note-Friedel-4">[4]</a></sup></p>
+<h4><span class="mw-headline" id="The_Imperial_Castle_as_part_of_the_City">The Imperial Castle as part of the City</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg_Castle&amp;action=edit&amp;section=11" title="Edit section: The Imperial Castle as part of the City">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>With the political and commercial rise of the city, the Imperial Castle became less attractive. Emperors started to execute their governmental acts in the town hall completed in 1340 and preferred to stay in the luxurious houses of the leading families rather than in the less comfortable castle. The castle continued to be used on important formal occasions. <a href="/wiki/Frederick_III,_Holy_Roman_Emperor" title="Frederick III, Holy Roman Emperor">Frederick III</a> appreciated the safety of the Castle and stayed there several months. The last king holding his first Imperial Diet in Nuremberg was his son <a href="/wiki/Maximilian_I,_Holy_Roman_Emperor" title="Maximilian I, Holy Roman Emperor">Maximilian I</a>. In 1491, he stayed at the castle for almost six months. His grandson and successor <a href="/wiki/Charles_V,_Holy_Roman_Emperor" title="Charles V, Holy Roman Emperor">Charles V</a>, because of epidemics raging at Nuremberg, relocated his first Imperial Diet to <a href="/wiki/Worms,_Germany" title="Worms, Germany">Worms</a>. He visited Nuremberg only in 1541 on his way to the Imperial Diet in Regensburg.<sup id="cite_ref-Friedel_4-6" class="reference"><a href="#cite_note-Friedel-4">[4]</a></sup><sup id="cite_ref-BayVerwWeb_2-3" class="reference"><a href="#cite_note-BayVerwWeb-2">[2]</a></sup></p>
+<h3><span class="mw-headline" id="Modern_Era">Modern Era</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg_Castle&amp;action=edit&amp;section=12" title="Edit section: Modern Era">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>At this time, in 1538 to 1545, bastions were built on the northern side of the castle to better protect it against an improved artillery, and the Castle was integrated in the renewed and improved fortifications of the city.</p>
+<p>The subsequent Habsburg emperors concentrated on their territories mainly in <a href="/wiki/Archduchy_of_Austria" title="Archduchy of Austria">Austria</a>, <a href="/wiki/Kingdom_of_Bohemia" title="Kingdom of Bohemia">Bohemia</a> and <a href="/wiki/Kingdom_of_Hungary" title="Kingdom of Hungary">Hungary</a>. Thus, Nuremberg was rarely visited any more by acting rulers.</p>
+<p>During the <a href="/wiki/Thirty_Years%27_War" title="Thirty Years' War">Thirty Years' War</a>, in 1632, the armies of <a href="/wiki/Gustavus_Adolphus_of_Sweden" title="Gustavus Adolphus of Sweden">Gustavus Adolphus</a> and <a href="/wiki/Albrecht_von_Wallenstein" title="Albrecht von Wallenstein">Wallenstein</a> appeared in front of the walled city, but were diminished less by their <a href="/wiki/Battle_of_the_Alte_Veste" title="Battle of the Alte Veste">hostilities</a> than by <a href="/wiki/Typhus" title="Typhus">typhus</a> and <a href="/wiki/Scurvy" title="Scurvy">scurvy</a>.</p>
+<p>Neither the city nor the Castle fully recovered from the effects of the Thirty Years' War.</p>
+<p>Since 1594, the Imperial Diet had met only in Regensburg. The <a href="/wiki/Peace_of_Westphalia" title="Peace of Westphalia">Peace of Westphalia</a> of 1648 not only ended the atrocities of the war, but led to the <a href="/wiki/Perpetual_Diet_of_Regensburg" title="Perpetual Diet of Regensburg">Perpetual Diet of Regensburg</a> which from 1663 to 1806 seated in Regensburg. As a consequence, the Nuremberg Castle lost practically all of its importance and was left undisturbed by outside forces.</p>
+<p>In 1806, during <a href="/wiki/Napoleon" title="Napoleon">Napoleon</a>'s restructuring of central Europe, French troops occupied Nuremberg and, according to the <i>Treaty of the <a href="/wiki/Confederation_of_the_Rhine" title="Confederation of the Rhine">Confederation of the Rhine</a></i> (<i>Rheinbundakte</i>), handed it over to <a href="/wiki/Kingdom_of_Bavaria" title="Kingdom of Bavaria">Bavaria</a>, then raised to a kingdom.</p>
+<p>In line with the <a href="/wiki/Romanticism" title="Romanticism">Romantic Period's</a> revived interest for medieval art and architecture, King <a href="/wiki/Ludwig_I_of_Bavaria" title="Ludwig I of Bavaria">Ludwig I of Bavaria</a>, in 1833, ordered <a href="/wiki/Carl_Alexander_Heideloff" title="Carl Alexander Heideloff">Carl Alexander Heideloff</a> to execute restoration work, but the king was not pleased with his neo-Gothic style and stopped the work. His son <a href="/wiki/Maximilian_II_of_Bavaria" title="Maximilian II of Bavaria">Maximilian II</a> later commissioned <a href="/wiki/August_von_Voit" title="August von Voit">August von Voit</a> to continue the refurbishment between 1852 and 1858 in a more moderate style.</p>
+<p>In the 1930s, the general opinion of 19th century art and architecture had deteriorated. During the <a href="/wiki/Nazi_Germany" title="Nazi Germany">Third Reich</a>, <a href="/w/index.php?title=Rudolf_Esterer&amp;action=edit&amp;redlink=1" class="new" title="Rudolf Esterer (page does not exist)">Rudolf Esterer</a>, director of the <a href="/wiki/Bavarian_Administration_of_State-Owned_Palaces,_Gardens_and_Lakes" title="Bavarian Administration of State-Owned Palaces, Gardens and Lakes">Bavarian Administration of State-Owned Palaces, Gardens and Lakes</a>, removed most of the previous installations and returned the Castle to what was thought to be <i>its original state</i>.</p>
+<p>In World War II, the castle was damaged in 1944-45, with only the Imperial Chapel and the Sinwell Tower remaining entirely intact. After the war, the castle was restored under the direction of Rudolf Esterer and Julius Lincke to its historical form, including the Luginsland tower which had been completely destroyed.</p>
+<p>The Castle is owned by the state of <a href="/wiki/Bavaria" title="Bavaria">Bavaria</a> and administered by its <a href="/wiki/Bavarian_Administration_of_State-Owned_Palaces,_Gardens_and_Lakes" title="Bavarian Administration of State-Owned Palaces, Gardens and Lakes">Bavarian Administration of State-Owned Palaces, Gardens and Lakes</a> (<i>Bayerische Verwaltung der staatlichen Schlösser, Gärten und Seen</i>).</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg_Castle&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Notes</b></p>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-stadt-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-stadt_1-0">^</a></b></span> <span class="reference-text">Fehring, Günther P. and Ress, Anton. <i>Die Stadt Nürnberg.</i> 2. Auflage bearbeitet von Wilhelm Schwemmer. Deutscher Kunstverlag, München, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-422-00550-1" title="Special:BookSources/3-422-00550-1">3-422-00550-1</a>, S. 152ff.</span></li>
+<li id="cite_note-BayVerwWeb-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-BayVerwWeb_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BayVerwWeb_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-BayVerwWeb_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-BayVerwWeb_2-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.kaiserburg-nuernberg.de/englisch/castle/index.htm"><i>Imperial Castle of Nuremberg,</i></a> <a href="/wiki/Bavarian_Administration_of_State-Owned_Palaces,_Gardens_and_Lakes" title="Bavarian Administration of State-Owned Palaces, Gardens and Lakes">Bavarian Administration of State-Owned Palaces, Gardens and Lakes</a></span></li>
+<li id="cite_note-official_guide-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-official_guide_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-official_guide_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-official_guide_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><i>Imperial Castle Nuremberg.</i> Official guide, revised by Erich Bachmann and Albrecht Miller (1994), <a href="/wiki/Bayerische_Verwaltung_der_staatlichen_Schl%C3%B6sser,_G%C3%A4rten_und_Seen" class="mw-redirect" title="Bayerische Verwaltung der staatlichen Schlösser, Gärten und Seen">Bayerische Verwaltung der staatlichen Schlösser, Gärten und Seen</a>, Munich</span></li>
+<li id="cite_note-Friedel-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Friedel_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Friedel_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Friedel_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Friedel_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Friedel_4-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Friedel_4-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Friedel_4-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text">Birgit Friedel, G. Ulrich Großmann (translated by Margaret Marks): <i>Nuremberg Imperial Palace.</i> Verlag Schnell &amp; Steiner, Regensburg 2006, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-7954-1877-9" title="Special:BookSources/978-3-7954-1877-9">978-3-7954-1877-9</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">This article is based on the two foregoing sources, unless indicated otherwise</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.angewandte-geologie.geol.uni-erlangen.de/nbg2.htm">Alfons Baier: <i>Zur Geschichte, Geologie und Hydrologie des Burgberges zu Nürnberg.</i></a> (Kurzfassung - abstract), on the website of FAU — Friedrich-Alexander Universität Erlangen-Nürnberg</span></li>
+<li id="cite_note-FriedelHLB-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-FriedelHLB_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FriedelHLB_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FriedelHLB_7-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-FriedelHLB_7-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-FriedelHLB_7-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.historisches-lexikon-bayerns.de/Lexikon/N%C3%BCrnberger_Burg">Birgit Friedel: <i>Nürnberger Burg.</i></a> Article of 4 October 2010 in: <a href="/wiki/Historisches_Lexikon_Bayerns" title="Historisches Lexikon Bayerns">Historisches Lexikon Bayerns</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Document 253 in: Harry Bresslau und Paul Kehr: <i>Die Urkunden der Deutschen Könige und Kaiser</i>. Fünfter Band: <i>Die Urkunden Heinrichs III</i>. Berlin 1931 (<a rel="nofollow" class="external text" href="http://www.dmgh.de/de/fs1/object/goToPage/bsb00000449.html?pageNo=336&amp;sortIndex=030%3A040%3A0005%3A010%3A00%3A00">digitization</a> by <a href="/wiki/Monumenta_Germaniae_Historica" title="Monumenta Germaniae Historica">Monumenta Germaniae Historica</a>)</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Document 30 in: Harry Bresslau unter Mitwirkung von H. Wibel und A. Hessel (Hrsg.): Diplomata 15: Die Urkunden Konrads II. (Conradi II. Diplomata) Mit Nachträgen zu den Urkunden Heinrichs II.. Hannover 1909, p. 33–34 (<a rel="nofollow" class="external text" href="http://www.dmgh.de/de/fs1/object/display/bsb00000448_00059.html?sortIndex=030%3A040%3A0004%3A010%3A00%3A00&amp;zoom=1.00">digitization</a> by <a href="/wiki/Monumenta_Germaniae_Historica" title="Monumenta Germaniae Historica">Monumenta Germaniae Historica</a>)</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.historisches-lexikon-bayerns.de/Lexikon/N%C3%BCrnberg,_Reichsstadt:_Politische_und_soziale_Entwicklung">Michael Diefenbacher: <i>Nürnberg, Reichsstadt: Politische und soziale Entwicklung.</i></a> In: <a href="/wiki/Historisches_Lexikon_Bayerns" title="Historisches Lexikon Bayerns">Historisches Lexikon Bayerns</a></span></li>
+</ol>
+</div>
+</div>
+<p><b>Bibliography</b></p>
+<ul>
+<li>Mummenhoff, Ernst, 1926: <i>Die Burg zu Nürnberg. Geschichtlicher Führer für Einheimische und Fremde</i> (4th edition, reprinted 1997, with an afterword by the editor G. Ulrich Grossmann) Nuremberg</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuremberg_Castle&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Nuremberg_Castle" class="extiw" title="commons:Category:Nuremberg Castle">Nuremberg Castle</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.kaiserburg-nuernberg.de/englisch/castle/index.htm"><i>Imperial Castle of Nuremberg,</i></a> <a href="/wiki/Bavarian_Administration_of_State-Owned_Palaces,_Gardens_and_Lakes" title="Bavarian Administration of State-Owned Palaces, Gardens and Lakes">Bavarian Administration of State-Owned Palaces, Gardens and Lakes</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.historisches-lexikon-bayerns.de/Lexikon/N%C3%BCrnberger_Burg">Birgit Friedel: <i>Nürnberger Burg.</i></a> Article of 4 October 2010 in: <a href="/wiki/Historisches_Lexikon_Bayerns" title="Historisches Lexikon Bayerns">Historisches Lexikon Bayerns</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/240854118">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/240854118">240854118</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/subjects/sh00007031">sh00007031</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4123855-2">4123855-2</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1231
+Cached time: 20170925005150
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.176 seconds
+Real time usage: 0.240 seconds
+Preprocessor visited node count: 1168/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 9575/2097152 bytes
+Template argument size: 1319/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 2/500
+Lua time usage: 0.044/10.000 seconds
+Lua memory usage: 1.59 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  178.276      1 -total
+ 28.87%   51.463      1 Template:Reflist
+ 28.17%   50.223      1 Template:Coord
+ 17.02%   30.339      2 Template:ISBN
+ 14.98%   26.708      1 Template:Lang-de
+ 14.52%   25.886      2 Template:Lang
+ 14.15%   25.235      1 Template:Language_with_name
+ 13.16%   23.454      2 Template:Category_handler
+  9.16%   16.330      1 Template:Commonscat
+  7.99%   14.240      1 Template:Authority_control
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1623416-0!canonical and timestamp 20170925005150 and revision id 787362811
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Nuremberg_Castle&amp;oldid=787362811">https://en.wikipedia.org/w/index.php?title=Nuremberg_Castle&amp;oldid=787362811</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Castles_in_Bavaria" title="Category:Castles in Bavaria">Castles in Bavaria</a></li><li><a href="/wiki/Category:Buildings_and_structures_in_Nuremberg" title="Category:Buildings and structures in Nuremberg">Buildings and structures in Nuremberg</a></li><li><a href="/wiki/Category:Imperial_castles" title="Category:Imperial castles">Imperial castles</a></li><li><a href="/wiki/Category:Registered_historic_buildings_and_monuments_in_Bavaria" title="Category:Registered historic buildings and monuments in Bavaria">Registered historic buildings and monuments in Bavaria</a></li><li><a href="/wiki/Category:Imperial_palaces_of_the_Holy_Roman_Empire" title="Category:Imperial palaces of the Holy Roman Empire">Imperial palaces of the Holy Roman Empire</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_containing_German-language_text" title="Category:Articles containing German-language text">Articles containing German-language text</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Nuremberg+Castle" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Nuremberg+Castle" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Nuremberg_Castle" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Nuremberg_Castle" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Nuremberg_Castle">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Nuremberg_Castle&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Nuremberg_Castle&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Nuremberg_Castle" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Nuremberg_Castle" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Nuremberg_Castle&amp;oldid=787362811" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Nuremberg_Castle&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q707396" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Nuremberg_Castle&amp;id=787362811" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Nuremberg+Castle">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Nuremberg+Castle&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DNuremberg%2BCastle%26returnto%3DNuremberg%2BCastle%26oldid%3D787362811%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Nuremberg_Castle&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Nuremberg_Castle" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/N%C3%BCrnberger_Burg" title="Nürnberger Burg – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/N%C3%BCrnberger_Burg" title="Nürnberger Burg – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Castillo_de_N%C3%BAremberg" title="Castillo de Núremberg – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Nurenberga_burgo" title="Nurenberga burgo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Nurenbergko_gaztelua" title="Nurenbergko gaztelua – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Nuremberg" title="Château de Nuremberg – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%86%D5%B5%D5%B8%D6%82%D6%80%D5%B6%D5%A2%D5%A5%D6%80%D5%A3_%D5%A1%D5%B4%D6%80%D5%B8%D6%81" title="Նյուրնբերգ ամրոց – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Kastil_N%C3%BCrnberg" title="Kastil Nürnberg – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Kastalinn_%C3%AD_N%C3%BCrnberg" title="Kastalinn í Nürnberg – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Castello_Imperiale_di_Norimberga" title="Castello Imperiale di Norimberga – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%98%D7%99%D7%A8%D7%AA_%D7%A0%D7%99%D7%A8%D7%A0%D7%91%D7%A8%D7%92" title="טירת נירנברג – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/N%C3%BCrnberger_Burg" title="Nürnberger Burg – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%AB%E3%83%B3%E3%83%99%E3%83%AB%E3%82%AF%E5%9F%8E" title="ニュルンベルク城 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D9%82%D9%84%D8%B9_%D9%86%DB%8C%D9%88%D8%B1%D9%85%D8%A8%D8%B1%DA%AF" title="قلع نیورمبرگ – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Zamek_w_Norymberdze" title="Zamek w Norymberdze – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Castelul_din_N%C3%BCrnberg" title="Castelul din Nürnberg – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9D%D1%8E%D1%80%D0%BD%D0%B1%D0%B5%D1%80%D0%B3%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C" title="Нюрнбергская крепость – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/N%C3%BCrnber%C5%A1ki_grad" title="Nürnberški grad – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9D%D1%8E%D1%80%D0%BD%D0%B1%D0%B5%D1%80%D0%B7%D1%8C%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F" title="Нюрнберзька фортеця – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/L%C3%A2u_%C4%91%C3%A0i_N%C3%BCrnberg" title="Lâu đài Nürnberg – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%BA%BD%E4%BC%A6%E5%A0%A1%E5%9F%8E%E5%A0%A1" title="纽伦堡城堡 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q707396#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 24 June 2017, at 23:41.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Nuremberg_Castle&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.176","walltime":"0.240","ppvisitednodes":{"value":1168,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":9575,"limit":2097152},"templateargumentsize":{"value":1319,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  178.276      1 -total"," 28.87%   51.463      1 Template:Reflist"," 28.17%   50.223      1 Template:Coord"," 17.02%   30.339      2 Template:ISBN"," 14.98%   26.708      1 Template:Lang-de"," 14.52%   25.886      2 Template:Lang"," 14.15%   25.235      1 Template:Language_with_name"," 13.16%   23.454      2 Template:Category_handler","  9.16%   16.330      1 Template:Commonscat","  7.99%   14.240      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.044","limit":"10.000"},"limitreport-memusage":{"value":1671138,"limit":52428800}},"cachereport":{"origin":"mw1231","timestamp":"20170925005150","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":72,"wgHostname":"mw1268"});});</script>
+	</body>
+</html>

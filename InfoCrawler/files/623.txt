@@ -1,0 +1,879 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Trams in Nuremberg - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Trams_in_Nuremberg","wgTitle":"Trams in Nuremberg","wgCurRevisionId":764564951,"wgRevisionId":764564951,"wgArticleId":33676192,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Interlanguage link template link number","Articles with German-language external links","Articles containing German-language text","Articles containing potentially dated statements from 2013","All articles containing potentially dated statements","Coordinates on Wikidata","Tram transport in Germany","Transport in Nuremberg","Standard gauge railways in Germany","1432 mm gauge railways in Germany","600 V DC railway electrification","Town tramway systems by city"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Trams_in_Nuremberg","wgRelevantArticleId":33676192,"wgRequestId":"WcfKqApAEKcAAAVmcygAAAAW","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":49.45,"lon":11.083333333333},"wgWikibaseItemId":"Q318656","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Liesel_17-03-2012_N%C3%BCrnberg_Friedrich-Ebert-Platz_GT8N.JPG/1200px-Liesel_17-03-2012_N%C3%BCrnberg_Friedrich-Ebert-Platz_GT8N.JPG"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Trams_in_Nuremberg"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Trams_in_Nuremberg&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Trams_in_Nuremberg&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Trams_in_Nuremberg"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Trams_in_Nuremberg rootpage-Trams_in_Nuremberg skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Trams in Nuremberg</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="width:22em">
+<caption>Nuremberg tramway network</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Liesel_17-03-2012_N%C3%BCrnberg_Friedrich-Ebert-Platz_GT8N.JPG" class="image" title="A GT8N tram in Friedrich-Ebert-Platz, 2012."><img alt="A GT8N tram in Friedrich-Ebert-Platz, 2012." src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Liesel_17-03-2012_N%C3%BCrnberg_Friedrich-Ebert-Platz_GT8N.JPG/220px-Liesel_17-03-2012_N%C3%BCrnberg_Friedrich-Ebert-Platz_GT8N.JPG" width="220" height="171" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Liesel_17-03-2012_N%C3%BCrnberg_Friedrich-Ebert-Platz_GT8N.JPG/330px-Liesel_17-03-2012_N%C3%BCrnberg_Friedrich-Ebert-Platz_GT8N.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/Liesel_17-03-2012_N%C3%BCrnberg_Friedrich-Ebert-Platz_GT8N.JPG/440px-Liesel_17-03-2012_N%C3%BCrnberg_Friedrich-Ebert-Platz_GT8N.JPG 2x" data-file-width="2172" data-file-height="1692" /></a>
+<div>A <a href="/wiki/ADtranz_low_floor_tram" title="ADtranz low floor tram">GT6N</a> tram in Friedrich-Ebert-Platz, 2012.</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #efefef">Operation</th>
+</tr>
+<tr>
+<th scope="row">Locale</th>
+<td><a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a>, <a href="/wiki/Bavaria" title="Bavaria">Bavaria</a>, <a href="/wiki/Germany" title="Germany">Germany</a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<table style="width: 100%; margin: 0; background-color: #f9f9f9; text-align: left" class="collapsible show">
+<tr>
+<th colspan="2" style="background-color: #efefef; text-align: center"><a href="/wiki/Horsecar" title="Horsecar">Horsecar</a> era: 1881<span style="display:none">&#160;(<span class="bday dtstart published updated">1881</span>)</span>–1898<span style="display:none">&#160;(<span class="dtend">1898</span>)</span></th>
+</tr>
+<tr>
+<th>Status</th>
+<td>Converted to electricity</td>
+</tr>
+<tr>
+<th><a href="/wiki/Track_gauge" title="Track gauge">Track gauge</a></th>
+<td><span class="nowrap">1,435&#160;mm</span> (<span class="nowrap">4&#160;ft&#160;<span class="frac">8<span class="visualhide">&#160;</span><sup>1</sup>⁄<sub>2</sub></span>&#160;in</span>)</td>
+</tr>
+<tr>
+<th>Propulsion <span class="nowrap">system(s)</span></th>
+<td>Horses</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<table style="width: 100%; margin: 0; background-color: #f9f9f9; text-align: left" class="collapsible show">
+<tr>
+<th colspan="2" style="background-color: #efefef; text-align: center"><a href="/wiki/Electric_tram" class="mw-redirect" title="Electric tram">Electric tram</a> era: since 1896<span style="display:none">&#160;(<span class="bday dtstart published updated">1896</span>)</span></th>
+</tr>
+<tr>
+<th>Status</th>
+<td>Operational</td>
+</tr>
+<tr>
+<th>Lines</th>
+<td>5<sup id="cite_ref-tramlines_1-0" class="reference"><a href="#cite_note-tramlines-1">[1]</a></sup><sup id="cite_ref-facts_2-0" class="reference"><a href="#cite_note-facts-2">[2]</a></sup></td>
+</tr>
+<tr>
+<th>Operator(s)</th>
+<td><a href="/w/index.php?title=VAG_Verkehrs-Aktiengesellschaft_N%C3%BCrnberg&amp;action=edit&amp;redlink=1" class="new" title="VAG Verkehrs-Aktiengesellschaft Nürnberg (page does not exist)">VAG Verkehrs-Aktiengesellschaft Nürnberg</a><span class="noprint" style="font-size:85%; font-style: normal;">&#160;(<a href="https://de.wikipedia.org/wiki/VAG_Verkehrs-Aktiengesellschaft_N%C3%BCrnberg" class="extiw" title="de:VAG Verkehrs-Aktiengesellschaft Nürnberg">de</a>)</span> (VAG)</td>
+</tr>
+<tr>
+<th><a href="/wiki/Track_gauge" title="Track gauge">Track gauge</a></th>
+<td><span class="nowrap">1,435&#160;mm</span> (<span class="nowrap">4&#160;ft&#160;<span class="frac">8<span class="visualhide">&#160;</span><sup>1</sup>⁄<sub>2</sub></span>&#160;in</span>) <span class="nowrap">standard gauge</span></td>
+</tr>
+<tr>
+<th>Propulsion <span class="nowrap">system(s)</span></th>
+<td>Electricity</td>
+</tr>
+<tr>
+<th><a href="/wiki/Railway_electrification_system" title="Railway electrification system">Electrification</a></th>
+<td>600 <a href="/wiki/Volts" class="mw-redirect" title="Volts">V</a> <a href="/wiki/Direct_current" title="Direct current">DC</a></td>
+</tr>
+<tr>
+<th>Stock</th>
+<td>48<sup id="cite_ref-report_3-0" class="reference"><a href="#cite_note-report-3">[3]</a></sup></td>
+</tr>
+<tr>
+<th><a href="/wiki/Network_length_(transport)#Route_length" title="Network length (transport)">Route length</a></th>
+<td>33&#160;km (21&#160;mi)<sup id="cite_ref-report_3-1" class="reference"><a href="#cite_note-report-3">[3]</a></sup></td>
+</tr>
+<tr>
+<th><a href="/wiki/Tram_stop" title="Tram stop">Stops</a></th>
+<td>76<sup id="cite_ref-facts_2-1" class="reference"><a href="#cite_note-facts-2">[2]</a></sup></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Stra%C3%9Fenbahnnetz_N%C3%BCrnberg.png" class="image" title="Tramway network, 2012"><img alt="Tramway network, 2012" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Stra%C3%9Fenbahnnetz_N%C3%BCrnberg.png/250px-Stra%C3%9Fenbahnnetz_N%C3%BCrnberg.png" width="250" height="296" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Stra%C3%9Fenbahnnetz_N%C3%BCrnberg.png/375px-Stra%C3%9Fenbahnnetz_N%C3%BCrnberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Stra%C3%9Fenbahnnetz_N%C3%BCrnberg.png/500px-Stra%C3%9Fenbahnnetz_N%C3%BCrnberg.png 2x" data-file-width="2371" data-file-height="2807" /></a></div>
+</div>
+</td>
+</tr>
+<tr>
+<th>Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.vgn.de/">Verkehrsverbund Großraum Nürnberg GmbH <span class="languageicon">(in German)</span></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>The <b>Nuremberg tramway network</b> (<a href="/wiki/German_language" title="German language">German</a>: <span lang="de" xml:lang="de"><i>Straßenbahnnetz Nürnberg</i></span>) is a <a href="/wiki/Transport_network" title="Transport network">network</a> of <a href="/wiki/Tram" title="Tram">tramways</a> forming part of the <a href="/wiki/Public_transport" title="Public transport">public transport</a> system in <a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a>, a city in the <a href="/wiki/States_of_Germany" title="States of Germany">federal state</a> of <a href="/wiki/Bavaria" title="Bavaria">Bavaria</a>, Germany.</p>
+<p>The network is operated by <a href="/w/index.php?title=VAG_Verkehrs-Aktiengesellschaft_N%C3%BCrnberg&amp;action=edit&amp;redlink=1" class="new" title="VAG Verkehrs-Aktiengesellschaft Nürnberg (page does not exist)">VAG Verkehrs-Aktiengesellschaft Nürnberg</a><span class="noprint" style="font-size:85%; font-style: normal;">&#160;(<a href="https://de.wikipedia.org/wiki/VAG_Verkehrs-Aktiengesellschaft_N%C3%BCrnberg" class="extiw" title="de:VAG Verkehrs-Aktiengesellschaft Nürnberg">de</a>)</span> (VAG), which is a member of the VGN (Verkehrsverbund Großraum Nürnberg or Greater Nuremberg Transport Network).</p>
+<p>As of 2013<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Trams_in_Nuremberg&amp;action=edit">[update]</a></sup>, the network consisted of five lines,<sup id="cite_ref-tramlines_1-1" class="reference"><a href="#cite_note-tramlines-1">[1]</a></sup> running on a total operational route length of 33 kilometres (21&#160;mi).<sup id="cite_ref-report_3-2" class="reference"><a href="#cite_note-report-3">[3]</a></sup> The network carried 39.152 million passengers annually.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Lines"><span class="tocnumber">2</span> <span class="toctext">Lines</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Expansion_plans"><span class="tocnumber">3</span> <span class="toctext">Expansion plans</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Notes"><span class="tocnumber">5.1</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Bibliography"><span class="tocnumber">5.2</span> <span class="toctext">Bibliography</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Trams_in_Nuremberg&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The first horse-drawn tramline opened in Nuremberg on 25 August 1881.<sup id="cite_ref-history1_4-0" class="reference"><a href="#cite_note-history1-4">[4]</a></sup></p>
+<p>Electrification came to the system when the first electric tramline opened on 7 May 1896.<sup id="cite_ref-history1_4-1" class="reference"><a href="#cite_note-history1-4">[4]</a></sup> The entire system was electrified on 20 July 1898.<sup id="cite_ref-history1_4-2" class="reference"><a href="#cite_note-history1-4">[4]</a></sup> Until the 1990s the <a href="/wiki/Track_gauge" title="Track gauge">track gauge</a> was <span class="nowrap">1,432&#160;mm</span> (<span class="nowrap">4&#160;ft&#160;<span class="frac">8<span class="visualhide">&#160;</span><sup>3</sup>⁄<sub>8</sub></span>&#160;in</span>).</p>
+<h2><span class="mw-headline" id="Lines">Lines</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Trams_in_Nuremberg&amp;action=edit&amp;section=2" title="Edit section: Lines">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Nuremberg tramway network operated on six lines until 2011,<sup id="cite_ref-report_3-3" class="reference"><a href="#cite_note-report-3">[3]</a></sup> when two tram lines were joined.</p>
+<p>The network is made up of 96 kilometres (60&#160;mi) of track,<sup id="cite_ref-facts_2-2" class="reference"><a href="#cite_note-facts-2">[2]</a></sup> with a total route length of 37 kilometres (23&#160;mi),<sup id="cite_ref-facts_2-3" class="reference"><a href="#cite_note-facts-2">[2]</a></sup> of which 33 kilometres (21&#160;mi)<sup id="cite_ref-facts_2-4" class="reference"><a href="#cite_note-facts-2">[2]</a></sup> is operational route. Of the tram's operational route, 41% is tramline segregated from other traffic, with the other 59% representing trams operating in the street with other automobile traffic.<sup id="cite_ref-facts_2-5" class="reference"><a href="#cite_note-facts-2">[2]</a></sup></p>
+<p>The Nuremberg tramway network is made up of the following five lines:<sup id="cite_ref-tramlines_1-2" class="reference"><a href="#cite_note-tramlines-1">[1]</a></sup></p>
+<table class="wikitable sortable">
+<tr>
+<th>Line</th>
+<th class="unsortable">Route <small>(crossing points and termini)</small></th>
+<th>Stops</th>
+</tr>
+<tr>
+<td align="center"><span title="" style="font-weight:bold; white-space:nowrap; font-size:85%; padding:0px .4em; border:1px solid #F3858E;background-color: #F3858E; -webkit-border-radius: 1ex; -moz-border-radius: 1ex; border-radius: 1ex; color: #FFFFFF;">4</span></td>
+<td><a href="/w/index.php?title=Gibitzenhof&amp;action=edit&amp;redlink=1" class="new" title="Gibitzenhof (page does not exist)">Gibitzenhof</a> – Landgrabenstraße – Hallertor – <a href="/w/index.php?title=Friedrich-Ebert-Platz,_Nuremberg&amp;action=edit&amp;redlink=1" class="new" title="Friedrich-Ebert-Platz, Nuremberg (page does not exist)">Friedrich-Ebert-Platz</a> – Am Wegfeld</td>
+<td align="center">19</td>
+</tr>
+<tr>
+<td align="center"><span title="" style="font-weight:bold; white-space:nowrap; font-size:85%; padding:0px .4em; border:1px solid #9052A1;background-color: #9052A1; -webkit-border-radius: 1ex; -moz-border-radius: 1ex; border-radius: 1ex; color: #FFFFFF;">5</span></td>
+<td><a href="/wiki/Tiergarten_N%C3%BCrnberg" class="mw-redirect" title="Tiergarten Nürnberg">Tiergarten</a> – <a href="/w/index.php?title=M%C3%B6geldorf&amp;action=edit&amp;redlink=1" class="new" title="Mögeldorf (page does not exist)">Mögeldorf</a> – Marientunnel – <a href="/wiki/N%C3%BCrnberg_Hauptbahnhof" class="mw-redirect" title="Nürnberg Hauptbahnhof">Hauptbahnhof</a> - Aufseßplatz - Frankenstraße - Südfriedhof</td>
+<td align="center">26</td>
+</tr>
+<tr>
+<td align="center"><span title="" style="font-weight:bold; white-space:nowrap; font-size:85%; padding:0px .4em; border:1px solid #FFF200;background-color: #FFF200; -webkit-border-radius: 1ex; -moz-border-radius: 1ex; border-radius: 1ex; color: #000000;">6</span></td>
+<td><a href="/wiki/Dokumentationszentrum_Reichsparteitagsgel%C3%A4nde" class="mw-redirect" title="Dokumentationszentrum Reichsparteitagsgelände">Doku-Zentrum</a> – <a href="/w/index.php?title=Dutzendteich&amp;action=edit&amp;redlink=1" class="new" title="Dutzendteich (page does not exist)">Dutzendteich</a> – Schweiggerstraße – Christuskirche – Landgrabenstraße – Hallertor – Westfriedhof</td>
+<td align="center">22</td>
+</tr>
+<tr>
+<td align="center"><span title="" style="font-weight:bold; white-space:nowrap; font-size:85%; padding:0px .4em; border:1px solid #00B9F2;background-color: #00B9F2; -webkit-border-radius: 1ex; -moz-border-radius: 1ex; border-radius: 1ex; color: #FFFFFF;">8</span></td>
+<td>Tristanstraße - Hauptbahnhof – <a href="/w/index.php?title=Rathenauplatz,_Nuremberg&amp;action=edit&amp;redlink=1" class="new" title="Rathenauplatz, Nuremberg (page does not exist)">Rathenauplatz</a> – <a href="/w/index.php?title=Erlenstegen&amp;action=edit&amp;redlink=1" class="new" title="Erlenstegen (page does not exist)">Erlenstegen</a></td>
+<td align="center">17</td>
+</tr>
+<tr>
+<td align="center"><span title="" style="font-weight:bold; white-space:nowrap; font-size:85%; padding:0px .4em; border:1px solid #C85789;background-color: #C85789; -webkit-border-radius: 1ex; -moz-border-radius: 1ex; border-radius: 1ex; color: #FFFFFF;">9</span></td>
+<td>Doku-Zentrum – Wodanstraße – Schweiggerstraße – Hauptbahnhof</td>
+<td align="center">9</td>
+</tr>
+</table>
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Stra%C3%9Fenbahn_N%C3%BCrnberg_Linienband.png" class="image" title="line network"><img alt="line network" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Stra%C3%9Fenbahn_N%C3%BCrnberg_Linienband.png/900px-Stra%C3%9Fenbahn_N%C3%BCrnberg_Linienband.png" width="900" height="309" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Stra%C3%9Fenbahn_N%C3%BCrnberg_Linienband.png/1350px-Stra%C3%9Fenbahn_N%C3%BCrnberg_Linienband.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Stra%C3%9Fenbahn_N%C3%BCrnberg_Linienband.png/1800px-Stra%C3%9Fenbahn_N%C3%BCrnberg_Linienband.png 2x" data-file-width="4529" data-file-height="1556" /></a></div>
+</div>
+<p><br /></p>
+<h2><span class="mw-headline" id="Expansion_plans">Expansion plans</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Trams_in_Nuremberg&amp;action=edit&amp;section=3" title="Edit section: Expansion plans">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>After a 2016 ballot measure in Erlangen, the section to am Wegfeld is planned to be extended to <a href="/wiki/Erlangen" title="Erlangen">Erlangen</a> and from there to <a href="/wiki/Herzogenaurach" title="Herzogenaurach">Herzogenaurach</a> in a roughly L-shaped line. Herzogenaurach previously had a connection to mainline rail, but it was shut down in the 1980s, leaving it one of southern Germany's biggest cities without a rail connection.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Trams_in_Nuremberg&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Sinnbild_Stra%C3%9Fenbahn.svg/32px-Sinnbild_Stra%C3%9Fenbahn.svg.png" width="32" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Sinnbild_Stra%C3%9Fenbahn.svg/48px-Sinnbild_Stra%C3%9Fenbahn.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Sinnbild_Stra%C3%9Fenbahn.svg/64px-Sinnbild_Stra%C3%9Fenbahn.svg.png 2x" data-file-width="740" data-file-height="360" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Trams" title="Portal:Trams">Trams portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="flag" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/32px-Flag_of_Bavaria_%28lozengy%29.svg.png" width="32" height="19" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/48px-Flag_of_Bavaria_%28lozengy%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/64px-Flag_of_Bavaria_%28lozengy%29.svg.png 2x" data-file-width="1000" data-file-height="600" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Bavaria" title="Portal:Bavaria">Bavaria portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Nuremberg_U-Bahn" title="Nuremberg U-Bahn">Nuremberg U-Bahn</a></li>
+<li><a href="/wiki/Nuremberg_S-Bahn" title="Nuremberg S-Bahn">Nuremberg S-Bahn</a></li>
+<li><a href="/wiki/Trams_in_Germany" title="Trams in Germany">Trams in Germany</a></li>
+<li><a href="/wiki/List_of_town_tramway_systems_in_Germany" class="mw-redirect" title="List of town tramway systems in Germany">List of town tramway systems in Germany</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Trams_in_Nuremberg&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Trams_in_Nuremberg&amp;action=edit&amp;section=6" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-tramlines-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-tramlines_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-tramlines_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-tramlines_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.vgn.de/linien/strassenbahn_nbg/">"Straßenbahn Stadtverkehr Nürnberg"</a> [Tramline traffic (lines) Nuremberg] (in German). VGN<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-10-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATrams+in+Nuremberg&amp;rft.btitle=Stra%C3%9Fenbahn+Stadtverkehr+N%C3%BCrnberg&amp;rft.genre=unknown&amp;rft.pub=VGN&amp;rft_id=http%3A%2F%2Fwww.vgn.de%2Flinien%2Fstrassenbahn_nbg%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-facts-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-facts_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-facts_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-facts_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-facts_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-facts_2-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-facts_2-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.vag.de/Wussten-Sie/m161l1/Wussten-Sie.html#Strassenbahn">"Wussten Sie? - Wussten Sie zum Thema "Straßenbahn<span style="padding-right:0.2em;">"</span>"</a> [Did you know? - Facts about the Tram] (in German). VAG<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-10-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATrams+in+Nuremberg&amp;rft.btitle=Wussten+Sie%3F+-+Wussten+Sie+zum+Thema+%22Stra%C3%9Fenbahn%22&amp;rft.genre=unknown&amp;rft.pub=VAG&amp;rft_id=http%3A%2F%2Fwww.vag.de%2FWussten-Sie%2Fm161l1%2FWussten-Sie.html%23Strassenbahn&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-report-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-report_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-report_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-report_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-report_3-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.vag.de/gb/2012/fbook-files/VAG-Geschaeftsbericht_2012.pdf">"Geschäftsbericht 2012 Ziele erreichen – auf ganzer Strecke"</a> [Annual Report 2012 Targets achieved - over the whole distance] <span style="font-size:85%;">(PDF)</span> (in German). VAG. June 2013. p.&#160;2<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-10-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATrams+in+Nuremberg&amp;rft.btitle=Gesch%C3%A4ftsbericht+2012+Ziele+erreichen+%E2%80%93+auf+ganzer+Strecke&amp;rft.date=2013-06&amp;rft.genre=unknown&amp;rft.pages=2&amp;rft.pub=VAG&amp;rft_id=http%3A%2F%2Fwww.vag.de%2Fgb%2F2012%2Ffbook-files%2FVAG-Geschaeftsbericht_2012.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-history1-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-history1_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-history1_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-history1_4-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.vag.de/mod/pressearchiv/view/cp-m106/pressemeldung-679/125-Jahre-Nahverkehr-in-Nuernberg-Am-25-August-1881-fuhr-die-erste-Pferdebahn">"125 Jahre Nahverkehr in Nürnberg: Am 25. August 1881 fuhr die erste Pferdebahn"</a> [125 years suburban traffic in Nuremberg: On 25 August 1881, the first horse tram line] (in German). VAG<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-10-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATrams+in+Nuremberg&amp;rft.btitle=125+Jahre+Nahverkehr+in+N%C3%BCrnberg%3A+Am+25.+August+1881+fuhr+die+erste+Pferdebahn&amp;rft.genre=unknown&amp;rft.pub=VAG&amp;rft_id=http%3A%2F%2Fwww.vag.de%2Fmod%2Fpressearchiv%2Fview%2Fcp-m106%2Fpressemeldung-679%2F125-Jahre-Nahverkehr-in-Nuernberg-Am-25-August-1881-fuhr-die-erste-Pferdebahn&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<h3><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Trams_in_Nuremberg&amp;action=edit&amp;section=7" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="refbegin" style="">
+<ul>
+<li><cite class="citation book">Binder, Robert; et al. (1986). <i>Der Stadtverkehr in Nürnberg und Fürth von 1881 bis 1981</i> [<i>City Transport in Nuremberg and Fürth from 1881 to 1981</i>] (in German). Nürnberg: Presse- und Öffentlichkeitsstelle der VAG.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATrams+in+Nuremberg&amp;rft.aufirst=Robert&amp;rft.aulast=Binder&amp;rft.btitle=Der+Stadtverkehr+in+N%C3%BCrnberg+und+F%C3%BCrth+von+1881+bis+1981&amp;rft.date=1986&amp;rft.genre=book&amp;rft.place=N%C3%BCrnberg&amp;rft.pub=Presse-+und+%C3%96ffentlichkeitsstelle+der+VAG&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Hendlemeier, Wolfgang (1981). <i>Handbuch der deutschen Straßenbahngeschichte</i> [<i>Handbook of German Tram History</i>] (in German). <b>1</b>. München.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATrams+in+Nuremberg&amp;rft.aufirst=Wolfgang&amp;rft.aulast=Hendlemeier&amp;rft.btitle=Handbuch+der+deutschen+Stra%C3%9Fenbahngeschichte&amp;rft.date=1981&amp;rft.genre=book&amp;rft.place=M%C3%BCnchen&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFH.C3.B6ltgeKochems2006" class="citation book">Höltge, Dieter; Kochems, Michael (2006). <i>Straßen- und Stadtbahnen in Deutschland</i> [<i>Tramways and</i> Stadtbahnen <i>in Germany</i>]. Band 10: Bayern [Volume 10: Bavaria]. Freiburg i. B., Germany: EK-Verlag. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/388255391X" title="Special:BookSources/388255391X">388255391X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATrams+in+Nuremberg&amp;rft.au=Kochems%2C+Michael&amp;rft.aufirst=Dieter&amp;rft.aulast=H%C3%B6ltge&amp;rft.btitle=Stra%C3%9Fen-+und+Stadtbahnen+in+Deutschland&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=388255391X&amp;rft.place=Freiburg+i.+B.%2C+Germany&amp;rft.pub=EK-Verlag&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="languageicon">(in German)</span></li>
+<li><cite class="citation book">Klebes, Günther (1980). <i>Die Strassenbahnen Bayerns in alten Ansichten</i> [<i>The Trams of Bavaria in Old Postcards</i>] (in German). Zaltbommel. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/90-288-1197-4" title="Special:BookSources/90-288-1197-4">90-288-1197-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATrams+in+Nuremberg&amp;rft.aufirst=G%C3%BCnther&amp;rft.aulast=Klebes&amp;rft.btitle=Die+Strassenbahnen+Bayerns+in+alten+Ansichten&amp;rft.date=1980&amp;rft.genre=book&amp;rft.isbn=90-288-1197-4&amp;rft.place=Zaltbommel&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Schwandl, Robert (2012). <i>Schwandl's Tram Atlas Deutschland</i> (in German and English) (3rd ed.). Berlin: Robert Schwandl Verlag. pp.&#160;110–113. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9783936573336" title="Special:BookSources/9783936573336">9783936573336</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATrams+in+Nuremberg&amp;rft.aufirst=Robert&amp;rft.aulast=Schwandl&amp;rft.btitle=Schwandl%27s+Tram+Atlas+Deutschland&amp;rft.date=2012&amp;rft.edition=3rd&amp;rft.genre=book&amp;rft.isbn=9783936573336&amp;rft.pages=110-113&amp;rft.place=Berlin&amp;rft.pub=Robert+Schwandl+Verlag&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><i>Der Nahverkehr in Nürnberg und Fürth von 1982 bis 2008</i> [<i>Local Transport in Nuremberg and Fürth from 1982 to 2008</i>] (in German) (1 ed.). Nürnberg: Jürgen Heußner. 2009.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATrams+in+Nuremberg&amp;rft.btitle=Der+Nahverkehr+in+N%C3%BCrnberg+und+F%C3%BCrth+von+1982+bis+2008&amp;rft.date=2009&amp;rft.edition=1&amp;rft.genre=book&amp;rft.place=N%C3%BCrnberg&amp;rft.pub=J%C3%BCrgen+Heu%C3%9Fner&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><i>125 Jahre Nahverkehr in Nürnberg</i> [<i>125 Years Local Transport in Nuremberg</i>] (in German) (1 ed.). Nürnberg: Presse- und Öffentlichkeitsstelle der VAG. 2006. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-00-018689-9" title="Special:BookSources/978-3-00-018689-9">978-3-00-018689-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATrams+in+Nuremberg&amp;rft.btitle=125+Jahre+Nahverkehr+in+N%C3%BCrnberg&amp;rft.date=2006&amp;rft.edition=1&amp;rft.genre=book&amp;rft.isbn=978-3-00-018689-9&amp;rft.place=N%C3%BCrnberg&amp;rft.pub=Presse-+und+%C3%96ffentlichkeitsstelle+der+VAG&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><i>Nürnberg-Fürther Straßenbahn im Wandel der Zeiten</i> [<i>Nürnberg-Fürther Straßenbahn through the Ages</i>] (in German) (3 ed.). Nürnberg: Freunde der Nürnberg-Fürther Straßenbahn e.&#160;V. 2005.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATrams+in+Nuremberg&amp;rft.btitle=N%C3%BCrnberg-F%C3%BCrther+Stra%C3%9Fenbahn+im+Wandel+der+Zeiten&amp;rft.date=2005&amp;rft.edition=3&amp;rft.genre=book&amp;rft.place=N%C3%BCrnberg&amp;rft.pub=Freunde+der+N%C3%BCrnberg-F%C3%BCrther+Stra%C3%9Fenbahn+e.+V.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Trams_in_Nuremberg&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Trams_in_N%C3%BCrnberg" class="extiw" title="commons:Category:Trams in Nürnberg">Trams in Nürnberg</a> at Wikimedia Commons</p>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://transphoto.ru/city/181">Nürnberg database / photo gallery</a>&#160;and <a rel="nofollow" class="external text" href="http://transphoto.ru/list.php?t=1&amp;cid=181">Nürnberg tram list</a> at <a rel="nofollow" class="external text" href="http://transphoto.ru/">Urban Electric Transit</a> – in various languages, including English.</li>
+<li><a rel="nofollow" class="external text" href="http://phototrans.eu/06,167,0.html">Nürnberg database / photo gallery</a> at <a rel="nofollow" class="external text" href="http://phototrans.eu/">Phototrans</a> – in various languages, including English.</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="23x15px.7Cborder_.7Calt.3DGermany.7Clink.3DGermany_Stadtbahn_and_town_tramway_systems_in_Germany_by_Land_and_city" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Stadtbahn_and_town_tramway_systems" title="Template:Stadtbahn and town tramway systems"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Stadtbahn_and_town_tramway_systems" title="Template talk:Stadtbahn and town tramway systems"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Stadtbahn_and_town_tramway_systems&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="23x15px.7Cborder_.7Calt.3DGermany.7Clink.3DGermany_Stadtbahn_and_town_tramway_systems_in_Germany_by_Land_and_city" style="font-size:114%;margin:0 4em"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Stadtbahn" title="Stadtbahn">Stadtbahn</a> and <a href="/wiki/List_of_town_tramway_systems_in_Germany" class="mw-redirect" title="List of town tramway systems in Germany">town tramway</a> systems in Germany by <i><a href="/wiki/States_of_Germany" title="States of Germany">Land</a></i> and city</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Baden-W%C3%BCrttemberg" title="Baden-Württemberg">Baden-Württemberg</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Trams_in_Freiburg_im_Breisgau" title="Trams in Freiburg im Breisgau">Freiburg im Breisgau</a></li>
+<li><a href="/wiki/Heilbronn_Stadtbahn" title="Heilbronn Stadtbahn">Heilbronn</a></li>
+<li>Karlsruhe
+<ul>
+<li><a href="/wiki/Karlsruhe_Stadtbahn" title="Karlsruhe Stadtbahn">Stadtbahn</a></li>
+<li><a href="/wiki/Trams_in_Karlsruhe" title="Trams in Karlsruhe">Trams</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Trams_in_Heidelberg" title="Trams in Heidelberg">Heidelberg</a></li>
+<li><a href="/wiki/Trams_in_Mannheim/Ludwigshafen" title="Trams in Mannheim/Ludwigshafen">Mannheim</a></li>
+<li><a href="/wiki/Stuttgart_Stadtbahn" title="Stuttgart Stadtbahn">Stuttgart</a></li>
+<li><a href="/wiki/Trams_in_Ulm" title="Trams in Ulm">Ulm</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="14" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Stadtbahn.svg" class="image" title="Stadtbahn signature"><img alt="Stadtbahn signature" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Stadtbahn.svg/100px-Stadtbahn.svg.png" width="100" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Stadtbahn.svg/150px-Stadtbahn.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Stadtbahn.svg/200px-Stadtbahn.svg.png 2x" data-file-width="200" data-file-height="200" /></a><br />
+<a href="/wiki/File:Tram-Logo.svg" class="image" title="Tram signature"><img alt="Tram signature" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tram-Logo.svg/100px-Tram-Logo.svg.png" width="100" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tram-Logo.svg/150px-Tram-Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tram-Logo.svg/200px-Tram-Logo.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Bavaria" title="Bavaria">Bavaria</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Trams_in_Augsburg" title="Trams in Augsburg">Augsburg</a></li>
+<li><a href="/wiki/Trams_in_Munich" title="Trams in Munich">Munich</a></li>
+<li><a class="mw-selflink selflink">Nuremberg</a></li>
+<li><a href="/wiki/Trams_in_W%C3%BCrzburg" title="Trams in Würzburg">Würzburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Berlin" title="Berlin">Berlin</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Trams_in_Berlin" title="Trams in Berlin">Berlin</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Brandenburg" title="Brandenburg">Brandenburg</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Trams_in_Brandenburg_an_der_Havel" title="Trams in Brandenburg an der Havel">Brandenburg an der Havel</a></li>
+<li><a href="/wiki/Trams_in_Cottbus" title="Trams in Cottbus">Cottbus</a></li>
+<li><a href="/wiki/Trams_in_Frankfurt_(Oder)" title="Trams in Frankfurt (Oder)">Frankfurt (Oder)</a></li>
+<li><a href="/wiki/Trams_in_Potsdam" title="Trams in Potsdam">Potsdam</a></li>
+<li><a href="/w/index.php?title=Sch%C3%B6neiche%E2%80%93R%C3%BCdersdorf_Tramway&amp;action=edit&amp;redlink=1" class="new" title="Schöneiche–Rüdersdorf Tramway (page does not exist)">Schöneiche and Rüdersdorf</a><sup><small>1</small></sup></li>
+<li><a href="/wiki/Strausberg_Railway" title="Strausberg Railway">Strausberg</a></li>
+<li><a href="/w/index.php?title=Trams_in_Woltersdorf&amp;action=edit&amp;redlink=1" class="new" title="Trams in Woltersdorf (page does not exist)">Woltersdorf</a><sup><small>1</small></sup></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Bremen" title="Bremen">Bremen</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Trams_in_Bremen" title="Trams in Bremen">Bremen</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Hesse" title="Hesse">Hesse</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Trams_in_Darmstadt" title="Trams in Darmstadt">Darmstadt</a></li>
+<li>Frankfurt am Main
+<ul>
+<li><a href="/wiki/Frankfurt_U-Bahn" title="Frankfurt U-Bahn">Stadtbahn</a></li>
+<li><a href="/wiki/Trams_in_Frankfurt_am_Main" title="Trams in Frankfurt am Main">Trams</a></li>
+</ul>
+</li>
+<li>Kassel
+<ul>
+<li><a href="/wiki/Kassel_RegioTram" title="Kassel RegioTram">Stadtbahn</a></li>
+<li><a href="/wiki/Trams_in_Kassel" title="Trams in Kassel">Trams</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Lower_Saxony" title="Lower Saxony">Lower Saxony</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Trams_in_Braunschweig" title="Trams in Braunschweig">Braunschweig</a></li>
+<li><a href="/wiki/Hanover_Stadtbahn" title="Hanover Stadtbahn">Hanover</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Mecklenburg-Vorpommern" title="Mecklenburg-Vorpommern">Mecklenburg-Vorpommern</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Trams_in_Rostock" title="Trams in Rostock">Rostock</a></li>
+<li><a href="/wiki/Trams_in_Schwerin" title="Trams in Schwerin">Schwerin</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bielefeld_Stadtbahn" title="Bielefeld Stadtbahn">Bielefeld</a></li>
+<li>Bochum
+<ul>
+<li><a href="/wiki/Bochum_Stadtbahn" title="Bochum Stadtbahn">Stadtbahn</a></li>
+<li><a href="/wiki/Trams_in_Bochum/Gelsenkirchen" title="Trams in Bochum/Gelsenkirchen">Trams</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Bonn_Stadtbahn" title="Bonn Stadtbahn">Bonn</a></li>
+<li><a href="/wiki/Cologne_Stadtbahn" title="Cologne Stadtbahn">Cologne</a></li>
+<li><a href="/wiki/Stadtbahn_Dortmund" class="mw-redirect" title="Stadtbahn Dortmund">Dortmund</a></li>
+<li>Duisburg
+<ul>
+<li><a href="/wiki/Duisburg_Stadtbahn" title="Duisburg Stadtbahn">Stadtbahn</a></li>
+<li><a href="/wiki/Trams_in_Duisburg" title="Trams in Duisburg">Trams</a></li>
+</ul>
+</li>
+<li>Düsseldorf
+<ul>
+<li><a href="/wiki/D%C3%BCsseldorf_Stadtbahn" title="Düsseldorf Stadtbahn">Stadtbahn</a></li>
+<li><a href="/wiki/Trams_in_D%C3%BCsseldorf" title="Trams in Düsseldorf">Trams</a></li>
+</ul>
+</li>
+<li>Essen
+<ul>
+<li><a href="/wiki/Essen_Stadtbahn" title="Essen Stadtbahn">Stadtbahn</a></li>
+<li><a href="/wiki/Trams_in_Essen" title="Trams in Essen">Trams</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Trams_in_Bochum/Gelsenkirchen" title="Trams in Bochum/Gelsenkirchen">Gelsenkirchen</a></li>
+<li><a href="/wiki/Trams_in_Krefeld" title="Trams in Krefeld">Krefeld</a></li>
+<li><a href="/wiki/Trams_in_M%C3%BClheim/Oberhausen" title="Trams in Mülheim/Oberhausen">Mülheim/Oberhausen</a></li>
+<li><a href="/wiki/Rhine-Ruhr_Stadtbahn" title="Rhine-Ruhr Stadtbahn">Rhine-Ruhr</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Rhineland-Palatinate" title="Rhineland-Palatinate">Rhineland-Palatinate</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Trams_in_Mannheim/Ludwigshafen" title="Trams in Mannheim/Ludwigshafen">Ludwigshafen am Rhein</a></li>
+<li><a href="/wiki/Trams_in_Mainz" title="Trams in Mainz">Mainz</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Saarland" title="Saarland">Saarland</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"><a href="/wiki/Saarbahn" title="Saarbahn">Saarbrücken</a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Saxony" title="Saxony">Saxony</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Kirnitzschtal_tramway" title="Kirnitzschtal tramway">Bad Schandau-Kirnitzschtal</a></li>
+<li><a href="/wiki/Trams_in_Chemnitz" title="Trams in Chemnitz">Chemnitz</a></li>
+<li><a href="/wiki/Trams_in_Dresden" title="Trams in Dresden">Dresden</a></li>
+<li><a href="/wiki/Trams_in_G%C3%B6rlitz" title="Trams in Görlitz">Görlitz</a></li>
+<li><a href="/wiki/Trams_in_Leipzig" title="Trams in Leipzig">Leipzig</a></li>
+<li><a href="/wiki/Trams_in_Plauen" title="Trams in Plauen">Plauen</a></li>
+<li><a href="/wiki/Trams_in_Zwickau" title="Trams in Zwickau">Zwickau</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Saxony-Anhalt" title="Saxony-Anhalt">Saxony-Anhalt</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Trams_in_Dessau" title="Trams in Dessau">Dessau</a></li>
+<li><a href="/wiki/Trams_in_Halberstadt" title="Trams in Halberstadt">Halberstadt</a></li>
+<li><a href="/wiki/Trams_in_Halle_(Saale)" title="Trams in Halle (Saale)">Halle (Saale)</a></li>
+<li><a href="/wiki/Trams_in_Magdeburg" title="Trams in Magdeburg">Magdeburg</a></li>
+<li><a href="/wiki/Trams_in_Naumburg_(Saale)" title="Trams in Naumburg (Saale)">Naumburg (Saale)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Thuringia" title="Thuringia">Thuringia</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Erfurt_Stadtbahn" title="Erfurt Stadtbahn">Erfurt</a></li>
+<li><a href="/wiki/Trams_in_Gera" title="Trams in Gera">Gera</a></li>
+<li><a href="/wiki/Trams_in_Gotha" title="Trams in Gotha">Gotha</a></li>
+<li><a href="/wiki/Trams_in_Jena" title="Trams in Jena">Jena</a></li>
+<li><a href="/wiki/Trams_in_Nordhausen" title="Trams in Nordhausen">Nordhausen</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><sup><small>1</small></sup> Tramway lines departing from Berlin</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Urban_public_transport_networks_and_systems_in_Germany" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Urban_public_transport_in_Germany" title="Template:Urban public transport in Germany"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Urban_public_transport_in_Germany" title="Template talk:Urban public transport in Germany"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Urban_public_transport_in_Germany&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Urban_public_transport_networks_and_systems_in_Germany" style="font-size:114%;margin:0 4em">Urban <a href="/wiki/Public_transport" title="Public transport">public transport</a> networks and systems in <a href="/wiki/Germany" title="Germany">Germany</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/S-Bahn" class="mw-redirect" title="S-Bahn">S-Bahn</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Berlin_S-Bahn" title="Berlin S-Bahn">Berlin</a></li>
+<li><a href="/wiki/Bremen_S-Bahn" title="Bremen S-Bahn">Bremen</a></li>
+<li><a href="/wiki/Rhine-Ruhr_S-Bahn" title="Rhine-Ruhr S-Bahn">Cologne</a></li>
+<li><a href="/wiki/Dresden_S-Bahn" title="Dresden S-Bahn">Dresden</a></li>
+<li><i><a href="/w/index.php?title=Erfurt_S-Bahn&amp;action=edit&amp;redlink=1" class="new" title="Erfurt S-Bahn (page does not exist)">Erfurt</a></i><sup><small>1</small></sup></li>
+<li><a href="/wiki/Breisgau_S-Bahn" title="Breisgau S-Bahn">Freiburg</a></li>
+<li><a href="/wiki/Hamburg_S-Bahn" title="Hamburg S-Bahn">Hamburg</a></li>
+<li><a href="/wiki/Hanover_S-Bahn" title="Hanover S-Bahn">Hanover</a></li>
+<li><a href="/wiki/Karlsruhe_Stadtbahn" title="Karlsruhe Stadtbahn">Karlsruhe</a></li>
+<li><a href="/w/index.php?title=Magdeburg_S-Bahn&amp;action=edit&amp;redlink=1" class="new" title="Magdeburg S-Bahn (page does not exist)">Magdeburg</a></li>
+<li><a href="/wiki/S-Bahn_Mitteldeutschland" title="S-Bahn Mitteldeutschland">Mitteldeutschland</a></li>
+<li><a href="/wiki/Munich_S-Bahn" title="Munich S-Bahn">Munich</a></li>
+<li><a href="/wiki/Nuremberg_S-Bahn" title="Nuremberg S-Bahn">Nuremberg</a></li>
+<li><a href="/wiki/Ortenau_S-Bahn" title="Ortenau S-Bahn">Offenburg</a></li>
+<li><a href="/wiki/Rhine-Main_S-Bahn" title="Rhine-Main S-Bahn">Rhine-Main</a></li>
+<li><a href="/wiki/Rhine-Neckar_S-Bahn" title="Rhine-Neckar S-Bahn">Rhine-Neckar</a></li>
+<li><a href="/wiki/Rhine-Ruhr_S-Bahn" title="Rhine-Ruhr S-Bahn">Rhine-Ruhr</a></li>
+<li><a href="/wiki/Rostock_S-Bahn" title="Rostock S-Bahn">Rostock</a></li>
+<li><a href="/wiki/Stuttgart_S-Bahn" title="Stuttgart S-Bahn">Stuttgart</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Breisgau-S-Bahn.jpg" class="image" title="Breisgau S-Bahn."><img alt="Breisgau S-Bahn." src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Breisgau-S-Bahn.jpg/95px-Breisgau-S-Bahn.jpg" width="95" height="69" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Breisgau-S-Bahn.jpg/143px-Breisgau-S-Bahn.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Breisgau-S-Bahn.jpg/190px-Breisgau-S-Bahn.jpg 2x" data-file-width="1024" data-file-height="746" /></a><br />
+<a href="/wiki/File:Rbg3039fli080505.jpg" class="image" title="A Rheinbahn tram, Düsseldorf-Flingern."><img alt="A Rheinbahn tram, Düsseldorf-Flingern." src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rbg3039fli080505.jpg/95px-Rbg3039fli080505.jpg" width="95" height="71" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rbg3039fli080505.jpg/143px-Rbg3039fli080505.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rbg3039fli080505.jpg/190px-Rbg3039fli080505.jpg 2x" data-file-width="1024" data-file-height="768" /></a><br />
+<a href="/wiki/File:Dresden_Bergbahn_129.JPG" class="image" title="Schwebebahn Dresden."><img alt="Schwebebahn Dresden." src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Dresden_Bergbahn_129.JPG/95px-Dresden_Bergbahn_129.JPG" width="95" height="71" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Dresden_Bergbahn_129.JPG/143px-Dresden_Bergbahn_129.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Dresden_Bergbahn_129.JPG/190px-Dresden_Bergbahn_129.JPG 2x" data-file-width="2592" data-file-height="1944" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/U-Bahn" class="mw-redirect" title="U-Bahn">U-Bahn</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Berlin_U-Bahn" title="Berlin U-Bahn">Berlin</a></li>
+<li><a href="/wiki/Hamburg_U-Bahn" title="Hamburg U-Bahn">Hamburg</a></li>
+<li><a href="/wiki/Munich_U-Bahn" title="Munich U-Bahn">Munich</a></li>
+<li><a href="/wiki/Nuremberg_U-Bahn" title="Nuremberg U-Bahn">Nuremberg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Stadtbahn" title="Stadtbahn">Stadtbahn</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bielefeld_Stadtbahn" title="Bielefeld Stadtbahn">Bielefeld</a></li>
+<li><a href="/wiki/Bochum_Stadtbahn" title="Bochum Stadtbahn">Bochum</a></li>
+<li><a href="/wiki/Bonn_Stadtbahn" title="Bonn Stadtbahn">Bonn</a></li>
+<li><a href="/wiki/Chemnitz_Stadtbahn" class="mw-redirect" title="Chemnitz Stadtbahn">Chemnitz</a></li>
+<li><a href="/wiki/Cologne_Stadtbahn" title="Cologne Stadtbahn">Cologne</a></li>
+<li><a href="/wiki/Dortmund_Stadtbahn" title="Dortmund Stadtbahn">Dortmund</a></li>
+<li><a href="/wiki/Duisburg_Stadtbahn" title="Duisburg Stadtbahn">Duisburg</a></li>
+<li><a href="/wiki/D%C3%BCsseldorf_Stadtbahn" title="Düsseldorf Stadtbahn">Düsseldorf</a></li>
+<li><a href="/wiki/Erfurt_Stadtbahn" title="Erfurt Stadtbahn">Erfurt</a></li>
+<li><a href="/wiki/Essen_Stadtbahn" title="Essen Stadtbahn">Essen</a></li>
+<li><a href="/wiki/Frankfurt_U-Bahn" title="Frankfurt U-Bahn">Frankfurt</a></li>
+<li><a href="/w/index.php?title=Gelsenkirchen_Stadtbahn&amp;action=edit&amp;redlink=1" class="new" title="Gelsenkirchen Stadtbahn (page does not exist)">Gelsenkirchen</a></li>
+<li><a href="/wiki/Hanover_Stadtbahn" title="Hanover Stadtbahn">Hanover</a></li>
+<li><a href="/wiki/Karlsruhe_Stadtbahn" title="Karlsruhe Stadtbahn">Karlsruhe</a></li>
+<li><a href="/wiki/Kassel_RegioTram" title="Kassel RegioTram">Kassel</a></li>
+<li><a href="/wiki/Saarbahn" title="Saarbahn">Saarbrücken</a></li>
+<li><a href="/w/index.php?title=M%C3%BClheim_Stadtbahn&amp;action=edit&amp;redlink=1" class="new" title="Mülheim Stadtbahn (page does not exist)">Mülheim</a></li>
+<li><a href="/wiki/Stuttgart_Stadtbahn" title="Stuttgart Stadtbahn">Stuttgart</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Trams_in_Germany" title="Trams in Germany">Trams</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Trams_in_Aachen" title="Trams in Aachen">Aachen</a></i><sup><small>2</small></sup></li>
+<li><a href="/wiki/Trams_in_Augsburg" title="Trams in Augsburg">Augsburg</a></li>
+<li><a href="/wiki/Kirnitzschtal_tramway" title="Kirnitzschtal tramway">Bad Schandau-Kirnitzschtal</a></li>
+<li><a href="/wiki/Trams_in_Berlin" title="Trams in Berlin">Berlin</a> (Suburban: <a href="/w/index.php?title=Sch%C3%B6neiche-R%C3%BCdersdorf_Tramway&amp;action=edit&amp;redlink=1" class="new" title="Schöneiche-Rüdersdorf Tramway (page does not exist)">Schöneiche-Rüdersdorf</a> · <a href="/w/index.php?title=Woltersdorf_Tramway&amp;action=edit&amp;redlink=1" class="new" title="Woltersdorf Tramway (page does not exist)">Woltersdorf</a>)</li>
+<li><a href="/wiki/Trams_in_Bochum/Gelsenkirchen" title="Trams in Bochum/Gelsenkirchen">Bochum</a></li>
+<li><a href="/wiki/Trams_in_Bonn" title="Trams in Bonn">Bonn</a></li>
+<li><a href="/wiki/Trams_in_Brandenburg_an_der_Havel" title="Trams in Brandenburg an der Havel">Brandenburg an der Havel</a></li>
+<li><a href="/wiki/Trams_in_Braunschweig" title="Trams in Braunschweig">Braunschweig</a></li>
+<li><a href="/wiki/Trams_in_Bremen" title="Trams in Bremen">Bremen</a></li>
+<li><a href="/wiki/Trams_in_Chemnitz" title="Trams in Chemnitz">Chemnitz</a></li>
+<li><a href="/wiki/Trams_in_Cologne" class="mw-redirect" title="Trams in Cologne">Cologne</a></li>
+<li><a href="/wiki/Trams_in_Cottbus" title="Trams in Cottbus">Cottbus</a></li>
+<li><a href="/wiki/Trams_in_Darmstadt" title="Trams in Darmstadt">Darmstadt</a></li>
+<li><a href="/wiki/Trams_in_Dessau" title="Trams in Dessau">Dessau</a></li>
+<li><a href="/wiki/D%C3%B6beln_Tramway" title="Döbeln Tramway">Döbeln</a></li>
+<li><a href="/wiki/Trams_in_Dresden" title="Trams in Dresden">Dresden</a></li>
+<li><a href="/wiki/Trams_in_Duisburg" title="Trams in Duisburg">Duisburg</a></li>
+<li><a href="/wiki/Trams_in_D%C3%BCsseldorf" title="Trams in Düsseldorf">Düsseldorf</a></li>
+<li><a href="/wiki/Trams_in_Erfurt" class="mw-redirect" title="Trams in Erfurt">Erfurt</a></li>
+<li><a href="/wiki/Trams_in_Essen" title="Trams in Essen">Essen</a></li>
+<li><a href="/wiki/Trams_in_Frankfurt_am_Main" title="Trams in Frankfurt am Main">Frankfurt am Main</a></li>
+<li><a href="/wiki/Trams_in_Frankfurt_(Oder)" title="Trams in Frankfurt (Oder)">Frankfurt (Oder)</a></li>
+<li><a href="/wiki/Trams_in_Freiburg_im_Breisgau" title="Trams in Freiburg im Breisgau">Freiburg</a></li>
+<li><a href="/wiki/Trams_in_Bochum/Gelsenkirchen" title="Trams in Bochum/Gelsenkirchen">Gelsenkirchen</a></li>
+<li><a href="/wiki/Trams_in_Gera" title="Trams in Gera">Gera</a></li>
+<li><a href="/wiki/Trams_in_G%C3%B6rlitz" title="Trams in Görlitz">Görlitz</a></li>
+<li><a href="/wiki/Trams_in_Gotha" title="Trams in Gotha">Gotha</a></li>
+<li><a href="/wiki/Trams_in_Halberstadt" title="Trams in Halberstadt">Halberstadt</a></li>
+<li><a href="/wiki/Trams_in_Halle_(Saale)" title="Trams in Halle (Saale)">Halle</a></li>
+<li><i><a href="/wiki/Trams_in_Hamburg" title="Trams in Hamburg">Hamburg</a></i><sup><small>2</small></sup></li>
+<li><a href="/wiki/Trams_in_Hanover" class="mw-redirect" title="Trams in Hanover">Hanover</a></li>
+<li><a href="/wiki/Trams_in_Heidelberg" title="Trams in Heidelberg">Heidelberg</a></li>
+<li><a href="/w/index.php?title=Trams_in_Heilbronn&amp;action=edit&amp;redlink=1" class="new" title="Trams in Heilbronn (page does not exist)">Heilbronn</a></li>
+<li><a href="/wiki/Trams_in_Jena" title="Trams in Jena">Jena</a></li>
+<li><a href="/wiki/Trams_in_Karlsruhe" title="Trams in Karlsruhe">Karlsruhe</a></li>
+<li><a href="/wiki/Trams_in_Kassel" title="Trams in Kassel">Kassel</a></li>
+<li><i><a href="/wiki/Trams_in_Kiel" title="Trams in Kiel">Kiel</a></i><sup><small>2</small></sup></li>
+<li><a href="/wiki/Trams_in_Krefeld" title="Trams in Krefeld">Krefeld</a></li>
+<li><a href="/wiki/Trams_in_Leipzig" title="Trams in Leipzig">Leipzig</a> (<small><a href="/wiki/History_of_trams_in_Leipzig" title="History of trams in Leipzig">History</a></small>)</li>
+<li><a href="/wiki/L%C3%B6%C3%9Fnitz_tramway" title="Lößnitz tramway">Lößnitz</a></li>
+<li><a href="/wiki/Trams_in_Mannheim/Ludwigshafen" title="Trams in Mannheim/Ludwigshafen">Ludwigshafen</a></li>
+<li><a href="/wiki/Trams_in_Magdeburg" title="Trams in Magdeburg">Magdeburg</a></li>
+<li><a href="/wiki/Trams_in_Mannheim/Ludwigshafen" title="Trams in Mannheim/Ludwigshafen">Mannheim</a></li>
+<li><a href="/w/index.php?title=Trams_in_Merseburg&amp;action=edit&amp;redlink=1" class="new" title="Trams in Merseburg (page does not exist)">Merseburg</a></li>
+<li><a href="/wiki/Trams_in_M%C3%BClheim/Oberhausen" title="Trams in Mülheim/Oberhausen">Mülheim</a></li>
+<li><a href="/wiki/Trams_in_Munich" title="Trams in Munich">Munich</a></li>
+<li><a href="/wiki/Trams_in_Mainz" title="Trams in Mainz">Mainz</a></li>
+<li><i><a href="/wiki/Trams_in_M%C3%BCnster" title="Trams in Münster">Münster</a></i><sup><small>2</small></sup></li>
+<li><a href="/wiki/Trams_in_Naumburg_(Saale)" title="Trams in Naumburg (Saale)">Naumburg</a></li>
+<li><a class="mw-selflink selflink">Nuremberg</a></li>
+<li><a href="/wiki/Trams_in_Nordhausen" title="Trams in Nordhausen">Nordhausen</a></li>
+<li><a href="/wiki/Trams_in_M%C3%BClheim/Oberhausen" title="Trams in Mülheim/Oberhausen">Oberhausen</a></li>
+<li><a href="/wiki/Trams_in_Plauen" title="Trams in Plauen">Plauen</a></li>
+<li><a href="/wiki/Trams_in_Potsdam" title="Trams in Potsdam">Potsdam</a></li>
+<li><i><a href="/w/index.php?title=Trams_in_Regensburg&amp;action=edit&amp;redlink=1" class="new" title="Trams in Regensburg (page does not exist)">Regensburg</a></i><sup><small>2</small></sup></li>
+<li><a href="/wiki/Trams_in_Rostock" title="Trams in Rostock">Rostock</a></li>
+<li><a href="/wiki/Trams_in_Saarbr%C3%BCcken" class="mw-redirect" title="Trams in Saarbrücken">Saarbrücken</a></li>
+<li><a href="/wiki/Trams_in_Schwerin" title="Trams in Schwerin">Schwerin</a></li>
+<li><a href="/wiki/Strausberg_Railway" title="Strausberg Railway">Strausberg</a></li>
+<li><a href="/wiki/Trams_in_Stuttgart" class="mw-redirect" title="Trams in Stuttgart">Stuttgart</a></li>
+<li><a href="/wiki/Trams_in_Ulm" title="Trams in Ulm">Ulm</a></li>
+<li><a href="/wiki/Trams_in_Basel" title="Trams in Basel">Weil am Rhein</a></li>
+<li><i><a href="/w/index.php?title=Trams_in_Wuppertal&amp;action=edit&amp;redlink=1" class="new" title="Trams in Wuppertal (page does not exist)">Wuppertal</a></i><sup><small>2</small></sup></li>
+<li><a href="/wiki/Trams_in_W%C3%BCrzburg" title="Trams in Würzburg">Würzburg</a></li>
+<li><a href="/wiki/Trams_in_Zwickau" title="Trams in Zwickau">Zwickau</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_trolleybus_systems_in_Germany" title="List of trolleybus systems in Germany">Trolleybuses</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Trolleybuses_in_Eberswalde" title="Trolleybuses in Eberswalde">Eberswalde</a></li>
+<li><a href="/wiki/Trolleybuses_in_Esslingen_am_Neckar" title="Trolleybuses in Esslingen am Neckar">Esslingen am Neckar</a></li>
+<li><a href="/wiki/Trolleybuses_in_Solingen" title="Trolleybuses in Solingen">Solingen</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Suspension_railway" title="Suspension railway">Suspension monorails</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/H-Bahn" title="H-Bahn">Dortmund H-Bahn</a></li>
+<li><a href="/wiki/Schwebebahn_Dresden" class="mw-redirect" title="Schwebebahn Dresden">Schwebebahn Dresden</a></li>
+<li><a href="/wiki/D%C3%BCsseldorf_SkyTrain" class="mw-redirect" title="Düsseldorf SkyTrain">Düsseldorf SkyTrain</a></li>
+<li><a href="/wiki/Wuppertal_Schwebebahn" class="mw-redirect" title="Wuppertal Schwebebahn">Wuppertal Schwebebahn</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bad_Schandau_Elevator" title="Bad Schandau Elevator">Bad Schandau Elevator</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="3">
+<div>
+<ul>
+<li><sup><small>1</small></sup> Former S-Bahn network</li>
+<li><sup><small>2</small></sup> Former tramway network</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Trams_in_Nuremberg&amp;params=49_27__N_11_05__E_region:DE-BY_type:railwaystation_source:enwiki"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°27′N</span> <span class="longitude">11°05′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.450°N 11.083°E</span><span style="display:none">﻿ / <span class="geo">49.450; 11.083</span></span></span></a></span></span></span></p>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1212
+Cached time: 20170912134315
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.408 seconds
+Real time usage: 0.531 seconds
+Preprocessor visited node count: 2790/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 98542/2097152 bytes
+Template argument size: 6621/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 4/500
+Lua time usage: 0.167/10.000 seconds
+Lua memory usage: 7.58 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  408.159      1 -total
+ 38.44%  156.883      1 Template:Infobox_tram_network
+ 36.58%  149.305      1 Template:Infobox
+ 27.74%  113.223      2 Template:Infobox_tram_network/Era
+ 15.23%   62.174      1 Template:Reflist
+ 11.56%   47.194      4 Template:Cite_web
+  9.84%   40.144      8 Template:Cite_book
+  8.34%   34.045      2 Template:De_icon
+  8.02%   32.718      2 Template:Link_language
+  7.65%   31.222      5 Template:Convert
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:33676192-0!canonical and timestamp 20170912134314 and revision id 764564951
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Trams_in_Nuremberg&amp;oldid=764564951">https://en.wikipedia.org/w/index.php?title=Trams_in_Nuremberg&amp;oldid=764564951</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Tram_transport_in_Germany" title="Category:Tram transport in Germany">Tram transport in Germany</a></li><li><a href="/wiki/Category:Transport_in_Nuremberg" title="Category:Transport in Nuremberg">Transport in Nuremberg</a></li><li><a href="/wiki/Category:Standard_gauge_railways_in_Germany" title="Category:Standard gauge railways in Germany">Standard gauge railways in Germany</a></li><li><a href="/wiki/Category:1432_mm_gauge_railways_in_Germany" title="Category:1432 mm gauge railways in Germany">1432 mm gauge railways in Germany</a></li><li><a href="/wiki/Category:600_V_DC_railway_electrification" title="Category:600 V DC railway electrification">600 V DC railway electrification</a></li><li><a href="/wiki/Category:Town_tramway_systems_by_city" title="Category:Town tramway systems by city">Town tramway systems by city</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Interlanguage_link_template_link_number" title="Category:Interlanguage link template link number">Interlanguage link template link number</a></li><li><a href="/wiki/Category:Articles_with_German-language_external_links" title="Category:Articles with German-language external links">Articles with German-language external links</a></li><li><a href="/wiki/Category:Articles_containing_German-language_text" title="Category:Articles containing German-language text">Articles containing German-language text</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2013" title="Category:Articles containing potentially dated statements from 2013">Articles containing potentially dated statements from 2013</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Trams+in+Nuremberg" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Trams+in+Nuremberg" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Trams_in_Nuremberg" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Trams_in_Nuremberg" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Trams_in_Nuremberg">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Trams_in_Nuremberg&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Trams_in_Nuremberg&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Trams_in_Nuremberg" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Trams_in_Nuremberg" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Trams_in_Nuremberg&amp;oldid=764564951" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Trams_in_Nuremberg&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q318656" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Trams_in_Nuremberg&amp;id=764564951" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Trams+in+Nuremberg">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Trams+in+Nuremberg&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DTrams%2Bin%2BNuremberg%26returnto%3DTrams%2Bin%2BNuremberg%26oldid%3D764564951%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Trams_in_Nuremberg&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Trams_in_N%C3%BCrnberg" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Stra%C3%9Fenbahn_N%C3%BCrnberg" title="Straßenbahn Nürnberg – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Tramway_de_Nuremberg" title="Tramway de Nuremberg – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Rete_tranviaria_di_Norimberga" title="Rete tranviaria di Norimberga – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Tramvaiul_din_N%C3%BCrnberg" title="Tramvaiul din Nürnberg – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9D%D1%8E%D1%80%D0%BD%D0%B1%D0%B5%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9" title="Нюрнбергский трамвай – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q318656#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 9 February 2017, at 17:27.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Trams_in_Nuremberg&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.408","walltime":"0.531","ppvisitednodes":{"value":2790,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":98542,"limit":2097152},"templateargumentsize":{"value":6621,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  408.159      1 -total"," 38.44%  156.883      1 Template:Infobox_tram_network"," 36.58%  149.305      1 Template:Infobox"," 27.74%  113.223      2 Template:Infobox_tram_network/Era"," 15.23%   62.174      1 Template:Reflist"," 11.56%   47.194      4 Template:Cite_web","  9.84%   40.144      8 Template:Cite_book","  8.34%   34.045      2 Template:De_icon","  8.02%   32.718      2 Template:Link_language","  7.65%   31.222      5 Template:Convert"]},"scribunto":{"limitreport-timeusage":{"value":"0.167","limit":"10.000"},"limitreport-memusage":{"value":7952730,"limit":52428800}},"cachereport":{"origin":"mw1212","timestamp":"20170912134315","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":84,"wgHostname":"mw1212"});});</script>
+	</body>
+</html>

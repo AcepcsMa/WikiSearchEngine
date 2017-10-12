@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>White-crowned forktail - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"White-crowned_forktail","wgTitle":"White-crowned forktail","wgCurRevisionId":802425046,"wgRevisionId":802425046,"wgArticleId":12451132,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Uses authors parameter","Good articles","Articles with 'species' microformats","IUCN Red List least concern species","Enicurus","Birds of China","Birds of Southeast Asia","Birds described in 1818"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"White-crowned_forktail","wgRelevantArticleId":12451132,"wgRequestId":"Wcm9cwpAMFwAAGlXcp8AAAAU","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1588883","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Enicurus_leschenaulti.jpg/1200px-Enicurus_leschenaulti.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/White-crowned_forktail"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=White-crowned_forktail&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=White-crowned_forktail&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/White-crowned_forktail"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-White-crowned_forktail rootpage-White-crowned_forktail skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-good-star" class="mw-indicator"><a href="/wiki/Wikipedia:Good_articles" title="This is a good article. Click here for more information."><img alt="This is a good article. Click here for more information." src="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/19px-Symbol_support_vote.svg.png" width="19" height="20" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/29px-Symbol_support_vote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/39px-Symbol_support_vote.svg.png 2x" data-file-width="180" data-file-height="185" /></a></div>
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">White-crowned forktail</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)">White-crowned forktail</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Enicurus_leschenaulti.jpg" class="image"><img alt="Enicurus leschenaulti.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Enicurus_leschenaulti.jpg/220px-Enicurus_leschenaulti.jpg" width="220" height="176" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Enicurus_leschenaulti.jpg/330px-Enicurus_leschenaulti.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Enicurus_leschenaulti.jpg/440px-Enicurus_leschenaulti.jpg 2x" data-file-width="3669" data-file-height="2935" /></a></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(235,235,210)">
+<th colspan="2">
+<div style="text-align: center"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/330px-Status_iucn3.1_LC.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/440px-Status_iucn3.1_LC.svg.png 2x" data-file-width="240" data-file-height="64" /><br />
+<a href="/wiki/Least_Concern" class="mw-redirect" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-IUCN_1-0" class="reference"><a href="#cite_note-IUCN-1">[1]</a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom"><a href="/wiki/Animalia" class="mw-redirect" title="Animalia">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum"><a href="/wiki/Chordata" class="mw-redirect" title="Chordata">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class"><a href="/wiki/Aves" class="mw-redirect" title="Aves">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order"><a href="/wiki/Passeriformes" class="mw-redirect" title="Passeriformes">Passeriformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family"><a href="/wiki/Muscicapidae" class="mw-redirect" title="Muscicapidae">Muscicapidae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus"><i><a href="/wiki/Forktail" title="Forktail">Enicurus</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species"><i>E.&#160;leschenaulti</i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Enicurus leschenaulti</i></span></b><br />
+<small>(<a href="/wiki/Louis_Jean_Pierre_Vieillot" title="Louis Jean Pierre Vieillot">Vieillot</a>, 1818)</small></td>
+</tr>
+</table>
+<p>The <b>white-crowned forktail</b> (<i>Enicurus leschenaulti</i>) is a species of <a href="/wiki/Forktail" title="Forktail">forktail</a> in the family <a href="/wiki/Muscicapidae" class="mw-redirect" title="Muscicapidae">Muscicapidae</a>. <a href="/wiki/Species_description" title="Species description">Scientifically described</a> in 1818, it has six subspecies, each occupying a different geographic range. The largest of the forktails, <i>Enicurus leschenaulti</i>, is between 25 and 28 centimetres (9.8 and 11.0&#160;in) long. It has a black throat and breast, black mantle, and largely black wings. The rump and lower back are white, and the bird has a prominent white <a href="/wiki/Crown_(anatomy)" title="Crown (anatomy)">crown</a>, from which it gets its name. As with other forktails, the tail is long, deeply forked, and banded in black and white. A variety of whistling and clicking calls have been described. Slight morphological differences have been observed between subspecies.</p>
+<p>A shy bird, the white-crowned forktail stays near water, and forages on the edges of rivers and streams for invertebrates. Its <a href="/wiki/Breeding_season" class="mw-redirect" title="Breeding season">breeding season</a> is between March and September, and possibly extends till October. Its nests are also built near the water, and are constructed of plant material. The eggs are between two and five in number, though there is latitudinal variation. Multiple broods in a year have been observed in China. The white-crowned forktail is found in <a href="/wiki/China" title="China">China</a>, <a href="/wiki/Southeast_Asia" title="Southeast Asia">Southeast Asia</a> and also in northeastern parts of the <a href="/wiki/Indian_subcontinent" title="Indian subcontinent">Indian subcontinent</a>. Its natural <a href="/wiki/Habitat" title="Habitat">habitats</a> are subtropical or tropical moist lowland <a href="/wiki/Forest" title="Forest">forests</a> and subtropical or tropical moist <a href="/wiki/Montane_forest" class="mw-redirect" title="Montane forest">montane forests</a>. Its elevational range varies across its range, from a minimum of 185 metres (607&#160;ft) above sea level to a maximum of 2,400 metres (7,900&#160;ft). It is categorized as a species of least concern by the <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Taxonomy"><span class="tocnumber">1</span> <span class="toctext">Taxonomy</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Description"><span class="tocnumber">2</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Distribution_and_habitat"><span class="tocnumber">3</span> <span class="toctext">Distribution and habitat</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Behavior_and_ecology"><span class="tocnumber">4</span> <span class="toctext">Behavior and ecology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Taxonomy">Taxonomy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=White-crowned_forktail&amp;action=edit&amp;section=1" title="Edit section: Taxonomy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The white-crowned forktail was <a href="/wiki/Species_description" title="Species description">scientifically described</a> in 1818 by French ornithologist <a href="/wiki/Louis_Jean_Pierre_Vieillot" title="Louis Jean Pierre Vieillot">Louis Jean Pierre Vieillot</a>.<sup id="cite_ref-IUCN_1-1" class="reference"><a href="#cite_note-IUCN-1">[1]</a></sup> The specimen described came from <a href="/wiki/Java" title="Java">Java</a>.<sup id="cite_ref-HBW_2-0" class="reference"><a href="#cite_note-HBW-2">[2]</a></sup> It is closely related to the <a href="/wiki/Bornean_forktail" class="mw-redirect" title="Bornean forktail">Bornean forktail</a> (<i>Enicurus borneensis</i>) which replaces it in mountain areas of <a href="/wiki/Borneo" title="Borneo">Borneo</a>.<sup id="cite_ref-Phillipps_3-0" class="reference"><a href="#cite_note-Phillipps-3">[3]</a></sup> Six subspecies have been described. <i>E. l. indicus</i> is found from <a href="/wiki/Sikkim" title="Sikkim">Sikkim</a> to Myanmar, the Chinese province of <a href="/wiki/Yunnan" title="Yunnan">Yunnan</a>, northern Thailand, and Vietnam. <i>E. l. sinensis</i> is found in southern and eastern China, including in the regions of <a href="/wiki/Qinghai" title="Qinghai">Qinghai</a>, <a href="/wiki/Gansu" title="Gansu">Gansu</a>, <a href="/wiki/Sichuan" title="Sichuan">Sichuan</a>, <a href="/wiki/Zhejiang" title="Zhejiang">Zhejiang</a>, and <a href="/wiki/Guangdong" title="Guangdong">Guangdong</a>. <i>E. l. frontalis</i> is seen in the southern and central parts of the <a href="/wiki/Malay_Peninsula" title="Malay Peninsula">Malay Peninsula</a>, on the islands of <a href="/wiki/Nias_island" class="mw-redirect" title="Nias island">Nias</a> and <a href="/wiki/Sumatra" title="Sumatra">Sumatra</a>, and in the lowland regions of <a href="/wiki/Borneo" title="Borneo">Borneo</a>. <i>E. l. chaseni</i> is found only on <a href="/wiki/Batu_Islands" title="Batu Islands">Batu island</a>. <i>E. l. leschenaulti</i> is found in <a href="/wiki/Java" title="Java">Java</a> and on the island of <a href="/wiki/Bali" title="Bali">Bali</a>. <i>E. l. borneensis</i> is found in the highland regions of Borneo.<sup id="cite_ref-HBW_2-1" class="reference"><a href="#cite_note-HBW-2">[2]</a></sup></p>
+<p>The two sub-species found in Borneo, which have different elevational ranges, are genetically relatively distant. The upland subspecies <i>E. l. borneensis</i> may be a separate species, but is morphologically not very distinct from the other subspecies of <i>E. leschenaulti</i>. Birds of the <i>borneensis</i> subspecies appeared to breed between mountaintops, but not with individuals of the subspecies <i>frontalis</i> in the valleys in between.<sup id="cite_ref-Phylogeny_4-0" class="reference"><a href="#cite_note-Phylogeny-4">[4]</a></sup> The species was found to be more distantly related to the <a href="/wiki/Slaty-backed_forktail" title="Slaty-backed forktail">slaty-backed forktail</a> and the <a href="/wiki/Little_forktail" title="Little forktail">little forktail</a> than to other forktail species.<sup id="cite_ref-Phylogeny_4-1" class="reference"><a href="#cite_note-Phylogeny-4">[4]</a></sup> The precise geographic delineation between <i>E. l. borneensis</i> and <i>E. l. frontalis</i> is not known.<sup id="cite_ref-HBW_2-2" class="reference"><a href="#cite_note-HBW-2">[2]</a></sup></p>
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=White-crowned_forktail&amp;action=edit&amp;section=2" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Enicurus_leschenaultii_-_1825-1834_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ16300131.tif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/ca/Enicurus_leschenaultii_-_1825-1834_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ16300131.tif/lossy-page1-220px-Enicurus_leschenaultii_-_1825-1834_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ16300131.tif.jpg" width="220" height="295" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/ca/Enicurus_leschenaultii_-_1825-1834_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ16300131.tif/lossy-page1-330px-Enicurus_leschenaultii_-_1825-1834_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ16300131.tif.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/ca/Enicurus_leschenaultii_-_1825-1834_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ16300131.tif/lossy-page1-440px-Enicurus_leschenaultii_-_1825-1834_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ16300131.tif.jpg 2x" data-file-width="2910" data-file-height="3902" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Enicurus_leschenaultii_-_1825-1834_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ16300131.tif" class="internal" title="Enlarge"></a></div>
+A white-crowned forktail, painted sometime between 1825 and 1834</div>
+</div>
+</div>
+<p>The white-crowned forktail is the largest of the forktails.<sup id="cite_ref-Clement2016_5-0" class="reference"><a href="#cite_note-Clement2016-5">[5]</a></sup> Between 25–28 centimetres (9.8–11.0&#160;in) long, the white-crowned forktail typically weighs between 27–38 grams (0.95–1.34&#160;oz), though specimens weighing up to 53 grams (1.9&#160;oz) have been reported.<sup id="cite_ref-HBW_2-3" class="reference"><a href="#cite_note-HBW-2">[2]</a></sup> It has black feathering on its throat extending down to its breast, as well as a black face and scapulars. The crown and forehead have a prominent white patch, sometimes visible as a slight crest, from which the bird gets its name.<sup id="cite_ref-Clement2016_5-1" class="reference"><a href="#cite_note-Clement2016-5">[5]</a></sup> The belly of the bird is white,<sup id="cite_ref-GrimmettInskipp2011_6-0" class="reference"><a href="#cite_note-GrimmettInskipp2011-6">[6]</a></sup> and is sharply delineated from the throat and face. The lower back and rump of the bird are white.<sup id="cite_ref-Myers2016_7-0" class="reference"><a href="#cite_note-Myers2016-7">[7]</a></sup> The tail of the species is long and evenly graduated, with a deep fork. It has white tips, and the outer feathers are white.<sup id="cite_ref-HBW_2-4" class="reference"><a href="#cite_note-HBW-2">[2]</a></sup> It also has three narrower white bands created by the tips of shorter tail feathers. The wings of this species are largely black with a prominent white band across the greater coverts.<sup id="cite_ref-Clement2016_5-2" class="reference"><a href="#cite_note-Clement2016-5">[5]</a></sup> Juveniles of the species have brownish black upperparts, breast, and throat, brown flanks, and brown mottling on the belly. They also lack the prominent white crown.<sup id="cite_ref-GrimmettInskipp2011_6-1" class="reference"><a href="#cite_note-GrimmettInskipp2011-6">[6]</a></sup> The bill of the species is black, while the feet are pinkish in color.<sup id="cite_ref-HBW_2-5" class="reference"><a href="#cite_note-HBW-2">[2]</a></sup></p>
+<p>Its mantle is completely black, a feature used to distinguish the species from the <a href="/wiki/Spotted_forktail" title="Spotted forktail">spotted forktail</a>, which has a speckled mantle, and from the <a href="/wiki/Slaty-backed_forktail" title="Slaty-backed forktail">slaty-backed forktail</a>, which has a slate-grey mantle. It is distinguished from the <a href="/wiki/Black-backed_forktail" title="Black-backed forktail">black-backed forktail</a> by its longer tail and larger size.<sup id="cite_ref-GrimmettInskipp2011_6-2" class="reference"><a href="#cite_note-GrimmettInskipp2011-6">[6]</a></sup> The Indian subspecies <i>E. l. indicus</i> has a bill slightly longer than the nominate subspecies <i>E. l. leschenaulti</i>, while the bill of the Chinese subspecies <i>E. l. sinensis</i> is slightly shorter than that of the nominate. The subspecies <i>frontalis</i> is somewhat smaller than the others, and the extent of white on its crown is smaller: <i>E. l. borneensis</i> is similar to <i>frontalis</i> but has a longer tail. <i>E. l. chaseni</i> is larger than birds from the rest of Sumatra, and also has a longer tail.<sup id="cite_ref-HBW_2-6" class="reference"><a href="#cite_note-HBW-2">[2]</a></sup></p>
+<p>Multiple calls have been observed. The <a href="/wiki/Alarm_call" class="mw-redirect" title="Alarm call">alarm call</a> and <a href="/wiki/Contact_call" title="Contact call">contact calls</a> are high-pitched, ringing lengthy whistles, described as "tseee, tseee" or "zweeet": these calls are repeated multiple times, with pauses in between. The alarm call is harsher and more emphatic, described as "scree" or "scree chit chit". Males use a long and complex whistled song when displaying or exhibiting territorial behavior; this often consists of a long whistle that fades away, followed by shorter whistles, clicking or chacking noises, or bell-like sounds. The call of the <i>borneensis</i> subspecies is slightly different from the others.<sup id="cite_ref-Clement2016_5-3" class="reference"><a href="#cite_note-Clement2016-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="Distribution_and_habitat">Distribution and habitat</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=White-crowned_forktail&amp;action=edit&amp;section=3" title="Edit section: Distribution and habitat">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The habitat of the white-crowned forktail is subtropical or tropical regions in moist lowland forests and moist broadleaf <a href="/wiki/Montane_forest" class="mw-redirect" title="Montane forest">montane forests</a>.<sup id="cite_ref-Phillipps_3-1" class="reference"><a href="#cite_note-Phillipps-3">[3]</a></sup> As is the case with other <a href="/wiki/Forktail" title="Forktail">forktail</a> species, the white-crowned forktail frequents fast-flowing rivers, waterfalls, and streams within the forests, though it may move to slower moving water sources in the winter.<sup id="cite_ref-GrimmettInskipp2011_6-3" class="reference"><a href="#cite_note-GrimmettInskipp2011-6">[6]</a></sup> Its elevational range has been observed to vary seasonally, and in the northeastern regions of the <a href="/wiki/Indian_subcontinent" title="Indian subcontinent">Indian subcontinent</a>, it is likely to migrate seasonally; all records from Bangladesh are from winter months.<sup id="cite_ref-HBW_2-7" class="reference"><a href="#cite_note-HBW-2">[2]</a></sup> It also frequents damp areas and pools within the forest, including animal wallows, swampy areas, and water ditches. It may be found along slower-moving rivers and streams in the lowland regions of its distribution. It prefers areas screened by dense vegetation. On the island of Borneo the white-crowned forktail is sometimes found in drier areas, including along tracks and ridges in the forest, and in <a href="/wiki/Heathland" class="mw-redirect" title="Heathland">heathland</a>.<sup id="cite_ref-Clement2016_5-4" class="reference"><a href="#cite_note-Clement2016-5">[5]</a></sup></p>
+<p>The white-crowned forktail has a wide geographic distribution across south and south-east Asia, including in parts of India, Bangladesh, China, Myanmar, Bhutan, Thailand, Laos, Vietnam, Malaysia, Indonesia, and Brunei.<sup id="cite_ref-IUCN_1-2" class="reference"><a href="#cite_note-IUCN-1">[1]</a></sup> The elevational range of the species varies across its geographic distribution. In the Eastern Himalayas the species is generally found below 800 metres (2,600&#160;ft) above sea level, though occasionally found till 1,250 metres (4,100&#160;ft), and exceptionally at 2,400 metres (7,900&#160;ft) in the state of <a href="/wiki/Arunachal_Pradesh" title="Arunachal Pradesh">Arunachal Pradesh</a>. In <a href="/wiki/Sumatra" title="Sumatra">Sumatra</a> and Borneo it is generally seen up to an elevation of 1,400 metres (4,600&#160;ft). The subspecies <i>borneensis</i> is found at 900–1,950 metres (2,950–6,400&#160;ft), but occasionally as low as 185 metres (607&#160;ft).<sup id="cite_ref-Clement2016_5-5" class="reference"><a href="#cite_note-Clement2016-5">[5]</a></sup> It is common through most of its range but uncommon in the Himalayas.<sup id="cite_ref-HBW_2-8" class="reference"><a href="#cite_note-HBW-2">[2]</a></sup> In the Chinese portion of its range, it is reported to be the most common forktail.<sup id="cite_ref-Walters2008_8-0" class="reference"><a href="#cite_note-Walters2008-8">[8]</a></sup> Though the population of the species is not precisely known, it is thought to be greater than 10,000 individuals, and is estimated to be stable. It is categorized as a species of least concern by the <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a>.<sup id="cite_ref-IUCN_1-3" class="reference"><a href="#cite_note-IUCN-1">[1]</a></sup></p>
+<h2><span class="mw-headline" id="Behavior_and_ecology">Behavior and ecology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=White-crowned_forktail&amp;action=edit&amp;section=4" title="Edit section: Behavior and ecology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As with other forktails, the white-crowned forktail keeps close to water. It has been observed to frequently wag its tail.<sup id="cite_ref-GrimmettInskipp2011_6-4" class="reference"><a href="#cite_note-GrimmettInskipp2011-6">[6]</a></sup> It forages along the edges of streams and in the water, primarily for insects, such as black beetles, water crickets, <a href="/wiki/Springtail" title="Springtail">springtails</a>, and caterpillars.<sup id="cite_ref-HBW_2-9" class="reference"><a href="#cite_note-HBW-2">[2]</a></sup> Described as a shy bird, it flies close to the ground, usually calling as it does.<sup id="cite_ref-Myers2016_7-1" class="reference"><a href="#cite_note-Myers2016-7">[7]</a></sup> It is thought to shift its elevational range slightly with the time of year.<sup id="cite_ref-HBW_2-10" class="reference"><a href="#cite_note-HBW-2">[2]</a></sup></p>
+<p>The white-crowned forktail breeds between the months of March and September, and possibly till October. The breeding period varies slightly across its range. Eggs have been recorded as early as March in Borneo, and on one occasion a parent with a fledgling was recorded in February.<sup id="cite_ref-Clement2016_5-6" class="reference"><a href="#cite_note-Clement2016-5">[5]</a></sup> The nest is constructed of moss, plants, leaves, and wood fibre, and is in the shape of a large cup. It is usually located near or over the water, and occasionally in forest gullies nearby. It is usually placed in a hole in a bank or cliff, or among tree roots, and has been observed to have been constructed behind waterfalls,<sup id="cite_ref-Clement2016_5-7" class="reference"><a href="#cite_note-Clement2016-5">[5]</a></sup> with the birds flying through the water to reach their nest. The location of the nest is always damp.<sup id="cite_ref-HBW_2-11" class="reference"><a href="#cite_note-HBW-2">[2]</a></sup></p>
+<p>The species usually lays between two and five eggs, which are creamy, pinkish, or greyish white, and covered in speckles of red-brown, salmon, and lilac. Birds in southern China have been observed to have two broods in a year, a pattern which may hold true elsewhere.<sup id="cite_ref-Clement2016_5-8" class="reference"><a href="#cite_note-Clement2016-5">[5]</a></sup> The number of eggs in a brood varies with latitude, with individuals in China regularly being recorded laying four to five eggs. The nests of the species have been observed in Myanmar to be parasitized by the <a href="/wiki/Drongo_cuckoo" class="mw-redirect" title="Drongo cuckoo">Drongo cuckoo</a>.<sup id="cite_ref-Johnsgard1997_9-0" class="reference"><a href="#cite_note-Johnsgard1997-9">[9]</a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=White-crowned_forktail&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Enicurus_leschenaulti" class="extiw" title="commons:Category:Enicurus leschenaulti">Enicurus leschenaulti</a></b></i>.</td>
+</tr>
+</table>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-IUCN-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-IUCN_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IUCN_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-IUCN_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-IUCN_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2016). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/details/22710138/0">"<i>Enicurus leschenaulti</i>"</a>. <i><a href="/wiki/IUCN_Red_List_of_Threatened_Species" class="mw-redirect" title="IUCN Red List of Threatened Species">IUCN Red List of Threatened Species</a></i>. <a href="/wiki/IUCN" class="mw-redirect" title="IUCN">IUCN</a>. <b>2016</b>: e.T22710138A94236268. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.2305%2FIUCN.UK.2016-3.RLTS.T22710138A94236268.en">10.2305/IUCN.UK.2016-3.RLTS.T22710138A94236268.en</a><span class="reference-accessdate">. Retrieved <span class="nowrap">26 September</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWhite-crowned+forktail&amp;rft.atitle=Enicurus+leschenaulti&amp;rft.date=2016&amp;rft.genre=article&amp;rft.jtitle=IUCN+Red+List+of+Threatened+Species&amp;rft.pages=e.T22710138A94236268&amp;rft.volume=2016&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fdetails%2F22710138%2F0&amp;rft_id=info%3Adoi%2F10.2305%2FIUCN.UK.2016-3.RLTS.T22710138A94236268.en&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>)</span></span></li>
+<li id="cite_note-HBW-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-HBW_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-HBW_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-HBW_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-HBW_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-HBW_2-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-HBW_2-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-HBW_2-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-HBW_2-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-HBW_2-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-HBW_2-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-HBW_2-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-HBW_2-11"><sup><i><b>l</b></i></sup></a></span> <span class="reference-text"><cite class="citation encyclopaedia">Collar, N. (2017). <a rel="nofollow" class="external text" href="http://www.hbw.com/node/58559">"White-crowned Forktail (<i>Enicurus leschenaulti</i>)"</a>. In del Hoyo, J.; Elliott, A.; Sargatal, J.; Christie, D.A.; de Juana, E. <i>Handbook of the Birds of the World Alive</i>. Barcelona, Spain: Lynx Edicions<span class="reference-accessdate">. Retrieved <span class="nowrap">1 September</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWhite-crowned+forktail&amp;rft.atitle=White-crowned+Forktail+%28Enicurus+leschenaulti%29&amp;rft.aufirst=N.&amp;rft.aulast=Collar&amp;rft.btitle=Handbook+of+the+Birds+of+the+World+Alive&amp;rft.date=2017&amp;rft.genre=bookitem&amp;rft.place=Barcelona%2C+Spain&amp;rft.pub=Lynx+Edicions&amp;rft_id=http%3A%2F%2Fwww.hbw.com%2Fnode%2F58559&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Phillipps-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Phillipps_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Phillipps_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Phillipps, Quentin &amp; Phillipps, Karen (2011). <i>Phillipps’ Field Guide to the Birds of Borneo</i>. Oxford, UK: John Beaufoy Publishing. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-906780-56-2" title="Special:BookSources/978-1-906780-56-2">978-1-906780-56-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWhite-crowned+forktail&amp;rft.au=Phillipps%2C+Karen&amp;rft.au=Phillipps%2C+Quentin&amp;rft.btitle=Phillipps%E2%80%99+Field+Guide+to+the+Birds+of+Borneo&amp;rft.date=2011&amp;rft.genre=book&amp;rft.isbn=978-1-906780-56-2&amp;rft.place=Oxford%2C+UK&amp;rft.pub=John+Beaufoy+Publishing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Phylogeny-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Phylogeny_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Phylogeny_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Moyle, Robert G.; Schilthuizen, Menno; Rahman, Mustafa A.; Sheldon, Frederick H. (2005). "Molecular phylogenetic analysis of the white-crowned forktail Enicurus leschenaulti in Borneo". <i>Journal of Avian Biology</i>. <b>36</b>: 96–101.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWhite-crowned+forktail&amp;rft.atitle=Molecular+phylogenetic+analysis+of+the+white-crowned+forktail+Enicurus+leschenaulti+in+Borneo&amp;rft.au=Rahman%2C+Mustafa+A.&amp;rft.au=Schilthuizen%2C+Menno&amp;rft.au=Sheldon%2C+Frederick+H.&amp;rft.aufirst=Robert+G.&amp;rft.aulast=Moyle&amp;rft.date=2005&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Avian+Biology&amp;rft.pages=96-101&amp;rft.volume=36&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Clement2016-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Clement2016_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Clement2016_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Clement2016_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Clement2016_5-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Clement2016_5-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Clement2016_5-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Clement2016_5-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Clement2016_5-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-Clement2016_5-8"><sup><i><b>i</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Peter Clement (28 January 2016). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=xgdoCwAAQBAJ&amp;pg=PA458"><i>Robins and Chats</i></a>. Bloomsbury Publishing. p.&#160;458. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4081-5596-7" title="Special:BookSources/978-1-4081-5596-7">978-1-4081-5596-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWhite-crowned+forktail&amp;rft.au=Peter+Clement&amp;rft.btitle=Robins+and+Chats&amp;rft.date=2016-01-28&amp;rft.genre=book&amp;rft.isbn=978-1-4081-5596-7&amp;rft.pages=458&amp;rft.pub=Bloomsbury+Publishing&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DxgdoCwAAQBAJ%26pg%3DPA458&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-GrimmettInskipp2011-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-GrimmettInskipp2011_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-GrimmettInskipp2011_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-GrimmettInskipp2011_6-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-GrimmettInskipp2011_6-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-GrimmettInskipp2011_6-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Richard Grimmett; Carol Inskipp; Tim Inskipp (2011). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=cBUGngEACAAJ"><i>Birds of the Indian Subcontinent</i></a>. Christopher Helm. p.&#160;426. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4081-2763-6" title="Special:BookSources/978-1-4081-2763-6">978-1-4081-2763-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWhite-crowned+forktail&amp;rft.au=Carol+Inskipp&amp;rft.au=Richard+Grimmett&amp;rft.au=Tim+Inskipp&amp;rft.btitle=Birds+of+the+Indian+Subcontinent&amp;rft.date=2011&amp;rft.genre=book&amp;rft.isbn=978-1-4081-2763-6&amp;rft.pages=426&amp;rft.pub=Christopher+Helm&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DcBUGngEACAAJ&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Myers2016-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Myers2016_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Myers2016_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Susan Myers (7 June 2016). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=i428CwAAQBAJ&amp;pg=PA149"><i>Wildlife of Southeast Asia</i></a>. Princeton University Press. pp.&#160;149–. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4008-8072-0" title="Special:BookSources/978-1-4008-8072-0">978-1-4008-8072-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWhite-crowned+forktail&amp;rft.au=Susan+Myers&amp;rft.btitle=Wildlife+of+Southeast+Asia&amp;rft.date=2016-06-07&amp;rft.genre=book&amp;rft.isbn=978-1-4008-8072-0&amp;rft.pages=149-&amp;rft.pub=Princeton+University+Press&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Di428CwAAQBAJ%26pg%3DPA149&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Walters2008-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Walters2008_8-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Martin Walters (2008). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=yIqTV8t_ElAC&amp;pg=PA93"><i>Chinese Wildlife: A Visitor's Guide</i></a>. Bradt Travel Guides. pp.&#160;93–. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-84162-220-0" title="Special:BookSources/978-1-84162-220-0">978-1-84162-220-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWhite-crowned+forktail&amp;rft.au=Martin+Walters&amp;rft.btitle=Chinese+Wildlife%3A+A+Visitor%27s+Guide&amp;rft.date=2008&amp;rft.genre=book&amp;rft.isbn=978-1-84162-220-0&amp;rft.pages=93-&amp;rft.pub=Bradt+Travel+Guides&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DyIqTV8t_ElAC%26pg%3DPA93&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Johnsgard1997-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Johnsgard1997_9-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Paul A. Johnsgard (6 November 1997). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=hhhRGJNqQhIC&amp;pg=PA377"><i>The Avian Brood Parasites: Deception at the Nest</i></a>. Oxford University Press. pp.&#160;377–. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-19-535499-7" title="Special:BookSources/978-0-19-535499-7">978-0-19-535499-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWhite-crowned+forktail&amp;rft.au=Paul+A.+Johnsgard&amp;rft.btitle=The+Avian+Brood+Parasites%3A+Deception+at+the+Nest&amp;rft.date=1997-11-06&amp;rft.genre=book&amp;rft.isbn=978-0-19-535499-7&amp;rft.pages=377-&amp;rft.pub=Oxford+University+Press&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DhhhRGJNqQhIC%26pg%3DPA377&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;&quot;letter-spacing: .1px;&quot;"><a href="https://www.wikidata.org/wiki/Wikidata:WikiProject_Taxonomy" class="extiw" title="wikidata:Wikidata:WikiProject Taxonomy">Taxon identifiers</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<div class="hlist">
+<ul>
+<li><span class="external"><a href="/wiki/Wikidata" title="Wikidata">Wd</a>: <a href="https://www.wikidata.org/wiki/Q1588883" class="extiw" title="d:Q1588883">Q1588883</a></span></li>
+<li><a href="/wiki/Animal_Diversity_Web" title="Animal Diversity Web">ADW</a>:<span class="nowrap">&#160;</span><a rel="nofollow" class="external text" href="http://animaldiversity.org/accounts/Enicurus_leschenaulti">Enicurus_leschenaulti</a></li>
+<li><a href="/wiki/Encyclopedia_of_Life" title="Encyclopedia of Life">EoL</a>:<span class="nowrap">&#160;</span><a rel="nofollow" class="external text" href="http://eol.org/pages/1051559">1051559</a></li>
+<li><a href="/wiki/Global_Biodiversity_Information_Facility" title="Global Biodiversity Information Facility">GBIF</a>:<span class="nowrap">&#160;</span><a rel="nofollow" class="external text" href="http://www.gbif.org/species/2492629">2492629</a></li>
+<li><a href="/wiki/INaturalist" title="INaturalist">iNaturalist</a>:<span class="nowrap">&#160;</span><a rel="nofollow" class="external text" href="http://www.inaturalist.org/taxa/13092">13092</a></li>
+<li><a href="/wiki/Integrated_Taxonomic_Information_System" title="Integrated Taxonomic Information System">ITIS</a>:<span class="nowrap">&#160;</span><a rel="nofollow" class="external text" href="http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=559911">559911</a></li>
+<li><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN</a>:<span class="nowrap">&#160;</span><a rel="nofollow" class="external text" href="http://www.iucnredlist.org/details/22710138/0">22710138</a></li>
+<li><a href="/wiki/National_Center_for_Biotechnology_Information" title="National Center for Biotechnology Information">NCBI</a>:<span class="nowrap">&#160;</span><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=320572">320572</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1258
+Cached time: 20170926023648
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.484 seconds
+Real time usage: 0.618 seconds
+Preprocessor visited node count: 6553/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 41345/2097152 bytes
+Template argument size: 5230/2097152 bytes
+Highest expansion depth: 24/40
+Expensive parser function count: 7/500
+Lua time usage: 0.196/10.000 seconds
+Lua memory usage: 8.15 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  583.299      1 -total
+ 41.25%  240.590      1 Template:Taxonbar
+ 40.33%  235.256      1 Template:Navbox
+ 38.73%  225.905     10 Template:1x
+ 34.12%  199.048     47 Template:Taxonbar/Link
+ 27.70%  161.576     63 Template:If_empty
+ 20.59%  120.118      1 Template:Taxobox
+ 18.59%  108.450      1 Template:Taxobox/core
+ 14.82%   86.452      1 Template:Reflist
+  9.79%   57.095     14 Template:Taxobox_colour
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:12451132-0!canonical and timestamp 20170926023648 and revision id 802425046
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=White-crowned_forktail&amp;oldid=802425046">https://en.wikipedia.org/w/index.php?title=White-crowned_forktail&amp;oldid=802425046</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Enicurus" title="Category:Enicurus">Enicurus</a></li><li><a href="/wiki/Category:Birds_of_China" title="Category:Birds of China">Birds of China</a></li><li><a href="/wiki/Category:Birds_of_Southeast_Asia" title="Category:Birds of Southeast Asia">Birds of Southeast Asia</a></li><li><a href="/wiki/Category:Birds_described_in_1818" title="Category:Birds described in 1818">Birds described in 1818</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">CS1 maint: Uses authors parameter</a></li><li><a href="/wiki/Category:Good_articles" title="Category:Good articles">Good articles</a></li><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=White-crowned+forktail" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=White-crowned+forktail" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/White-crowned_forktail" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:White-crowned_forktail" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/White-crowned_forktail">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=White-crowned_forktail&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=White-crowned_forktail&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/White-crowned_forktail" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/White-crowned_forktail" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=White-crowned_forktail&amp;oldid=802425046" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=White-crowned_forktail&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1588883" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=White-crowned_forktail&amp;id=802425046" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=White-crowned+forktail">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=White-crowned+forktail&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DWhite-crowned%2Bforktail%26returnto%3DWhite-crowned%2Bforktail%26oldid%3D802425046%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=White-crowned_forktail&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Enicurus_leschenaulti" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Enicurus_leschenaulti" hreflang="en">Wikispecies</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/Enicurus_leschenaulti" title="Enicurus leschenaulti – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Enicurus_leschenaulti" title="Enicurus leschenaulti – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Robin_gynffonfforchog_corunwyn" title="Robin gynffonfforchog corunwyn – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Wei%C3%9Fscheitel-Scherenschwanz" title="Weißscheitel-Scherenschwanz – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Blankakrona_forkovostulo" title="Blankakrona forkovostulo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Enicurus_leschenaulti" title="Enicurus leschenaulti – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AF%D9%85%E2%80%8C%DA%86%D9%86%DA%AF%D8%A7%D9%84%DB%8C_%DA%A9%D8%A7%DA%A9%D9%84%E2%80%8C%D8%B3%D9%81%DB%8C%D8%AF" title="دم‌چنگالی کاکل‌سفید – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/%C3%89nicure_de_Leschenault" title="Énicure de Leschenault – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Meninting_besar" title="Meninting besar – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Witkruinvorkstaart" title="Witkruinvorkstaart – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Wid%C5%82ogon_bia%C5%82oczuby" title="Widłogon białoczuby – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Enicurus_leschenaulti" title="Enicurus leschenaulti – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Vitkronad_klyvstj%C3%A4rt" title="Vitkronad klyvstjärt – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Ch%C3%ADch_ch%C3%B2e_n%C6%B0%E1%BB%9Bc_%C4%91%E1%BA%A7u_tr%E1%BA%AFng" title="Chích chòe nước đầu trắng – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Enicurus_leschenaulti" title="Enicurus leschenaulti – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%BB%91%E8%83%8C%E7%87%95%E5%B0%BE" title="黑背燕尾 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1588883#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 26 September 2017, at 02:36.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=White-crowned_forktail&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.484","walltime":"0.618","ppvisitednodes":{"value":6553,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":41345,"limit":2097152},"templateargumentsize":{"value":5230,"limit":2097152},"expansiondepth":{"value":24,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"entityaccesscount":{"value":8,"limit":400},"timingprofile":["100.00%  583.299      1 -total"," 41.25%  240.590      1 Template:Taxonbar"," 40.33%  235.256      1 Template:Navbox"," 38.73%  225.905     10 Template:1x"," 34.12%  199.048     47 Template:Taxonbar/Link"," 27.70%  161.576     63 Template:If_empty"," 20.59%  120.118      1 Template:Taxobox"," 18.59%  108.450      1 Template:Taxobox/core"," 14.82%   86.452      1 Template:Reflist","  9.79%   57.095     14 Template:Taxobox_colour"]},"scribunto":{"limitreport-timeusage":{"value":"0.196","limit":"10.000"},"limitreport-memusage":{"value":8549987,"limit":52428800}},"cachereport":{"origin":"mw1258","timestamp":"20170926023648","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":63,"wgHostname":"mw1257"});});</script>
+	</body>
+</html>

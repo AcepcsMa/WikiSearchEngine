@@ -1,0 +1,974 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Vector space model - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Vector_space_model","wgTitle":"Vector space model","wgCurRevisionId":789880986,"wgRevisionId":789880986,"wgArticleId":20948989,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Vector space model"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Vector_space_model","wgRelevantArticleId":20948989,"wgRequestId":"WciZygpAMFUAALYrFFUAAAAC","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1187982","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Vector_space_model"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Vector_space_model&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Vector_space_model&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Vector_space_model"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Vector_space_model rootpage-Vector_space_model skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Vector space model</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>Vector space model</b> or <b>term vector model</b> is an algebraic model for representing text documents (and any objects, in general) as <a href="/wiki/Vector_space" title="Vector space">vectors</a> of identifiers, such as, for example, index terms. It is used in <a href="/wiki/Information_filtering" class="mw-redirect" title="Information filtering">information filtering</a>, <a href="/wiki/Information_retrieval" title="Information retrieval">information retrieval</a>, <a href="/wiki/Index_(search_engine)" class="mw-redirect" title="Index (search engine)">indexing</a> and relevancy rankings. Its first use was in the <a href="/wiki/SMART_Information_Retrieval_System" title="SMART Information Retrieval System">SMART Information Retrieval System</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definitions"><span class="tocnumber">1</span> <span class="toctext">Definitions</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Applications"><span class="tocnumber">2</span> <span class="toctext">Applications</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Example:_tf-idf_weights"><span class="tocnumber">3</span> <span class="toctext">Example: tf-idf weights</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Advantages"><span class="tocnumber">4</span> <span class="toctext">Advantages</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Limitations"><span class="tocnumber">5</span> <span class="toctext">Limitations</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Models_based_on_and_extending_the_vector_space_model"><span class="tocnumber">6</span> <span class="toctext">Models based on and extending the vector space model</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Software_that_implements_the_vector_space_model"><span class="tocnumber">7</span> <span class="toctext">Software that implements the vector space model</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Free_open_source_software"><span class="tocnumber">7.1</span> <span class="toctext">Free open source software</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Further_reading"><span class="tocnumber">8</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Definitions">Definitions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vector_space_model&amp;action=edit&amp;section=1" title="Edit section: Definitions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Documents and queries are represented as vectors.</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>d</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>j</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>w</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+            <mo>,</mo>
+            <mi>j</mi>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>w</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+            <mo>,</mo>
+            <mi>j</mi>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <mo>&#x2026;<!-- … --></mo>
+        <mo>,</mo>
+        <msub>
+          <mi>w</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+            <mo>,</mo>
+            <mi>j</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle d_{j}=(w_{1,j},w_{2,j},\dotsc ,w_{t,j})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6568769b5001c6040e121596945b7e419dddb4da" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:24.759ex; height:3.009ex;" alt="d_j = ( w_{1,j} ,w_{2,j} , \dotsc ,w_{t,j} )" /></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>q</mi>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>w</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+            <mo>,</mo>
+            <mi>q</mi>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>w</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+            <mo>,</mo>
+            <mi>q</mi>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <mo>&#x2026;<!-- … --></mo>
+        <mo>,</mo>
+        <msub>
+          <mi>w</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+            <mo>,</mo>
+            <mi>q</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle q=(w_{1,q},w_{2,q},\dotsc ,w_{n,q})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d5b3e7c8ef051ef2c6411266ea1a490d36c8011e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:24.331ex; height:3.009ex;" alt="q = ( w_{1,q} ,w_{2,q} , \dotsc ,w_{n,q} )" /></span></dd>
+</dl>
+<p>Each <a href="/wiki/Dimension_(vector_space)" title="Dimension (vector space)">dimension</a> corresponds to a separate term. If a term occurs in the document, its value in the vector is non-zero. Several different ways of computing these values, also known as (term) weights, have been developed. One of the best known schemes is <a href="/wiki/Tf-idf" class="mw-redirect" title="Tf-idf">tf-idf</a> weighting (see the example below).</p>
+<p>The definition of <i>term</i> depends on the application. Typically terms are single words, <a href="/wiki/Keyword_(linguistics)" title="Keyword (linguistics)">keywords</a>, or longer phrases. If words are chosen to be the terms, the dimensionality of the vector is the number of words in the vocabulary (the number of distinct words occurring in the <a href="/wiki/Text_corpus" title="Text corpus">corpus</a>).</p>
+<p>Vector operations can be used to compare documents with queries.</p>
+<h2><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vector_space_model&amp;action=edit&amp;section=2" title="Edit section: Applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="floatright"><a href="/wiki/File:Vector_space_model.jpg" class="image"><img alt="Vector space model.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Vector_space_model.jpg/250px-Vector_space_model.jpg" width="250" height="246" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Vector_space_model.jpg/375px-Vector_space_model.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/f/ff/Vector_space_model.jpg 2x" data-file-width="427" data-file-height="420" /></a></div>
+<p><a href="/wiki/Relevance_(information_retrieval)" title="Relevance (information retrieval)">Relevance</a> <a href="/wiki/Ranking" title="Ranking">rankings</a> of documents in a keyword search can be calculated, using the assumptions of <a href="/wiki/Semantic_similarity" title="Semantic similarity">document similarities</a> theory, by comparing the deviation of angles between each document vector and the original query vector where the query is represented as the same kind of vector as the documents.</p>
+<p>In practice, it is easier to calculate the <a href="/wiki/Cosine" class="mw-redirect" title="Cosine">cosine</a> of the angle between the vectors, instead of the angle itself:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>cos</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi>&#x03B8;<!-- θ --></mi>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <msub>
+                  <mi mathvariant="bold">d</mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mn mathvariant="bold">2</mn>
+                  </mrow>
+                </msub>
+              </mrow>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="bold">q</mi>
+              </mrow>
+            </mrow>
+            <mrow>
+              <mrow>
+                <mo>&#x2225;</mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <msub>
+                    <mi mathvariant="bold">d</mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mn mathvariant="bold">2</mn>
+                    </mrow>
+                  </msub>
+                </mrow>
+                <mo>&#x2225;</mo>
+              </mrow>
+              <mrow>
+                <mo>&#x2225;</mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi mathvariant="bold">q</mi>
+                </mrow>
+                <mo>&#x2225;</mo>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \cos {\theta }={\frac {\mathbf {d_{2}} \cdot \mathbf {q} }{\left\|\mathbf {d_{2}} \right\|\left\|\mathbf {q} \right\|}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c86e83253060d52657023913e9384be98283b493" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.671ex; width:17.761ex; height:6.176ex;" alt="&#10;\cos{\theta} = \frac{\mathbf{d_2} \cdot \mathbf{q}}{\left\| \mathbf{d_2} \right\| \left \| \mathbf{q} \right\|}&#10;" /></span></dd>
+</dl>
+<p>Where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <msub>
+            <mi mathvariant="bold">d</mi>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mn mathvariant="bold">2</mn>
+            </mrow>
+          </msub>
+        </mrow>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="bold">q</mi>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathbf {d_{2}} \cdot \mathbf {q} }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/968bb1102153f0b64b7ee8d56cb47fabcb5879db" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:5.796ex; height:2.509ex;" alt="\mathbf{d_2} \cdot \mathbf{q}" /></span> is the intersection (i.e. the <a href="/wiki/Dot_product" title="Dot product">dot product</a>) of the document (d<sub>2</sub> in the figure to the right) and the query (q in the figure) vectors, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow>
+          <mo>&#x2225;</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <msub>
+              <mi mathvariant="bold">d</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn mathvariant="bold">2</mn>
+              </mrow>
+            </msub>
+          </mrow>
+          <mo>&#x2225;</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \left\|\mathbf {d_{2}} \right\|}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fa37054465647aa73cf24a91064aa92f18d0ee93" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:5.026ex; height:2.843ex;" alt="\left\| \mathbf{d_2} \right\|" /></span> is the norm of vector d<sub>2</sub>, and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow>
+          <mo>&#x2225;</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="bold">q</mi>
+          </mrow>
+          <mo>&#x2225;</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \left\|\mathbf {q} \right\|}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7148e10f47c9f52ce329d0e7ff54089863d986c9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:3.772ex; height:2.843ex;" alt="\left\| \mathbf{q} \right\|" /></span> is the norm of vector q. The <a href="/wiki/Norm_(mathematics)" title="Norm (mathematics)">norm</a> of a vector is calculated as such:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow>
+          <mo>&#x2225;</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="bold">q</mi>
+          </mrow>
+          <mo>&#x2225;</mo>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <msqrt>
+            <munderover>
+              <mo>&#x2211;<!-- ∑ --></mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>i</mi>
+                <mo>=</mo>
+                <mn>1</mn>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>n</mi>
+              </mrow>
+            </munderover>
+            <msubsup>
+              <mi>q</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>i</mi>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>2</mn>
+              </mrow>
+            </msubsup>
+          </msqrt>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \left\|\mathbf {q} \right\|={\sqrt {\sum _{i=1}^{n}q_{i}^{2}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/93de40ac612c2056ad86e03348293416660197fe" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.005ex; width:15.249ex; height:7.676ex;" alt="&#10;\left\| \mathbf{q} \right\| = \sqrt{\sum_{i=1}^n q_i^2}&#10;" /></span></dd>
+</dl>
+<p>As all vectors under consideration by this model are elementwise nonnegative, a cosine value of zero means that the query and document vector are <a href="/wiki/Orthogonal" class="mw-redirect" title="Orthogonal">orthogonal</a> and have no match (i.e. the query term does not exist in the document being considered). See <a href="/wiki/Cosine_similarity" title="Cosine similarity">cosine similarity</a> for further information.</p>
+<h2><span class="mw-headline" id="Example:_tf-idf_weights">Example: tf-idf weights</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vector_space_model&amp;action=edit&amp;section=3" title="Edit section: Example: tf-idf weights">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the classic vector space model proposed by <a href="/wiki/Gerard_Salton" title="Gerard Salton">Salton</a>, Wong and Yang <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> the term-specific weights in the document vectors are products of local and global parameters. The model is known as <a href="/wiki/Tf-idf" class="mw-redirect" title="Tf-idf">term frequency-inverse document frequency</a> model. The weight vector for document <i>d</i> is <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="bold">v</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>d</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mo stretchy="false">[</mo>
+        <msub>
+          <mi>w</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+            <mo>,</mo>
+            <mi>d</mi>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>w</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+            <mo>,</mo>
+            <mi>d</mi>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <mo>&#x2026;<!-- … --></mo>
+        <mo>,</mo>
+        <msub>
+          <mi>w</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>N</mi>
+            <mo>,</mo>
+            <mi>d</mi>
+          </mrow>
+        </msub>
+        <msup>
+          <mo stretchy="false">]</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>T</mi>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathbf {v} _{d}=[w_{1,d},w_{2,d},\ldots ,w_{N,d}]^{T}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/30c310ac152cd1b8ea9e13eda4b478e72ade4f1a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:27.437ex; height:3.343ex;" alt="\mathbf{v}_d = [w_{1,d}, w_{2,d}, \ldots, w_{N,d}]^T" /></span>, where</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>w</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+            <mo>,</mo>
+            <mi>d</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="normal">t</mi>
+            <mi mathvariant="normal">f</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+            <mo>,</mo>
+            <mi>d</mi>
+          </mrow>
+        </msub>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mi>log</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo stretchy="false">|</mo>
+              </mrow>
+              <mi>D</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo stretchy="false">|</mo>
+              </mrow>
+            </mrow>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo stretchy="false">|</mo>
+              </mrow>
+              <mo fence="false" stretchy="false">{</mo>
+              <msup>
+                <mi>d</mi>
+                <mo>&#x2032;</mo>
+              </msup>
+              <mo>&#x2208;<!-- ∈ --></mo>
+              <mi>D</mi>
+              <mspace width="thinmathspace" />
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo stretchy="false">|</mo>
+              </mrow>
+              <mspace width="thinmathspace" />
+              <mi>t</mi>
+              <mo>&#x2208;<!-- ∈ --></mo>
+              <msup>
+                <mi>d</mi>
+                <mo>&#x2032;</mo>
+              </msup>
+              <mo fence="false" stretchy="false">}</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo stretchy="false">|</mo>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle w_{t,d}=\mathrm {tf} _{t,d}\cdot \log {\frac {|D|}{|\{d'\in D\,|\,t\in d'\}|}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/761706fd22a01ae6887126b6ec1d67004c8a325b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.671ex; width:34.088ex; height:6.509ex;" alt="&#10;w_{t,d} = \mathrm{tf}_{t,d} \cdot \log{\frac{|D|}{|\{d&#039; \in D \, | \, t \in d&#039;\}|}}&#10;" /></span></dd>
+</dl>
+<p>and</p>
+<ul>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="normal">t</mi>
+            <mi mathvariant="normal">f</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+            <mo>,</mo>
+            <mi>d</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {tf} _{t,d}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/48bc542fce7e1849f68a95aadff7509354ffd055" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:3.803ex; height:2.843ex;" alt="\mathrm{tf}_{t,d}" /></span> is term frequency of term <i>t</i> in document <i>d</i> (a local parameter)</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>log</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo stretchy="false">|</mo>
+              </mrow>
+              <mi>D</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo stretchy="false">|</mo>
+              </mrow>
+            </mrow>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo stretchy="false">|</mo>
+              </mrow>
+              <mo fence="false" stretchy="false">{</mo>
+              <msup>
+                <mi>d</mi>
+                <mo>&#x2032;</mo>
+              </msup>
+              <mo>&#x2208;<!-- ∈ --></mo>
+              <mi>D</mi>
+              <mspace width="thinmathspace" />
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo stretchy="false">|</mo>
+              </mrow>
+              <mspace width="thinmathspace" />
+              <mi>t</mi>
+              <mo>&#x2208;<!-- ∈ --></mo>
+              <msup>
+                <mi>d</mi>
+                <mo>&#x2032;</mo>
+              </msup>
+              <mo fence="false" stretchy="false">}</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo stretchy="false">|</mo>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \log {\frac {|D|}{|\{d'\in D\,|\,t\in d'\}|}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8dc17c44c4499ca6f658749a72a9156c06b78bf9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.671ex; width:21.647ex; height:6.509ex;" alt="\log{\frac{|D|}{|\{d&#039; \in D \, | \, t \in d&#039;\}|}}" /></span> is inverse document frequency (a global parameter). <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mi>D</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle |D|}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7c936c42ab206e72c1fbc1ea103cc9eca1802af1" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:3.249ex; height:2.843ex;" alt="|D|" /></span> is the total number of documents in the document set; <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mo fence="false" stretchy="false">{</mo>
+        <msup>
+          <mi>d</mi>
+          <mo>&#x2032;</mo>
+        </msup>
+        <mo>&#x2208;<!-- ∈ --></mo>
+        <mi>D</mi>
+        <mspace width="thinmathspace" />
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mspace width="thinmathspace" />
+        <mi>t</mi>
+        <mo>&#x2208;<!-- ∈ --></mo>
+        <msup>
+          <mi>d</mi>
+          <mo>&#x2032;</mo>
+        </msup>
+        <mo fence="false" stretchy="false">}</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle |\{d'\in D\,|\,t\in d'\}|}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/79feda8993043b31c17867436f7f9488974929e4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:17.42ex; height:3.009ex;" alt="|\{d&#039; \in D \, | \, t \in d&#039;\}|" /></span> is the number of documents containing the term <i>t</i>.</li>
+</ul>
+<p>Using the cosine the similarity between document <i>d<sub>j</sub></i> and query <i>q</i> can be calculated as:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">s</mi>
+          <mi mathvariant="normal">i</mi>
+          <mi mathvariant="normal">m</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>d</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>j</mi>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <mi>q</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <msub>
+                  <mi mathvariant="bold">d</mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mi mathvariant="bold">j</mi>
+                  </mrow>
+                </msub>
+              </mrow>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="bold">q</mi>
+              </mrow>
+            </mrow>
+            <mrow>
+              <mrow>
+                <mo>&#x2225;</mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <msub>
+                    <mi mathvariant="bold">d</mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mi mathvariant="bold">j</mi>
+                    </mrow>
+                  </msub>
+                </mrow>
+                <mo>&#x2225;</mo>
+              </mrow>
+              <mrow>
+                <mo>&#x2225;</mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi mathvariant="bold">q</mi>
+                </mrow>
+                <mo>&#x2225;</mo>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <munderover>
+                <mo>&#x2211;<!-- ∑ --></mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>i</mi>
+                  <mo>=</mo>
+                  <mn>1</mn>
+                </mrow>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>N</mi>
+                </mrow>
+              </munderover>
+              <msub>
+                <mi>w</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>i</mi>
+                  <mo>,</mo>
+                  <mi>j</mi>
+                </mrow>
+              </msub>
+              <msub>
+                <mi>w</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>i</mi>
+                  <mo>,</mo>
+                  <mi>q</mi>
+                </mrow>
+              </msub>
+            </mrow>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <msqrt>
+                  <munderover>
+                    <mo>&#x2211;<!-- ∑ --></mo>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mi>i</mi>
+                      <mo>=</mo>
+                      <mn>1</mn>
+                    </mrow>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mi>N</mi>
+                    </mrow>
+                  </munderover>
+                  <msubsup>
+                    <mi>w</mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mi>i</mi>
+                      <mo>,</mo>
+                      <mi>j</mi>
+                    </mrow>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mn>2</mn>
+                    </mrow>
+                  </msubsup>
+                </msqrt>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <msqrt>
+                  <munderover>
+                    <mo>&#x2211;<!-- ∑ --></mo>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mi>i</mi>
+                      <mo>=</mo>
+                      <mn>1</mn>
+                    </mrow>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mi>N</mi>
+                    </mrow>
+                  </munderover>
+                  <msubsup>
+                    <mi>w</mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mi>i</mi>
+                      <mo>,</mo>
+                      <mi>q</mi>
+                    </mrow>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mn>2</mn>
+                    </mrow>
+                  </msubsup>
+                </msqrt>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {sim} (d_{j},q)={\frac {\mathbf {d_{j}} \cdot \mathbf {q} }{\left\|\mathbf {d_{j}} \right\|\left\|\mathbf {q} \right\|}}={\frac {\sum _{i=1}^{N}w_{i,j}w_{i,q}}{{\sqrt {\sum _{i=1}^{N}w_{i,j}^{2}}}{\sqrt {\sum _{i=1}^{N}w_{i,q}^{2}}}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e8bf48efff04a116bf40b3172c344fe218af8f86" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -4.671ex; width:49.886ex; height:9.176ex;" alt="\mathrm{sim}(d_j,q) = \frac{\mathbf{d_j} \cdot \mathbf{q}}{\left\| \mathbf{d_j} \right\| \left \| \mathbf{q} \right\|} = \frac{\sum _{i=1}^N w_{i,j}w_{i,q}}{\sqrt{\sum _{i=1}^N w_{i,j}^2}\sqrt{\sum _{i=1}^N w_{i,q}^2}}" /></span></dd>
+</dl>
+<h2><span class="mw-headline" id="Advantages">Advantages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vector_space_model&amp;action=edit&amp;section=4" title="Edit section: Advantages">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The vector space model has the following advantages over the <a href="/wiki/Standard_Boolean_model" title="Standard Boolean model">Standard Boolean model</a>:</p>
+<ol>
+<li>Simple model based on linear algebra</li>
+<li>Term weights not binary</li>
+<li>Allows computing a continuous degree of similarity between queries and documents</li>
+<li>Allows ranking documents according to their possible relevance</li>
+<li>Allows partial matching</li>
+</ol>
+<p>Most of these advantages are a consequence of the difference in the density of the document collection representation between Boolean and tf-idf approaches. When using Boolean weights, any document lies in a vertex in a n-dimensional <a href="/wiki/Hypercube" title="Hypercube">hypercube</a>. Therefore, the possible document representations are <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mn>2</mn>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 2^{n}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8226f30650ee4fe4e640c6d2798127e80e9c160d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.399ex; height:2.343ex;" alt="2^{n}" /></span> and the maximum Euclidean distance between pairs is <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <msqrt>
+            <mi>n</mi>
+          </msqrt>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\sqrt {n}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2a2994734eae382ce30100fb17b9447fd8e99f81" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:3.351ex; height:3.009ex;" alt="{\sqrt {n}}" /></span>. As documents are added to the document collection, the region defined by the hypercube's vertices become more populated and hence denser. Unlike Boolean, when a document is added using tf-idf weights, the idfs of the terms in the new document decrease while that of the remaining terms increase. In average, as documents are added, the region where documents lie expands regulating the density of the entire collection representation. This behavior models the original motivation of Salton and his colleagues that a document collection represented in a low density region could yield better retrieval results.</p>
+<h2><span class="mw-headline" id="Limitations">Limitations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vector_space_model&amp;action=edit&amp;section=5" title="Edit section: Limitations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The vector space model has the following limitations:</p>
+<ol>
+<li>Long documents are poorly represented because they have poor similarity values (a small <a href="/wiki/Scalar_product" class="mw-redirect" title="Scalar product">scalar product</a> and a <a href="/wiki/Curse_of_dimensionality" title="Curse of dimensionality">large dimensionality</a>)</li>
+<li>Search keywords must precisely match document terms; word <a href="/wiki/Substring" title="Substring">substrings</a> might result in a "<a href="/wiki/False_positive" class="mw-redirect" title="False positive">false positive</a> match"</li>
+<li>Semantic sensitivity; documents with similar context but different term vocabulary won't be associated, resulting in a "<a href="/wiki/False_negative" class="mw-redirect" title="False negative">false negative</a> match".</li>
+<li>The order in which the terms appear in the document is lost in the vector space representation.</li>
+<li>Theoretically assumed terms are statistically independent.</li>
+<li>Weighting is intuitive but not very formal.</li>
+</ol>
+<p>Many of these difficulties can, however, be overcome by the integration of various tools, including mathematical techniques such as <a href="/wiki/Singular_value_decomposition" title="Singular value decomposition">singular value decomposition</a> and <a href="/wiki/Lexical_database" title="Lexical database">lexical databases</a> such as <a href="/wiki/WordNet" title="WordNet">WordNet</a>.</p>
+<h2><span class="mw-headline" id="Models_based_on_and_extending_the_vector_space_model">Models based on and extending the vector space model</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vector_space_model&amp;action=edit&amp;section=6" title="Edit section: Models based on and extending the vector space model">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Models based on and extending the vector space model include:</p>
+<ul>
+<li><a href="/wiki/Generalized_vector_space_model" title="Generalized vector space model">Generalized vector space model</a></li>
+<li><a href="/wiki/Latent_semantic_analysis" title="Latent semantic analysis">Latent semantic analysis</a></li>
+<li><a href="/wiki/Term_Discrimination" title="Term Discrimination">Term Discrimination</a></li>
+<li><a href="/wiki/Rocchio_Classification" class="mw-redirect" title="Rocchio Classification">Rocchio Classification</a></li>
+<li><a href="/wiki/Random_indexing" title="Random indexing">Random Indexing</a></li>
+</ul>
+<h2><span class="mw-headline" id="Software_that_implements_the_vector_space_model">Software that implements the vector space model</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vector_space_model&amp;action=edit&amp;section=7" title="Edit section: Software that implements the vector space model">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The following software packages may be of interest to those wishing to experiment with vector models and implement search services based upon them.</p>
+<h3><span class="mw-headline" id="Free_open_source_software">Free open source software</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vector_space_model&amp;action=edit&amp;section=8" title="Edit section: Free open source software">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Apache_Lucene" title="Apache Lucene">Apache Lucene</a>. Apache Lucene is a high-performance, full-featured text search engine library written entirely in Java.</li>
+<li><a href="/wiki/Gensim" title="Gensim">Gensim</a> is a Python+<a href="/wiki/NumPy" title="NumPy">NumPy</a> framework for Vector Space modelling. It contains incremental (memory-efficient) algorithms for <a href="/wiki/Tf%E2%80%93idf" title="Tf–idf">Tf–idf</a>, <a href="/wiki/Latent_Semantic_Indexing" class="mw-redirect" title="Latent Semantic Indexing">Latent Semantic Indexing</a>, <a href="/wiki/Locality_sensitive_hashing#Random_projection" class="mw-redirect" title="Locality sensitive hashing">Random Projections</a> and <a href="/wiki/Latent_Dirichlet_Allocation" class="mw-redirect" title="Latent Dirichlet Allocation">Latent Dirichlet Allocation</a>.</li>
+<li><a href="/wiki/Weka_(machine_learning)" title="Weka (machine learning)">Weka</a>. Weka is a popular data mining package for Java including WordVectors and Bag Of Words models.</li>
+</ul>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vector_space_model&amp;action=edit&amp;section=9" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Gerard_Salton" title="Gerard Salton">G. Salton</a>, A. Wong, and C. S. Yang (1975), "<a rel="nofollow" class="external text" href="http://www.cs.uiuc.edu/class/fa05/cs511/Spring05/other_papers/p613-salton.pdf">A Vector Space Model for Automatic Indexing</a>," <i>Communications of the ACM</i>, vol. 18, nr. 11, pages 613–620. <i>(Article in which a vector space model was presented)</i></li>
+<li>David Dubin (2004), <a rel="nofollow" class="external text" href="http://www.ideals.uiuc.edu/bitstream/2142/1697/2/Dubin748764.pdf">The Most Influential Paper Gerard Salton Never Wrote</a> <i>(Explains the history of the Vector Space Model and the non-existence of a frequently cited publication)</i></li>
+<li><a rel="nofollow" class="external text" href="http://isp.imm.dtu.dk/thor/projects/multimedia/textmining/node5.html">Description of the vector space model</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.miislita.com/term-vector/term-vector-3.html">Description of the classic vector space model by Dr E. Garcia</a></li>
+<li><a rel="nofollow" class="external text" href="http://nlp.stanford.edu/IR-book/html/htmledition/vector-space-classification-1.html">Relationship of vector space search to the "k-Nearest Neighbor" search</a></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vector_space_model&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Bag-of-words_model" title="Bag-of-words model">Bag-of-words model</a></li>
+<li><a href="/wiki/Compound_term_processing" title="Compound term processing">Compound term processing</a></li>
+<li><a href="/wiki/Conceptual_space" title="Conceptual space">Conceptual space</a></li>
+<li><a href="/wiki/Eigenvalues_and_eigenvectors" title="Eigenvalues and eigenvectors">Eigenvalues and eigenvectors</a></li>
+<li><a href="/wiki/Inverted_index" title="Inverted index">Inverted index</a></li>
+<li><a href="/wiki/Nearest_neighbor_search" title="Nearest neighbor search">Nearest neighbor search</a></li>
+<li><a href="/wiki/Sparse_distributed_memory" title="Sparse distributed memory">Sparse distributed memory</a></li>
+<li><a href="/wiki/W-shingling" title="W-shingling">w-shingling</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vector_space_model&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://doi.acm.org/10.1145/361219.361220">G. Salton , A. Wong , C. S. Yang, A vector space model for automatic indexing</a>, Communications of the ACM, v.18 n.11, p.613-620, Nov. 1975</span></li>
+</ol>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1242
+Cached time: 20170914121147
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.036 seconds
+Real time usage: 0.155 seconds
+Preprocessor visited node count: 179/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:20948989-0!canonical!math=5 and timestamp 20170914121147 and revision id 789880986
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Vector_space_model&amp;oldid=789880986">https://en.wikipedia.org/w/index.php?title=Vector_space_model&amp;oldid=789880986</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Vector_space_model" title="Category:Vector space model">Vector space model</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Vector+space+model" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Vector+space+model" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Vector_space_model" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Vector_space_model" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Vector_space_model">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Vector_space_model&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Vector_space_model&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Vector_space_model" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Vector_space_model" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Vector_space_model&amp;oldid=789880986" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Vector_space_model&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1187982" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Vector_space_model&amp;id=789880986" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Vector+space+model">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Vector+space+model&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DVector%2Bspace%2Bmodel%26returnto%3DVector%2Bspace%2Bmodel%26oldid%3D789880986%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Vector_space_model&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%86%D9%85%D9%88%D8%B0%D8%AC_%D9%81%D8%B6%D8%A7%D8%A1_%D8%A7%D9%84%D9%85%D8%AA%D8%AC%D9%87" title="نموذج فضاء المتجه – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Vektorraum-Retrieval" title="Vektorraum-Retrieval – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Modelo_de_espacio_vectorial" title="Modelo de espacio vectorial – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Mod%C3%A8le_vectoriel" title="Modèle vectoriel – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%B2%A1%ED%84%B0_%EA%B3%B5%EA%B0%84_%EB%AA%A8%EB%8D%B8" title="벡터 공간 모델 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Vector_Space_Model" title="Vector Space Model – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%AF%E3%83%88%E3%83%AB%E7%A9%BA%E9%96%93%E3%83%A2%E3%83%87%E3%83%AB" title="ベクトル空間モデル – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Vektorrom-modellen" title="Vektorrom-modellen – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%B5%E0%A9%88%E0%A8%95%E0%A8%9F%E0%A8%B0_%E0%A8%B8%E0%A8%AA%E0%A9%87%E0%A8%B8_%E0%A8%AE%E0%A8%BE%E0%A8%A1%E0%A8%B2" title="ਵੈਕਟਰ ਸਪੇਸ ਮਾਡਲ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Modelo_vetorial_em_sistemas_de_recupera%C3%A7%C3%A3o_da_informa%C3%A7%C3%A3o" title="Modelo vetorial em sistemas de recuperação da informação – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C" title="Векторная модель – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%88%E0%B8%B3%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B9%80%E0%B8%A7%E0%B8%81%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C" title="แบบจำลองปริภูมิเวกเตอร์ – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%92%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D0%B0_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C" title="Векторна модель – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%90%91%E9%87%8F%E7%A9%BA%E9%96%93%E6%A8%A1%E5%9E%8B" title="向量空間模型 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1187982#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 10 July 2017, at 06:36.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Vector_space_model&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.036","walltime":"0.155","ppvisitednodes":{"value":179,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"origin":"mw1242","timestamp":"20170914121147","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":55,"wgHostname":"mw1250"});});</script>
+	</body>
+</html>

@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Tracery - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Tracery","wgTitle":"Tracery","wgCurRevisionId":788343607,"wgRevisionId":788343607,"wgArticleId":1347787,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference","Articles needing additional references from May 2013","All articles needing additional references","Wikipedia introduction cleanup from May 2013","All pages needing cleanup","Articles covered by WikiProject Wikify from May 2013","All articles covered by WikiProject Wikify","Articles lacking in-text citations from December 2011","All articles lacking in-text citations","All articles with unsourced statements","Articles with unsourced statements from December 2011","Ornaments","Windows","Gothic architecture","Church architecture"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Tracery","wgRelevantArticleId":1347787,"wgRequestId":"WcgyvQpAEK8AACaKDg4AAABO","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q847108","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/b/bf/Strassburg_Rose_exterior.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Tracery"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Tracery&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Tracery&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Tracery"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Tracery rootpage-Tracery skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Tracery</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div>
+</td>
+<td class="mbox-text">
+<div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><span class="mbox-text-span"><b>This article has multiple issues.</b> Please help <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=Tracery&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:Tracery" title="Talk:Tracery">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small></span>
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Tracery&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(May 2013)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<table class="plainlinks metadata ambox ambox-content ambox-lead_too_short" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Wiki_letter_w.svg" class="image"><img alt="Wiki letter w.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/40px-Wiki_letter_w.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/60px-Wiki_letter_w.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/80px-Wiki_letter_w.svg.png 2x" data-file-width="44" data-file-height="44" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article's <b><a href="/wiki/Wikipedia:Manual_of_Style/Lead_section" title="Wikipedia:Manual of Style/Lead section">lead section</a> does not adequately <a href="/wiki/Wikipedia:Summary_style" title="Wikipedia:Summary style">summarize</a> key points of its contents</b>. <span class="hide-when-compact">Please consider expanding the lead to <a href="/wiki/Wikipedia:Manual_of_Style/Lead_section#Provide_an_accessible_overview" title="Wikipedia:Manual of Style/Lead section">provide an accessible overview</a> of all important aspects of the article. Please discuss this issue on the article's <a href="/wiki/Talk:Tracery" title="Talk:Tracery">talk page</a>.</span> <small><i>(May 2013)</i></small></span></td>
+</tr>
+</table>
+<table class="plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(December 2011)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+</div>
+</div>
+<small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Strassburg_Rose_exterior.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Strassburg_Rose_exterior.jpg/220px-Strassburg_Rose_exterior.jpg" width="220" height="223" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Strassburg_Rose_exterior.jpg/330px-Strassburg_Rose_exterior.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Strassburg_Rose_exterior.jpg/440px-Strassburg_Rose_exterior.jpg 2x" data-file-width="633" data-file-height="643" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Strassburg_Rose_exterior.jpg" class="internal" title="Enlarge"></a></div>
+The rose window of <a href="/wiki/Strasbourg_Cathedral" title="Strasbourg Cathedral">Strasbourg Cathedral</a>, showing the open tracery screen.</div>
+</div>
+</div>
+<p>In architecture, <b>tracery</b> is the stonework elements that support the glass in a <a href="/wiki/Gothic_architecture" title="Gothic architecture">Gothic</a> window.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The term probably derives from the 'tracing floors' on which the complex patterns of late Gothic windows were laid out.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> There are two main types, <i>plate tracery</i> and the later <i>bar tracery</i>.<sup id="cite_ref-HF_3-0" class="reference"><a href="#cite_note-HF-3">[3]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Plate_tracery"><span class="tocnumber">1</span> <span class="toctext">Plate tracery</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Bar_tracery"><span class="tocnumber">2</span> <span class="toctext">Bar tracery</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Blind_and_open_tracery"><span class="tocnumber">3</span> <span class="toctext">Blind and open tracery</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Tracery_patterns_and_the_phases_of_Gothic"><span class="tocnumber">4</span> <span class="toctext">Tracery patterns and the phases of Gothic</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Tracing_floors_and_.C3.A9pures"><span class="tocnumber">5</span> <span class="toctext">Tracing floors and <i>épures</i></span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References_and_sources"><span class="tocnumber">7</span> <span class="toctext">References and sources</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Plate_tracery">Plate tracery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tracery&amp;action=edit&amp;section=1" title="Edit section: Plate tracery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Fenetre.cathedraleSoissons.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Fenetre.cathedraleSoissons.png/220px-Fenetre.cathedraleSoissons.png" width="220" height="364" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Fenetre.cathedraleSoissons.png/330px-Fenetre.cathedraleSoissons.png 1.5x, //upload.wikimedia.org/wikipedia/commons/1/1c/Fenetre.cathedraleSoissons.png 2x" data-file-width="435" data-file-height="720" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Fenetre.cathedraleSoissons.png" class="internal" title="Enlarge"></a></div>
+<i>Plate tracery</i> in the nave aisle windows of <a href="/wiki/Soissons_Cathedral" title="Soissons Cathedral">Soissons Cathedral</a> (c.1200).</div>
+</div>
+</div>
+<p>The earliest form of window tracery, typical of Gothic architecture prior to the early 13th century, is known as plate tracery because the individual lights (the glazed openings in the window) have the appearance of being cut out of a flat plate of masonry. Romanesque church windows were normally quite small, somewhat taller than wide and with a simple round-headed ('segmental') arch at the top. From around the 1140s, the pointed-arch Gothic window (employed by <a href="/wiki/Abbot_Suger" class="mw-redirect" title="Abbot Suger">Abbot Suger</a> for the redesign of the choir at <a href="/wiki/Basilica_of_St_Denis" title="Basilica of St Denis">St Denis</a>) started to take over.</p>
+<p>As the buttressing systems of early Gothic architecture reduced the structural need for broad expanses of thick walls, window openings grew progressively larger and instead of having just one very large window per bay division (which would create problems with supporting the glass), the typical early-Gothic 'twin <a href="/wiki/Lancet_window" title="Lancet window">lancet</a> plus oculus' form of plate tracery developed. This consists of two (sometimes three) tall thin lights topped with pointed arches, with a round or <a href="/wiki/Trefoil" title="Trefoil">trefoil</a> opening placed above them, often contained within a blind arch which gives the whole assemblage a pointed lancet shape (see the example from <a href="/wiki/Soissons_Cathedral" title="Soissons Cathedral">Soissons Cathedral</a>, right). With this type of design, the <a href="/wiki/Spandrel" title="Spandrel">spandrels</a> (i.e. the spaces between the tops of the lancet windows and the oculus) are just blank wall. The practicalities of building window tracery in this way severely limited the complexity of designs that could be produced and although plate tracery designs evolved over the course of the 12th and early 13th centuries, in practice, the only real variation was in the number and size of lancets and in the <a href="/wiki/Trefoil" title="Trefoil">trefoils</a>, <a href="/wiki/Quatrefoil" title="Quatrefoil">quatrefoils</a> and oculi used to fill the spaces above them.</p>
+<p>The <a href="/wiki/Rose_window" title="Rose window">rose windows</a> of early- and high-Gothic cathedrals, such as the example in the north <a href="/wiki/Transept" title="Transept">transept</a> of <a href="/wiki/Laon_Cathedral" title="Laon Cathedral">Laon Cathedral</a> (1170's) or the west facade at <a href="/wiki/Chartres_Cathedral" title="Chartres Cathedral">Chartres</a> (c.1210), also employed plate tracery. This greatly limited the overall amount of light admitted to the interior by these windows, as well as restricting the complexity of patterns that could be created.</p>
+<h2><span class="mw-headline" id="Bar_tracery">Bar tracery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tracery&amp;action=edit&amp;section=2" title="Edit section: Bar tracery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Meneaux.fenetre.cathedrale.Reims.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Meneaux.fenetre.cathedrale.Reims.png/220px-Meneaux.fenetre.cathedrale.Reims.png" width="220" height="362" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Meneaux.fenetre.cathedrale.Reims.png/330px-Meneaux.fenetre.cathedrale.Reims.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Meneaux.fenetre.cathedrale.Reims.png/440px-Meneaux.fenetre.cathedrale.Reims.png 2x" data-file-width="624" data-file-height="1026" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Meneaux.fenetre.cathedrale.Reims.png" class="internal" title="Enlarge"></a></div>
+Bar tracery in the clerestory windows at <a href="/wiki/Reims_Cathedral" title="Reims Cathedral">Reims Cathedral</a> (1230s). Note the cross section through a mullion shown within the left lancet.</div>
+</div>
+</div>
+<p>The earliest bar tracery designs were made for the aisle windows at Reims around 1215. The Reims windows still used the same 'two lancets plus oculus' pattern (as in the Soissons example above) but now the glass panels were held between narrow stone <a href="/wiki/Mullion" title="Mullion">mullions</a> made up of carefully shaped lengths of masonry (fitted together with mortar and metal pins) quite distinct from the wall surrounding them. These mullions were much more slender than the corresponding elements in plate tracery windows and crucially, the previously solid wall areas such as the spandrels could also now be glazed, greatly increasing the amount of light admitted.</p>
+<p>The cross-section of each mullion or tracery bar was important both for the structural integrity of the window and for the visual effect. As can be seen in <a href="/wiki/Viollet-le-Duc" class="mw-redirect" title="Viollet-le-Duc">Viollet-le-Duc</a>'s diagram (<i>right</i>) there was normally a <a href="/w/index.php?title=Roll-moulding&amp;action=edit&amp;redlink=1" class="new" title="Roll-moulding (page does not exist)">roll-moulding</a> on both the inside and outside of the windows, which made the mullions appear even more slender than they actually were. The shoulder marked 'B' on the diagram is the glazing slot, into which the metal frame (<a href="/wiki/Armature_(sculpture)" title="Armature (sculpture)">armature</a>) of the window glass is mounted. Unlike with plate tracery, where each stone had to be individually shaped, the elements of bar tracery could be mass-produced to standard templates in the mason's yard - work that could continue even when it was too cold for <a href="/wiki/Lime_mortar" title="Lime mortar">lime mortar</a> to set. The technical aspects of the windows at Reims clearly fascinated <a href="/wiki/Villard_de_Honnecourt" title="Villard de Honnecourt">Villard de Honnecourt</a>, who visited the construction site, probably in the 1220s, and made a detailed sketch of the various templates, using a key to show how they fitted into the different parts of the window (the templates are in the lower half of folio 32 recto; the symbols besides the templates match similar ones on the detailed drawing of the Reims elevations on the facing page, folio 31 verso).</p>
+<h2><span class="mw-headline" id="Blind_and_open_tracery">Blind and open tracery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tracery&amp;action=edit&amp;section=3" title="Edit section: Blind and open tracery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As bar tracery opened the way for more complex patterns, masons started applying those same patterns to other surfaces as well as the actual window openings. When used on an otherwise solid walls, such motifs are known as blind tracery, a decorative effect first applied on the west facade of the church of St Nicaise at Reims (1230's). Conversely, tracery was also constructed as <a href="/wiki/Openwork" title="Openwork">openwork</a> screens, which could either match the window tracery behind them (e.g. the <a href="/wiki/Basilica_of_Saint_Urbain,_Troyes" class="mw-redirect" title="Basilica of Saint Urbain, Troyes">Basilica of Saint Urbain, Troyes</a>) or create a visual counterpoint to it, as on the exterior of the west facade of <a href="/wiki/Strasbourg_Cathedral" title="Strasbourg Cathedral">Strasbourg Cathedral</a>. Open tracery in particular was a key feature of the later phases of <a href="/wiki/Rayonnant" title="Rayonnant">Rayonnant</a> Gothic.</p>
+<h2><span class="mw-headline" id="Tracery_patterns_and_the_phases_of_Gothic">Tracery patterns and the phases of Gothic</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tracery&amp;action=edit&amp;section=4" title="Edit section: Tracery patterns and the phases of Gothic">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Most 19th-century histories of Gothic architectural style used a series of rather arbitrary categories based on the supposed evolution of the dominant patterns of window tracery. Such <a href="/wiki/Teleology" title="Teleology">teleological</a> models are now regarded as oversimplistic and are generally shunned by art historians,<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2011)">citation needed</span></a></i>]</sup> although they live on in the popular literature. In terms of the overall development of Gothic architecture, the crucial development was not so much the use of any particular tracery patterns but the transition from plate- to bar-tracery, which was what made the <a href="/wiki/Rayonnant" title="Rayonnant">Rayonnant</a> and subsequent styles possible.</p>
+<h2><span id="Tracing_floors_and_épures"></span><span class="mw-headline" id="Tracing_floors_and_.C3.A9pures">Tracing floors and <i>épures</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tracery&amp;action=edit&amp;section=5" title="Edit section: Tracing floors and épures">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As the complexity of tracery increased, so did the need for masons to draw out their designs in advance, either as a way of experimenting with patterns or as a way of communicating their designs to other craftsmen or to their patrons. Because of the cost and size limitations of parchment sheets, such designs would normally be drawn by incising onto a whitewashed board or a conveniently placed section of flat wall. In the latter case, the wall would be prepared with a thin layer of plaster, which would show the design more clearly.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:20130406_Ely_Cathedral_01.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/20130406_Ely_Cathedral_01.jpg/220px-20130406_Ely_Cathedral_01.jpg" width="220" height="353" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/20130406_Ely_Cathedral_01.jpg/330px-20130406_Ely_Cathedral_01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/20130406_Ely_Cathedral_01.jpg/440px-20130406_Ely_Cathedral_01.jpg 2x" data-file-width="2246" data-file-height="3600" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:20130406_Ely_Cathedral_01.jpg" class="internal" title="Enlarge"></a></div>
+Tracery in a window of <a href="/wiki/Ely_Cathedral" title="Ely Cathedral">Ely Cathedral</a>.</div>
+</div>
+</div>
+<p>A number of churches and cathedrals still show the faint remains of these tracings (or <i>épures</i> as they are known in France), from where the mason's compass points scratched through the plaster and into the masonry below. (Examples include some experimental 14th century window tracery patterns at the eastern end of the south wall inside the Galillee porch of <a href="/wiki/Ely_Cathedral" title="Ely Cathedral">Ely Cathedral</a>, or the extensive series of tracings on the flat aisle roofs of <a href="/wiki/Clermont-Ferrand_Cathedral" title="Clermont-Ferrand Cathedral">Clermont-Ferrand Cathedral</a>.) A number of major building sites (including <a href="/wiki/Westminster_Abbey" title="Westminster Abbey">Westminster Abbey</a>, <a href="/wiki/Wells_Cathedral" title="Wells Cathedral">Wells Cathedral</a> and <a href="/wiki/York_Minster" title="York Minster">York Minster</a>) originally had dedicated tracery chambers, where the architects could prepare their designs in relative comfort. The availability of a large flat floor surface meant that designs could be drawn life-size and the individual elements of bar tracery laid out on the plan to test their goodness of fit, before hoisting them up the scaffolding for installation in the actual window openings. This also meant that masons could carry on working through the winter season, when building work would normally grind to a halt.</p>
+<p>The tracing floors themselves were covered with plaster of paris, which could be relaid and smoothed down after each set of designs were finished with. The 14th-century tracing house at York (also known as the Mason's Loft) survives to this day on the upper storey of the corridor leading to the <a href="/wiki/Chapter_House" class="mw-redirect" title="Chapter House">Chapter House</a>, the complex web of lines and curves scratched into the floor serving as witnesses to the countless different designs that were worked out in there. The high-quality carpentry and the inclusion of a <a href="/wiki/Garderobe" title="Garderobe">garderobe</a> and fireplace in the York tracing house also give an indication of the rising status of the architect around the 14th century.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tracery&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Foil_(architecture)" title="Foil (architecture)">Foil (architecture)</a></li>
+<li><a href="/wiki/Gothic_Architecture" class="mw-redirect" title="Gothic Architecture">Gothic Architecture</a></li>
+<li><a href="/wiki/Rose_window" title="Rose window">Rose window</a></li>
+<li><a href="/wiki/Rosette_(design)" title="Rosette (design)">Rosette (design)</a></li>
+<li><a href="/wiki/Three_hares" title="Three hares">Three hares</a></li>
+</ul>
+<h2><span class="mw-headline" id="References_and_sources">References and sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tracery&amp;action=edit&amp;section=7" title="Edit section: References and sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dt>References</dt>
+</dl>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" />&#160;<cite class="citation encyclopaedia">Chisholm, Hugh, ed. (1911). "<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Tracery" class="extiw" title="wikisource:1911 Encyclopædia Britannica/Tracery">Tracery</a>". <i><a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">Encyclopædia Britannica</a></i> (11th ed.). Cambridge University Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATracery&amp;rft.atitle=Tracery&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft.date=1911&amp;rft.edition=11th&amp;rft.genre=bookitem&amp;rft.pub=Cambridge+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><i><a href="/wiki/Oxford_English_Dictionary" title="Oxford English Dictionary">Oxford English Dictionary</a></i> - etymological details for 'Tracery'</span></li>
+<li id="cite_note-HF-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-HF_3-0">^</a></b></span> <span class="reference-text"><a href="/wiki/Hugh_Honour" title="Hugh Honour">Honour, H.</a> and J. Fleming, (2009) <i>A World History of Art</i>. 7th edn. London: Laurence King Publishing, p. 948. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781856695848" title="Special:BookSources/9781856695848">9781856695848</a></span></li>
+</ol>
+</div>
+</div>
+<dl>
+<dt>Sources</dt>
+</dl>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Tracery" class="extiw" title="commons:Category:Tracery">Tracery</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><cite class="citation book">Bony, Jean (1983). <i>French Gothic Architecture of the 12th and 13th Centuries</i>. <a href="/wiki/University_of_California_Press" title="University of California Press">University of California Press</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATracery&amp;rft.aufirst=Jean&amp;rft.aulast=Bony&amp;rft.btitle=French+Gothic+Architecture+of+the+12th+and+13th+Centuries&amp;rft.date=1983&amp;rft.genre=book&amp;rft.pub=University+of+California+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Wilson, Christopher (1990). <i>The Gothic Cathedral</i>. London.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATracery&amp;rft.aufirst=Christopher&amp;rft.aulast=Wilson&amp;rft.btitle=The+Gothic+Cathedral&amp;rft.date=1990&amp;rft.genre=book&amp;rft.place=London&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> Eespecially 120ff.</li>
+<li><cite class="citation book">Frankl, Paul; Crossley, Paul (2000). <i>Gothic Architecture</i>. <a href="/wiki/Yale_University_Press" title="Yale University Press">Yale University Press</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATracery&amp;rft.au=Crossley%2C+Paul&amp;rft.aufirst=Paul&amp;rft.aulast=Frankl&amp;rft.btitle=Gothic+Architecture&amp;rft.date=2000&amp;rft.genre=book&amp;rft.pub=Yale+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1220
+Cached time: 20170924223333
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.204 seconds
+Real time usage: 0.277 seconds
+Preprocessor visited node count: 1275/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 40563/2097152 bytes
+Template argument size: 10189/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 5/500
+Lua time usage: 0.081/10.000 seconds
+Lua memory usage: 2.76 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  234.854      1 -total
+ 38.86%   91.271      4 Template:Ambox
+ 36.07%   84.714      1 Template:Reflist
+ 31.14%   73.130      1 Template:Multiple_issues
+ 20.27%   47.614      1 Template:Cite_EB1911
+ 15.69%   36.847      1 Template:Cite_encyclopedia
+ 14.08%   33.070      1 Template:Citation_needed
+ 12.81%   30.093      1 Template:Fix
+ 11.11%   26.099      1 Template:Commons_category
+ 10.45%   24.544      1 Template:ISBN
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1347787-0!canonical and timestamp 20170924223333 and revision id 788343607
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Tracery&amp;oldid=788343607">https://en.wikipedia.org/w/index.php?title=Tracery&amp;oldid=788343607</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Ornaments" title="Category:Ornaments">Ornaments</a></li><li><a href="/wiki/Category:Windows" title="Category:Windows">Windows</a></li><li><a href="/wiki/Category:Gothic_architecture" title="Category:Gothic architecture">Gothic architecture</a></li><li><a href="/wiki/Category:Church_architecture" title="Category:Church architecture">Church architecture</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_1911_Encyclopaedia_Britannica_with_Wikisource_reference" title="Category:Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference">Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_May_2013" title="Category:Articles needing additional references from May 2013">Articles needing additional references from May 2013</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Wikipedia_introduction_cleanup_from_May_2013" title="Category:Wikipedia introduction cleanup from May 2013">Wikipedia introduction cleanup from May 2013</a></li><li><a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">All pages needing cleanup</a></li><li><a href="/wiki/Category:Articles_covered_by_WikiProject_Wikify_from_May_2013" title="Category:Articles covered by WikiProject Wikify from May 2013">Articles covered by WikiProject Wikify from May 2013</a></li><li><a href="/wiki/Category:All_articles_covered_by_WikiProject_Wikify" title="Category:All articles covered by WikiProject Wikify">All articles covered by WikiProject Wikify</a></li><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_December_2011" title="Category:Articles lacking in-text citations from December 2011">Articles lacking in-text citations from December 2011</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2011" title="Category:Articles with unsourced statements from December 2011">Articles with unsourced statements from December 2011</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Tracery" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Tracery" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Tracery" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Tracery" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Tracery">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Tracery&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Tracery&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Tracery" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Tracery" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Tracery&amp;oldid=788343607" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Tracery&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q847108" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Tracery&amp;id=788343607" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Tracery">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Tracery&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DTracery%26returnto%3DTracery%26oldid%3D788343607%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Tracery&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Tracery" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D0%B2%D0%B5%D1%80%D0%BA" title="Масверк – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Traceria" title="Traceria – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Kru%C5%BEba" title="Kružba – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Ma%C3%9Fwerk" title="Maßwerk – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Tracer%C3%ADa" title="Tracería – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Ornamripo" title="Ornamripo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AA%D9%88%D8%B1%DB%8C%E2%80%8C%DA%A9%D8%A7%D8%B1%DB%8C" title="توری‌کاری – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Tracerie" title="Tracerie – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Eangach" title="Eangach – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Trazar%C3%ADa" title="Trazaría – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Traforo_(architettura)" title="Traforo (architettura) – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%AA%D7%97%D7%A8%D7%AA_%D7%97%D7%9C%D7%95%D7%A0%D7%95%D7%AA" title="תחרת חלונות – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/M%C3%A9rm%C5%B1" title="Mérmű – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Maaswerk" title="Maaswerk – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Maswerk" title="Maswerk – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Traceria" title="Traceria – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D0%B2%D0%B5%D1%80%D0%BA" title="Масверк – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Kru%C5%BEba" title="Kružba – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Krogovi%C4%8Dje" title="Krogovičje – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Masverk" title="Masverk – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%88%E0%B8%87" title="ลายโปร่ง – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D0%B2%D0%B5%D1%80%D0%BA" title="Масверк – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q847108#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 30 June 2017, at 22:34.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Tracery&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.204","walltime":"0.277","ppvisitednodes":{"value":1275,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":40563,"limit":2097152},"templateargumentsize":{"value":10189,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  234.854      1 -total"," 38.86%   91.271      4 Template:Ambox"," 36.07%   84.714      1 Template:Reflist"," 31.14%   73.130      1 Template:Multiple_issues"," 20.27%   47.614      1 Template:Cite_EB1911"," 15.69%   36.847      1 Template:Cite_encyclopedia"," 14.08%   33.070      1 Template:Citation_needed"," 12.81%   30.093      1 Template:Fix"," 11.11%   26.099      1 Template:Commons_category"," 10.45%   24.544      1 Template:ISBN"]},"scribunto":{"limitreport-timeusage":{"value":"0.081","limit":"10.000"},"limitreport-memusage":{"value":2890989,"limit":52428800}},"cachereport":{"origin":"mw1220","timestamp":"20170924223333","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":362,"wgHostname":"mw1220"});});</script>
+	</body>
+</html>

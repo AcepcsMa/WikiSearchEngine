@@ -1,0 +1,840 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Germanisches Nationalmuseum - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Germanisches_Nationalmuseum","wgTitle":"Germanisches Nationalmuseum","wgCurRevisionId":771599578,"wgRevisionId":771599578,"wgArticleId":2204026,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing German-language text","Coordinates on Wikidata","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with SELIBR identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with ULAN identifiers","Wikipedia articles with NLA identifiers","Museums established in 1852","National museums of Germany","Art museums and galleries in Germany","Museums in Nuremberg","1852 establishments in Bavaria","1852 establishments in Germany"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Germanisches_Nationalmuseum","wgRelevantArticleId":2204026,"wgRequestId":"WcnpbwpAAEIAAGDIbnkAAABW","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":49.448333333333,"lon":11.075555555556},"wgWikibaseItemId":"Q478695","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/d/da/Nuernberg_gnm_haupteingang_v_sw.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Germanisches_Nationalmuseum"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Germanisches_Nationalmuseum&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Germanisches_Nationalmuseum&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Germanisches_Nationalmuseum"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Germanisches_Nationalmuseum rootpage-Germanisches_Nationalmuseum skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Germanisches Nationalmuseum</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em">
+<caption class="fn org">Germanisches Nationalmuseum</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Nuernberg_gnm_haupteingang_v_sw.jpg" class="image" title="upright=240px"><img alt="upright=240px" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Nuernberg_gnm_haupteingang_v_sw.jpg/220px-Nuernberg_gnm_haupteingang_v_sw.jpg" width="220" height="293" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Nuernberg_gnm_haupteingang_v_sw.jpg/330px-Nuernberg_gnm_haupteingang_v_sw.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Nuernberg_gnm_haupteingang_v_sw.jpg/440px-Nuernberg_gnm_haupteingang_v_sw.jpg 2x" data-file-width="600" data-file-height="800" /></a></td>
+</tr>
+<tr>
+<th scope="row">Established</th>
+<td>1852</td>
+</tr>
+<tr class="adr">
+<th scope="row">Location</th>
+<td class="locality"><a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a>, Germany</td>
+</tr>
+<tr>
+<th scope="row">Visitors</th>
+<td>405,799 (2010)</td>
+</tr>
+<tr>
+<th scope="row">Director</th>
+<td class="agent">Prof. Dr. G. Ulrich Großmann</td>
+</tr>
+<tr>
+<th scope="row">Public transit access</th>
+<td><a href="/wiki/U2_(Nuremberg_U-Bahn)" title="U2 (Nuremberg U-Bahn)">U2 (Nuremberg U-Bahn)</a>/<a href="/wiki/U3_(Nuremberg_U-Bahn)" title="U3 (Nuremberg U-Bahn)">U3 (Nuremberg U-Bahn)</a>: <a href="/wiki/Opernhaus_(Nuremberg_U-Bahn)" title="Opernhaus (Nuremberg U-Bahn)">Opernhaus</a>; <a href="/wiki/U1_(Nuremberg_U-Bahn)" title="U1 (Nuremberg U-Bahn)">U1 (Nuremberg U-Bahn)</a>: <a href="/wiki/Lorenzkirche_(Nuremberg_U-Bahn)" title="Lorenzkirche (Nuremberg U-Bahn)">Lorenzkirche</a></td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external free" href="http://www.gnm.de">http://www.gnm.de</a></td>
+</tr>
+</table>
+<p>The <b>Germanisches Nationalmuseum</b> is a museum in <a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a>, <a href="/wiki/Germany" title="Germany">Germany</a>. Founded in 1852, it houses a large collection of items relating to German culture and art extending from prehistoric times through to the present day. The Germanisches Nationalmuseum is Germany's largest museum of cultural history. Out of its total holding of some 1.3 million objects (including the holdings of the library and the Department of Prints and Drawings), approximately 25,000 are exhibited.<sup id="cite_ref-FAQ_1-0" class="reference"><a href="#cite_note-FAQ-1">[1]</a></sup></p>
+<p>The museum is situated in the south of the historic city center between Kornmarkt and Frauentormauer along the medieval city wall. Its entrance hall is situated on Kartäusergasse which was transformed by the Israeli sculptor <a href="/wiki/Dani_Karavan" title="Dani Karavan">Dani Karavan</a> to the <a href="/wiki/Way_of_Human_Rights" title="Way of Human Rights">Way of Human Rights</a> (<a href="/wiki/German_language" title="German language">German</a>: <span lang="de" xml:lang="de"><i>Straße der Menschenrechte</i></span>).</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Name.2C_establishment.2C_guiding_principles"><span class="tocnumber">1</span> <span class="toctext">Name, establishment, guiding principles</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Buildings"><span class="tocnumber">2</span> <span class="toctext">Buildings</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Collection"><span class="tocnumber">3</span> <span class="toctext">Collection</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Structure_and_organization"><span class="tocnumber">4</span> <span class="toctext">Structure and organization</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span id="Name,_establishment,_guiding_principles"></span><span class="mw-headline" id="Name.2C_establishment.2C_guiding_principles">Name, establishment, guiding principles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Germanisches_Nationalmuseum&amp;action=edit&amp;section=1" title="Edit section: Name, establishment, guiding principles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:GNM-Eigenthum.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/GNM-Eigenthum.jpg/220px-GNM-Eigenthum.jpg" width="220" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/GNM-Eigenthum.jpg/330px-GNM-Eigenthum.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/GNM-Eigenthum.jpg/440px-GNM-Eigenthum.jpg 2x" data-file-width="4888" data-file-height="3240" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:GNM-Eigenthum.jpg" class="internal" title="Enlarge"></a></div>
+The inscription „Eigenthum der deutschen Nation“ ("Property of the German Nation") at the main entrance was installed when the museum was founded in 1852, and was commissioned by <a href="/wiki/Hans_von_und_zu_Aufse%C3%9F" title="Hans von und zu Aufseß">Hans von und zu Aufseß</a></div>
+</div>
+</div>
+<p>The <b>Germanisches Museum</b>, as it was named initially, was founded by a group of individuals led by the <a href="/wiki/Franconia" title="Franconia">Franconian</a> baron <a href="/wiki/Hans_von_und_zu_Aufsess" class="mw-redirect" title="Hans von und zu Aufsess">Hans von und zu Aufsess</a>, whose goal was to assemble a "well-ordered compendium of all available source material for German history, literature and art".</p>
+<p>The term <i>Germanic</i> should be understood in the historical context of the mid nineteenth century. In 1846, German linguists and historians, amongst them the <a href="/wiki/Brothers_Grimm" title="Brothers Grimm">Brothers Grimm</a>, <a href="/wiki/Leopold_Ranke" class="mw-redirect" title="Leopold Ranke">Leopold Ranke</a> und <a href="/wiki/Jacob_Burckhardt" title="Jacob Burckhardt">Jacob Burckhardt</a>, had met in <a href="/wiki/Frankfurt" title="Frankfurt">Frankfurt</a>, and decided to use <a href="/wiki/German_studies" title="German studies">"Germanistik"</a> as a comprehensive term embracing all the fields of their academic disciplines related to the culture of German speaking regions. The <a href="/wiki/German_revolutions_of_1848%E2%80%9349" title="German revolutions of 1848–49">German revolutions of 1848–49</a> had failed to achieve a liberalised and unified Germany. Thus the name of the museum maintained the idea of a close cultural relationship within a region defined by the common German language, and a shared German cultural tradition. In 1852, the museum's intention to document the cultural unity of the German-speaking areas was a progressive concept, free from any exaggerated <a href="/wiki/Chauvinism" title="Chauvinism">Chauvinism</a>.<sup id="cite_ref-FAQ_1-1" class="reference"><a href="#cite_note-FAQ-1">[1]</a></sup> Only in 1871, when the <a href="/wiki/German_Empire" title="German Empire">German Empire</a> was constituted, the museum paid tribute to it by adding <i>national</i> to its name.</p>
+<p>The museum understands itself as an important research and educational institution. As a national museum and a museum of the entire German-speaking region the German National Museum collects and maintains cultural, artistic and historical testimonials from the beginning of history to the present. As a research and educational institution of international standing, the collections, exhibitions and publications present the cultural history of the German-speaking countries in an international and interdisciplinary approach. The work of the institution is guided by the principle of respect for all cultures, so that all human beings can understand what the museum communicates, independent of their upbringing, education, and religious beliefs.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Buildings">Buildings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Germanisches_Nationalmuseum&amp;action=edit&amp;section=2" title="Edit section: Buildings">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Karth%C3%A4userklosterhofNbg.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Karth%C3%A4userklosterhofNbg.jpg/220px-Karth%C3%A4userklosterhofNbg.jpg" width="220" height="177" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Karth%C3%A4userklosterhofNbg.jpg/330px-Karth%C3%A4userklosterhofNbg.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Karth%C3%A4userklosterhofNbg.jpg/440px-Karth%C3%A4userklosterhofNbg.jpg 2x" data-file-width="1320" data-file-height="1059" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Karth%C3%A4userklosterhofNbg.jpg" class="internal" title="Enlarge"></a></div>
+Courtyard of the Carthusian cloister at the time of the foundation of the GNM, 1852</div>
+</div>
+</div>
+<p>The museum constitutes an architectural monument in itself, as it consists of a variety of buildings erected in different periods. It incorporates the remaining structures of the former <a href="/wiki/Nuremberg_Charterhouse" title="Nuremberg Charterhouse">Nuremberg Charterhouse</a> (<a href="/wiki/German_language" title="German language">German</a>: <span lang="de" xml:lang="de"><i>Kartäuserkloster</i></span>), dissolved in 1525 and thereafter used for a variety of secular purposes until in 1857 what was left of these premises, by then badly dilapidated, was given to the Museum. The charterhouse was rebuilt and modified to accommodate the collections until the late nineteenth century when <a href="/wiki/Gothic_Revival_architecture" title="Gothic Revival architecture">Neo-Gothic</a> extensions were added on its south side. During and after the <a href="/wiki/World_War_I" title="World War I">First World War</a>, the „Alter Eingang“ (<i>Old Entrance</i>) and the „Galeriebau“ (<i>Gallery building</i>) designed by <a href="/wiki/German_Bestelmeyer" title="German Bestelmeyer">German Bestelmeyer</a> were built to provide an entrance from Kornmarkt and further space.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<p>After the destructions during the <a href="/wiki/Second_World_War" class="mw-redirect" title="Second World War">Second World War</a>, <a href="/wiki/Sep_Ruf" title="Sep Ruf">Sep Ruf</a> designed additional buildings; historical parts of the halls and galleries were adapted to the new architectural concept or torn down after their destruction during the war; only some buildings were restored and rebuilt. The first major building was added 1955–1958, called „Heussbau“ after the first president of West Germany, <a href="/wiki/Theodor_Heuss" title="Theodor Heuss">Theodor Heuss</a>. In 1983, and from 1988–1993, the museum was substantially enlarged. The „Kartäuserbau“ with the new entrance hall situated now on Kartäusergasse was designed by <a href="/w/index.php?title=Jan_St%C3%B6rmer&amp;action=edit&amp;redlink=1" class="new" title="Jan Störmer (page does not exist)">Jan Störmer</a> of architects ME DI UM.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> In 1999, the 1910 building of the St Lorenz's parish children's home was acquired. It was restored in 2002, and is now the home for the Collection of Children's Toys.</p>
+<h2><span class="mw-headline" id="Collection">Collection</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Germanisches_Nationalmuseum&amp;action=edit&amp;section=3" title="Edit section: Collection">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The collection is displayed in the following sections<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> (denominated here as by the GNM):</p>
+<table>
+<tr>
+<td style="width:60%">• History of the GNM</td>
+<td>• Scientific Instruments</td>
+</tr>
+<tr>
+<td>• Prehistory and Ancient History</td>
+<td>• Medecine and Crafts</td>
+</tr>
+<tr>
+<td>• Middle Ages</td>
+<td>• Decorative Arts before 1800</td>
+</tr>
+<tr>
+<td>• Late Middle Ages</td>
+<td>• Fashion and Clothing since 1700</td>
+</tr>
+<tr>
+<td>• Everyday Culture up to 1700</td>
+<td>• Folk Art</td>
+</tr>
+<tr>
+<td>• Arms and Armour, Hunting, Garden Culture</td>
+<td>• 19th Century</td>
+</tr>
+<tr>
+<td>• Musical Instruments</td>
+<td>• 20th Century</td>
+</tr>
+<tr>
+<td>• Museum of Applied Arts</td>
+<td>• Toys</td>
+</tr>
+<tr>
+<td>• Renaissance, Baroque Enlightenment</td>
+<td></td>
+</tr>
+</table>
+<p>Some random examples of the collection are shown here:</p>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:15px auto;"><a href="/wiki/File:GNM_-_Goldkegel_Etzelsdorf_1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/GNM_-_Goldkegel_Etzelsdorf_1.jpg/67px-GNM_-_Goldkegel_Etzelsdorf_1.jpg" width="67" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/GNM_-_Goldkegel_Etzelsdorf_1.jpg/100px-GNM_-_Goldkegel_Etzelsdorf_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/GNM_-_Goldkegel_Etzelsdorf_1.jpg/134px-GNM_-_Goldkegel_Etzelsdorf_1.jpg 2x" data-file-width="1712" data-file-height="2560" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Golden_Cone_of_Ezelsdorf-Buch" title="Golden Cone of Ezelsdorf-Buch">Golden hat</a> of Ezelsdorf-Buch, c.&#160;1000 BC</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Ostgoten-fibel.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ostgoten-fibel.jpg/59px-Ostgoten-fibel.jpg" width="59" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ostgoten-fibel.jpg/88px-Ostgoten-fibel.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ostgoten-fibel.jpg/118px-Ostgoten-fibel.jpg 2x" data-file-width="1528" data-file-height="2584" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Goths" title="Goths">Ostrogothic</a> <a href="/wiki/Domagnano_Treasure" title="Domagnano Treasure">eagle-shaped fibula</a>, c.&#160;500</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Coperta_del_codex_aureus,_treviri,_985-987,_01.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Coperta_del_codex_aureus%2C_treviri%2C_985-987%2C_01.JPG/72px-Coperta_del_codex_aureus%2C_treviri%2C_985-987%2C_01.JPG" width="72" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Coperta_del_codex_aureus%2C_treviri%2C_985-987%2C_01.JPG/108px-Coperta_del_codex_aureus%2C_treviri%2C_985-987%2C_01.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/Coperta_del_codex_aureus%2C_treviri%2C_985-987%2C_01.JPG/144px-Coperta_del_codex_aureus%2C_treviri%2C_985-987%2C_01.JPG 2x" data-file-width="1776" data-file-height="2464" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Codex_Aureus_of_Echternach" title="Codex Aureus of Echternach">Codex Aureus</a>, 985-987</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Astolabio_di_ahmad_ibn_muhammad_al-naqqash,_ottone_inciso,_saragozza,_1079-1080.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astolabio_di_ahmad_ibn_muhammad_al-naqqash%2C_ottone_inciso%2C_saragozza%2C_1079-1080.JPG/65px-Astolabio_di_ahmad_ibn_muhammad_al-naqqash%2C_ottone_inciso%2C_saragozza%2C_1079-1080.JPG" width="65" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astolabio_di_ahmad_ibn_muhammad_al-naqqash%2C_ottone_inciso%2C_saragozza%2C_1079-1080.JPG/98px-Astolabio_di_ahmad_ibn_muhammad_al-naqqash%2C_ottone_inciso%2C_saragozza%2C_1079-1080.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astolabio_di_ahmad_ibn_muhammad_al-naqqash%2C_ottone_inciso%2C_saragozza%2C_1079-1080.JPG/130px-Astolabio_di_ahmad_ibn_muhammad_al-naqqash%2C_ottone_inciso%2C_saragozza%2C_1079-1080.JPG 2x" data-file-width="1288" data-file-height="1977" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Astrolabe" title="Astrolabe">Astrolabe</a>, c.&#160;1080</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Grabfigur_des_Grafen_Heinrich_der_III._von_Sayn,_um_1247-48_GNM_Nuernberg-3.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Grabfigur_des_Grafen_Heinrich_der_III._von_Sayn%2C_um_1247-48_GNM_Nuernberg-3.jpg/63px-Grabfigur_des_Grafen_Heinrich_der_III._von_Sayn%2C_um_1247-48_GNM_Nuernberg-3.jpg" width="63" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Grabfigur_des_Grafen_Heinrich_der_III._von_Sayn%2C_um_1247-48_GNM_Nuernberg-3.jpg/95px-Grabfigur_des_Grafen_Heinrich_der_III._von_Sayn%2C_um_1247-48_GNM_Nuernberg-3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Grabfigur_des_Grafen_Heinrich_der_III._von_Sayn%2C_um_1247-48_GNM_Nuernberg-3.jpg/127px-Grabfigur_des_Grafen_Heinrich_der_III._von_Sayn%2C_um_1247-48_GNM_Nuernberg-3.jpg 2x" data-file-width="3458" data-file-height="5439" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Tomb Statue, c.&#160;1248</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:15px auto;"><a href="/wiki/File:1300_Maria_in_der_Erwartung_anagoria.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/1300_Maria_in_der_Erwartung_anagoria.JPG/34px-1300_Maria_in_der_Erwartung_anagoria.JPG" width="34" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/1300_Maria_in_der_Erwartung_anagoria.JPG/51px-1300_Maria_in_der_Erwartung_anagoria.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1f/1300_Maria_in_der_Erwartung_anagoria.JPG/68px-1300_Maria_in_der_Erwartung_anagoria.JPG 2x" data-file-width="1470" data-file-height="4272" /></a></div>
+</div>
+<div class="gallerytext">
+<p>The Expectant Mary; 1300</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:17.5px auto;"><a href="/wiki/File:Reliquiario_dei_magi,_norimberga,_1438-40,_02.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Reliquiario_dei_magi%2C_norimberga%2C_1438-40%2C_02.JPG/80px-Reliquiario_dei_magi%2C_norimberga%2C_1438-40%2C_02.JPG" width="80" height="95" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Reliquiario_dei_magi%2C_norimberga%2C_1438-40%2C_02.JPG/120px-Reliquiario_dei_magi%2C_norimberga%2C_1438-40%2C_02.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Reliquiario_dei_magi%2C_norimberga%2C_1438-40%2C_02.JPG/160px-Reliquiario_dei_magi%2C_norimberga%2C_1438-40%2C_02.JPG 2x" data-file-width="1812" data-file-height="2152" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Reliquary Shrine, 1440</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Behaim_Globus.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Behaim_Globus.jpg/51px-Behaim_Globus.jpg" width="51" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Behaim_Globus.jpg/76px-Behaim_Globus.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Behaim_Globus.jpg/101px-Behaim_Globus.jpg 2x" data-file-width="2260" data-file-height="4445" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Erdapfel" title="Erdapfel">Erdapfel</a> by <a href="/wiki/Martin_Behaim" title="Martin Behaim">Martin Behaim</a>, oldest existing globe, 1492-1494</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:15px auto;"><a href="/wiki/File:GNM_-_Kugeluhr.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/GNM_-_Kugeluhr.jpg/67px-GNM_-_Kugeluhr.jpg" width="67" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/GNM_-_Kugeluhr.jpg/100px-GNM_-_Kugeluhr.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/GNM_-_Kugeluhr.jpg/134px-GNM_-_Kugeluhr.jpg 2x" data-file-width="1712" data-file-height="2560" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Spherical clock</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:15px auto;"><a href="/wiki/File:1503_Schl%C3%BCsselfelder_Schiff_anagoria.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/1503_Schl%C3%BCsselfelder_Schiff_anagoria.JPG/66px-1503_Schl%C3%BCsselfelder_Schiff_anagoria.JPG" width="66" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/1503_Schl%C3%BCsselfelder_Schiff_anagoria.JPG/100px-1503_Schl%C3%BCsselfelder_Schiff_anagoria.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/1503_Schl%C3%BCsselfelder_Schiff_anagoria.JPG/133px-1503_Schl%C3%BCsselfelder_Schiff_anagoria.JPG 2x" data-file-width="3168" data-file-height="4752" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Schl%C3%BCsselfelder_Ship" title="Schlüsselfelder Ship">Schlüsselfelder Ship</a>, 1502-1504</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Anbetung_der_Koenige_Tilman_Riemenschneider_Wuerzburg_um1490_Lindenholz_GNM_Nuernberg-2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Anbetung_der_Koenige_Tilman_Riemenschneider_Wuerzburg_um1490_Lindenholz_GNM_Nuernberg-2.jpg/70px-Anbetung_der_Koenige_Tilman_Riemenschneider_Wuerzburg_um1490_Lindenholz_GNM_Nuernberg-2.jpg" width="70" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Anbetung_der_Koenige_Tilman_Riemenschneider_Wuerzburg_um1490_Lindenholz_GNM_Nuernberg-2.jpg/105px-Anbetung_der_Koenige_Tilman_Riemenschneider_Wuerzburg_um1490_Lindenholz_GNM_Nuernberg-2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Anbetung_der_Koenige_Tilman_Riemenschneider_Wuerzburg_um1490_Lindenholz_GNM_Nuernberg-2.jpg/140px-Anbetung_der_Koenige_Tilman_Riemenschneider_Wuerzburg_um1490_Lindenholz_GNM_Nuernberg-2.jpg 2x" data-file-width="3549" data-file-height="5047" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Adoration of the Magi, by <a href="/wiki/Tilman_Riemenschneider" title="Tilman Riemenschneider">Tilman Riemenschneider</a>, c.&#160;1490</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Heilige_Elisabeth_von_Thueringen_Tilman_Riemenschneider_Wuerzburg_um1510_Lindenholz_GNM_Nuernberg-1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Heilige_Elisabeth_von_Thueringen_Tilman_Riemenschneider_Wuerzburg_um1510_Lindenholz_GNM_Nuernberg-1.jpg/49px-Heilige_Elisabeth_von_Thueringen_Tilman_Riemenschneider_Wuerzburg_um1510_Lindenholz_GNM_Nuernberg-1.jpg" width="49" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Heilige_Elisabeth_von_Thueringen_Tilman_Riemenschneider_Wuerzburg_um1510_Lindenholz_GNM_Nuernberg-1.jpg/74px-Heilige_Elisabeth_von_Thueringen_Tilman_Riemenschneider_Wuerzburg_um1510_Lindenholz_GNM_Nuernberg-1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/Heilige_Elisabeth_von_Thueringen_Tilman_Riemenschneider_Wuerzburg_um1510_Lindenholz_GNM_Nuernberg-1.jpg/99px-Heilige_Elisabeth_von_Thueringen_Tilman_Riemenschneider_Wuerzburg_um1510_Lindenholz_GNM_Nuernberg-1.jpg 2x" data-file-width="2520" data-file-height="5096" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Saint <a href="/wiki/Elizabeth_of_Hungary" title="Elizabeth of Hungary">Elizabeth of Hungary</a>), by Tilman Riemenschneider, c.&#160;1510</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Muttergottes_Veit_Stoss_Nuernberg_um_1500_Lindenholz_GNM_Nuernberg-1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Muttergottes_Veit_Stoss_Nuernberg_um_1500_Lindenholz_GNM_Nuernberg-1.jpg/62px-Muttergottes_Veit_Stoss_Nuernberg_um_1500_Lindenholz_GNM_Nuernberg-1.jpg" width="62" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Muttergottes_Veit_Stoss_Nuernberg_um_1500_Lindenholz_GNM_Nuernberg-1.jpg/93px-Muttergottes_Veit_Stoss_Nuernberg_um_1500_Lindenholz_GNM_Nuernberg-1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Muttergottes_Veit_Stoss_Nuernberg_um_1500_Lindenholz_GNM_Nuernberg-1.jpg/124px-Muttergottes_Veit_Stoss_Nuernberg_um_1500_Lindenholz_GNM_Nuernberg-1.jpg 2x" data-file-width="3290" data-file-height="5292" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Mother of God, by <a href="/wiki/Veit_Stoss" title="Veit Stoss">Veit Stoss</a>, c.&#160;1500</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Der_Erzengel_Raphael_und_der_junge_Tobias_Veit_Stoss_Nuernberg_1516_Lindenholz_GNM_Nuernberg-1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Der_Erzengel_Raphael_und_der_junge_Tobias_Veit_Stoss_Nuernberg_1516_Lindenholz_GNM_Nuernberg-1.jpg/80px-Der_Erzengel_Raphael_und_der_junge_Tobias_Veit_Stoss_Nuernberg_1516_Lindenholz_GNM_Nuernberg-1.jpg" width="80" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Der_Erzengel_Raphael_und_der_junge_Tobias_Veit_Stoss_Nuernberg_1516_Lindenholz_GNM_Nuernberg-1.jpg/120px-Der_Erzengel_Raphael_und_der_junge_Tobias_Veit_Stoss_Nuernberg_1516_Lindenholz_GNM_Nuernberg-1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Der_Erzengel_Raphael_und_der_junge_Tobias_Veit_Stoss_Nuernberg_1516_Lindenholz_GNM_Nuernberg-1.jpg/160px-Der_Erzengel_Raphael_und_der_junge_Tobias_Veit_Stoss_Nuernberg_1516_Lindenholz_GNM_Nuernberg-1.jpg 2x" data-file-width="3514" data-file-height="4396" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Archangel Raphael and the young Tobias, by Veit Stoss, 1516</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:16.5px auto;"><a href="/wiki/File:Vesperbild_Philipp_Koch_Freiberg_in_Sachsen_um_1502-03_Lindenholz_GNM_Nuernberg-1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Vesperbild_Philipp_Koch_Freiberg_in_Sachsen_um_1502-03_Lindenholz_GNM_Nuernberg-1.jpg/80px-Vesperbild_Philipp_Koch_Freiberg_in_Sachsen_um_1502-03_Lindenholz_GNM_Nuernberg-1.jpg" width="80" height="97" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Vesperbild_Philipp_Koch_Freiberg_in_Sachsen_um_1502-03_Lindenholz_GNM_Nuernberg-1.jpg/120px-Vesperbild_Philipp_Koch_Freiberg_in_Sachsen_um_1502-03_Lindenholz_GNM_Nuernberg-1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Vesperbild_Philipp_Koch_Freiberg_in_Sachsen_um_1502-03_Lindenholz_GNM_Nuernberg-1.jpg/160px-Vesperbild_Philipp_Koch_Freiberg_in_Sachsen_um_1502-03_Lindenholz_GNM_Nuernberg-1.jpg 2x" data-file-width="3409" data-file-height="4123" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Pietà, by Philipp Koch, c.&#160;1502-03,</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Altarretabel_westliches_Franken_um_1500_Lindenholz_GNM_Nuernberg-9.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Altarretabel_westliches_Franken_um_1500_Lindenholz_GNM_Nuernberg-9.jpg/70px-Altarretabel_westliches_Franken_um_1500_Lindenholz_GNM_Nuernberg-9.jpg" width="70" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Altarretabel_westliches_Franken_um_1500_Lindenholz_GNM_Nuernberg-9.jpg/105px-Altarretabel_westliches_Franken_um_1500_Lindenholz_GNM_Nuernberg-9.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Altarretabel_westliches_Franken_um_1500_Lindenholz_GNM_Nuernberg-9.jpg/140px-Altarretabel_westliches_Franken_um_1500_Lindenholz_GNM_Nuernberg-9.jpg 2x" data-file-width="3647" data-file-height="5194" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Altarpiece, c.&#160;1500, detail</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Altarretabel_westliches_Franken_um_1500_Lindenholz_GNM_Nuernberg-1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Altarretabel_westliches_Franken_um_1500_Lindenholz_GNM_Nuernberg-1.jpg/80px-Altarretabel_westliches_Franken_um_1500_Lindenholz_GNM_Nuernberg-1.jpg" width="80" height="70" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Altarretabel_westliches_Franken_um_1500_Lindenholz_GNM_Nuernberg-1.jpg/120px-Altarretabel_westliches_Franken_um_1500_Lindenholz_GNM_Nuernberg-1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Altarretabel_westliches_Franken_um_1500_Lindenholz_GNM_Nuernberg-1.jpg/160px-Altarretabel_westliches_Franken_um_1500_Lindenholz_GNM_Nuernberg-1.jpg 2x" data-file-width="3775" data-file-height="3325" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Altarpiece, c.&#160;1500,</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Altarretabel_westliches_Franken_um_1500_Lindenholz_GNM_Nuernberg-10.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Altarretabel_westliches_Franken_um_1500_Lindenholz_GNM_Nuernberg-10.jpg/73px-Altarretabel_westliches_Franken_um_1500_Lindenholz_GNM_Nuernberg-10.jpg" width="73" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Altarretabel_westliches_Franken_um_1500_Lindenholz_GNM_Nuernberg-10.jpg/110px-Altarretabel_westliches_Franken_um_1500_Lindenholz_GNM_Nuernberg-10.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Altarretabel_westliches_Franken_um_1500_Lindenholz_GNM_Nuernberg-10.jpg/147px-Altarretabel_westliches_Franken_um_1500_Lindenholz_GNM_Nuernberg-10.jpg 2x" data-file-width="3535" data-file-height="4816" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Altarpiece, c.&#160;1500, detail</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Muttergottes_Hans_Klocker_Brixen_um_1495_Zirbelholz_GNM_Nuernberg-1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Muttergottes_Hans_Klocker_Brixen_um_1495_Zirbelholz_GNM_Nuernberg-1.jpg/60px-Muttergottes_Hans_Klocker_Brixen_um_1495_Zirbelholz_GNM_Nuernberg-1.jpg" width="60" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Muttergottes_Hans_Klocker_Brixen_um_1495_Zirbelholz_GNM_Nuernberg-1.jpg/91px-Muttergottes_Hans_Klocker_Brixen_um_1495_Zirbelholz_GNM_Nuernberg-1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/Muttergottes_Hans_Klocker_Brixen_um_1495_Zirbelholz_GNM_Nuernberg-1.jpg/121px-Muttergottes_Hans_Klocker_Brixen_um_1495_Zirbelholz_GNM_Nuernberg-1.jpg 2x" data-file-width="3094" data-file-height="5103" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Mother of God, by <a href="/wiki/Hans_Klocker" title="Hans Klocker">Hans Klocker</a>, c.&#160;1495,</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Vesperbild_Ostthueringen_um_1490_Lindenholz_GNM_Nuernberg-1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Vesperbild_Ostthueringen_um_1490_Lindenholz_GNM_Nuernberg-1.jpg/72px-Vesperbild_Ostthueringen_um_1490_Lindenholz_GNM_Nuernberg-1.jpg" width="72" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Vesperbild_Ostthueringen_um_1490_Lindenholz_GNM_Nuernberg-1.jpg/109px-Vesperbild_Ostthueringen_um_1490_Lindenholz_GNM_Nuernberg-1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Vesperbild_Ostthueringen_um_1490_Lindenholz_GNM_Nuernberg-1.jpg/145px-Vesperbild_Ostthueringen_um_1490_Lindenholz_GNM_Nuernberg-1.jpg 2x" data-file-width="3395" data-file-height="4683" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Pietà, c.&#160;1490</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Muttergottes_Michael_Parth_Bruneck_um_1520_Holz_GNM_Nuernberg-1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Muttergottes_Michael_Parth_Bruneck_um_1520_Holz_GNM_Nuernberg-1.jpg/54px-Muttergottes_Michael_Parth_Bruneck_um_1520_Holz_GNM_Nuernberg-1.jpg" width="54" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Muttergottes_Michael_Parth_Bruneck_um_1520_Holz_GNM_Nuernberg-1.jpg/81px-Muttergottes_Michael_Parth_Bruneck_um_1520_Holz_GNM_Nuernberg-1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Muttergottes_Michael_Parth_Bruneck_um_1520_Holz_GNM_Nuernberg-1.jpg/108px-Muttergottes_Michael_Parth_Bruneck_um_1520_Holz_GNM_Nuernberg-1.jpg 2x" data-file-width="2709" data-file-height="5026" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Mother of God, by Michael Parth, c.&#160;1520,</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Albrecht_D%C3%BCrer_-_Emperor_Charlemagne.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Albrecht_D%C3%BCrer_-_Emperor_Charlemagne.jpg/52px-Albrecht_D%C3%BCrer_-_Emperor_Charlemagne.jpg" width="52" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Albrecht_D%C3%BCrer_-_Emperor_Charlemagne.jpg/78px-Albrecht_D%C3%BCrer_-_Emperor_Charlemagne.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Albrecht_D%C3%BCrer_-_Emperor_Charlemagne.jpg/105px-Albrecht_D%C3%BCrer_-_Emperor_Charlemagne.jpg 2x" data-file-width="1256" data-file-height="2396" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Emperor Charlemagne, by <a href="/wiki/Albrecht_D%C3%BCrer" title="Albrecht Dürer">Albrecht Dürer</a>, 1511-1513</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Albrecht_D%C3%BCrer_082.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Albrecht_D%C3%BCrer_082.jpg/54px-Albrecht_D%C3%BCrer_082.jpg" width="54" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Albrecht_D%C3%BCrer_082.jpg/81px-Albrecht_D%C3%BCrer_082.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Albrecht_D%C3%BCrer_082.jpg/108px-Albrecht_D%C3%BCrer_082.jpg 2x" data-file-width="792" data-file-height="1468" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Emperor Sigismund, by Albrecht Dürer, 1509-1516</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Albrecht_D%C3%BCrer_072.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Albrecht_D%C3%BCrer_072.jpg/76px-Albrecht_D%C3%BCrer_072.jpg" width="76" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Albrecht_D%C3%BCrer_072.jpg/114px-Albrecht_D%C3%BCrer_072.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Albrecht_D%C3%BCrer_072.jpg/152px-Albrecht_D%C3%BCrer_072.jpg 2x" data-file-width="3465" data-file-height="4567" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Portrait_Diptych_of_D%C3%BCrer%27s_Parents" title="Portrait Diptych of Dürer's Parents">Portrait of Barbara Dürer</a>, Albrecht's mother, c.&#160;1490</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:23.5px auto;"><a href="/wiki/File:Albrecht_D%C3%BCrer_085.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Albrecht_D%C3%BCrer_085.jpg/80px-Albrecht_D%C3%BCrer_085.jpg" width="80" height="83" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Albrecht_D%C3%BCrer_085.jpg/120px-Albrecht_D%C3%BCrer_085.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Albrecht_D%C3%BCrer_085.jpg/160px-Albrecht_D%C3%BCrer_085.jpg 2x" data-file-width="1047" data-file-height="1084" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Michael Wolgemut, by Albrecht Dürer, 1516</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Hans_Baldung_019.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hans_Baldung_019.jpg/68px-Hans_Baldung_019.jpg" width="68" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hans_Baldung_019.jpg/103px-Hans_Baldung_019.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hans_Baldung_019.jpg/137px-Hans_Baldung_019.jpg 2x" data-file-width="1256" data-file-height="1835" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Madonna and Child with parrots, by <a href="/wiki/Hans_Baldung" title="Hans Baldung">Hans Baldung Grien</a>, 1533</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:15px auto;"><a href="/wiki/File:GNM_Nuremberg_Madonna_1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/GNM_Nuremberg_Madonna_1.jpg/66px-GNM_Nuremberg_Madonna_1.jpg" width="66" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/GNM_Nuremberg_Madonna_1.jpg/99px-GNM_Nuremberg_Madonna_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6d/GNM_Nuremberg_Madonna_1.jpg/132px-GNM_Nuremberg_Madonna_1.jpg 2x" data-file-width="3264" data-file-height="4928" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Nuremberg Madonna, c.&#160;1550</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:36px auto;"><a href="/wiki/File:Anbetung_der_Heiligen_Drei_Koenige_Nuernberg_um_1520_Lindenholz_GNM_Nuernberg-1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Anbetung_der_Heiligen_Drei_Koenige_Nuernberg_um_1520_Lindenholz_GNM_Nuernberg-1.jpg/80px-Anbetung_der_Heiligen_Drei_Koenige_Nuernberg_um_1520_Lindenholz_GNM_Nuernberg-1.jpg" width="80" height="58" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Anbetung_der_Heiligen_Drei_Koenige_Nuernberg_um_1520_Lindenholz_GNM_Nuernberg-1.jpg/120px-Anbetung_der_Heiligen_Drei_Koenige_Nuernberg_um_1520_Lindenholz_GNM_Nuernberg-1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Anbetung_der_Heiligen_Drei_Koenige_Nuernberg_um_1520_Lindenholz_GNM_Nuernberg-1.jpg/160px-Anbetung_der_Heiligen_Drei_Koenige_Nuernberg_um_1520_Lindenholz_GNM_Nuernberg-1.jpg 2x" data-file-width="4850" data-file-height="3495" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Adoration of the Magi, c.&#160;1520</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Baldung-Judith.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Baldung-Judith.jpg/35px-Baldung-Judith.jpg" width="35" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Baldung-Judith.jpg/52px-Baldung-Judith.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Baldung-Judith.jpg/70px-Baldung-Judith.jpg 2x" data-file-width="1252" data-file-height="3578" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Judith with the Head of Holophernes, by Hans Baldung Grien, c. 1525</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Hans_Baldung,_Self-Portrait_2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hans_Baldung%2C_Self-Portrait_2.jpg/77px-Hans_Baldung%2C_Self-Portrait_2.jpg" width="77" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hans_Baldung%2C_Self-Portrait_2.jpg/116px-Hans_Baldung%2C_Self-Portrait_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hans_Baldung%2C_Self-Portrait_2.jpg/155px-Hans_Baldung%2C_Self-Portrait_2.jpg 2x" data-file-width="1021" data-file-height="1317" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Portrait of a 29-Year-Old Man (Self-portrait&#160;?) by Hans Baldung Grien, 1526</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Lucas_Cranach_d.%C3%84._-_Das_ungleiche_Paar_(Germanisches_Nationalmuseum).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Lucas_Cranach_d.%C3%84._-_Das_ungleiche_Paar_%28Germanisches_Nationalmuseum%29.jpg/67px-Lucas_Cranach_d.%C3%84._-_Das_ungleiche_Paar_%28Germanisches_Nationalmuseum%29.jpg" width="67" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Lucas_Cranach_d.%C3%84._-_Das_ungleiche_Paar_%28Germanisches_Nationalmuseum%29.jpg/100px-Lucas_Cranach_d.%C3%84._-_Das_ungleiche_Paar_%28Germanisches_Nationalmuseum%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Lucas_Cranach_d.%C3%84._-_Das_ungleiche_Paar_%28Germanisches_Nationalmuseum%29.jpg/134px-Lucas_Cranach_d.%C3%84._-_Das_ungleiche_Paar_%28Germanisches_Nationalmuseum%29.jpg 2x" data-file-width="1337" data-file-height="2000" /></a></div>
+</div>
+<div class="gallerytext">
+<p>An ill-matched pair, by <a href="/wiki/Lucas_Cranach_the_Elder" title="Lucas Cranach the Elder">Lucas Cranach the Elder</a>, c. 1530</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Lucas_Cranach_d.%C3%84._-_Portr%C3%A4t_des_Martin_Luther_(Germanisches_Nationalmuseum).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lucas_Cranach_d.%C3%84._-_Portr%C3%A4t_des_Martin_Luther_%28Germanisches_Nationalmuseum%29.jpg/72px-Lucas_Cranach_d.%C3%84._-_Portr%C3%A4t_des_Martin_Luther_%28Germanisches_Nationalmuseum%29.jpg" width="72" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lucas_Cranach_d.%C3%84._-_Portr%C3%A4t_des_Martin_Luther_%28Germanisches_Nationalmuseum%29.jpg/108px-Lucas_Cranach_d.%C3%84._-_Portr%C3%A4t_des_Martin_Luther_%28Germanisches_Nationalmuseum%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lucas_Cranach_d.%C3%84._-_Portr%C3%A4t_des_Martin_Luther_%28Germanisches_Nationalmuseum%29.jpg/144px-Lucas_Cranach_d.%C3%84._-_Portr%C3%A4t_des_Martin_Luther_%28Germanisches_Nationalmuseum%29.jpg 2x" data-file-width="1072" data-file-height="1487" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Martin_Luther" title="Martin Luther">Martin Luther</a>, by Lucas Cranach the Elder, 1533</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Lucas_Cranach_d.%C3%84._-_Venus_mit_Amor_als_Honigdieb_(Germanisches_Nationalmuseum_-_Gm213).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Lucas_Cranach_d.%C3%84._-_Venus_mit_Amor_als_Honigdieb_%28Germanisches_Nationalmuseum_-_Gm213%29.jpg/69px-Lucas_Cranach_d.%C3%84._-_Venus_mit_Amor_als_Honigdieb_%28Germanisches_Nationalmuseum_-_Gm213%29.jpg" width="69" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Lucas_Cranach_d.%C3%84._-_Venus_mit_Amor_als_Honigdieb_%28Germanisches_Nationalmuseum_-_Gm213%29.jpg/103px-Lucas_Cranach_d.%C3%84._-_Venus_mit_Amor_als_Honigdieb_%28Germanisches_Nationalmuseum_-_Gm213%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Lucas_Cranach_d.%C3%84._-_Venus_mit_Amor_als_Honigdieb_%28Germanisches_Nationalmuseum_-_Gm213%29.jpg/137px-Lucas_Cranach_d.%C3%84._-_Venus_mit_Amor_als_Honigdieb_%28Germanisches_Nationalmuseum_-_Gm213%29.jpg 2x" data-file-width="4031" data-file-height="5859" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Venus and Cupid, the Honey Thief, by Lucas Cranach the Elder, c. 1537</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:34.5px auto;"><a href="/wiki/File:Albrecht_d%C3%BCrer,_rinoceronte,_norimberga_1515.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Albrecht_d%C3%BCrer%2C_rinoceronte%2C_norimberga_1515.JPG/80px-Albrecht_d%C3%BCrer%2C_rinoceronte%2C_norimberga_1515.JPG" width="80" height="61" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Albrecht_d%C3%BCrer%2C_rinoceronte%2C_norimberga_1515.JPG/120px-Albrecht_d%C3%BCrer%2C_rinoceronte%2C_norimberga_1515.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Albrecht_d%C3%BCrer%2C_rinoceronte%2C_norimberga_1515.JPG/160px-Albrecht_d%C3%BCrer%2C_rinoceronte%2C_norimberga_1515.JPG 2x" data-file-width="2182" data-file-height="1677" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Dürer's Rhinoceros, 1515</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Hans_Baldung_-_St_Christopher_-_WGA01222.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Hans_Baldung_-_St_Christopher_-_WGA01222.jpg/68px-Hans_Baldung_-_St_Christopher_-_WGA01222.jpg" width="68" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Hans_Baldung_-_St_Christopher_-_WGA01222.jpg/102px-Hans_Baldung_-_St_Christopher_-_WGA01222.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/Hans_Baldung_-_St_Christopher_-_WGA01222.jpg/137px-Hans_Baldung_-_St_Christopher_-_WGA01222.jpg 2x" data-file-width="754" data-file-height="1102" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Saint Christopher, by Hans Baldung Grien, c. 1520</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:15px auto;"><a href="/wiki/File:GNM_-_Luther_Junker_J%C3%B6rg.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/GNM_-_Luther_Junker_J%C3%B6rg.jpg/67px-GNM_-_Luther_Junker_J%C3%B6rg.jpg" width="67" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/GNM_-_Luther_Junker_J%C3%B6rg.jpg/100px-GNM_-_Luther_Junker_J%C3%B6rg.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/GNM_-_Luther_Junker_J%C3%B6rg.jpg/134px-GNM_-_Luther_Junker_J%C3%B6rg.jpg 2x" data-file-width="1712" data-file-height="2560" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Martin Luther as Junker Jörg, woodcut by Lucas Cranach the Elder, 1522</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:15px auto;"><a href="/wiki/File:N%C3%BCrnberg_%E2%80%94_GNM_2013-09-07_Mattes_(75).JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/N%C3%BCrnberg_%E2%80%94_GNM_2013-09-07_Mattes_%2875%29.JPG/75px-N%C3%BCrnberg_%E2%80%94_GNM_2013-09-07_Mattes_%2875%29.JPG" width="75" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/N%C3%BCrnberg_%E2%80%94_GNM_2013-09-07_Mattes_%2875%29.JPG/112px-N%C3%BCrnberg_%E2%80%94_GNM_2013-09-07_Mattes_%2875%29.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/N%C3%BCrnberg_%E2%80%94_GNM_2013-09-07_Mattes_%2875%29.JPG/150px-N%C3%BCrnberg_%E2%80%94_GNM_2013-09-07_Mattes_%2875%29.JPG 2x" data-file-width="3672" data-file-height="4896" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/James,_son_of_Zebedee" title="James, son of Zebedee">Saint James the Greater</a>, by <a href="/wiki/Hans_Z%C3%BCrn_the_Elder" title="Hans Zürn the Elder">Hans Zürn the Elder</a>, c.&#160;1613</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:22.5px auto;"><a href="/wiki/File:1630_Rembrandt_Selbstportrait_mit_aufgerissenen_Augen_anagoria.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/1630_Rembrandt_Selbstportrait_mit_aufgerissenen_Augen_anagoria.JPG/80px-1630_Rembrandt_Selbstportrait_mit_aufgerissenen_Augen_anagoria.JPG" width="80" height="85" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/1630_Rembrandt_Selbstportrait_mit_aufgerissenen_Augen_anagoria.JPG/120px-1630_Rembrandt_Selbstportrait_mit_aufgerissenen_Augen_anagoria.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/1630_Rembrandt_Selbstportrait_mit_aufgerissenen_Augen_anagoria.JPG/160px-1630_Rembrandt_Selbstportrait_mit_aufgerissenen_Augen_anagoria.JPG 2x" data-file-width="2480" data-file-height="2648" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Wide-Eyed Self-Portrait by <a href="/wiki/Rembrandt" title="Rembrandt">Rembrandt</a>, 1630</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:16px auto;"><a href="/wiki/File:Rembrandt_van_Rijn_184.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Rembrandt_van_Rijn_184.jpg/80px-Rembrandt_van_Rijn_184.jpg" width="80" height="98" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Rembrandt_van_Rijn_184.jpg/120px-Rembrandt_van_Rijn_184.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Rembrandt_van_Rijn_184.jpg/160px-Rembrandt_van_Rijn_184.jpg 2x" data-file-width="1049" data-file-height="1289" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Self Portrait by Rembrandt, c. 1629</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:25px auto;"><a href="/wiki/File:1663_Schuessel_aus_Zittau_anagoria.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/1663_Schuessel_aus_Zittau_anagoria.JPG/80px-1663_Schuessel_aus_Zittau_anagoria.JPG" width="80" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/1663_Schuessel_aus_Zittau_anagoria.JPG/120px-1663_Schuessel_aus_Zittau_anagoria.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/1663_Schuessel_aus_Zittau_anagoria.JPG/160px-1663_Schuessel_aus_Zittau_anagoria.JPG 2x" data-file-width="3168" data-file-height="3168" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Bowl from Zittau, faience, 1663</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:25px auto;"><a href="/wiki/File:1725_Schuessel_anagoria.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/1725_Schuessel_anagoria.JPG/80px-1725_Schuessel_anagoria.JPG" width="80" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/1725_Schuessel_anagoria.JPG/120px-1725_Schuessel_anagoria.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/1725_Schuessel_anagoria.JPG/160px-1725_Schuessel_anagoria.JPG 2x" data-file-width="3200" data-file-height="3200" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Bowl, Vienna, 1725</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:25px auto;"><a href="/wiki/File:1741_Schuessel_mit_cinesischen_Blumen_anagoria.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/1741_Schuessel_mit_cinesischen_Blumen_anagoria.JPG/80px-1741_Schuessel_mit_cinesischen_Blumen_anagoria.JPG" width="80" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/1741_Schuessel_mit_cinesischen_Blumen_anagoria.JPG/120px-1741_Schuessel_mit_cinesischen_Blumen_anagoria.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/1741_Schuessel_mit_cinesischen_Blumen_anagoria.JPG/160px-1741_Schuessel_mit_cinesischen_Blumen_anagoria.JPG 2x" data-file-width="3200" data-file-height="3200" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Bowl with Chinese Flowers; faience; Fulda, 1741</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:20.5px auto;"><a href="/wiki/File:1910_Macke_Tegernsee_Landschaft_anagoria.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/1910_Macke_Tegernsee_Landschaft_anagoria.JPG/80px-1910_Macke_Tegernsee_Landschaft_anagoria.JPG" width="80" height="89" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/1910_Macke_Tegernsee_Landschaft_anagoria.JPG/120px-1910_Macke_Tegernsee_Landschaft_anagoria.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/1910_Macke_Tegernsee_Landschaft_anagoria.JPG/160px-1910_Macke_Tegernsee_Landschaft_anagoria.JPG 2x" data-file-width="3168" data-file-height="3507" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Tegernsee Landscape, by <a href="/wiki/August_Macke" title="August Macke">August Macke</a>, 1910</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 115px">
+<div style="width: 115px">
+<div class="thumb" style="width: 110px;">
+<div style="margin:25px auto;"><a href="/wiki/File:1926_Kirchner_Interieur_mit_zwei_Maedchen_anagoria.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/1926_Kirchner_Interieur_mit_zwei_Maedchen_anagoria.JPG/80px-1926_Kirchner_Interieur_mit_zwei_Maedchen_anagoria.JPG" width="80" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/1926_Kirchner_Interieur_mit_zwei_Maedchen_anagoria.JPG/120px-1926_Kirchner_Interieur_mit_zwei_Maedchen_anagoria.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/1926_Kirchner_Interieur_mit_zwei_Maedchen_anagoria.JPG/160px-1926_Kirchner_Interieur_mit_zwei_Maedchen_anagoria.JPG 2x" data-file-width="3168" data-file-height="3168" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Interieur with two girls, by <a href="/wiki/Ernst_Ludwig_Kirchner" title="Ernst Ludwig Kirchner">Ernst Ludwig Kirchner</a>, 1926</p>
+</div>
+</div>
+</li>
+</ul>
+<p>In the section <i>History of the GNM</i>, the painting <a href="/wiki/Germania_(St._Paul%27s_Church,_Frankfurt_am_Main)" title="Germania (St. Paul's Church, Frankfurt am Main)">Germania</a> is displayed which was exhibited in <a href="/wiki/St._Paul%27s_Church,_Frankfurt_am_Main" title="St. Paul's Church, Frankfurt am Main">St. Paul's Church, Frankfurt am Main</a> in 1848.</p>
+<h2><span class="mw-headline" id="Structure_and_organization">Structure and organization</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Germanisches_Nationalmuseum&amp;action=edit&amp;section=4" title="Edit section: Structure and organization">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:GNM_Kreuzgang_2011.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/GNM_Kreuzgang_2011.jpg/220px-GNM_Kreuzgang_2011.jpg" width="220" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/GNM_Kreuzgang_2011.jpg/330px-GNM_Kreuzgang_2011.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/GNM_Kreuzgang_2011.jpg/440px-GNM_Kreuzgang_2011.jpg 2x" data-file-width="4928" data-file-height="3264" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:GNM_Kreuzgang_2011.jpg" class="internal" title="Enlarge"></a></div>
+Grand Cloister of the former Carthusian monastery, today part of the museum buildings</div>
+</div>
+</div>
+<p>The Germanisches Nationalmuseum is a public law foundation supported by the Federal Republic of Germany, the state of Bavaria and the city of Nuremberg.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Its Administrative Board is chaired by Prof. Dr. h.c. Klaus-Dieter Lehmann, the head of the General Directorate is Prof. Dr. G. Ulrich Großmann (as per 2016).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<p>Associated to the museum are <a href="/wiki/Archive" title="Archive">Archives</a>, like the <a href="https://de.wikipedia.org/wiki/Deutsches_Kunstarchiv" class="extiw" title="de:Deutsches Kunstarchiv">German Archive of Art</a>, libraries, a special department for restoration and conservation (<i>Institut für Kunsttechnik und Konservierung</i>) and an educational center. The museum also administrates the Collection of Children's Toys at St. Lorenz's parish, the Museum of the Emperor's Castle at <a href="/wiki/Nuremberg_Castle" title="Nuremberg Castle">Nuremberg Castle</a>, as well as the <a href="https://de.wikipedia.org/wiki/Schloss_Neunhof" class="extiw" title="de:Schloss Neunhof">Neunhof Palace</a>, a <a href="/wiki/Schloss" title="Schloss">Manor house</a> located north of Nuremberg with its collection of hunting weapons and tools. The museum is organized as a public foundation since 1921. Since 2 July 1954, companies and individual persons (the <i>"Fördererkreis"</i>) are invited to support the museum's activities.</p>
+<p>As a research institute, the GNM conducts scientific and historical research on the material provided in the collections and archives. The research results are made public in scientific journals and exhibitions. Different long-time research projects are ongoing at the museum, including the "Schrifttum zur Deutschen Kunst" (German Art Literature project), and the <a href="/wiki/Hesse" title="Hesse">Hessian</a> <a href="/wiki/Renaissance" title="Renaissance">Renaissance</a> <a href="/wiki/Schloss" title="Schloss">Stately Homes</a> Online Catalogue.</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Germanisches_Nationalmuseum&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-FAQ-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-FAQ_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FAQ_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.gnm.de/en/services/frequently-asked-questions/">"GNM FAQ (English)"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">22 December</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGermanisches+Nationalmuseum&amp;rft.btitle=GNM+FAQ+%28English%29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.gnm.de%2Fen%2Fservices%2Ffrequently-asked-questions%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.gnm.de/en/museum/about-us/">"GNM -"about us<span style="padding-right:0.2em;">"</span>"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">14 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGermanisches+Nationalmuseum&amp;rft.btitle=GNM+-%22about+us%22&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.gnm.de%2Fen%2Fmuseum%2Fabout-us%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Jörn Bahns, <i>Die Museumsbauten von der Übernahme der Kartause im Jahre 1857 bis gegen 1910 – History of the museum buildings from the takeover of the Charterhouse to around 1910</i> In: Deneke/Kahsnitz (Ed.) 1978, p. 357</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.gnm.de/museum/geschichte-und-architektur/">"GNM - Geschichte und Architektur"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">22 December</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGermanisches+Nationalmuseum&amp;rft.btitle=GNM+-+Geschichte+und+Architektur&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.gnm.de%2Fmuseum%2Fgeschichte-und-architektur%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.gnm.de/en/exhibitions/museum-map/">GNM's museum map</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.gnm.de/en/museum/about-us/"><i>About us</i></a> on the GNM-website</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.gnm.de/en/museum/employees-and-committees/administrative-board/"><i>GNM Administrative Board</i></a></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Germanisches_Nationalmuseum&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Bundesarchiv_B_145_Bild-F001941-0003,_N%C3%BCrnberg,_Germanisches_Nationalmuseum.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bundesarchiv_B_145_Bild-F001941-0003%2C_N%C3%BCrnberg%2C_Germanisches_Nationalmuseum.jpg/220px-Bundesarchiv_B_145_Bild-F001941-0003%2C_N%C3%BCrnberg%2C_Germanisches_Nationalmuseum.jpg" width="220" height="243" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bundesarchiv_B_145_Bild-F001941-0003%2C_N%C3%BCrnberg%2C_Germanisches_Nationalmuseum.jpg/330px-Bundesarchiv_B_145_Bild-F001941-0003%2C_N%C3%BCrnberg%2C_Germanisches_Nationalmuseum.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bundesarchiv_B_145_Bild-F001941-0003%2C_N%C3%BCrnberg%2C_Germanisches_Nationalmuseum.jpg/440px-Bundesarchiv_B_145_Bild-F001941-0003%2C_N%C3%BCrnberg%2C_Germanisches_Nationalmuseum.jpg 2x" data-file-width="725" data-file-height="800" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Bundesarchiv_B_145_Bild-F001941-0003,_N%C3%BCrnberg,_Germanisches_Nationalmuseum.jpg" class="internal" title="Enlarge"></a></div>
+1954 image of an exhibit in the Nationalmuseum</div>
+</div>
+</div>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.gnm.de/en/">Museum website (English)</a> and <a rel="nofollow" class="external text" href="http://www.gnm.de">(German)</a></li>
+</ul>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Germanisches_Nationalmuseum" class="extiw" title="commons:Germanisches Nationalmuseum">Germanisches Nationalmuseum</a></b></i>.</td>
+</tr>
+</table>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Germanisches_Nationalmuseum&amp;params=49_26_54_N_11_04_32_E_region:DE-BY_type:landmark"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°26′54″N</span> <span class="longitude">11°04′32″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.44833°N 11.07556°E</span><span style="display:none">﻿ / <span class="geo">49.44833; 11.07556</span></span></span></a></span></span></span></p>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/141301188">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/141301188">141301188</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n81047063">n81047063</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/000000012161603X">0000 0001 2161 603X</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/36441-1">36441-1</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/LIBRIS" title="LIBRIS">SELIBR</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://libris.kb.se/auth/116690">116690</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/026451190">026451190</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb16201745g">cb16201745g</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb16201745g">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Union_List_of_Artist_Names" title="Union List of Artist Names">ULAN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.getty.edu/vow/ULANFullDisplay?find=&amp;role=&amp;nation=&amp;subjectid=500303791">500303791</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Library_of_Australia" title="National Library of Australia">NLA</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://nla.gov.au/anbd.aut-an36224635">36224635</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1202
+Cached time: 20170922053832
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.372 seconds
+Real time usage: 0.585 seconds
+Preprocessor visited node count: 964/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 16062/2097152 bytes
+Template argument size: 950/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 2/500
+Lua time usage: 0.109/10.000 seconds
+Lua memory usage: 2.56 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  511.991      1 -total
+ 13.95%   71.405      1 Template:Reflist
+ 13.74%   70.325      1 Template:Infobox_Museum
+ 10.51%   53.831      1 Template:Infobox
+ 10.29%   52.679      3 Template:Cite_web
+  8.38%   42.920      2 Template:Lang-de
+  8.05%   41.227      2 Template:Language_with_name
+  7.53%   38.547      2 Template:Lang
+  7.31%   37.439      1 Template:Coord
+  6.82%   34.907      2 Template:Category_handler
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2204026-0!canonical and timestamp 20170922053831 and revision id 771599578
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Germanisches_Nationalmuseum&amp;oldid=771599578">https://en.wikipedia.org/w/index.php?title=Germanisches_Nationalmuseum&amp;oldid=771599578</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Museums_established_in_1852" title="Category:Museums established in 1852">Museums established in 1852</a></li><li><a href="/wiki/Category:National_museums_of_Germany" title="Category:National museums of Germany">National museums of Germany</a></li><li><a href="/wiki/Category:Art_museums_and_galleries_in_Germany" title="Category:Art museums and galleries in Germany">Art museums and galleries in Germany</a></li><li><a href="/wiki/Category:Museums_in_Nuremberg" title="Category:Museums in Nuremberg">Museums in Nuremberg</a></li><li><a href="/wiki/Category:1852_establishments_in_Bavaria" title="Category:1852 establishments in Bavaria">1852 establishments in Bavaria</a></li><li><a href="/wiki/Category:1852_establishments_in_Germany" title="Category:1852 establishments in Germany">1852 establishments in Germany</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_German-language_text" title="Category:Articles containing German-language text">Articles containing German-language text</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SELIBR_identifiers" title="Category:Wikipedia articles with SELIBR identifiers">Wikipedia articles with SELIBR identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ULAN_identifiers" title="Category:Wikipedia articles with ULAN identifiers">Wikipedia articles with ULAN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NLA_identifiers" title="Category:Wikipedia articles with NLA identifiers">Wikipedia articles with NLA identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Germanisches+Nationalmuseum" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Germanisches+Nationalmuseum" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Germanisches_Nationalmuseum" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Germanisches_Nationalmuseum" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Germanisches_Nationalmuseum">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Germanisches_Nationalmuseum&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Germanisches_Nationalmuseum&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Germanisches_Nationalmuseum" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Germanisches_Nationalmuseum" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Germanisches_Nationalmuseum&amp;oldid=771599578" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Germanisches_Nationalmuseum&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q478695" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Germanisches_Nationalmuseum&amp;id=771599578" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Germanisches+Nationalmuseum">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Germanisches+Nationalmuseum&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DGermanisches%2BNationalmuseum%26returnto%3DGermanisches%2BNationalmuseum%26oldid%3D771599578%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Germanisches_Nationalmuseum&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Germanisches_Nationalmuseum" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de badge-Q17437798 badge-goodarticle" title="good article"><a href="https://de.wikipedia.org/wiki/Germanisches_Nationalmuseum" title="Germanisches Nationalmuseum – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Museo_Nacional_Germano" title="Museo Nacional Germano – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Germanisches_Nationalmuseum" title="Germanisches Nationalmuseum – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Germanisches_Nationalmuseum" title="Germanisches Nationalmuseum – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Germanisches_Nationalmuseum" title="Germanisches Nationalmuseum – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Germanisches_Nationalmuseum" title="Germanisches Nationalmuseum – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%B3%E5%9B%BD%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8" title="ゲルマン国立博物館 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Germanisches_Nationalmuseum" title="Germanisches Nationalmuseum – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Germanisches_Nationalmuseum" title="Germanisches Nationalmuseum – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Germanisches_Nationalmuseum" title="Germanisches Nationalmuseum – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Muzeul_Na%C8%9Bional_German" title="Muzeul Național German – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9" title="Германский национальный музей – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Germanski_narodni_muzej,_N%C3%BCrnberg" title="Germanski narodni muzej, Nürnberg – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Germanisches_Nationalmuseum" title="Germanisches Nationalmuseum – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9D%D1%96%D0%BC%D0%B5%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BD%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9" title="Німецький національний музей – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%97%A5%E8%80%B3%E6%9B%BC%E5%9C%8B%E5%AE%B6%E5%8D%9A%E7%89%A9%E9%A4%A8" title="日耳曼國家博物館 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q478695#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 22 March 2017, at 13:38.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Germanisches_Nationalmuseum&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.372","walltime":"0.585","ppvisitednodes":{"value":964,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":16062,"limit":2097152},"templateargumentsize":{"value":950,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  511.991      1 -total"," 13.95%   71.405      1 Template:Reflist"," 13.74%   70.325      1 Template:Infobox_Museum"," 10.51%   53.831      1 Template:Infobox"," 10.29%   52.679      3 Template:Cite_web","  8.38%   42.920      2 Template:Lang-de","  8.05%   41.227      2 Template:Language_with_name","  7.53%   38.547      2 Template:Lang","  7.31%   37.439      1 Template:Coord","  6.82%   34.907      2 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.109","limit":"10.000"},"limitreport-memusage":{"value":2685373,"limit":52428800}},"cachereport":{"origin":"mw1202","timestamp":"20170922053832","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":72,"wgHostname":"mw1271"});});</script>
+	</body>
+</html>

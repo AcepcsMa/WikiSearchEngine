@@ -1,0 +1,811 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Tinsel - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Tinsel","wgTitle":"Tinsel","wgCurRevisionId":774495600,"wgRevisionId":774495600,"wgArticleId":1328907,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from December 2011","Articles with unsourced statements from February 2017","Christmas decorations","Christmas in Germany","Christmas trees"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Tinsel","wgRelevantArticleId":1328907,"wgRequestId":"WckkjgpAAEIAAJuE7TIAAACM","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1707568","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Tinsel.jpg/1200px-Tinsel.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Tinsel"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Tinsel&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Tinsel&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Tinsel"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Tinsel rootpage-Tinsel skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Tinsel</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Tinsel_(disambiguation)" class="mw-disambig" title="Tinsel (disambiguation)">Tinsel (disambiguation)</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Tinsel.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Tinsel.jpg/220px-Tinsel.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Tinsel.jpg/330px-Tinsel.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Tinsel.jpg/440px-Tinsel.jpg 2x" data-file-width="2048" data-file-height="1536" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Tinsel.jpg" class="internal" title="Enlarge"></a></div>
+Ornamental strips made of lilac, blue and purple colored tinsel</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Lametta_-_Christmas_decorations.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Lametta_-_Christmas_decorations.jpg/220px-Lametta_-_Christmas_decorations.jpg" width="220" height="350" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Lametta_-_Christmas_decorations.jpg/330px-Lametta_-_Christmas_decorations.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/Lametta_-_Christmas_decorations.jpg/440px-Lametta_-_Christmas_decorations.jpg 2x" data-file-width="1024" data-file-height="1628" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Lametta_-_Christmas_decorations.jpg" class="internal" title="Enlarge"></a></div>
+Original lametta (silver foil with tin and lead)</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Weihnachtsbaum_und_Geschenke_1970er.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Weihnachtsbaum_und_Geschenke_1970er.jpg/220px-Weihnachtsbaum_und_Geschenke_1970er.jpg" width="220" height="306" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Weihnachtsbaum_und_Geschenke_1970er.jpg/330px-Weihnachtsbaum_und_Geschenke_1970er.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Weihnachtsbaum_und_Geschenke_1970er.jpg/440px-Weihnachtsbaum_und_Geschenke_1970er.jpg 2x" data-file-width="521" data-file-height="725" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Weihnachtsbaum_und_Geschenke_1970er.jpg" class="internal" title="Enlarge"></a></div>
+A Christmas tree decorated with dangling strands of lametta.</div>
+</div>
+</div>
+<p><b>Tinsel</b>, is a type of decorative material that mimics the effect of ice, consisting of thin strips of sparkling material attached to a thread. When in long narrow strips not attached to thread, it is called "<b>lametta</b>", and emulates icicles. It was originally a metallic <a href="/wiki/Garland_(decoration)" class="mw-redirect" title="Garland (decoration)">garland</a> for <a href="/wiki/Christmas_decoration" title="Christmas decoration">Christmas decoration</a>. The modern production of tinsel typically involves plastic, and is used particularly to decorate <a href="/wiki/Christmas_tree" title="Christmas tree">Christmas trees</a>. It may be hung from ceilings or wrapped around statues, lampposts, and so on. Modern tinsel was invented in <a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a>, <a href="/wiki/Germany" title="Germany">Germany</a>, in 1610, and was originally made of shredded <a href="/wiki/Silver" title="Silver">silver</a>.</p>
+<p>According to the <i><a href="/wiki/Concise_Oxford_Dictionary" class="mw-redirect" title="Concise Oxford Dictionary">Concise Oxford Dictionary</a></i>, the word is from the <a href="/wiki/Old_French" title="Old French">Old French</a> word <i>estincele</i>, meaning “<a href="https://en.wiktionary.org/wiki/sparkle" class="extiw" title="wiktionary:sparkle">sparkle</a>”.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Figurative_use"><span class="tocnumber">2</span> <span class="toctext">Figurative use</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Other_uses"><span class="tocnumber">3</span> <span class="toctext">Other uses</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tinsel&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Tinsel was invented in <a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a> around 1610.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tinsel was originally made from <a href="/wiki/Extruded" class="mw-redirect" title="Extruded">extruded</a> strands of <a href="/wiki/Silver" title="Silver">silver</a>. Because silver <a href="/wiki/Tarnish" title="Tarnish">tarnishes</a> quickly, other shiny metals were substituted. Before the 16th century, tinsel was used for adorning <a href="/wiki/Sculptures" class="mw-redirect" title="Sculptures">sculptures</a> rather than Christmas trees. It was added to <a href="/wiki/Christmas_trees" class="mw-redirect" title="Christmas trees">Christmas trees</a> to enhance the flickering of the candles on the tree. Tinsel was used to represent the starry sky over a Nativity scene.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2011)">citation needed</span></a></i>]</sup></p>
+<p>By the early 20th century, manufacturing advances allowed cheap aluminium-based tinsel, and until <a href="/wiki/World_War_I" title="World War I">World War I</a>, <a href="/wiki/France" title="France">France</a> was the world leader in its manufacture. Production was curtailed during the First World War as a result of wartime demand for <a href="/wiki/Copper" title="Copper">copper</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p>During the 1950s, tinsel and tinsel garlands were so popular that they frequently were used more than Christmas lights, as tinsel was much less of a fire hazard than lights were for the then-popular <a href="/wiki/Aluminum_Christmas_tree" title="Aluminum Christmas tree">aluminum Christmas trees</a>, which were made from flammable aluminized paper.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2011)">citation needed</span></a></i>]</sup></p>
+<p><a href="/wiki/Lead" title="Lead">Lead</a> <a href="/wiki/Foil_(metal)" title="Foil (metal)">foil</a> was a popular material for tinsel manufacture for several decades of the 20th century. Unlike silver, lead tinsel did not tarnish, so it retained its shine. However, use of lead tinsel was phased out after the 1960s due to concern that it exposed children to a risk of <a href="/wiki/Lead_poisoning" title="Lead poisoning">lead poisoning</a>.<sup id="cite_ref-DecorationsSpanned_3-0" class="reference"><a href="#cite_note-DecorationsSpanned-3">[3]</a></sup> In the <a href="/wiki/United_States" title="United States">United States</a>, the <a href="/wiki/Food_and_Drug_Administration" title="Food and Drug Administration">Food and Drug Administration</a> (FDA) concluded in August 1971 that lead tinsel caused an unnecessary risk to <a href="/wiki/Children" class="mw-redirect" title="Children">children</a>, and convinced manufacturers and importers to voluntarily stop producing or importing lead tinsel after January 1, 1972. The FDA did not actually ban the product because the agency did not have the evidence needed to declare lead tinsel a "health <a href="/wiki/Hazard" title="Hazard">hazard</a>."<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p>Modern tinsel is typically made from <a href="/wiki/Polyvinyl_chloride" title="Polyvinyl chloride">polyvinyl chloride</a> (PVC) film coated with a metallic finish.<sup id="cite_ref-BriteStar1994_5-0" class="reference"><a href="#cite_note-BriteStar1994-5">[5]</a></sup> Coated <a href="/wiki/Mylar" class="mw-redirect" title="Mylar">mylar</a> film also has been used.<sup id="cite_ref-DecorationsSpanned_3-1" class="reference"><a href="#cite_note-DecorationsSpanned-3">[3]</a></sup> These plastic forms of tinsel do not hang as well as tinsel made from heavy metals such as silver and lead.<sup id="cite_ref-BriteStar1994_5-1" class="reference"><a href="#cite_note-BriteStar1994-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="Figurative_use">Figurative use</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tinsel&amp;action=edit&amp;section=2" title="Edit section: Figurative use">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Germans refer to a row of <a href="/wiki/Awards_and_decorations_of_the_German_Armed_Forces" title="Awards and decorations of the German Armed Forces">military Awards and decorations</a> as <i>Lametta</i> (<a href="/wiki/German_language" title="German language">German</a> for tinsel), similar to dressing in full regalia or with a high level of formality. The expression was coined earlier to describe the appearance of <a href="/wiki/Hermann_G%C3%B6ring" title="Hermann Göring">Hermann Göring</a>, e.g. in a <i><a href="/wiki/Chanson" title="Chanson">Chanson</a></i> by <a href="/wiki/Claire_Waldoff" title="Claire Waldoff">Claire Waldoff</a>, <i>Rechts Lametta, links Lametta, Und der Bauch wird imma fetta</i> (right tinsel, left tinsel, and the belly gets immense).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<p>Humorist <a href="/wiki/Vicco_von_B%C3%BClow" title="Vicco von Bülow">Loriot</a>'s 1977 film <i>Weihnachten bei Hoppenstedts</i> about a family Christmas involved a <a href="/wiki/Prussian_education_system" title="Prussian education system">Prussian educated</a> grandfather humming the <i><a href="https://de.wikipedia.org/wiki/Helenenmarsch" class="extiw" title="de:Helenenmarsch">Helenenmarsch</a></i> with "ra-da-buff" and deploring the lack of tinsel („<i>Früher war mehr Lametta!</i>“ "There used to be more tinsel!" has become proverbial).<sup id="cite_ref-ReferenceA_7-0" class="reference"><a href="#cite_note-ReferenceA-7">[7]</a></sup></p>
+<h2><span class="mw-headline" id="Other_uses">Other uses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tinsel&amp;action=edit&amp;section=3" title="Edit section: Other uses">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Tinsel has many traditional uses in <a href="/wiki/India" title="India">India</a>, including decorations on images, garlands for weddings and other ceremonies, and ornamental trappings for horses and elephants.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Tinsels of various types are popular materials used in <a href="/wiki/Fly_tying" title="Fly tying">fly tying</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2017)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tinsel&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Legend_of_the_Christmas_Spider" title="Legend of the Christmas Spider">Legend of the Christmas Spider</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tinsel&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="391" data-file-height="391" /></td>
+<td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/tinsel" class="extiw" title="wiktionary:tinsel">tinsel</a></b></i>&#160;or <i><b><a href="https://en.wiktionary.org/wiki/lametta" class="extiw" title="wiktionary:lametta">lametta</a></b></i> in Wiktionary, the free dictionary.</td>
+</tr>
+</table>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.christmascarnivals.com/christmas-history/christmas-history-tinsel.html">"Christmas History Tinsel"</a>. Christmascarnivals.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-12-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATinsel&amp;rft.btitle=Christmas+History+Tinsel&amp;rft.genre=unknown&amp;rft.pub=Christmascarnivals.com&amp;rft_id=http%3A%2F%2Fwww.christmascarnivals.com%2Fchristmas-history%2Fchristmas-history-tinsel.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">United States Bureau of Foreign and Domestic Commerce, Bureau of Manufactures (1917). <i>Commerce reports, Volume 1</i>. pp.&#160;<a rel="nofollow" class="external text" href="https://books.google.com/books?id=tiIoAAAAYAAJ&amp;pg=PA83">83</a>, <a rel="nofollow" class="external text" href="https://books.google.com/books?id=tiIoAAAAYAAJ&amp;pg=PA412">412</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATinsel&amp;rft.au=United+States+Bureau+of+Foreign+and+Domestic+Commerce%2C+Bureau+of+Manufactures&amp;rft.btitle=Commerce+reports%2C+Volume+1&amp;rft.date=1917&amp;rft.genre=book&amp;rft.pages=83%2C+412&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-DecorationsSpanned-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-DecorationsSpanned_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-DecorationsSpanned_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Werne, Jo (December 20, 1981). <a rel="nofollow" class="external text" href="https://news.google.com/newspapers?id=N-lFAAAAIBAJ&amp;sjid=wPwMAAAAIBAJ&amp;pg=4872,2687963">"Decorations spanned decades in development"</a>. <i>Telegraph-Herald</i>. Dubuque, Iowa. p.&#160;25<span class="reference-accessdate">. Retrieved <span class="nowrap">17 December</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATinsel&amp;rft.atitle=Decorations+spanned+decades+in+development&amp;rft.aufirst=Jo&amp;rft.aulast=Werne&amp;rft.date=1981-12-20&amp;rft.genre=article&amp;rft.jtitle=Telegraph-Herald&amp;rft.pages=25&amp;rft_id=https%3A%2F%2Fnews.google.com%2Fnewspapers%3Fid%3DN-lFAAAAIBAJ%26sjid%3DwPwMAAAAIBAJ%26pg%3D4872%2C2687963&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation news">Associated Press (November 15, 1972). <a rel="nofollow" class="external text" href="https://news.google.com/newspapers?nid=1955&amp;dat=19721115&amp;id=gQ9XAAAAIBAJ&amp;sjid=QkMNAAAAIBAJ&amp;pg=5569,3402989">"Lead Tinsel Seen Off the Market"</a>. <i>Reading Eagle</i>. Reading, Pennsylvania<span class="reference-accessdate">. Retrieved <span class="nowrap">17 December</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATinsel&amp;rft.atitle=Lead+Tinsel+Seen+Off+the+Market&amp;rft.au=Associated+Press&amp;rft.date=1972-11-15&amp;rft.genre=article&amp;rft.jtitle=Reading+Eagle&amp;rft_id=https%3A%2F%2Fnews.google.com%2Fnewspapers%3Fnid%3D1955%26dat%3D19721115%26id%3DgQ9XAAAAIBAJ%26sjid%3DQkMNAAAAIBAJ%26pg%3D5569%2C3402989&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-BriteStar1994-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-BriteStar1994_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BriteStar1994_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Deleon, Clark (December 26, 1994). <a rel="nofollow" class="external text" href="https://news.google.com/newspapers?id=vFNSAAAAIBAJ&amp;sjid=qzYNAAAAIBAJ&amp;pg=1137,4045237">"Tinsel plant unites many cultures"</a>. <i>The Post and Courier</i>. Charleston, South Carolina: Knight Ridder<span class="reference-accessdate">. Retrieved <span class="nowrap">17 December</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATinsel&amp;rft.atitle=Tinsel+plant+unites+many+++++cultures&amp;rft.aufirst=Clark&amp;rft.aulast=Deleon&amp;rft.date=1994-12-26&amp;rft.genre=article&amp;rft.jtitle=The+Post+and+Courier&amp;rft_id=https%3A%2F%2Fnews.google.com%2Fnewspapers%3Fid%3DvFNSAAAAIBAJ%26sjid%3DqzYNAAAAIBAJ%26pg%3D1137%2C4045237&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Underground Humour In Nazi Germany, 1933-1945 Dr F K M Hillenbrand, Routledge, September 11, 2002.</span></li>
+<li id="cite_note-ReferenceA-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-ReferenceA_7-0">^</a></b></span> <span class="reference-text">IMDb Title tt0393440 Loriot 14: <i>Weihnachten bei Hoppenstedts.</i></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation book">Mukerjee, Radhakamal (1916). <i>The foundations of Indian economics</i>. Longmans, Green and Co. pp.&#160;<a rel="nofollow" class="external text" href="https://books.google.com/books?id=Se_FAAAAMAAJ&amp;pg=PA220">220</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATinsel&amp;rft.aufirst=Radhakamal&amp;rft.aulast=Mukerjee&amp;rft.btitle=The+foundations+of+Indian+economics&amp;rft.date=1916&amp;rft.genre=book&amp;rft.pages=220&amp;rft.pub=Longmans%2C+Green+and+Co.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Christmas_trees" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background:#01645C;color:white;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Christmas_trees" title="Template:Christmas trees"><abbr title="View this template" style="background:#01645C;color:white;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Christmas_trees" title="Template talk:Christmas trees"><abbr title="Discuss this template" style="background:#01645C;color:white;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Christmas_trees&amp;action=edit"><abbr title="Edit this template" style="background:#01645C;color:white;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Christmas_trees" style="font-size:114%;margin:0 4em"><a href="/wiki/Christmas_tree" title="Christmas tree"><span style="color:white">Christmas trees</span></a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#01645C;color:white;;width:1%">Cultivation</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Christmas_tree_cultivation" title="Christmas tree cultivation">Christmas tree cultivation</a></li>
+<li><a href="/wiki/History_of_Christmas_tree_cultivation" class="mw-redirect" title="History of Christmas tree cultivation">Christmas tree cultivation history</a></li>
+<li><a href="/wiki/Christmas_tree_pests_and_weeds" title="Christmas tree pests and weeds">Christmas tree pests and weeds</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#01645C;color:white;;width:1%">Production</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Christmas_tree_production_in_Canada" title="Christmas tree production in Canada">Canadian production</a></li>
+<li><a href="/wiki/Christmas_tree_production_in_Denmark" title="Christmas tree production in Denmark">Danish production</a></li>
+<li><a href="/wiki/Christmas_tree_production" title="Christmas tree production">Global production</a></li>
+<li><a href="/wiki/Christmas_tree_production_in_Mexico" title="Christmas tree production in Mexico">Mexican production</a></li>
+<li><a href="/wiki/Christmas_tree_production_in_the_United_States" title="Christmas tree production in the United States">U.S. production</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#01645C;color:white;;width:1%">Artificial</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Artificial_Christmas_tree" title="Artificial Christmas tree">Artificial Christmas tree</a></li>
+<li><a href="/wiki/Aluminum_Christmas_tree" title="Aluminum Christmas tree">Aluminum Christmas tree</a></li>
+<li><a href="/wiki/Feather_Christmas_tree" title="Feather Christmas tree">Feather Christmas tree</a></li>
+<li><a href="/wiki/Pre-lit_tree" title="Pre-lit tree">Pre-lit tree</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#01645C;color:white;;width:1%">Decorations</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Candy_cane" title="Candy cane">Candy cane</a></li>
+<li><a href="/wiki/Christmas_ornament" title="Christmas ornament">Christmas ornament</a></li>
+<li><a href="/wiki/Christmas_lights" title="Christmas lights">Christmas lights</a></li>
+<li><a href="/wiki/Garland" title="Garland">Garland</a></li>
+<li><a href="/wiki/Christmas_pickle" title="Christmas pickle">Pickle</a></li>
+<li><a href="/wiki/Pleated_Christmas_hearts" title="Pleated Christmas hearts">Pleated Christmas hearts</a></li>
+<li><a href="/wiki/Shiny_Brite" title="Shiny Brite">Shiny Brite ornaments</a></li>
+<li><a href="/wiki/Szaloncukor" title="Szaloncukor">Szaloncukor</a></li>
+<li><a class="mw-selflink selflink">Tinsel</a></li>
+<li><a href="/wiki/Tree-topper" title="Tree-topper">Tree-topper</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#01645C;color:white;;width:1%">Individual trees</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anthem_Christmas_tree" title="Anthem Christmas tree">Anthem</a></li>
+<li><a href="/wiki/Boston_Christmas_Tree" title="Boston Christmas Tree">Boston</a></li>
+<li><a href="/wiki/California_Capitol_Christmas_Tree" title="California Capitol Christmas Tree">California Capitol</a></li>
+<li><a href="/wiki/Daley_Plaza_Christmas_tree" class="mw-redirect" title="Daley Plaza Christmas tree">Chicago</a></li>
+<li><a href="/wiki/Brussels_Christmas_tree" title="Brussels Christmas tree">Grand Place (Brussels)</a></li>
+<li><a href="/wiki/Grove_Christmas_Tree" title="Grove Christmas Tree">Grove (L.A.)</a></li>
+<li><a href="/wiki/Lisbon_Christmas_tree" title="Lisbon Christmas tree">Lisbon (Portugal)</a></li>
+<li><a href="/wiki/Macy%27s_Great_Tree" title="Macy's Great Tree">Macy's (Atlanta)</a></li>
+<li><a href="/wiki/Milwaukee_City_Christmas_Tree" title="Milwaukee City Christmas Tree">Milwaukee</a></li>
+<li><a href="/wiki/Mount_Ingino_Christmas_Tree" title="Mount Ingino Christmas Tree">Mount Ingino (Italy)</a></li>
+<li><a href="/wiki/Capitol_Christmas_Tree" title="Capitol Christmas Tree">U.S. Capitol</a></li>
+<li><a href="/wiki/National_Christmas_Tree_(United_States)" title="National Christmas Tree (United States)">U.S. National Tree</a></li>
+<li><a href="/wiki/Rockefeller_Center_Christmas_Tree" title="Rockefeller Center Christmas Tree">Rockefeller Center</a></li>
+<li><a href="/wiki/Sri_Lankan_Christmas_tree" title="Sri Lankan Christmas tree">Sri Lanka</a></li>
+<li><a href="/wiki/The_Lights_Before_Christmas" title="The Lights Before Christmas">Toledo (Ohio) Zoo</a></li>
+<li><a href="/wiki/Trafalgar_Square_Christmas_tree" title="Trafalgar Square Christmas tree">Trafalgar Square (London)</a></li>
+<li><a href="/wiki/Tree_(installation)" title="Tree (installation)">Tree (Paris)</a></li>
+<li><a href="/wiki/Vatican_Christmas_Tree" title="Vatican Christmas Tree">Vatican</a></li>
+<li><a href="/wiki/White_House_Christmas_tree" title="White House Christmas tree">White House</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#01645C;color:white;;width:1%">Trade groups</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/American_Christmas_Tree_Association" title="American Christmas Tree Association">American Christmas Tree Association</a></li>
+<li><a href="/wiki/British_Christmas_Tree_Growers_Association" title="British Christmas Tree Growers Association">British Christmas Tree Growers Association</a></li>
+<li><a href="/wiki/Canadian_Christmas_Tree_Growers_Association" title="Canadian Christmas Tree Growers Association">Canadian Christmas Tree Growers Association</a></li>
+<li><a href="/wiki/Christmas_Tree_Promotion_Board" title="Christmas Tree Promotion Board">Christmas Tree Promotion Board</a></li>
+<li><a href="/wiki/Danish_Christmas_Tree_Growers_Association" title="Danish Christmas Tree Growers Association">Danish Christmas Tree Growers Association</a></li>
+<li><a href="/wiki/National_Christmas_Tree_Association" title="National Christmas Tree Association">National Christmas Tree Association</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#01645C;color:white;;width:1%">Other topics</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chichilaki" title="Chichilaki">Chichilaki</a></li>
+<li><a href="/wiki/Christmas_tree_stand" title="Christmas tree stand">Christmas tree stand</a></li>
+<li><a href="/wiki/Festive_ecology" title="Festive ecology">Festive ecology</a></li>
+<li><a href="/wiki/Hanukkah_bush" title="Hanukkah bush">Hanukkah bush</a></li>
+<li><a href="/wiki/Holiday_tree" title="Holiday tree">Holiday tree</a></li>
+<li><i><a href="/wiki/Rouse_Simmons" title="Rouse Simmons">Rouse Simmons</a></i></li>
+<li><a href="/wiki/Singing_Christmas_Tree" title="Singing Christmas Tree">Singing Christmas Tree</a></li>
+<li><a href="/wiki/Tree_baler" title="Tree baler">Tree baler</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Christmas" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Christmas" title="Template:Christmas"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Christmas" title="Template talk:Christmas"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Christmas&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Christmas" style="font-size:114%;margin:0 4em"><a href="/wiki/Christmas" title="Christmas">Christmas</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Christmas_Eve" title="Christmas Eve">Christmas Eve</a></li>
+<li><a href="/wiki/Children%27s_Day" title="Children's Day">Children's Day</a></li>
+<li><a href="/wiki/Boxing_Day" title="Boxing Day">Boxing Day</a></li>
+<li><a href="/wiki/Nochebuena" title="Nochebuena">Nochebuena</a></li>
+<li><a href="/wiki/Saint_Nicholas_Day" title="Saint Nicholas Day">Saint Nicholas Day</a></li>
+<li><a href="/wiki/St._Stephen%27s_Day" title="St. Stephen's Day">St. Stephen's Day</a></li>
+<li><a href="/wiki/Sol_Invictus" title="Sol Invictus">Sol Invictus</a></li>
+<li><a href="/wiki/Yule" title="Yule">Yule</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">In<br />
+Christianity</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biblical_Magi" title="Biblical Magi">Biblical Magi</a>
+<ul>
+<li><a href="/wiki/Adoration_of_the_Magi" title="Adoration of the Magi">Adoration of the Magi</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Adoration_of_the_Shepherds" title="Adoration of the Shepherds">Adoration of the Shepherds</a></li>
+<li><a href="/wiki/Advent" title="Advent">Advent</a></li>
+<li><a href="/wiki/Gabriel" title="Gabriel">Angel Gabriel</a></li>
+<li><a href="/wiki/Annunciation" title="Annunciation">Annunciation</a></li>
+<li><a href="/wiki/Annunciation_to_the_shepherds" title="Annunciation to the shepherds">Annunciation to the shepherds</a></li>
+<li><a href="/wiki/Baptism_of_the_Lord" title="Baptism of the Lord">Baptism of the Lord</a></li>
+<li><a href="/wiki/Bethlehem" title="Bethlehem">Bethlehem</a></li>
+<li><a href="/wiki/Christingle" title="Christingle">Christingle</a></li>
+<li><a href="/wiki/Christmastide" title="Christmastide">Christmastide</a></li>
+<li><a href="/wiki/Epiphany_(holiday)" title="Epiphany (holiday)">Epiphany</a></li>
+<li><a href="/wiki/Herod_the_Great" title="Herod the Great">Herod the Great</a></li>
+<li><a href="/wiki/Jesus" title="Jesus">Jesus</a></li>
+<li><a href="/wiki/Saint_Joseph" title="Saint Joseph">Joseph</a></li>
+<li><a href="/wiki/Mary,_mother_of_Jesus" title="Mary, mother of Jesus">Mary</a></li>
+<li><a href="/wiki/Massacre_of_the_Innocents" title="Massacre of the Innocents">Massacre of the Innocents</a>
+<ul>
+<li><a href="/wiki/Flight_into_Egypt" title="Flight into Egypt">flight into Egypt</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Nativity_Fast" title="Nativity Fast">Nativity Fast</a></li>
+<li><a href="/wiki/Nativity_of_Jesus" title="Nativity of Jesus">Nativity of Jesus</a>
+<ul>
+<li><a href="/wiki/Nativity_of_Jesus_in_art" title="Nativity of Jesus in art">in art</a></li>
+<li><a href="/wiki/Nativity_of_Jesus_in_later_culture" title="Nativity of Jesus in later culture">in later culture</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Nativity_scene" title="Nativity scene">Nativity scene</a></li>
+<li><a href="/wiki/Saint_Nicholas" title="Saint Nicholas">Saint Nicholas</a></li>
+<li><a href="/wiki/Star_of_Bethlehem" title="Star of Bethlehem">Star of Bethlehem</a></li>
+<li><a href="/wiki/Twelfth_Night_(holiday)" title="Twelfth Night (holiday)">Twelfth Night</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">
+<div style="padding:0.1em 0;line-height:1.2em;">In <a href="/wiki/Pre-Christian_Alpine_traditions" title="Pre-Christian Alpine traditions">folklore</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Badalisc" title="Badalisc">Badalisc</a></li>
+<li><a href="/wiki/Befana" title="Befana">La Befana</a></li>
+<li><a href="/wiki/Belsnickel" title="Belsnickel">Belsnickel</a></li>
+<li><a href="/wiki/Caganer" title="Caganer">Caganer</a></li>
+<li><a href="/wiki/Christkind" title="Christkind">Christkind</a></li>
+<li><a href="/wiki/Ded_Moroz" title="Ded Moroz">Ded Moroz</a></li>
+<li><a href="/wiki/Christmas_elf" title="Christmas elf">Elves</a></li>
+<li><a href="/wiki/Father_Christmas" title="Father Christmas">Father Christmas</a></li>
+<li><a href="/wiki/Gr%C3%BDla" title="Grýla">Grýla</a></li>
+<li><a href="/wiki/Jack_Frost" title="Jack Frost">Jack Frost</a></li>
+<li><a href="/wiki/Joulupukki" title="Joulupukki">Joulupukki</a></li>
+<li><a href="/wiki/Knecht_Ruprecht" title="Knecht Ruprecht">Knecht Ruprecht</a></li>
+<li><a href="/wiki/Korvatunturi" title="Korvatunturi">Korvatunturi</a></li>
+<li><a href="/wiki/Krampus" title="Krampus">Krampus</a></li>
+<li><a href="/wiki/Mikul%C3%A1s" title="Mikulás">Mikulás</a></li>
+<li><a href="/wiki/Miner%27s_figure" title="Miner's figure">Miner's figure</a></li>
+<li><a href="/wiki/Mrs._Claus" title="Mrs. Claus">Mrs. Claus</a></li>
+<li><a href="/wiki/Nisse_(folklore)" title="Nisse (folklore)">Nisse/Tomte</a></li>
+<li><a href="/wiki/North_Pole" title="North Pole">North Pole</a></li>
+<li><a href="/wiki/Old_Man_Winter" class="mw-redirect" title="Old Man Winter">Old Man Winter</a></li>
+<li><a href="/wiki/Olentzero" title="Olentzero">Olentzero</a></li>
+<li><a href="/wiki/P%C3%A8re_Fouettard" title="Père Fouettard">Père Fouettard</a></li>
+<li><a href="/wiki/P%C3%A8re_No%C3%ABl" title="Père Noël">Père Noël</a></li>
+<li><a href="/wiki/Rudolph_the_Red-Nosed_Reindeer" title="Rudolph the Red-Nosed Reindeer">Rudolph the Red-Nosed Reindeer</a></li>
+<li><a href="/wiki/Saint_Lucy" title="Saint Lucy">Saint Lucy</a></li>
+<li><a href="/wiki/Santa_Claus%27s_reindeer" title="Santa Claus's reindeer">Santa's reindeer</a></li>
+<li><a href="/wiki/Santa%27s_workshop" title="Santa's workshop">Santa's workshop</a></li>
+<li><a href="/wiki/Sinterklaas" title="Sinterklaas">Sinterklaas</a></li>
+<li><a href="/wiki/Ti%C3%B3_de_Nadal" title="Tió de Nadal">Tió de Nadal</a></li>
+<li><a href="/wiki/Vertep" title="Vertep">Vertep</a></li>
+<li><a href="/wiki/Yule_Cat" title="Yule Cat">Yule Cat</a></li>
+<li><a href="/wiki/Yule_Lads" title="Yule Lads">Yule Lads</a></li>
+<li><a href="/wiki/Zwarte_Piet" title="Zwarte Piet">Zwarte Piet</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Christmas_gift-bringer" title="Christmas gift-bringer">Gift-bringers</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Saint_Nicholas" title="Saint Nicholas">Saint Nicholas</a></li>
+<li><a href="/wiki/Santa_Claus" title="Santa Claus">Santa Claus</a></li>
+<li><a href="/wiki/List_of_Christmas_and_winter_gift-bringers_by_country" title="List of Christmas and winter gift-bringers by country">List of Christmas gift-bringers by country</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Christmas_traditions" title="Christmas traditions">Traditions</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Advent_calendar" title="Advent calendar">Advent calendar</a></li>
+<li><a href="/wiki/Advent_candle" title="Advent candle">Advent candle</a></li>
+<li><a href="/wiki/Advent_wreath" title="Advent wreath">Advent wreath</a></li>
+<li><a href="/wiki/Boar%27s_Head_Feast" title="Boar's Head Feast">Boar's Head Feast</a></li>
+<li><a href="/wiki/Schwibbogen" title="Schwibbogen">Candle arches</a></li>
+<li><a href="/wiki/Christmas_card" title="Christmas card">Cards</a></li>
+<li><a href="/wiki/Carols_by_Candlelight" title="Carols by Candlelight">Carols by Candlelight</a></li>
+<li><a href="/wiki/Cavalcade_of_Magi" title="Cavalcade of Magi">Cavalcade of Magi</a></li>
+<li><a href="/wiki/Christmas_cracker" title="Christmas cracker">Crackers</a></li>
+<li><a href="/wiki/Christmas_decoration" title="Christmas decoration">Decorations</a></li>
+<li><a href="/wiki/Category:Christmas_events_and_celebrations" title="Category:Christmas events and celebrations">Events and celebrations</a></li>
+<li><a href="/wiki/Feast_of_the_Seven_Fishes" title="Feast of the Seven Fishes">Feast of the Seven Fishes</a></li>
+<li><a href="/wiki/Flying_Santa" title="Flying Santa">Flying Santa</a></li>
+<li><a href="/wiki/Hamper#Christmas_hamper" title="Hamper">Hampers</a></li>
+<li><a href="/wiki/Las_Posadas" title="Las Posadas">Las Posadas</a></li>
+<li><a href="/wiki/Round-robin_letter" title="Round-robin letter">Letters</a></li>
+<li><a href="/wiki/Christmas_lights" title="Christmas lights">Lights</a></li>
+<li><a href="/wiki/Christmas_market" title="Christmas market">Markets</a></li>
+<li><a href="/wiki/Category:Christmas_meals_and_feasts" title="Category:Christmas meals and feasts">Meals and feasts</a></li>
+<li><a href="/wiki/Moravian_star" title="Moravian star">Moravian star</a></li>
+<li><a href="/wiki/Nine_Lessons_and_Carols" title="Nine Lessons and Carols">Nine Lessons and Carols</a></li>
+<li><a href="/wiki/NORAD_Tracks_Santa" title="NORAD Tracks Santa">NORAD Tracks Santa</a></li>
+<li><a href="/wiki/Nutcracker" title="Nutcracker">Nutcrackers</a>
+<ul>
+<li><a href="/wiki/Nutcracker_doll" title="Nutcracker doll">dolls</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Christmas_ornament" title="Christmas ornament">Ornaments</a></li>
+<li><a href="/wiki/Santa_Claus_parade" title="Santa Claus parade">Parades</a>
+<ul>
+<li><a href="/wiki/List_of_Christmas_and_holiday_season_parades" title="List of Christmas and holiday season parades">list</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Pi%C3%B1ata" title="Piñata">Piñatas</a></li>
+<li><a href="/wiki/Christmas_pyramid" title="Christmas pyramid">Pyramids</a></li>
+<li><i><a href="/wiki/R%C3%A4uchermann" title="Räuchermann">Räuchermann</a></i></li>
+<li><a href="/wiki/Christmas_seal" title="Christmas seal">Seals</a></li>
+<li><a href="/wiki/Secret_Santa" title="Secret Santa">Secret Santa</a></li>
+<li><i><a href="/wiki/Spanbaum" title="Spanbaum">Spanbaum</a></i></li>
+<li><a href="/wiki/Christmas_stamp" title="Christmas stamp">Stamps</a></li>
+<li><a href="/wiki/Christmas_stocking" title="Christmas stocking">Stockings</a></li>
+<li><a href="/wiki/Christmas_tree" title="Christmas tree">Tree</a></li>
+<li><a href="/wiki/Twelve_Days_of_Christmas" title="Twelve Days of Christmas">Twelve Days</a></li>
+<li><a href="/wiki/Wassailing" title="Wassailing">Wassailing</a></li>
+<li><a href="/wiki/Christmas_window" title="Christmas window">Windows</a></li>
+<li><a href="/wiki/Yule_Goat" title="Yule Goat">Yule Goat</a></li>
+<li><a href="/wiki/Yule_log" title="Yule log">Yule log</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">By country</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Christmas_in_Australia_and_New_Zealand" title="Christmas in Australia and New Zealand">Australia and New Zealand</a></li>
+<li><a href="/wiki/Jul_(Denmark)" title="Jul (Denmark)">Denmark</a></li>
+<li><a href="/wiki/Weihnachten" title="Weihnachten">Germany</a></li>
+<li><a href="/wiki/Christmas_in_Hawaii" title="Christmas in Hawaii">Hawaii</a></li>
+<li><a href="/wiki/Christmas_in_Hungary" title="Christmas in Hungary">Hungary</a></li>
+<li><a href="/wiki/J%C3%B3l_(Iceland)" title="Jól (Iceland)">Iceland</a></li>
+<li><a href="/wiki/Christmas_in_Indonesia" title="Christmas in Indonesia">Indonesia</a></li>
+<li><a href="/wiki/Christmas_in_Ireland" title="Christmas in Ireland">Ireland</a></li>
+<li><a href="/wiki/Christmas_in_Mexico" title="Christmas in Mexico">Mexico</a></li>
+<li><a href="/wiki/Jul_(Norway)" title="Jul (Norway)">Norway</a></li>
+<li><a href="/wiki/Christmas_in_the_Philippines" title="Christmas in the Philippines">Philippines</a></li>
+<li><a href="/wiki/Christmas_in_Poland" title="Christmas in Poland">Poland</a></li>
+<li><a href="/wiki/Christmas_in_Romania" title="Christmas in Romania">Romania</a></li>
+<li><a href="/wiki/Christmas_in_Russia" title="Christmas in Russia">Russia</a></li>
+<li><a href="/wiki/Christmas_in_Scotland" title="Christmas in Scotland">Scotland</a></li>
+<li><a href="/wiki/Serbian_Christmas_traditions" title="Serbian Christmas traditions">Serbia</a></li>
+<li><a href="/wiki/Jul_(Sweden)" title="Jul (Sweden)">Sweden</a></li>
+<li><a href="/wiki/Christmas_in_Ukraine" title="Christmas in Ukraine">Ukraine</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Christmas_music" title="Christmas music">Music</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Christmas_carol" title="Christmas carol">Carols</a>
+<ul>
+<li><a href="/wiki/List_of_Christmas_carols" title="List of Christmas carols">list</a></li>
+</ul>
+</li>
+<li><a href="/wiki/List_of_Christmas_hit_singles_in_the_United_Kingdom" title="List of Christmas hit singles in the United Kingdom">Hit singles UK</a></li>
+<li><a href="/wiki/List_of_popular_Christmas_singles_in_the_United_States" title="List of popular Christmas singles in the United States">Hit singles US</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Christmas_by_medium" title="Christmas by medium">Other media</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_Christmas_films" title="List of Christmas films">Films</a></li>
+<li>Poetry
+<ul>
+<li>"<a href="/wiki/Old_Santeclaus_with_Much_Delight" title="Old Santeclaus with Much Delight">Old Santeclaus with Much Delight</a>"</li>
+<li>"<a href="/wiki/A_Visit_from_St._Nicholas" title="A Visit from St. Nicholas">A Visit from St. Nicholas</a>"</li>
+</ul>
+</li>
+<li>Television
+<ul>
+<li><a href="/wiki/List_of_Christmas_television_specials" title="List of Christmas television specials">specials</a></li>
+<li><i><a href="/wiki/Yule_Log_(TV_program)" title="Yule Log (TV program)">Yule Log</a></i></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">In<br />
+modern<br />
+society</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Advent_Conspiracy" title="Advent Conspiracy">Advent Conspiracy</a></li>
+<li><a href="/wiki/Black_Friday_(partying)" title="Black Friday (partying)">Black Friday (partying)</a></li>
+<li><a href="/wiki/Black_Friday_(shopping)" title="Black Friday (shopping)">Black Friday (shopping)</a></li>
+<li><a href="/wiki/Cyber_Monday" title="Cyber Monday">Cyber Monday</a></li>
+<li><a href="/wiki/Bronner%27s_Christmas_Wonderland" title="Bronner's Christmas Wonderland">Bronner's Christmas Wonderland</a></li>
+<li><a href="/wiki/Christmas_club" title="Christmas club">Christmas club</a></li>
+<li><a href="/wiki/Christmas_creep" title="Christmas creep">Christmas creep</a></li>
+<li><a href="/wiki/Christmas_Day_(Trading)_Act_2004" title="Christmas Day (Trading) Act 2004">Christmas Day (Trading) Act 2004</a></li>
+<li><a href="/wiki/Royal_Institution_Christmas_Lectures" title="Royal Institution Christmas Lectures">Christmas Lectures</a></li>
+<li><a href="/wiki/Christmas_Mountains" title="Christmas Mountains">Christmas Mountains</a></li>
+<li><a href="/wiki/Christmas_truce" title="Christmas truce">Christmas truce</a></li>
+<li><a href="/wiki/Christmas_controversies" title="Christmas controversies">Controversies</a></li>
+<li><a href="/wiki/Cyber_Monday" title="Cyber Monday">Cyber Monday</a></li>
+<li><a href="/wiki/Economics_of_Christmas" title="Economics of Christmas">Economics</a></li>
+<li><a href="/wiki/Spanish_Christmas_Lottery" title="Spanish Christmas Lottery">El Gordo</a></li>
+<li><a href="/wiki/Christmas_and_holiday_season" title="Christmas and holiday season">Holiday season</a></li>
+<li><a href="/wiki/Christmas_in_July" title="Christmas in July">In July</a></li>
+<li><a href="/wiki/Christmas_in_August_(Yellowstone)" title="Christmas in August (Yellowstone)">In August</a></li>
+<li><a href="/wiki/Leon_Day_(holiday)" class="mw-redirect" title="Leon Day (holiday)">Leon Day</a></li>
+<li><a href="/wiki/National_Basketball_Association_Christmas_games" title="National Basketball Association Christmas games">NBA games</a></li>
+<li><a href="/wiki/National_Football_League_Christmas_games" title="National Football League Christmas games">NFL games</a></li>
+<li><a href="/wiki/Christmas_in_Puritan_New_England" title="Christmas in Puritan New England">Puritan New England</a></li>
+<li><a href="/wiki/Christmas_in_the_American_Civil_War" title="Christmas in the American Civil War">American Civil War</a></li>
+<li><a href="/wiki/Christmas_in_the_post-war_United_States" title="Christmas in the post-war United States">Post-War United States</a></li>
+<li><a href="/wiki/Pub_crawl#Santa_Claus_theme" title="Pub crawl">Running of the Santas</a></li>
+<li><a href="/wiki/SantaCon" title="SantaCon">SantaCon</a></li>
+<li><a href="/wiki/Santa%27s_Candy_Castle" title="Santa's Candy Castle">Santa's Candy Castle</a></li>
+<li><a href="/wiki/Super_Saturday" title="Super Saturday">Super Saturday</a></li>
+<li><a href="/wiki/Yes,_Virginia,_there_is_a_Santa_Claus" title="Yes, Virginia, there is a Santa Claus">Virginia O'Hanlon</a></li>
+<li><a href="/wiki/White_Christmas_(weather)" title="White Christmas (weather)">White Christmas</a></li>
+<li><a href="/wiki/List_of_multinational_festivals_and_holidays" title="List of multinational festivals and holidays">Winter festivals</a></li>
+<li><a href="/wiki/WWE_Tribute_to_the_Troops" title="WWE Tribute to the Troops">WWE Tribute to the Troops</a></li>
+<li><a href="/wiki/Xmas" title="Xmas">Xmas</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_Christmas_dishes" title="List of Christmas dishes">Food and<br />
+drink</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Christmas_dinner" title="Christmas dinner">Dinner</a>
+<ul>
+<li><a href="/wiki/Joulup%C3%B6yt%C3%A4" title="Joulupöytä">Joulupöytä</a></li>
+<li><a href="/wiki/Julebord" title="Julebord">Julebord</a></li>
+<li><a href="/wiki/K%C5%AB%C4%8Dios" title="Kūčios">Kūčios</a></li>
+<li><a href="/wiki/R%C3%A9veillon" title="Réveillon">Réveillon</a></li>
+<li><a href="/wiki/Twelve-dish_Christmas_Eve_supper" title="Twelve-dish Christmas Eve supper">Twelve-dish supper</a></li>
+<li><a href="/wiki/Sm%C3%B6rg%C3%A5sbord" title="Smörgåsbord">Smörgåsbord</a></li>
+<li><a href="/wiki/Wigilia" title="Wigilia">Wigilia</a></li>
+</ul>
+</li>
+<li>Sweets
+<ul>
+<li><a href="/wiki/Yule_log_(cake)" title="Yule log (cake)">bûche de Noël</a></li>
+<li><a href="/wiki/Christmas_cake" title="Christmas cake">Cake</a></li>
+<li><a href="/wiki/Candy_cane" title="Candy cane">Candy cane</a></li>
+<li><a href="/wiki/Christmas_cookie" title="Christmas cookie">Cookies</a></li>
+<li><a href="/wiki/Fruitcake" title="Fruitcake">Fruitcake</a></li>
+<li><a href="/wiki/Gingerbread" title="Gingerbread">Gingerbread</a></li>
+<li><a href="/wiki/Qurabiya" title="Qurabiya">Kourabiedes</a></li>
+<li><a href="/wiki/Melomakarono" title="Melomakarono">Melomakarono</a></li>
+<li><a href="/wiki/Mince_pie" title="Mince pie">Mince pie</a></li>
+<li><a href="/wiki/Pavlova_(food)" title="Pavlova (food)">Pavlova</a></li>
+<li><a href="/wiki/Pecan_pie" title="Pecan pie">Pecan pie</a></li>
+<li><a href="/wiki/Pumpkin_pie" title="Pumpkin pie">Pumpkin pie</a></li>
+<li><a href="/wiki/Christmas_pudding" title="Christmas pudding">Pudding</a></li>
+<li><a href="/wiki/Rosca_de_reyes" title="Rosca de reyes">Rosca de reyes</a></li>
+<li><a href="/wiki/Szaloncukor" title="Szaloncukor">Szaloncukor</a></li>
+<li><a href="/wiki/Turr%C3%B3n" title="Turrón">Turrón</a></li>
+</ul>
+</li>
+<li>Soup
+<ul>
+<li><a href="/wiki/Menudo_(soup)" title="Menudo (soup)">Menudo</a></li>
+</ul>
+</li>
+<li>Sauce
+<ul>
+<li><a href="/wiki/Cranberry_sauce" title="Cranberry sauce">Cranberry sauce</a></li>
+</ul>
+</li>
+<li>Beverages
+<ul>
+<li><a href="/wiki/Apple_cider" title="Apple cider">Apple cider</a></li>
+<li><a href="/wiki/Champurrado" title="Champurrado">Champurrado</a></li>
+<li><a href="/wiki/Eggnog" title="Eggnog">Eggnog</a></li>
+<li><a href="/wiki/Mulled_wine" title="Mulled wine">Mulled wine</a>
+<ul>
+<li><a href="/wiki/Smoking_Bishop" title="Smoking Bishop">Smoking Bishop</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ponche_crema" title="Ponche crema">Ponche crema</a></li>
+</ul>
+</li>
+<li>Dumpling
+<ul>
+<li><a href="/wiki/Hallaca" title="Hallaca">Hallaca</a></li>
+<li><a href="/wiki/Tamale" title="Tamale">Tamale</a></li>
+</ul>
+</li>
+<li>Meat
+<ul>
+<li><a href="/wiki/Christmas_ham" title="Christmas ham">Ham</a></li>
+<li><a href="/wiki/Roast_goose" title="Roast goose">Roast goose</a></li>
+<li><a href="/wiki/Romeritos" title="Romeritos">Romeritos</a></li>
+<li><a href="/wiki/Domesticated_turkey#Turkeys_as_food" class="mw-redirect" title="Domesticated turkey">Turkey</a></li>
+<li><a href="/wiki/Stuffing" title="Stuffing">Stuffing</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Christmas" title="Category:Christmas">Category</a></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="https://commons.wikimedia.org/wiki/Christmas" class="extiw" title="commons:Christmas">Commons</a></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Christmas" title="Portal:Christmas">Portal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1188
+Cached time: 20170916084712
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.228 seconds
+Real time usage: 0.300 seconds
+Preprocessor visited node count: 1043/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 64855/2097152 bytes
+Template argument size: 1833/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 2/500
+Lua time usage: 0.101/10.000 seconds
+Lua memory usage: 3.81 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  218.998      1 -total
+ 30.93%   67.727      3 Template:Fix
+ 30.76%   67.373      1 Template:Reflist
+ 27.81%   60.903      2 Template:Citation_needed
+ 14.54%   31.846      6 Template:Category_handler
+ 14.54%   31.837      3 Template:Delink
+ 13.60%   29.784      1 Template:Cite_web
+ 13.06%   28.605      1 Template:Other_uses
+ 11.42%   25.008      2 Template:Navbox
+  7.65%   16.744      1 Template:Christmas
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1328907-0!canonical and timestamp 20170916084712 and revision id 774495600
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Tinsel&amp;oldid=774495600">https://en.wikipedia.org/w/index.php?title=Tinsel&amp;oldid=774495600</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Christmas_decorations" title="Category:Christmas decorations">Christmas decorations</a></li><li><a href="/wiki/Category:Christmas_in_Germany" title="Category:Christmas in Germany">Christmas in Germany</a></li><li><a href="/wiki/Category:Christmas_trees" title="Category:Christmas trees">Christmas trees</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2011" title="Category:Articles with unsourced statements from December 2011">Articles with unsourced statements from December 2011</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2017" title="Category:Articles with unsourced statements from February 2017">Articles with unsourced statements from February 2017</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Tinsel" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Tinsel" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Tinsel" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Tinsel" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Tinsel">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Tinsel&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Tinsel&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Tinsel" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Tinsel" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Tinsel&amp;oldid=774495600" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Tinsel&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1707568" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Tinsel&amp;id=774495600" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Tinsel">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Tinsel&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DTinsel%26returnto%3DTinsel%26oldid%3D774495600%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Tinsel&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Lametta" title="Lametta – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Espumill%C3%B3n" title="Espumillón – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%BF%D5%A5%D5%B2%D5%AE%D5%A1%D6%83%D5%A1%D5%B5%D5%AC_%D5%A4%D6%80%D5%A1%D5%BD%D5%A1%D5%B6%D5%A3" title="Կեղծափայլ դրասանգ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Lametta" title="Lametta – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ksh"><a href="https://ksh.wikipedia.org/wiki/Lametta" title="Lametta – Colognian" lang="ksh" hreflang="ksh" class="interlanguage-link-target">Ripoarisch</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%88%D1%83%D1%80%D0%B0" title="Мишура – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-vep"><a href="https://vep.wikipedia.org/wiki/Hobednitid" title="Hobednitid – Veps" lang="vep" hreflang="vep" class="interlanguage-link-target">Vepsän kel’</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1707568#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 8 April 2017, at 21:16.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Tinsel&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.228","walltime":"0.300","ppvisitednodes":{"value":1043,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":64855,"limit":2097152},"templateargumentsize":{"value":1833,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  218.998      1 -total"," 30.93%   67.727      3 Template:Fix"," 30.76%   67.373      1 Template:Reflist"," 27.81%   60.903      2 Template:Citation_needed"," 14.54%   31.846      6 Template:Category_handler"," 14.54%   31.837      3 Template:Delink"," 13.60%   29.784      1 Template:Cite_web"," 13.06%   28.605      1 Template:Other_uses"," 11.42%   25.008      2 Template:Navbox","  7.65%   16.744      1 Template:Christmas"]},"scribunto":{"limitreport-timeusage":{"value":"0.101","limit":"10.000"},"limitreport-memusage":{"value":3991201,"limit":52428800}},"cachereport":{"origin":"mw1188","timestamp":"20170916084712","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":76,"wgHostname":"mw1271"});});</script>
+	</body>
+</html>

@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Category:Wikipedia articles with ACM-DL identifiers - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Category","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":14,"wgPageName":"Category:Wikipedia_articles_with_ACM-DL_identifiers","wgTitle":"Wikipedia articles with ACM-DL identifiers","wgCurRevisionId":792767455,"wgRevisionId":792767455,"wgArticleId":54676658,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Hidden categories","Tracking categories","Pages with ACM-DL identifiers","Wikipedia articles with authority control information"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Category:Wikipedia_articles_with_ACM-DL_identifiers","wgRelevantArticleId":54676658,"wgRequestId":"WcnjhgpAIDoAAD@cLA0AAABH","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q37411670","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.action.view.categoryPage.styles":"ready","mediawiki.helplink":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.tmh.thumbnail.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.action.view.categoryPage.styles%7Cmediawiki.helplink%2CsectionAnchor%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Category:Wikipedia_articles_with_ACM-DL_identifiers&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Category:Wikipedia_articles_with_ACM-DL_identifiers&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_ACM-DL_identifiers"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-14 ns-subject page-Category_Wikipedia_articles_with_ACM-DL_identifiers rootpage-Category_Wikipedia_articles_with_ACM-DL_identifiers skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-mw-helplink" class="mw-indicator"><a href="//www.mediawiki.org/wiki/Special:MyLanguage/Help:Categories" target="_blank" class="mw-helplink">Help</a></div>
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Category:Wikipedia articles with ACM-DL identifiers</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>Wikipedia articles with <a href="/wiki/ACM_Digital_Library" class="mw-redirect" title="ACM Digital Library">ACM Digital Library</a> identifiers.</p>
+<div role="note" class="hatnote navigation-not-searchable relarticle mainarticle">For more information, see <b><a href="/wiki/Wikipedia:Authority_control" title="Wikipedia:Authority control">Wikipedia:Authority control</a></b>.</div>
+<table class="plainlinks cmbox cmbox-notice" role="presentation">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Information_icon4.svg/40px-Information_icon4.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Information_icon4.svg/60px-Information_icon4.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Information_icon4.svg/80px-Information_icon4.svg.png 2x" data-file-width="620" data-file-height="620" /></td>
+<td class="mbox-text">This is a <b><a href="/wiki/Wikipedia:Maintenance" title="Wikipedia:Maintenance">maintenance</a> <a href="/wiki/Help:Category" title="Help:Category">category</a></b>. It is used for <a href="/wiki/Wikipedia:Categorization#Non-article_and_maintenance_categories" title="Wikipedia:Categorization">maintenance of the Wikipedia project</a> and is not part of the encyclopedia. It contains pages that are not <a href="/wiki/Wikipedia:What_is_an_article%3F" title="Wikipedia:What is an article?">articles</a>, or it groups articles by status rather than subject. Do not include this category in content categories.<br />
+This is a <b><a href="/wiki/Category:Hidden_categories" title="Category:Hidden categories">hidden category</a></b>. It is not shown on its member pages, unless the corresponding <a href="/wiki/Special:Preferences#mw-prefsection-rendering" title="Special:Preferences">user preference 'Show hidden categories'</a> is set.<br />
+This is a <b><a href="/wiki/Category:Tracking_categories" title="Category:Tracking categories">tracking category</a></b>. It builds and maintains a list of pages primarily for the sake of the list itself. Pages are added to tracking categories through templates.</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1182
+Cached time: 20170926040813
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.036 seconds
+Real time usage: 0.060 seconds
+Preprocessor visited node count: 147/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 4395/2097152 bytes
+Template argument size: 79/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/500
+Lua time usage: 0.013/10.000 seconds
+Lua memory usage: 860 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   52.404      1 -total
+ 60.00%   31.444      1 Template:Wikipedia_category
+ 52.13%   27.316      1 Template:Cmbox
+ 39.88%   20.897      1 Template:Catmore
+ 33.32%   17.462      1 Template:Hatnote
+  5.18%    2.715      3 Template:Yesno
+  3.93%    2.058      2 Template:Category_other
+  2.76%    1.448      1 Template:Single_namespace
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:54676658-0!canonical and timestamp 20170926040813 and revision id 792767455
+ -->
+<div class="mw-category-generated" lang="en" dir="ltr"><div id="mw-pages">
+<h2><span id="Pages_in_category"></span>Pages in category "Wikipedia articles with ACM-DL identifiers"</h2>
+<p>The following 200 pages are in this category, out of approximately 516 total. This list may not reflect recent changes (<a href="/wiki/Wikipedia:FAQ/Categorization#Why_might_a_category_list_not_be_up_to_date.3F" title="Wikipedia:FAQ/Categorization">learn more</a>).
+</p>(previous page) (<a href="/w/index.php?title=Category:Wikipedia_articles_with_ACM-DL_identifiers&amp;pagefrom=Hennessy%2C+Matthew%0AMatthew+Hennessy#mw-pages" title="Category:Wikipedia articles with ACM-DL identifiers">next page</a>)<div lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-category"><div class="mw-category-group"><h3>A</h3>
+<ul><li><a href="/wiki/Wil_van_der_Aalst" title="Wil van der Aalst">Wil van der Aalst</a></li>
+<li><a href="/wiki/Gon%C3%A7alo_Abecasis" title="Gonçalo Abecasis">Gonçalo Abecasis</a></li>
+<li><a href="/wiki/Serge_Abiteboul" title="Serge Abiteboul">Serge Abiteboul</a></li>
+<li><a href="/wiki/Gregory_Abowd" title="Gregory Abowd">Gregory Abowd</a></li>
+<li><a href="/wiki/Samson_Abramsky" title="Samson Abramsky">Samson Abramsky</a></li>
+<li><a href="/wiki/Leonard_Adleman" title="Leonard Adleman">Leonard Adleman</a></li>
+<li><a href="/wiki/Gul_Agha_(computer_scientist)" title="Gul Agha (computer scientist)">Gul Agha (computer scientist)</a></li>
+<li><a href="/wiki/Manindra_Agrawal" title="Manindra Agrawal">Manindra Agrawal</a></li>
+<li><a href="/wiki/Luis_von_Ahn" title="Luis von Ahn">Luis von Ahn</a></li>
+<li><a href="/wiki/Alfred_Aho" title="Alfred Aho">Alfred Aho</a></li>
+<li><a href="/wiki/Howard_H._Aiken" title="Howard H. Aiken">Howard H. Aiken</a></li>
+<li><a href="/wiki/James_S._Albus" title="James S. Albus">James S. Albus</a></li>
+<li><a href="/wiki/Manuel_Alfonseca" title="Manuel Alfonseca">Manuel Alfonseca</a></li>
+<li><a href="/wiki/Frances_E._Allen" title="Frances E. Allen">Frances E. Allen</a></li>
+<li><a href="/wiki/Roy_Amara" title="Roy Amara">Roy Amara</a></li>
+<li><a href="/wiki/Gene_Amdahl" title="Gene Amdahl">Gene Amdahl</a></li>
+<li><a href="/wiki/Ross_J._Anderson" title="Ross J. Anderson">Ross J. Anderson</a></li>
+<li><a href="/wiki/Rolf_Apweiler" title="Rolf Apweiler">Rolf Apweiler</a></li>
+<li><a href="/wiki/Hamid_Arabnia" title="Hamid Arabnia">Hamid Arabnia</a></li>
+<li><a href="/wiki/Cecilia_R._Aragon" title="Cecilia R. Aragon">Cecilia R. Aragon</a></li>
+<li><a href="/wiki/Sanjeev_Arora" title="Sanjeev Arora">Sanjeev Arora</a></li>
+<li><a href="/wiki/Larry_Augustin" title="Larry Augustin">Larry Augustin</a></li>
+<li><a href="/wiki/Ruth_Aylett" title="Ruth Aylett">Ruth Aylett</a></li></ul></div><div class="mw-category-group"><h3>B</h3>
+<ul><li><a href="/wiki/Franz_Baader" title="Franz Baader">Franz Baader</a></li>
+<li><a href="/wiki/Ralph-Johan_Back" title="Ralph-Johan Back">Ralph-Johan Back</a></li>
+<li><a href="/wiki/Roland_Carl_Backhouse" title="Roland Carl Backhouse">Roland Carl Backhouse</a></li>
+<li><a href="/wiki/John_Backus" title="John Backus">John Backus</a></li>
+<li><a href="/wiki/Ricardo_Baeza-Yates" title="Ricardo Baeza-Yates">Ricardo Baeza-Yates</a></li>
+<li><a href="/wiki/Ziv_Bar-Joseph" title="Ziv Bar-Joseph">Ziv Bar-Joseph</a></li>
+<li><a href="/wiki/Victor_Basili" title="Victor Basili">Victor Basili</a></li>
+<li><a href="/wiki/Len_Bass" title="Len Bass">Len Bass</a></li>
+<li><a href="/wiki/Cynthia_Beath" title="Cynthia Beath">Cynthia Beath</a></li>
+<li><a href="/wiki/Kent_Beck" title="Kent Beck">Kent Beck</a></li>
+<li><a href="/wiki/Gordon_Bell" title="Gordon Bell">Gordon Bell</a></li>
+<li><a href="/wiki/Steven_M._Bellovin" title="Steven M. Bellovin">Steven M. Bellovin</a></li>
+<li><a href="/wiki/Jacques_F._Benders" title="Jacques F. Benders">Jacques F. Benders</a></li>
+<li><a href="/wiki/Rudolf_Berghammer" title="Rudolf Berghammer">Rudolf Berghammer</a></li>
+<li><a href="/wiki/Tim_Berners-Lee" title="Tim Berners-Lee">Tim Berners-Lee</a></li>
+<li><a href="/wiki/Peter_Bernus" title="Peter Bernus">Peter Bernus</a></li>
+<li><a href="/wiki/Norman_L._Biggs" title="Norman L. Biggs">Norman L. Biggs</a></li>
+<li><a href="/wiki/Susan_Elizabeth_Black" title="Susan Elizabeth Black">Susan Elizabeth Black</a></li>
+<li><a href="/wiki/Barry_Boehm" title="Barry Boehm">Barry Boehm</a></li>
+<li><a href="/wiki/Miko%C5%82aj_Boja%C5%84czyk" title="Mikołaj Bojańczyk">Mikołaj Bojańczyk</a></li>
+<li><a href="/wiki/B%C3%A9la_Bollob%C3%A1s" title="Béla Bollobás">Béla Bollobás</a></li>
+<li><a href="/wiki/Dan_Boneh" title="Dan Boneh">Dan Boneh</a></li>
+<li><a href="/wiki/Grady_Booch" title="Grady Booch">Grady Booch</a></li>
+<li><a href="/wiki/Andrew_Donald_Booth" title="Andrew Donald Booth">Andrew Donald Booth</a></li>
+<li><a href="/wiki/Kathleen_Booth" title="Kathleen Booth">Kathleen Booth</a></li>
+<li><a href="/wiki/Anita_Borg" title="Anita Borg">Anita Borg</a></li>
+<li><a href="/wiki/Christine_L._Borgman" title="Christine L. Borgman">Christine L. Borgman</a></li>
+<li><a href="/wiki/Allan_Borodin" title="Allan Borodin">Allan Borodin</a></li>
+<li><a href="/wiki/Endre_Boros" title="Endre Boros">Endre Boros</a></li>
+<li><a href="/wiki/Keith_Bostic" title="Keith Bostic">Keith Bostic</a></li>
+<li><a href="/wiki/Stephen_R._Bourne" title="Stephen R. Bourne">Stephen R. Bourne</a></li>
+<li><a href="/wiki/Jonathan_Bowen" title="Jonathan Bowen">Jonathan Bowen</a></li>
+<li><a href="/wiki/Danah_boyd" title="Danah boyd">Danah boyd</a></li>
+<li><a href="/wiki/Andreas_Brandst%C3%A4dt" title="Andreas Brandstädt">Andreas Brandstädt</a></li>
+<li><a href="/wiki/Andy_Brass" title="Andy Brass">Andy Brass</a></li>
+<li><a href="/wiki/Leo_Brecht" title="Leo Brecht">Leo Brecht</a></li>
+<li><a href="/wiki/Walter_Brenner_(computer_scientist)" title="Walter Brenner (computer scientist)">Walter Brenner (computer scientist)</a></li>
+<li><a href="/wiki/Stephen_Brewster" title="Stephen Brewster">Stephen Brewster</a></li>
+<li><a href="/wiki/Sergey_Brin" title="Sergey Brin">Sergey Brin</a></li>
+<li><a href="/wiki/Fred_Brooks" title="Fred Brooks">Fred Brooks</a></li>
+<li><a href="/wiki/Manfred_Broy" title="Manfred Broy">Manfred Broy</a></li>
+<li><a href="/wiki/Bernd_Bruegge" title="Bernd Bruegge">Bernd Bruegge</a></li>
+<li><a href="/wiki/Janis_Bubenko" title="Janis Bubenko">Janis Bubenko</a></li>
+<li><a href="/wiki/Alan_Bundy" title="Alan Bundy">Alan Bundy</a></li>
+<li><a href="/wiki/Peter_Buneman" title="Peter Buneman">Peter Buneman</a></li>
+<li><a href="/wiki/Wolfram_Burgard" title="Wolfram Burgard">Wolfram Burgard</a></li>
+<li><a href="/wiki/Michael_Burrows" title="Michael Burrows">Michael Burrows</a></li>
+<li><a href="/wiki/Rod_Burstall" title="Rod Burstall">Rod Burstall</a></li>
+<li><a href="/wiki/Vannevar_Bush" title="Vannevar Bush">Vannevar Bush</a></li>
+<li><a href="/wiki/Michael_Butler_(computer_scientist)" title="Michael Butler (computer scientist)">Michael Butler (computer scientist)</a></li></ul></div><div class="mw-category-group"><h3>C</h3>
+<ul><li><a href="/wiki/John_Canny" title="John Canny">John Canny</a></li>
+<li><a href="/wiki/Jaime_Carbonell" title="Jaime Carbonell">Jaime Carbonell</a></li>
+<li><a href="/wiki/Edwin_Catmull" title="Edwin Catmull">Edwin Catmull</a></li>
+<li><a href="/wiki/Vint_Cerf" title="Vint Cerf">Vint Cerf</a></li>
+<li><a href="/wiki/Donald_D._Chamberlin" title="Donald D. Chamberlin">Donald D. Chamberlin</a></li>
+<li><a href="/wiki/K._Mani_Chandy" title="K. Mani Chandy">K. Mani Chandy</a></li>
+<li><a href="/wiki/Imrich_Chlamtac" title="Imrich Chlamtac">Imrich Chlamtac</a></li>
+<li><a href="/wiki/Cyrus_Chothia" title="Cyrus Chothia">Cyrus Chothia</a></li>
+<li><a href="/wiki/Maria_Chudnovsky" title="Maria Chudnovsky">Maria Chudnovsky</a></li>
+<li><a href="/wiki/Alonzo_Church" title="Alonzo Church">Alonzo Church</a></li>
+<li><a href="/wiki/V%C3%A1clav_Chv%C3%A1tal" title="Václav Chvátal">Václav Chvátal</a></li>
+<li><a href="/wiki/James_H._Clark" title="James H. Clark">James H. Clark</a></li>
+<li><a href="/wiki/Keith_Clark" title="Keith Clark">Keith Clark</a></li>
+<li><a href="/wiki/Edmund_M._Clarke" title="Edmund M. Clarke">Edmund M. Clarke</a></li>
+<li><a href="/wiki/John_Cocke" title="John Cocke">John Cocke</a></li>
+<li><a href="/wiki/Edgar_F._Codd" title="Edgar F. Codd">Edgar F. Codd</a></li>
+<li><a href="/wiki/Thomas_Colcombet" title="Thomas Colcombet">Thomas Colcombet</a></li>
+<li><a href="/wiki/John_Horton_Conway" title="John Horton Conway">John Horton Conway</a></li>
+<li><a href="/wiki/Stephen_Cook" title="Stephen Cook">Stephen Cook</a></li>
+<li><a href="/wiki/Thierry_Coquand" title="Thierry Coquand">Thierry Coquand</a></li>
+<li><a href="/wiki/Fernando_J._Corbat%C3%B3" title="Fernando J. Corbató">Fernando J. Corbató</a></li>
+<li><a href="/wiki/Patrick_Cousot" title="Patrick Cousot">Patrick Cousot</a></li>
+<li><a href="/wiki/Radhia_Cousot" title="Radhia Cousot">Radhia Cousot</a></li>
+<li><a href="/wiki/Ronald_Cramer" title="Ronald Cramer">Ronald Cramer</a></li>
+<li><a href="/wiki/Cas_Cremers" title="Cas Cremers">Cas Cremers</a></li>
+<li><a href="/wiki/Maxime_Crochemore" title="Maxime Crochemore">Maxime Crochemore</a></li>
+<li><a href="/wiki/Steve_Crocker" title="Steve Crocker">Steve Crocker</a></li>
+<li><a href="/wiki/Jon_Crowcroft" title="Jon Crowcroft">Jon Crowcroft</a></li>
+<li><a href="/wiki/Ward_Cunningham" title="Ward Cunningham">Ward Cunningham</a></li></ul></div><div class="mw-category-group"><h3>D</h3>
+<ul><li><a href="/wiki/Ole-Johan_Dahl" title="Ole-Johan Dahl">Ole-Johan Dahl</a></li>
+<li><a href="/wiki/Martin_Davis" title="Martin Davis">Martin Davis</a></li>
+<li><a href="/wiki/Philip_J._Davis" title="Philip J. Davis">Philip J. Davis</a></li>
+<li><a href="/wiki/John_Day_(computer_scientist)" title="John Day (computer scientist)">John Day (computer scientist)</a></li>
+<li><a href="/wiki/Tom_DeMarco" title="Tom DeMarco">Tom DeMarco</a></li>
+<li><a href="/wiki/Peter_J._Denning" title="Peter J. Denning">Peter J. Denning</a></li>
+<li><a href="/wiki/Jack_Dennis" title="Jack Dennis">Jack Dennis</a></li>
+<li><a href="/wiki/Gerardine_DeSanctis" title="Gerardine DeSanctis">Gerardine DeSanctis</a></li>
+<li><a href="/wiki/Anind_Dey" title="Anind Dey">Anind Dey</a></li>
+<li><a href="/wiki/Jan_Dietz" title="Jan Dietz">Jan Dietz</a></li>
+<li><a href="/wiki/Whitfield_Diffie" title="Whitfield Diffie">Whitfield Diffie</a></li>
+<li><a href="/wiki/Edsger_W._Dijkstra" title="Edsger W. Dijkstra">Edsger W. Dijkstra</a></li>
+<li><a href="/wiki/Irit_Dinur" title="Irit Dinur">Irit Dinur</a></li>
+<li><a href="/wiki/John_Domingue" title="John Domingue">John Domingue</a></li>
+<li><a href="/wiki/Jack_Dongarra" title="Jack Dongarra">Jack Dongarra</a></li>
+<li><a href="/wiki/Guy_Doumeingts" title="Guy Doumeingts">Guy Doumeingts</a></li>
+<li><a href="/wiki/Richard_M._Durbin" title="Richard M. Durbin">Richard M. Durbin</a></li>
+<li><a href="/wiki/Erik_Duval" title="Erik Duval">Erik Duval</a></li></ul></div><div class="mw-category-group"><h3>E</h3>
+<ul><li><a href="/wiki/Michael_Earl_(academic)" title="Michael Earl (academic)">Michael Earl (academic)</a></li>
+<li><a href="/wiki/J._Presper_Eckert" title="J. Presper Eckert">J. Presper Eckert</a></li>
+<li><a href="/wiki/Abbas_Edalat" title="Abbas Edalat">Abbas Edalat</a></li>
+<li><a href="/wiki/Andrzej_Ehrenfeucht" title="Andrzej Ehrenfeucht">Andrzej Ehrenfeucht</a></li>
+<li><a href="/wiki/Brendan_Eich" title="Brendan Eich">Brendan Eich</a></li>
+<li><a href="/wiki/Peter_Elias" title="Peter Elias">Peter Elias</a></li>
+<li><a href="/wiki/E._Allen_Emerson" title="E. Allen Emerson">E. Allen Emerson</a></li>
+<li><a href="/wiki/Stephen_Emmott" title="Stephen Emmott">Stephen Emmott</a></li>
+<li><a href="/wiki/Douglas_Engelbart" title="Douglas Engelbart">Douglas Engelbart</a></li>
+<li><a href="/wiki/Martin_J._Eppler" title="Martin J. Eppler">Martin J. Eppler</a></li>
+<li><a href="/wiki/Andrey_Ershov" title="Andrey Ershov">Andrey Ershov</a></li>
+<li><a href="/wiki/Deborah_Estrin" title="Deborah Estrin">Deborah Estrin</a></li>
+<li><a href="/wiki/Gerald_Estrin" title="Gerald Estrin">Gerald Estrin</a></li>
+<li><a href="/wiki/David_C._Evans" title="David C. Evans">David C. Evans</a></li></ul></div><div class="mw-category-group"><h3>F</h3>
+<ul><li><a href="/wiki/Ronald_Fagin" title="Ronald Fagin">Ronald Fagin</a></li>
+<li><a href="/wiki/Eckhard_D._Falkenberg" title="Eckhard D. Falkenberg">Eckhard D. Falkenberg</a></li>
+<li><a href="/wiki/Adin_Falkoff" title="Adin Falkoff">Adin Falkoff</a></li>
+<li><a href="/wiki/Wenfei_Fan" title="Wenfei Fan">Wenfei Fan</a></li>
+<li><a href="/wiki/Edward_Feigenbaum" title="Edward Feigenbaum">Edward Feigenbaum</a></li>
+<li><a href="/wiki/Steven_K._Feiner" title="Steven K. Feiner">Steven K. Feiner</a></li>
+<li><a href="/wiki/Mary_Fern%C3%A1ndez" title="Mary Fernández">Mary Fernández</a></li>
+<li><a href="/wiki/Tim_Finin" title="Tim Finin">Tim Finin</a></li>
+<li><a href="/wiki/Anthony_Finkelstein" title="Anthony Finkelstein">Anthony Finkelstein</a></li>
+<li><a href="/wiki/Kathleen_Fisher" title="Kathleen Fisher">Kathleen Fisher</a></li>
+<li><a href="/wiki/Philippe_Flajolet" title="Philippe Flajolet">Philippe Flajolet</a></li>
+<li><a href="/wiki/Elgar_Fleisch" title="Elgar Fleisch">Elgar Fleisch</a></li>
+<li><a href="/wiki/Christiane_Floyd" title="Christiane Floyd">Christiane Floyd</a></li>
+<li><a href="/wiki/Robert_W._Floyd" title="Robert W. Floyd">Robert W. Floyd</a></li>
+<li><a href="/wiki/Heather_Ford" title="Heather Ford">Heather Ford</a></li>
+<li><a href="/wiki/George_Forsythe" title="George Forsythe">George Forsythe</a></li>
+<li><a href="/wiki/Ian_Foster" title="Ian Foster">Ian Foster</a></li>
+<li><a href="/wiki/Farshad_Fotouhi" title="Farshad Fotouhi">Farshad Fotouhi</a></li>
+<li><a href="/wiki/Martin_Fowler" title="Martin Fowler">Martin Fowler</a></li>
+<li><a href="/wiki/Mark_S._Fox" title="Mark S. Fox">Mark S. Fox</a></li>
+<li><a href="/wiki/Henry_Franken" title="Henry Franken">Henry Franken</a></li></ul></div><div class="mw-category-group"><h3>G</h3>
+<ul><li><a href="/wiki/H%C3%A9ctor_Garc%C3%ADa-Molina" title="Héctor García-Molina">Héctor García-Molina</a></li>
+<li><a href="/wiki/Hugo_de_Garis" title="Hugo de Garis">Hugo de Garis</a></li>
+<li><a href="/wiki/Pat_Gelsinger" title="Pat Gelsinger">Pat Gelsinger</a></li>
+<li><a href="/wiki/Mark_Bender_Gerstein" title="Mark Bender Gerstein">Mark Bender Gerstein</a></li>
+<li><a href="/wiki/Lise_Getoor" title="Lise Getoor">Lise Getoor</a></li>
+<li><a href="/wiki/Carlo_Ghezzi" title="Carlo Ghezzi">Carlo Ghezzi</a></li>
+<li><a href="/wiki/Lee_Giles" title="Lee Giles">Lee Giles</a></li>
+<li><a href="/wiki/Seymour_Ginsburg" title="Seymour Ginsburg">Seymour Ginsburg</a></li>
+<li><a href="/wiki/Carole_Goble" title="Carole Goble">Carole Goble</a></li>
+<li><a href="/wiki/Michel_Goemans" title="Michel Goemans">Michel Goemans</a></li>
+<li><a href="/wiki/Oded_Goldreich" title="Oded Goldreich">Oded Goldreich</a></li>
+<li><a href="/wiki/Herman_Goldstine" title="Herman Goldstine">Herman Goldstine</a></li>
+<li><a href="/wiki/Shafi_Goldwasser" title="Shafi Goldwasser">Shafi Goldwasser</a></li>
+<li><a href="/wiki/Solomon_W._Golomb" title="Solomon W. Golomb">Solomon W. Golomb</a></li>
+<li><a href="/wiki/Dale_L._Goodhue" title="Dale L. Goodhue">Dale L. Goodhue</a></li>
+<li><a href="/wiki/Georg_Gottlob" title="Georg Gottlob">Georg Gottlob</a></li>
+<li><a href="/wiki/Susan_L._Graham" title="Susan L. Graham">Susan L. Graham</a></li>
+<li><a href="/wiki/Jim_Gray_(computer_scientist)" title="Jim Gray (computer scientist)">Jim Gray (computer scientist)</a></li>
+<li><a href="/wiki/Thomas_R.G._Green" title="Thomas R.G. Green">Thomas R.G. Green</a></li>
+<li><a href="/wiki/Sheila_Greibach" title="Sheila Greibach">Sheila Greibach</a></li>
+<li><a href="/wiki/David_Gries" title="David Gries">David Gries</a></li>
+<li><a href="/wiki/Martin_Gr%C3%B6tschel" title="Martin Grötschel">Martin Grötschel</a></li>
+<li><a href="/wiki/Michael_Gruninger" title="Michael Gruninger">Michael Gruninger</a></li>
+<li><a href="/wiki/Ramanathan_V._Guha" title="Ramanathan V. Guha">Ramanathan V. Guha</a></li>
+<li><a href="/wiki/Leonidas_J._Guibas" title="Leonidas J. Guibas">Leonidas J. Guibas</a></li>
+<li><a href="/wiki/Erik_Guldentops" title="Erik Guldentops">Erik Guldentops</a></li>
+<li><a href="/wiki/Venkatesan_Guruswami" title="Venkatesan Guruswami">Venkatesan Guruswami</a></li>
+<li><a href="/wiki/Richard_K._Guy" title="Richard K. Guy">Richard K. Guy</a></li>
+<li><a href="/wiki/Mark_Guzdial" title="Mark Guzdial">Mark Guzdial</a></li></ul></div><div class="mw-category-group"><h3>H</h3>
+<ul><li><a href="/wiki/Aaron_Halfaker" title="Aaron Halfaker">Aaron Halfaker</a></li>
+<li><a href="/wiki/Wendy_Hall" title="Wendy Hall">Wendy Hall</a></li>
+<li><a href="/wiki/Joseph_Halpern" title="Joseph Halpern">Joseph Halpern</a></li>
+<li><a href="/wiki/Richard_Hamming" title="Richard Hamming">Richard Hamming</a></li>
+<li><a href="/wiki/Jiawei_Han" title="Jiawei Han">Jiawei Han</a></li>
+<li><a href="/wiki/Edwin_Hancock" title="Edwin Hancock">Edwin Hancock</a></li>
+<li><a href="/wiki/David_Harel" title="David Harel">David Harel</a></li>
+<li><a href="/wiki/Frank_van_Harmelen" title="Frank van Harmelen">Frank van Harmelen</a></li>
+<li><a href="/wiki/Juris_Hartmanis" title="Juris Hartmanis">Juris Hartmanis</a></li>
+<li><a href="/wiki/Johan_H%C3%A5stad" title="Johan Håstad">Johan Håstad</a></li>
+<li><a href="/wiki/Igor_Hawryszkiewycz" title="Igor Hawryszkiewycz">Igor Hawryszkiewycz</a></li>
+<li><a href="/wiki/Kiralee_Hayashi" title="Kiralee Hayashi">Kiralee Hayashi</a></li>
+<li><a href="/wiki/John_P._Hayes" title="John P. Hayes">John P. Hayes</a></li>
+<li><a href="/wiki/Martin_Hellman" title="Martin Hellman">Martin Hellman</a></li>
+<li><a href="/wiki/James_Hendler" title="James Hendler">James Hendler</a></li>
+<li><a href="/wiki/Michael_Hennell" title="Michael Hennell">Michael Hennell</a></li></ul></div></div></div>(previous page) (<a href="/w/index.php?title=Category:Wikipedia_articles_with_ACM-DL_identifiers&amp;pagefrom=Hennessy%2C+Matthew%0AMatthew+Hennessy#mw-pages" title="Category:Wikipedia articles with ACM-DL identifiers">next page</a>)
+</div></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Category:Wikipedia_articles_with_ACM-DL_identifiers&amp;oldid=792767455">https://en.wikipedia.org/w/index.php?title=Category:Wikipedia_articles_with_ACM-DL_identifiers&amp;oldid=792767455</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Tracking_categories" title="Category:Tracking categories">Tracking categories</a></li><li><a href="/wiki/Category:Pages_with_ACM-DL_identifiers" title="Category:Pages with ACM-DL identifiers">Pages with ACM-DL identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_authority_control_information" title="Category:Wikipedia articles with authority control information">Wikipedia articles with authority control information</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-ns-shown">Hidden categories: <ul><li><a href="/wiki/Category:Hidden_categories" title="Category:Hidden categories">Hidden categories</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Category%3AWikipedia+articles+with+ACM-DL+identifiers" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Category%3AWikipedia+articles+with+ACM-DL+identifiers" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-category" class="selected"><span><a href="/wiki/Category:Wikipedia_articles_with_ACM-DL_identifiers" title="View the category page [c]" accesskey="c">Category</a></span></li>
+							<li id="ca-talk" class="new"><span><a href="/w/index.php?title=Category_talk:Wikipedia_articles_with_ACM-DL_identifiers&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Category:Wikipedia_articles_with_ACM-DL_identifiers">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Category:Wikipedia_articles_with_ACM-DL_identifiers&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Category:Wikipedia_articles_with_ACM-DL_identifiers&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Category:Wikipedia_articles_with_ACM-DL_identifiers" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Category:Wikipedia_articles_with_ACM-DL_identifiers" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Category:Wikipedia_articles_with_ACM-DL_identifiers&amp;oldid=792767455" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Category:Wikipedia_articles_with_ACM-DL_identifiers&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q37411670" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Category%3AWikipedia+articles+with+ACM-DL+identifiers">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Category%3AWikipedia+articles+with+ACM-DL+identifiers&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DCategory%253AWikipedia%2Barticles%2Bwith%2BACM-DL%2Bidentifiers%26returnto%3DCategory%253AWikipedia%2Barticles%2Bwith%2BACM-DL%2Bidentifiers%26oldid%3D792767455%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Category:Wikipedia_articles_with_ACM-DL_identifiers&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Category:ACM-DL%E8%AD%98%E5%88%A5%E5%AD%90%E3%81%8C%E6%8C%87%E5%AE%9A%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E8%A8%98%E4%BA%8B" title="Category:ACM-DL識別子が指定されている記事 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q37411670#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 28 July 2017, at 15:02.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Category:Wikipedia_articles_with_ACM-DL_identifiers&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.036","walltime":"0.060","ppvisitednodes":{"value":147,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":4395,"limit":2097152},"templateargumentsize":{"value":79,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   52.404      1 -total"," 60.00%   31.444      1 Template:Wikipedia_category"," 52.13%   27.316      1 Template:Cmbox"," 39.88%   20.897      1 Template:Catmore"," 33.32%   17.462      1 Template:Hatnote","  5.18%    2.715      3 Template:Yesno","  3.93%    2.058      2 Template:Category_other","  2.76%    1.448      1 Template:Single_namespace"]},"scribunto":{"limitreport-timeusage":{"value":"0.013","limit":"10.000"},"limitreport-memusage":{"value":880625,"limit":52428800}},"cachereport":{"origin":"mw1182","timestamp":"20170926040813","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":103,"wgHostname":"mw1188"});});</script>
+	</body>
+</html>

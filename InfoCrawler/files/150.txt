@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Parish - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Parish","wgTitle":"Parish","wgCurRevisionId":787627955,"wgRevisionId":787627955,"wgArticleId":23623,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Pages using citations with accessdate and no URL","Articles containing Latin-language text","Articles containing Ancient Greek-language text","Articles containing Greek-language text","Wikipedia articles with GND identifiers","Church parishes","Christian terminology","Canonical structures","Anglican organizations","Types of Eastern Orthodox organisation"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Parish","wgRelevantArticleId":23623,"wgRequestId":"WchyGApAADkAAIIfI6UAAAAT","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Ecclesiastic_parish","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Parish","wgWikibaseItemId":"Q102496","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/BerndorfEnsembleMargaretenplatz.jpg/1200px-BerndorfEnsembleMargaretenplatz.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Parish"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Parish&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Parish&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Parish"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Parish rootpage-Parish skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Parish</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Ecclesiastic_parish&amp;redirect=no" class="mw-redirect" title="Ecclesiastic parish">Ecclesiastic parish</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about ecclesiastical administration. For the administrative or civil parish, see <a href="/wiki/Parish_(administrative_division)" title="Parish (administrative division)">Parish (administrative division)</a>. For other uses, see <a href="/wiki/Parish_(disambiguation)" class="mw-disambig" title="Parish (disambiguation)">Parish (disambiguation)</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:BerndorfEnsembleMargaretenplatz.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/BerndorfEnsembleMargaretenplatz.jpg/300px-BerndorfEnsembleMargaretenplatz.jpg" width="300" height="197" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/BerndorfEnsembleMargaretenplatz.jpg/450px-BerndorfEnsembleMargaretenplatz.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1f/BerndorfEnsembleMargaretenplatz.jpg/600px-BerndorfEnsembleMargaretenplatz.jpg 2x" data-file-width="2937" data-file-height="1932" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:BerndorfEnsembleMargaretenplatz.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/w/index.php?title=St_Margarete_Parish_Church&amp;action=edit&amp;redlink=1" class="new" title="St Margarete Parish Church (page does not exist)">St Margarete Parish Church</a> in <a href="/wiki/Berndorf,_Lower_Austria" title="Berndorf, Lower Austria">Berndorf</a>, <a href="/wiki/Austria" title="Austria">Austria</a>; parish churches have been at the heart of local <a href="/wiki/Catholic" class="mw-redirect" title="Catholic">Catholic</a> communities for centuries.</div>
+</div>
+</div>
+<p>A <b>parish</b> is a church territorial unit constituting a division within a <a href="/wiki/Diocese" title="Diocese">diocese</a>. A parish is under the pastoral care and clerical jurisdiction of a <a href="/wiki/Clergy#Christianity" title="Clergy">parish priest</a>, who might be assisted by one or more <a href="/wiki/Curates" class="mw-redirect" title="Curates">curates</a>, and who operates from a <a href="/wiki/Parish_church" title="Parish church">parish church</a>. Historically, a parish often covered the same geographical area as a <a href="/wiki/Manor" title="Manor">manor</a> (its association with the parish church remaining paramount).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<p>By extension the term <i>parish</i> refers not only to the territorial unit but to the people of its community or congregation as well as to church property within it. In England this church property was technically in ownership of the parish priest <i>ex-officio</i>, vested in him on his institution to that parish.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Etymology_and_use"><span class="tocnumber">1</span> <span class="toctext">Etymology and use</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Church_territorial_structure"><span class="tocnumber">2</span> <span class="toctext">Church territorial structure</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Roman_Catholic_Church"><span class="tocnumber">3</span> <span class="toctext">Roman Catholic Church</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Church_of_England"><span class="tocnumber">4</span> <span class="toctext">Church of England</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Church_of_Scotland"><span class="tocnumber">5</span> <span class="toctext">Church of Scotland</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Methodist_Church"><span class="tocnumber">6</span> <span class="toctext">Methodist Church</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Further_reading"><span class="tocnumber">9</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Etymology_and_use">Etymology and use</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parish&amp;action=edit&amp;section=1" title="Edit section: Etymology and use">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>First attested in English in the late 13th&#160;century, the word <i>parish</i> comes from the <a href="/wiki/Old_French" title="Old French">Old French</a> <i>paroisse</i>, in turn from <a href="/wiki/Latin_language" class="mw-redirect" title="Latin language">Latin</a>: <span lang="la" xml:lang="la"><i>paroecia</i></span>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> the <a href="/wiki/Latinisation_(literature)" class="mw-redirect" title="Latinisation (literature)">latinisation</a> of the <a href="/wiki/Ancient_Greek" title="Ancient Greek">Ancient&#160;Greek</a>: <span lang="grc" xml:lang="grc">παροικία</span>&#160;<span title="Ancient Greek transliteration" class="Unicode" style="white-space:normal; text-decoration: none"><i>paroikia</i></span>, "sojourning in a foreign land",<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> itself from <span lang="el" xml:lang="el">πάροικος</span> (<i>paroikos</i>), "dwelling beside, stranger, sojourner",<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> which is a compound of <span lang="el" xml:lang="el">παρά</span> (<i>pará</i>), "beside, by, near"<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> and οἶκος (<i>oîkos</i>), "house".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<p>As an ancient concept, the term "parish" occurs in the long-established Christian denominations: <a href="/wiki/Catholic_Church" title="Catholic Church">Roman Catholic</a>, <a href="/wiki/Anglican_Communion" title="Anglican Communion">Anglican Communion</a>, the <a href="/wiki/Eastern_Orthodox_Church" title="Eastern Orthodox Church">Eastern Orthodox Church</a>, and <a href="/wiki/Lutheranism" title="Lutheranism">Lutheran</a> churches, and in some <a href="/wiki/Methodist" class="mw-redirect" title="Methodist">Methodist</a> and <a href="/wiki/Presbyterianism" title="Presbyterianism">Presbyterian</a> administrations.</p>
+<p>The eighth Archbishop of Canterbury <a href="/wiki/Theodore_of_Tarsus" title="Theodore of Tarsus">Theodore of Tarsus</a> (c. 602–690) appended the parish structure to the <a href="/wiki/Anglo-Saxons#Culture" title="Anglo-Saxons">Anglo-Saxon township</a> unit, where it existed, and where <a href="/wiki/Minster_(church)" title="Minster (church)">minsters</a> catered to the surrounding district.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<h2><span class="mw-headline" id="Church_territorial_structure">Church territorial structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parish&amp;action=edit&amp;section=2" title="Edit section: Church territorial structure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Broadly speaking, the parish is the standard unit in <a href="/wiki/Episcopal_polity" title="Episcopal polity">episcopal polity</a> of church administration, although parts of a parish may be subdivided as a <i><a href="/wiki/Chapelry" title="Chapelry">chapelry</a></i>, with a <a href="/wiki/Chapel_of_ease" title="Chapel of ease">chapel of ease</a> or <a href="/wiki/Filial_church" title="Filial church">filial church</a> serving as the local place of worship in cases of difficulty to access the main parish church.</p>
+<p>In the wider picture of ecclesiastical polity, a <i>parish</i> comprises a division of a <a href="/wiki/Diocese" title="Diocese">diocese or see</a>. Parishes within a diocese may be grouped into a <a href="/wiki/Deanery" title="Deanery">deanery</a> or <i><a href="/wiki/Vicar#Roman_Catholic" title="Vicar">vicariate forane</a></i> (or simply <i>vicariate</i>), overseen by a <a href="/wiki/Dean_(Christianity)" title="Dean (Christianity)">dean</a> or <i>vicar forane</i>, or in some cases by an <a href="/wiki/Archpriest" title="Archpriest">archpriest</a>. Some churches of the <a href="/wiki/Anglican_Communion" title="Anglican Communion">Anglican Communion</a> have deaneries as units of an <a href="/wiki/Archdeaconry" class="mw-redirect" title="Archdeaconry">archdeaconry</a>.</p>
+<h2><span class="mw-headline" id="Roman_Catholic_Church">Roman Catholic Church</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parish&amp;action=edit&amp;section=3" title="Edit section: Roman Catholic Church">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Wr%C3%B3blik_Szlachecki,_kostel.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wr%C3%B3blik_Szlachecki%2C_kostel.jpg/220px-Wr%C3%B3blik_Szlachecki%2C_kostel.jpg" width="220" height="200" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wr%C3%B3blik_Szlachecki%2C_kostel.jpg/330px-Wr%C3%B3blik_Szlachecki%2C_kostel.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wr%C3%B3blik_Szlachecki%2C_kostel.jpg/440px-Wr%C3%B3blik_Szlachecki%2C_kostel.jpg 2x" data-file-width="5232" data-file-height="4760" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Wr%C3%B3blik_Szlachecki,_kostel.jpg" class="internal" title="Enlarge"></a></div>
+A small Roman Catholic parish church in <a href="/wiki/Wr%C3%B3blik_Szlachecki" title="Wróblik Szlachecki">Wróblik</a>, <a href="/wiki/Poland" title="Poland">Poland</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Opatow_church_20070430_0936.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Opatow_church_20070430_0936.jpg/220px-Opatow_church_20070430_0936.jpg" width="220" height="179" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Opatow_church_20070430_0936.jpg/330px-Opatow_church_20070430_0936.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Opatow_church_20070430_0936.jpg/440px-Opatow_church_20070430_0936.jpg 2x" data-file-width="2242" data-file-height="1828" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Opatow_church_20070430_0936.jpg" class="internal" title="Enlarge"></a></div>
+St Martin's collegiate parish church in <a href="/wiki/Opat%C3%B3w" title="Opatów">Opatów</a>, <a href="/wiki/Poland" title="Poland">Poland</a></div>
+</div>
+</div>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Parish_(Catholic_Church)" class="mw-redirect" title="Parish (Catholic Church)">Parish (Catholic Church)</a></div>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Team_of_priests_in_solidum" title="Team of priests in solidum">Team of priests in solidum</a></div>
+<p>In the Roman Catholic Church, each parish normally has its own parish priest (in some countries called <a href="/wiki/Pastor" title="Pastor">pastor</a>), who has responsibility and canonical authority over the parish.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<p>What in most English-speaking countries is termed the "parish priest" is referred to as the "pastor" in the <a href="/wiki/United_States" title="United States">United States</a>, where the term "parish priest" is used of any priest assigned to a parish even in a subordinate capacity. These are called "assistant priests",<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> "parochial vicars",<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> "<a href="/wiki/Curate#Catholic_Church" title="Curate">curates</a>", or, in the United States, "associate pastors" and "assistant pastors".</p>
+<p>Each diocese (administrative region) is divided into parishes, each with their own central church called the <a href="/wiki/Parish_church" title="Parish church">parish church</a>, where religious services take place. Some larger parishes or parishes that have been combined under one pastor may have two or more such churches, or the parish may be responsible for <a href="/wiki/Chapels" class="mw-redirect" title="Chapels">chapels</a> (or <a href="/wiki/Chapels_of_ease" class="mw-redirect" title="Chapels of ease">chapels of ease</a>) located at some distance from the <a href="/wiki/Mother_church" title="Mother church">mother church</a> for the convenience of distant parishioners.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<p>Normally, a parish comprises all Catholics living in its area, but parishes can also be established within a defined geographical region on a personal basis for Catholics of a particular <a href="/wiki/Particular_Church" class="mw-redirect" title="Particular Church">rite</a>, language, nationality or the like.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> An example is that of personal parishes established in accordance with the 7 July 2007 motu proprio <i><a href="/wiki/Summorum_Pontificum" title="Summorum Pontificum">Summorum Pontificum</a></i> for those attached to the older form of the <a href="/wiki/Roman_Rite" title="Roman Rite">Roman Rite</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+<p>Most Catholic parishes are part of <a href="/wiki/Latin_Rite" class="mw-redirect" title="Latin Rite">Latin Rite</a> <a href="/wiki/Diocese" title="Diocese">dioceses</a>, which together cover the whole territory of a country. There can also be overlapping parishes of eparchies of <a href="/wiki/Eastern_Catholic_Churches" title="Eastern Catholic Churches">Eastern Catholic Churches</a>, <a href="/wiki/Personal_ordinariate" title="Personal ordinariate">personal ordinariates</a> or <a href="/wiki/Military_ordinariate" title="Military ordinariate">military ordinariates</a>.</p>
+<h2><span class="mw-headline" id="Church_of_England">Church of England</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parish&amp;action=edit&amp;section=4" title="Edit section: Church of England">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:182px;"><a href="/wiki/File:Hasfield_Parish_Church.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hasfield_Parish_Church.jpg/180px-Hasfield_Parish_Church.jpg" width="180" height="240" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hasfield_Parish_Church.jpg/270px-Hasfield_Parish_Church.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hasfield_Parish_Church.jpg/360px-Hasfield_Parish_Church.jpg 2x" data-file-width="2580" data-file-height="3447" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Hasfield_Parish_Church.jpg" class="internal" title="Enlarge"></a></div>
+Hasfield parish church in England</div>
+</div>
+</div>
+<div role="note" class="hatnote navigation-not-searchable">Main articles: <a href="/wiki/Parish_(Church_of_England)" title="Parish (Church of England)">Parish (Church of England)</a>, <a href="/wiki/Church_of_England#Structure" title="Church of England">Church of England §&#160;Structure</a>, and <a href="/wiki/Church_of_England_parish_church" title="Church of England parish church">Church of England parish church</a></div>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Advowson" title="Advowson">Advowson</a></div>
+<p>The <a href="/wiki/Church_of_England" title="Church of England">Church of England</a> geographical structure uses the local parish church as its basic unit. The parish system survived the <a href="/wiki/Protestant_Reformation" class="mw-redirect" title="Protestant Reformation">Reformation</a> with the Anglican Church's <a href="/wiki/Church_of_England#Secession_from_Rome" title="Church of England">secession from Rome</a> remaining largely untouched, thus it shares its roots with the <a href="/wiki/Catholic_Church" title="Catholic Church">Catholic Church</a>'s system described above. Parishes may extend into different counties or hundreds and historically many parishes comprised extra outlying portions in addition to its principal district, usually being described as 'detached' and intermixed with the lands of other parishes. Church of England parishes nowadays all lie within one of <a href="/wiki/List_of_Church_of_England_dioceses" title="List of Church of England dioceses">44 dioceses</a> divided between the provinces of <a href="/wiki/Province_of_Canterbury" title="Province of Canterbury">Canterbury</a>, 30 and <a href="/wiki/Province_of_York" title="Province of York">York</a>, 14.</p>
+<p>Each parish normally has its own parish priest (either a <a href="/wiki/Vicar" title="Vicar">vicar</a> or <a href="/wiki/Rector_(ecclesiastical)" title="Rector (ecclesiastical)">rector</a>, owing to the vagaries of the feudal <a href="/wiki/Tithe" title="Tithe">tithe</a> system: rectories usually having had greater income) and perhaps supported by one or more <a href="/wiki/Curate" title="Curate">curates</a> or <a href="/wiki/Deacon" title="Deacon">deacons</a> - although as a result of ecclesiastical <a href="/wiki/Benefice#Pluralism_in_England" title="Benefice">pluralism</a> some parish priests might have held more than one parish <a href="/wiki/Advowson" title="Advowson">living</a>, placing a curate in charge of those where they do not reside. Now, however, it is common for a number of neighbouring parishes to be placed under one <a href="/wiki/Benefice" title="Benefice">benefice</a> in the charge of a priest who conducts services by rotation, with additional services being provided by <a href="/wiki/Lay_reader" title="Lay reader">lay readers</a> or other non-ordained members of the church community.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Parish_boundary_markers_in_Hereford.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Parish_boundary_markers_in_Hereford.JPG/220px-Parish_boundary_markers_in_Hereford.JPG" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Parish_boundary_markers_in_Hereford.JPG/330px-Parish_boundary_markers_in_Hereford.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Parish_boundary_markers_in_Hereford.JPG/440px-Parish_boundary_markers_in_Hereford.JPG 2x" data-file-width="4608" data-file-height="3072" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Parish_boundary_markers_in_Hereford.JPG" class="internal" title="Enlarge"></a></div>
+Parish boundary markers for St Peter's and St Owen's in <a href="/wiki/Hereford" title="Hereford">Hereford</a></div>
+</div>
+</div>
+<p>A <a href="/wiki/Chapelry" title="Chapelry">chapelry</a> was a subdivision of an <a href="/wiki/Ecclesiastical_parish" class="mw-redirect" title="Ecclesiastical parish">ecclesiastical parish</a> in <a href="/wiki/England" title="England">England</a>, and parts of <a href="/wiki/Lowland_Scotland" class="mw-redirect" title="Lowland Scotland">Lowland Scotland</a> up to the mid 19th century.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> It had a similar status to a <a href="/wiki/Township_(England)" title="Township (England)">township</a> but was so named as it had a <a href="/wiki/Chapel_of_ease" title="Chapel of ease">chapel</a> which acted as a subsidiary place of worship to the main parish church.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p>
+<p>In England <a href="/wiki/Civil_parishes_in_England#History" class="mw-redirect" title="Civil parishes in England">civil parishes</a> and their governing <a href="/wiki/Parish_councils_in_England" title="Parish councils in England">parish councils</a> evolved in the 19th century as ecclesiastical parishes began to be relieved of what became considered to be civic responsibilities. Thus their boundaries began to diverge. The word "parish" acquired a secular usage. Since 1895, a parish council elected by public vote or a (civil) parish meeting administers a civil parish and is formally recognised as the level of local government below a <a href="/wiki/Districts_of_England" title="Districts of England">district council</a>.</p>
+<p>The traditional structure of the Church of England with the parish as the basic unit has been exported to other countries and churches throughout the <a href="/wiki/Anglican_Communion" title="Anglican Communion">Anglican Communion</a> and <a href="/wiki/Commonwealth" title="Commonwealth">Commonwealth</a> but does not necessarily continue to be administered in the same way.</p>
+<h2><span class="mw-headline" id="Church_of_Scotland">Church of Scotland</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parish&amp;action=edit&amp;section=5" title="Edit section: Church of Scotland">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><span id="Scotland"></span> <span id="Church_of_Scotland"></span></p>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/History_of_local_government_in_Scotland" title="History of local government in Scotland">History of local government in Scotland</a>, <a href="/wiki/List_of_Church_of_Scotland_parishes" title="List of Church of Scotland parishes">List of Church of Scotland parishes</a>, and <a href="/wiki/Civil_parishes_in_Scotland" title="Civil parishes in Scotland">Civil parishes in Scotland</a></div>
+<p>The parish is also the basic level of church administration in the <a href="/wiki/Church_of_Scotland" title="Church of Scotland">Church of Scotland</a>. Spiritual oversight of each parish church in <a href="/wiki/Scotland" title="Scotland">Scotland</a> is responsibility of the congregation's <a href="/wiki/Kirk_Session" class="mw-redirect" title="Kirk Session">Kirk Session</a>. Patronage was regulated in 1711 (<a href="/wiki/Church_Patronage_(Scotland)_Act_1711" title="Church Patronage (Scotland) Act 1711">Patronage Act</a>) and abolished in 1874, with the result that <a href="/wiki/Minister_(Christianity)" title="Minister (Christianity)">ministers</a> must be elected by members of the congregation. Many parish churches in Scotland today are "linked" with neighbouring parish churches served by a single minister. Since the <a href="/wiki/Local_Government_(Scotland)_Act_1929" title="Local Government (Scotland) Act 1929">abolition of parishes as a unit of civil government in Scotland</a> in 1929, Scottish parishes have purely ecclesiastical significance and the boundaries may be adjusted by the local Presbytery.</p>
+<h2><span class="mw-headline" id="Methodist_Church">Methodist Church</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parish&amp;action=edit&amp;section=6" title="Edit section: Methodist Church">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Although they are more often simply called congregations and have no geographic boundaries, in the <a href="/wiki/United_Methodist_Church" title="United Methodist Church">United Methodist Church</a> congregations are called parishes. A prominent example of this usage comes in <i>The Book of Discipline of The United Methodist Church</i>, in which the committee of every local congregation that handles staff support is referred to as the committee on Pastor-Parish Relations. This committee gives recommendations to the bishop on behalf of the parish/congregation since it is the United Methodist Bishop of the <a href="/wiki/Episcopal_area_(United_Methodist_Church)" title="Episcopal area (United Methodist Church)">episcopal area</a> who appoints a pastor to each congregation. The same is true in the <a href="/wiki/African_Methodist_Episcopal_Church" title="African Methodist Episcopal Church">African Methodist Episcopal Church</a> and the <a href="/wiki/Christian_Methodist_Episcopal_Church" title="Christian Methodist Episcopal Church">Christian Methodist Episcopal Church</a>.</p>
+<p>In New Zealand, a local grouping of Methodist churches that share one or more <a href="/wiki/Minister_of_religion" class="mw-redirect" title="Minister of religion">ministers</a> (which in the United Kingdom would be called a <a href="/wiki/Methodist_Circuit" class="mw-redirect" title="Methodist Circuit">circuit</a>) is referred to as a parish.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parish&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Parish_church" title="Parish church">Parish church</a></li>
+<li><a href="/wiki/Parish_pump" class="mw-redirect" title="Parish pump">Parish pump</a></li>
+<li><a href="/wiki/Parish_register" title="Parish register">Parish registers</a>: <a href="/wiki/Birth_certificate" title="Birth certificate">Birth certificate</a>, <a href="/wiki/Marriage_certificate" title="Marriage certificate">Marriage certificate</a>, <a href="/wiki/Death_certificate" title="Death certificate">Death certificate</a></li>
+<li><a href="/wiki/Collegiate_church" title="Collegiate church">Collegiate church</a></li>
+<li><a href="/wiki/Priory" title="Priory">Priory church</a></li>
+<li><a href="/wiki/Cathedral" title="Cathedral">Cathedral</a></li>
+<li><a href="/wiki/Parochial_school" title="Parochial school">Parochial school</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parish&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dt>Notes</dt>
+</dl>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite id="CITEREFMichael_Trueman_and_Pete_Vere2007" class="citation">Michael Trueman and Pete Vere (July 2007), <a rel="nofollow" class="external text" href="http://www.catholic.com/magazine/articles/when-parishes-merge-or-close">"When Parishes Merge or Close"</a>, <i><a href="/wiki/Catholic_Answers" title="Catholic Answers">Catholic Answers</a></i>, <b>18</b> (6)</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParish&amp;rft.atitle=When+Parishes+Merge+or+Close&amp;rft.au=Michael+Trueman+and+Pete+Vere&amp;rft.date=2007-07&amp;rft.genre=article&amp;rft.issue=6&amp;rft.jtitle=Catholic+Answers&amp;rft.volume=18&amp;rft_id=http%3A%2F%2Fwww.catholic.com%2Fmagazine%2Farticles%2Fwhen-parishes-merge-or-close&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dparoecia">paroecia</a>, Charlton T. Lewis, Charles Short, <i>A Latin Dictionary</i>, on Perseus</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Dparoiki%2Fa">παροικία</a>, Henry George Liddell, Robert Scott, <i>A Greek-English Lexicon</i>, on Perseus</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Dpa%2Froikos">πάροικος</a>, Henry George Liddell, Robert Scott, <i>A Greek-English Lexicon</i>, on Perseus</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Dpara%2F">παρά</a>, Henry George Liddell, Robert Scott, <i>A Greek-English Lexicon</i>, on Perseus</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Doi%29%3Dkos1">οἶκος</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110629164225/http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Doi%29%3Dkos1">Archived</a> June 29, 2011, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>., Henry George Liddell, Robert Scott, <i>A Greek-English Lexicon</i>, on Perseus</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book">Wells, Samuel (2011). <i>What Anglicans Believe. An Introduction</i> (First ed.). Norwich: Canterbury Press. p.&#160;93. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-84825-114-4" title="Special:BookSources/978-1-84825-114-4">978-1-84825-114-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParish&amp;rft.aufirst=Samuel&amp;rft.aulast=Wells&amp;rft.btitle=What+Anglicans+Believe.+An+Introduction&amp;rft.date=2011&amp;rft.edition=First&amp;rft.genre=book&amp;rft.isbn=978-1-84825-114-4&amp;rft.pages=93&amp;rft.place=Norwich&amp;rft.pub=Canterbury+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="display:none;font-size:100%" class="error citation-comment"><code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> requires <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#accessdate_missing_url" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.intratext.com/IXT/ENG0017/_P1T.HTM">Code of Canon Law, canon 519</a>: "The parish priest is the proper clergyman in charge of the congregation of the parish entrusted to him. He exercises the pastoral care of the community entrusted to him under the authority of the <a href="/wiki/Diocesan_bishop" title="Diocesan bishop">diocesan bishop</a>, whose ministry of Christ he is called to share, so that for this community he may carry out the offices of teaching, sanctifying and ruling with the cooperation of other priests or deacons and with the assistance of lay members of Christ's faithful, in accordance with the law".</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.intratext.com/IXT/ENG0017/_P1T.HTM">Code of Canon Law, canon 545 in the English translation by the Canon Law Society of Great Britain and Ireland, assisted by the Canon Law Society of Australia and New Zealand and the Canadian Canon Law Society</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.vatican.va/archive/ENG1104/__P1U.HTM">Code of Canon Law, canon 545 in the English translation by the Canon Law Society of America</a></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Alston, G.C. (1908).<a rel="nofollow" class="external text" href="http://www.newadvent.org/cathen/03574b.htm">"Chapel"</a>. New Advent - Catholic Encyclopedia. Retrieved on 2013-09-02.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.intratext.com/IXT/ENG0017/_P1T.HTM">can. 518</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.sanctamissa.org/en/resources/summorum-pontificum.html"><i>Summorum Pontificum</i>, article 10</a></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.visionofbritain.org.uk/types/status_page.jsp?unit_status=Ch">http://www.visionofbritain.org.uk/types/status_page.jsp?unit_status=Ch</a> Status details for Chapelry. <i>Vision of Britain through time</i>. URL accessed 24 February 2008.</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.visionofbritain.org.uk/types/status_page.jsp?unit_status=Tn">Status details for Township</a>. <i>Vision of Britain through time</i>. URL accessed 24 February 2008.</span></li>
+</ol>
+</div>
+</div>
+<dl>
+<dt>Bibliography</dt>
+</dl>
+<div class="refbegin" style="">
+<ul>
+<li>Sidney Webb, Beatrice Potter. <i>English Local Government from the Revolution to the Municipal Corporations.</i> London: Longmans, Green and Co., 1906</li>
+<li>James Barry Bird. <i>The laws respecting parish matters: containing the several offices and duties of churchwardens, overseers of the poor, constables, watchmen, and other parish officers&#160;: the laws concerning rates and assessments, settlements and removals of the poor, and of the poor in general.</i> Publisher W. Clarke, 1799</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parish&amp;action=edit&amp;section=9" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Hart, A. Tindal (1959) <i>The Country Priest in English History</i>. London: Phoenix House</li>
+<li>--do.-- (1958) <i>The Country Clergy in Elizabethan &amp; Stuart Times, 1558-1660</i>. London: Phoenix House</li>
+<li>--do.-- (1955) <i>The Eighteenth Century Country Parson, circa 1689 to 1830</i>, Shrewsbury: Wilding &amp; Son</li>
+<li>--do.-- &amp; Carpenter, E. F. (1954) <i>The Nineteenth Century Country Parson; circa 1832-1900</i>. Shrewsbury: Wilding &amp; Son</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parish&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.crockford.org.uk/"><i>Crockford's Clerical Directory</i></a></li>
+<li><a rel="nofollow" class="external text" href="https://www.theguardian.com/commentisfree/2011/may/16/in-praise-of-civil-parishes">In praise of ... civil parishes</a> Editorial in <i>The Guardian</i>, 2011-05-16.</li>
+</ul>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4115544-0">4115544-0</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1257
+Cached time: 20170920015334
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.144 seconds
+Real time usage: 0.220 seconds
+Preprocessor visited node count: 936/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 10900/2097152 bytes
+Template argument size: 339/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 6/500
+Lua time usage: 0.059/10.000 seconds
+Lua memory usage: 2.39 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  177.787      1 -total
+ 34.13%   60.685      1 Template:Reflist
+ 18.68%   33.202      5 Template:Lang
+ 18.40%   32.721      1 Template:Citation
+ 16.70%   29.686      1 Template:Authority_control
+ 16.61%   29.530      5 Template:Category_handler
+ 13.62%   24.217      1 Template:Lang-la
+ 13.06%   23.226      1 Template:Language_with_name
+ 11.89%   21.136      1 Template:About
+  4.75%    8.446      1 Template:Lang-grc
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:23623-0!canonical and timestamp 20170920015333 and revision id 787627955
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Parish&amp;oldid=787627955">https://en.wikipedia.org/w/index.php?title=Parish&amp;oldid=787627955</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Church_parishes" title="Category:Church parishes">Church parishes</a></li><li><a href="/wiki/Category:Christian_terminology" title="Category:Christian terminology">Christian terminology</a></li><li><a href="/wiki/Category:Canonical_structures" title="Category:Canonical structures">Canonical structures</a></li><li><a href="/wiki/Category:Anglican_organizations" title="Category:Anglican organizations">Anglican organizations</a></li><li><a href="/wiki/Category:Types_of_Eastern_Orthodox_organisation" title="Category:Types of Eastern Orthodox organisation">Types of Eastern Orthodox organisation</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Pages_using_citations_with_accessdate_and_no_URL" title="Category:Pages using citations with accessdate and no URL">Pages using citations with accessdate and no URL</a></li><li><a href="/wiki/Category:Articles_containing_Latin-language_text" title="Category:Articles containing Latin-language text">Articles containing Latin-language text</a></li><li><a href="/wiki/Category:Articles_containing_Ancient_Greek-language_text" title="Category:Articles containing Ancient Greek-language text">Articles containing Ancient Greek-language text</a></li><li><a href="/wiki/Category:Articles_containing_Greek-language_text" title="Category:Articles containing Greek-language text">Articles containing Greek-language text</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Parish" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Parish" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Parish" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Parish" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Parish">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Parish&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Parish&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Parish" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Parish" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Parish&amp;oldid=787627955" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Parish&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q102496" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Parish&amp;id=787627955" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Parish">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Parish&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DParish%26returnto%3DParish%26oldid%3D787627955%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Parish&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Parishes" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B1%D8%B9%D9%8A%D8%A9" title="رعية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D1%84%D1%96%D1%8F" title="Парафія – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D1%84%D1%96%D1%8F" title="Парафія – Belarusian (Taraškievica orthography)" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%95%D0%BD%D0%BE%D1%80%D0%B8%D1%8F" title="Енория – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Parohija" title="Parohija – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Parrez_(relijion)" title="Parrez (relijion) – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Parr%C3%B2quia_eclesi%C3%A0stica" title="Parròquia eclesiàstica – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Farnost" title="Farnost – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Plwyf" title="Plwyf – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Pfarrei" title="Pfarrei – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Kihelkond" title="Kihelkond – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%95%CE%BD%CE%BF%CF%81%CE%AF%CE%B1" title="Ενορία – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Parroquia_(religi%C3%B3n)" title="Parroquia (religión) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Paro%C4%A5o" title="Paroĥo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Parrokia_(erlijioa)" title="Parrokia (erlijioa) – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%82%D8%B5%D8%A8%D9%87" title="قصبه – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Paroisse" title="Paroisse – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Karspel" title="Karspel – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Par%C3%B3iste" title="Paróiste – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gv"><a href="https://gv.wikipedia.org/wiki/Skeerey" title="Skeerey – Manx" lang="gv" hreflang="gv" class="interlanguage-link-target">Gaelg</a></li><li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/Parraist" title="Parraist – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Parroquia_eclesi%C3%A1stica" title="Parroquia eclesiástica – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%82%AC%EB%AA%A9%EA%B5%AC" title="사목구 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/%C5%BDupa" title="Župa – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Paroki" title="Paroki – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Prestakall" title="Prestakall – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Parrocchia" title="Parrocchia – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%9B%E1%83%A0%E1%83%94%E1%83%95%E1%83%9A%E1%83%98" title="მრევლი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Parokia" title="Parokia – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Paroecia" title="Paroecia – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Draudze" title="Draudze – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Par" title="Par – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Parapija" title="Parapija – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Parochie" title="Parochie – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Pl%C3%A9b%C3%A1nia" title="Plébánia – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%BE%D1%85%D0%B8%D1%98%D0%B0" title="Парохија – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%87%E0%B4%9F%E0%B4%B5%E0%B4%95" title="ഇടവക – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Parochie_(kerkelijke_gemeente)" title="Parochie (kerkelijke gemeente) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%95%99%E5%8C%BA" title="小教区 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-nrm"><a href="https://nrm.wikipedia.org/wiki/P%C3%A2raisse" title="Pâraisse – Norman" lang="nrm" hreflang="nrm" class="interlanguage-link-target">Nouormand</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Parr%C3%B2quia" title="Parròquia – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Karkspeel" title="Karkspeel – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Parafia" title="Parafia – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Par%C3%B3quia" title="Paróquia – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Parohie" title="Parohie – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D1%85%D0%BE%D0%B4" title="Приход – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Parruccianu_(parrocchia)" title="Parruccianu (parrocchia) – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Parish" title="Parish – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Farnos%C5%A5_(cirkev)" title="Farnosť (cirkev) – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/%C5%BDupnija" title="Župnija – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%BE%D1%85%D0%B8%D1%98%D0%B0" title="Парохија – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Parohija" title="Parohija – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Seurakunta" title="Seurakunta – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/F%C3%B6rsamling" title="Församling – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Parokya" title="Parokya – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%82%E0%B8%95%E0%B9%81%E0%B8%9E%E0%B8%A3%E0%B8%B4%E0%B8%8A" title="เขตแพริช – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Parish" title="Parish – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D1%84%D1%96%D1%8F" title="Парафія – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Gi%C3%A1o_x%E1%BB%A9" title="Giáo xứ – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-fiu-vro"><a href="https://fiu-vro.wikipedia.org/wiki/Kihlkund" title="Kihlkund – Võro" lang="fiu-vro" hreflang="fiu-vro" class="interlanguage-link-target">Võro</a></li><li class="interlanguage-link interwiki-wa"><a href="https://wa.wikipedia.org/wiki/P%C3%A5rotche" title="Pårotche – Walloon" lang="wa" hreflang="wa" class="interlanguage-link-target">Walon</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%A0%82%E5%8C%BA" title="堂区 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q102496#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 26 June 2017, at 14:56.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Parish&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.144","walltime":"0.220","ppvisitednodes":{"value":936,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":10900,"limit":2097152},"templateargumentsize":{"value":339,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  177.787      1 -total"," 34.13%   60.685      1 Template:Reflist"," 18.68%   33.202      5 Template:Lang"," 18.40%   32.721      1 Template:Citation"," 16.70%   29.686      1 Template:Authority_control"," 16.61%   29.530      5 Template:Category_handler"," 13.62%   24.217      1 Template:Lang-la"," 13.06%   23.226      1 Template:Language_with_name"," 11.89%   21.136      1 Template:About","  4.75%    8.446      1 Template:Lang-grc"]},"scribunto":{"limitreport-timeusage":{"value":"0.059","limit":"10.000"},"limitreport-memusage":{"value":2509200,"limit":52428800}},"cachereport":{"origin":"mw1257","timestamp":"20170920015334","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":79,"wgHostname":"mw1262"});});</script>
+	</body>
+</html>

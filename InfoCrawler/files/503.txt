@@ -1,0 +1,791 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Pocket watch - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Pocket_watch","wgTitle":"Pocket watch","wgCurRevisionId":799437338,"wgRevisionId":799437338,"wgArticleId":767894,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from March 2015","Articles with unsourced statements from March 2010","Articles with unsourced statements from October 2015","Articles needing additional references from July 2012","All articles needing additional references","Articles with unsourced statements from July 2012","Wikipedia articles with GND identifiers","Watches"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Pocket_watch","wgRelevantArticleId":767894,"wgRequestId":"WcIa-ApAAEYAAFRph9QAAAAH","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q849813","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preload","preloadparams","preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.18"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/45/MontreGousset001.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Pocket_watch"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Pocket_watch&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Pocket_watch&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Pocket_watch"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Pocket_watch rootpage-Pocket_watch skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Pocket watch</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about the portable timepiece. For the Dave Grohl album, see <a href="/wiki/Pocketwatch_(album)" title="Pocketwatch (album)">Pocketwatch (album)</a>.</div>
+<div role="note" class="hatnote navigation-not-searchable">"Watch Chain" redirects here. For the succulent plant, see <a href="/wiki/Crassula_muscosa" title="Crassula muscosa">Crassula muscosa</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:MontreGousset001.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/MontreGousset001.jpg/220px-MontreGousset001.jpg" width="220" height="192" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/MontreGousset001.jpg/330px-MontreGousset001.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/MontreGousset001.jpg/440px-MontreGousset001.jpg 2x" data-file-width="800" data-file-height="697" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:MontreGousset001.jpg" class="internal" title="Enlarge"></a></div>
+A gold pocket watch with hunter-case and watch chain.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Henlein_Taschenuhr.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Henlein_Taschenuhr.jpg/220px-Henlein_Taschenuhr.jpg" width="220" height="229" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Henlein_Taschenuhr.jpg/330px-Henlein_Taschenuhr.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Henlein_Taschenuhr.jpg/440px-Henlein_Taschenuhr.jpg 2x" data-file-width="1818" data-file-height="1893" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Henlein_Taschenuhr.jpg" class="internal" title="Enlarge"></a></div>
+Pocketwatches evolved from <i>clock-watches</i>, supposedly called <i><a href="/wiki/Nuremberg_egg" class="mw-redirect" title="Nuremberg egg">Nuremberg eggs</a></i>, worn on chains around the neck. Example by <a href="/wiki/Peter_Henlein" title="Peter Henlein">Peter Henlein</a>, 1510, Germanisches Nationalmuseum Nuremberg.</div>
+</div>
+</div>
+<p>A <b>pocket watch</b> (or <b>pocketwatch</b>) is a <a href="/wiki/Watch" title="Watch">watch</a> that is made to be carried in a <a href="/wiki/Pocket" title="Pocket">pocket</a>, as opposed to a <a href="/wiki/Watch" title="Watch">wristwatch</a>, which is strapped to the <a href="/wiki/Wrist" title="Wrist">wrist</a>.</p>
+<p>They were the most common type of watch from their development in the 16th century until wristwatches became popular after <a href="/wiki/World_War_I" title="World War I">World War I</a> during which a transitional design, <a href="/wiki/Trench_watch" title="Trench watch">trench watches</a>, were used by the military. Pocket watches generally have an attached <a href="/wiki/Chain" title="Chain">chain</a> to allow them to be secured to a <a href="/wiki/Waistcoat" title="Waistcoat">waistcoat</a>, <a href="/wiki/Lapel" title="Lapel">lapel</a>, or <a href="/wiki/Belt_(clothing)" title="Belt (clothing)">belt loop</a>, and to prevent them from being dropped. Watches were also mounted on a short <a href="/wiki/Leather" title="Leather">leather</a> strap or fob, when a long chain would have been cumbersome or likely to catch on things. This fob could also provide a protective flap over their face and crystal. Women's watches were normally of this form, with a watch fob that was more decorative than protective. Chains were frequently decorated with a <a href="/wiki/Silver" title="Silver">silver</a> or <a href="/wiki/Vitreous_enamel" title="Vitreous enamel">enamel</a> pendant, often carrying the arms of some <a href="/wiki/Club_(organization)" title="Club (organization)">club</a> or <a href="/wiki/Society" title="Society">society</a>, which by association also became known as a fob. Ostensibly practical gadgets such as a watch winding key, <a href="/wiki/Vesta_case" title="Vesta case">vesta case</a>, or a <a href="/wiki/Cigar_cutter" title="Cigar cutter">cigar cutter</a> also appeared on watch chains, although usually in an overly decorated style. Also common are fasteners designed to be put through a <a href="/wiki/Buttonhole" title="Buttonhole">buttonhole</a> and worn in a jacket or <a href="/wiki/Waistcoat" title="Waistcoat">waistcoat</a>, this sort being frequently associated with and named after <a href="/wiki/Train_conductor" class="mw-redirect" title="Train conductor">train conductors</a>.</p>
+<p>An early reference to the pocket watch is in a letter in November 1462 from the Italian <a href="/wiki/Clockmaker" title="Clockmaker">clockmaker</a> Bartholomew Manfredi to the Marchese di Mantova Federico Gonzaga,<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2015)">citation needed</span></a></i>]</sup> where he offers him a "pocket clock" better than that belonging to the <a href="/wiki/Duke_of_Modena" class="mw-redirect" title="Duke of Modena">Duke of Modena</a>. By the end of the 15th <a href="/wiki/Century" title="Century">century</a>, <a href="/wiki/Spring_(device)" title="Spring (device)">spring</a>-driven clocks appeared in <a href="/wiki/Italy" title="Italy">Italy</a>, and in <a href="/wiki/Germany" title="Germany">Germany</a>. <a href="/wiki/Peter_Henlein" title="Peter Henlein">Peter Henlein</a>, a <a href="/wiki/Master_craftsman" title="Master craftsman">master</a> <a href="/wiki/Locksmith" class="mw-redirect" title="Locksmith">locksmith</a> of <a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a>, was regularly manufacturing pocket watches by 1524. Thereafter, pocket watch <a href="/wiki/Manufacture" class="mw-redirect" title="Manufacture">manufacture</a> spread throughout the rest of <a href="/wiki/Europe" title="Europe">Europe</a> as the 16th century progressed. Early watches only had an hour hand, the minute hand appearing in the late 17th century.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> The first <a href="/wiki/United_States" title="United States">American</a> pocket watches with machine made parts were manufactured by <a href="/wiki/Henry_Pitkin" title="Henry Pitkin">Henry Pitkin</a> with his brother in the later 1830s.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Use_in_railroading_in_the_United_States"><span class="tocnumber">2</span> <span class="toctext">Use in railroading in the United States</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Types_of_pocket_watches"><span class="tocnumber">3</span> <span class="toctext">Types of pocket watches</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Open-face_watches"><span class="tocnumber">3.1</span> <span class="toctext">Open-face watches</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Hunter-case_watches"><span class="tocnumber">3.2</span> <span class="toctext">Hunter-case watches</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Types_of_watch_movements"><span class="tocnumber">4</span> <span class="toctext">Types of watch movements</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Key-wind.2C_key-set_movements"><span class="tocnumber">4.1</span> <span class="toctext">Key-wind, key-set movements</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Stem-wind.2C_stem-set_movements"><span class="tocnumber">4.2</span> <span class="toctext">Stem-wind, stem-set movements</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Stem-wind.2C_lever-set_movements"><span class="tocnumber">4.3</span> <span class="toctext">Stem-wind, lever-set movements</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Stem-wind.2C_pin-set_movements"><span class="tocnumber">4.4</span> <span class="toctext">Stem-wind, pin-set movements</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Jeweled_movements"><span class="tocnumber">5</span> <span class="toctext">Jeweled movements</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Adjusted_movements"><span class="tocnumber">6</span> <span class="toctext">Adjusted movements</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Decline_in_popularity"><span class="tocnumber">7</span> <span class="toctext">Decline in popularity</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Most_complicated_pocket_watches"><span class="tocnumber">8</span> <span class="toctext">Most complicated pocket watches</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Bibliography"><span class="tocnumber">11</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#External_links"><span class="tocnumber">12</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pocket_watch&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Pocketwatch_movement.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Pocketwatch_movement.png/220px-Pocketwatch_movement.png" width="220" height="72" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Pocketwatch_movement.png/330px-Pocketwatch_movement.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Pocketwatch_movement.png/440px-Pocketwatch_movement.png 2x" data-file-width="784" data-file-height="257" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Pocketwatch_movement.png" class="internal" title="Enlarge"></a></div>
+Antique verge fusée pocketwatch movement, from 1700s.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Rel%C3%B3gio_de_Bolso_(watch-pocket).JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Rel%C3%B3gio_de_Bolso_%28watch-pocket%29.JPG/220px-Rel%C3%B3gio_de_Bolso_%28watch-pocket%29.JPG" width="220" height="212" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Rel%C3%B3gio_de_Bolso_%28watch-pocket%29.JPG/330px-Rel%C3%B3gio_de_Bolso_%28watch-pocket%29.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Rel%C3%B3gio_de_Bolso_%28watch-pocket%29.JPG/440px-Rel%C3%B3gio_de_Bolso_%28watch-pocket%29.JPG 2x" data-file-width="2364" data-file-height="2282" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Rel%C3%B3gio_de_Bolso_(watch-pocket).JPG" class="internal" title="Enlarge"></a></div>
+A French pocketwatch from 1920s.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Gold_Chaika_Pocket_Watch_made_in_the_USSR.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Gold_Chaika_Pocket_Watch_made_in_the_USSR.jpg/220px-Gold_Chaika_Pocket_Watch_made_in_the_USSR.jpg" width="220" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Gold_Chaika_Pocket_Watch_made_in_the_USSR.jpg/330px-Gold_Chaika_Pocket_Watch_made_in_the_USSR.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Gold_Chaika_Pocket_Watch_made_in_the_USSR.jpg/440px-Gold_Chaika_Pocket_Watch_made_in_the_USSR.jpg 2x" data-file-width="4217" data-file-height="2806" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Gold_Chaika_Pocket_Watch_made_in_the_USSR.jpg" class="internal" title="Enlarge"></a></div>
+A Gold Chaika Pocket Watch made in the USSR in the 1970s.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Wooden_pocket_watch_Russia_stamp_2010.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Wooden_pocket_watch_Russia_stamp_2010.jpg/220px-Wooden_pocket_watch_Russia_stamp_2010.jpg" width="220" height="218" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/3/3e/Wooden_pocket_watch_Russia_stamp_2010.jpg 1.5x" data-file-width="250" data-file-height="248" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Wooden_pocket_watch_Russia_stamp_2010.jpg" class="internal" title="Enlarge"></a></div>
+Wooden pocket watch XIX-XX. Russian stamp, 2010</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Montre_mysterieuse-IMG_4639.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Montre_mysterieuse-IMG_4639.jpg/220px-Montre_mysterieuse-IMG_4639.jpg" width="220" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Montre_mysterieuse-IMG_4639.jpg/330px-Montre_mysterieuse-IMG_4639.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Montre_mysterieuse-IMG_4639.jpg/440px-Montre_mysterieuse-IMG_4639.jpg 2x" data-file-width="5616" data-file-height="5616" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Montre_mysterieuse-IMG_4639.jpg" class="internal" title="Enlarge"></a></div>
+A so-called "<a href="/wiki/Mystery_watch" title="Mystery watch">mystery watch</a>" with a transparent dial, c. 1890.</div>
+</div>
+</div>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/History_of_watches" title="History of watches">History of watches</a></div>
+<p>The first timepieces to be worn, made in 16th-century Europe, were transitional in size between clocks and watches.<sup id="cite_ref-FOOTNOTEMilham1945133.E2.80.9337_3-0" class="reference"><a href="#cite_note-FOOTNOTEMilham1945133.E2.80.9337-3">[3]</a></sup> These 'clock-watches' were fastened to clothing or worn on a chain around the neck. They were heavy drum shaped brass cylinders several inches in diameter, engraved and ornamented. They had only an <a href="/wiki/Clock_face" title="Clock face">hour hand</a>. The face was not covered with glass, but usually had a hinged brass cover, often decoratively pierced with grillwork so the time could be read without opening. The movement was made of iron or steel and held together with tapered pins and wedges, until screws began to be used after 1550. Many of the movements included <a href="/wiki/Striking_clock" title="Striking clock">striking</a> or <a href="/wiki/Alarm_clock" title="Alarm clock">alarm</a> mechanisms. The shape later evolved into a rounded form; these were later called <i><a href="/wiki/Nuremberg_eggs" title="Nuremberg eggs">Nuremberg eggs</a></i>.<sup id="cite_ref-FOOTNOTEMilham1945133.E2.80.9337_3-1" class="reference"><a href="#cite_note-FOOTNOTEMilham1945133.E2.80.9337-3">[3]</a></sup> Still later in the century there was a trend for unusually shaped watches, and clock-watches shaped like books, animals, fruit, stars, flowers, insects, crosses, and even skulls (Death's head watches) were made.</p>
+<p>Styles changed in the 17th century and men began to wear watches in pockets instead of as <a href="/wiki/Pendant" title="Pendant">pendants</a> (the woman's watch remained a pendant into the 20th century).<sup id="cite_ref-Perez_4-0" class="reference"><a href="#cite_note-Perez-4">[4]</a></sup><sup id="cite_ref-FOOTNOTEMilham1945213.E2.80.9315_5-0" class="reference"><a href="#cite_note-FOOTNOTEMilham1945213.E2.80.9315-5">[5]</a></sup> This is said to have occurred in 1675 when <a href="/wiki/Charles_II_of_England" title="Charles II of England">Charles II of England</a> introduced <a href="/wiki/Waistcoat" title="Waistcoat">waistcoats</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> To fit in pockets, their shape evolved into the typical pocket watch shape, rounded and flattened with no sharp edges. Glass was used to cover the face beginning around 1610. Watch fobs began to be used, the name originating from the German word <i>fuppe</i>, a small pocket.<sup id="cite_ref-FOOTNOTEMilham1945213.E2.80.9315_5-1" class="reference"><a href="#cite_note-FOOTNOTEMilham1945213.E2.80.9315-5">[5]</a></sup> The watch was wound and also set by opening the back and fitting a key to a square arbor, and turning it.</p>
+<p>Until the second half of the 18th century, watches were luxury items; as an indication of how highly they were valued, English newspapers of the 18th century often include advertisements offering rewards of between one and five <a href="/wiki/Guinea_(British_coin)" class="mw-redirect" title="Guinea (British coin)">guineas</a> merely for information that might lead to the recovery of stolen watches.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2010)">citation needed</span></a></i>]</sup> By the end of the 18th century, however, watches (while still largely hand-made) were becoming more common; special cheap watches were made for sale to sailors, with crude but colorful paintings of maritime scenes on the dials.</p>
+<p>Up to the 1720s, almost all watch <a href="/wiki/Movement_(clockwork)" title="Movement (clockwork)">movements</a> were based on the <a href="/wiki/Verge_escapement" title="Verge escapement">verge escapement</a>, which had been developed for large public clocks in the 14th century. This type of escapement involved a high degree of friction and did not include any kind of jewelling to protect the contacting surfaces from wear. As a result, a verge watch could rarely achieve any high standard of accuracy. (Surviving examples<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2010)">citation needed</span></a></i>]</sup> mostly run very fast, often gaining an hour a day or more.) The first widely used improvement was the <a href="/wiki/Cylinder_escapement" class="mw-redirect" title="Cylinder escapement">cylinder escapement</a>, developed by the <a href="/wiki/Jean_de_Hautefeuille" title="Jean de Hautefeuille">Abbé de Hautefeuille</a> early in the 18th century and applied by the English maker <a href="/wiki/George_Graham_(clockmaker)" title="George Graham (clockmaker)">George Graham</a>. Then, towards the end of the 18th century, the <a href="/wiki/Lever_escapement" title="Lever escapement">lever escapement</a> (invented by <a href="/wiki/Thomas_Mudge_(horologist)" title="Thomas Mudge (horologist)">Thomas Mudge</a> in 1759) was put into limited production by a handful of makers including <a href="/w/index.php?title=Josiah_Emery&amp;action=edit&amp;redlink=1" class="new" title="Josiah Emery (page does not exist)">Josiah Emery</a> (a Swiss based in London) and <a href="/wiki/Abraham-Louis_Breguet" title="Abraham-Louis Breguet">Abraham-Louis Breguet</a>. With this, a domestic watch could keep time to within a minute a day. Lever watches became common after about 1820, and this type is still used in most mechanical watches today.</p>
+<p>In 1857 the <a href="/wiki/American_Watch_Company" class="mw-redirect" title="American Watch Company">American Watch Company</a> in <a href="/wiki/Waltham,_Massachusetts" title="Waltham, Massachusetts">Waltham, Massachusetts</a> introduced the Waltham Model 57, the first to use <a href="/wiki/Interchangeable_parts" title="Interchangeable parts">interchangeable parts</a>. This cut the cost of manufacture and repair. Most Model 57 pocket watches were in a <a href="/wiki/Coin_silver" class="mw-redirect" title="Coin silver">coin silver</a> ("one nine fine"), a 90% pure silver alloy commonly used in <a href="/wiki/Coins_of_the_United_States_dollar" title="Coins of the United States dollar">dollar coinage</a>, slightly less pure than the British (92.5%) <a href="/wiki/Sterling_silver" title="Sterling silver">sterling silver</a>, both of which avoided the higher purity of other types of silver to make circulating coins and other utilitarian silver objects last longer with heavy use.</p>
+<div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/American_system_of_watch_manufacturing" title="American system of watch manufacturing">American system of watch manufacturing</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Case_back_showing_hinges_waltham_model_57_american_made.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Case_back_showing_hinges_waltham_model_57_american_made.jpg/220px-Case_back_showing_hinges_waltham_model_57_american_made.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Case_back_showing_hinges_waltham_model_57_american_made.jpg/330px-Case_back_showing_hinges_waltham_model_57_american_made.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Case_back_showing_hinges_waltham_model_57_american_made.jpg/440px-Case_back_showing_hinges_waltham_model_57_american_made.jpg 2x" data-file-width="640" data-file-height="480" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Case_back_showing_hinges_waltham_model_57_american_made.jpg" class="internal" title="Enlarge"></a></div>
+Case back showing hinges, Waltham model 57 American made</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Case_back_inside_photo_with_halmark_of_the_waltham_watch_company_a_model_57_american_made_case_photo.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Case_back_inside_photo_with_halmark_of_the_waltham_watch_company_a_model_57_american_made_case_photo.jpg/220px-Case_back_inside_photo_with_halmark_of_the_waltham_watch_company_a_model_57_american_made_case_photo.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Case_back_inside_photo_with_halmark_of_the_waltham_watch_company_a_model_57_american_made_case_photo.jpg/330px-Case_back_inside_photo_with_halmark_of_the_waltham_watch_company_a_model_57_american_made_case_photo.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Case_back_inside_photo_with_halmark_of_the_waltham_watch_company_a_model_57_american_made_case_photo.jpg/440px-Case_back_inside_photo_with_halmark_of_the_waltham_watch_company_a_model_57_american_made_case_photo.jpg 2x" data-file-width="640" data-file-height="480" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Case_back_inside_photo_with_halmark_of_the_waltham_watch_company_a_model_57_american_made_case_photo.jpg" class="internal" title="Enlarge"></a></div>
+Case back inside, with hallmark of Waltham, a model 57</div>
+</div>
+</div>
+<p>Watch manufacture was becoming streamlined; the <a href="/w/index.php?title=Japy_Freres&amp;action=edit&amp;redlink=1" class="new" title="Japy Freres (page does not exist)">Japy</a> family of <a href="/wiki/Schaffhausen" title="Schaffhausen">Schaffhausen</a>, Switzerland, led the way in this, and soon afterwards the newborn American watch industry developed much new machinery, so that by 1865 the <a href="/wiki/American_Watch_Company" class="mw-redirect" title="American Watch Company">American Watch Company</a> (afterwards known as Waltham) could turn out more than 50,000 reliable watches each year. This development drove the Swiss out of their dominating position at the cheaper end of the market, compelling them to raise the quality of their products and establish themselves as the leaders in precision and accuracy instead.</p>
+<h2><span class="mw-headline" id="Use_in_railroading_in_the_United_States">Use in railroading in the United States</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pocket_watch&amp;action=edit&amp;section=2" title="Edit section: Use in railroading in the United States">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Railroad_chronometers" class="mw-redirect" title="Railroad chronometers">Railroad chronometers</a></div>
+<p>The rise of <a href="/wiki/Rail_transport" title="Rail transport">railroading</a> during the last half of the 19th century led to the widespread use of pocket watches. A famous train wreck on the <a href="/wiki/Lake_Shore_and_Michigan_Southern_Railway" title="Lake Shore and Michigan Southern Railway">Lake Shore and Michigan Southern Railway</a> in <a href="/wiki/Kipton,_Ohio" title="Kipton, Ohio">Kipton, Ohio</a> on April 19, 1891 occurred because one of the engineers' watches had stopped for four minutes. The railroad officials commissioned <a href="/wiki/Webb_C._Ball" title="Webb C. Ball">Webb C. Ball</a> as their Chief Time Inspector, in order to establish precision standards and a reliable timepiece inspection system for <a href="/wiki/Railroad_chronometers" class="mw-redirect" title="Railroad chronometers">Railroad chronometers</a>. This led to the adoption in 1893 of stringent standards for pocket watches used in railroading. These railroad-grade pocket watches, as they became colloquially known, had to meet the General Railroad Timepiece Standards adopted in 1893 by almost all railroads. These standards read, in part:</p>
+<blockquote class="templatequote">
+<p>...open faced, size 16 or 18, have a minimum of 17 jewels, adjusted to at least five positions, keep time accurately to within 30 seconds a week, adjusted to temps of 34&#160;°F (1&#160;°C) to 100&#160;°F (38&#160;°C), have a double roller, steel escape wheel, lever set, regulator, winding stem at 12 o'clock, and have bold black Arabic numerals on a white dial, with black hands.</p>
+</blockquote>
+<h2><span class="mw-headline" id="Types_of_pocket_watches">Types of pocket watches</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pocket_watch&amp;action=edit&amp;section=3" title="Edit section: Types of pocket watches">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are two main styles of pocket watch, the hunter-case pocket watch, and the open-face pocket watch.</p>
+<h3><span class="mw-headline" id="Open-face_watches">Open-face watches</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pocket_watch&amp;action=edit&amp;section=4" title="Edit section: Open-face watches">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Czapek01.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Czapek01.jpg/220px-Czapek01.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Czapek01.jpg/330px-Czapek01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Czapek01.jpg/440px-Czapek01.jpg 2x" data-file-width="1160" data-file-height="777" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Czapek01.jpg" class="internal" title="Enlarge"></a></div>
+An open-face pocket watch made by the Polish watchmaker <a href="/wiki/Franciszek_Czapek" class="mw-redirect" title="Franciszek Czapek">Franciszek Czapek</a>, ca. 1876.</div>
+</div>
+</div>
+<p>An open-faced, or <a href="/wiki/Jean-Antoine_L%C3%A9pine" title="Jean-Antoine Lépine">Lépine</a>,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> watch, is one in which the case lacks a metal cover to protect the crystal. It is typical for an open-faced watch to have the pendant located at 12:00 and the sub-second dial located at 6:00. Occasionally, a watch movement intended for a hunting case (with the winding stem at 3:00 and sub second dial at 6:00) will have an open-faced case. Such watch is known as a "sidewinder." Alternatively, such a watch movement may be fitted with a so-called conversion dial, which relocates the winding stem to 12:00 and the sub-second dial to 3:00. After 1908, watches approved for railroad service were required to be cased in open-faced cases with the winding stem at 12:00.</p>
+<h3><span class="mw-headline" id="Hunter-case_watches">Hunter-case watches</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pocket_watch&amp;action=edit&amp;section=5" title="Edit section: Hunter-case watches">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A hunter-case pocket watch is a case with a spring-hinged circular metal lid or cover, that closes over the watch-dial and crystal, protecting them from dust, scratches and other damage or debris. The name originated from <a href="/wiki/England" title="England">England</a> where "fox hunting men found it convenient to be able to open their watch and read the time with one hand, while holding the reins of their 'hunter' (horse) in the other hand".<sup id="cite_ref-savonnette_8-0" class="reference"><a href="#cite_note-savonnette-8">[8]</a></sup> It is also known as a "savonnette", after the <a href="/wiki/French_language" title="French language">French</a> word for <a href="/wiki/Soap" title="Soap">soap</a> (savon) due to its resemblance with a round soap bar.<sup id="cite_ref-savonnette_8-1" class="reference"><a href="#cite_note-savonnette-8">[8]</a></sup></p>
+<p>The majority of antique and vintage hunter-case watches have the lid-hinges at the 9 o'clock position and the stem, crown and bow of the watch at the 3 o'clock position. Modern hunter-case pocket watches usually have the hinges for the lid at the 6 o'clock position and the stem, crown and bow at the 12 o'clock position, as with open-face watches. In both styles of watch-cases, the sub-seconds dial was always at the 6 o'clock position. A hunter-case pocket watch with a spring-ring chain is pictured at the top of this page.</p>
+<p>An intermediate type, known as the demi-hunter (or half-hunter), is a case style in which the outer lid has a glass panel or hole in the centre giving a view of the hands. The hours are marked, often in blue enamel, on the outer lid itself; thus with this type of case one can tell the time without opening the lid.</p>
+<h2><span class="mw-headline" id="Types_of_watch_movements">Types of watch movements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pocket_watch&amp;action=edit&amp;section=6" title="Edit section: Types of watch movements">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:332px;"><a href="/wiki/File:Pocketwatch_cutaway_drawing.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Pocketwatch_cutaway_drawing.jpg/330px-Pocketwatch_cutaway_drawing.jpg" width="330" height="223" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Pocketwatch_cutaway_drawing.jpg/495px-Pocketwatch_cutaway_drawing.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Pocketwatch_cutaway_drawing.jpg/660px-Pocketwatch_cutaway_drawing.jpg 2x" data-file-width="829" data-file-height="560" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Pocketwatch_cutaway_drawing.jpg" class="internal" title="Enlarge"></a></div>
+The parts of a pocket watch movement</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Key-wind.2C_key-set_movements">Key-wind, key-set movements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pocket_watch&amp;action=edit&amp;section=7" title="Edit section: Key-wind, key-set movements">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The very first pocket watches, since their creation in the 16th century, up until the third quarter of the 19th century, had key-wind and key-set movements. A watch key was necessary to wind the watch and to set the time. This was usually done by opening the caseback and putting the key over the winding-arbor (which was set over the watch's winding-wheel, to wind the mainspring) or by putting the key onto the setting-arbor, which was connected with the minute-wheel and turned the hands. Some watches of this period had the setting-arbor at the front of the watch, so that removing the crystal and bezel was necessary to set the time. Watch keys are the origin of the class key, common paraphernalia for <a href="/wiki/United_States" title="United States">American</a> high-school and university graduation.</p>
+<p>Many keywind watch movements make use of a <a href="/wiki/Fusee_(horology)" title="Fusee (horology)">fusee</a>, to improve isochronism. The fusee is a specially cut conical pulley attached by a fine chain to the mainspring barrel. When the spring is fully wound (and its torque the highest), the full length of the chain is wrapped around the fusee and the force of the mainspring is exerted on the smallest diameter portion of the fusee cone. As the spring unwinds and its torque decreases, the chain winds back onto the mainspring barrel and pulls on an increasingly larger diameter portion of the fusee. This provides a more uniform amount of torque on the watch train, and thus results in more consistent balance amplitude and better isochronism. A fusee is a practical necessity in watches using a verge escapement, and can also provide considerable benefit with a lever escapement and other high precision types of escapements (Hamiltons WWII era Model 21 chronometer used a fusee in combination with a detent escapement).</p>
+<p>Keywind watches are also commonly seen with conventional going barrels and other types of mainspring barrels, particularly in American watchmaking.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2015)">citation needed</span></a></i>]</sup></p>
+<h3><span class="mw-headline" id="Stem-wind.2C_stem-set_movements">Stem-wind, stem-set movements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pocket_watch&amp;action=edit&amp;section=8" title="Edit section: Stem-wind, stem-set movements">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Omega_pocket_watch.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Omega_pocket_watch.jpg/220px-Omega_pocket_watch.jpg" width="220" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Omega_pocket_watch.jpg/330px-Omega_pocket_watch.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Omega_pocket_watch.jpg/440px-Omega_pocket_watch.jpg 2x" data-file-width="3056" data-file-height="2034" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Omega_pocket_watch.jpg" class="internal" title="Enlarge"></a></div>
+The ca. 1950 Omega pocket watch is of stem-wind, stem-set movement.</div>
+</div>
+</div>
+<p>Invented by <a href="/wiki/Adrien_Philippe" title="Adrien Philippe">Adrien Philippe</a> in 1842 and commercialized by <a href="/wiki/Patek_Philippe_%26_Co." title="Patek Philippe &amp; Co.">Patek Philippe &amp; Co.</a> in the 1850s, the stem-wind, stem-set movement did away with the watch key which was a necessity for the operation of any pocket watch up to that point. The first stem-wind and stem-set pocket watches were sold during the Great Exhibition in London in 1851 and the first owners of these new kinds of watches were Queen Victoria and Prince Albert. Stem-wind, stem-set movements are the most common type of watch-movement found in both vintage and modern pocket watches.</p>
+<p>The mainstream transition to the use of stem-wind, stem-set watches occurred at around the same time as the end of the manufacture and use of the fusee watch. Fusee chain-driven timing was replaced with a mainspring of better quality spring steel (commonly known as the "going barrel") allowing for a more even release of power to the escape mechanism. However the reader of this article should not be misled to think that the winding and setting functions are directly related to the balance wheel and balance spring. The balance wheel and balance spring provide a separate function: to regulate the timing (or escape) of the movement.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2015)">citation needed</span></a></i>]</sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<h3><span class="mw-headline" id="Stem-wind.2C_lever-set_movements">Stem-wind, lever-set movements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pocket_watch&amp;action=edit&amp;section=9" title="Edit section: Stem-wind, lever-set movements">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Mandatory for all railroad watches after roughly 1908, this kind of pocket watch was set by opening the crystal and bezel and pulling out the setting-lever (most hunter-cases have levers accessible without removing the crystal or bezel), which was generally found at either the 10 or 2 o'clock positions on open-faced watches, and at 5:00 on hunting cased watches. Once the lever was pulled out, the crown could be turned to set the time. The lever was then pushed back in and the crystal and bezel were closed over the dial again. This method of time setting on pocket watches was preferred by American and Canadian railroads, as lever setting watches make accidental time changes impossible. After 1908, lever setting was generally required for new watches entering service on American railroads.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2015)">citation needed</span></a></i>]</sup></p>
+<h3><span class="mw-headline" id="Stem-wind.2C_pin-set_movements">Stem-wind, pin-set movements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pocket_watch&amp;action=edit&amp;section=10" title="Edit section: Stem-wind, pin-set movements">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Much like the lever-set movements, these pocket watches had a small pin or knob next to the watch-stem that had to be depressed before turning the crown to set the time and releasing the pin when the correct time had been set. This style of watch is occasionally referred to as "nail set", as the set button must be pressed using a finger.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2015)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="Jeweled_movements">Jeweled movements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pocket_watch&amp;action=edit&amp;section=11" title="Edit section: Jeweled movements">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dd><i>For more information, see <a href="/wiki/Mechanical_watch" title="Mechanical watch">Mechanical watch</a></i></dd>
+</dl>
+<p>Watches of any quality will be jeweled. A jewel in a mechanical watch is a small, shaped piece of a hard mineral. Ruby and sapphire are most common. Diamond, garnet, and glass are also seen. Starting in the early 20th century, synthetic jewels were almost universally used. Before that time, low grade natural jewels which were unsuitable as gemstones were used. In either case, the jewels have virtually no monetary value.</p>
+<p>The most common types of jewels are hole jewels. Hole jewels are disks (normally flying saucer shaped) which have a carefully shaped and sized hole. The pivot of an arbor rides in this hole. The jewel provides an extremely smooth and hard surface which is very wear resistant, and when properly lubricated, very low friction. Thus, hole jewels both reduce friction and wear on the moving parts of a watch.</p>
+<p>The other basic jewel types are cap jewels, roller jewels, and pallet jewels.</p>
+<p>Cap jewels are always paired with hole jewels, and always with a conically shaped pivot. The cap jewels are so called because they "cap" the hole jewels and control the axial movement of the arbor, preventing the shoulder of the pivot contacting the hole jewel. For a properly designed hole and cap jewel system, the arbor pivot bears on the cap jewel as a pin point on a thin film of oil. Thus, a hole and cap jewel offer lower friction and better performance across different positions compared with simply a hole jewel.</p>
+<p>The roller jewel, also called the impulse jewel or simply impulse pin, is a thin rod of ruby or sapphire, usually in the shape of a letter "D". The roller jewel is responsible for coupling the motion of the balance wheel to that of the pallet fork.</p>
+<p>Pallet jewels are on the pallet fork and interact with the escape wheel. They are the surfaces which, 5 times a second in a typical escapement, lock the gear train of the watch and then transfer power to the balance wheel.</p>
+<p>A jeweled watch with a lever escapement should contain at least 7 jewels. The seven jewels are; 2 hole jewels and 2 cap jewels for the pivots of the balance wheel staff (arbor), one impulse (roller) jewel, and 2 pallet jewels.</p>
+<p>More highly jeweled watches add jewels to other pivots, starting with the pallet fork, then the escape wheel, fourth wheel, third wheel, then finally the center wheel. Jeweling like this to the third wheel adds eight jewels, giving 15 jewels in total. Jeweling to the center wheel adds two more giving 17 jewels in total. Thus, a 17 jewel watch is considered to be fully jeweled.</p>
+<p>With American makers, however, it was common on low-end movements to jewel to the third wheel on only the top (visible) plate of the watch. This gives a total of 11 jewels, but looks identical to a 15 jewel watch unless the dial is removed. Since watches with 15 jewels and less are often not marked as to the jewel count, extreme caution must be exercised when purchasing movements which appear to be 15 jewels.</p>
+<p>Additional jewels beyond 17 are used to either add cap jewels, or to jewel the mainspring barrel of the watch. Watches with 19 jewels, particularly those made by Elgin and Waltham, will often have a jeweled mainspring barrel. Alternatively a 19 jewel watch will have additional cap jewels on the escape wheel. 21 jewel watches commonly have cap jewels on both the pallet fork and escape wheel. 23 jewel watches will have a jeweled barrel and fully capped escapement. The timekeeping value of jewels beyond 17 for a time-only movement is often debated.</p>
+<p>Complicated movements will often have additional jewels which do serve useful purposes.</p>
+<p>Greater jewel counts are often associated with better quality watch movements. While it is true that expensive movements often have higher jewel counts, the jewels themselves are not the reason for this. The jewels themselves add essentially no monetary value, and beyond 17 offer a negligible improvement in timekeeping ability and in movement life. Most of the cost of a more expensive watch is associated with better quality finishing and, more importantly, with a greater number of adjustments.</p>
+<h2><span class="mw-headline" id="Adjusted_movements">Adjusted movements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pocket_watch&amp;action=edit&amp;section=12" title="Edit section: Adjusted movements">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Watch_compass_small.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b1/Watch_compass_small.jpg/220px-Watch_compass_small.jpg" width="220" height="158" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b1/Watch_compass_small.jpg/330px-Watch_compass_small.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b1/Watch_compass_small.jpg/440px-Watch_compass_small.jpg 2x" data-file-width="2194" data-file-height="1579" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Watch_compass_small.jpg" class="internal" title="Enlarge"></a></div>
+A pocket watch with an attached compass.</div>
+</div>
+</div>
+<p>Pocket watch movements are occasionally engraved with the word "Adjusted", or "Adjusted to n positions". This means that the watch has been tuned to keep time under various positions and conditions. There are eight possible adjustments:</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Waltham_1899_watch_movement.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Waltham_1899_watch_movement.jpg/220px-Waltham_1899_watch_movement.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Waltham_1899_watch_movement.jpg/330px-Waltham_1899_watch_movement.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Waltham_1899_watch_movement.jpg/440px-Waltham_1899_watch_movement.jpg 2x" data-file-width="2560" data-file-height="1920" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Waltham_1899_watch_movement.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Waltham_Watch_Company" title="Waltham Watch Company">Waltham</a> model 1899 pocket watch movement.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Waltham_1899.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Waltham_1899.JPG/220px-Waltham_1899.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Waltham_1899.JPG/330px-Waltham_1899.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Waltham_1899.JPG/440px-Waltham_1899.JPG 2x" data-file-width="4000" data-file-height="3000" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Waltham_1899.JPG" class="internal" title="Enlarge"></a></div>
+Waltham model 1899 pocket watch face</div>
+</div>
+</div>
+<ul>
+<li>Dial up.</li>
+<li>Dial down.</li>
+<li>Pendant up.</li>
+<li>Pendant down.</li>
+<li>Pendant left.</li>
+<li>Pendant right.</li>
+<li>Temperature (from 34–100 degrees Fahrenheit).</li>
+<li><a href="/wiki/Isochronism" class="mw-redirect" title="Isochronism">Isochronism</a> (the ability of the watch to keep time, regardless of the mainspring's level of tension).</li>
+</ul>
+<p>Positional adjustments are attained by careful poising (ensuring even weight distribution) of the balance-<a href="/wiki/Hairspring" class="mw-redirect" title="Hairspring">hairspring</a> system as well as careful control of the shape and polish on the balance pivots. All of this achieves an equalization of the effect of gravity on the watch in various positions. Positional adjustments are achieved through careful adjustment of each of these factors, provided by repeated trials on a timing machine. Thus, adjusting a watch to position requires many hours of labor, increasing the cost of the watch. Medium grade watches were commonly adjusted to 3 positions (dial up, dial down, pendant up) while high grade watches were commonly adjusted to 5 positions (dial up, dial down, stem up, stem left, stem right) or even all 6 positions. Railroad watches were required, after 1908, to be adjusted to 5 positions. 3 positions were the general requirement before that time.</p>
+<p>Early watches used a solid steel balance. As temperature increased, the solid balance expanded in size, changing the moment of inertia and changing the timing of the watch. In addition, the hairspring would lengthen, decreasing its spring constant. This problem was initially solved through the use of the compensation balance. The compensation balance consisted of a ring of steel sandwiched to a ring of brass. These rings were then split in two places. The balance would, at least theoretically, actually decrease in size with heating to compensate for the lengthening of the hairspring. Through careful adjustment of the placement of the balance screws (brass or gold screws placed in the rim of the balance), a watch could be adjusted to keep time the same at both hot (100&#160;°F) and cold (32°) temperatures. Unfortunately, a watch so adjusted would run slow at temperatures between these two. The problem was completely solved through the use of special alloys for the balance and hairspring which were essentially immune to thermal expansion. Such an alloy is used in Hamilton's 992E and 992B.</p>
+<p>Isochronism was occasionally improved through the use of a stopworks, a system designed to only allow the mainspring to operate within its center (most consistent) range. The most common method of achieving isochronism is through the use of the Breguet overcoil. which places part of the outermost turn of the hairspring in a different plane from the rest of the spring. This allows the hairspring to "breathe" more evenly and symmetrically. Two types of overcoils are found - the gradual overcoil and the Z-Bend. The gradual overcoil is obtained by imposing a two gradual twists to the hairspring, forming the rise to the second plane over half the circumference; and the Z-bend does this by imposing two kinks of complementary 45 degree angles, accomplishing a rise to the second plane in about three spring section heights. The second method is done for esthetic reasons and is much more difficult to perform. Due to the difficulty with forming an overcoil, modern watches often use a slightly less effective "dogleg", which uses a series of sharp bends (in plane) to place part of the outermost coil out of the way of the rest of the spring.</p>
+<h2><span class="mw-headline" id="Decline_in_popularity">Decline in popularity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pocket_watch&amp;action=edit&amp;section=13" title="Edit section: Decline in popularity">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Pocket_watch&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(July 2012)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Watch_pocket_Samsung_M910_phone_jeh.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Watch_pocket_Samsung_M910_phone_jeh.jpg/220px-Watch_pocket_Samsung_M910_phone_jeh.jpg" width="220" height="198" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Watch_pocket_Samsung_M910_phone_jeh.jpg/330px-Watch_pocket_Samsung_M910_phone_jeh.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/9/94/Watch_pocket_Samsung_M910_phone_jeh.jpg 2x" data-file-width="362" data-file-height="325" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Watch_pocket_Samsung_M910_phone_jeh.jpg" class="internal" title="Enlarge"></a></div>
+Mobile phone occupies a watch pocket</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:1990s_Pocket_watch.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/1990s_Pocket_watch.jpg/220px-1990s_Pocket_watch.jpg" width="220" height="132" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/1990s_Pocket_watch.jpg/330px-1990s_Pocket_watch.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f1/1990s_Pocket_watch.jpg/440px-1990s_Pocket_watch.jpg 2x" data-file-width="2592" data-file-height="1552" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:1990s_Pocket_watch.jpg" class="internal" title="Enlarge"></a></div>
+Colibri pocket watch, manufactured mid-1990s. The back case has an extra hinged cover that can be folded out to allow the watch to stand upright on a table.</div>
+</div>
+</div>
+<p>Pocket watches are not common in modern times, having been superseded by <a href="/wiki/Watch" title="Watch">wristwatches</a>. Up until the start of the 20th century, though, the pocket watch was predominant and the wristwatch was considered feminine and unmanly. In men's fashions, pocket watches began to be superseded by wristwatches around the time of <a href="/wiki/World_War_I" title="World War I">World War I</a>, when officers in the field began to appreciate that a watch worn on the wrist was more easily accessed than one kept in a pocket. A watch of transitional design, combining features of pocket watches and modern wristwatches, was called <a href="/wiki/Trench_watch" title="Trench watch">trench watch</a> or "wristlet". However, pocket watches continued to be widely used in railroading even as their popularity declined elsewhere.</p>
+<p>The use of pocket watches in a professional environment came to an ultimate end in approximately 1943.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2012)">citation needed</span></a></i>]</sup> The Royal Navy of the British military distributed to their sailors Waltham pocket watches, which were 9 jewel movements, with black dials, and numbers coated with radium for visibility in the dark, in anticipation of the eventual D-Day invasion.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2012)">citation needed</span></a></i>]</sup> The same Walthams were ordered by the Canadian military as well. Hanhart was a brand which was used by the Germans,<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2012)">citation needed</span></a></i>]</sup> although the German U-Boat captains (and their allied counterparts) were more likely to use <a href="/wiki/Stopwatches" class="mw-redirect" title="Stopwatches">stopwatches</a> for timing torpedo runs.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2012)">citation needed</span></a></i>]</sup></p>
+<p>For a few years in the late 1970s and 1980s <a href="/wiki/Three-piece_suit" class="mw-redirect" title="Three-piece suit">three-piece suits</a> for men returned to fashion, and this led to small resurgence in pocket watches, as some men actually used the vest pocket for its original purpose.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2012)">citation needed</span></a></i>]</sup> Since then, some watch companies continue to make pocket watches. As vests have long since fallen out of fashion (in the US) as part of formal business wear, the only available location for carrying a watch is in a trouser pocket. The more recent advent of <a href="/wiki/Mobile_phone" title="Mobile phone">mobile phones</a> and other gadgets that are worn on the waist has diminished the appeal of carrying an additional item in the same location, especially as such pocketable gadgets usually have timekeeping functionality themselves.</p>
+<p>In some countries a gift of a gold-cased pocket watch is traditionally awarded to an employee upon their <a href="/wiki/Retirement" title="Retirement">retirement</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<p>The pocketwatch has regained popularity due to <a href="/wiki/Steampunk" title="Steampunk">steampunk</a>, a <a href="/wiki/Subculture" title="Subculture">subcultural</a> movement embracing the arts and fashions of the Victorian era, where pocketwatches were nearly ubiquitous.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<h2><span class="mw-headline" id="Most_complicated_pocket_watches">Most complicated pocket watches</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pocket_watch&amp;action=edit&amp;section=14" title="Edit section: Most complicated pocket watches">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/The_Vacheron_Constantin_Reference_57260" class="mw-redirect" title="The Vacheron Constantin Reference 57260">The Vacheron Constantin Reference 57260</a> (2015) — 57 complications</li>
+<li><a href="/wiki/Patek_Philippe_Calibre_89" title="Patek Philippe Calibre 89">Patek Philippe Calibre 89</a> (1989) — 33 complications</li>
+<li><a href="/wiki/Patek_Philippe_Henry_Graves_Supercomplication" title="Patek Philippe Henry Graves Supercomplication">Patek Philippe Henry Graves Supercomplication</a> (1933) — 24 complications</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pocket_watch&amp;action=edit&amp;section=15" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_watch_manufacturers" title="List of watch manufacturers">List of watch manufacturers</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pocket_watch&amp;action=edit&amp;section=16" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation">"Watch, Mechanical", <i>Science and Technology</i>, How It Works, <b>19</b> (3rd ed.), Marshall Cavendish, 2003, p.&#160;2651, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7614-7333-5" title="Special:BookSources/0-7614-7333-5">0-7614-7333-5</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APocket+watch&amp;rft.atitle=Watch%2C+Mechanical&amp;rft.btitle=Science+and+Technology&amp;rft.date=2003&amp;rft.edition=3rd&amp;rft.genre=bookitem&amp;rft.isbn=0-7614-7333-5&amp;rft.pages=2651&amp;rft.pub=Marshall+Cavendish&amp;rft.series=How+It+Works&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> in <cite class="citation"><i>How it Works</i>, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7614-7314-9" title="Special:BookSources/0-7614-7314-9">0-7614-7314-9</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APocket+watch&amp;rft.btitle=How+it+Works&amp;rft.genre=book&amp;rft.isbn=0-7614-7314-9&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite id="CITEREFCampbell2006" class="citation">Campbell, Gordon (2006), <i>The Grove encyclopedia of decorative arts</i>, <b>1</b>, Oxford University Press, p.&#160;253, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-518948-5" title="Special:BookSources/0-19-518948-5">0-19-518948-5</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APocket+watch&amp;rft.aufirst=Gordon&amp;rft.aulast=Campbell&amp;rft.btitle=The+Grove+encyclopedia+of+decorative+arts&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=0-19-518948-5&amp;rft.pages=253&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-FOOTNOTEMilham1945133.E2.80.9337-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEMilham1945133.E2.80.9337_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEMilham1945133.E2.80.9337_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFMilham1945">Milham 1945</a>, pp.&#160;133–37.</span></li>
+<li id="cite_note-Perez-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Perez_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Perez, Carlos (2001). <a rel="nofollow" class="external text" href="http://www.timezone.com/library/cjrml/cjrml0006">"Artifacts of the Golden Age, part 1"</a>. <i>Carlos's Journal</i>. TimeZone<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-06-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APocket+watch&amp;rft.atitle=Artifacts+of+the+Golden+Age%2C+part+1&amp;rft.aufirst=Carlos&amp;rft.aulast=Perez&amp;rft.date=2001&amp;rft.genre=unknown&amp;rft.jtitle=Carlos%27s+Journal&amp;rft_id=http%3A%2F%2Fwww.timezone.com%2Flibrary%2Fcjrml%2Fcjrml0006&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-FOOTNOTEMilham1945213.E2.80.9315-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEMilham1945213.E2.80.9315_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEMilham1945213.E2.80.9315_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFMilham1945">Milham 1945</a>, pp.&#160;213–15.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia"><a rel="nofollow" class="external text" href="http://www.oldandsold.com/articles02/clocks-p.shtml">"Pocketwatch"</a>. <i>Encyclopedia of Antiques</i>. Clocks and Watches. Old and Sold.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APocket+watch&amp;rft.atitle=Pocketwatch&amp;rft.btitle=Encyclopedia+of+Antiques&amp;rft.genre=bookitem&amp;rft.pub=Old+and+Sold&amp;rft_id=http%3A%2F%2Fwww.oldandsold.com%2Farticles02%2Fclocks-p.shtml&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation">"Lépine watch", <a rel="nofollow" class="external text" href="http://www.hautehorlogerie.org/glossary/lepine-watch-open-face-343/"><i>Glossary</i></a>, Fondation de la Haute horlogerie</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APocket+watch&amp;rft.atitle=L%C3%A9pine+watch&amp;rft.btitle=Glossary&amp;rft.genre=bookitem&amp;rft.pub=Fondation+de+la+Haute+horlogerie&amp;rft_id=http%3A%2F%2Fwww.hautehorlogerie.org%2Fglossary%2Flepine-watch-open-face-343%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-savonnette-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-savonnette_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-savonnette_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.vintagewatchstraps.com/watchcases.php#savlep">"About Watch Cases and Crowns"</a>. <i>Vintage Watch Straps</i>. March 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">7 June</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APocket+watch&amp;rft.atitle=About+Watch+Cases+and+Crowns&amp;rft.date=2016-03&amp;rft.genre=unknown&amp;rft.jtitle=Vintage+Watch+Straps&amp;rft_id=http%3A%2F%2Fwww.vintagewatchstraps.com%2Fwatchcases.php%23savlep&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.hautehorlogerie.org/en/encyclopaedia/watches/mechanical-watch/d/s/the-regulating-organ-the-balance-and-spring-assembly/">"Foundation de la Haute Horlogerie"</a>. <i>hautehorlogerie.org</i>. hautehorlogerie.org. October 19, 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APocket+watch&amp;rft.atitle=Foundation+de+la+Haute+Horlogerie&amp;rft.date=2016-10-19&amp;rft.genre=unknown&amp;rft.jtitle=hautehorlogerie.org&amp;rft_id=https%3A%2F%2Fwww.hautehorlogerie.org%2Fen%2Fencyclopaedia%2Fwatches%2Fmechanical-watch%2Fd%2Fs%2Fthe-regulating-organ-the-balance-and-spring-assembly%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation book">Van Horn, Carl (2003). <i>Work in America</i>. <b>M–Z</b>. ABC-CLIO. p.&#160;236. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-57607-676-8" title="Special:BookSources/1-57607-676-8">1-57607-676-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APocket+watch&amp;rft.aufirst=Carl&amp;rft.aulast=Van+Horn&amp;rft.btitle=Work+in+America&amp;rft.date=2003&amp;rft.genre=book&amp;rft.isbn=1-57607-676-8&amp;rft.pages=236&amp;rft.pub=ABC-CLIO&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation news">Passy, Charles (9 March 2015). <a rel="nofollow" class="external text" href="http://www.marketwatch.com/story/forget-the-iwatch-the-truly-hip-go-for-the-pocket-watch-2014-06-24">"Can a pocket watch outshine the Apple Watch?"</a>. MarketWatch<span class="reference-accessdate">. Retrieved <span class="nowrap">14 October</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APocket+watch&amp;rft.atitle=Can+a+pocket+watch+outshine+the+Apple+Watch%3F&amp;rft.aufirst=Charles&amp;rft.aulast=Passy&amp;rft.date=2015-03-09&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.marketwatch.com%2Fstory%2Fforget-the-iwatch-the-truly-hip-go-for-the-pocket-watch-2014-06-24&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pocket_watch&amp;action=edit&amp;section=17" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite id="CITEREFMilham1945" class="citation">Milham, Willis I (1945), <i>Time and Timekeepers</i>, New York: MacMillan, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7808-0008-7" title="Special:BookSources/0-7808-0008-7">0-7808-0008-7</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APocket+watch&amp;rft.aufirst=Willis+I&amp;rft.aulast=Milham&amp;rft.btitle=Time+and+Timekeepers&amp;rft.date=1945&amp;rft.genre=book&amp;rft.isbn=0-7808-0008-7&amp;rft.place=New+York&amp;rft.pub=MacMillan&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pocket_watch&amp;action=edit&amp;section=18" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/pocket_watch" class="extiw" title="commons:pocket watch">pocket watch</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><cite class="citation"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=ESgDAAAAMBAJ&amp;pg=PA53">"Perfect Timepiece"</a>, <i>Popular Mechanics</i>, December 1931</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APocket+watch&amp;rft.atitle=Perfect+Timepiece&amp;rft.date=1931-12&amp;rft.genre=article&amp;rft.jtitle=Popular+Mechanics&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DESgDAAAAMBAJ%26pg%3DPA53&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span>. Illustration of workings of common mechanical pocket watch.</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Jewellery" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Jewellery" title="Template:Jewellery"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Jewellery" title="Template talk:Jewellery"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Jewellery&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Jewellery" style="font-size:114%;margin:0 4em"><a href="/wiki/Jewellery" title="Jewellery">Jewellery</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_jewellery_types" title="List of jewellery types">Forms</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anklet" title="Anklet">Anklet</a></li>
+<li><a href="/wiki/Barrette" title="Barrette">Barrette</a></li>
+<li><a href="/wiki/Belt_buckle" title="Belt buckle">Belt buckle</a></li>
+<li><a href="/wiki/Belly_chain" title="Belly chain">Belly chain</a></li>
+<li><a href="/wiki/Bindi_(decoration)" title="Bindi (decoration)">Bindi</a></li>
+<li><a href="/wiki/Bracelet" title="Bracelet">Bracelet</a></li>
+<li><a href="/wiki/Brooch" title="Brooch">Brooch</a></li>
+<li><a href="/wiki/Chatelaine_(chain)" title="Chatelaine (chain)">Chatelaine</a></li>
+<li><a href="/wiki/Collar_pin" title="Collar pin">Collar pin</a></li>
+<li><a href="/wiki/Crown_(headgear)" title="Crown (headgear)">Crown</a></li>
+<li><a href="/wiki/Cufflink" title="Cufflink">Cufflink</a></li>
+<li><a href="/wiki/Earring" title="Earring">Earring</a></li>
+<li><a href="/wiki/Ferronni%C3%A8re" title="Ferronnière">Ferronnière</a></li>
+<li><a href="/wiki/Lapel_pin" title="Lapel pin">Lapel pin</a></li>
+<li><a href="/wiki/Necklace" title="Necklace">Necklace</a></li>
+<li><a href="/wiki/Pectoral_(Ancient_Egypt)" title="Pectoral (Ancient Egypt)">Pectoral</a></li>
+<li><a href="/wiki/Pendant" title="Pendant">Pendant</a></li>
+<li><a href="/wiki/Ring_(jewellery)" title="Ring (jewellery)">Ring</a></li>
+<li><a href="/wiki/Tiara" title="Tiara">Tiara</a></li>
+<li><a href="/wiki/Tie_clip" title="Tie clip">Tie clip</a></li>
+<li><a href="/wiki/Tie_pin" title="Tie pin">Tie pin</a></li>
+<li><a href="/wiki/Toe_ring" title="Toe ring">Toe ring</a></li>
+<li><a href="/wiki/Watch" title="Watch">Watch</a>
+<ul>
+<li><a class="mw-selflink selflink">pocket</a></li>
+<li><a href="/wiki/Watch_strap" title="Watch strap">strap</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Making</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">People</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bench_jeweler" title="Bench jeweler">Bench jeweler</a></li>
+<li><a href="/wiki/Clockmaker" title="Clockmaker">Clockmaker</a></li>
+<li><a href="/wiki/Goldsmith" title="Goldsmith">Goldsmith</a></li>
+<li><a href="/wiki/Silversmith" title="Silversmith">Silversmith</a></li>
+<li><a href="/wiki/Jewelry_designer" class="mw-redirect" title="Jewelry designer">Jewelry designer</a></li>
+<li><a href="/wiki/Lapidary" title="Lapidary">Lapidary</a></li>
+<li><a href="/wiki/Watchmaker" title="Watchmaker">Watchmaker</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Processes</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cameo_(carving)" title="Cameo (carving)">Carving</a></li>
+<li><a href="/wiki/Casting_(metalworking)" title="Casting (metalworking)">Casting</a>
+<ul>
+<li><a href="/wiki/Centrifugal_casting_(silversmithing)" title="Centrifugal casting (silversmithing)">centrifugal</a></li>
+<li><a href="/wiki/Lost-wax_casting" title="Lost-wax casting">lost-wax</a></li>
+<li><a href="/wiki/Casting_(metalworking)" title="Casting (metalworking)">vacuum</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Vitreous_enamel" title="Vitreous enamel">Enameling</a></li>
+<li><a href="/wiki/Engraved_gem" title="Engraved gem">Engraving</a></li>
+<li><a href="/wiki/Filigree" title="Filigree">Filigree</a></li>
+<li><a href="/wiki/Kazaziye" title="Kazaziye">Kazaziye</a></li>
+<li><a href="/wiki/Metal_clay" title="Metal clay">Metal clay</a></li>
+<li><a href="/wiki/Plating" title="Plating">Plating</a></li>
+<li><a href="/wiki/Polishing_(metalworking)" title="Polishing (metalworking)">Polishing</a></li>
+<li><a href="/wiki/Repouss%C3%A9_and_chasing" title="Repoussé and chasing">Repoussé and chasing</a></li>
+<li><a href="/wiki/Soldering" title="Soldering">Soldering</a></li>
+<li><a href="/wiki/Stonesetting" title="Stonesetting">Stonesetting</a></li>
+<li><a href="/wiki/Wire_sculpture" title="Wire sculpture">Wire sculpture</a></li>
+<li><a href="/wiki/Wire_wrapped_jewelry" title="Wire wrapped jewelry">Wire wrapped jewelry</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Tools</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Draw_plate" title="Draw plate">Draw plate</a></li>
+<li><a href="/wiki/File_(tool)" title="File (tool)">File</a></li>
+<li><a href="/wiki/Hammer" title="Hammer">Hammer</a></li>
+<li><a href="/wiki/Mandrel" title="Mandrel">Mandrel</a></li>
+<li><a href="/wiki/Pliers" title="Pliers">Pliers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Materials</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Precious_metal" title="Precious metal">Precious metals</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Gold" title="Gold">Gold</a></li>
+<li><a href="/wiki/Palladium" title="Palladium">Palladium</a></li>
+<li><a href="/wiki/Platinum" title="Platinum">Platinum</a></li>
+<li><a href="/wiki/Rhodium" title="Rhodium">Rhodium</a></li>
+<li><a href="/wiki/Silver" title="Silver">Silver</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Precious metal <a href="/wiki/Alloy" title="Alloy">alloys</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Britannia_silver" title="Britannia silver">Britannia silver</a></li>
+<li><a href="/wiki/Colored_gold" title="Colored gold">Colored gold</a></li>
+<li><a href="/wiki/Crown_gold" title="Crown gold">Crown gold</a></li>
+<li><a href="/wiki/Electrum" title="Electrum">Electrum</a></li>
+<li><a href="/wiki/Shakud%C5%8D" title="Shakudō">Shakudō</a></li>
+<li><a href="/wiki/Shibuichi" title="Shibuichi">Shibuichi</a></li>
+<li><a href="/wiki/Sterling_silver" title="Sterling silver">Sterling silver</a></li>
+<li><a href="/wiki/Tumbaga" title="Tumbaga">Tumbaga</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Base_metal" title="Base metal">Base metals</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Brass" title="Brass">Brass</a></li>
+<li><a href="/wiki/Bronze" title="Bronze">Bronze</a></li>
+<li><a href="/wiki/Copper" title="Copper">Copper</a></li>
+<li><a href="/wiki/Mokume-gane" title="Mokume-gane">Mokume-gane</a></li>
+<li><a href="/wiki/Pewter" title="Pewter">Pewter</a></li>
+<li><a href="/wiki/Stainless_steel" title="Stainless steel">Stainless steel</a></li>
+<li><a href="/wiki/Titanium" title="Titanium">Titanium</a></li>
+<li><a href="/wiki/Tungsten" title="Tungsten">Tungsten</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Mineral <a href="/wiki/Gemstone" title="Gemstone">gemstones</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aventurine" title="Aventurine">Aventurine</a></li>
+<li><a href="/wiki/Agate" title="Agate">Agate</a></li>
+<li><a href="/wiki/Amethyst" title="Amethyst">Amethyst</a></li>
+<li><a href="/wiki/Beryl" title="Beryl">Beryl</a></li>
+<li><a href="/wiki/Carnelian" title="Carnelian">Carnelian</a></li>
+<li><a href="/wiki/Chrysoberyl" title="Chrysoberyl">Chrysoberyl</a></li>
+<li><a href="/wiki/Diamond" title="Diamond">Diamond</a></li>
+<li><a href="/wiki/Diopside" title="Diopside">Diopside</a></li>
+<li><a href="/wiki/Emerald" title="Emerald">Emerald</a></li>
+<li><a href="/wiki/Garnet" title="Garnet">Garnet</a></li>
+<li><a href="/wiki/Jade" title="Jade">Jade</a></li>
+<li><a href="/wiki/Jasper" title="Jasper">Jasper</a></li>
+<li><a href="/wiki/Lapis_lazuli" title="Lapis lazuli">Lapis lazuli</a></li>
+<li><a href="/wiki/Larimar" title="Larimar">Larimar</a></li>
+<li><a href="/wiki/Malachite" title="Malachite">Malachite</a></li>
+<li><a href="/wiki/Marcasite_jewellery" title="Marcasite jewellery">Marcasite</a></li>
+<li><a href="/wiki/Moonstone_(gemstone)" title="Moonstone (gemstone)">Moonstone</a></li>
+<li><a href="/wiki/Obsidian" title="Obsidian">Obsidian</a></li>
+<li><a href="/wiki/Onyx" title="Onyx">Onyx</a></li>
+<li><a href="/wiki/Opal" title="Opal">Opal</a></li>
+<li><a href="/wiki/Pearl" title="Pearl">Pearl</a></li>
+<li><a href="/wiki/Peridot" title="Peridot">Peridot</a></li>
+<li><a href="/wiki/Prasiolite" title="Prasiolite">Prasiolite</a></li>
+<li><a href="/wiki/Quartz" title="Quartz">Quartz</a></li>
+<li><a href="/wiki/Ruby" title="Ruby">Ruby</a></li>
+<li><a href="/wiki/Sapphire" title="Sapphire">Sapphire</a></li>
+<li><a href="/wiki/Sodalite" title="Sodalite">Sodalite</a></li>
+<li><a href="/wiki/Spinel" title="Spinel">Spinel</a></li>
+<li><a href="/wiki/Sunstone" title="Sunstone">Sunstone</a></li>
+<li><a href="/wiki/Tanzanite" title="Tanzanite">Tanzanite</a></li>
+<li><a href="/wiki/Tiger%27s_eye" title="Tiger's eye">Tiger's eye</a></li>
+<li><a href="/wiki/Topaz" title="Topaz">Topaz</a></li>
+<li><a href="/wiki/Tourmaline" title="Tourmaline">Tourmaline</a></li>
+<li><a href="/wiki/Turquoise" title="Turquoise">Turquoise</a></li>
+<li><a href="/wiki/Zircon" title="Zircon">Zircon</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Organic gemstones</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abalone" title="Abalone">Abalone</a></li>
+<li><a href="/wiki/Amber" title="Amber">Amber</a></li>
+<li><a href="/wiki/Ammolite" title="Ammolite">Ammolite</a></li>
+<li><a href="/wiki/Copal" title="Copal">Copal</a></li>
+<li><a href="/wiki/Precious_coral" title="Precious coral">Coral</a></li>
+<li><a href="/wiki/Ivory" title="Ivory">Ivory</a></li>
+<li><a href="/wiki/Jet_(lignite)" title="Jet (lignite)">Jet</a></li>
+<li><a href="/wiki/Nacre" title="Nacre">Nacre</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other natural objects</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bog-wood" title="Bog-wood">Bog-wood</a></li>
+<li><a href="/wiki/Hair_jewellery" title="Hair jewellery">Hair</a></li>
+<li><a href="/wiki/Shell_jewelry" title="Shell jewelry">Shell jewelry</a></li>
+<li><a href="/wiki/Toadstone" title="Toadstone">Toadstone</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Terms</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carat_(mass)" title="Carat (mass)">Carat</a> (mass)</li>
+<li><a href="/wiki/Carat_(purity)" class="mw-redirect" title="Carat (purity)">Carat</a> (purity)</li>
+<li><a href="/wiki/Finding_(jewelcrafting)" title="Finding (jewelcrafting)">Finding</a></li>
+<li><a href="/wiki/Millesimal_fineness" class="mw-redirect" title="Millesimal fineness">Millesimal fineness</a></li>
+<li><a href="/wiki/Art_jewelry" title="Art jewelry">Art jewelry</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<dl>
+<dt>Related topics</dt>
+<dd><a href="/wiki/Body_piercing" title="Body piercing">Body piercing</a></dd>
+<dd><a href="/wiki/Fashion" title="Fashion">Fashion</a></dd>
+<dd><a href="/wiki/Gemology" title="Gemology">Gemology</a></dd>
+<dd><a href="/wiki/Phaleristics" title="Phaleristics">Phaleristics</a></dd>
+<dd><a href="/wiki/Metalworking" title="Metalworking">Metalworking</a></dd>
+<dd><a href="/wiki/Wearable_art" title="Wearable art">Wearable art</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4059095-1">4059095-1</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1214
+Cached time: 20170916155744
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.460 seconds
+Real time usage: 0.581 seconds
+Preprocessor visited node count: 2648/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 84307/2097152 bytes
+Template argument size: 6347/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 6/500
+Lua time usage: 0.258/10.000 seconds
+Lua memory usage: 6.67 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  454.363      1 -total
+ 39.47%  179.340     12 Template:Citation_needed
+ 35.97%  163.437     12 Template:Fix
+ 21.92%   99.618     12 Template:Delink
+ 20.89%   94.906      1 Template:Reflist
+ 12.37%   56.218     24 Template:Category_handler
+ 11.77%   53.457      6 Template:Citation
+  7.62%   34.602      1 Template:Quote
+  7.24%   32.912      1 Template:Authority_control
+  6.95%   31.563      2 Template:Convert
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:767894-0!canonical and timestamp 20170916155744 and revision id 799437338
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Pocket_watch&amp;oldid=799437338">https://en.wikipedia.org/w/index.php?title=Pocket_watch&amp;oldid=799437338</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Watches" title="Category:Watches">Watches</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2015" title="Category:Articles with unsourced statements from March 2015">Articles with unsourced statements from March 2015</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2010" title="Category:Articles with unsourced statements from March 2010">Articles with unsourced statements from March 2010</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2015" title="Category:Articles with unsourced statements from October 2015">Articles with unsourced statements from October 2015</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_July_2012" title="Category:Articles needing additional references from July 2012">Articles needing additional references from July 2012</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2012" title="Category:Articles with unsourced statements from July 2012">Articles with unsourced statements from July 2012</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Pocket+watch" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Pocket+watch" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Pocket_watch" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Pocket_watch" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Pocket_watch">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Pocket_watch&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Pocket_watch&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Pocket_watch" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Pocket_watch" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Pocket_watch&amp;oldid=799437338" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Pocket_watch&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q849813" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Pocket_watch&amp;id=799437338" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Pocket+watch">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Pocket+watch&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DPocket%2Bwatch%26returnto%3DPocket%2Bwatch%26oldid%3D799437338%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Pocket_watch&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Pocket_watches" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B3%D8%A7%D8%B9%D8%A9_%D8%AC%D9%8A%D8%A8" title="ساعة جيب – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D0%B1%D0%B5%D0%BD_%D1%87%D0%B0%D1%81%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA" title="Джобен часовник – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Rellotge_de_butxaca" title="Rellotge de butxaca – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Lommeur" title="Lommeur – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Taschenuhr" title="Taschenuhr – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Taskukell" title="Taskukell – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Reloj_de_bolsillo" title="Reloj de bolsillo – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Po%C5%9Dhorlo%C4%9Do" title="Poŝhorloĝo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B3%D8%A7%D8%B9%D8%AA_%D8%AC%DB%8C%D8%A8%DB%8C" title="ساعت جیبی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Montre_gousset" title="Montre gousset – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%9A%8C%EC%A4%91_%EC%8B%9C%EA%B3%84" title="회중 시계 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B3%D6%80%D5%BA%D5%A1%D5%B6%D5%AB_%D5%AA%D5%A1%D5%B4%D5%A1%D6%81%D5%B8%D6%82%D5%B5%D6%81" title="Գրպանի ժամացույց – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Jam_saku" title="Jam saku – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Orologio_da_tasca" title="Orologio da tasca – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A9%D7%A2%D7%95%D7%9F_%D7%9B%D7%99%D7%A1" title="שעון כיס – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%AA%E0%B5%8B%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%8D_%E0%B4%B5%E0%B4%BE%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B5%8D" title="പോക്കറ്റ് വാച്ച് – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E6%87%90%E4%B8%AD%E6%99%82%E8%A8%88" title="懐中時計 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Lommeur" title="Lommeur – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Lommeur" title="Lommeur – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Rel%C3%B3gio_de_bolso" title="Relógio de bolso – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%BC%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%87%D0%B0%D1%81%D1%8B" title="Карманные часы – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Pocket_watch" title="Pocket watch – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Taskukello" title="Taskukello – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Fickur" title="Fickur – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Cep_saati" title="Cep saati – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Panbursa_nga_relo" title="Panbursa nga relo – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E6%87%B7%E9%8C%B6" title="懷錶 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%80%80%E8%A1%A8" title="怀表 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q849813#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 7 September 2017, at 18:46.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Pocket_watch&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.460","walltime":"0.581","ppvisitednodes":{"value":2648,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":84307,"limit":2097152},"templateargumentsize":{"value":6347,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  454.363      1 -total"," 39.47%  179.340     12 Template:Citation_needed"," 35.97%  163.437     12 Template:Fix"," 21.92%   99.618     12 Template:Delink"," 20.89%   94.906      1 Template:Reflist"," 12.37%   56.218     24 Template:Category_handler"," 11.77%   53.457      6 Template:Citation","  7.62%   34.602      1 Template:Quote","  7.24%   32.912      1 Template:Authority_control","  6.95%   31.563      2 Template:Convert"]},"scribunto":{"limitreport-timeusage":{"value":"0.258","limit":"10.000"},"limitreport-memusage":{"value":6991387,"limit":52428800}},"cachereport":{"origin":"mw1214","timestamp":"20170916155744","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":87,"wgHostname":"mw1275"});});</script>
+	</body>
+</html>

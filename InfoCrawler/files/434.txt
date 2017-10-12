@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Reichstag (Weimar Republic) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Reichstag_(Weimar_Republic)","wgTitle":"Reichstag (Weimar Republic)","wgCurRevisionId":799790703,"wgRevisionId":799790703,"wgArticleId":30599602,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Reichstag (legislative body)","1945 disestablishments in Germany","Politics of the Weimar Republic","Defunct bicameral legislatures","Defunct national legislatures"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Reichstag_(Weimar_Republic)","wgRelevantArticleId":30599602,"wgRequestId":"WcnLhgpAIDcAACTcDzwAAAAF","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q637829","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Wappen_Deutsches_Reich_%28Weimarer_Republik%29.svg/1200px-Wappen_Deutsches_Reich_%28Weimarer_Republik%29.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Reichstag_(Weimar_Republic)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Reichstag_(Weimar_Republic)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Reichstag_(Weimar_Republic)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Reichstag_(Weimar_Republic)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Reichstag_Weimar_Republic rootpage-Reichstag_Weimar_Republic skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Reichstag (Weimar Republic)</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about a past parliament of Germany. For the structure the body meets in, see <a href="/wiki/Reichstag_building" title="Reichstag building">Reichstag building</a>. For anything else, see <a href="/wiki/Reichstag_(disambiguation)" class="mw-redirect mw-disambig" title="Reichstag (disambiguation)">Reichstag (disambiguation)</a>.</div>
+<table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: #ededed"><span class="fn org">Reichstag</span><br />
+<span class="nickname">Deutscher Reichstag</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">Legislative body of the <a href="/wiki/Weimar_Republic" title="Weimar Republic">Weimar Republic</a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Wappen_Deutsches_Reich_(Weimarer_Republik).svg" class="image" title="Coat of arms or logo"><img alt="Coat of arms or logo" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Wappen_Deutsches_Reich_%28Weimarer_Republik%29.svg/150px-Wappen_Deutsches_Reich_%28Weimarer_Republik%29.svg.png" width="150" height="188" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Wappen_Deutsches_Reich_%28Weimarer_Republik%29.svg/225px-Wappen_Deutsches_Reich_%28Weimarer_Republik%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Wappen_Deutsches_Reich_%28Weimarer_Republik%29.svg/300px-Wappen_Deutsches_Reich_%28Weimarer_Republik%29.svg.png 2x" data-file-width="480" data-file-height="600" /></a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #ededed">Type</th>
+</tr>
+<tr>
+<th scope="row">Type</th>
+<td>
+<div style="padding:0.1em 0;line-height:1.3em;"><span class="category"><a href="/wiki/Bicameral" class="mw-redirect" title="Bicameral">Bicameral</a></span></div>
+</td>
+</tr>
+<tr>
+<th scope="row">Chambers</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/Reichstag_(building)" class="mw-redirect" title="Reichstag (building)">Reichstag</a></li>
+<li><a href="/wiki/Reichsrat_(Germany)" title="Reichsrat (Germany)">Reichsrat</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #ededed">History</th>
+</tr>
+<tr>
+<th scope="row">Established</th>
+<td>1919</td>
+</tr>
+<tr>
+<th scope="row">Disbanded</th>
+<td>1933</td>
+</tr>
+<tr>
+<th scope="row">Preceded&#160;by</th>
+<td><a href="/wiki/Weimar_National_Assembly" title="Weimar National Assembly">Weimar National Assembly</a></td>
+</tr>
+<tr>
+<th scope="row">Succeeded&#160;by</th>
+<td><a href="/wiki/Reichstag_(Nazi_Germany)" title="Reichstag (Nazi Germany)">Nazi Reichstag</a></td>
+</tr>
+<tr>
+<th scope="row">Seats</th>
+<td>661 (at dissolution)</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #ededed">Elections</th>
+</tr>
+<tr>
+<th scope="row">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Voting_system" class="mw-redirect" title="Voting system">Voting system</a></div>
+</th>
+<td>Direct competitive elections</td>
+</tr>
+<tr>
+<th scope="row">
+<div style="padding:0.1em 0;line-height:1.2em;">Last election</div>
+</th>
+<td><a href="/wiki/German_election_and_referendum,_1938" title="German election and referendum, 1938">13 March 1938</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #ededed">Meeting place</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Bundesarchiv_Bild_102-13744,_Berlin,_Reichstag,_Verfassungsfeier.jpg" class="image"><img alt="Bundesarchiv Bild 102-13744, Berlin, Reichstag, Verfassungsfeier.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bundesarchiv_Bild_102-13744%2C_Berlin%2C_Reichstag%2C_Verfassungsfeier.jpg/220px-Bundesarchiv_Bild_102-13744%2C_Berlin%2C_Reichstag%2C_Verfassungsfeier.jpg" width="220" height="147" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bundesarchiv_Bild_102-13744%2C_Berlin%2C_Reichstag%2C_Verfassungsfeier.jpg/330px-Bundesarchiv_Bild_102-13744%2C_Berlin%2C_Reichstag%2C_Verfassungsfeier.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bundesarchiv_Bild_102-13744%2C_Berlin%2C_Reichstag%2C_Verfassungsfeier.jpg/440px-Bundesarchiv_Bild_102-13744%2C_Berlin%2C_Reichstag%2C_Verfassungsfeier.jpg 2x" data-file-width="800" data-file-height="533" /></a></td>
+</tr>
+<tr>
+<td colspan="2" class="label" style="text-align:center"><a href="/wiki/Reichstag_building" title="Reichstag building">Reichstag building</a>, <a href="/wiki/Berlin" title="Berlin">Berlin</a></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Bundesarchiv_N_1310_Bild-048,_Berlin,_Reichstagssitzung.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bundesarchiv_N_1310_Bild-048%2C_Berlin%2C_Reichstagssitzung.jpg/300px-Bundesarchiv_N_1310_Bild-048%2C_Berlin%2C_Reichstagssitzung.jpg" width="300" height="214" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bundesarchiv_N_1310_Bild-048%2C_Berlin%2C_Reichstagssitzung.jpg/450px-Bundesarchiv_N_1310_Bild-048%2C_Berlin%2C_Reichstagssitzung.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bundesarchiv_N_1310_Bild-048%2C_Berlin%2C_Reichstagssitzung.jpg/600px-Bundesarchiv_N_1310_Bild-048%2C_Berlin%2C_Reichstagssitzung.jpg 2x" data-file-width="800" data-file-height="570" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Bundesarchiv_N_1310_Bild-048,_Berlin,_Reichstagssitzung.jpg" class="internal" title="Enlarge"></a></div>
+Reichstag on September 12, 1932 – Chancellor <a href="/wiki/Franz_von_Papen" title="Franz von Papen">Papen</a> (stands, left) demands the floor, ignored by Speaker <a href="/wiki/Hermann_G%C3%B6ring" title="Hermann Göring">Göring</a> (right)</div>
+</div>
+</div>
+<p>The <i><b>Reichstag</b></i> (<a href="/wiki/English_language" title="English language">English</a>: <b><a href="/wiki/Diet_(assembly)" title="Diet (assembly)">Diet</a> of the Realm</b><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) was a <a href="/wiki/Legislature" title="Legislature">legislative body</a> of <a href="/wiki/Weimar_Republic" title="Weimar Republic">Weimar Germany</a> (the "<a href="/wiki/German_Reich" title="German Reich">German Reich</a>") from 1919, when it succeeded the <a href="/wiki/Weimar_National_Assembly" title="Weimar National Assembly">Weimar National Assembly</a>, until the <a href="/wiki/Machtergreifung" class="mw-redirect" title="Machtergreifung">Nazi takeover</a> in 1933.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Home"><span class="tocnumber">2</span> <span class="toctext">Home</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reichstag_(Weimar_Republic)&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Although German constitutional commentators consider only the <i>Reichstag</i> and now the <i><a href="/wiki/Bundestag" title="Bundestag">Bundestag</a></i> to be the German parliament, in fact since 1871 Germany has been governed by a <a href="/wiki/Bicameralism" title="Bicameralism">bicameral</a> legislature, of which the <i>Reichstag</i> served as a <a href="/wiki/Lower_house" title="Lower house">lower house</a> and the <i><a href="/wiki/Reichsrat_(Germany)" title="Reichsrat (Germany)">Reichsrat</a></i> (after 1949 the <i><a href="/wiki/Bundesrat_of_Germany" title="Bundesrat of Germany">Bundesrat</a></i>) as the <a href="/wiki/Upper_house" title="Upper house">upper house</a>. Constitutionally, the <i>Reichsrat</i> represented the governments of the federal <a href="/wiki/States_of_Germany" title="States of Germany">German states</a>.</p>
+<p>According to the 1919 <a href="/wiki/Weimar_Constitution" title="Weimar Constitution">Weimar Constitution</a>, the members of the <i>Reichstag</i> were to be elected by <a href="/wiki/General_election" title="General election">general</a> <a href="/wiki/Universal_suffrage" title="Universal suffrage">universal suffrage</a> according to the principle of <a href="/wiki/Proportional_representation" title="Proportional representation">proportional representation</a>. Votes were cast for nationwide party lists. Elections were to be held at the end of a <a href="/wiki/Legislative_session" title="Legislative session">legislative session</a> of four years. Because of some special requirements, there were still inconsistencies between the total share of votes received by a party and its share of the seats. Hitler was not in power yet.</p>
+<p>There was no hard and fast <a href="/wiki/Election_threshold" title="Election threshold">threshold</a> for winning a seat in the <i>Reichstag</i>. In practice, a party could do so with as little as 0.4 percent of the national vote—one seat for some 60,000 votes. While this provision was intended to reduce <a href="/wiki/Wasted_vote" title="Wasted vote">wasted votes</a>, it also resulted in a large number of parties being represented in the chamber. Combined with the nationwide party-list system, this made it extremely difficult to form a stable government.</p>
+<p>Moreover, each political party wanted to pull Germany in a different direction and parties often refused to compromise with, or even recognize, other parties. As scholar <a href="/wiki/Erik_von_Kuehnelt-Leddihn" title="Erik von Kuehnelt-Leddihn">Erik von Kuehnelt-Leddihn</a> wrote in 1943:</p>
+<blockquote class="templatequote">
+<p>Catholic Centrists wanted to create conditions in Germany which would make it easier for the individuals to save their <i>souls</i>; Socialists denied the existence of souls and divided people into <i>classes</i>; the German Nationalists were interested in <i>language and culture</i>; while the National Socialists put the main stress on <i>race</i>. Whereas some looked at pocketbooks, others at the pigmentation of the skin or the index of the skull, fruitful discussions became impossible. When the speaker of one party indulged in his oratory, the others walked out. It was not worth while to listen to somebody's opinion when you knew that his premises were all wrong. The grim determination to silence the unconvincible enemy by execution or imprisonment already existed prior to 1933 in many parties.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+</blockquote>
+<p>The parliament passed <a href="/wiki/Legislation" title="Legislation">legislation</a> and the <a href="/wiki/Government_budget" title="Government budget">government budget</a>, as well as making <a href="/wiki/Declaration_of_war" title="Declaration of war">declarations of war</a> and ratifying international <a href="/wiki/Treaty" title="Treaty">treaties</a>. The members of the <a href="/wiki/Cabinet_of_Germany" title="Cabinet of Germany">German cabinet</a>, or government, were responsible to the <i>Reichstag</i>, which could force the resignation of ministers or even the whole cabinet by a <a href="/wiki/Motion_of_no_confidence" title="Motion of no confidence">motion of no confidence</a>. It could also revoke "emergency decrees" by the <a href="/wiki/President_of_Germany_(1919%E2%80%931945)" title="President of Germany (1919–1945)"><i>Reich</i> President</a> according to <a href="/wiki/Article_48_(Weimar_Constitution)" title="Article 48 (Weimar Constitution)">Article 48</a> of the constitution -—however, on the other hand the President was able to dissolve the <i>Reichstag</i>. In contrast, the <i>Reichsrat</i>, the house of state representatives, had minor significance. The constitution also provided for the possibility of <a href="/wiki/Referendum" title="Referendum">referenda</a>, but the hurdles to overcome were high. There were only two plebiscites (in <a href="/wiki/German_referendum,_1926" title="German referendum, 1926">1926</a> on the <a href="/wiki/Expropriation_of_the_Princes_in_the_Weimar_Republic" title="Expropriation of the Princes in the Weimar Republic">Expropriation of the Princes</a> and in <a href="/wiki/German_referendum,_1929" title="German referendum, 1929">1929</a> on the "Liberty Law" against the <a href="/wiki/Young_Plan" title="Young Plan">Young Plan</a>), which were both unsuccessful.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Bundesarchiv_Bild_102-13801,_Berlin,_Reichstag,_Er%C3%B6ffnung.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bundesarchiv_Bild_102-13801%2C_Berlin%2C_Reichstag%2C_Er%C3%B6ffnung.jpg/220px-Bundesarchiv_Bild_102-13801%2C_Berlin%2C_Reichstag%2C_Er%C3%B6ffnung.jpg" width="220" height="157" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bundesarchiv_Bild_102-13801%2C_Berlin%2C_Reichstag%2C_Er%C3%B6ffnung.jpg/330px-Bundesarchiv_Bild_102-13801%2C_Berlin%2C_Reichstag%2C_Er%C3%B6ffnung.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bundesarchiv_Bild_102-13801%2C_Berlin%2C_Reichstag%2C_Er%C3%B6ffnung.jpg/440px-Bundesarchiv_Bild_102-13801%2C_Berlin%2C_Reichstag%2C_Er%C3%B6ffnung.jpg 2x" data-file-width="800" data-file-height="572" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Bundesarchiv_Bild_102-13801,_Berlin,_Reichstag,_Er%C3%B6ffnung.jpg" class="internal" title="Enlarge"></a></div>
+Opening ceremony on 30 August 1932, Nazi members of the <i>Reichstag</i> in uniform</div>
+</div>
+</div>
+<p>All too often, when a Chancellor was removed from office, his replacement was well short of a majority. This was especially pronounced in the 1930s, when Chancellors had to resort to Article 48 just to conduct the ordinary business of government.</p>
+<p>In the <a href="/wiki/German_federal_election,_1928" title="German federal election, 1928">election of 1928</a>, the <a href="/wiki/Nazi_Party" title="Nazi Party">Nazi Party</a> won only 12 seats in the <i>Reichstag</i>, making it the smallest of the nine parties in the chamber. However, over the following two years it gained another 95. At the <a href="/wiki/German_federal_election,_July_1932" title="German federal election, July 1932">election of 1932</a>, the Nazis and the <a href="/wiki/Communist_Party_of_Germany" title="Communist Party of Germany">Communist Party</a>, both declared enemies of the parliamentary system, together held an absolute majority of the seats. In 1920–1923 and from 1930 onwards, the parliament was often circumvented by two instruments not strictly provided for by the constitution:</p>
+<ul>
+<li>the extensive use of powers granted to the President by the use of the Emergency Decree in Article 48 of the constitution,</li>
+<li>the use of <a href="/wiki/Enabling_act" title="Enabling act">enabling acts</a>, especially in 1919–1923, and then again the <a href="/wiki/Enabling_Act_of_1933" title="Enabling Act of 1933">Enabling Act of 1933</a>, after <a href="/wiki/Adolf_Hitler" title="Adolf Hitler">Hitler</a> had been appointed <a href="/wiki/Chancellor_of_Germany" title="Chancellor of Germany">Chancellor</a>, which formed an important building block of his dictatorship.</li>
+</ul>
+<p>With this latter enabling act, the <i>Reichstag</i> formally gave up its exclusive responsibility for the exercise of the legislative power.</p>
+<p>From then on, the German parliament only functioned as a one-party-assembly and as a body which ratified the actions of the Nazi dictatorship by acclamation. Even in its purely ceremonial role, the Third Reich's <i>Reichstag</i> convened only twenty times, the last being on April 26, 1942. On January 25, 1943, five days before the expiration of the last <i>Reichstag</i><span class="nowrap" style="padding-left:0.1em;">'s</span> term of office, the summoning of a new body was postponed for another electoral term, until January 30, 1947, by a decree of the <i>Führer</i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p>When in 1948–1949 the West German politicians established a new democracy, they used the word <i>Bund</i> (federation) in place of <i>Reich</i>; in German constitutional history both terms were almost exchangeable. With memories of how the Nazis had exploited the weaknesses of the <i>Reichstag</i> still fresh, the founders of the new state built in several safeguards to prevent a repeat occurrence. The new parliament became the <i><a href="/wiki/Bundestag" title="Bundestag">Bundestag</a></i>, elected by <a href="/wiki/Mixed-member_proportional_representation" title="Mixed-member proportional representation">mixed-member proportional representation</a>—a mix of members elected from individual constituencies and state party lists. From 1949, to qualify for seats by proportional representation, a party must either win at least five percent of the national vote or else win three directly elected seats. The Chancellor (<i>Bundeskanzler</i>) must be elected by an absolute majority in the <i>Bundestag</i>, and could only be removed from office if a prospective successor was already assured of a majority. Besides the <i>Bundestag</i>, the <i>Bundesrat</i> (representing the governments of the states) has a decisive vote on legislation where the states' interests are concerned.</p>
+<h2><span class="mw-headline" id="Home">Home</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reichstag_(Weimar_Republic)&amp;action=edit&amp;section=2" title="Edit section: Home">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Bundesarchiv_Bild_102-13744,_Berlin,_Reichstag,_Verfassungsfeier.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bundesarchiv_Bild_102-13744%2C_Berlin%2C_Reichstag%2C_Verfassungsfeier.jpg/220px-Bundesarchiv_Bild_102-13744%2C_Berlin%2C_Reichstag%2C_Verfassungsfeier.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bundesarchiv_Bild_102-13744%2C_Berlin%2C_Reichstag%2C_Verfassungsfeier.jpg/330px-Bundesarchiv_Bild_102-13744%2C_Berlin%2C_Reichstag%2C_Verfassungsfeier.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bundesarchiv_Bild_102-13744%2C_Berlin%2C_Reichstag%2C_Verfassungsfeier.jpg/440px-Bundesarchiv_Bild_102-13744%2C_Berlin%2C_Reichstag%2C_Verfassungsfeier.jpg 2x" data-file-width="800" data-file-height="533" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Bundesarchiv_Bild_102-13744,_Berlin,_Reichstag,_Verfassungsfeier.jpg" class="internal" title="Enlarge"></a></div>
+Reichstag building, constitution celebration, 11 August 1932</div>
+</div>
+</div>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Reichstag_(building)" class="mw-redirect" title="Reichstag (building)">Reichstag (building)</a></div>
+<p>After the <a href="/wiki/German_unification" class="mw-redirect" title="German unification">German unification</a> of 1870, the new <i>Reichstag</i> first met in the houses of the <a href="/wiki/Preu%C3%9Fischer_Landtag" class="mw-redirect" title="Preußischer Landtag">Prussian <i>Landtag</i></a> in Berlin. In 1871 it decided to have a new building constructed, and in the mean time had its base in a former porcelain factory at number 4, <a href="/wiki/Leipziger_Stra%C3%9Fe" title="Leipziger Straße">Leipziger Straße</a>. Some 23 years later the <i>Reichstag</i><span class="nowrap" style="padding-left:0.1em;">'s</span> new building was finished, and it was opened by the Emperor in 1894. This is today known as the <i>Reichstagsgebäude</i> or as the <i>Reichstag</i>.</p>
+<p>After the building was severely damaged in the <a href="/wiki/Reichstag_fire" title="Reichstag fire">Reichstag fire</a> of February 1933, the Nazi Reichstag met in the nearby <a href="/wiki/Kroll_Opera_House" title="Kroll Opera House">Kroll Opera House</a>. Towards the end of the war the surviving, but heavily damaged <i>Reichstag</i> building was the object of numerous Soviet attacks, because it was seen as a symbol of the <a href="/wiki/Third_Reich" class="mw-redirect" title="Third Reich">Third Reich</a>. They hoisted the <a href="/wiki/Red_flag_(politics)" title="Red flag (politics)">Red Flag</a> just in time for the <a href="/wiki/Mayday" title="Mayday">Mayday</a> celebrations of 1945. After the war, it was repaired and used as an exhibition hall, but major renovation and rebuilding was needed for the new German <i>Bundestag</i>. Since 1999 the German <i><a href="/wiki/Bundestag" title="Bundestag">Bundestag</a></i> has used the former <i>Reichstag</i> as its permanent building. Its official address is <i>Platz der Republik 1</i>.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reichstag_(Weimar_Republic)&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Presidium_of_the_Reichstag_(Weimar_Republic)" title="Presidium of the Reichstag (Weimar Republic)">Presidium of the Reichstag (Weimar Republic)</a></li>
+<li><a href="/wiki/Elections_in_Germany" title="Elections in Germany">Elections in Germany</a></li>
+<li>First elections to the Reichstag in 1919: <a href="/wiki/German_federal_election,_1919" title="German federal election, 1919">German federal election, 1919</a></li>
+<li><a href="/wiki/Reichstag_(disambiguation)" class="mw-redirect mw-disambig" title="Reichstag (disambiguation)">Reichstag (disambiguation)</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reichstag_(Weimar_Republic)&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Moonis Raza, <i>Geographical Dictionary of the World in the Early 20th Century with Pronouncing Gazetteer</i> (New Delhi, India: Concept Publishing Company, 1990, 2 Vols.) P. 712</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a href="/wiki/Erik_von_Kuehnelt-Leddihn" title="Erik von Kuehnelt-Leddihn">Erik von Kuehnelt-Leddihn</a>, under the pen name of Francis Stewart Campbell, <i><a rel="nofollow" class="external text" href="http://library.mises.org/books/Erik%20von%20Kuehnelt-Leddihn/The%20Menace%20of%20the%20Herd,%20or%20Procrustes%20at%20Large.pdf">The Menace of the Herd, or Procrustes at Large</a></i> (The Bruce Publishing Company, 1943), p. 183</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Peter Hubert, <i>Uniformierter Reichstag. Die Geschichte der Pseudo-Volksvertretung 1933–1945</i> (Droste Verlag, Düsseldorf, 1992)</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Joachim Lilla, <i>Statisten in Uniform. Die Mitglieder des Reichstags 1933–1945</i> (Droste Verlag, Düsseldorf, 2004)</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reichstag_(Weimar_Republic)&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Reichstag_(Weimar_Republic)" class="extiw" title="commons:Category:Reichstag (Weimar Republic)">Reichstag (Weimar Republic)</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://mdz1.bib-bvb.de/cocoon/reichsblatt/blatt.html">Complete collection of records of the Reichstag from 1919- 1942 at the Bavarian State Library. In German.</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1185
+Cached time: 20170926033743
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.128 seconds
+Real time usage: 0.174 seconds
+Preprocessor visited node count: 898/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 12120/2097152 bytes
+Template argument size: 2216/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Lua time usage: 0.034/10.000 seconds
+Lua memory usage: 1.5 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  132.438      1 -total
+ 42.54%   56.333      1 Template:Infobox_legislature
+ 32.22%   42.665      1 Template:Infobox
+ 23.07%   30.560      1 Template:Commons_category
+ 14.61%   19.343      1 Template:About
+  9.23%   12.230      1 Template:Reflist
+  8.00%   10.597      1 Template:Commons
+  6.79%    8.988      1 Template:Sister_project
+  5.08%    6.733      1 Template:Side_box
+  3.96%    5.250      1 Template:Unbulleted_list
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:30599602-0!canonical and timestamp 20170926033742 and revision id 799790703
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Reichstag_(Weimar_Republic)&amp;oldid=799790703">https://en.wikipedia.org/w/index.php?title=Reichstag_(Weimar_Republic)&amp;oldid=799790703</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Reichstag_(legislative_body)" title="Category:Reichstag (legislative body)">Reichstag (legislative body)</a></li><li><a href="/wiki/Category:1945_disestablishments_in_Germany" title="Category:1945 disestablishments in Germany">1945 disestablishments in Germany</a></li><li><a href="/wiki/Category:Politics_of_the_Weimar_Republic" title="Category:Politics of the Weimar Republic">Politics of the Weimar Republic</a></li><li><a href="/wiki/Category:Defunct_bicameral_legislatures" title="Category:Defunct bicameral legislatures">Defunct bicameral legislatures</a></li><li><a href="/wiki/Category:Defunct_national_legislatures" title="Category:Defunct national legislatures">Defunct national legislatures</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Reichstag+%28Weimar+Republic%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Reichstag+%28Weimar+Republic%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Reichstag_(Weimar_Republic)" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Reichstag_(Weimar_Republic)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Reichstag_(Weimar_Republic)">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Reichstag_(Weimar_Republic)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Reichstag_(Weimar_Republic)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Reichstag_(Weimar_Republic)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Reichstag_(Weimar_Republic)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Reichstag_(Weimar_Republic)&amp;oldid=799790703" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Reichstag_(Weimar_Republic)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q637829" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Reichstag_%28Weimar_Republic%29&amp;id=799790703" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Reichstag+%28Weimar+Republic%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Reichstag+%28Weimar+Republic%29&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DReichstag%2B%2528Weimar%2BRepublic%2529%26returnto%3DReichstag%2B%2528Weimar%2BRepublic%2529%26oldid%3D799790703%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Reichstag_(Weimar_Republic)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Reichstag_(Weimar_Republic)" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A0%D1%8D%D0%B9%D1%85%D1%81%D1%82%D0%B0%D0%B3_(%D0%92%D0%B5%D0%B9%D0%BC%D0%B0%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D1%8D%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D1%96%D0%BA%D0%B0)" title="Рэйхстаг (Веймарская рэспубліка) – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Rigsdagen_(Weimarrepublikken)" title="Rigsdagen (Weimarrepublikken) – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Reichstag_(Weimarer_Republik)" title="Reichstag (Weimarer Republik) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Reichstag_(R%C3%A9publique_de_Weimar)" title="Reichstag (République de Weimar) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A0%E1%83%90%E1%83%98%E1%83%AE%E1%83%A1%E1%83%A2%E1%83%90%E1%83%92%E1%83%98_(%E1%83%95%E1%83%90%E1%83%98%E1%83%9B%E1%83%90%E1%83%A0%E1%83%98%E1%83%A1_%E1%83%A0%E1%83%94%E1%83%A1%E1%83%9E%E1%83%A3%E1%83%91%E1%83%9A%E1%83%98%E1%83%99%E1%83%90)" title="რაიხსტაგი (ვაიმარის რესპუბლიკა) – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Riksdagen_(Weimarrepublikken)" title="Riksdagen (Weimarrepublikken) – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B9%D1%85%D1%81%D1%82%D0%B0%D0%B3_(1919%E2%80%941945)" title="Рейхстаг (1919—1945) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Riksdagen_(Weimarrepubliken)" title="Riksdagen (Weimarrepubliken) – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%84%E0%B8%A3%E0%B8%8A%E0%B8%AA%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%84_(%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B9%84%E0%B8%A7%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B9%8C)" title="ไรชส์ทาค (สาธารณรัฐไวมาร์) – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q637829#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 9 September 2017, at 21:29.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Reichstag_(Weimar_Republic)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.128","walltime":"0.174","ppvisitednodes":{"value":898,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":12120,"limit":2097152},"templateargumentsize":{"value":2216,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  132.438      1 -total"," 42.54%   56.333      1 Template:Infobox_legislature"," 32.22%   42.665      1 Template:Infobox"," 23.07%   30.560      1 Template:Commons_category"," 14.61%   19.343      1 Template:About","  9.23%   12.230      1 Template:Reflist","  8.00%   10.597      1 Template:Commons","  6.79%    8.988      1 Template:Sister_project","  5.08%    6.733      1 Template:Side_box","  3.96%    5.250      1 Template:Unbulleted_list"]},"scribunto":{"limitreport-timeusage":{"value":"0.034","limit":"10.000"},"limitreport-memusage":{"value":1577945,"limit":52428800}},"cachereport":{"origin":"mw1185","timestamp":"20170926033743","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":256,"wgHostname":"mw1185"});});</script>
+	</body>
+</html>

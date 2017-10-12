@@ -1,0 +1,590 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Special Interest Group on Information Retrieval - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Special_Interest_Group_on_Information_Retrieval","wgTitle":"Special Interest Group on Information Retrieval","wgCurRevisionId":776726056,"wgRevisionId":776726056,"wgArticleId":14109784,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Official website different in Wikidata and Wikipedia","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with NLA identifiers","Association for Computing Machinery Special Interest Groups","Information retrieval organizations"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Special_Interest_Group_on_Information_Retrieval","wgRelevantArticleId":14109784,"wgRequestId":"WcWIxwpAIDQAACnXZ6IAAAAQ","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q7574597","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/3/31/Sig-information-retrieval-logo.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Special_Interest_Group_on_Information_Retrieval"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Special_Interest_Group_on_Information_Retrieval&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Special_Interest_Group_on_Information_Retrieval&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Special_Interest_Group_on_Information_Retrieval"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Special_Interest_Group_on_Information_Retrieval rootpage-Special_Interest_Group_on_Information_Retrieval skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Special Interest Group on Information Retrieval</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em">
+<caption class="fn org">ACM Special Interest Group on Information Retrieval</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Sig-information-retrieval-logo.png" class="image" title="ACM SIGIR"><img alt="ACM SIGIR" src="//upload.wikimedia.org/wikipedia/commons/3/31/Sig-information-retrieval-logo.png" width="140" height="65" data-file-width="140" data-file-height="65" /></a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Parent organization</div>
+</th>
+<td><a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Website</th>
+<td><span class="url"><a rel="nofollow" class="external text" href="http://sigir.org">sigir<wbr />.org</a></span></td>
+</tr>
+</table>
+<p><b>SIGIR</b> is the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a>'s <b>Special Interest Group on Information Retrieval</b>. The scope of the group's specialty is the theory and application of computers to the acquisition, organization, storage, <a href="/wiki/Information_retrieval" title="Information retrieval">retrieval</a> and distribution of information; emphasis is placed on working with non-numeric information, ranging from natural language to highly structured data bases.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Conferences"><span class="tocnumber">1</span> <span class="toctext">Conferences</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#SIGIR_conference_locations"><span class="tocnumber">1.1</span> <span class="toctext">SIGIR conference locations</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Awards"><span class="tocnumber">2</span> <span class="toctext">Awards</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Conferences">Conferences</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Special_Interest_Group_on_Information_Retrieval&amp;action=edit&amp;section=1" title="Edit section: Conferences">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The annual international SIGIR conference, which began in 1978, is considered the most important in the field of information retrieval. SIGIR also sponsors the annual <a href="/wiki/Joint_Conference_on_Digital_Libraries" title="Joint Conference on Digital Libraries">Joint Conference on Digital Libraries</a> (JCDL) in association with <a href="/wiki/ACM_SIGWEB" title="ACM SIGWEB">SIGWEB</a>, the <a href="/wiki/Conference_on_Information_and_Knowledge_Management" title="Conference on Information and Knowledge Management">Conference on Information and Knowledge Management</a> (CIKM), and the <a href="/w/index.php?title=International_Conference_on_Web_Search_and_Data_Mining&amp;action=edit&amp;redlink=1" class="new" title="International Conference on Web Search and Data Mining (page does not exist)">International Conference on Web Search and Data Mining</a> (WSDM) in association with <a href="/wiki/SIGKDD" title="SIGKDD">SIGKDD</a>, <a href="/wiki/SIGMOD" title="SIGMOD">SIGMOD</a>, and <a href="/wiki/ACM_SIGWEB" title="ACM SIGWEB">SIGWEB</a>.</p>
+<h3><span class="mw-headline" id="SIGIR_conference_locations">SIGIR conference locations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Special_Interest_Group_on_Information_Retrieval&amp;action=edit&amp;section=2" title="Edit section: SIGIR conference locations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" border="1">
+<tr>
+<th>Number</th>
+<th>Year</th>
+<th>Location</th>
+</tr>
+<tr>
+<td>22</td>
+<td>1999</td>
+<td><a href="/wiki/Berkeley,_California" title="Berkeley, California">Berkeley, California</a></td>
+</tr>
+<tr>
+<td>23</td>
+<td>2000</td>
+<td><a href="/wiki/Athens" title="Athens">Athens</a></td>
+</tr>
+<tr>
+<td>24</td>
+<td>2001</td>
+<td><a href="/wiki/New_Orleans" title="New Orleans">New Orleans</a></td>
+</tr>
+<tr>
+<td>25</td>
+<td>2002</td>
+<td><a href="/wiki/Tampere" title="Tampere">Tampere</a></td>
+</tr>
+<tr>
+<td>26</td>
+<td>2003</td>
+<td><a href="/wiki/Toronto" title="Toronto">Toronto</a></td>
+</tr>
+<tr>
+<td>27</td>
+<td>2004</td>
+<td><a href="/wiki/Sheffield" title="Sheffield">Sheffield</a></td>
+</tr>
+<tr>
+<td>28</td>
+<td>2005</td>
+<td><a href="/wiki/Salvador,_Bahia" title="Salvador, Bahia">Salvador, Bahia</a></td>
+</tr>
+<tr>
+<td>29</td>
+<td>2006</td>
+<td><a href="/wiki/Seattle" title="Seattle">Seattle</a></td>
+</tr>
+<tr>
+<td>30</td>
+<td>2007</td>
+<td><a href="/wiki/Amsterdam" title="Amsterdam">Amsterdam</a></td>
+</tr>
+<tr>
+<td>31</td>
+<td>2008</td>
+<td><a href="/wiki/Singapore" title="Singapore">Singapore</a></td>
+</tr>
+<tr>
+<td>32</td>
+<td>2009</td>
+<td><a href="/wiki/Boston" title="Boston">Boston</a></td>
+</tr>
+<tr>
+<td>33</td>
+<td>2010</td>
+<td><a href="/wiki/Geneva" title="Geneva">Geneva</a></td>
+</tr>
+<tr>
+<td>34</td>
+<td>2011</td>
+<td><a href="/wiki/Beijing" title="Beijing">Beijing</a></td>
+</tr>
+<tr>
+<td>35</td>
+<td>2012</td>
+<td><a href="/wiki/Portland,_Oregon" title="Portland, Oregon">Portland, Oregon</a></td>
+</tr>
+<tr>
+<td>36</td>
+<td>2013</td>
+<td><a href="/wiki/Dublin" title="Dublin">Dublin</a></td>
+</tr>
+<tr>
+<td>37</td>
+<td>2014</td>
+<td><a href="/wiki/Gold_Coast,_Queensland" title="Gold Coast, Queensland">Gold Coast, Queensland</a></td>
+</tr>
+<tr>
+<td>38</td>
+<td>2015</td>
+<td><a href="/wiki/Santiago" title="Santiago">Santiago</a></td>
+</tr>
+<tr>
+<td>39</td>
+<td>2016</td>
+<td><a href="/wiki/Pisa" title="Pisa">Pisa</a></td>
+</tr>
+<tr>
+<td>40</td>
+<td>2017</td>
+<td><a href="/wiki/Tokyo" title="Tokyo">Tokyo</a></td>
+</tr>
+<tr>
+<td>41</td>
+<td>2018</td>
+<td><a href="/wiki/Ann_Arbor" class="mw-redirect" title="Ann Arbor">Ann Arbor</a></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Awards">Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Special_Interest_Group_on_Information_Retrieval&amp;action=edit&amp;section=3" title="Edit section: Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The group gives out several awards to contributions to the field of information retrieval. The most important award is the <a href="/wiki/Gerard_Salton_Award" title="Gerard Salton Award">Gerard Salton Award</a> (named after the computer scientist <a href="/wiki/Gerard_Salton" title="Gerard Salton">Gerard Salton</a>), which is awarded every three years to an individual who has made "significant, sustained and continuing contributions to research in information retrieval". Additionally, SIGIR presents a Best Paper Award <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> to recognize the highest quality paper at each conference. "Test of time" Award <sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> is a recent award that is given to a paper that has had "long-lasting influence, including impact on a subarea of information retrieval research, across subareas of information retrieval research, and outside of the information retrieval research community". This award is selected from a set of full papers presented at the main SIGIR conference 10-12 years before.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Special_Interest_Group_on_Information_Retrieval&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Conference_on_Information_and_Knowledge_Management" title="Conference on Information and Knowledge Management">Conference on Information and Knowledge Management</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Special_Interest_Group_on_Information_Retrieval&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://sigir.org/awards/awards.html#bestpaper">"SIGIR Conference Best Paper Awards"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-08-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpecial+Interest+Group+on+Information+Retrieval&amp;rft.btitle=SIGIR+Conference+Best+Paper+Awards&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fsigir.org%2Fawards%2Fawards.html%23bestpaper&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://sigir.org/awards/test-of-time-awards/">"SIGIR Conference Test of Time Awards"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-12-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpecial+Interest+Group+on+Information+Retrieval&amp;rft.btitle=SIGIR+Conference+Test+of+Time+Awards&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fsigir.org%2Fawards%2Ftest-of-time-awards%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Special_Interest_Group_on_Information_Retrieval&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.sigir.org/">Official website</a></span></span></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Association_for_Computing_Machinery" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Association_for_Computing_Machinery" title="Template:Association for Computing Machinery"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Association_for_Computing_Machinery" title="Template talk:Association for Computing Machinery"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Association_for_Computing_Machinery&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Association_for_Computing_Machinery" style="font-size:114%;margin:0 4em"><a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Association_for_Computing_Machinery#Special_Interest_Groups" title="Association for Computing Machinery">Special Interest Groups</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/SIGACCESS" title="SIGACCESS">SIGACCESS</a></li>
+<li><a href="/wiki/ACM_SIGACT" title="ACM SIGACT">SIGACT</a></li>
+<li>SIGAda</li>
+<li><a href="/wiki/SIGAI" title="SIGAI">SIGAI</a></li>
+<li>SIGAPP</li>
+<li><a href="/wiki/SIGARCH" class="mw-redirect" title="SIGARCH">SIGARCH</a></li>
+<li>SIGBED</li>
+<li>SIGBio</li>
+<li>SIGCAS</li>
+<li><a href="/wiki/SIGCHI" title="SIGCHI">SIGCHI</a></li>
+<li><a href="/wiki/SIGCOMM" title="SIGCOMM">SIGCOMM</a></li>
+<li><a href="/wiki/SIGCSE" title="SIGCSE">SIGCSE</a></li>
+<li><a href="/wiki/Special_Interest_Group_on_Design_Automation" title="Special Interest Group on Design Automation">SIGDA</a></li>
+<li><a href="/wiki/SIGDOC" title="SIGDOC">SIGDOC</a></li>
+<li>SIGecom</li>
+<li>SIGEVO</li>
+<li><a href="/wiki/ACM_SIGGRAPH" title="ACM SIGGRAPH">SIGGRAPH</a></li>
+<li><a href="/wiki/ACM_SIGHPC" title="ACM SIGHPC">SIGHPC</a></li>
+<li><a class="mw-selflink selflink">SIGIR</a></li>
+<li>SIGITE</li>
+<li><a href="/wiki/SIGKDD" title="SIGKDD">SIGKDD</a></li>
+<li><a href="/wiki/ACM_SIGLOG" title="ACM SIGLOG">SIGLOG</a></li>
+<li><a href="/wiki/SIGMETRICS" title="SIGMETRICS">SIGMETRICS</a></li>
+<li>SIGMICRO</li>
+<li>SIGMIS</li>
+<li><a href="/wiki/SIGMM" class="mw-redirect" title="SIGMM">SIGMM</a></li>
+<li><a href="/wiki/SIGMOBILE" title="SIGMOBILE">SIGMOBILE</a></li>
+<li><a href="/wiki/SIGMOD" title="SIGMOD">SIGMOD</a></li>
+<li><a href="/wiki/ACM_SIGOPS" title="ACM SIGOPS">SIGOPS</a></li>
+<li><a href="/wiki/SIGPLAN" title="SIGPLAN">SIGPLAN</a></li>
+<li>SIGSAC</li>
+<li><a href="/wiki/SIGSAM" title="SIGSAM">SIGSAM</a></li>
+<li><a href="/wiki/SIGSIM" title="SIGSIM">SIGSIM</a></li>
+<li><a href="/wiki/SIGSOFT" title="SIGSOFT">SIGSOFT</a></li>
+<li>SIGSPATIAL</li>
+<li><a href="/wiki/SIGUCCS" title="SIGUCCS">SIGUCCS</a></li>
+<li><a href="/wiki/ACM_SIGWEB" title="ACM SIGWEB">SIGWEB</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Association_for_Computing_Machinery#Awards" title="Association for Computing Machinery">Awards</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">ACM</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Turing_Award" title="Turing Award">Turing Award</a></li>
+<li><a href="/wiki/ACM_Fellow" title="ACM Fellow">ACM Fellowship</a></li>
+<li><a href="/wiki/Association_for_the_Advancement_of_Artificial_Intelligence#ACM_-_AAAI_Allen_Newell_Award" title="Association for the Advancement of Artificial Intelligence">ACM-AAAI Allen Newell Award</a></li>
+<li><a href="/wiki/Association_for_Computing_Machinery#Athena_Lectures" title="Association for Computing Machinery">Athena Lecturer Award</a></li>
+<li><a href="/wiki/Eckert%E2%80%93Mauchly_Award" title="Eckert–Mauchly Award">Eckert–Mauchly Award</a></li>
+<li><a href="/wiki/ACM_Eugene_L._Lawler_Award" title="ACM Eugene L. Lawler Award">Eugene L. Lawler Award</a></li>
+<li><a href="/wiki/Gordon_Bell_Prize" title="Gordon Bell Prize">Gordon Bell Prize</a></li>
+<li><a href="/wiki/ACM_Grace_Murray_Hopper_Award" class="mw-redirect" title="ACM Grace Murray Hopper Award">Grace Murray Hopper Award</a></li>
+<li><a href="/wiki/Ken_Kennedy_Award" title="Ken Kennedy Award">Ken Kennedy Award</a></li>
+<li><a href="/wiki/Paris_Kanellakis_Award" title="Paris Kanellakis Award">Paris Kanellakis Theory and Practice Award</a></li>
+<li><a href="/wiki/ACM_Prize_in_Computing" title="ACM Prize in Computing">ACM Prize in Computing</a></li>
+<li><a href="/wiki/ACM_Software_System_Award" title="ACM Software System Award">ACM Software System Award</a></li>
+<li><a href="/wiki/SIAM/ACM_Prize_in_Computational_Science_and_Engineering" class="mw-redirect" title="SIAM/ACM Prize in Computational Science and Engineering">SIAM/ACM Prize in Computational Science and Engineering</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">SIGs</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/CHI_Academy" title="CHI Academy">CHI Academy</a></li>
+<li><a href="/wiki/G%C3%B6del_Prize" title="Gödel Prize">Gödel Prize</a></li>
+<li><a href="/wiki/Knuth_Prize" title="Knuth Prize">Knuth Prize</a></li>
+<li><a href="/wiki/Steven_A._Coons_Award" class="mw-redirect" title="Steven A. Coons Award">Steven A. Coons Award</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Association_for_Computing_Machinery#Publications" title="Association for Computing Machinery">Publications</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Journal_of_the_ACM" title="Journal of the ACM">Journal of the ACM</a></li>
+<li><a href="/wiki/Communications_of_the_ACM" title="Communications of the ACM">Communications of the ACM</a></li>
+<li><a href="/wiki/RISKS_Digest" title="RISKS Digest">RISKS Digest</a></li>
+<li><a href="/wiki/ACM_Digital_Library" class="mw-redirect" title="ACM Digital Library">ACM Digital Library</a></li>
+<li><a href="/wiki/ACM_Computing_Surveys" title="ACM Computing Surveys">ACM Computing Surveys</a></li>
+<li><a href="/wiki/ACM_Computers_in_Entertainment" title="ACM Computers in Entertainment">ACM Computers in Entertainment</a></li>
+<li><a href="/wiki/ACM_Interactions" title="ACM Interactions">ACM Interactions</a></li>
+<li><a href="/wiki/ACM_Queue" title="ACM Queue">ACM Queue</a></li>
+<li><a href="/wiki/XRDS_(magazine)" title="XRDS (magazine)">ACM XRDS</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Association_for_Computing_Machinery#Conferences" title="Association for Computing Machinery">Conferences</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ACM_Multimedia" title="ACM Multimedia">ACM-MM</a></li>
+<li><a href="/wiki/International_Conference_on_Architectural_Support_for_Programming_Languages_and_Operating_Systems" title="International Conference on Architectural Support for Programming Languages and Operating Systems">ASPLOS</a></li>
+<li><a href="/wiki/Conference_on_Human_Factors_in_Computing_Systems" title="Conference on Human Factors in Computing Systems">CHI</a></li>
+<li><a href="/wiki/Conference_on_Information_and_Knowledge_Management" title="Conference on Information and Knowledge Management">CIKM</a></li>
+<li><a href="/wiki/Design_Automation_Conference" title="Design Automation Conference">DAC</a></li>
+<li><a href="/wiki/Distributed_Event-Based_Systems" title="Distributed Event-Based Systems">DEBS</a></li>
+<li><a href="/wiki/Federated_Computing_Research_Conference" title="Federated Computing Research Conference">FCRC</a></li>
+<li><a href="/wiki/Genetic_and_Evolutionary_Computation_Conference" title="Genetic and Evolutionary Computation Conference">GECCO</a></li>
+<li><a href="/wiki/Grace_Hopper_Celebration_of_Women_in_Computing" title="Grace Hopper Celebration of Women in Computing">GHC</a></li>
+<li><a href="/wiki/History_of_Programming_Languages" title="History of Programming Languages">HOPL</a></li>
+<li><a href="/wiki/Hot_Chips" title="Hot Chips">Hot Chips</a></li>
+<li><a href="/w/index.php?title=Conference_on_Hypertext_and_Hypermedia&amp;action=edit&amp;redlink=1" class="new" title="Conference on Hypertext and Hypermedia (page does not exist)">Hypertext</a></li>
+<li><a href="/wiki/International_Symposium_on_Computer_Architecture" title="International Symposium on Computer Architecture">ISCA</a></li>
+<li><a href="/wiki/International_Symposium_on_Memory_Management" title="International Symposium on Memory Management">ISMM</a></li>
+<li><a href="/wiki/International_Symposium_on_Physical_Design" title="International Symposium on Physical Design">ISPD</a></li>
+<li><a href="/wiki/International_Symposium_on_Symbolic_and_Algebraic_Computation" title="International Symposium on Symbolic and Algebraic Computation">ISSAC</a></li>
+<li><a href="/wiki/Joint_Conference_on_Digital_Libraries" title="Joint Conference on Digital Libraries">JCDL</a></li>
+<li><a href="/wiki/International_Conference_on_Mobile_Computing_and_Networking" title="International Conference on Mobile Computing and Networking">MobiCom</a></li>
+<li><a href="/wiki/Programming_Language_Design_and_Implementation" title="Programming Language Design and Implementation">PLDI</a></li>
+<li><a href="/wiki/Symposium_on_Principles_of_Distributed_Computing" title="Symposium on Principles of Distributed Computing">PODC</a></li>
+<li><a href="/wiki/Symposium_on_Principles_of_Database_Systems" title="Symposium on Principles of Database Systems">PODS</a></li>
+<li><a href="/wiki/Symposium_on_Principles_of_Programming_Languages" title="Symposium on Principles of Programming Languages">POPL</a></li>
+<li><a href="/wiki/Symposium_on_Principles_and_Practice_of_Parallel_Programming" title="Symposium on Principles and Practice of Parallel Programming">PPoPP</a></li>
+<li><a href="/wiki/ACM/IEEE_Supercomputing_Conference" title="ACM/IEEE Supercomputing Conference">SC</a></li>
+<li><a href="/wiki/SIGCOMM" title="SIGCOMM">SIGCOMM</a></li>
+<li><a href="/wiki/SIGCSE_Technical_Symposium_on_Computer_Science_Education" title="SIGCSE Technical Symposium on Computer Science Education">SIGCSE</a></li>
+<li><a href="/wiki/SIGGRAPH" title="SIGGRAPH">SIGGRAPH</a></li>
+<li><a href="/wiki/Symposium_on_Computational_Geometry" title="Symposium on Computational Geometry">SoCG</a></li>
+<li><a href="/wiki/Symposium_on_Discrete_Algorithms" title="Symposium on Discrete Algorithms">SODA</a></li>
+<li><a href="/wiki/Symposium_on_Operating_Systems_Principles" title="Symposium on Operating Systems Principles">SOSP</a></li>
+<li><a href="/wiki/Symposium_on_Parallelism_in_Algorithms_and_Architectures" title="Symposium on Parallelism in Algorithms and Architectures">SPAA</a></li>
+<li><a href="/wiki/SPLASH_(conference)" title="SPLASH (conference)">SPLASH</a></li>
+<li><a href="/wiki/Symposium_on_Theory_of_Computing" title="Symposium on Theory of Computing">STOC</a></li>
+<li><a href="/wiki/Richard_Tapia_Celebration_of_Diversity_in_Computing" title="Richard Tapia Celebration of Diversity in Computing">TAPIA</a></li>
+<li><a href="/wiki/ACM_Symposium_on_User_Interface_Software_and_Technology" title="ACM Symposium on User Interface Software and Technology">UIST</a></li>
+<li><a href="/wiki/ACM/IEEE_Virtual_Reality_International_Conference" title="ACM/IEEE Virtual Reality International Conference">VRIC</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Educational programs</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ACM-W" title="ACM-W">ACM-W</a></li>
+<li><a href="/wiki/ACM_International_Collegiate_Programming_Contest" title="ACM International Collegiate Programming Contest">ACM International Collegiate Programming Contest</a></li>
+<li><a href="/wiki/ACM_Student_Research_Competition" title="ACM Student Research Competition">ACM Student Research Competition</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Related societies</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Association_for_the_Advancement_of_Artificial_Intelligence" title="Association for the Advancement of Artificial Intelligence">Association for the Advancement of Artificial Intelligence (AAAI)</a></li>
+<li><a href="/wiki/IEEE_Computer_Society" title="IEEE Computer Society">IEEE Computer Society</a></li>
+<li><a href="/wiki/Society_for_Industrial_and_Applied_Mathematics" title="Society for Industrial and Applied Mathematics">Society for Industrial and Applied Mathematics (SIAM)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/134539598">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/134539598">134539598</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n83052820">n83052820</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000122890612">0000 0001 2289 0612</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/55738-9">55738-9</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/029254647">029254647</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb120920463">cb120920463</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb120920463">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Library_of_Australia" title="National Library of Australia">NLA</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://nla.gov.au/anbd.aut-an35009324">35009324</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1239
+Cached time: 20170922082255
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.152 seconds
+Real time usage: 0.198 seconds
+Preprocessor visited node count: 1048/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 34171/2097152 bytes
+Template argument size: 344/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Lua time usage: 0.068/10.000 seconds
+Lua memory usage: 2.76 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  163.344      1 -total
+ 51.32%   83.836      1 Template:Infobox_organization
+ 29.07%   47.483      1 Template:Infobox
+ 23.39%   38.203      1 Template:Reflist
+ 18.89%   30.850      2 Template:Cite_web
+ 13.27%   21.669      1 Template:Tfm/dated
+ 11.18%   18.269      1 Template:Official_website
+  7.99%   13.049      2 Template:Unbulleted_list
+  6.73%   10.985      1 Template:Association_for_Computing_Machinery
+  6.38%   10.429      2 Template:Navbox
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:14109784-0!canonical and timestamp 20170922082255 and revision id 776726056
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Special_Interest_Group_on_Information_Retrieval&amp;oldid=776726056">https://en.wikipedia.org/w/index.php?title=Special_Interest_Group_on_Information_Retrieval&amp;oldid=776726056</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Association_for_Computing_Machinery_Special_Interest_Groups" title="Category:Association for Computing Machinery Special Interest Groups">Association for Computing Machinery Special Interest Groups</a></li><li><a href="/wiki/Category:Information_retrieval_organizations" title="Category:Information retrieval organizations">Information retrieval organizations</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Official_website_different_in_Wikidata_and_Wikipedia" title="Category:Official website different in Wikidata and Wikipedia">Official website different in Wikidata and Wikipedia</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NLA_identifiers" title="Category:Wikipedia articles with NLA identifiers">Wikipedia articles with NLA identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Special+Interest+Group+on+Information+Retrieval" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Special+Interest+Group+on+Information+Retrieval" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Special_Interest_Group_on_Information_Retrieval" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Special_Interest_Group_on_Information_Retrieval&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Special_Interest_Group_on_Information_Retrieval">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Special_Interest_Group_on_Information_Retrieval&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Special_Interest_Group_on_Information_Retrieval&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Special_Interest_Group_on_Information_Retrieval" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Special_Interest_Group_on_Information_Retrieval" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Special_Interest_Group_on_Information_Retrieval&amp;oldid=776726056" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Special_Interest_Group_on_Information_Retrieval&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7574597" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Special_Interest_Group_on_Information_Retrieval&amp;id=776726056" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Special+Interest+Group+on+Information+Retrieval">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Special+Interest+Group+on+Information+Retrieval&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DSpecial%2BInterest%2BGroup%2Bon%2BInformation%2BRetrieval%26returnto%3DSpecial%2BInterest%2BGroup%2Bon%2BInformation%2BRetrieval%26oldid%3D776726056%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Special_Interest_Group_on_Information_Retrieval&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Sigir" title="Sigir – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7574597#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 22 April 2017, at 22:12.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Special_Interest_Group_on_Information_Retrieval&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.152","walltime":"0.198","ppvisitednodes":{"value":1048,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":34171,"limit":2097152},"templateargumentsize":{"value":344,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  163.344      1 -total"," 51.32%   83.836      1 Template:Infobox_organization"," 29.07%   47.483      1 Template:Infobox"," 23.39%   38.203      1 Template:Reflist"," 18.89%   30.850      2 Template:Cite_web"," 13.27%   21.669      1 Template:Tfm/dated"," 11.18%   18.269      1 Template:Official_website","  7.99%   13.049      2 Template:Unbulleted_list","  6.73%   10.985      1 Template:Association_for_Computing_Machinery","  6.38%   10.429      2 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.068","limit":"10.000"},"limitreport-memusage":{"value":2889435,"limit":52428800}},"cachereport":{"origin":"mw1239","timestamp":"20170922082255","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":78,"wgHostname":"mw1182"});});</script>
+	</body>
+</html>

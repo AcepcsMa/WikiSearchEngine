@@ -1,0 +1,928 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Help:IPA/Standard German - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Help","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":12,"wgPageName":"Help:IPA/Standard_German","wgTitle":"IPA/Standard German","wgCurRevisionId":799610719,"wgRevisionId":799610719,"wgArticleId":18005146,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia information pages","International Phonetic Alphabet help"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Help:IPA/Standard_German","wgRelevantArticleId":18005146,"wgRequestId":"WcHBiApAME8AADDJYV8AAABF","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q8615142","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preload","preloadparams","preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.18"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Help:IPA/Standard_German&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Help:IPA/Standard_German&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Help:IPA/Standard_German"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-12 ns-subject page-Help_IPA_Standard_German rootpage-Help_IPA skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Help:IPA/Standard German</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="subpages">&lt; <a href="/wiki/Help:IPA" title="Help:IPA">Help:IPA</a></span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks ombox ombox-notice" role="presentation">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Information_icon4.svg/40px-Information_icon4.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Information_icon4.svg/60px-Information_icon4.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Information_icon4.svg/80px-Information_icon4.svg.png 2x" data-file-width="620" data-file-height="620" /></td>
+<td class="mbox-text">
+<div style="padding-top: 6px; padding-bottom: 5px;"><b>This is an <a href="/wiki/Wikipedia:Project_namespace#How-to_and_information_pages" title="Wikipedia:Project namespace">information page</a>.</b><br />
+<div style="font-size: 90%;">It describes the editing community's <a href="/wiki/Wikipedia:Consensus" title="Wikipedia:Consensus">consensus</a> on some aspect or aspects of Wikipedia's norms and practices. It is not one of <a href="/wiki/Wikipedia:Policies_and_guidelines" title="Wikipedia:Policies and guidelines">Wikipedia's policies or guidelines</a>, as it has not been <a href="/wiki/Wikipedia:Consensus#Levels_of_consensus" title="Wikipedia:Consensus">thoroughly vetted by the community</a>.</div>
+</div>
+</td>
+<td class="mbox-imageright">
+<div style="position:relative;top:-3em"><span id="H:IPAG"></span></div>
+<div class="shortcutbox plainlist noprint" role="note" style="float:right;border:1px solid #aaa;background:#fff;margin:.3em .3em .3em 1em;padding:.4em .6em;text-align:center;font-size:smaller;line-height:2em;font-weight:bold"><a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>:
+<ul>
+<li><span class="plainlinks"><a class="external text" href="//en.wikipedia.org/w/index.php?title=H:IPAG&amp;redirect=no">H:IPAG</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>The charts below show the way <a href="/wiki/International_Phonetic_Alphabet" title="International Phonetic Alphabet">International Phonetic Alphabet (IPA)</a> represents <a href="/wiki/German_language" title="German language">German language</a> pronunciations in Wikipedia articles.</p>
+<p>See <a href="/wiki/Standard_German_phonology" title="Standard German phonology">Standard German phonology</a> for a more thorough look at the sounds of German. For information on how to convert spelling to pronunciation, see <a href="/wiki/German_orthography#Grapheme-to-phoneme_correspondences" title="German orthography">German orthography §&#160;Grapheme-to-phoneme correspondences</a>.</p>
+<table style="background:none">
+<tr style="vertical-align:top;">
+<td>
+<table class="wikitable">
+<tr>
+<th colspan="5"><a href="/wiki/Consonant" title="Consonant">Consonants</a></th>
+</tr>
+<tr>
+<th><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span></th>
+<th><span class="flagicon"><a href="/wiki/Austria" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span></th>
+<th><span class="flagicon"><a href="/wiki/Switzerland" title="Switzerland"><img alt="Switzerland" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="1000" data-file-height="1000" /></a></span></th>
+<th rowspan="2">Examples</th>
+<th rowspan="2">English approximation</th>
+</tr>
+<tr>
+<th><abbr title="German Standard German">DE</abbr></th>
+<th><abbr title="Austrian Standard German">AT</abbr></th>
+<th><abbr title="Swiss Standard German">CH</abbr></th>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiced_bilabial_stop" title="Voiced bilabial stop">b</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>b</b>ei</span><sup id="cite_ref-fortislenis_1-0" class="reference"><a href="#cite_note-fortislenis-1">[1]</a></sup></td>
+<td><b>b</b>all</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_palatal_fricative#Palatal" title="Voiceless palatal fricative">ç</a></span></big></td>
+<td><span lang="de" xml:lang="de">i<b>ch</b>, dur<b>ch</b>; <b>Ch</b>ina (DE)</span></td>
+<td><b>h</b>ue</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiced_dental_and_alveolar_stops#Alveolar" title="Voiced dental and alveolar stops">d</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>d</b>ann</span><sup id="cite_ref-fortislenis_1-1" class="reference"><a href="#cite_note-fortislenis-1">[1]</a></sup></td>
+<td><b>d</b>one</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_labiodental_fricative" title="Voiceless labiodental fricative">f</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>f</b>ür, <b>v</b>on</span></td>
+<td><b>f</b>uss</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiced_velar_stop" title="Voiced velar stop">ɡ</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>g</b>ut</span><sup id="cite_ref-fortislenis_1-2" class="reference"><a href="#cite_note-fortislenis-1">[1]</a></sup></td>
+<td><b>g</b>uest</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_glottal_fricative" title="Voiceless glottal fricative">h</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>h</b>at</span></td>
+<td><b>h</b>ut</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Palatal_approximant#Palatal" title="Palatal approximant">j</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>J</b>ahr</span></td>
+<td><b>y</b>ard</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_velar_stop" title="Voiceless velar stop">k</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>k</b>ann, Ta<b>g</b></span><sup id="cite_ref-devoicing_2-0" class="reference"><a href="#cite_note-devoicing-2">[2]</a></sup></td>
+<td><b>c</b>old</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Alveolar_lateral_approximant" class="mw-redirect" title="Alveolar lateral approximant">l</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>L</b>eben</span></td>
+<td><b>l</b>ast</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Syllabic_consonant" title="Syllabic consonant">l̩</a></span></big></td>
+<td><span lang="de" xml:lang="de">Mant<b>el</b></span></td>
+<td>bott<b>le</b></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Bilabial_nasal" title="Bilabial nasal">m</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>M</b>ann</span></td>
+<td><b>m</b>ust</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Syllabic_consonant" title="Syllabic consonant">m̩</a></span></big></td>
+<td><span lang="de" xml:lang="de">At<b>em</b></span></td>
+<td>rhyth<b>m</b></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Dental,_alveolar_and_postalveolar_nasals#Alveolar" title="Dental, alveolar and postalveolar nasals">n</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>N</b>ame</span></td>
+<td><b>n</b>ot</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Syllabic_consonant" title="Syllabic consonant">n̩</a></span></big></td>
+<td><span lang="de" xml:lang="de">beid<b>en</b></span></td>
+<td>sudd<b>en</b>ly</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Velar_nasal" title="Velar nasal">ŋ</a></span></big></td>
+<td><span lang="de" xml:lang="de">la<b>ng</b></span></td>
+<td>lo<b>ng</b></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_bilabial_stop" title="Voiceless bilabial stop">p</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>P</b>erson, a<b>b</b></span><sup id="cite_ref-devoicing_2-1" class="reference"><a href="#cite_note-devoicing-2">[2]</a></sup></td>
+<td><b>p</b>uck</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_labiodental_affricate" title="Voiceless labiodental affricate">pf</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>Pf</b>effer</span></td>
+<td>roughly like cu<b>pf</b>ul</td>
+</tr>
+<tr>
+<td style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiced_uvular_fricative" title="Voiced uvular fricative">ʁ</a></span></big></td>
+<td colspan="2" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Alveolar_trill" class="mw-redirect" title="Alveolar trill">r</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>r</b>eden</span><sup id="cite_ref-r-allophones_3-0" class="reference"><a href="#cite_note-r-allophones-3">[3]</a></sup></td>
+<td><abbr title="German Standard German">DE</abbr>: French <b>r</b>ouge<br />
+<abbr title="Austrian Standard German">AT</abbr>, <abbr title="Swiss Standard German">CH</abbr>: <b>r</b>ed (<a href="/wiki/Scottish_English" title="Scottish English">Scottish</a>)</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_alveolar_fricative#Voiceless_alveolar_sibilant" title="Voiceless alveolar fricative">s</a></span></big></td>
+<td><span lang="de" xml:lang="de">la<b>ss</b>en</span>, <span lang="de" xml:lang="de">Hau<b>s</b></span>, <span lang="de" xml:lang="de">gro<b>ß</b></span></td>
+<td>fa<b>s</b>t</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_palato-alveolar_sibilant" title="Voiceless palato-alveolar sibilant">ʃ</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>sch</b>on, <b>S</b>tadt</span></td>
+<td><b>sh</b>all</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_dental_and_alveolar_stops#Alveolar" title="Voiceless dental and alveolar stops">t</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>T</b>ag, un<b>d</b></span><sup id="cite_ref-devoicing_2-2" class="reference"><a href="#cite_note-devoicing-2">[2]</a></sup></td>
+<td><b>t</b>all</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_alveolar_sibilant_affricate" class="mw-redirect" title="Voiceless alveolar sibilant affricate">ts</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>Z</b>eit</span>, <span lang="de" xml:lang="de">Pla<b>tz</b></span></td>
+<td>ca<b>ts</b></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_palato-alveolar_affricate" title="Voiceless palato-alveolar affricate">tʃ</a></span></big></td>
+<td><span lang="de" xml:lang="de">Ma<b>tsch</b></span></td>
+<td>ma<b>tch</b></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiced_labiodental_fricative" title="Voiced labiodental fricative">v</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>w</b>as</span><sup id="cite_ref-fortislenis_1-3" class="reference"><a href="#cite_note-fortislenis-1">[1]</a></sup></td>
+<td><b>v</b>anish</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiceless_velar_fricative" title="Voiceless velar fricative">x</a></span></big></td>
+<td><span lang="de" xml:lang="de">na<b>ch</b></span></td>
+<td>lo<b>ch</b> (no <a href="/wiki/Lock%E2%80%93loch_merger" class="mw-redirect" title="Lock–loch merger">lock–loch merger</a>)</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiced_alveolar_fricative#Voiced_alveolar_sibilant" title="Voiced alveolar fricative">z</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>S</b>ie</span>, <span lang="de" xml:lang="de">die<b>s</b>e</span><sup id="cite_ref-fortislenis_1-4" class="reference"><a href="#cite_note-fortislenis-1">[1]</a></sup></td>
+<td>ho<b>se</b></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Glottal_stop" title="Glottal stop">ʔ</a></span></big></td>
+<td style="text-align:center; background:gray"></td>
+<td><span lang="de" xml:lang="de">beamtet</span><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><br />
+(<span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[bəˈʔamtət]</span>)</td>
+<td>the <a href="/wiki/Glottal_stop" title="Glottal stop">glottal stops</a> in <i>uh-oh!</i></td>
+</tr>
+<tr>
+<th colspan="5">Non-native consonants</th>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiced_palato-alveolar_affricate" title="Voiced palato-alveolar affricate">dʒ</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>Dsch</b>ungel</span><sup id="cite_ref-fortislenis_1-5" class="reference"><a href="#cite_note-fortislenis-1">[1]</a></sup><sup id="cite_ref-postalveolarlenis_5-0" class="reference"><a href="#cite_note-postalveolarlenis-5">[5]</a></sup></td>
+<td><b>j</b>ungle</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Voiced_palato-alveolar_sibilant" title="Voiced palato-alveolar sibilant">ʒ</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>G</b>enie</span><sup id="cite_ref-fortislenis_1-6" class="reference"><a href="#cite_note-fortislenis-1">[1]</a></sup><sup id="cite_ref-postalveolarlenis_5-1" class="reference"><a href="#cite_note-postalveolarlenis-5">[5]</a></sup></td>
+<td>plea<b>s</b>ure</td>
+</tr>
+<tr>
+<th colspan="5"><a href="/wiki/Stress_(linguistics)" title="Stress (linguistics)">Stress</a></th>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Stress_(linguistics)" title="Stress (linguistics)">ˈ</a></span></big></td>
+<td rowspan="2"><span lang="de" xml:lang="de"><b>Bahn</b>hof<b>stra</b>ße</span><br />
+(<span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ˈbaːnhoːfˌʃtʁaːsə]</span>)</td>
+<td rowspan="2">as in <i>battleship</i> <span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="'b' in 'buy'">b</span><span title="/æ/: 'a' in 'bad'">æ</span><span title="'t' in 'tie'">t</span><span title="/əl/: 'le' in 'bottle'">əl</span><span title="/ˌ/: secondary stress follows">ˌ</span><span title="/ʃ/: 'sh' in 'shy'">ʃ</span><span title="/ɪ/: 'i' in 'kit'">ɪ</span><span title="'p' in 'pie'">p</span></span>/</a></span></span></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Secondary_stress" title="Secondary stress">ˌ</a></span></big></td>
+</tr>
+</table>
+</td>
+<td>
+<table class="wikitable">
+<tr>
+<th colspan="5"><a href="/wiki/Vowel" title="Vowel">Vowels</a></th>
+</tr>
+<tr>
+<th><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span></th>
+<th><span class="flagicon"><a href="/wiki/Austria" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span></th>
+<th><span class="flagicon"><a href="/wiki/Switzerland" title="Switzerland"><img alt="Switzerland" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="1000" data-file-height="1000" /></a></span></th>
+<th rowspan="2">Examples</th>
+<th rowspan="2">English approximation</th>
+</tr>
+<tr>
+<th><abbr title="German Standard German">DE</abbr></th>
+<th><abbr title="Austrian Standard German">AT</abbr></th>
+<th><abbr title="Swiss Standard German">CH</abbr></th>
+</tr>
+<tr>
+<th colspan="5"><a href="/wiki/Monophthong" title="Monophthong">Monophthongs</a></th>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Open_central_unrounded_vowel" title="Open central unrounded vowel">a</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>a</b>lles</span><sup id="cite_ref-openvowels_6-0" class="reference"><a href="#cite_note-openvowels-6">[6]</a></sup></td>
+<td>m<b>a</b>n (Scottish, or RP and Irish but slightly more backed), c<b>o</b>t (American) or c<b>u</b>t (Australian)</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Open_central_unrounded_vowel" title="Open central unrounded vowel">aː</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>a</b>ber, s<b>ah</b></span><sup id="cite_ref-openvowels_6-1" class="reference"><a href="#cite_note-openvowels-6">[6]</a></sup></td>
+<td>b<b>a</b>d(RP, Irish but slightly more backed), m<b>ar</b>k (Northern England, Australian)
+<p>b<b>o</b>d (American)</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Open-mid_front_unrounded_vowel" title="Open-mid front unrounded vowel">ɛ</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>E</b>nde, h<b>ä</b>tte</span></td>
+<td>b<b>e</b>t (American, Irish, or RP [ɛ̝] but more open)</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Open-mid_front_unrounded_vowel" title="Open-mid front unrounded vowel">ɛː</a></span></big></td>
+<td><span lang="de" xml:lang="de">sp<b>ä</b>t, w<b>äh</b>len</span><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></td>
+<td>b<b>e</b>d (American, Irish or RP [ɛ̝] but more open)
+<p>squ<b>are</b> (Australian, but more open)</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Close-mid_front_unrounded_vowel" title="Close-mid front unrounded vowel">eː</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>e</b>ben, g<b>eh</b>en</span></td>
+<td>m<b>a</b>t<b>e</b> (Irish, Scottish, close to American [eɪ] but undiphthongised)
+<p>squ<b>are</b> (Australian but tenser and less open)</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Near-close_near-front_unrounded_vowel" title="Near-close near-front unrounded vowel">ɪ</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>i</b>st, b<b>i</b>tte</span></td>
+<td>s<b>i</b>t(American, Australian, Irish, Scottish, RP)</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Close_front_unrounded_vowel" title="Close front unrounded vowel">iː</a></span></big></td>
+<td><span lang="de" xml:lang="de">l<b>ie</b>be, Berl<b>i</b>n</span></td>
+<td>m<b>ee</b>t (American, Irish, or undiphthongised RP [ɪi̯])</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Open-mid_back_rounded_vowel" title="Open-mid back rounded vowel">ɔ</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>O</b>sten, k<b>o</b>mmen</span></td>
+<td>l<b>o</b>t (Australian, Scottish, and RP [ɒ̝] but slightly more closed)
+<p>l<b>aw</b> (Irish and American(if without <i>cot-caught merger</i>))</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Close-mid_back_rounded_vowel" title="Close-mid back rounded vowel">oː</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>o</b>der, h<b>oh</b>e</span></td>
+<td>l<b>aw</b> (Australian, or RP [ɔ̝] but slightly more closed)
+<p>st<b>o</b>n<b>e</b> (close to American [oʊ] but undiphthongised, Irish, Scottish)</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Open-mid_front_rounded_vowel" title="Open-mid front rounded vowel">œ</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>ö</b>ffnen</span></td>
+<td>like m<b>e</b>t but rounded (American, Irish)
+<p>also somewhat close to RP h<b>ur</b>t [ɜ] but more fronted</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Close-mid_front_rounded_vowel" title="Close-mid front rounded vowel">øː</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>Ö</b>sterreich</span></td>
+<td>like m<b>a</b>t<b>e</b> but rounded (American undiphthongised, Irish, Scottish)
+<p>also somewhat close to RP h<b>er</b>d [ɜː] but more fronted, Australian n<b>ur</b>s<b>e</b> but more rounded</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Near-close_near-back_rounded_vowel" title="Near-close near-back rounded vowel">ʊ</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>u</b>nd</span></td>
+<td>p<b>u</b>sh (Irish, American, Australian, RP <a href="/wiki/Close-mid_central_rounded_vowel" title="Close-mid central rounded vowel">ɵ</a> but more backed)</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Close_back_rounded_vowel" title="Close back rounded vowel">uː</a></span></big></td>
+<td><span lang="de" xml:lang="de">H<b>u</b>t</span></td>
+<td>f<b>oo</b>d (Irish, undiphthongised American [ʊu̯] and RP [ɵʉ̯] but tongue more backed)</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Near-close_near-front_rounded_vowel" title="Near-close near-front rounded vowel">ʏ</a></span></big></td>
+<td><span lang="de" xml:lang="de">m<b>ü</b>ssen</span></td>
+<td>like h<b>i</b>t but rounded
+<p>also somewhat close to Scottish sh<b>oo</b>t</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Close_front_rounded_vowel" title="Close front rounded vowel">yː</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>ü</b>ber</span></td>
+<td>like h<b>ea</b>t but rounded
+<p>also somewhat close to sh<b>oe</b>s (Scottish, Australian but with tongue further forward)</p>
+</td>
+</tr>
+<tr>
+<th colspan="5"><a href="/wiki/Diphthong" title="Diphthong">Diphthongs</a></th>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">aɪ</span></big></td>
+<td><span lang="de" xml:lang="de"><b>ei</b>n</span></td>
+<td>b<b>i</b>te (American, RP, Irish)</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">aʊ</span></big></td>
+<td><span lang="de" xml:lang="de"><b>au</b>f</span>, H<b>au</b>s</td>
+<td><abbr title="German Standard German">DE</abbr>: sh<b>ou</b>t (American, RP)</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɔʏ</span></big></td>
+<td><span lang="de" xml:lang="de"><b>Eu</b>ro, H<b>äu</b>ser</span></td>
+<td>like p<b>oi</b>nt but rounded even at the end</td>
+</tr>
+<tr>
+<th colspan="5"><a href="/wiki/Vowel_reduction" title="Vowel reduction">Reduced vowels</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Near-open_central_unrounded_vowel" title="Near-open central unrounded vowel">ɐ</a></span></big></td>
+<td style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ər</span></big></td>
+<td><span lang="de" xml:lang="de">imm<b>er</b></span><sup id="cite_ref-r-allophones_3-1" class="reference"><a href="#cite_note-r-allophones-3">[3]</a></sup></td>
+<td><abbr title="German Standard German">DE</abbr>, <abbr title="Austrian Standard German">AT</abbr>: roughly like f<b>u</b>n<br />
+<abbr title="Swiss Standard German">CH</abbr>: butt<b>er</b> (Scottish)</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Mid_central_vowel#Mid_central_unrounded_vowel" title="Mid central vowel">ə</a></span></big></td>
+<td><span lang="de" xml:lang="de">Nam<b>e</b></span></td>
+<td><b>a</b>go</td>
+</tr>
+<tr>
+<th colspan="5"><a href="/wiki/Semivowel" title="Semivowel">Semivowels</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɐ̯</span></big></td>
+<td style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">r</span></big></td>
+<td><span lang="de" xml:lang="de">Uh<b>r</b></span><sup id="cite_ref-r-allophones_3-2" class="reference"><a href="#cite_note-r-allophones-3">[3]</a></sup></td>
+<td><abbr title="German Standard German">DE</abbr>, <abbr title="Austrian Standard German">AT</abbr>: roughly like ide<b>a</b><br />
+<abbr title="Swiss Standard German">CH</abbr>: fa<b>r</b> (Scottish)</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Semivowel" title="Semivowel">i̯</a></span></big></td>
+<td><span lang="de" xml:lang="de">Stud<b>i</b>e</span></td>
+<td><b>y</b>ard</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Semivowel" title="Semivowel">u̯</a></span></big></td>
+<td><span lang="de" xml:lang="de">akt<b>u</b>ell</span></td>
+<td><b>w</b>ould</td>
+</tr>
+<tr>
+<th colspan="5">Non-native vowels</th>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ãː</span></big></td>
+<td><span lang="de" xml:lang="de">Gourm<b>and</b></span><sup id="cite_ref-nasalV_8-0" class="reference"><a href="#cite_note-nasalV-8">[8]</a></sup></td>
+<td>ch<b>an</b>son (French pron., but long)</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɛ̃ː</span></big></td>
+<td><span lang="de" xml:lang="de">Po<b>in</b>te</span><sup id="cite_ref-nasalV_8-1" class="reference"><a href="#cite_note-nasalV-8">[8]</a></sup></td>
+<td>v<b>ing</b>t-et-un (French pron., but long)</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɛɪ</span></big></td>
+<td><span lang="de" xml:lang="de">M<b>ai</b>l</span><sup id="cite_ref-middiphthongs_9-0" class="reference"><a href="#cite_note-middiphthongs-9">[9]</a></sup></td>
+<td>l<b>a</b>te (RP)</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">õː</span></big></td>
+<td><span lang="de" xml:lang="de">Garç<b>on</b></span><sup id="cite_ref-nasalV_8-2" class="reference"><a href="#cite_note-nasalV-8">[8]</a></sup></td>
+<td>chans<b>on</b> (French pron., but long)</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɔʊ</span></big></td>
+<td><span lang="de" xml:lang="de">C<b>o</b>de</span><sup id="cite_ref-middiphthongs_9-1" class="reference"><a href="#cite_note-middiphthongs-9">[9]</a></sup></td>
+<td>g<b>oa</b>t</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">œ̃ː</span></big></td>
+<td><span lang="de" xml:lang="de">Parf<b>um</b></span><sup id="cite_ref-nasalV_8-3" class="reference"><a href="#cite_note-nasalV-8">[8]</a></sup></td>
+<td>vingt-et-<b>un</b> (French pron., but long)</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">œːɐ̯</span></big></td>
+<td style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">øːr</span></big></td>
+<td><span lang="de" xml:lang="de"><a href="/wiki/Mercedes-Benz_Arena_(Berlin)" title="Mercedes-Benz Arena (Berlin)">O<sub>2</sub> W<b>or</b>ld</a></span><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></td>
+<td>roughly like h<b>er</b>d</td>
+</tr>
+<tr>
+<th colspan="5">Shortened vowels</th>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Open_central_unrounded_vowel" title="Open central unrounded vowel">a</a></span></big></td>
+<td><span lang="de" xml:lang="de">K<b>a</b>lender</span><sup id="cite_ref-openvowels_6-2" class="reference"><a href="#cite_note-openvowels-6">[6]</a></sup><sup id="cite_ref-shorttense_11-0" class="reference"><a href="#cite_note-shorttense-11">[11]</a></sup></td>
+<td>m<b>a</b>n (Scottish, or RP and Irish but slightly more backed) or c<b>o</b>n (American)</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Nasal_vowel" title="Nasal vowel">ã</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>en</b>gagieren</span><sup id="cite_ref-nasalV_8-4" class="reference"><a href="#cite_note-nasalV-8">[8]</a></sup></td>
+<td>ch<b>an</b>son</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Nasal_vowel" title="Nasal vowel">ɛ̃</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>im</b>pair</span><sup id="cite_ref-nasalV_8-5" class="reference"><a href="#cite_note-nasalV-8">[8]</a></sup></td>
+<td>v<b>ing</b>t-et-un</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Close-mid_front_unrounded_vowel" title="Close-mid front unrounded vowel">e</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>E</b>l<b>e</b>ment</span><sup id="cite_ref-shorttense_11-1" class="reference"><a href="#cite_note-shorttense-11">[11]</a></sup></td>
+<td>Australian dr<b>e</b>ss
+<p>m<b>a</b>t<b>e</b> (Irish, Scottish, close to American [eɪ] but undiphthongised)</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Close_front_unrounded_vowel" title="Close front unrounded vowel">i</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>I</b>talien</span><sup id="cite_ref-shorttense_11-2" class="reference"><a href="#cite_note-shorttense-11">[11]</a></sup></td>
+<td>t<b>ea</b>ch</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Close-mid_back_rounded_vowel" title="Close-mid back rounded vowel">o</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>o</b>riginell</span><sup id="cite_ref-shorttense_11-3" class="reference"><a href="#cite_note-shorttense-11">[11]</a></sup></td>
+<td>f<b>or</b>c<b>e</b> (Australian)</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Nasal_vowel" title="Nasal vowel">õ</a></span></big></td>
+<td><span lang="de" xml:lang="de">f<b>on</b>cé</span><sup id="cite_ref-nasalV_8-6" class="reference"><a href="#cite_note-nasalV-8">[8]</a></sup></td>
+<td>chans<b>on</b></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Nasal_vowel" title="Nasal vowel">œ̃</a></span></big></td>
+<td><span lang="de" xml:lang="de">L<b>un</b>dist</span><sup id="cite_ref-nasalV_8-7" class="reference"><a href="#cite_note-nasalV-8">[8]</a></sup></td>
+<td>vingt-et-<b>un</b> (traditional French pronunciation <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[<a href="/wiki/Nasal_vowel" title="Nasal vowel">œ̃</a>]</span>)</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Close-mid_front_rounded_vowel" title="Close-mid front rounded vowel">ø</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>Ö</b>konom</span><sup id="cite_ref-shorttense_11-4" class="reference"><a href="#cite_note-shorttense-11">[11]</a></sup></td>
+<td>like m<b>a</b>t<b>e</b> but rounded (Irish, Scottish, American [eɪ] undiphthongised)</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Close_back_rounded_vowel" title="Close back rounded vowel">u</a></span></big></td>
+<td><span lang="de" xml:lang="de"><b>U</b>niversität</span><sup id="cite_ref-shorttense_11-5" class="reference"><a href="#cite_note-shorttense-11">[11]</a></sup></td>
+<td>tr<b>u</b>th (Irish, undiphthongised American [ʊu̯] and RP [ɵʉ̯] but tongue more backed)</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><big><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Close_front_rounded_vowel" title="Close front rounded vowel">y</a></span></big></td>
+<td><span lang="de" xml:lang="de">Ps<b>y</b>chologie</span><sup id="cite_ref-shorttense_11-6" class="reference"><a href="#cite_note-shorttense-11">[11]</a></sup></td>
+<td>like m<b>ee</b>t but rounded</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Help:IPA/Standard_German&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>If your browser does not display IPA symbols, you probably need to install a font that includes the IPA. Good free IPA fonts include <a href="/wiki/Gentium" title="Gentium">Gentium</a> and <a href="/wiki/Charis_SIL" title="Charis SIL">Charis SIL</a> (more complete); a monospaced font is <a href="/wiki/Everson_Mono" title="Everson Mono">Everson Mono</a> which is complete; download links can be found on those pages.</li>
+<li>For a guide to adding pronunciations to Wikipedia articles, see the {{<a href="/wiki/Template:IPA" title="Template:IPA">IPA</a>}} template.</li>
+<li>For a guide to adding IPA characters to Wikipedia articles, see <a href="/wiki/Wikipedia:Manual_of_Style/Pronunciation#Entering_IPA_characters" title="Wikipedia:Manual of Style/Pronunciation">Wikipedia:Manual of Style/Pronunciation#Entering IPA characters</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Help:IPA/Standard_German&amp;action=edit&amp;section=2" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-fortislenis-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-fortislenis_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fortislenis_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-fortislenis_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-fortislenis_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-fortislenis_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-fortislenis_1-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-fortislenis_1-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text">In Austrian Standard German and Swiss Standard German, the lenis obstruents <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/b, d, ɡ, z, dʒ, ʒ/</span> are voiceless <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[b̥, d̥, ɡ̊, z̥, d̥ʒ̊, ʒ̊]</span> and are distinguished from <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/p, t, k, s, tʃ, ʃ/</span> only by articulatory strength (<span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/v/</span> is really voiced). The distinction is also retained word-finally. In German Standard German, voiceless <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[b̥, d̥, ɡ̊, z̥, d̥ʒ̊, ʒ̊]</span> as well as <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[v̥]</span> occur allophonically after fortis obstruents and, for <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/b, d, ɡ/</span>, often also word-initially. See <a href="/wiki/Fortis_and_lenis" title="Fortis and lenis">fortis and lenis</a>.</span></li>
+<li id="cite_note-devoicing-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-devoicing_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-devoicing_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-devoicing_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">In German Standard German, voiced stops <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/b, d, ɡ/</span> are devoiced to <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[p, t, k]</span> at the end of a syllable.</span></li>
+<li id="cite_note-r-allophones-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-r-allophones_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-r-allophones_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-r-allophones_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Pronunciation of <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/r/</span> in German varies according to region and speaker. While older prescriptive pronunciation dictionaries allowed only <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[r]</span>, that pronunciation is now found mainly in Switzerland, <a href="/wiki/Bavaria" title="Bavaria">Bavaria</a> and Austria. In other regions, the uvular pronunciation prevails, mainly as a fricative/approximant <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ʁ]</span>. In many regions except for most parts of Switzerland, the <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/r/</span> in the <a href="/wiki/Syllable_coda" class="mw-redirect" title="Syllable coda">syllable coda</a> is vocalized to <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ɐ̯]</span> after long vowels or after all vowels, and <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ər/</span> is pronounced as <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ɐ]</span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Initial vowels are usually preceded by <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[<a href="/wiki/Glottal_stop" title="Glottal stop">ʔ</a>]</span>, except in <a href="/wiki/Swiss_Standard_German" title="Swiss Standard German">Swiss Standard German</a>.</span></li>
+<li id="cite_note-postalveolarlenis-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-postalveolarlenis_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-postalveolarlenis_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Many speakers lack the lenis <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ʒ/</span> and replace it with its fortis counterpart <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ʃ/</span> (<a href="#CITEREFHall2003">Hall 2003</a>, p.&#160;42). The same applies to the corresponding lenis <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/dʒ/</span>, which also tends to be replaced with its fortis counterpart <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/tʃ/</span>. According to the prescriptive standard, such pronunciations are not correct.</span></li>
+<li id="cite_note-openvowels-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-openvowels_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-openvowels_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-openvowels_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">The Austrian and Swiss pronunciation of <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/a/</span> and <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/aː/</span> is <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ɑ]</span> and <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ɑː]</span> (<a href="#CITEREFMoosm.C3.BCllerSchmidBrandst.C3.A4tter2015">Moosmüller, Schmid &amp; Brandstätter 2015</a>). In some northern German dialects influenced by Low German there may be <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[æ~a]</span> for /a/ but <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ɑː]</span> for <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/aː/</span> thus also having a difference in vowel quality not just length. (see e.g. <a href="#CITEREFWierzbickaRynkowska1992">Wierzbicka &amp; Rynkowska 1992</a>, pp.&#160;412–415).</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">In <a href="/wiki/Northern_Germany" title="Northern Germany">Northern Germany</a>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɛː/</span> often merges with <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/eː/</span> to <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[<a href="/wiki/Close-mid_front_unrounded_vowel" title="Close-mid front unrounded vowel">eː</a>]</span>.</span></li>
+<li id="cite_note-nasalV-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-nasalV_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nasalV_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-nasalV_8-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-nasalV_8-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-nasalV_8-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-nasalV_8-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-nasalV_8-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-nasalV_8-7"><sup><i><b>h</b></i></sup></a></span> <span class="reference-text">The nasal vowels occur in French loans. They are long <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ãː, ɛ̃ː, õː, œ̃ː]</span> when stressed and short <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ã, ɛ̃, õ, œ̃]</span> when unstressed. In colloquial speech they may be replaced with <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[aŋ, ɛŋ, ɔŋ, œŋ]</span> irrespective of length, and the <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ŋ]</span> in these sequences may optionally be <a href="/wiki/Assimilation_(linguistics)" class="mw-redirect" title="Assimilation (linguistics)">assimilated</a> to the <a href="/wiki/Place_of_articulation" title="Place of articulation">place of articulation</a> of a following consonant, e.g. <i>Ensemble</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[aŋˈsaŋbl̩]</span> or <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[anˈsambl̩]</span> for <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ãˈsãːbl̩]</span> (<a href="#CITEREFMangold2005">Mangold 2005</a>, p.&#160;65).</span></li>
+<li id="cite_note-middiphthongs-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-middiphthongs_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-middiphthongs_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">The diphthongs <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɛɪ, ɔʊ/</span> occur only in loanwords (mostly from English), such as <i>okay</i>. Depending on the speaker and the region, they may be monophthongized to <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[eː, oː]</span> (or <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[e, o]</span> in an unstressed syllable-final position). Thus, the aforementioned word <i>okay</i> can be pronounced as either <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ɔʊˈkɛɪ]</span> or <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[oˈkeː]</span>.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[œːɐ̯]</span> or <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[øːr]</span> is the German rendering of the English <span class="smallcaps"><span style="font-variant: small-caps; text-transform: lowercase;">NURSE</span></span> vowel <span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ɜːr/: 'ur' in 'fur'">ɜːr</span></span>/</a></span></span>. It also appears in certain French surnames, e.g. <i>Vass<b>eur</b></i> (<a href="#CITEREFKrech_et_al.2009">Krech et al. 2009</a>, pp.&#160;64, 142).</span></li>
+<li id="cite_note-shorttense-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-shorttense_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-shorttense_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-shorttense_11-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-shorttense_11-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-shorttense_11-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-shorttense_11-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-shorttense_11-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[a, e, i, o, ø, u, y]</span>, the short versions of the long vowels <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[aː, eː, iː, oː, øː, uː, yː]</span>, are used at the end of unstressed syllables before the accented syllable and occur mainly in loanwords. In native words, the accent is generally on the first syllable, and syllables before the accent other than prepositional prefixes are rare but occasionally occur, e.g. in <i>jedoch</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[jeˈdɔx]</span>, <i>soeben</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[zoˈʔeːbn̩]</span>, <i>vielleicht</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[fiˈlaɪçt]</span> etc. In casual speech short <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[e, i, o, ø, u, y]</span> preceding a phonemic consonant (i.e., not a <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ʔ]</span>) may be replaced with <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ɛ, ɪ, ɔ, œ, ʊ, ʏ]</span>, e.g. <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[jɛˈdɔx]</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[fɪˈlaɪçt]</span> (<a href="#CITEREFMangold2005">Mangold 2005</a>, p.&#160;65).</span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Help:IPA/Standard_German&amp;action=edit&amp;section=3" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="refbegin columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul>
+<li><cite id="CITEREFHall2003" class="citation">Hall, Christopher (2003) [First published 1992], <i>Modern German pronunciation: An introduction for speakers of English</i> (2nd ed.), Manchester: Manchester University Press, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7190-6689-1" title="Special:BookSources/0-7190-6689-1">0-7190-6689-1</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelp%3AIPA%2FStandard+German&amp;rft.aufirst=Christopher&amp;rft.aulast=Hall&amp;rft.btitle=Modern+German+pronunciation%3A+An+introduction+for+speakers+of+English&amp;rft.date=2003&amp;rft.edition=2nd&amp;rft.genre=book&amp;rft.isbn=0-7190-6689-1&amp;rft.place=Manchester&amp;rft.pub=Manchester+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Hove, Ingrid (2002). <i>Die Aussprache der Standardsprache in der Schweiz</i>. Tübingen: Niemeyer. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-484-23147-4" title="Special:BookSources/978-3-484-23147-4">978-3-484-23147-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelp%3AIPA%2FStandard+German&amp;rft.aufirst=Ingrid&amp;rft.aulast=Hove&amp;rft.btitle=Die+Aussprache+der+Standardsprache+in+der+Schweiz&amp;rft.date=2002&amp;rft.genre=book&amp;rft.isbn=978-3-484-23147-4&amp;rft.place=T%C3%BCbingen&amp;rft.pub=Niemeyer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFKrech_et_al.2009" class="citation">Krech, Eva Maria; Stock, Eberhard; Hirschfeld, Ursula; Anders, Lutz-Christian (2009), <i>Deutsches Aussprachewörterbuch</i>, Berlin, New York: Walter de Gruyter, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-11-018202-6" title="Special:BookSources/978-3-11-018202-6">978-3-11-018202-6</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelp%3AIPA%2FStandard+German&amp;rft.au=Anders%2C+Lutz-Christian&amp;rft.au=Hirschfeld%2C+Ursula&amp;rft.au=Stock%2C+Eberhard&amp;rft.aufirst=Eva+Maria&amp;rft.aulast=Krech&amp;rft.btitle=Deutsches+Aussprachew%C3%B6rterbuch&amp;rft.date=2009&amp;rft.genre=book&amp;rft.isbn=978-3-11-018202-6&amp;rft.place=Berlin%2C+New+York&amp;rft.pub=Walter+de+Gruyter&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFMangold2005" class="citation"><a href="/wiki/Max_Mangold" title="Max Mangold">Mangold, Max</a> (2005), <i>Das Aussprachewörterbuch</i> (6th ed.), Duden, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3411040667" title="Special:BookSources/978-3411040667">978-3411040667</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelp%3AIPA%2FStandard+German&amp;rft.aufirst=Max&amp;rft.aulast=Mangold&amp;rft.btitle=Das+Aussprachew%C3%B6rterbuch&amp;rft.date=2005&amp;rft.edition=6th&amp;rft.genre=book&amp;rft.isbn=978-3411040667&amp;rft.pub=Duden&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Moosmüller, S.; Schmid, C.; Brandstätter, J. (2015). "Standard Austrian German". <i>Journal of the International Phonetic Association</i>. <b>45</b> (3): 339–348. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1017%2FS0025100315000055">10.1017/S0025100315000055</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelp%3AIPA%2FStandard+German&amp;rft.atitle=Standard+Austrian+German&amp;rft.au=Brandst%C3%A4tter%2C+J.&amp;rft.au=Schmid%2C+C.&amp;rft.aufirst=S.&amp;rft.aulast=Moosm%C3%BCller&amp;rft.date=2015&amp;rft.genre=article&amp;rft.issue=3&amp;rft.jtitle=Journal+of+the+International+Phonetic+Association&amp;rft.pages=339-348&amp;rft.volume=45&amp;rft_id=info%3Adoi%2F10.1017%2FS0025100315000055&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFWierzbickaRynkowska1992" class="citation">Wierzbicka, Irena; Rynkowska, Teresa (1992), <i>Samouczek języka niemieckiego: kurs wstępny</i> (6th ed.), Warszawa: Wiedza Powszechna, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/83-214-0284-4" title="Special:BookSources/83-214-0284-4">83-214-0284-4</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHelp%3AIPA%2FStandard+German&amp;rft.au=Rynkowska%2C+Teresa&amp;rft.aufirst=Irena&amp;rft.aulast=Wierzbicka&amp;rft.btitle=Samouczek+j%C4%99zyka+niemieckiego%3A+kurs+wst%C4%99pny&amp;rft.date=1992&amp;rft.edition=6th&amp;rft.genre=book&amp;rft.isbn=83-214-0284-4&amp;rft.place=Warszawa&amp;rft.pub=Wiedza+Powszechna&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="International_Phonetic_Alphabet_keys" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background-color: #ADE69E;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:IPA_keys" title="Template:IPA keys"><abbr title="View this template" style="background-color: #ADE69E;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:IPA_keys" title="Template talk:IPA keys"><abbr title="Discuss this template" style="background-color: #ADE69E;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:IPA_keys&amp;action=edit"><abbr title="Edit this template" style="background-color: #ADE69E;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="International_Phonetic_Alphabet_keys" style="font-size:114%;margin:0 4em"><a href="/wiki/International_Phonetic_Alphabet" title="International Phonetic Alphabet">International Phonetic Alphabet</a> keys</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Help:IPA/Afrikaans" title="Help:IPA/Afrikaans">Afrikaans</a></li>
+<li><a href="/wiki/Help:IPA/Albanian" title="Help:IPA/Albanian">Albanian</a></li>
+<li><a href="/wiki/Help:IPA/Amharic" title="Help:IPA/Amharic">Amharic</a></li>
+<li><a href="/wiki/Help:IPA/Arabic" title="Help:IPA/Arabic">Arabic</a>
+<ul>
+<li><a href="/wiki/Help:IPA/Egyptian_Arabic" title="Help:IPA/Egyptian Arabic">Egyptian</a></li>
+<li><a href="/wiki/Help:IPA/Hejazi_Arabic" title="Help:IPA/Hejazi Arabic">Hejazi</a></li>
+<li><a href="/wiki/Help:IPA/Tunisian_Arabic" title="Help:IPA/Tunisian Arabic">Tunisian</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Help:IPA/Aramaic" title="Help:IPA/Aramaic">Aramaic</a></li>
+<li><a href="/wiki/Help:IPA/Armenian" title="Help:IPA/Armenian">Armenian</a></li>
+<li><a href="/wiki/Help:IPA/Assamese" title="Help:IPA/Assamese">Assamese</a></li>
+<li><a href="/wiki/Help:IPA/Astur-Leonese" title="Help:IPA/Astur-Leonese">Asturian</a></li>
+<li><a href="/wiki/Help:IPA/Australian_languages" title="Help:IPA/Australian languages">Australian languages</a></li>
+<li><a href="/wiki/Help:IPA/Turkic_dialects" title="Help:IPA/Turkic dialects">Azerbaijani</a></li>
+<li><a href="/wiki/Help:IPA/Basque" title="Help:IPA/Basque">Basque</a></li>
+<li><a href="/wiki/Help:IPA/Belarusian" title="Help:IPA/Belarusian">Belarusian</a></li>
+<li><a href="/wiki/Help:IPA/Bengali" title="Help:IPA/Bengali">Bengali</a></li>
+<li><a href="/wiki/Help:IPA/Berber" title="Help:IPA/Berber">Berber</a></li>
+<li><a href="/wiki/Help:IPA/Breton" title="Help:IPA/Breton">Breton</a></li>
+<li><a href="/wiki/Help:IPA/Bulgarian_and_Macedonian" title="Help:IPA/Bulgarian and Macedonian">Bulgarian</a></li>
+<li><a href="/wiki/Help:IPA/Burmese" title="Help:IPA/Burmese">Burmese</a></li>
+<li><a href="/wiki/Help:IPA/Cantonese" title="Help:IPA/Cantonese">Cantonese</a></li>
+<li><a href="/wiki/Help:IPA/Catalan" title="Help:IPA/Catalan">Catalan</a></li>
+<li><a href="/wiki/Help:IPA/Corsican" title="Help:IPA/Corsican">Corsican</a></li>
+<li><a href="/wiki/Help:IPA/Czech" title="Help:IPA/Czech">Czech</a></li>
+<li><a href="/wiki/Help:IPA/Danish" title="Help:IPA/Danish">Danish</a></li>
+<li><a href="/wiki/Help:IPA/Persian" title="Help:IPA/Persian">Dari</a></li>
+<li><a href="/wiki/Help:IPA/Dothraki" title="Help:IPA/Dothraki">Dothraki</a></li>
+<li><a href="/wiki/Help:IPA/Dutch" title="Help:IPA/Dutch">Dutch</a></li>
+<li><a href="/wiki/Help:IPA/English" title="Help:IPA/English">English</a>
+<ul>
+<li><a href="/wiki/International_Phonetic_Alphabet_chart_for_English_dialects" title="International Phonetic Alphabet chart for English dialects">Dialects</a></li>
+<li><a href="/wiki/Help:IPA/Old_English" title="Help:IPA/Old English">Old English</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Help:IPA/Esperanto" title="Help:IPA/Esperanto">Esperanto</a></li>
+<li><a href="/wiki/Help:IPA/Estonian_and_Finnish" title="Help:IPA/Estonian and Finnish">Estonian</a></li>
+<li><a href="/wiki/Help:IPA/Astur-Leonese" title="Help:IPA/Astur-Leonese">Extremaduran</a></li>
+<li><a href="/wiki/Help:IPA/Fijian" title="Help:IPA/Fijian">Fijian</a></li>
+<li><a href="/wiki/Help:IPA/Estonian_and_Finnish" title="Help:IPA/Estonian and Finnish">Finnish</a></li>
+<li><a href="/wiki/Help:IPA/Franco-Proven%C3%A7al" title="Help:IPA/Franco-Provençal">Franco-Provençal</a></li>
+<li><a href="/wiki/Help:IPA/French" title="Help:IPA/French">French</a></li>
+<li>Frisian
+<ul>
+<li><a href="/wiki/Help:IPA/Saterland_Frisian" title="Help:IPA/Saterland Frisian">Saterland</a></li>
+<li><a href="/wiki/Help:IPA/West_Frisian" title="Help:IPA/West Frisian">West</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Help:IPA/Galician" title="Help:IPA/Galician">Galician</a></li>
+<li><a href="/wiki/Help:IPA/Turkic_dialects" title="Help:IPA/Turkic dialects">Gagauz</a></li>
+<li><a href="/wiki/Help:IPA/Georgian" title="Help:IPA/Georgian">Georgian</a></li>
+<li>German
+<ul>
+<li><a class="mw-selflink selflink">Standard</a></li>
+<li><a href="/wiki/Help:IPA/Alemannic_German" title="Help:IPA/Alemannic German">Alemannic</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Help:IPA/Greek" title="Help:IPA/Greek">Greek</a></li>
+<li><a href="/wiki/Help:IPA/Paraguayan_Guarani" title="Help:IPA/Paraguayan Guarani">Guarani</a></li>
+<li><a href="/wiki/Help:IPA/Gujarati" title="Help:IPA/Gujarati">Gujarati</a></li>
+<li><a href="/wiki/Help:IPA/Haitian_Creole" title="Help:IPA/Haitian Creole">Haitian Creole</a></li>
+<li><a href="/wiki/Help:IPA/Hawaiian" title="Help:IPA/Hawaiian">Hawaiian</a></li>
+<li><a href="/wiki/Help:IPA/Hebrew" title="Help:IPA/Hebrew">Hebrew</a></li>
+<li><a href="/wiki/Help:IPA/Hindi_and_Urdu" title="Help:IPA/Hindi and Urdu">Hindi-Urdu</a></li>
+<li><a href="/wiki/Help:IPA/Hungarian" title="Help:IPA/Hungarian">Hungarian</a></li>
+<li><a href="/wiki/Help:IPA/Icelandic" title="Help:IPA/Icelandic">Icelandic</a></li>
+<li><a href="/wiki/Help:IPA/Malay" title="Help:IPA/Malay">Indonesian</a></li>
+<li><a href="/wiki/Help:IPA/Inuktitut" title="Help:IPA/Inuktitut">Inuktitut</a></li>
+<li><a href="/wiki/Help:IPA/Irish" title="Help:IPA/Irish">Irish</a></li>
+<li><a href="/wiki/Help:IPA/Italian" title="Help:IPA/Italian">Italian</a></li>
+<li><a href="/wiki/Help:IPA/Japanese" title="Help:IPA/Japanese">Japanese</a></li>
+<li><a href="/wiki/Help:IPA/Judaeo-Spanish" title="Help:IPA/Judaeo-Spanish">Judaeo-Spanish</a></li>
+<li><a href="/wiki/Help:IPA/Kannada" title="Help:IPA/Kannada">Kannada</a></li>
+<li><a href="/wiki/Help:IPA/Kashmiri" title="Help:IPA/Kashmiri">Kashmiri</a></li>
+<li><a href="/wiki/Help:IPA/Kazakh" title="Help:IPA/Kazakh">Kazakh</a></li>
+<li><a href="/wiki/Help:IPA/Khmer" title="Help:IPA/Khmer">Khmer</a></li>
+<li><a href="/wiki/Help:IPA/Klingon" title="Help:IPA/Klingon">Klingon</a></li>
+<li><a href="/wiki/Help:IPA/Korean" title="Help:IPA/Korean">Korean</a></li>
+<li><a href="/wiki/Help:IPA/Kouri-Vini" title="Help:IPA/Kouri-Vini">Kouri-Vini</a></li>
+<li><a href="/wiki/Help:IPA/Kurdish" title="Help:IPA/Kurdish">Kurdish</a></li>
+<li><a href="/wiki/Help:IPA/Thai_and_Lao" title="Help:IPA/Thai and Lao">Lao</a></li>
+<li><a href="/wiki/Help:IPA/Latin" title="Help:IPA/Latin">Latin</a></li>
+<li><a href="/wiki/Help:IPA/Latvian" title="Help:IPA/Latvian">Latvian</a></li>
+<li><a href="/wiki/Help:IPA/Laz" title="Help:IPA/Laz">Laz</a></li>
+<li><a href="/wiki/Help:IPA/Lithuanian" title="Help:IPA/Lithuanian">Lithuanian</a></li>
+<li><a href="/wiki/Help:IPA/Luxembourgish" title="Help:IPA/Luxembourgish">Luxembourgish</a></li>
+<li><a href="/wiki/Help:IPA/Bulgarian_and_Macedonian" title="Help:IPA/Bulgarian and Macedonian">Macedonian</a></li>
+<li><a href="/wiki/Help:IPA/Malagasy" title="Help:IPA/Malagasy">Malagasy</a></li>
+<li><a href="/wiki/Help:IPA/Malay" title="Help:IPA/Malay">Malaysian</a></li>
+<li><a href="/wiki/Help:IPA/Malayalam" title="Help:IPA/Malayalam">Malayalam</a></li>
+<li><a href="/wiki/Help:IPA/Maltese" title="Help:IPA/Maltese">Maltese</a></li>
+<li><a href="/wiki/Help:IPA/Manchu" title="Help:IPA/Manchu">Manchu</a></li>
+<li><a href="/wiki/Help:IPA/Mandarin" title="Help:IPA/Mandarin">Mandarin</a></li>
+<li><a href="/wiki/Help:IPA/Manx" title="Help:IPA/Manx">Manx</a></li>
+<li><a href="/wiki/Help:IPA/M%C4%81ori" title="Help:IPA/Māori">Māori</a></li>
+<li><a href="/wiki/Help:IPA/Marshallese" title="Help:IPA/Marshallese">Marshallese</a></li>
+<li><a href="/wiki/Help:IPA/Mayan" title="Help:IPA/Mayan">Mayan</a></li>
+<li><a href="/wiki/Help:IPA/Mingrelian" title="Help:IPA/Mingrelian">Mingrelian</a></li>
+<li><a href="/wiki/Help:IPA/Mongolian" title="Help:IPA/Mongolian">Mongolian</a></li>
+<li><a href="/wiki/Help:IPA/Astur-Leonese" title="Help:IPA/Astur-Leonese">Mirandese</a></li>
+<li><a href="/wiki/Help:IPA/Nahuatl" title="Help:IPA/Nahuatl">Nahuatl</a></li>
+<li><a href="/wiki/Help:IPA/Navajo" title="Help:IPA/Navajo">Navajo</a></li>
+<li><a href="/wiki/Help:IPA/Neapolitan" title="Help:IPA/Neapolitan">Neapolitan</a></li>
+<li><a href="/wiki/Help:IPA/Northern_Thai" title="Help:IPA/Northern Thai">Northern Thai</a></li>
+<li><a href="/wiki/Help:IPA/Norwegian" title="Help:IPA/Norwegian">Norwegian</a></li>
+<li><a href="/wiki/Help:IPA/Occitan" title="Help:IPA/Occitan">Occitan</a></li>
+<li><a href="/wiki/Help:IPA/Odia" title="Help:IPA/Odia">Odia</a></li>
+<li><a href="/wiki/Help:IPA/Oromo" title="Help:IPA/Oromo">Oromo</a></li>
+<li><a href="/wiki/Help:IPA/Ossetic" title="Help:IPA/Ossetic">Ossetic</a></li>
+<li><a href="/wiki/Help:IPA/Persian" title="Help:IPA/Persian">Persian</a></li>
+<li><a href="/wiki/Help:IPA/Polish" title="Help:IPA/Polish">Polish</a></li>
+<li><a href="/wiki/Help:IPA/Portuguese" title="Help:IPA/Portuguese">Portuguese</a></li>
+<li><a href="/wiki/Help:IPA/Punjabi" title="Help:IPA/Punjabi">Punjabi</a></li>
+<li><a href="/wiki/Help:IPA/Quechua" title="Help:IPA/Quechua">Quechua</a></li>
+<li>Ripuarian
+<ul>
+<li><a href="/wiki/Help:IPA/Colognian" title="Help:IPA/Colognian">Colognian</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Help:IPA/Romanian" title="Help:IPA/Romanian">Romanian</a></li>
+<li><a href="/wiki/Help:IPA/Romansh" title="Help:IPA/Romansh">Romansh</a></li>
+<li><a href="/wiki/Help:IPA/Russian" title="Help:IPA/Russian">Russian</a></li>
+<li>Sanskrit
+<ul>
+<li><a href="/wiki/Help:IPA/Sanskrit" title="Help:IPA/Sanskrit">Classical</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Help:IPA/Sardinian" title="Help:IPA/Sardinian">Sardinian</a></li>
+<li><a href="/wiki/Help:IPA/Scottish_Gaelic" title="Help:IPA/Scottish Gaelic">Scottish Gaelic</a></li>
+<li><a href="/wiki/Help:IPA/Serbo-Croatian" title="Help:IPA/Serbo-Croatian">Serbo-Croatian</a></li>
+<li><a href="/wiki/Help:IPA/Shan_and_Tai_L%C3%BC" title="Help:IPA/Shan and Tai Lü">Shan</a></li>
+<li><a href="/wiki/Help:IPA/Slovak" title="Help:IPA/Slovak">Slovak</a></li>
+<li><a href="/wiki/Help:IPA/Slovene" title="Help:IPA/Slovene">Slovene</a></li>
+<li><a href="/wiki/Help:IPA/Spanish" title="Help:IPA/Spanish">Spanish</a></li>
+<li><a href="/wiki/Help:IPA/Svan" title="Help:IPA/Svan">Svan</a></li>
+<li><a href="/wiki/Help:IPA/Swahili" title="Help:IPA/Swahili">Swahili</a></li>
+<li><a href="/wiki/Help:IPA/Nguni" title="Help:IPA/Nguni">Swazi</a></li>
+<li><a href="/wiki/Help:IPA/Swedish" title="Help:IPA/Swedish">Swedish</a></li>
+<li><a href="/wiki/Help:IPA/Tagalog" title="Help:IPA/Tagalog">Tagalog</a></li>
+<li><a href="/wiki/Help:IPA/Shan_and_Tai_L%C3%BC" title="Help:IPA/Shan and Tai Lü">Tai Lü</a></li>
+<li><a href="/wiki/Help:IPA/Taiwanese_Hokkien" title="Help:IPA/Taiwanese Hokkien">Taiwanese Hokkien</a></li>
+<li><a href="/wiki/Help:IPA/Persian" title="Help:IPA/Persian">Tajik</a></li>
+<li><a href="/wiki/Help:IPA/Tamil" title="Help:IPA/Tamil">Tamil</a></li>
+<li><a href="/wiki/Help:IPA/Thai_and_Lao" title="Help:IPA/Thai and Lao">Thai</a></li>
+<li><a href="/wiki/Help:IPA/Tibetan" title="Help:IPA/Tibetan">Tibetan</a></li>
+<li><a href="/wiki/Help:IPA/Tigrinya" title="Help:IPA/Tigrinya">Tigrinya</a></li>
+<li><a href="/wiki/Help:IPA/Turkic_dialects" title="Help:IPA/Turkic dialects">Turkish</a></li>
+<li><a href="/wiki/Help:IPA/Turkic_dialects" title="Help:IPA/Turkic dialects">Turkmen</a></li>
+<li><a href="/wiki/Help:IPA/Ukrainian" title="Help:IPA/Ukrainian">Ukrainian</a></li>
+<li><a href="/wiki/Help:IPA/Venetian" title="Help:IPA/Venetian">Venetian</a></li>
+<li><a href="/wiki/Help:IPA/Vietnamese" title="Help:IPA/Vietnamese">Vietnamese</a></li>
+<li><a href="/wiki/Help:IPA/Walloon" title="Help:IPA/Walloon">Walloon</a></li>
+<li><a href="/wiki/Help:IPA/Wandamen" title="Help:IPA/Wandamen">Wandamen</a></li>
+<li><a href="/wiki/Help:IPA/Welsh" title="Help:IPA/Welsh">Welsh</a></li>
+<li><a href="/wiki/Help:IPA/Nguni" title="Help:IPA/Nguni">Xhosa</a></li>
+<li><a href="/wiki/Help:IPA/Yiddish" title="Help:IPA/Yiddish">Yiddish</a></li>
+<li><a href="/wiki/Help:IPA/Nguni" title="Help:IPA/Nguni">Zulu</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color: #ADE69E;;width:1%;background-color: #C7FDB8;">Comparisons</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Help:IPA/Conventions_for_English" title="Help:IPA/Conventions for English">with other English IPA conventions</a></li>
+<li><a href="/wiki/Help:Pronunciation_respelling_key" title="Help:Pronunciation respelling key">with Wikipedia pronunciation respelling key</a></li>
+<li><a href="/wiki/Pronunciation_respelling_for_English" title="Pronunciation respelling for English">with other English pronunciation respelling keys</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color: #ADE69E;;width:1%;background-color: #C7FDB8;">Introductory guides</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Help:IPA" title="Help:IPA">Symbols</a></li>
+<li><a href="/wiki/Help:IPA/Introduction" title="Help:IPA/Introduction">For English speakers</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Pronunciation" title="Wikipedia:Manual of Style/Pronunciation">Manual of Style: Pronunciation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1257
+Cached time: 20170917011759
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.576 seconds
+Real time usage: 0.671 seconds
+Preprocessor visited node count: 16215/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 99355/2097152 bytes
+Template argument size: 12351/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 3/500
+Lua time usage: 0.208/10.000 seconds
+Lua memory usage: 4.89 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  574.487      1 -total
+ 28.49%  163.694     62 Template:IPA_link
+ 27.62%  158.667     75 Template:Lang
+ 27.09%  155.617     62 Template:IPA_link/core
+ 24.63%  141.485     75 Template:Category_handler
+ 12.12%   69.625     65 Template:IPA_symbol
+ 11.14%   63.998    134 Template:IPA
+  9.67%   55.567      1 Template:Information_page
+  8.48%   48.721      1 Template:Ombox
+  8.10%   46.547      4 Template:Citation
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:18005146-0!canonical and timestamp 20170917011759 and revision id 799610719
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Help:IPA/Standard_German&amp;oldid=799610719">https://en.wikipedia.org/w/index.php?title=Help:IPA/Standard_German&amp;oldid=799610719</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Wikipedia_information_pages" title="Category:Wikipedia information pages">Wikipedia information pages</a></li><li><a href="/wiki/Category:International_Phonetic_Alphabet_help" title="Category:International Phonetic Alphabet help">International Phonetic Alphabet help</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Help%3AIPA%2FStandard+German" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Help%3AIPA%2FStandard+German" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-help" class="selected"><span><a href="/wiki/Help:IPA/Standard_German" title="View the help page [c]" accesskey="c">Help page</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Help_talk:IPA/Standard_German" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Help:IPA/Standard_German">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Help:IPA/Standard_German&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Help:IPA/Standard_German&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Help:IPA/Standard_German" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Help:IPA/Standard_German" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Help:IPA/Standard_German&amp;oldid=799610719" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Help:IPA/Standard_German&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q8615142" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Help%3AIPA%2FStandard+German">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Help%3AIPA%2FStandard+German&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DHelp%253AIPA%252FStandard%2BGerman%26returnto%3DHelp%253AIPA%252FStandard%2BGerman%26oldid%3D799610719%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Help:IPA/Standard_German&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%89%E0%A6%87%E0%A6%95%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE:%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE%E0%A6%AF%E0%A6%BC_%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A6%A8_%E0%A6%B6%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B0_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%80%E0%A6%95%E0%A6%B0%E0%A6%A3" title="উইকিপিডিয়া:বাংলা ভাষায় জার্মান শব্দের প্রতিবর্ণীকরণ – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Lizherenneg_fonetik_etrebroadel_evit_an_alamaneg" title="Lizherenneg fonetik etrebroadel evit an alamaneg – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%93%E1%83%90%E1%83%AE%E1%83%9B%E1%83%90%E1%83%A0%E1%83%94%E1%83%91%E1%83%90:IPA_%E1%83%92%E1%83%94%E1%83%A0%E1%83%9B%E1%83%90%E1%83%9C%E1%83%A3%E1%83%9A%E1%83%98%E1%83%A1%E1%83%97%E1%83%95%E1%83%98%E1%83%A1" title="დახმარება:IPA გერმანულისთვის – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Al%C3%AEkar%C3%AE:IPA_ji_bo_alman%C3%AE" title="Alîkarî:IPA ji bo almanî – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li><li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/Help:IPA_for_German" title="Help:IPA for German – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%AE%E0%A8%A6%E0%A8%A6:%E0%A8%9C%E0%A8%B0%E0%A8%AE%E0%A8%A8_%E0%A8%B2%E0%A8%88_IPA" title="ਮਦਦ:ਜਰਮਨ ਲਈ IPA – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:AFI_para_alem%C3%A3o" title="Wikipédia:AFI para alemão – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%85%D8%B9%D8%A7%D9%88%D9%86%D8%AA:%D8%A8%DB%8C%D9%86_%D8%A7%D9%84%D8%A7%D9%82%D9%88%D8%A7%D9%85%DB%8C_%D8%A7%D8%B5%D9%88%D8%A7%D8%AA%DB%8C_%D8%A7%D8%A8%D8%AC%D8%AF%DB%8C%DB%81_%D8%A8%D8%B1%D8%A7%D8%A6%DB%92_%D8%AC%D8%B1%D9%85%D9%86" title="معاونت:بین الاقوامی اصواتی ابجدیہ برائے جرمن – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/Help:%E5%BE%B7%E6%96%87%E5%98%85%E5%9C%8B%E9%9A%9B%E9%9F%B3%E6%A8%99%E8%AE%80%E9%9F%B3" title="Help:德文嘅國際音標讀音 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Help:%E5%BE%B7%E8%AF%AD%E5%9B%BD%E9%99%85%E9%9F%B3%E6%A0%87" title="Help:德语国际音标 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q8615142#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 8 September 2017, at 19:30.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Help:IPA/Standard_German&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.576","walltime":"0.671","ppvisitednodes":{"value":16215,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":99355,"limit":2097152},"templateargumentsize":{"value":12351,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  574.487      1 -total"," 28.49%  163.694     62 Template:IPA_link"," 27.62%  158.667     75 Template:Lang"," 27.09%  155.617     62 Template:IPA_link/core"," 24.63%  141.485     75 Template:Category_handler"," 12.12%   69.625     65 Template:IPA_symbol"," 11.14%   63.998    134 Template:IPA","  9.67%   55.567      1 Template:Information_page","  8.48%   48.721      1 Template:Ombox","  8.10%   46.547      4 Template:Citation"]},"scribunto":{"limitreport-timeusage":{"value":"0.208","limit":"10.000"},"limitreport-memusage":{"value":5130677,"limit":52428800}},"cachereport":{"origin":"mw1257","timestamp":"20170917011759","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":63,"wgHostname":"mw1244"});});</script>
+	</body>
+</html>

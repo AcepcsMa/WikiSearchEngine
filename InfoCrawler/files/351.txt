@@ -1,0 +1,1444 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Hohenstaufen - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Hohenstaufen","wgTitle":"Hohenstaufen","wgCurRevisionId":799801134,"wgRevisionId":799801134,"wgArticleId":13805,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from June 2008","All articles needing additional references","Wikipedia articles needing clarification from July 2014","Wikipedia articles incorporating text from the Library of Congress Country Studies","Wikipedia articles with VIAF identifiers","Wikipedia articles with GND identifiers","Hohenstaufen","Salian dynasty","Holy Roman Emperors","German kings","Noble families of the Holy Roman Empire","German noble families","Italian noble families","European royal families","Sicilian royal houses","1079 establishments in the Holy Roman Empire","1268 disestablishments in the Holy Roman Empire"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Hohenstaufen","wgRelevantArticleId":13805,"wgRequestId":"WcnhcQpAADsAACXa3e8AAABH","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q130875","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Hohenstaufen_family_arms.svg/1200px-Hohenstaufen_family_arms.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Hohenstaufen"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Hohenstaufen&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Hohenstaufen&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Hohenstaufen"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Hohenstaufen rootpage-Hohenstaufen skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Hohenstaufen</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Hohenstaufen_(disambiguation)" class="mw-disambig" title="Hohenstaufen (disambiguation)">Hohenstaufen (disambiguation)</a>.</div>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Hohenstaufen&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(June 2008)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<div class="boilerplate metadata plainlinks" id="tfd" style="background-color: transparent; padding: 0; font-size:xx-small; color:#000000; text-align: center; border-bottom:1px solid #AAAAAA;">‹&#160;The <a href="/wiki/Help:Template" title="Help:Template">template</a> below (<i><a href="/wiki/Template:Infobox_noble_house" title="Template:Infobox noble house">Infobox noble house</a></i>) is being considered for merging. See <a href="/wiki/Wikipedia:Templates_for_discussion/Log/2017_September_22#Template:Infobox_noble_house" title="Wikipedia:Templates for discussion/Log/2017 September 22">templates for discussion</a> to help reach a consensus.&#160;›</div>
+<table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" class="fn org" style="text-align:center;font-size:125%;font-weight:bold">Hohenstaufen<br />
+<span class="nickname">Staufer</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Hohenstaufen_family_arms.svg" class="image"><img alt="Hohenstaufen family arms.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Hohenstaufen_family_arms.svg/140px-Hohenstaufen_family_arms.svg.png" width="140" height="154" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Hohenstaufen_family_arms.svg/210px-Hohenstaufen_family_arms.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/Hohenstaufen_family_arms.svg/280px-Hohenstaufen_family_arms.svg.png 2x" data-file-width="600" data-file-height="660" /></a>
+<div>Arms of the Hohenstaufen</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Country</th>
+<td class="label"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Banner_of_the_Holy_Roman_Emperor_%28after_1400%29.svg/23px-Banner_of_the_Holy_Roman_Emperor_%28after_1400%29.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Banner_of_the_Holy_Roman_Emperor_%28after_1400%29.svg/35px-Banner_of_the_Holy_Roman_Emperor_%28after_1400%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Banner_of_the_Holy_Roman_Emperor_%28after_1400%29.svg/45px-Banner_of_the_Holy_Roman_Emperor_%28after_1400%29.svg.png 2x" data-file-width="600" data-file-height="400" />&#160;</span><a href="/wiki/Holy_Roman_Empire" title="Holy Roman Empire">Holy Roman Empire</a><br />
+<span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bandiera_del_Regno_di_Sicilia_4.svg/22px-Bandiera_del_Regno_di_Sicilia_4.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bandiera_del_Regno_di_Sicilia_4.svg/34px-Bandiera_del_Regno_di_Sicilia_4.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bandiera_del_Regno_di_Sicilia_4.svg/44px-Bandiera_del_Regno_di_Sicilia_4.svg.png 2x" data-file-width="897" data-file-height="612" />&#160;</span><a href="/wiki/Kingdom_of_Sicily" title="Kingdom of Sicily">Sicily</a><br />
+<span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Vexillum_Regni_Hierosolymae.svg/23px-Vexillum_Regni_Hierosolymae.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Vexillum_Regni_Hierosolymae.svg/35px-Vexillum_Regni_Hierosolymae.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Vexillum_Regni_Hierosolymae.svg/45px-Vexillum_Regni_Hierosolymae.svg.png 2x" data-file-width="600" data-file-height="400" />&#160;</span><a href="/wiki/Kingdom_of_Jerusalem" title="Kingdom of Jerusalem">Jerusalem</a></td>
+</tr>
+<tr>
+<th scope="row">Estates</th>
+<td>Swabia</td>
+</tr>
+<tr>
+<th scope="row">Titles</th>
+<td>
+<ul>
+<li><a href="/wiki/Duke_of_Swabia" title="Duke of Swabia">Duke of Swabia</a></li>
+<li><a href="/wiki/King_of_Italy" title="King of Italy">King of Italy</a></li>
+<li><a href="/wiki/Holy_Roman_Emperor" title="Holy Roman Emperor">Holy Roman Emperor</a></li>
+<li><a href="/wiki/King_of_Sicily" class="mw-redirect" title="King of Sicily">King of Sicily</a></li>
+<li><a href="/wiki/King_of_Jerusalem" title="King of Jerusalem">King of Jerusalem</a></li>
+<li><a href="/wiki/King_of_Italy" title="King of Italy">King of Italy</a></li>
+<li><a href="/wiki/King_of_the_Romans" title="King of the Romans">King of the Romans</a></li>
+<li><a href="/wiki/King_of_Burgundy" class="mw-redirect" title="King of Burgundy">King of Burgundy</a></li>
+<li><a href="/wiki/Count_of_Burgundy" class="mw-redirect" title="Count of Burgundy">Count of Burgundy</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th scope="row">Founded</th>
+<td>1079</td>
+</tr>
+<tr>
+<th scope="row">Founder</th>
+<td><a href="/wiki/Frederick_I,_Duke_of_Swabia" title="Frederick I, Duke of Swabia">Frederick I, Duke of Swabia</a></td>
+</tr>
+<tr>
+<th scope="row">Final ruler</th>
+<td><a href="/wiki/Conradin" title="Conradin">Conradin</a></td>
+</tr>
+<tr>
+<th scope="row">Dissolution</th>
+<td>1268</td>
+</tr>
+<tr>
+<th scope="row">Ethnicity</th>
+<td>German</td>
+</tr>
+</table>
+<p>The <b>Hohenstaufen</b>, also called the <b>Staufer</b> or <b>Staufen</b>, were a dynasty of <a href="/wiki/List_of_German_Kings_and_Emperors" class="mw-redirect" title="List of German Kings and Emperors">German kings</a> (1138–1254) during the <a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a>. Besides Germany, they also ruled the <a href="/wiki/Kingdom_of_Sicily" title="Kingdom of Sicily">Kingdom of Sicily</a> (1194–1268). In Italian historiography, they are known as the <i>Svevi</i> (Swabians), since they were (successive) <a href="/wiki/Duke_of_Swabia" title="Duke of Swabia">dukes of Swabia</a> from 1079. Three members of the dynasty—<a href="/wiki/Frederick_I,_Holy_Roman_Emperor" title="Frederick I, Holy Roman Emperor">Frederick I</a>, <a href="/wiki/Henry_VI,_Holy_Roman_Emperor" title="Henry VI, Holy Roman Emperor">Henry VI</a> and <a href="/wiki/Frederick_II,_Holy_Roman_Emperor" title="Frederick II, Holy Roman Emperor">Frederick II</a>—were crowned <a href="/wiki/Holy_Roman_Emperor" title="Holy Roman Emperor">Holy Roman Emperor</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Name"><span class="tocnumber">1</span> <span class="toctext">Name</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Origins"><span class="tocnumber">2</span> <span class="toctext">Origins</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Ruling_in_Germany"><span class="tocnumber">3</span> <span class="toctext">Ruling in Germany</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Frederick_Barbarossa"><span class="tocnumber">3.1</span> <span class="toctext">Frederick Barbarossa</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Henry_VI"><span class="tocnumber">3.2</span> <span class="toctext">Henry VI</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Philip_of_Swabia"><span class="tocnumber">3.3</span> <span class="toctext">Philip of Swabia</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Ruling_in_Italy"><span class="tocnumber">4</span> <span class="toctext">Ruling in Italy</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Frederick_II"><span class="tocnumber">4.1</span> <span class="toctext">Frederick II</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#End_of_the_Staufer_dynasty"><span class="tocnumber">4.2</span> <span class="toctext">End of the Staufer dynasty</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Members_of_the_Hohenstaufen_family"><span class="tocnumber">5</span> <span class="toctext">Members of the Hohenstaufen family</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Holy_Roman_Emperors_and_Kings_of_the_Romans"><span class="tocnumber">5.1</span> <span class="toctext">Holy Roman Emperors and Kings of the Romans</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Kings_of_Italy"><span class="tocnumber">5.2</span> <span class="toctext">Kings of Italy</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Kings_of_Sicily"><span class="tocnumber">5.3</span> <span class="toctext">Kings of Sicily</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Dukes_of_Swabia"><span class="tocnumber">5.4</span> <span class="toctext">Dukes of Swabia</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Name">Name</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hohenstaufen&amp;action=edit&amp;section=1" title="Edit section: Name">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Hohenstaufen_Castle_Ruins.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Hohenstaufen_Castle_Ruins.jpg/220px-Hohenstaufen_Castle_Ruins.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Hohenstaufen_Castle_Ruins.jpg/330px-Hohenstaufen_Castle_Ruins.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Hohenstaufen_Castle_Ruins.jpg/440px-Hohenstaufen_Castle_Ruins.jpg 2x" data-file-width="1024" data-file-height="684" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Hohenstaufen_Castle_Ruins.jpg" class="internal" title="Enlarge"></a></div>
+Ruins of <a href="/wiki/Hohenstaufen_Castle" title="Hohenstaufen Castle">Hohenstaufen Castle</a></div>
+</div>
+</div>
+<p>The name "Hohenstaufen", meaning "high Staufen", originates in the 14th century, when it was first used to distinguish the <a href="/wiki/Conical_hill" title="Conical hill">conical hill</a> named <a href="/wiki/Hohenstaufen_(mountain)" title="Hohenstaufen (mountain)">Staufen</a> in the <a href="/wiki/Swabian_Jura" title="Swabian Jura">Swabian Jura</a>, in the district of <a href="/wiki/G%C3%B6ppingen_(district)" title="Göppingen (district)">Göppingen</a>, from the village of the same name in the valley below. The name "Staufen" derives from <i>Stauf</i> (formerly <i>stouf</i> and akin to <a href="/wiki/Early_Modern_English" title="Early Modern English">Early Modern English</a> <i><a href="https://en.wiktionary.org/wiki/stoup" class="extiw" title="wiktionary:stoup">stoup</a></i>), meaning "<a href="/wiki/Chalice" title="Chalice">chalice</a>", and was commonly applied to conical hills in Swabia in the Middle Ages. The family derives its name from the castle which the first Swabian duke of the lineage built there in the latter half of the 11th century. <a href="/wiki/Hohenstaufen_Castle" title="Hohenstaufen Castle">Staufen castle</a> was only finally called Hohenstaufen by historians in the 19th century, to distinguish it from other castles of the same name. The name of the dynasty followed, but in recent decades the trend in German historiography has been to prefer the name Staufer.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<h2><span class="mw-headline" id="Origins">Origins</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hohenstaufen&amp;action=edit&amp;section=2" title="Edit section: Origins">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The noble family first appeared in the late 10th century in the <a href="/wiki/Duchy_of_Swabia" title="Duchy of Swabia">Swabian</a> <i>Riesgau</i> region around the former <a href="/wiki/Carolingian_Empire" title="Carolingian Empire">Carolingian</a> court of <a href="/wiki/N%C3%B6rdlingen" title="Nördlingen">Nördlingen</a>. A local count Frederick (d. about 1075) is mentioned as progenitor in a pedigree drawn up by Abbot <a href="/wiki/Wibald" title="Wibald">Wibald of Stavelot</a> at the behest of Emperor Frederick Barbarossa in 1153. He held the office of a Swabian <a href="/wiki/Count_palatine" title="Count palatine">count palatine</a>; his son Frederick of <a href="/wiki/W%C3%A4schenbeuren" title="Wäschenbeuren">Buren</a> (c.1020–1053) married Hildegard of <a href="/wiki/Eguisheim" title="Eguisheim">Egisheim</a>-<a href="/wiki/County_of_Dagsburg" title="County of Dagsburg">Dagsburg</a> (d. 1094/95), a niece of <a href="/wiki/Pope_Leo_IX" title="Pope Leo IX">Pope Leo IX</a>. Their son <a href="/wiki/Frederick_I,_Duke_of_Swabia" title="Frederick I, Duke of Swabia">Frederick I</a> was appointed <a href="/wiki/Duke_of_Swabia" title="Duke of Swabia">Duke of Swabia</a> at Hohenstaufen Castle by the <a href="/wiki/Salian_dynasty" title="Salian dynasty">Salian</a> king <a href="/wiki/Henry_IV,_Holy_Roman_Emperor" title="Henry IV, Holy Roman Emperor">Henry IV of Germany</a> in 1079.</p>
+<p>At the same time, Duke Frederick I was engaged to the king's approximately seventeen-year-old daughter, <a href="/wiki/Agnes_of_Germany" class="mw-redirect" title="Agnes of Germany">Agnes</a>. Nothing is known about Frederick's life before this event, but he proved to be an imperial ally throughout Henry's struggles against other Swabian lords, namely <a href="/wiki/Rudolf_of_Rheinfelden" title="Rudolf of Rheinfelden">Rudolf of Rheinfelden</a>, Frederick's predecessor, and the <a href="/wiki/House_of_Z%C3%A4hringen" title="House of Zähringen">Zähringen</a> and <a href="/wiki/House_of_Welf" title="House of Welf">Welf</a> lords. Frederick's brother Otto was elevated to the <a href="/wiki/Bishop_of_Strasbourg" class="mw-redirect" title="Bishop of Strasbourg">Strasbourg bishopric</a> in 1082.</p>
+<p>Upon Frederick's death, he was succeeded by his son, Duke <a href="/wiki/Frederick_II,_Duke_of_Swabia" title="Frederick II, Duke of Swabia">Frederick II</a>, in 1105. Frederick II remained a close ally of the Salians, he and his younger brother <a href="/wiki/Conrad_III_of_Germany" title="Conrad III of Germany">Conrad</a> were named the king's representatives in Germany when the king was in Italy. Around 1120, Frederick II married Judith of Bavaria from the rival <a href="/wiki/House_of_Welf" title="House of Welf">House of Welf</a>.</p>
+<h2><span class="mw-headline" id="Ruling_in_Germany">Ruling in Germany</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hohenstaufen&amp;action=edit&amp;section=3" title="Edit section: Ruling in Germany">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>When the last male member of the Salian dynasty, Emperor <a href="/wiki/Henry_V,_Holy_Roman_Emperor" title="Henry V, Holy Roman Emperor">Henry V</a>, died without heirs in 1125, a controversy arose about the succession. Duke <a href="/wiki/Frederick_II,_Duke_of_Swabia" title="Frederick II, Duke of Swabia">Frederick II</a> and <a href="/wiki/Conrad_III_of_Germany" title="Conrad III of Germany">Conrad</a>, the two current male Staufers, by their mother Agnes, were grandsons of late Emperor Henry IV and nephews of Henry V. Frederick attempted to succeed to the throne of the <a href="/wiki/Holy_Roman_Emperor" title="Holy Roman Emperor">Holy Roman Emperor</a> (formally known as the <a href="/wiki/King_of_the_Romans" title="King of the Romans">King of the Romans</a>) through a customary election, but lost to the <a href="/wiki/Duchy_of_Saxony" title="Duchy of Saxony">Saxon</a> duke <a href="/wiki/Lothair_III,_Holy_Roman_Emperor" class="mw-redirect" title="Lothair III, Holy Roman Emperor">Lothair of Supplinburg</a>. A civil war between Frederick's dynasty and Lothair's ended with Frederick's submission in 1134. After Lothair's death in 1137, Frederick's brother Conrad was elected King as Conrad III.</p>
+<table class="infobox" width="250" style="background: #f9f9f9; border: 1px #aaaaaa solid; font-size: 100%;">
+<tr>
+<td style="background:#cbe;text-align:center;" colspan="4"><big><b>German royal dynasties</b></big></td>
+</tr>
+<tr>
+<td style="text-align:center;" colspan="4"><b><a href="/wiki/House_of_Hohenstaufen" class="mw-redirect" title="House of Hohenstaufen">House of Hohenstaufen</a></b></td>
+</tr>
+<tr>
+<td style="font-size: 90%;text-align:center;" colspan="4"></td>
+</tr>
+<tr>
+<td style="color:#000000; background:#E5E4E2; font-size: 110%;text-align:center;" colspan="4"><b>Chronology</b></td>
+</tr>
+<tr>
+<td style="font-size: 95%;text-align:left;" colspan="2"><a href="/wiki/Conrad_III_of_Germany" title="Conrad III of Germany">Conrad III</a></td>
+<td style="font-size: 95%;text-align:right;" colspan="2">1138 – 1152</td>
+</tr>
+<tr>
+<td style="font-size: 95%;text-align:left;" colspan="2"><a href="/wiki/Frederick_I,_Holy_Roman_Emperor" title="Frederick I, Holy Roman Emperor">Frederick I Barbarossa</a></td>
+<td style="font-size: 95%;text-align:right;" colspan="2">1152 – 1190</td>
+</tr>
+<tr>
+<td style="font-size: 95%;text-align:left;" colspan="2"><a href="/wiki/Henry_VI,_Holy_Roman_Emperor" title="Henry VI, Holy Roman Emperor">Henry VI</a></td>
+<td style="font-size: 95%;text-align:right;" colspan="2">1190 – 1197</td>
+</tr>
+<tr>
+<td style="font-size: 95%;text-align:left;" colspan="2"><a href="/wiki/Philip_of_Swabia" title="Philip of Swabia">Philip of Swabia</a></td>
+<td style="font-size: 95%;text-align:right;" colspan="2">1198 – 1208</td>
+</tr>
+<tr>
+<td style="font-size: 95%;text-align:left;" colspan="2"><a href="/wiki/Frederick_II,_Holy_Roman_Emperor" title="Frederick II, Holy Roman Emperor">Frederick II</a></td>
+<td style="font-size: 95%;text-align:right;" colspan="2">1212 – 1250</td>
+</tr>
+<tr>
+<td style="font-size: 95%;text-align:left;" colspan="2"><a href="/wiki/Conrad_IV_of_Germany" title="Conrad IV of Germany">Conrad IV</a></td>
+<td style="font-size: 95%;text-align:right;" colspan="2">1250 – 1254</td>
+</tr>
+<tr>
+<td style="color:#000000; background:#E5E4E2; font-size: 110%;text-align:center;" colspan="4"><b>Family</b></td>
+</tr>
+<tr>
+<td style="font-size: 95%;text-align:center;" colspan="4"><a href="/wiki/Family_tree_of_the_German_monarchs" title="Family tree of the German monarchs">Family tree of the German monarchs</a><br /></td>
+</tr>
+<tr>
+<td style="color:#000000; background:#E5E4E2; font-size: 110%;text-align:center;" colspan="4"><b>Succession</b></td>
+</tr>
+<tr>
+<td style="font-size: 90%;text-align:center;" colspan="2"><i>Preceded by</i><br />
+<a href="/wiki/S%C3%BCpplingenburg_dynasty" class="mw-redirect" title="Süpplingenburg dynasty">Süpplingenburg dynasty</a></td>
+<td style="font-size: 90%;text-align:center;" colspan="2"><i>Followed by</i><br />
+<a href="/wiki/House_of_Habsburg" title="House of Habsburg">House of Habsburg</a></td>
+</tr>
+</table>
+<p>Because the <a href="/wiki/House_of_Welf" title="House of Welf">Welf duke</a> <a href="/wiki/Henry_the_Proud" class="mw-redirect" title="Henry the Proud">Henry the Proud</a>, son-in-law and heir of Lothair and the most powerful prince in Germany, who had been passed over in the election, refused to acknowledge the new king, Conrad III deprived him of all his territories, giving the <a href="/wiki/Duchy_of_Saxony" title="Duchy of Saxony">Duchy of Saxony</a> to <a href="/wiki/Albert_the_Bear" title="Albert the Bear">Albert the Bear</a> and that of <a href="/wiki/Duchy_of_Bavaria" title="Duchy of Bavaria">Bavaria</a> to <a href="/wiki/Leopold_IV,_Margrave_of_Austria" class="mw-redirect" title="Leopold IV, Margrave of Austria">Leopold&#160;IV, Margrave of Austria</a>. In 1147, Conrad heard <a href="/wiki/Bernard_of_Clairvaux" title="Bernard of Clairvaux">Bernard of Clairvaux</a> preach the <a href="/wiki/Second_Crusade" title="Second Crusade">Second Crusade</a> at <a href="/wiki/Speyer" title="Speyer">Speyer</a>, and he agreed to join King <a href="/wiki/Louis_VII_of_France" title="Louis VII of France">Louis VII of France</a> in a great <a href="/wiki/Second_Crusade" title="Second Crusade">expedition</a> to the <a href="/wiki/Holy_Land" title="Holy Land">Holy Land</a> which failed.</p>
+<p>Conrad's brother Duke Frederick II died in 1147, and was succeeded in Swabia by his son, Duke <a href="/wiki/Frederick_I,_Holy_Roman_Emperor" title="Frederick I, Holy Roman Emperor">Frederick III</a>. When King Conrad III died without adult heir in 1152, Frederick also succeeded him, taking both German royal and Imperial titles.</p>
+<h3><span class="mw-headline" id="Frederick_Barbarossa">Frederick Barbarossa</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hohenstaufen&amp;action=edit&amp;section=4" title="Edit section: Frederick Barbarossa">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Frederick I, known as Frederick Barbarossa because of his red beard, struggled throughout his reign to restore the power and prestige of the German monarchy against the dukes, whose power had grown both before and after the <a href="/wiki/Investiture_Controversy" title="Investiture Controversy">Investiture Controversy</a> under his Salian predecessors. As royal access to the resources of the church in Germany was much reduced, Frederick was forced to go to <a href="/wiki/Kingdom_of_Italy_(medieval)" class="mw-redirect" title="Kingdom of Italy (medieval)">Italy</a> to find the finances needed to restore the king's power in Germany. He was soon crowned emperor in Italy, but decades of warfare on the peninsula yielded scant results. The <a href="/wiki/Papal_States" title="Papal States">Papacy</a> and the prosperous city-states of the <a href="/wiki/Lombard_League" title="Lombard League">Lombard League</a> in northern Italy were traditional enemies, but the fear of Imperial domination caused them to join ranks to fight Frederick. Under the skilled leadership of <a href="/wiki/Pope_Alexander_III" title="Pope Alexander III">Pope Alexander III</a>, the alliance suffered many defeats but ultimately was able to deny the emperor a complete victory in Italy. Frederick returned to Germany. He had vanquished one notable opponent, his Welf cousin, Duke <a href="/wiki/Henry_the_Lion" title="Henry the Lion">Henry the Lion</a> of Saxony and <a href="/wiki/Duchy_of_Bavaria" title="Duchy of Bavaria">Bavaria</a> in 1180, but his hopes of restoring the power and prestige of the monarchy seemed unlikely to be met by the end of his life.</p>
+<p>During Frederick's long stays in Italy, the German princes became stronger and began a successful colonization of Slavic lands. Offers of reduced taxes and manorial duties enticed many Germans to settle in the east in the course of the <i><a href="/wiki/Ostsiedlung" title="Ostsiedlung">Ostsiedlung</a></i>. In 1163 Frederick waged a successful campaign against the <a href="/wiki/Kingdom_of_Poland_(1025%E2%80%931385)" title="Kingdom of Poland (1025–1385)">Kingdom of Poland</a> in order to re-install the <a href="/wiki/Duchy_of_Silesia" title="Duchy of Silesia">Silesian</a> dukes of the <a href="/wiki/Silesian_Piasts" title="Silesian Piasts">Piast</a> dynasty. With the German colonization, the Empire increased in size and came to include the <a href="/wiki/Duchy_of_Pomerania" title="Duchy of Pomerania">Duchy of Pomerania</a>. A quickening economic life in Germany increased the number of towns and <a href="/wiki/Free_imperial_city" title="Free imperial city">Imperial cities</a>, and gave them greater importance. It was also during this period that castles and courts replaced monasteries as centers of culture. Growing out of this courtly culture, <a href="/wiki/Middle_High_German" title="Middle High German">Middle High German</a> literature reached its peak in lyrical love poetry, the <a href="/wiki/Minnesang" title="Minnesang">Minnesang</a>, and in narrative epic poems such as <i><a href="/wiki/Tristan" title="Tristan">Tristan</a></i>, <i><a href="/wiki/Parzival" title="Parzival">Parzival</a></i>, and the <i><a href="/wiki/Nibelungenlied" title="Nibelungenlied">Nibelungenlied</a></i>.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Friedrich-barbarossa-und-soehne-welfenchronik_1-1000x1540.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Friedrich-barbarossa-und-soehne-welfenchronik_1-1000x1540.jpg/170px-Friedrich-barbarossa-und-soehne-welfenchronik_1-1000x1540.jpg" width="170" height="262" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Friedrich-barbarossa-und-soehne-welfenchronik_1-1000x1540.jpg/255px-Friedrich-barbarossa-und-soehne-welfenchronik_1-1000x1540.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/Friedrich-barbarossa-und-soehne-welfenchronik_1-1000x1540.jpg/340px-Friedrich-barbarossa-und-soehne-welfenchronik_1-1000x1540.jpg 2x" data-file-width="1000" data-file-height="1540" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Friedrich-barbarossa-und-soehne-welfenchronik_1-1000x1540.jpg" class="internal" title="Enlarge"></a></div>
+Emperor Frederick Barbarossa and his sons King Henry VI and Duke <a href="/wiki/Frederick_V,_Duke_of_Swabia" title="Frederick V, Duke of Swabia">Frederick V of Swabia</a>, <i>Welfenchronik</i>, 1167/79, <a href="/wiki/Weingarten_Abbey" title="Weingarten Abbey">Weingarten Abbey</a></div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Henry_VI">Henry VI</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hohenstaufen&amp;action=edit&amp;section=5" title="Edit section: Henry VI">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Frederick died in 1190 while on the <a href="/wiki/Third_Crusade" title="Third Crusade">Third Crusade</a> and was succeeded by his son, <a href="/wiki/Henry_VI,_Holy_Roman_Emperor" title="Henry VI, Holy Roman Emperor">Henry VI</a>. Elected king even before his father's death, Henry went to <a href="/wiki/Rome" title="Rome">Rome</a> to be crowned emperor. He married Queen <a href="/wiki/Constance,_Queen_of_Sicily" title="Constance, Queen of Sicily">Constance of Sicily</a>, and deaths in his wife's family gave him claim of succession and possession of the <a href="/wiki/Kingdom_of_Sicily" title="Kingdom of Sicily">Kingdom of Sicily</a> in 1189 and 1194 respectively, a source of vast wealth. Henry failed to make royal and Imperial succession hereditary, but in 1196 he succeeded in gaining a pledge that his infant son <a href="/wiki/Frederick_II,_Holy_Roman_Emperor" title="Frederick II, Holy Roman Emperor">Frederick</a> would receive the German crown. Faced with difficulties in Italy and confident that he would realize his wishes in Germany at a later date, Henry returned to the south, where it appeared he might unify the peninsula under the Hohenstaufen name. After a series of military victories, however, he fell ill and died of natural causes in Sicily in 1197. His underage son Frederick could only succeed him in Sicily and Malta, while in the Empire the struggle between the House of Staufen and the House of Welf erupted once again.</p>
+<h3><span class="mw-headline" id="Philip_of_Swabia">Philip of Swabia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hohenstaufen&amp;action=edit&amp;section=6" title="Edit section: Philip of Swabia">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Because the election of a three-year-old boy to be German king appeared likely to make orderly rule difficult, the boy's uncle, Duke <a href="/wiki/Philip_of_Swabia" title="Philip of Swabia">Philip of Swabia</a>, brother of late Henry VI, was designated to serve in his place. Other factions however favoured a Welf candidate. In 1198, two rival kings were chosen: the Hohenstaufen Philip of Swabia and the son of the deprived Duke <a href="/wiki/Henry_the_Lion" title="Henry the Lion">Henry the Lion</a>, the Welf <a href="/wiki/Otto_IV,_Holy_Roman_Emperor" title="Otto IV, Holy Roman Emperor">Otto IV</a>. A long civil war began; Philip was about to win when he was murdered by the Bavarian <a href="/wiki/Count_palatine" title="Count palatine">count palatine</a> Otto VIII of <a href="/wiki/Wittelsbach" class="mw-redirect" title="Wittelsbach">Wittelsbach</a> in 1208. <a href="/wiki/Pope_Innocent_III" title="Pope Innocent III">Pope Innocent III</a> initially had supported the Welfs, but when Otto, now sole elected monarch, moved to appropriate Sicily, Innocent changed sides and accepted young Frederick II<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="Please clarify the following statement or statements with a good explanation from a reliable source. (July 2014)">how?</span></a></i>]</sup> and his ally, King <a href="/wiki/Philip_II_of_France" title="Philip II of France">Philip II of France</a>, who defeated Otto at the 1214 <a href="/wiki/Battle_of_Bouvines" title="Battle of Bouvines">Battle of Bouvines</a>. Frederick had returned to Germany in 1212 from Sicily, where he had grown up, and was elected king in 1215. When Otto died in 1218, Fredrick became the undisputed ruler, and in 1220 was crowned <a href="/wiki/Holy_Roman_Emperor" title="Holy Roman Emperor">Holy Roman Emperor</a>.</p>
+<p>Philip changed the coat of arms from a black lion on a gold shield to three leopards,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> probably derived from the arms of his Welf rival <a href="/wiki/Otto_IV,_Holy_Roman_Emperor" title="Otto IV, Holy Roman Emperor">Otto IV</a>.</p>
+<h2><span class="mw-headline" id="Ruling_in_Italy">Ruling in Italy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hohenstaufen&amp;action=edit&amp;section=7" title="Edit section: Ruling in Italy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The conflict between the Staufer dynasty and the <a href="/wiki/House_of_Welf" title="House of Welf">Welf</a> had irrevocably weakened the Imperial authority and the <a href="/wiki/Norman_conquest_of_southern_Italy#Conquest_of_Sicily.2C_1061.E2.80.931091" title="Norman conquest of southern Italy">Norman kingdom of Sicily</a> became the base for Staufer rule.</p>
+<h3><span class="mw-headline" id="Frederick_II">Frederick II</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hohenstaufen&amp;action=edit&amp;section=8" title="Edit section: Frederick II">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Emperor_Frederick_II" class="mw-redirect" title="Emperor Frederick II">Emperor Frederick II</a> spent little time in Germany as his main concerns lay in <a href="/wiki/Southern_Italy" title="Southern Italy">Southern Italy</a>. He founded the <a href="/wiki/University_of_Naples" class="mw-redirect" title="University of Naples">University of Naples</a> in 1224 to train future state officials and reigned over Germany primarily through the allocation of royal prerogatives, leaving the sovereign authority and imperial estates to the ecclesiastical and secular princes. He made significant concessions to the German nobles, such as those put forth in an imperial statute of 1232, which made princes virtually independent rulers within their territories. These measures favoured the further fragmentation of the Empire.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Castel_del_Monte_BW_2016-10-14_12-26-11_r.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Castel_del_Monte_BW_2016-10-14_12-26-11_r.jpg/250px-Castel_del_Monte_BW_2016-10-14_12-26-11_r.jpg" width="250" height="183" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Castel_del_Monte_BW_2016-10-14_12-26-11_r.jpg/375px-Castel_del_Monte_BW_2016-10-14_12-26-11_r.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Castel_del_Monte_BW_2016-10-14_12-26-11_r.jpg/500px-Castel_del_Monte_BW_2016-10-14_12-26-11_r.jpg 2x" data-file-width="5283" data-file-height="3861" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Castel_del_Monte_BW_2016-10-14_12-26-11_r.jpg" class="internal" title="Enlarge"></a></div>
+Frederick's <a href="/wiki/Castel_del_Monte_(Apulia)" class="mw-redirect" title="Castel del Monte (Apulia)">Castel del Monte</a>, in <a href="/wiki/Andria,_Italy" class="mw-redirect" title="Andria, Italy">Andria</a>, Apulia, Italy.</div>
+</div>
+</div>
+<p>By the 1226 <a href="/wiki/Golden_Bull_of_Rimini" title="Golden Bull of Rimini">Golden Bull of Rimini</a>, Frederick had assigned the military order of the <a href="/wiki/Teutonic_Knights" class="mw-redirect" title="Teutonic Knights">Teutonic Knights</a> to complete the conquest and conversion of the <a href="/wiki/Prussia_(region)" title="Prussia (region)">Prussian</a> lands. A reconciliation with the Welfs took place in 1235, whereby <a href="/wiki/Otto_I,_Duke_of_Brunswick-L%C3%BCneburg" title="Otto I, Duke of Brunswick-Lüneburg">Otto the Child</a>, grandson of the late Saxon duke Henry the Lion, was named <a href="/wiki/Duchy_of_Brunswick-L%C3%BCneburg" title="Duchy of Brunswick-Lüneburg">Duke of Brunswick and Lüneburg</a>. The power struggle with the popes continued and resulted in Fredrick's <a href="/wiki/Excommunication" title="Excommunication">excommunication</a> in 1227. In 1239, <a href="/wiki/Pope_Gregory_IX" title="Pope Gregory IX">Pope Gregory IX</a> excommunicated Fredrick again, and in 1245 he was condemned as a heretic by a church council. Although Frederick was one of the most energetic, imaginative, and capable rulers of the time, he was not concerned with drawing the disparate forces in Germany together. His legacy was thus that local rulers had more authority after his reign than before it. The clergy also had become more powerful.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Frederick_II_and_eagle.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Frederick_II_and_eagle.jpg/170px-Frederick_II_and_eagle.jpg" width="170" height="235" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Frederick_II_and_eagle.jpg/255px-Frederick_II_and_eagle.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/db/Frederick_II_and_eagle.jpg/340px-Frederick_II_and_eagle.jpg 2x" data-file-width="593" data-file-height="818" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Frederick_II_and_eagle.jpg" class="internal" title="Enlarge"></a></div>
+Frederick II with his falcon, from <i><a href="/wiki/De_arte_venandi_cum_avibus" title="De arte venandi cum avibus">De arte venandi cum avibus</a></i>, c. 1240, <a href="/wiki/Vatican_Library" title="Vatican Library">Vatican Library</a></div>
+</div>
+</div>
+<p>By the time of Frederick's death in 1250, little centralized power remained in Germany. The Great <a href="/wiki/Interregnum" title="Interregnum">Interregnum</a>, a period in which there were several elected rival kings, none of whom was able to achieve any position of authority, followed the death of Frederick's son King <a href="/wiki/Conrad_IV_of_Germany" title="Conrad IV of Germany">Conrad IV of Germany</a> in 1254. The German princes vied for individual advantage and managed to strip many powers away from the diminished monarchy. Rather than establish sovereign states however, many nobles tended to look after their families. Their many male heirs created more and smaller estates, and from a largely free class of officials previously formed, many of these assumed or acquired hereditary rights to administrative and legal offices. These trends compounded political fragmentation within Germany. The period was ended in 1273 with the election of <a href="/wiki/Rudolph_I_of_Germany" class="mw-redirect" title="Rudolph I of Germany">Rudolph of Habsburg</a>, a <a href="/wiki/Godparent" title="Godparent">godson</a> of Frederick.</p>
+<h3><span class="mw-headline" id="End_of_the_Staufer_dynasty">End of the Staufer dynasty</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hohenstaufen&amp;action=edit&amp;section=9" title="Edit section: End of the Staufer dynasty">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Conrad IV was succeeded as duke of Swabia by his only son, two-year-old <a href="/wiki/Conradin" title="Conradin">Conradin</a>. By this time, the office of duke of Swabia had been fully subsumed into the office of the king, and without royal authority had become meaningless. In 1261, attempts to elect young Conradin king were unsuccessful. He also had to defend Sicily against an invasion, sponsored by <a href="/wiki/Pope_Urban_IV" title="Pope Urban IV">Pope Urban IV</a> (Jacques Pantaléon) and <a href="/wiki/Pope_Clement_IV" title="Pope Clement IV">Pope Clement IV</a> (Guy Folques), by <a href="/wiki/Charles_of_Anjou" class="mw-redirect" title="Charles of Anjou">Charles of Anjou</a>, a brother of the <a href="/wiki/Kingdom_of_France" title="Kingdom of France">French</a> king. Charles had been promised by the popes the Kingdom of Sicily, where he would replace the relatives of Frederick II. Charles had defeated Conradin's uncle <a href="/wiki/Manfred,_King_of_Sicily" title="Manfred, King of Sicily">Manfred, King of Sicily</a> in the <a href="/wiki/Battle_of_Benevento" title="Battle of Benevento">Battle of Benevento</a> on 26 February 1266. The king himself, refusing to flee, rushed into the midst of his enemies and was killed. Conradin's campaign to retake control ended with his defeat in 1268 at the <a href="/wiki/Battle_of_Tagliacozzo" title="Battle of Tagliacozzo">Battle of Tagliacozzo</a>, after which he was handed over to Charles, who had him publicly <a href="/wiki/Executed" class="mw-redirect" title="Executed">executed</a> at <a href="/wiki/Naples" title="Naples">Naples</a>. With Conradin, the direct line of the Dukes of Swabia finally ceased to exist, though most of the later emperors were descended from the Staufer dynasty indirectly.</p>
+<p>During the political decentralization of the late Staufer period, the population had grown from an estimated 8 million in 1200 to about 14 million in 1300, and the number of towns increased tenfold. The most heavily urbanized areas of Germany were located in the south and the west. Towns often developed a degree of independence, but many were subordinate to local rulers if not <a href="/wiki/Imperial_immediacy" title="Imperial immediacy">immediate</a> to the emperor. Colonization of the east also continued in the thirteenth century, most notably through the efforts of the Teutonic Knights. German merchants also began trading extensively on the <a href="/wiki/Baltic_region" title="Baltic region">Baltic</a>.</p>
+<h2><span class="mw-headline" id="Members_of_the_Hohenstaufen_family">Members of the Hohenstaufen family</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hohenstaufen&amp;action=edit&amp;section=10" title="Edit section: Members of the Hohenstaufen family">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Staufen_dynasty.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Staufen_dynasty.JPG/220px-Staufen_dynasty.JPG" width="220" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Staufen_dynasty.JPG/330px-Staufen_dynasty.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Staufen_dynasty.JPG/440px-Staufen_dynasty.JPG 2x" data-file-width="520" data-file-height="520" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Staufen_dynasty.JPG" class="internal" title="Enlarge"></a></div>
+Family tree of the Hohenstaufen emperors including their relation to succeeding dynasties</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Holy_Roman_Emperors_and_Kings_of_the_Romans">Holy Roman Emperors and Kings of the Romans</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hohenstaufen&amp;action=edit&amp;section=11" title="Edit section: Holy Roman Emperors and Kings of the Romans">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Conrad_III_of_Germany" title="Conrad III of Germany">Conrad III</a>, king 1138–1152</li>
+<li><a href="/wiki/Frederick_I,_Holy_Roman_Emperor" title="Frederick I, Holy Roman Emperor">Frederick Barbarossa</a>, king 1152–1190, emperor after 1155</li>
+<li><a href="/wiki/Henry_VI,_Holy_Roman_Emperor" title="Henry VI, Holy Roman Emperor">Henry VI</a>, king 1190–1197, emperor after 1191</li>
+<li><a href="/wiki/Philip_of_Swabia" title="Philip of Swabia">Philip of Swabia</a>, king 1198–1208</li>
+<li><a href="/wiki/Frederick_II,_Holy_Roman_Emperor" title="Frederick II, Holy Roman Emperor">Frederick II</a>, king 1208–1250, emperor after 1220</li>
+<li><a href="/wiki/Henry_(VII)_of_Germany" title="Henry (VII) of Germany">Henry (VII)</a>, king 1220–1235 (under his father Emperor Frederick II)</li>
+<li><a href="/wiki/Conrad_IV_of_Germany" title="Conrad IV of Germany">Conrad IV</a>, king 1237–1254 (until 1250 under his father Emperor Frederick II)</li>
+</ul>
+<p>The first ruling Hohenstaufen, Conrad III, like the last one, Conrad IV, was never crowned emperor. After a 20-year period (Great <a href="/wiki/Interregnum" title="Interregnum">interregnum</a> 1254–1273), the first <a href="/wiki/Habsburg" class="mw-redirect" title="Habsburg">Habsburg</a> was elected king.</p>
+<h3><span class="mw-headline" id="Kings_of_Italy">Kings of Italy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hohenstaufen&amp;action=edit&amp;section=12" title="Edit section: Kings of Italy">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i>Note: The following kings are already listed above as German Kings</i></p>
+<ul>
+<li><a href="/wiki/Conrad_III_of_Germany" title="Conrad III of Germany">Conrad III</a> 1128–1135</li>
+<li><a href="/wiki/Frederick_I,_Holy_Roman_Emperor" title="Frederick I, Holy Roman Emperor">Frederick I</a> 1154–1190</li>
+<li><a href="/wiki/Henry_VI,_Holy_Roman_Emperor" title="Henry VI, Holy Roman Emperor">Henry VI</a> 1191–1197</li>
+</ul>
+<h3><span class="mw-headline" id="Kings_of_Sicily">Kings of Sicily</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hohenstaufen&amp;action=edit&amp;section=13" title="Edit section: Kings of Sicily">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:King_Manfred_of_Sicily_Arms.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/King_Manfred_of_Sicily_Arms.svg/170px-King_Manfred_of_Sicily_Arms.svg.png" width="170" height="198" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/King_Manfred_of_Sicily_Arms.svg/255px-King_Manfred_of_Sicily_Arms.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/King_Manfred_of_Sicily_Arms.svg/340px-King_Manfred_of_Sicily_Arms.svg.png 2x" data-file-width="831" data-file-height="970" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:King_Manfred_of_Sicily_Arms.svg" class="internal" title="Enlarge"></a></div>
+Arms of the Hohenstaufen Sicily</div>
+</div>
+</div>
+<p><i>Note: Some of the following kings are already listed above as German Kings</i></p>
+<ul>
+<li><a href="/wiki/Henry_VI,_Holy_Roman_Emperor" title="Henry VI, Holy Roman Emperor">Henry VI</a> 1194–1197</li>
+<li><a href="/wiki/Frederick_II,_Holy_Roman_Emperor" title="Frederick II, Holy Roman Emperor">Frederick</a> 1198–1250
+<ul>
+<li><a href="/wiki/Henry_(VII)_of_Germany" title="Henry (VII) of Germany">Henry (VII)</a> 1212–1217 (nominal king under his father)</li>
+</ul>
+</li>
+<li><a href="/wiki/Conrad_IV_of_Germany" title="Conrad IV of Germany">Conrad</a> 1250–1254</li>
+<li><a href="/wiki/Conradin" title="Conradin">Conradin</a> 1254–1258/1268</li>
+<li><a href="/wiki/Manfred_of_Sicily" class="mw-redirect" title="Manfred of Sicily">Manfred</a> 1258–1266</li>
+</ul>
+<h3><span class="mw-headline" id="Dukes_of_Swabia">Dukes of Swabia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hohenstaufen&amp;action=edit&amp;section=14" title="Edit section: Dukes of Swabia">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i>Note: Some of the following dukes are already listed above as German Kings</i></p>
+<ul>
+<li><a href="/wiki/Frederick_I,_Duke_of_Swabia" title="Frederick I, Duke of Swabia">Frederick I, Duke of Swabia</a> (<i>Friedrich</i>) (r. 1079–1105)</li>
+<li><a href="/wiki/Frederick_II,_Duke_of_Swabia" title="Frederick II, Duke of Swabia">Frederick II, Duke of Swabia</a> (r. 1105–1147)</li>
+<li><a href="/wiki/Frederick_Barbarossa" class="mw-redirect" title="Frederick Barbarossa">Frederick I, Holy Roman Emperor</a> (Frederick III of Swabia)(r. 1147–1152) <i>King in 1152 and <a href="/wiki/Holy_Roman_Emperor" title="Holy Roman Emperor">Holy Roman Emperor</a> in 1155</i></li>
+<li><a href="/wiki/Frederick_IV,_Duke_of_Swabia" title="Frederick IV, Duke of Swabia">Frederick IV, Duke of Swabia</a> (r. 1152–1167)</li>
+<li><a href="/wiki/Frederick_V,_Duke_of_Swabia" title="Frederick V, Duke of Swabia">Frederick V, Duke of Swabia</a> (r. 1167–1170)</li>
+<li><a href="/wiki/Frederick_VI,_Duke_of_Swabia" title="Frederick VI, Duke of Swabia">Frederick VI, Duke of Swabia</a> (r. 1170–1191)</li>
+<li><a href="/wiki/Conrad_II,_Duke_of_Swabia" title="Conrad II, Duke of Swabia">Conrad II, Duke of Swabia</a> (r. 1191–1196)</li>
+<li><a href="/wiki/Philip_of_Swabia" title="Philip of Swabia">Philip of Swabia</a> (r. 1196–1208) <i>King in 1198</i></li>
+<li><a href="/wiki/Frederick_II,_Holy_Roman_Emperor" title="Frederick II, Holy Roman Emperor">Frederick II, Holy Roman Emperor</a> (r. 1212–1216) <i>King in 1212 and <a href="/wiki/Holy_Roman_Emperor" title="Holy Roman Emperor">Holy Roman Emperor</a> in 1220</i></li>
+<li><a href="/wiki/Henry_(VII)_of_Germany" title="Henry (VII) of Germany">Henry (VII) of Germany</a> (r. 1216–1235), <i>King 1220–1235</i></li>
+<li><a href="/wiki/Conrad_IV_of_Germany" title="Conrad IV of Germany">Conrad IV</a> (r. 1235–1254) <i>King in 1237</i></li>
+<li><a href="/wiki/Conradin" title="Conradin">Conrad V (Conradin)</a> (r. 1254–1268)</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hohenstaufen&amp;action=edit&amp;section=15" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Dukes_of_Swabia_family_tree" title="Dukes of Swabia family tree">Dukes of Swabia family tree</a></li>
+<li><a href="/wiki/Guelphs_and_Ghibellines" title="Guelphs and Ghibellines">Guelphs and Ghibellines</a></li>
+<li><a href="/wiki/List_of_monarchs_of_Sicily" title="List of monarchs of Sicily">List of monarchs of Sicily</a></li>
+<li>the <i>Barbarossa Legend</i> at <a href="/wiki/Frederick_I_(HRR)#Legend" class="mw-redirect" title="Frederick I (HRR)">Frederick I (HRR); Legend</a></li>
+</ul>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Hohenstaufen_Dynasty" class="extiw" title="commons:Category:Hohenstaufen Dynasty">Hohenstaufen Dynasty</a></b></i>.</td>
+</tr>
+</table>
+<p><b>Modern history</b></p>
+<ul>
+<li>During the <a href="/wiki/Third_Reich" class="mw-redirect" title="Third Reich">Third Reich</a>, the <a href="/wiki/Waffen-SS" title="Waffen-SS">Waffen-SS</a> named an <a href="/wiki/9th_SS_Panzer_Division_Hohenstaufen" title="9th SS Panzer Division Hohenstaufen">SS Panzer division</a> "Hohenstaufen".</li>
+<li><a href="/wiki/Coat_of_arms_of_Baden-W%C3%BCrttemberg" title="Coat of arms of Baden-Württemberg">Coat of arms of Baden-Württemberg</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hohenstaufen&amp;action=edit&amp;section=16" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: lower-alpha;"></div>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia">Schwarzmaier, Hansmartin (2005). <a rel="nofollow" class="external text" href="http://www.treccani.it/enciclopedia/famiglia-hohenstaufen_%28Federiciana%29/">"Hohenstaufen, famiglia"</a>. <i>Federico II: Enciclopedia fridericiana</i>. Rome: Istituto dell'Enciclopedia Italiana. Translated by Maria Paola Arena</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHohenstaufen&amp;rft.atitle=Hohenstaufen%2C+famiglia&amp;rft.aufirst=Hansmartin&amp;rft.aulast=Schwarzmaier&amp;rft.btitle=Federico+II%3A+Enciclopedia+fridericiana&amp;rft.date=2005&amp;rft.genre=bookitem&amp;rft.place=Rome&amp;rft.pub=Istituto+dell%27Enciclopedia+Italiana&amp;rft_id=http%3A%2F%2Fwww.treccani.it%2Fenciclopedia%2Ffamiglia-hohenstaufen_%2528Federiciana%2529%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Stälin, Paul Friedrich (1882). <i>Geschichte Württembergs Erster Band Erste Hälfte (bis 1268)</i>. Gotha,. pp.&#160;389–393.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHohenstaufen&amp;rft.aufirst=Paul+Friedrich&amp;rft.aulast=St%C3%A4lin&amp;rft.btitle=Geschichte+W%C3%BCrttembergs+Erster+Band+Erste+H%C3%A4lfte+%28bis+1268%29&amp;rft.date=1882&amp;rft.genre=book&amp;rft.pages=389-393&amp;rft.place=Gotha%2C&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<ul>
+<li><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/12px-PD-icon.svg.png" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/18px-PD-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/24px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" />&#160;This article incorporates&#160;<a href="/wiki/Copyright_status_of_work_by_the_U.S._government" title="Copyright status of work by the U.S. government">public domain material</a> from the <a href="/wiki/Library_of_Congress_Country_Studies" title="Library of Congress Country Studies">Library of Congress Country Studies</a> website <a rel="nofollow" class="external free" href="http://lcweb2.loc.gov/frd/cs/">http://lcweb2.loc.gov/frd/cs/</a>.</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Royal_houses_of_Europe" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Royal_houses_of_Europe" title="Template:Royal houses of Europe"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Royal_houses_of_Europe" title="Template talk:Royal houses of Europe"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Royal_houses_of_Europe&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Royal_houses_of_Europe" style="font-size:114%;margin:0 4em"><a href="/wiki/Dynasty" title="Dynasty">Royal houses</a> of Europe</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";width: 7.5em;">
+<div id="Nordic_countries" style="font-size:114%;margin:0 4em">Nordic countries</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_Danish_monarchs" title="List of Danish monarchs">Denmark</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/House_of_Kn%C3%BDtlinga" title="House of Knýtlinga">Knýtlinga</a></li>
+<li><a href="/wiki/Fairhair_dynasty" title="Fairhair dynasty">Fairhair</a></li>
+<li><a href="/wiki/House_of_Estridsen" title="House of Estridsen">Estridsen</a></li>
+<li><a href="/wiki/House_of_Griffins" title="House of Griffins">Griffins</a></li>
+<li><a href="/wiki/House_of_Palatinate-Neumarkt" title="House of Palatinate-Neumarkt">Palatinate-Neumarkt</a></li>
+<li><a href="/wiki/House_of_Oldenburg" title="House of Oldenburg">Oldenburg</a></li>
+<li><a href="/wiki/House_of_Gl%C3%BCcksburg" title="House of Glücksburg">Schleswig-Holstein-Sonderburg-Glücksburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_monarchs_of_Finland" class="mw-redirect" title="List of monarchs of Finland">Finland</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/House_of_Bjelbo" title="House of Bjelbo">Bjelbo</a></li>
+<li><a href="/wiki/House_of_Mecklenburg" title="House of Mecklenburg">Mecklenburg</a></li>
+<li><a href="/wiki/House_of_Griffins" title="House of Griffins">Griffins</a></li>
+<li><a href="/wiki/House_of_Palatinate-Neumarkt" title="House of Palatinate-Neumarkt">Palatinate-Neumarkt</a></li>
+<li><a href="/wiki/House_of_Bonde" class="mw-redirect" title="House of Bonde">Bonde</a></li>
+<li><a href="/wiki/House_of_Oldenburg" title="House of Oldenburg">Oldenburg</a></li>
+<li><a href="/wiki/House_of_Vasa" title="House of Vasa">Vasa</a></li>
+<li><a href="/wiki/House_of_Palatinate-Zweibr%C3%BCcken" title="House of Palatinate-Zweibrücken">Palatinate-Zweibrücken</a></li>
+<li><a href="/wiki/House_of_Hesse" title="House of Hesse">Hesse</a></li>
+<li><a href="/wiki/House_of_Holstein-Gottorp_(Swedish_line)" title="House of Holstein-Gottorp (Swedish line)">Holstein-Gottorp</a></li>
+<li><a href="/wiki/House_of_Romanov" title="House of Romanov">Romanov</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_Norwegian_monarchs" title="List of Norwegian monarchs">Norway</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fairhair_dynasty" title="Fairhair dynasty">Fairhair</a></li>
+<li><a href="/wiki/House_of_Kn%C3%BDtlinga" title="House of Knýtlinga">Knýtlinga</a></li>
+<li><a href="/wiki/Hardrada_dynasty" title="Hardrada dynasty">Hardrada</a></li>
+<li><a href="/wiki/Gille_dynasty" title="Gille dynasty">Gille</a></li>
+<li><a href="/wiki/Sverre_dynasty" class="mw-redirect" title="Sverre dynasty">Sverre</a></li>
+<li><a href="/wiki/House_of_Bjelbo" title="House of Bjelbo">Bjelbo</a></li>
+<li><a href="/wiki/House_of_Estridsen" title="House of Estridsen">Estridsen</a></li>
+<li><a href="/wiki/House_of_Pomerania" class="mw-redirect" title="House of Pomerania">Griffins</a></li>
+<li><a href="/wiki/House_of_Palatinate-Neumarkt" title="House of Palatinate-Neumarkt">Palatinate-Neumarkt</a></li>
+<li><a href="/wiki/House_of_Bonde" class="mw-redirect" title="House of Bonde">Bonde</a></li>
+<li><a href="/wiki/House_of_Oldenburg" title="House of Oldenburg">Oldenburg</a></li>
+<li><a href="/wiki/House_of_Holstein-Gottorp_(Swedish_line)" title="House of Holstein-Gottorp (Swedish line)">Holstein-Gottorp</a></li>
+<li><a href="/wiki/House_of_Bernadotte" title="House of Bernadotte">Bernadotte</a></li>
+<li><a href="/wiki/House_of_Schleswig-Holstein-Sonderburg-Gl%C3%BCcksburg" class="mw-redirect" title="House of Schleswig-Holstein-Sonderburg-Glücksburg">Schleswig-Holstein-Sonderburg-Glücksburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_Swedish_monarchs" title="List of Swedish monarchs">Sweden</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/House_of_Muns%C3%B6" title="House of Munsö">Munsö</a></li>
+<li><a href="/wiki/House_of_Stenkil" title="House of Stenkil">Stenkil</a></li>
+<li><a href="/wiki/House_of_Sverker" title="House of Sverker">Sverker</a></li>
+<li><a href="/wiki/House_of_Eric" title="House of Eric">Eric</a></li>
+<li><a href="/wiki/House_of_Bjelbo" title="House of Bjelbo">Bjelbo</a></li>
+<li><a href="/wiki/House_of_Estridsen" title="House of Estridsen">Estridsen</a></li>
+<li><a href="/wiki/House_of_Mecklenburg" title="House of Mecklenburg">Mecklenburg</a></li>
+<li><a href="/wiki/House_of_Griffins" title="House of Griffins">Griffins</a></li>
+<li><a href="/wiki/House_of_Palatinate-Neumarkt" title="House of Palatinate-Neumarkt">Palatinate-Neumarkt</a></li>
+<li><a href="/wiki/House_of_Bonde" class="mw-redirect" title="House of Bonde">Bonde</a></li>
+<li><a href="/wiki/House_of_Oldenburg" title="House of Oldenburg">Oldenburg</a></li>
+<li><a href="/wiki/House_of_Vasa" title="House of Vasa">Vasa</a></li>
+<li><a href="/wiki/House_of_Palatinate-Zweibr%C3%BCcken" title="House of Palatinate-Zweibrücken">Palatinate-Zweibrücken</a></li>
+<li><a href="/wiki/House_of_Hesse" title="House of Hesse">Hesse-Kassel</a></li>
+<li><a href="/wiki/House_of_Holstein-Gottorp_(Swedish_line)" title="House of Holstein-Gottorp (Swedish line)">Holstein-Gottorp</a></li>
+<li><a href="/wiki/House_of_Bernadotte" title="House of Bernadotte">Bernadotte</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_Icelandic_monarchs" class="mw-redirect" title="List of Icelandic monarchs">Iceland</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fairhair_dynasty" title="Fairhair dynasty">Fairhair</a></li>
+<li><a href="/wiki/House_of_Bjelbo" title="House of Bjelbo">Bjelbo</a></li>
+<li><a href="/wiki/House_of_Estridsen" title="House of Estridsen">Estridsen</a></li>
+<li><a href="/wiki/House_of_Griffins" title="House of Griffins">Griffins</a></li>
+<li><a href="/wiki/House_of_Palatinate-Neumarkt" title="House of Palatinate-Neumarkt">Palatinate-Neumarkt</a></li>
+<li><a href="/wiki/House_of_Bonde" class="mw-redirect" title="House of Bonde">Bonde</a></li>
+<li><a href="/wiki/House_of_Oldenburg" title="House of Oldenburg">Oldenburg</a></li>
+<li><a href="/wiki/House_of_Gl%C3%BCcksburg" title="House of Glücksburg">Schleswig-Holstein-Sonderburg-Glücksburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";width: 7.5em;">
+<div id="Britain_and_Ireland" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_British_monarchs" title="List of British monarchs">Britain and Ireland</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_English_monarchs" title="List of English monarchs">England</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_monarchs_of_Mercia" title="List of monarchs of Mercia">Mercia</a></li>
+<li><a href="/wiki/Wuffingas" title="Wuffingas">Wuffing</a></li>
+<li><a href="/wiki/List_of_monarchs_of_Kent" title="List of monarchs of Kent">Kent</a></li>
+<li><a href="/wiki/List_of_monarchs_of_Sussex" title="List of monarchs of Sussex">Sussex</a></li>
+<li><a href="/wiki/Kingdom_of_Essex" title="Kingdom of Essex">Essex</a></li>
+<li><a href="/wiki/Bernicia" title="Bernicia">Bernicia</a></li>
+<li><a href="/wiki/Deira" title="Deira">Deira</a></li>
+<li><a href="/wiki/List_of_monarchs_of_Northumbria" title="List of monarchs of Northumbria">Northumbria</a></li>
+<li><a href="/wiki/U%C3%AD_%C3%8Dmair" title="Uí Ímair">Uí Ímair</a></li>
+<li><a href="/wiki/House_of_Wessex" title="House of Wessex">Wessex</a></li>
+<li><a href="/wiki/House_of_Kn%C3%BDtlinga" title="House of Knýtlinga">Knýtlinga</a></li>
+<li><a href="/wiki/House_of_Normandy" title="House of Normandy">Normandy</a></li>
+<li><a href="/wiki/Angevin_kings_of_England" title="Angevin kings of England">Angevin</a></li>
+<li><a href="/wiki/House_of_Plantagenet" title="House of Plantagenet">Plantagenet</a></li>
+<li><a href="/wiki/House_of_Lancaster" title="House of Lancaster">Lancaster</a></li>
+<li><a href="/wiki/House_of_York" title="House of York">York</a></li>
+<li><a href="/wiki/House_of_Tudor" title="House of Tudor">Tudor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_Scottish_monarchs" title="List of Scottish monarchs">Scotland</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_kings_of_D%C3%A1l_Riata" title="List of kings of Dál Riata">Fergus</a></li>
+<li><a href="/wiki/House_of_%C3%93engus" title="House of Óengus">Óengus</a></li>
+<li><a href="/wiki/List_of_kings_of_Strathclyde" title="List of kings of Strathclyde">Strathclyde</a></li>
+<li><a href="/wiki/Kingdom_of_the_Isles" title="Kingdom of the Isles">Mann and the Isles</a></li>
+<li><a href="/wiki/House_of_Alpin" title="House of Alpin">Alpin</a></li>
+<li><a href="/wiki/List_of_monarchs_of_Northumbria" title="List of monarchs of Northumbria">Northumbria</a></li>
+<li><a href="/wiki/Bernicia" title="Bernicia">Bernicia</a></li>
+<li><a href="/wiki/U%C3%AD_%C3%8Dmair" title="Uí Ímair">Uí Ímair</a></li>
+<li><a href="/wiki/Lord_of_Galloway" title="Lord of Galloway">Galloway</a></li>
+<li><a href="/wiki/House_of_Dunkeld" title="House of Dunkeld">Dunkeld</a></li>
+<li><a href="/wiki/House_of_Sverre" title="House of Sverre">Sverre</a></li>
+<li><a href="/wiki/House_of_Balliol" title="House of Balliol">Balliol</a></li>
+<li><a href="/wiki/Clan_Bruce" title="Clan Bruce">Bruce</a></li>
+<li><a href="/wiki/House_of_Stuart" title="House of Stuart">Stuart</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_rulers_of_Wales" title="List of rulers of Wales">Wales</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/House_of_Dinefwr" title="House of Dinefwr">Dinefwr</a></li>
+<li><a href="/wiki/House_of_Aberffraw" title="House of Aberffraw">Aberffraw</a></li>
+<li><a href="/wiki/House_of_Gwynedd" title="House of Gwynedd">Gwynedd</a></li>
+<li><a href="/wiki/House_of_Mathrafal" title="House of Mathrafal">Mathrafal</a></li>
+<li><a href="/wiki/Kingdom_of_Gwynedd" title="Kingdom of Gwynedd">Cunedda</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_Irish_kings" title="List of Irish kings">Ireland</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ulaid" title="Ulaid">Ulaid</a></li>
+<li><a href="/wiki/D%C3%A1l_Riata" title="Dál Riata">Dál Riata</a></li>
+<li><a href="/wiki/%C3%89rainn" class="mw-redirect" title="Érainn">Érainn</a></li>
+<li><a href="/wiki/Corcu_Lo%C3%ADgde" title="Corcu Loígde">Corcu Loígde</a></li>
+<li><a href="/wiki/Laigin" title="Laigin">Laigin</a></li>
+<li><a href="/wiki/Connachta" title="Connachta">Connachta</a></li>
+<li><a href="/wiki/U%C3%AD_N%C3%A9ill" title="Uí Néill">Uí Néill</a></li>
+<li><a href="/wiki/%C3%93_Gallchobhair" class="mw-redirect" title="Ó Gallchobhair">Ó Gallchobhair</a></li>
+<li><a href="/wiki/%C3%93_Domhnail" class="mw-redirect" title="Ó Domhnail">Ó Domhnail</a></li>
+<li><a href="/wiki/%C3%93_N%C3%A9ill" class="mw-redirect" title="Ó Néill">Ó Néill</a></li>
+<li><a href="/wiki/%C3%93_M%C3%A1el_Sechlainn" class="mw-redirect" title="Ó Máel Sechlainn">Ó Máel Sechlainn</a></li>
+<li><a href="/wiki/Mac_Murchada" class="mw-redirect" title="Mac Murchada">Mac Murchada</a></li>
+<li><a href="/wiki/%C3%93_Briain" class="mw-redirect" title="Ó Briain">Ó Briain</a></li>
+<li><a href="/wiki/Mac_Lochlainn" title="Mac Lochlainn">Mac Lochlainn</a></li>
+<li><a href="/wiki/%C3%93_Conchobhair" class="mw-redirect" title="Ó Conchobhair">Ó Conchobhair</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Gaelic_Ireland" title="Gaelic Ireland">Gaelic Ireland</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Laigin" title="Laigin">Laigin</a></li>
+<li><a href="/wiki/S%C3%ADl_Conairi" title="Síl Conairi">Síl Conairi</a></li>
+<li><a href="/wiki/D%C3%A1l_Fiatach" title="Dál Fiatach">Ulaid</a></li>
+<li><a href="/wiki/Corcu_Lo%C3%ADgde" title="Corcu Loígde">Dáirine</a></li>
+<li><a href="/wiki/Osraige" title="Osraige">Osraige</a></li>
+<li><a href="/wiki/Cruthin" title="Cruthin">Cruthin</a></li>
+<li><a href="/wiki/D%C3%A1l_nAraidi" title="Dál nAraidi">Dál nAraidi</a></li>
+<li><a href="/wiki/Connachta" title="Connachta">Connachta</a></li>
+<li><a href="/wiki/U%C3%AD_Fiachrach" title="Uí Fiachrach">Uí Fiachrach</a></li>
+<li><a href="/wiki/U%C3%AD_Bri%C3%BAin" title="Uí Briúin">Uí Briúin</a></li>
+<li><a href="/wiki/U%C3%AD_N%C3%A9ill" title="Uí Néill">Uí Néill</a></li>
+<li><a href="/wiki/S%C3%ADl_n%C3%81edo_Sl%C3%A1ine" title="Síl nÁedo Sláine">Síl nÁedo Sláine</a></li>
+<li><a href="/wiki/Clann_Cholm%C3%A1in" title="Clann Cholmáin">Clann Cholmáin</a></li>
+<li><a href="/wiki/E%C3%B3ganachta" title="Eóganachta">Eóganachta</a></li>
+<li><a href="/wiki/E%C3%B3ganacht_Chaisil" title="Eóganacht Chaisil">Chaisil</a></li>
+<li><a href="/wiki/E%C3%B3ganacht_Glendamnach" title="Eóganacht Glendamnach">Glendamnach</a></li>
+<li><a href="/wiki/E%C3%B3ganacht_Raithlind" title="Eóganacht Raithlind">Raithlind</a></li>
+<li><a href="/wiki/U%C3%AD_D%C3%BAnlainge" title="Uí Dúnlainge">Uí Dúnlainge</a></li>
+<li><a href="/wiki/U%C3%AD_%C3%8Dmair" title="Uí Ímair">Uí Ímair</a> (Norse)</li>
+<li><a href="/wiki/U%C3%AD_Ceinnselaig" title="Uí Ceinnselaig">Uí Ceinnselaig</a></li>
+<li><a href="/wiki/D%C3%A1l_gCais" class="mw-redirect" title="Dál gCais">Dál gCais</a></li>
+<li><a href="/wiki/O%27Brien_dynasty" title="O'Brien dynasty">Ó Briain</a></li>
+<li><a href="/wiki/Kingdom_of_Desmond" title="Kingdom of Desmond">Mac Carthaig</a></li>
+<li><a href="/wiki/O%27Conor_Don" class="mw-redirect" title="O'Conor Don">Ó Conchobhair</a></li>
+<li><a href="/wiki/Kingdom_of_Breifne" title="Kingdom of Breifne">Ó Ruairc</a></li>
+<li><a href="/wiki/House_of_Burke" title="House of Burke">De Burgh</a> (Norman)</li>
+<li><a href="/wiki/FitzGerald_dynasty" title="FitzGerald dynasty">FitzGerald</a> (Norman)</li>
+<li><a href="/wiki/O%27Donnell_dynasty" title="O'Donnell dynasty">Ó Domhnaill</a></li>
+<li><a href="/wiki/O%27Neill_dynasty" title="O'Neill dynasty">Ó Néill</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_British_monarchs" title="List of British monarchs">Great Britain</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/House_of_Stuart" title="House of Stuart">Stuart</a></li>
+<li><a href="/wiki/House_of_Orange-Nassau" title="House of Orange-Nassau">Orange-Nassau</a></li>
+<li><a href="/wiki/House_of_Hanover" title="House of Hanover">Hanover</a></li>
+<li><a href="/wiki/House_of_Saxe-Coburg_and_Gotha" title="House of Saxe-Coburg and Gotha">Saxe-Coburg and Gotha</a></li>
+<li><a href="/wiki/House_of_Windsor" title="House of Windsor">Windsor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";width: 7.5em;">
+<div id="Eastern_Europe" style="font-size:114%;margin:0 4em">Eastern Europe</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_Albanian_monarchs" title="List of Albanian monarchs">Albania</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Capetian_House_of_Anjou" title="Capetian House of Anjou">Angevin</a></li>
+<li><a href="/wiki/Progon_family" title="Progon family">Progon</a></li>
+<li><a href="/wiki/Arianiti_family" title="Arianiti family">Arianiti</a></li>
+<li><a href="/wiki/Thopia_family" title="Thopia family">Thopia</a></li>
+<li><a href="/wiki/House_of_Kastrioti" title="House of Kastrioti">Kastrioti</a></li>
+<li><a href="/wiki/Dukagjini_family" title="Dukagjini family">Dukagjini</a></li>
+<li><a href="/wiki/Wied-Neuwied" title="Wied-Neuwied">Wied</a></li>
+<li><a href="/wiki/House_of_Zogu" title="House of Zogu">Zogu</a></li>
+<li><a href="/wiki/Ottoman_dynasty" title="Ottoman dynasty">Ottoman</a></li>
+<li><i><a href="/wiki/House_of_Savoy" title="House of Savoy">Savoy</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_Armenian_kings" title="List of Armenian kings">Armenia</a><sup><small>2</small></sup></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Orontid_Dynasty" title="Orontid Dynasty">Orontid</a></li>
+<li><a href="/wiki/Artaxiad_dynasty" title="Artaxiad dynasty">Artaxiad</a></li>
+<li><a href="/wiki/Arsacid_dynasty_of_Armenia" title="Arsacid dynasty of Armenia">Arsacid</a></li>
+<li><a href="/wiki/Bagratuni_dynasty" title="Bagratuni dynasty">Bagratid</a></li>
+<li><a href="/wiki/Artsruni" title="Artsruni">Artsruni</a></li>
+<li><a href="/wiki/Rubenids" title="Rubenids">Rubenids</a></li>
+<li><a href="/wiki/Hethumids" title="Hethumids">Hethumids</a></li>
+<li><a href="/wiki/House_of_Lusignan#Kings_of_Lesser_Armenia" title="House of Lusignan">Lusignan</a></li>
+<li><a href="/wiki/House_of_Savoy" title="House of Savoy">Savoy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_rulers_of_Bosnia" title="List of rulers of Bosnia">Bosnia</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/House_of_Bori%C4%8Devi%C4%87" class="mw-redirect" title="House of Boričević">Boričević</a></li>
+<li><a href="/wiki/Kulini%C4%87_noble_family" class="mw-redirect" title="Kulinić noble family">Kulinić</a></li>
+<li><a href="/wiki/Kotromani%C4%87_dynasty" title="Kotromanić dynasty">Kotromanić</a></li>
+<li><a href="/wiki/Kosa%C4%8Da_noble_family" title="Kosača noble family">Kosača</a></li>
+<li><a href="/wiki/Ottoman_dynasty" title="Ottoman dynasty">Ottoman</a></li>
+<li><a href="/wiki/House_of_Lorraine" title="House of Lorraine">Habsburg-Lorraine</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_Bulgarian_monarchs" title="List of Bulgarian monarchs">Bulgaria</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dulo_clan" title="Dulo clan">Dulo</a></li>
+<li><a href="/wiki/Krum%27s_dynasty" title="Krum's dynasty">Krum</a></li>
+<li><a href="/wiki/Cometopuli_dynasty" title="Cometopuli dynasty">Cometopuli</a></li>
+<li><a href="/wiki/Asen_dynasty" title="Asen dynasty">Asen</a></li>
+<li><a href="/wiki/Smilets_dynasty" title="Smilets dynasty">Smilets</a></li>
+<li><a href="/wiki/Terter_dynasty" title="Terter dynasty">Terter</a></li>
+<li><a href="/wiki/House_of_Shishman" title="House of Shishman">Shishman</a></li>
+<li><a href="/wiki/Sratsimir_dynasty" title="Sratsimir dynasty">Sratsimir</a></li>
+<li><a href="/wiki/Battenberg_family" title="Battenberg family">Battenberg</a></li>
+<li><a href="/wiki/House_of_Saxe-Coburg_and_Gotha" title="House of Saxe-Coburg and Gotha">Saxe-Coburg and Gotha</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_rulers_of_Croatia" title="List of rulers of Croatia">Croatia</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Trpimirovi%C4%87_dynasty" title="Trpimirović dynasty">Trpimirović</a></li>
+<li><a href="/wiki/Domagojevi%C4%87_dynasty" title="Domagojević dynasty">Domagojević</a></li>
+<li><a href="/wiki/Petar_Sva%C4%8Di%C4%87" title="Petar Svačić">Svačić</a></li>
+<li><a href="/wiki/Ottoman_dynasty" title="Ottoman dynasty">Ottoman</a></li>
+<li><a href="/wiki/House_of_Luxembourg" title="House of Luxembourg">Luxembourg</a></li>
+<li><a href="/wiki/House_of_Habsburg" title="House of Habsburg">Habsburg</a></li>
+<li><a href="/wiki/House_of_Lorraine" title="House of Lorraine">Habsburg-Lorraine</a></li>
+<li><a href="/wiki/House_of_Bonaparte" title="House of Bonaparte">Bonaparte</a></li>
+<li><i><a href="/wiki/House_of_Savoy" title="House of Savoy">Savoy</a> (disputed)</i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Kingdom_of_Cyprus" title="Kingdom of Cyprus">Cyprus</a><sup><small>2</small></sup></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/House_of_Plantagenet" title="House of Plantagenet">Plantagenet</a></li>
+<li><a href="/wiki/House_of_Lusignan" title="House of Lusignan">Lusignan</a></li>
+<li><a href="/wiki/Ottoman_dynasty" title="Ottoman dynasty">Ottoman</a></li>
+<li><a href="/wiki/House_of_Savoy" title="House of Savoy">Savoy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_Georgian_monarchs" class="mw-redirect" title="List of Georgian monarchs">Georgia</a><sup><small>1</small></sup></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pharnavazid_dynasty" title="Pharnavazid dynasty">Pharnavazid</a></li>
+<li><a href="/wiki/Artaxiad_dynasty_of_Iberia" title="Artaxiad dynasty of Iberia">Artaxiad</a></li>
+<li><a href="/wiki/Arsacid_dynasty_of_Iberia" title="Arsacid dynasty of Iberia">Arsacid</a></li>
+<li><a href="/wiki/Chosroid_dynasty" title="Chosroid dynasty">Chosroid</a></li>
+<li><a href="/wiki/Bagrationi_dynasty" title="Bagrationi dynasty">Bagrationi</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_kings_of_Greece" title="List of kings of Greece">Greece</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Argead_dynasty" title="Argead dynasty">Argead</a></li>
+<li><a href="/wiki/Macedonian_dynasty" title="Macedonian dynasty">Macedonian</a></li>
+<li><a href="/wiki/Doukas" title="Doukas">Doukas</a></li>
+<li><a href="/wiki/Komnenos" title="Komnenos">Komnenos</a></li>
+<li><a href="/wiki/Angelos" title="Angelos">Angelos</a></li>
+<li><a href="/wiki/Laskaris" title="Laskaris">Laskaris</a></li>
+<li><a href="/wiki/Palaiologos" title="Palaiologos">Palaiologos</a></li>
+<li><a href="/wiki/Ottoman_dynasty" title="Ottoman dynasty">Ottoman</a></li>
+<li><a href="/wiki/House_of_Wittelsbach" title="House of Wittelsbach">Wittelsbach</a></li>
+<li><a href="/wiki/House_of_Gl%C3%BCcksburg" title="House of Glücksburg">Schleswig-Holstein-Sonderburg-Glücksburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Grand_Duchy_of_Lithuania" title="Grand Duchy of Lithuania">Lithuania</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/House_of_Mindaugas" title="House of Mindaugas">Mindaugas</a></li>
+<li><a href="/wiki/Gediminids" title="Gediminids">Gediminids</a></li>
+<li><a href="/wiki/Jagiellonian_dynasty" title="Jagiellonian dynasty">Jagiellon</a></li>
+<li><a href="/wiki/House_of_Valois" title="House of Valois">Valois</a></li>
+<li><a href="/wiki/B%C3%A1thory_family" title="Báthory family">Báthory</a></li>
+<li><a href="/wiki/House_of_Vasa" title="House of Vasa">Vasa</a></li>
+<li><a href="/wiki/House_of_Wi%C5%9Bniowiecki" title="House of Wiśniowiecki">Wiśniowiecki</a></li>
+<li><a href="/wiki/House_of_Sobieski" title="House of Sobieski">Sobieski</a></li>
+<li><a href="/wiki/House_of_Wettin" title="House of Wettin">Wettin</a></li>
+<li><a href="/wiki/House_of_Leszczy%C5%84ski" title="House of Leszczyński">Leszczyński</a></li>
+<li><a href="/wiki/House_of_Poniatowski" title="House of Poniatowski">Poniatowski</a></li>
+<li><a href="/wiki/Holstein-Gottorp-Romanov" class="mw-redirect" title="Holstein-Gottorp-Romanov">Holstein-Gottorp-Romanov</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_rulers_of_Moldavia" title="List of rulers of Moldavia">Moldavia</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/House_of_Drago%C8%99" title="House of Dragoș">Dragoș (Drăgoșești)</a></li>
+<li><a href="/wiki/House_of_Rosetti_(Rossetti)" class="mw-redirect" title="House of Rosetti (Rossetti)">Rossetti</a></li>
+<li><a href="/wiki/House_of_Bogdan-Mu%C8%99at" title="House of Bogdan-Mușat">Bogdan-Muşat</a></li>
+<li><a href="/wiki/Movile%C8%99ti" title="Movilești">Movilești</a></li>
+<li><a href="/wiki/House_of_Dr%C4%83cule%C8%99ti" title="House of Drăculești">Drăculeşti</a></li>
+<li><a href="/wiki/Ghica_family" title="Ghica family">Ghica</a></li>
+<li><a href="/wiki/Cantacuzino_family" title="Cantacuzino family">Cantacuzene</a></li>
+<li><a href="/wiki/Cantemire%C8%99ti" title="Cantemirești">Cantemirești</a></li>
+<li><a href="/wiki/Racovi%C8%9B%C4%83" title="Racoviță">Racoviță</a></li>
+<li><a href="/wiki/Mavrocordatos_family" title="Mavrocordatos family">Mavrocordato</a></li>
+<li><a href="/wiki/Ypsilantis" title="Ypsilantis">Ypsilantis</a></li>
+<li><a href="/wiki/Soutzos_family" title="Soutzos family">Soutzos</a></li>
+<li><a href="/wiki/Mourousis_family" class="mw-redirect" title="Mourousis family">Mourousi</a></li>
+<li><a href="/wiki/Hohenzollern-Sigmaringen#Eastern_Europe" title="Hohenzollern-Sigmaringen">Hohenzollern-Sigmaringen</a></li>
+<li><a href="/wiki/House_of_Basarab" title="House of Basarab">Basarab</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_rulers_of_Montenegro" title="List of rulers of Montenegro">Montenegro</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Vojislavljevi%C4%87_dynasty" title="Vojislavljević dynasty">Vojislavljević</a></li>
+<li><a href="/wiki/Bal%C5%A1i%C4%87_noble_family" title="Balšić noble family">Balšić</a></li>
+<li><a href="/wiki/Crnojevi%C4%87_noble_family" title="Crnojević noble family">Crnojević</a></li>
+<li><a href="/wiki/Petrovi%C4%87-Njego%C5%A1_dynasty" title="Petrović-Njegoš dynasty">Petrović-Njegoš</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/King_of_the_Romanians" title="King of the Romanians">Romania</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/House_of_Basarab" title="House of Basarab">House of Basarab</a></li>
+<li><a href="/wiki/House_of_Rosetti_(Rossetti)" class="mw-redirect" title="House of Rosetti (Rossetti)">Rossetti</a></li>
+<li><a href="/wiki/House_of_Bogdan-Mu%C8%99at" title="House of Bogdan-Mușat">Bogdan-Mușat</a></li>
+<li><a href="/wiki/Movile%C8%99ti" title="Movilești">Movilești</a></li>
+<li><a href="/wiki/House_of_Dr%C4%83cule%C8%99ti" title="House of Drăculești">Drăculești</a></li>
+<li><a href="/wiki/Ghica_family" title="Ghica family">Ghica</a></li>
+<li><a href="/wiki/Cantacuzino_family" title="Cantacuzino family">Cantacuzene</a></li>
+<li><a href="/wiki/Cantemire%C8%99ti" title="Cantemirești">Cantemirești</a></li>
+<li><a href="/wiki/House_of_Romanov" title="House of Romanov">Romanov</a></li>
+<li><a href="/wiki/Racovi%C8%9B%C4%83" title="Racoviță">Racoviță</a></li>
+<li><a href="/wiki/Mavrocordatos_family" title="Mavrocordatos family">Mavrocordato</a></li>
+<li><a href="/wiki/Ypsilantis" title="Ypsilantis">Ypsilantis</a></li>
+<li><a href="/wiki/Soutzos_family" title="Soutzos family">Soutzos</a></li>
+<li><a href="/wiki/Mourousis_family" class="mw-redirect" title="Mourousis family">Mourousi</a></li>
+<li><a href="/wiki/Hohenzollern-Sigmaringen#Eastern_Europe" title="Hohenzollern-Sigmaringen">Hohenzollern-Sigmaringen</a></li>
+<li><a href="/wiki/House_of_Romania" class="mw-redirect" title="House of Romania">Romania</a>/<a href="/wiki/Romanian_royal_family" title="Romanian royal family">Royal family</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_Russian_rulers" title="List of Russian rulers">Russia</a><sup><small>1</small></sup></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Rurik_dynasty" title="Rurik dynasty">Rurik</a></li>
+<li><a href="/wiki/Borjigin" title="Borjigin">Borjigin</a></li>
+<li><a href="/wiki/Boris_Godunov" title="Boris Godunov">Godunov</a></li>
+<li><a href="/wiki/Shuysky" title="Shuysky">Shuysky</a></li>
+<li><a href="/wiki/House_of_Vasa" title="House of Vasa">Vasa</a></li>
+<li><a href="/wiki/House_of_Romanov" title="House of Romanov">Romanov</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_Serbian_monarchs" title="List of Serbian monarchs">Serbia</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Vlastimirovi%C4%87_dynasty" title="Vlastimirović dynasty">Vlastimirović</a></li>
+<li><a href="/wiki/Vukanovi%C4%87_dynasty" title="Vukanović dynasty">Vukanović</a></li>
+<li><a href="/wiki/Nemanji%C4%87_dynasty" title="Nemanjić dynasty">Nemanjić</a></li>
+<li><a href="/wiki/Lazarevi%C4%87_dynasty" title="Lazarević dynasty">Lazarević</a></li>
+<li><a href="/wiki/Mrnjav%C4%8Devi%C4%87_family" title="Mrnjavčević family">Mrnjavčević</a></li>
+<li><a href="/wiki/Dejanovi%C4%87_noble_family" title="Dejanović noble family">Dejanović</a></li>
+<li><a href="/wiki/Brankovi%C4%87_dynasty" title="Branković dynasty">Branković</a></li>
+<li><a href="/wiki/Ottoman_dynasty" title="Ottoman dynasty">Ottoman</a></li>
+<li><a href="/wiki/Obrenovi%C4%87_dynasty" title="Obrenović dynasty">Obrenović</a></li>
+<li><a href="/wiki/Kara%C4%91or%C4%91evi%C4%87_dynasty" title="Karađorđević dynasty">Karađorđević</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_sultans_of_the_Ottoman_Empire" title="List of sultans of the Ottoman Empire">Turkey</a><sup><small>1</small></sup></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ottoman_dynasty" title="Ottoman dynasty">Ottoman</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_Ukrainian_rulers" title="List of Ukrainian rulers">Ukraine</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Rurik_dynasty" title="Rurik dynasty">Rurikids</a></li>
+<li><a href="/wiki/House_of_Piast" class="mw-redirect" title="House of Piast">Piast</a></li>
+<li><a href="/wiki/Gediminids" title="Gediminids">Gediminids</a></li>
+<li><a href="/wiki/Olshanski" title="Olshanski">Olshanski</a></li>
+<li><a href="/wiki/Olelkovich" title="Olelkovich">Olelkovich</a></li>
+<li><a href="/wiki/Giray_dynasty" title="Giray dynasty">Giray</a></li>
+<li><a href="/wiki/House_of_Romanov" title="House of Romanov">Romanov</a></li>
+<li><a href="/wiki/House_of_Lorraine" title="House of Lorraine">Habsburg-Lorraine</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<p><small><sup>1</sup> <a href="/wiki/List_of_transcontinental_countries" title="List of transcontinental countries">Transcontinental country</a>. <sup>2</sup> Entirely in <a href="/wiki/Southwest_Asia" class="mw-redirect" title="Southwest Asia">Southwest Asia</a> but having socio-political connections with Europe.</small></p>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";width: 7.5em;">
+<div id="Western_Europe" style="font-size:114%;margin:0 4em">Western Europe</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_Belgian_monarchs" title="List of Belgian monarchs">Belgium</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/House_of_Saxe-Coburg_and_Gotha" title="House of Saxe-Coburg and Gotha">Saxe-Coburg and Gotha</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_French_monarchs" title="List of French monarchs">France</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Merovingian_dynasty" title="Merovingian dynasty">Merovingian</a></li>
+<li><a href="/wiki/Carolingian_dynasty" title="Carolingian dynasty">Carolingian</a></li>
+<li><a href="/wiki/Capetian_dynasty" title="Capetian dynasty">Capet</a></li>
+<li><a href="/wiki/House_of_Valois" title="House of Valois">Valois</a></li>
+<li><a href="/wiki/House_of_Bourbon" title="House of Bourbon">Bourbon</a></li>
+<li><a href="/wiki/House_of_Bonaparte" title="House of Bonaparte">Bonaparte</a></li>
+<li><a href="/wiki/House_of_Orl%C3%A9ans" title="House of Orléans">Orléans</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/King_of_Italy" title="King of Italy">Italy</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/House_of_Bonaparte" title="House of Bonaparte">Bonaparte</a></li>
+<li><a href="/wiki/House_of_Bourbon-Parma" title="House of Bourbon-Parma">Bourbon-Parma</a></li>
+<li><a href="/wiki/House_of_Bourbon-Two_Sicilies" title="House of Bourbon-Two Sicilies">Bourbon-Two Sicilies</a></li>
+<li><a href="/wiki/Carolingian_dynasty" title="Carolingian dynasty">Carolingian</a></li>
+<li><a href="/wiki/Colonna_family" title="Colonna family">Colonna</a></li>
+<li><a href="/wiki/Della_Rovere" title="Della Rovere">Della Rovere</a></li>
+<li><a href="/wiki/House_of_Este" title="House of Este">Este</a></li>
+<li><a href="/wiki/House_of_Farnese" title="House of Farnese">Farnese</a></li>
+<li><a href="/wiki/Flavian_dynasty" title="Flavian dynasty">Flavian</a></li>
+<li><a href="/wiki/House_of_Gonzaga" title="House of Gonzaga">Gonzaga</a></li>
+<li><a href="/wiki/House_of_Grimaldi" title="House of Grimaldi">Grimaldi</a></li>
+<li><a href="/wiki/House_of_Habsburg" title="House of Habsburg">Habsburg</a></li>
+<li><a href="/wiki/Julio-Claudian_dynasty" title="Julio-Claudian dynasty">Julio-Claudian</a></li>
+<li><a href="/wiki/House_of_Malatesta" title="House of Malatesta">Malatesta</a></li>
+<li><a href="/wiki/House_of_Medici" title="House of Medici">Medici</a></li>
+<li><a href="/wiki/House_of_Montefeltro" title="House of Montefeltro">Montefeltro</a></li>
+<li><a href="/wiki/Nerva%E2%80%93Antonine_dynasty" title="Nerva–Antonine dynasty">Nerva–Antonine</a></li>
+<li><a href="/wiki/House_of_Ordelaffi" title="House of Ordelaffi">Ordelaffi</a></li>
+<li><a href="/wiki/Orsini_family" title="Orsini family">Orsini</a></li>
+<li><a href="/wiki/Palaiologos#Montferrat_cadet_branch" title="Palaiologos">Palaiologos</a></li>
+<li><a href="/wiki/Pallavicini_family" title="Pallavicini family">Pallavicini</a></li>
+<li><a href="/wiki/House_of_Savoy" title="House of Savoy">Savoy</a></li>
+<li><a href="/wiki/Severan_dynasty" title="Severan dynasty">Severan</a></li>
+<li><a href="/wiki/House_of_Sforza" title="House of Sforza">Sforza</a></li>
+<li><a href="/wiki/House_of_Visconti" title="House of Visconti">Visconti</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_monarchs_of_Luxembourg" title="List of monarchs of Luxembourg">Luxembourg</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/House_of_Orange-Nassau" title="House of Orange-Nassau">Orange-Nassau</a></li>
+<li><a href="/wiki/House_of_Nassau-Weilburg" title="House of Nassau-Weilburg">Nassau-Weilburg</a></li>
+<li><a href="/wiki/House_of_Bourbon-Parma" title="House of Bourbon-Parma">Bourbon-Parma</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_rulers_of_Monaco" title="List of rulers of Monaco">Monaco</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/House_of_Grimaldi" title="House of Grimaldi">Grimaldi</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Monarchy_of_the_Netherlands" title="Monarchy of the Netherlands">Netherlands</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/House_of_Bonaparte" title="House of Bonaparte">Bonaparte</a></li>
+<li><a href="/wiki/House_of_Orange-Nassau" title="House of Orange-Nassau">Orange-Nassau</a></li>
+<li>(<a href="/wiki/House_of_Mecklenburg" title="House of Mecklenburg">Mecklenburg</a>)</li>
+<li>(<a href="/wiki/House_of_Lippe" title="House of Lippe">Lippe</a>)</li>
+<li>(<a href="/wiki/House_of_Amsberg" title="House of Amsberg">Amsberg</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_Portuguese_monarchs" title="List of Portuguese monarchs">Portugal</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/House_of_V%C3%ADmara_Peres" class="mw-redirect" title="House of Vímara Peres">Vímara Peres</a></li>
+<li><a href="/wiki/Portuguese_House_of_Burgundy" title="Portuguese House of Burgundy">Borgonha</a></li>
+<li><a href="/wiki/House_of_Aviz" title="House of Aviz">Aviz</a></li>
+<li><a href="/wiki/Philippine_dynasty" title="Philippine dynasty">Habsburgo</a></li>
+<li><a href="/wiki/House_of_Braganza" title="House of Braganza">Braganza</a>
+<ul>
+<li><a href="/wiki/House_of_Braganza-Saxe-Coburg_and_Gotha" title="House of Braganza-Saxe-Coburg and Gotha">Braganza-Saxe-Coburg and Gotha</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_Spanish_monarchs" title="List of Spanish monarchs">Spain</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Astur-Leonese_dynasty" title="Astur-Leonese dynasty">Asturias</a></li>
+<li><a href="/wiki/Count_of_Barcelona" title="Count of Barcelona">Barcelona</a></li>
+<li><a href="/wiki/Jim%C3%A9nez_dynasty" title="Jiménez dynasty">Jiménez</a></li>
+<li><a href="/wiki/Anscarids#Spain" title="Anscarids">Burgundy</a></li>
+<li><a href="/wiki/Count_of_Champagne" title="Count of Champagne">Champagne</a></li>
+<li><a href="/wiki/House_of_Capet" title="House of Capet">Capet</a></li>
+<li><a href="/wiki/House_of_%C3%89vreux" title="House of Évreux">Évreux</a></li>
+<li><a href="/wiki/House_of_Trast%C3%A1mara" title="House of Trastámara">Trastámara</a></li>
+<li><a href="/wiki/House_of_Habsburg" title="House of Habsburg">Habsburg</a></li>
+<li><a href="/wiki/House_of_Bourbon" title="House of Bourbon">Bourbon</a>
+<ul>
+<li><a href="/wiki/House_of_Bonaparte" title="House of Bonaparte">Bonaparte</a></li>
+<li><a href="/wiki/House_of_Savoy" title="House of Savoy">Savoy</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";width: 7.5em;">
+<div id="Central_Europe" style="font-size:114%;margin:0 4em">Central Europe</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_rulers_of_Austria" title="List of rulers of Austria">Austria</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/House_of_Babenberg" title="House of Babenberg">Babenberg</a></li>
+<li><a href="/wiki/House_of_Habsburg" title="House of Habsburg">Habsburg</a></li>
+<li><a href="/wiki/House_of_Lorraine" title="House of Lorraine">Habsburg-Lorraine</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_Bohemian_monarchs" title="List of Bohemian monarchs">Bohemia</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/P%C5%99emyslid_dynasty" title="Přemyslid dynasty">Přemyslid</a></li>
+<li><a href="/wiki/Piast_dynasty" title="Piast dynasty">Piast</a></li>
+<li><a href="/wiki/House_of_Luxembourg" title="House of Luxembourg">Luxembourg</a></li>
+<li><a href="/wiki/Jagiellonian_dynasty" title="Jagiellonian dynasty">Jagiellon</a></li>
+<li><a href="/wiki/House_of_Habsburg" title="House of Habsburg">Habsburg</a></li>
+<li><a href="/wiki/House_of_Lorraine" title="House of Lorraine">Habsburg-Lorraine</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_German_monarchs" title="List of German monarchs">Germany</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/House_of_Ascania" title="House of Ascania">Ascania</a></li>
+<li><a href="/wiki/Carolingian_dynasty" title="Carolingian dynasty">Carolingian</a></li>
+<li><a href="/wiki/Conradines" title="Conradines">Conradines</a></li>
+<li><a href="/wiki/Ottonian_dynasty" title="Ottonian dynasty">Ottonian</a></li>
+<li><a href="/wiki/Luitpoldings" title="Luitpoldings">Luitpolding</a></li>
+<li><a href="/wiki/Salian_dynasty" title="Salian dynasty">Salian</a></li>
+<li><a href="/wiki/Supplinburger_dynasty" class="mw-redirect" title="Supplinburger dynasty">Süpplingenburg</a></li>
+<li><a class="mw-selflink selflink">Hohenstaufen</a></li>
+<li><a href="/wiki/House_of_Welf" title="House of Welf">Welf</a></li>
+<li><a href="/wiki/House_of_Habsburg" title="House of Habsburg">Habsburg</a></li>
+<li><a href="/wiki/House_of_Hanover" title="House of Hanover">Hanover</a></li>
+<li><a href="/wiki/House_of_Saxe-Coburg_and_Gotha" title="House of Saxe-Coburg and Gotha">Saxe-Coburg and Gotha</a></li>
+<li><a href="/wiki/House_of_Nassau" title="House of Nassau">Nassau</a></li>
+<li><a href="/wiki/House_of_Luxembourg" title="House of Luxembourg">Luxembourg</a></li>
+<li><a href="/wiki/House_of_Wittelsbach" title="House of Wittelsbach">Wittelsbach</a></li>
+<li><a href="/wiki/House_of_Schwarzburg" title="House of Schwarzburg">Schwarzburg</a></li>
+<li><a href="/wiki/Duchy_of_Brunswick-L%C3%BCneburg" title="Duchy of Brunswick-Lüneburg">Brunswick-Lüneburg</a></li>
+<li><a href="/wiki/House_of_Pomerania" class="mw-redirect" title="House of Pomerania">House of Pomerania</a></li>
+<li><a href="/wiki/House_of_Hohenzollern" title="House of Hohenzollern">Hohenzollern</a></li>
+<li><a href="/wiki/House_of_W%C3%BCrttemberg" title="House of Württemberg">Württemberg</a></li>
+<li><a href="/wiki/House_of_Oldenburg" title="House of Oldenburg">Oldenburg</a></li>
+<li><a href="/wiki/House_of_Gl%C3%BCcksburg" title="House of Glücksburg">Schleswig-Holstein-Sonderburg-Glücksburg</a></li>
+<li><a href="/wiki/House_of_Orange-Nassau" title="House of Orange-Nassau">Orange-Nassau</a></li>
+<li><a href="/wiki/House_of_Nassau-Weilburg" title="House of Nassau-Weilburg">Nassau-Weilburg</a></li>
+<li><a href="/wiki/House_of_Mecklenburg" title="House of Mecklenburg">Mecklenburg</a></li>
+<li><a href="/wiki/House_of_Vasa" title="House of Vasa">Vasa</a></li>
+<li><a href="/wiki/House_of_Palatinate-Zweibr%C3%BCcken" title="House of Palatinate-Zweibrücken">Palatine Zweibrücken</a></li>
+<li><a href="/wiki/House_of_Hesse" title="House of Hesse">Hesse</a></li>
+<li><a href="/wiki/House_of_Holstein-Gottorp_(Swedish_line)" title="House of Holstein-Gottorp (Swedish line)">Holstein-Gottorp</a></li>
+<li><a href="/wiki/House_of_Romanov" title="House of Romanov">Romanov</a></li>
+<li><a href="/wiki/House_of_Bonaparte" title="House of Bonaparte">Bonaparte</a></li>
+<li><a href="/wiki/House_of_Wettin" title="House of Wettin">Wettin</a></li>
+<li><a href="/wiki/House_of_Lippe" title="House of Lippe">Lippe</a></li>
+<li><a href="/wiki/House_of_Z%C3%A4hringen" title="House of Zähringen">Zähringen</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_Hungarian_monarchs" title="List of Hungarian monarchs">Hungary</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%C3%81rp%C3%A1d_dynasty" title="Árpád dynasty">Árpád</a></li>
+<li><a href="/wiki/P%C5%99emyslid_dynasty" title="Přemyslid dynasty">Přemyslid</a></li>
+<li><a href="/wiki/House_of_Wittelsbach" title="House of Wittelsbach">Wittelsbach</a></li>
+<li><a href="/wiki/Capetian_House_of_Anjou" title="Capetian House of Anjou">Angevin</a></li>
+<li><a href="/wiki/House_of_Luxembourg" title="House of Luxembourg">Luxembourg</a></li>
+<li><a href="/wiki/Hunyadi_family" title="Hunyadi family">Hunyadi</a></li>
+<li><a href="/wiki/Jagiellonian_dynasty" title="Jagiellonian dynasty">Jagiellon</a></li>
+<li><a href="/wiki/John_Z%C3%A1polya" title="John Zápolya">Szapolyai</a></li>
+<li><a href="/wiki/House_of_Habsburg" title="House of Habsburg">Habsburg</a></li>
+<li><a href="/wiki/House_of_Lorraine" title="House of Lorraine">Habsburg-Lorraine</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_monarchs_of_Liechtenstein" title="List of monarchs of Liechtenstein">Liechtenstein</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/House_of_Liechtenstein" title="House of Liechtenstein">Liechtenstein</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_Polish_monarchs" title="List of Polish monarchs">Poland</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Piast_dynasty" title="Piast dynasty">Piast</a></li>
+<li><a href="/wiki/P%C5%99emyslid_dynasty" title="Přemyslid dynasty">Přemyslid</a></li>
+<li><a href="/wiki/Samborides" title="Samborides">Samborides</a></li>
+<li><a href="/wiki/House_of_Pomerania" class="mw-redirect" title="House of Pomerania">Griffins</a></li>
+<li><a href="/wiki/Jagiellonian_dynasty" title="Jagiellonian dynasty">Jagiellon</a></li>
+<li><a href="/wiki/House_of_Valois" title="House of Valois">Valois</a></li>
+<li><a href="/wiki/B%C3%A1thory_family" title="Báthory family">Báthory</a></li>
+<li><a href="/wiki/House_of_Vasa" title="House of Vasa">Vasa</a></li>
+<li><a href="/wiki/House_of_Wi%C5%9Bniowiecki" title="House of Wiśniowiecki">Wiśniowiecki</a></li>
+<li><a href="/wiki/House_of_Sobieski" title="House of Sobieski">Sobieski</a></li>
+<li><a href="/wiki/House_of_Wettin" title="House of Wettin">Wettin</a></li>
+<li><a href="/wiki/House_of_Leszczy%C5%84ski" title="House of Leszczyński">Leszczyński</a></li>
+<li><a href="/wiki/House_of_Poniatowski" title="House of Poniatowski">Poniatowski</a><br /></li>
+</ul>
+<p>After partitions:<br /></p>
+<ul>
+<li><a href="/wiki/Holstein-Gottorp-Romanov" class="mw-redirect" title="Holstein-Gottorp-Romanov">Holstein-Gottorp-Romanov</a> <small>Kingdom of Poland</small></li>
+<li><a href="/wiki/House_of_Habsburg" title="House of Habsburg">Habsburg</a> <small>Kingdom of Galicia and Lodomeria</small></li>
+<li><a href="/wiki/House_of_Wettin" title="House of Wettin">Wettin</a> <small>Duchy of Warsaw</small></li>
+<li><a href="/wiki/Fran%C3%A7ois_Joseph_Lefebvre" title="François Joseph Lefebvre">Lefebvre</a> <small>Duchy of Gdańsk</small></li>
+<li><a href="/wiki/House_of_Hohenzollern" title="House of Hohenzollern">Hohenzollern</a> <small>Duchy of Poznań</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/52482322">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/52482322">52482322</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/118616951">118616951</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1258
+Cached time: 20170926044432
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.256 seconds
+Real time usage: 0.352 seconds
+Preprocessor visited node count: 2091/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 226883/2097152 bytes
+Template argument size: 29376/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Lua time usage: 0.091/10.000 seconds
+Lua memory usage: 4.37 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  235.524      1 -total
+ 21.50%   50.645      1 Template:Royal_houses_of_Europe
+ 20.24%   47.681      1 Template:Navbox_with_collapsible_groups
+ 17.39%   40.948      2 Template:Reflist
+ 13.25%   31.215      1 Template:Infobox_noble_house
+ 11.24%   26.480      1 Template:Refimprove
+ 11.10%   26.153      1 Template:Cite_encyclopedia
+  9.55%   22.501      1 Template:Other_uses
+  9.46%   22.281      1 Template:Commons_category
+  9.38%   22.099      1 Template:Ambox
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:13805-0!canonical and timestamp 20170926044431 and revision id 799801134
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Hohenstaufen&amp;oldid=799801134">https://en.wikipedia.org/w/index.php?title=Hohenstaufen&amp;oldid=799801134</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Hohenstaufen" title="Category:Hohenstaufen">Hohenstaufen</a></li><li><a href="/wiki/Category:Salian_dynasty" title="Category:Salian dynasty">Salian dynasty</a></li><li><a href="/wiki/Category:Holy_Roman_Emperors" title="Category:Holy Roman Emperors">Holy Roman Emperors</a></li><li><a href="/wiki/Category:German_kings" title="Category:German kings">German kings</a></li><li><a href="/wiki/Category:Noble_families_of_the_Holy_Roman_Empire" title="Category:Noble families of the Holy Roman Empire">Noble families of the Holy Roman Empire</a></li><li><a href="/wiki/Category:German_noble_families" title="Category:German noble families">German noble families</a></li><li><a href="/wiki/Category:Italian_noble_families" title="Category:Italian noble families">Italian noble families</a></li><li><a href="/wiki/Category:European_royal_families" title="Category:European royal families">European royal families</a></li><li><a href="/wiki/Category:Sicilian_royal_houses" title="Category:Sicilian royal houses">Sicilian royal houses</a></li><li><a href="/wiki/Category:1079_establishments_in_the_Holy_Roman_Empire" title="Category:1079 establishments in the Holy Roman Empire">1079 establishments in the Holy Roman Empire</a></li><li><a href="/wiki/Category:1268_disestablishments_in_the_Holy_Roman_Empire" title="Category:1268 disestablishments in the Holy Roman Empire">1268 disestablishments in the Holy Roman Empire</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_June_2008" title="Category:Articles needing additional references from June 2008">Articles needing additional references from June 2008</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_July_2014" title="Category:Wikipedia articles needing clarification from July 2014">Wikipedia articles needing clarification from July 2014</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_text_from_the_Library_of_Congress_Country_Studies" title="Category:Wikipedia articles incorporating text from the Library of Congress Country Studies">Wikipedia articles incorporating text from the Library of Congress Country Studies</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Hohenstaufen" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Hohenstaufen" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Hohenstaufen" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Hohenstaufen" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Hohenstaufen">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Hohenstaufen&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Hohenstaufen&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Hohenstaufen" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Hohenstaufen" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Hohenstaufen&amp;oldid=799801134" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Hohenstaufen&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q130875" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Hohenstaufen&amp;id=799801134" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Hohenstaufen">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Hohenstaufen&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DHohenstaufen%26returnto%3DHohenstaufen%26oldid%3D799801134%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Hohenstaufen&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Hohenstaufen_Dynasty" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Staufer" title="Staufer – Alemannisch" lang="als" hreflang="als" class="interlanguage-link-target">Alemannisch</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%87%D9%88%D9%87%D9%86%D8%B4%D8%AA%D8%A7%D9%88%D9%81%D9%86" title="هوهنشتاوفن – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Dinast%C3%ADa_Hohenstaufen" title="Dinastía Hohenstaufen – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Hohen%C5%9Ftaufen_s%C3%BClal%C9%99si" title="Hohenştaufen sülaləsi – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B4_%D0%93%D0%BE%D0%B3%D0%B5%D0%BD%D1%88%D1%82%D0%B0%D1%9E%D1%84%D0%B5%D0%BD%D0%B0%D1%9E" title="Род Гогенштаўфенаў – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A5%D0%BE%D0%B5%D0%BD%D1%89%D0%B0%D1%83%D1%84%D0%B5%D0%BD" title="Хоенщауфен – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Hoen%C5%A1taufovci" title="Hoenštaufovci – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Hohenstaufen" title="Hohenstaufen – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/%C5%A0taufov%C3%A9" title="Štaufové – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Hohenstauferne" title="Hohenstauferne – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Staufer" title="Staufer – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Hohenstaufenid" title="Hohenstaufenid – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9F%CE%AF%CE%BA%CE%BF%CF%82_%CF%84%CF%89%CE%BD_%CE%A7%CE%BF%CE%B5%CE%BD%CF%83%CF%84%CE%AC%CE%BF%CF%85%CF%86%CE%B5%CE%BD" title="Οίκος των Χοενστάουφεν – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Dinast%C3%ADa_Hohenstaufen" title="Dinastía Hohenstaufen – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/%C5%9Cta%C5%ADfoj" title="Ŝtaŭfoj – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Hohenstaufen_dinastia" title="Hohenstaufen dinastia – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D8%B4%D8%AA%D8%A7%D9%88%D9%81%D8%B1" title="اشتاوفر – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Maison_de_Hohenstaufen" title="Maison de Hohenstaufen – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Dinast%C3%ADa_Hohenstaufen" title="Dinastía Hohenstaufen – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%98%B8%EC%97%94%EC%8A%88%ED%83%80%EC%9A%B0%ED%8E%9C%EA%B0%80" title="호엔슈타우펜가 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Hohenstaufen" title="Hohenstaufen – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Hohenstaufen" title="Hohenstaufen – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Hohenstaufen" title="Hohenstaufen – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%91%D7%99%D7%AA_%D7%94%D7%95%D7%94%D7%A0%D7%A9%D7%98%D7%90%D7%95%D7%A4%D7%9F" title="בית הוהנשטאופן – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%B0%E1%83%9D%E1%83%94%E1%83%9C%E1%83%A8%E1%83%A2%E1%83%90%E1%83%A3%E1%83%A4%E1%83%94%E1%83%9C%E1%83%94%E1%83%91%E1%83%98" title="ჰოენშტაუფენები – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Stirps_Waiblingensium" title="Stirps Waiblingensium – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Hoen%C5%A1taufenu_dinastija" title="Hoenštaufenu dinastija – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/%C5%A0taufenai" title="Štaufenai – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Stauf-h%C3%A1z" title="Stauf-ház – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Dinasti_Hohenstaufen" title="Dinasti Hohenstaufen – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Hohenstaufen" title="Hohenstaufen – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A6%E3%83%95%E3%82%A7%E3%83%B3%E6%9C%9D" title="ホーエンシュタウフェン朝 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Huset_Hohenstaufen" title="Huset Hohenstaufen – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Hohenstaufowie" title="Hohenstaufowie – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Dinastia_de_Hohenstaufen" title="Dinastia de Hohenstaufen – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Hohenstaufen" title="Hohenstaufen – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%B3%D0%B5%D0%BD%D1%88%D1%82%D0%B0%D1%83%D1%84%D0%B5%D0%BD%D1%8B" title="Гогенштауфены – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Hohenstaufen" title="Hohenstaufen – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Hohenstaufen" title="Hohenstaufen – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Hohenstaufovci" title="Hohenstaufovci – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Staufovci" title="Staufovci – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A5%D0%BE%D0%B5%D0%BD%D1%88%D1%82%D0%B0%D1%83%D1%84%D0%B5%D0%BD" title="Хоенштауфен – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Hohenstaufen" title="Hohenstaufen – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Hohenstaufen" title="Hohenstaufen – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Hohenstaufen" title="Hohenstaufen – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B9%82%E0%B8%AE%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%99%E0%B8%8A%E0%B9%80%E0%B8%95%E0%B8%B2%E0%B9%80%E0%B8%9F%E0%B8%B4%E0%B8%99" title="ราชวงศ์โฮเอ็นชเตาเฟิน – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Hohenstaufen_Hanedan%C4%B1" title="Hohenstaufen Hanedanı – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%93%D0%BE%D0%B3%D0%B5%D0%BD%D1%88%D1%82%D0%B0%D1%83%D1%84%D0%B5%D0%BD%D0%B8" title="Гогенштауфени – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Nh%C3%A0_Staufer" title="Nhà Staufer – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vls"><a href="https://vls.wikipedia.org/wiki/Huus_Hohenstaufn" title="Huus Hohenstaufn – West Flemish" lang="vls" hreflang="vls" class="interlanguage-link-target">West-Vlams</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%9C%8D%E4%BA%A8%E6%96%AF%E9%99%B6%E8%8A%AC%E7%8E%8B%E6%9C%9D" title="霍亨斯陶芬王朝 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q130875#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 9 September 2017, at 22:59.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Hohenstaufen&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.256","walltime":"0.352","ppvisitednodes":{"value":2091,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":226883,"limit":2097152},"templateargumentsize":{"value":29376,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  235.524      1 -total"," 21.50%   50.645      1 Template:Royal_houses_of_Europe"," 20.24%   47.681      1 Template:Navbox_with_collapsible_groups"," 17.39%   40.948      2 Template:Reflist"," 13.25%   31.215      1 Template:Infobox_noble_house"," 11.24%   26.480      1 Template:Refimprove"," 11.10%   26.153      1 Template:Cite_encyclopedia","  9.55%   22.501      1 Template:Other_uses","  9.46%   22.281      1 Template:Commons_category","  9.38%   22.099      1 Template:Ambox"]},"scribunto":{"limitreport-timeusage":{"value":"0.091","limit":"10.000"},"limitreport-memusage":{"value":4580734,"limit":52428800}},"cachereport":{"origin":"mw1258","timestamp":"20170926044432","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":90,"wgHostname":"mw1264"});});</script>
+	</body>
+</html>

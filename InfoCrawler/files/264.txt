@@ -1,0 +1,700 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Nürburg - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Nürburg","wgTitle":"Nürburg","wgCurRevisionId":760818320,"wgRevisionId":760818320,"wgArticleId":2212416,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Coordinates on Wikidata","Pages using infobox former country with unknown parameters","Wikipedia articles with VIAF identifiers","Wikipedia articles with GND identifiers","Municipalities in Rhineland-Palatinate","Former principalities","Former countries in Europe","States of the Holy Roman Empire","States and territories established in 1144","States and territories disestablished in 1225","Ahrweiler (district)"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Nürburg","wgRelevantArticleId":2212416,"wgRequestId":"WckNjQpAMCYAAH14J7UAAABT","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":50.342222222222,"lon":6.9522222222222},"wgWikibaseItemId":"Q628095","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/N%C3%BCrburg_in_AW.svg/1200px-N%C3%BCrburg_in_AW.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/N%C3%BCrburg"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=N%C3%BCrburg&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=N%C3%BCrburg&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/N%C3%BCrburg"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Nürburg rootpage-Nürburg skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Nürburg</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">Not to be confused with Nürnberg, known in English as <a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a>.</div>
+<table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org"><span class="wrap">Nürburg</span></span></th>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Nuerburg01.jpg" class="image" title="Nürburg Castle"><img alt="Nürburg Castle" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Nuerburg01.jpg/250px-Nuerburg01.jpg" width="250" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Nuerburg01.jpg/375px-Nuerburg01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/62/Nuerburg01.jpg/500px-Nuerburg01.jpg 2x" data-file-width="1279" data-file-height="768" /></a>
+<div><a href="/wiki/N%C3%BCrburg_Castle" title="Nürburg Castle">Nürburg Castle</a></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" class="maptable" style="text-align:center">
+<table style="width:100%; background:none;">
+<tr>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Wappen_von_N%C3%BCrburg.png" class="image" title="Coat of arms of Nürburg "><img alt="Coat of arms of Nürburg " src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Wappen_von_N%C3%BCrburg.png/70px-Wappen_von_N%C3%BCrburg.png" width="70" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Wappen_von_N%C3%BCrburg.png/105px-Wappen_von_N%C3%BCrburg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Wappen_von_N%C3%BCrburg.png/140px-Wappen_von_N%C3%BCrburg.png 2x" data-file-width="259" data-file-height="296" /></a><br />
+<small>Coat of arms</small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div style="width:170px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:170px;padding:0">
+<div style="position:relative;width:170px"><a href="/wiki/File:Germany_adm_location_map.svg" class="image" title="Nürburg  is located in Germany"><img alt="Nürburg  is located in Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/170px-Germany_adm_location_map.svg.png" width="170" height="202" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/255px-Germany_adm_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/340px-Germany_adm_location_map.svg.png 2x" data-file-width="1073" data-file-height="1272" /></a>
+<div style="position:absolute;top:60.225%;left:14.522%">
+<div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Nürburg " src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" title="Nürburg " width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><span style="padding:1px;float:left"><span class="wrap">Nürburg</span></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedrow">
+<td colspan="2" style="text-align: center;">
+<div class="NavFrame collapsed" style="border:line;">
+<div class="NavHead" style="background:transparent;text-align:left;height:auto; padding:0.2em; padding-left:0.6em; padding-right:2em;">Location of Nürburg within Ahrweiler district&#160;</div>
+<div class="NavContent" style="background:transparent;text-align:left;">
+<div class="noresize" style="height: 211px; width: 240px; "><map name="ImageMap_1_1722723208">
+<area href="/wiki/Remagen" shape="poly" coords="186,6,179,8,175,21,164,29,161,32,169,42,169,47,181,58,192,60,198,61,206,59,205,52,188,46" alt="Remagen" title="Remagen" />
+<area href="/wiki/Grafschaft,_Rhineland" shape="poly" coords="161,33,169,43,168,47,163,55,163,59,138,64,127,72,121,70,114,70,106,69,104,55,125,32,137,42,144,39,148,28" alt="Grafschaft" title="Grafschaft" />
+<area href="/wiki/Bad_Neuenahr-Ahrweiler" shape="poly" coords="168,47,181,57,182,68,158,91,151,95,142,109,129,106,129,103,135,99,131,92,126,94,126,70,139,64,163,60" alt="Bad Neuenahr-Ahrweiler" title="Bad Neuenahr-Ahrweiler" />
+<area href="/wiki/Sinzig" shape="poly" coords="181,58,207,60,212,70,205,75,198,100,182,100,175,90,161,88,183,69" alt="Sinzig" title="Sinzig" />
+<area href="/wiki/Bad_Breisig" shape="poly" coords="211,70,205,76,198,101,205,101,210,105,217,104,224,103,227,100" alt="Bad Breisig" title="Bad Breisig" />
+<area href="/wiki/Brohl-L%C3%BCtzing" shape="poly" coords="226,101,234,109,218,120,212,109" alt="Brohl-Lützing" title="Brohl-Lützing" />
+<area href="/wiki/G%C3%B6nnersdorf" shape="poly" coords="218,104,207,103,198,99,195,113,198,114,213,109" alt="Gönnersdorf" title="Gönnersdorf" />
+<area href="/wiki/Waldorf,_Rhineland-Palatinate" shape="poly" coords="198,98,185,99,182,110,195,113" alt="Waldorf" title="Waldorf" />
+<area href="/wiki/Burgbrohl" shape="poly" coords="210,109,217,118,214,125,198,130,195,128,196,114" alt="Burgbrohl" title="Burgbrohl" />
+<area href="/wiki/Wassenach" shape="poly" coords="199,129,200,138,210,138,214,134,214,125" alt="Wassenach" title="Wassenach" />
+<area href="/wiki/Glees" shape="poly" coords="198,129,202,143,205,141,213,144,210,155,201,159,195,153,197,147,191,131" alt="Glees" title="Glees" />
+<area href="/wiki/Niederzissen" shape="poly" coords="197,113,195,129,191,133,182,133,181,127,184,125,184,118,171,111,183,103,182,110" alt="Niederzissen" title="Niederzissen" />
+<area href="/wiki/Wehr,_Rhineland-Palatinate" shape="poly" coords="194,152,196,147,190,132,183,132,168,141,175,147" alt="Wehr" title="Wehr" />
+<area href="/wiki/Galenberg" shape="poly" coords="181,134,181,127,173,130,174,136" alt="Galenberg" title="Galenberg" />
+<area href="/wiki/Oberzissen" shape="poly" coords="180,116,183,117,185,124,171,131" alt="Oberzissen" title="Oberzissen" />
+<area href="/wiki/Brenk" shape="poly" coords="170,128,175,136,168,142,163,138" alt="Brenk" title="Brenk" />
+<area href="/wiki/K%C3%B6nigsfeld,_Rhineland-Palatinate" shape="poly" coords="157,92,159,95,164,95,165,100,185,103,185,99,173,89,161,87" alt="Königsfeld" title="Königsfeld" />
+<area href="/wiki/Schalkenbach" shape="poly" coords="156,92,143,106,148,111,156,109,163,106,167,99" alt="Schalkenbach" title="Schalkenbach" />
+<area href="/wiki/Dedenbach" shape="poly" coords="183,102,166,100,159,108,145,111,149,117,160,111,172,111" alt="Dedenbach" title="Dedenbach" />
+<area href="/wiki/Niederd%C3%BCrenbach" shape="poly" coords="179,116,173,113,163,122,164,125,158,133,164,137,172,128" alt="Niederdürenbach" title="Niederdürenbach" />
+<area href="/wiki/Oberd%C3%BCrenbach" shape="poly" coords="173,116,173,112,163,110,149,118,151,123,163,123" alt="Oberdürenbach" title="Oberdürenbach" />
+<area href="/wiki/Weibern" shape="poly" coords="168,141,175,147,154,161,151,153,146,153,142,157,138,156,141,148" alt="Weibern" title="Weibern" />
+<area href="/wiki/Kempenich" shape="poly" coords="138,133,159,134,166,142,141,148,139,157,135,155,140,140" alt="Kempenich" title="Kempenich" />
+<area href="/wiki/Hohenleimbach" shape="poly" coords="137,131,122,147,120,153,123,158,136,154,136,148,142,140" alt="Hohenleimbach" title="Hohenleimbach" />
+<area href="/wiki/Spessart,_Rhineland-Palatinate" shape="poly" coords="149,121,143,125,138,132,141,135,157,134,164,125" alt="Spessart" title="Spessart" />
+<area href="/wiki/Heckenbach" shape="poly" coords="129,106,144,109,150,120,119,150,114,144,121,136,119,130,119,113,127,114" alt="Heckenbach" title="Heckenbach" />
+<area href="/wiki/Kesseling" shape="poly" coords="130,92,135,99,128,103,127,113,119,113,118,130,103,130,94,141,93,120,100,120,102,103,111,94,121,97" alt="Kesseling" title="Kesseling" />
+<area href="/wiki/Kalenborn,_Ahrweiler" shape="poly" coords="103,55,107,69,94,65,94,60,100,55" alt="Kalenborn" title="Kalenborn" />
+<area href="/wiki/Berg,_Ahrweiler" shape="poly" coords="101,67,97,78,81,88,75,88,73,75,79,72,78,58,85,57" alt="Berg" title="Berg" />
+<area href="/wiki/Kirchsahr" shape="poly" coords="74,76,75,87,68,92,59,77" alt="Kirchsahr" title="Kirchsahr" />
+<area href="/wiki/Lind,_Ahrweiler" shape="poly" coords="81,87,75,87,70,92,69,114,80,108,88,94" alt="Lind" title="Lind" />
+<area href="/wiki/Rech" shape="poly" coords="127,91,122,97,113,94,120,82,122,89" alt="Rech" title="Rech" />
+<area href="/wiki/Dernau" shape="poly" coords="115,70,126,70,125,91,119,83" alt="Dernau" title="Dernau" />
+<area href="/wiki/Mayscho%C3%9F" shape="poly" coords="115,71,120,82,113,94,107,92,106,79" alt="Mayschoß" title="Mayschoß" />
+<area href="/wiki/Altenahr" shape="poly" coords="109,92,105,82,114,72,102,67,96,78,81,88,87,94,92,96,97,92" alt="Altenahr" title="Altenahr" />
+<area href="/wiki/Ahrbr%C3%BCck" shape="poly" coords="88,96,93,96,98,92,110,93,102,103,100,118,94,119,94,109,88,106,80,106" alt="Ahrbrück" title="Ahrbrück" />
+<area href="/wiki/H%C3%B6nningen" shape="poly" coords="95,109,83,105,76,111,75,120,77,125,93,120" alt="Hönningen" title="Hönningen" />
+<area href="/wiki/Kaltenborn" shape="poly" coords="103,129,118,129,121,135,114,143,122,157,113,165,109,159,100,158,100,152,92,140" alt="Kaltenborn" title="Kaltenborn" />
+<area href="/wiki/Adenau" shape="poly" coords="109,159,76,155,70,159,68,167,75,170,76,179,81,175,86,177,86,172,107,167" alt="Adenau" title="Adenau" />
+<area href="/wiki/Herschbroich" shape="poly" coords="106,166,86,171,86,180,90,183,97,181,109,170" alt="Herschbroich" title="Herschbroich" />
+<area href="/wiki/Meuspath" shape="poly" coords="97,181,90,182,86,193,92,194" alt="Meuspath" title="Meuspath" />
+<area href="/wiki/Leimbach,_Ahrweiler" shape="poly" coords="101,158,100,148,93,142,86,138,78,142,68,153,68,159,76,155" alt="Leimbach" title="Leimbach" />
+<area href="/wiki/D%C3%BCmpelfeld" shape="poly" coords="95,120,93,140,86,138,75,142,71,140,68,137,75,133,75,125" alt="Dümpelfeld" title="Dümpelfeld" />
+<area href="/wiki/N%C3%BCrburg" shape="poly" coords="86,181,90,182,83,196,81,192,75,192,79,190" alt="Nürburg" title="Nürburg" />
+<area href="/wiki/M%C3%BCllenbach" shape="poly" coords="74,192,80,192,85,194,81,203,73,207,62,199" alt="Müllenbach" title="Müllenbach" />
+<area href="/wiki/Quiddelbach" shape="poly" coords="81,175,86,177,79,191,73,189,73,184" alt="Quiddelbach" title="Quiddelbach" />
+<area href="/wiki/H%C3%BCmmel" shape="poly" coords="47,118,45,121,15,118,9,110,19,103,30,97,33,106" alt="Hümmel" title="Hümmel" />
+<area href="/wiki/Ohlenhard" shape="poly" coords="15,118,20,118,24,128,15,131,8,128,14,122" alt="Ohlenhard" title="Ohlenhard" />
+<area href="/wiki/Wershofen" shape="poly" coords="20,118,50,120,53,127,49,133,22,131" alt="Wershofen" title="Wershofen" />
+<area href="/wiki/Aremberg" shape="poly" coords="20,130,23,136,27,136,37,140,32,155,23,153,20,150" alt="Aremberg" title="Aremberg" />
+<area href="/wiki/Wiesemscheid" shape="poly" coords="61,198,75,191,61,186,54,190" alt="Wiesemscheid" title="Wiesemscheid" />
+<area href="/wiki/Kottenborn" shape="poly" coords="61,176,63,187,75,191,74,183,68,177" alt="Kottenborn" title="Kottenborn" />
+<area href="/wiki/Wimbach" shape="poly" coords="73,182,76,179,75,170,59,164,57,169,61,175" alt="Wimbach" title="Wimbach" />
+<area href="/wiki/Honerath" shape="poly" coords="60,164,66,167,71,162,70,158" alt="Honerath" title="Honerath" />
+<area href="/wiki/Bauler,_Ahrweiler" shape="poly" coords="53,191,60,198,54,198,47,196" alt="Bauler" title="Bauler" />
+<area href="/wiki/Senscheid" shape="poly" coords="42,186,47,196,42,199,34,198" alt="Senscheid" title="Senscheid" />
+<area href="/wiki/Pomster" shape="poly" coords="42,172,54,191,47,194,42,186,40,182" alt="Pomster" title="Pomster" />
+<area href="/wiki/Dankerath" shape="poly" coords="43,186,34,197,25,196,24,192,39,183" alt="Dankerath" title="Dankerath" />
+<area href="/wiki/Trierscheid" shape="poly" coords="40,174,39,182,29,189,26,183,28,176,34,177" alt="Trierscheid" title="Trierscheid" />
+<area href="/wiki/Barweiler" shape="poly" coords="53,162,51,164,53,170,47,174,42,173,52,184,53,191,62,186,61,176" alt="Barweiler" title="Barweiler" />
+<area href="/wiki/Reifferscheid" shape="poly" coords="76,141,68,153,69,159,61,164,53,153,47,147,42,149,43,143,53,145,55,141,65,137" alt="Reifferscheid" title="Reifferscheid" />
+<area href="/wiki/Sierscheid" shape="poly" coords="75,109,70,114,70,123,78,124,75,119" alt="Sierscheid" title="Sierscheid" />
+<area href="/wiki/Harscheid" shape="poly" coords="69,112,69,118,61,120,57,122,55,117" alt="Harscheid" title="Harscheid" />
+<area href="/wiki/Dorsel" shape="poly" coords="19,150,15,155,27,169,34,155,25,155" alt="Dorsel" title="Dorsel" />
+<area href="/wiki/Hoffeld" shape="poly" coords="28,168,35,164,40,165,41,173,36,177,27,178" alt="Hoffeld" title="Hoffeld" />
+<area href="/wiki/Wirft" shape="poly" coords="39,166,39,171,46,174,53,170,51,164,46,164" alt="Wirft" title="Wirft" />
+<area href="/wiki/Rodder" shape="poly" coords="47,147,55,152,62,163,57,170,53,164,50,164,47,164,43,158,43,149" alt="Rodder" title="Rodder" />
+<area href="/wiki/M%C3%BCsch" shape="poly" coords="32,156,29,168,33,164,39,165,47,164,43,156" alt="Müsch" title="Müsch" />
+<area href="/wiki/Eichenbach" shape="poly" coords="22,131,44,131,44,136,48,137,44,142,36,141,24,136" alt="Eichenbach" title="Eichenbach" />
+<area href="/wiki/Antweiler" shape="poly" coords="37,140,42,142,41,148,43,156,33,156" alt="Antweiler" title="Antweiler" />
+<area href="/wiki/Fuchshofen" shape="poly" coords="53,135,55,144,43,144,42,141,48,140" alt="Fuchshofen" title="Fuchshofen" />
+<area href="/wiki/Winnerath" shape="poly" coords="52,131,63,132,62,138,53,142" alt="Winnerath" title="Winnerath" />
+<area href="/wiki/Insul" shape="poly" coords="70,122,77,124,75,129,75,135,62,138,64,131,68,127" alt="Insul" title="Insul" />
+<area href="/wiki/Schuld" shape="poly" coords="69,118,69,123,62,132,51,131,51,120,55,117,57,122" alt="Schuld" title="Schuld" />
+<area href="/wiki/North_Rhine-Westphalia" shape="poly" coords="238,6,239,-1,1,1,0,181,26,174,27,170,14,155,20,142,7,128,14,123,14,115,8,109,19,101,30,98,32,106,51,119,61,112,67,111,68,97,64,86,61,77,74,76,79,70,79,58,85,57,94,59,99,54,104,55,125,32,137,41,145,39,150,28,160,34,163,28,169,28,177,20,181,7,187,5,187,19,204,19,221,13,233,13" alt="North Rhine-Westphalia" title="North Rhine-Westphalia" />
+<area href="/wiki/Neuwied_(district)" shape="poly" coords="238,8,187,19,187,45,205,52,238,111" alt="Neuwied (district)" title="Neuwied (district)" />
+<area href="/wiki/Vulkaneifel" shape="poly" coords="1,182,26,174,29,189,23,191,24,196,44,200,48,198,61,200,73,207,82,203,86,195,94,195,98,182,114,192,92,209,0,209" alt="Vulkaneifel" title="Vulkaneifel" />
+<area href="/wiki/Mayen-Koblenz" shape="poly" coords="93,209,238,209,239,114,215,124,214,136,201,138,203,143,207,141,213,142,209,156,199,159,189,148,182,149,176,148,154,162,151,153,146,153,142,159,122,159,98,182,114,191" alt="Mayen-Koblenz" title="Mayen-Koblenz" /></map><img alt="Nürburg in AW.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/N%C3%BCrburg_in_AW.svg/240px-N%C3%BCrburg_in_AW.svg.png" width="240" height="211" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/N%C3%BCrburg_in_AW.svg/360px-N%C3%BCrburg_in_AW.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/N%C3%BCrburg_in_AW.svg/480px-N%C3%BCrburg_in_AW.svg.png 2x" data-file-width="283" data-file-height="249" usemap="#ImageMap_1_1722723208" />
+<div style="margin-left: 220px; margin-top: -20px; text-align: left;"><a href="/wiki/File:N%C3%BCrburg_in_AW.svg" title="About this image"><img alt="About this image" src="/w/extensions/ImageMap/desc-20.png?15600" style="border: none;" /></a></div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=N%C3%BCrburg&amp;params=50_20_32_N_6_57_8_E_type:city(176)_region:DE-RP"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">50°20′32″N</span> <span class="longitude">6°57′8″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">50.34222°N 6.95222°E</span><span style="display:none">﻿ / <span class="geo">50.34222; 6.95222</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=N%C3%BCrburg&amp;params=50_20_32_N_6_57_8_E_type:city(176)_region:DE-RP"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">50°20′32″N</span> <span class="longitude">6°57′8″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">50.34222°N 6.95222°E</span><span style="display:none">﻿ / <span class="geo">50.34222; 6.95222</span></span></span></a></span></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Country</th>
+<td><a href="/wiki/Germany" title="Germany">Germany</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/States_of_Germany" title="States of Germany">State</a></th>
+<td><a href="/wiki/Rhineland-Palatinate" title="Rhineland-Palatinate">Rhineland-Palatinate</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Districts_of_Germany" title="Districts of Germany">District</a></th>
+<td><a href="/wiki/Ahrweiler_(district)" title="Ahrweiler (district)">Ahrweiler</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Verbandsgemeinde" title="Verbandsgemeinde">Municipal assoc.</a></th>
+<td><a href="/wiki/Adenau_(Verbandsgemeinde)" title="Adenau (Verbandsgemeinde)">Adenau</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Government</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/Burgomaster" title="Burgomaster">Mayor</a></th>
+<td>Reinhold Schüssler</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Area</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>3.63&#160;km<sup>2</sup> (1.40&#160;sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Elevation</th>
+<td>539&#160;m (1,768&#160;ft)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(2015-12-31)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>176</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Density</th>
+<td>48/km<sup>2</sup> (130/sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="/wiki/Central_European_Time" title="Central European Time">CET</a>/<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a> (UTC+1/+2)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/List_of_postal_codes_in_Germany" title="List of postal codes in Germany">Postal codes</a></th>
+<td class="adr"><span class="postal-code">53520</span></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/List_of_dialling_codes_in_Germany" title="List of dialling codes in Germany">Dialling codes</a></th>
+<td>02691</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Vehicle_registration_plate" title="Vehicle registration plate">Vehicle registration</a></th>
+<td>AW</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Website</th>
+<td><span class="url"><a rel="nofollow" class="external text" href="http://www.nuerburg.de">www<wbr />.nuerburg<wbr />.de</a></span></td>
+</tr>
+</table>
+<p><b>Nürburg</b> (<small>German pronunciation:</small> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Standard_German" title="Help:IPA/Standard German">[ˈnʏɐ̯bʊɐ̯k]</a></span>) is a town in the <a href="/wiki/Germany" title="Germany">German</a> district of <a href="/wiki/Ahrweiler_(district)" title="Ahrweiler (district)">Ahrweiler</a>, in the state of <a href="/wiki/Rhineland-Palatinate" title="Rhineland-Palatinate">Rhineland-Palatinate</a>. It is also the name of the local castle, <a href="/wiki/N%C3%BCrburg_Castle" title="Nürburg Castle">Nürburg Castle</a>, which was built in the <a href="/wiki/High_Middle_Ages" title="High Middle Ages">High Middle Ages</a>. The name is derived from the Latin word "niger" which means 'black' (cf. French "noir" meaning the same), and burg which means "castle". The castle is made of <a href="/wiki/Basalt" title="Basalt">basalt</a> which usually has black color. The town is best known for its famous 24 kilometer race track, the <a href="/wiki/N%C3%BCrburgring" title="Nürburgring">Nürburgring</a>. Five kilometers (3.1 miles) of the track are used for a <a href="/wiki/Formula_One" title="Formula One">Formula One</a> grand prix.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Location"><span class="tocnumber">1</span> <span class="toctext">Location</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Prehistory_and_Middle_Ages"><span class="tocnumber">2.1</span> <span class="toctext">Prehistory and Middle Ages</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Modern_Age"><span class="tocnumber">2.2</span> <span class="toctext">Modern Age</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Gallery"><span class="tocnumber">3</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Location">Location</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=N%C3%BCrburg&amp;action=edit&amp;section=1" title="Edit section: Location">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Nürburg rises above the village of the same name on the second-highest hill in the <a href="/wiki/Eifel" title="Eifel">Eifel</a> (678 metres or 2,224 feet). The castle and hill are regarded as a characteristic feature of the Eifel. Even though it is one of the most significant castles in the Eifel, it nevertheless still needs to be researched in full. There are almost no written sources relating to the history of the castle's construction in the Middle Ages. The hill is referred to in documentary evidence in AD 954 by the name <i>mone nore</i>, which means black hill. In descriptions of boundaries which served to clarify which property belonged to whom, it was used as a significant reference marker. The name Nürburg is thought to derive from <i>mons nore</i>, as the color of the volcanic <a href="/wiki/Basalt" title="Basalt">basalt</a> used to build the castle exhibits an unusually dark color.</p>
+<p>The Nürburg is considered to be the "highest castle in Rhineland-Pfalz", and on a clear day, the spires of the <a href="/wiki/Cologne_Cathedral" title="Cologne Cathedral">Cologne Cathedral</a> may be seen.</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=N%C3%BCrburg&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="infobox geography vcard vevent" style="width:290px;">
+<tr class="mergedtoprow">
+<td colspan="3" class="fn org summary" style="text-align:center; line-height:1.2em; font-size:135%; font-weight:bold;">County of Nürburg</td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="3" class="fn org summary" style="text-align:center; line-height:1.2em; font-size:115%; font-weight:bold;"><i>Grafschaft Nürburg</i></td>
+</tr>
+<tr>
+<td colspan="3" style="vertical-align:middle; text-align:center; font-size:115%;"><a href="/wiki/States_of_the_Holy_Roman_Empire" class="mw-redirect" title="States of the Holy Roman Empire">State</a> of the <a href="/wiki/Holy_Roman_Empire" title="Holy Roman Empire">Holy Roman Empire</a></td>
+</tr>
+<tr>
+<td colspan="3" style="vertical-align:middle; text-align:center; border-top:solid 1px #aaa; padding:0.2em 0em 0.2em 0em;">
+<table style="width:100%; text-align:center; margin:0 auto; background:transparent;">
+<tr>
+<td style="width:50px; border:0; vertical-align:middle; font-size:30%; line-height:105%;"></td>
+<td style="vertical-align:middle; text-align:center; font-size:115%; border:0;"><b>1144–1225</b></td>
+<td style="width:50px; border:0; vertical-align:middle; text-align:right; line-height:105%; font-size:30%;"></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2"><b>Capital</b></td>
+<td style="width:50%;">Nürburg</td>
+</tr>
+<tr>
+<td colspan="2"><b>Government</b></td>
+<td><a href="/wiki/Princes_of_the_Holy_Roman_Empire" title="Princes of the Holy Roman Empire">Principality</a></td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b>Historical era</b></td>
+<td><a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em; padding:0 0 0 0.6em;">&#160;•&#160;</td>
+<td style="padding-left:0em;text-align:left;">Death of <a href="/w/index.php?title=Theoderich_I,_Count_of_Are&amp;action=edit&amp;redlink=1" class="new" title="Theoderich I, Count of Are (page does not exist)">Theoderich I,<br />
+<span class="nowrap">&#160;&#160;&#160;&#160;</span>Count of Are</a></td>
+<td style="vertical-align: bottom;"><br />
+1132</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em; padding:0 0 0 0.6em;">&#160;•&#160;</td>
+<td style="padding-left:0em;text-align:left;">Established</td>
+<td style="vertical-align: bottom;">1144</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em; padding:0 0 0 0.6em;">&#160;•&#160;</td>
+<td style="padding-left:0em;text-align:left;">Annexed to <a href="/wiki/Neuenahr" class="mw-redirect" title="Neuenahr">Neuenahr</a></td>
+<td style="vertical-align: bottom;">1225</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em; padding:0 0 0 0.6em;">&#160;•&#160;</td>
+<td style="padding-left:0em;text-align:left;">Bequeathed to<br />
+<span class="nowrap">&#160;&#160;&#160;&#160;</span><a href="/wiki/Archbishopric_of_Cologne" class="mw-redirect" title="Archbishopric of Cologne">Abp Cologne</a></td>
+<td style="vertical-align: bottom;"><br />
+1246</td>
+</tr>
+<tr>
+<td colspan="3">
+<table style="width:95%; background: transparent; text-align:center; margin:0 auto;">
+<tr>
+<td style="text-align:center; border:0; padding-bottom:0">
+<div id="before-after"></div>
+<b>Preceded by</b></td>
+<td style="text-align:center;border:0; padding-bottom:0;"><b>Succeeded by</b></td>
+</tr>
+<tr>
+<td style="vertical-align:top; text-align:center; border:0;">
+<table style="width:100%; background: transparent; text-align:center; margin:0 auto; border:0;">
+<tr>
+<td style="border:0; padding:0; vertical-align:middle;"><a href="/wiki/File:Altenahr_Coats_of_Arms.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Altenahr_Coats_of_Arms.svg/20px-Altenahr_Coats_of_Arms.svg.png" width="20" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Altenahr_Coats_of_Arms.svg/30px-Altenahr_Coats_of_Arms.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Altenahr_Coats_of_Arms.svg/40px-Altenahr_Coats_of_Arms.svg.png 2x" data-file-width="339" data-file-height="411" /></a></td>
+<td style="border:0; padding:0; vertical-align:middle; text-align:left;"><a href="/w/index.php?title=Count_of_Are&amp;action=edit&amp;redlink=1" class="new" title="Count of Are (page does not exist)">Count of Are</a></td>
+</tr>
+</table>
+</td>
+<td style="vertical-align:top; text-align:center;border:0;">
+<table style="width:92%; background:transparent; text-align:center; margin:0 auto; border:0;">
+<tr>
+<td style="border:0; padding:0; vertical-align:middle; text-align:right;"><a href="/wiki/Neuenahr" class="mw-redirect" title="Neuenahr">Neuenahr</a></td>
+<td style="border:0; padding:0; vertical-align:middle;"><a href="/wiki/File:DEU_Bad_Neuenahr-Ahrweiler_COA.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/DEU_Bad_Neuenahr-Ahrweiler_COA.svg/20px-DEU_Bad_Neuenahr-Ahrweiler_COA.svg.png" width="20" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/DEU_Bad_Neuenahr-Ahrweiler_COA.svg/30px-DEU_Bad_Neuenahr-Ahrweiler_COA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/DEU_Bad_Neuenahr-Ahrweiler_COA.svg/40px-DEU_Bad_Neuenahr-Ahrweiler_COA.svg.png 2x" data-file-width="412" data-file-height="472" /></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2"><b>Today part of</b></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" />&#160;</span><a href="/wiki/Germany" title="Germany">Germany</a></td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Prehistory_and_Middle_Ages">Prehistory and Middle Ages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=N%C3%BCrburg&amp;action=edit&amp;section=3" title="Edit section: Prehistory and Middle Ages">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The history of when the Nürburg was established has not been definitively clarified. There is no evidence to suggest that it was built instead of a <a href="/wiki/Castra" title="Castra">Roman fort</a>, the commonly held view in the local area. Discoveries of <a href="/wiki/Roman_currency" title="Roman currency">Roman coins</a> do not constitute sufficient evidence. Owing to a similarity between names, one legend even traces the Nürburg back to a fort established by <a href="/wiki/Nero" title="Nero">Emperor Nero</a>. Among other things, archaeological <a href="/wiki/Tumulus" title="Tumulus">barrows</a> attest to the fact that the area surrounding the castle was populated in early historical times. However, there are no indications that the castle hill was once home to a refuge or prehistoric walled fortification, as is occasionally thought.</p>
+<p>While local historians held the view that the castle had been erected by <a href="/w/index.php?title=Theoderich_I,_Count_of_Are&amp;action=edit&amp;redlink=1" class="new" title="Theoderich I, Count of Are (page does not exist)">Theoderich I, Count of Are</a>, (who died in 1132) as a refuge for the ruling court of <a href="/wiki/Adenau" title="Adenau">Adenau</a>, nowadays his son <a href="/w/index.php?title=Ulrich,_Count_of_N%C3%BCrburg&amp;action=edit&amp;redlink=1" class="new" title="Ulrich, Count of Nürburg (page does not exist)">Ulrich von Are</a>, the self-proclaimed Count of Nürburg, is considered to be the person responsible for commissioning the building of the castle, even though there is no source material to back this theory. Castle Are is situated above <a href="/wiki/Altenahr" title="Altenahr">Altenahr</a>, and was built by a group of counts, probably the <a href="/wiki/Ahrgau" title="Ahrgau">Ahrgau</a> counts. The group was associated with the <a href="/wiki/Carolingian_dynasty" title="Carolingian dynasty">Carolingian nobility</a> and named itself after it.</p>
+<p>The Nürburg is situated 20&#160;km (12 miles) south of Castle Are, where the Counts of Are belonged to a family circle whose members can be traced back to the 9th century. In the 10th century, they are alleged to have held rights in what would subsequently become the village of Nürburg. The counts were able to build up an independent power base within the High Eifel and at the upper Ahr and this power base was centered between Adenau, Nürburg, and Altenahr. The counts were divided up between several ancestral lines: the Are-Hochstaden line held the property in the village of Nürburg.</p>
+<p>Around 1220/30, a different ancestral line built Neuenahr Castle. With the death of <a href="/w/index.php?title=Lothar,_Count_of_Are-Hochstaden&amp;action=edit&amp;redlink=1" class="new" title="Lothar, Count of Are-Hochstaden (page does not exist)">Count Lothar</a> in around 1246, the Counts of Are-Hochstaden died out. Their estate was inherited by the <a href="/wiki/Archbishop_of_Cologne" title="Archbishop of Cologne">Archbishop of Cologne</a> (<a href="/wiki/Konrad_von_Hochstaden" title="Konrad von Hochstaden">Konrad von Are-Hochstaden</a>).</p>
+<p>Count Ulrich von Nürburg first appears in documents linking him to the Nürburg in 1169. He is considered to be the person responsible for commissioning the building of the castle. There is a document originating from 1166 in which Are and Nürburg Castles are mentioned within the context of rights which the Archbishop of Cologne granted to Count Ulrich and his family. At that time, the castle was an open house of the Archbishop of Cologne: the opening right affording him access to the castle and the option to use it if he needed to. In those days, the counts of Are-Nürburg were supporters of the <a href="/wiki/House_of_Hohenstaufen" class="mw-redirect" title="House of Hohenstaufen">Staufian imperial family</a>.</p>
+<h3><span class="mw-headline" id="Modern_Age">Modern Age</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=N%C3%BCrburg&amp;action=edit&amp;section=4" title="Edit section: Modern Age">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Historians suspected that the officials who were pledged the use of the castle from the 14–16th century were more concerned with exploiting the castle than with preserving it. This was reflected in the large amount of damage that Augustin von Braunsberg noted when he financed its repair in 1534. According to his report, Augustin had the gate to the valley re-erected and had a stable built in the courtyard. A storm had also torn off the roof of the main tower and damaged the vaults within. In order to prevent its total collapse, the tower was reconstructed in 1535. Augustin also financed the construction of a brewery, cowshed, meat house, and bakery within the walls.</p>
+<p>In 1587, the castle was plundered by <a href="/wiki/Dutch_Republic" title="Dutch Republic">Dutch</a> <a href="/wiki/Eighty_Years%27_War" title="Eighty Years' War">soldiers</a>. There are also reports from the early 17th century outlining the damage to, and decline of the castle. An occupation in 1605 by southern European soldiers caused significant damage. The soldiers removed the lead bracing in the main tower leaving it in a perilous state of near collapse. In 1607, funds were raised by the local archiepiscopal commission, and restoration work carried out in 1612, where 77 windows were installed to make the castle more livable. However, that same year, a severe storm tore the chimneys and roofs off some of the buildings leaving the castle in a nearly ruined state. In 1633, during <a href="/wiki/Thirty_Years%27_War" title="Thirty Years' War">Thirty Years' War</a>, the castle was occupied by <a href="/wiki/Swedish_Empire" title="Swedish Empire">Swedish</a> troops as a defensible position, and by 1656, the castle fell into a state of near uninhabitability. Despite the crumbling walls, the castle was still seen an important military site due to its high position and relative ease of defense.</p>
+<p>In 1752, the main tower of Castle Nürburg was used as a prison until the dungeons fell into a state of total ruin. From this point, the castle was abandoned and left to decay, as farmers in the area continued to remove stones from the site for use as local building material. The Burgstube hotel at the base of the castle evidences some of this pirating of the stone in its foundation that dates to the 17th century. The Franciscan friars from Adenau issued a decree from Adenau to take as much stone as they needed in order to repair their convent.</p>
+<p>Drawings from the late 18th century show the castle as a complete ruin. In <a href="/wiki/Campaigns_of_1792_in_the_French_Revolutionary_Wars" title="Campaigns of 1792 in the French Revolutionary Wars">1792</a>, the French occupied the left side of the Rhine, and in <a href="/wiki/Campaigns_of_1801_in_the_French_Revolutionary_Wars" title="Campaigns of 1801 in the French Revolutionary Wars">1801</a>, the French army destroyed the remaining portions of the outer wall, leaving only the inner wall, and the main tower standing to attest to what was the Nürburg.</p>
+<p>Restoration work started in 1846–78 where the main tower was renewed. A stone staircase was built into the tower, with the uppermost vault being reconstructed in order to provide views over the entire High Eifel. In 1871, the inner wall and main gate were completely reconstructed into the form seen today, complete with non-original fairytale style conical tops on the wall towers.</p>
+<p>In 1953–71, the castle was transferred to the administration of the <a href="/wiki/Rhineland-Palatinate" title="Rhineland-Palatinate">Rhineland-Palatinate</a>. As money poured into Nürburg for repair and expansion projects to the Nürburgring, extensive work was again carried out on the castle. The walls of the wards were rebuilt, and the shoring up of the towers completed in order to make the castle safe for tourists.</p>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=N%C3%BCrburg&amp;action=edit&amp;section=5" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:N%C3%BCrburg_11010026.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/N%C3%BCrburg_11010026.jpg/118px-N%C3%BCrburg_11010026.jpg" width="118" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/N%C3%BCrburg_11010026.jpg/177px-N%C3%BCrburg_11010026.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/N%C3%BCrburg_11010026.jpg/236px-N%C3%BCrburg_11010026.jpg 2x" data-file-width="1165" data-file-height="1183" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/N%C3%BCrburg_Castle" title="Nürburg Castle">Nürburg Castle</a> entry</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Nurburgring_lap.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Nurburgring_lap.jpg/120px-Nurburgring_lap.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Nurburgring_lap.jpg/180px-Nurburgring_lap.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Nurburgring_lap.jpg/240px-Nurburgring_lap.jpg 2x" data-file-width="1600" data-file-height="1200" /></a></div>
+</div>
+<div class="gallerytext">
+<p>The nearby <a href="/wiki/N%C3%BCrburgring" title="Nürburgring">Nürburgring</a> race track</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=N%C3%BCrburg&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.statistik.rlp.de/fileadmin/dokumente/berichte/A1033_201522_hj_G.pdf">"Gemeinden in Deutschland mit Bevölkerung am 31. Dezember 2015"</a> <span style="font-size:85%;">(PDF)</span>. <i><a href="/wiki/Statistisches_Bundesamt" class="mw-redirect" title="Statistisches Bundesamt">Statistisches Bundesamt</a></i> (in German). 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AN%C3%BCrburg&amp;rft.atitle=Gemeinden+in+Deutschland+mit+Bev%C3%B6lkerung+am+31.+Dezember+2015&amp;rft.date=2016&amp;rft.genre=unknown&amp;rft.jtitle=Statistisches+Bundesamt&amp;rft_id=http%3A%2F%2Fwww.statistik.rlp.de%2Ffileadmin%2Fdokumente%2Fberichte%2FA1033_201522_hj_G.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=N%C3%BCrburg&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:N%C3%BCrburg" class="extiw" title="commons:Category:Nürburg">Nürburg</a> at Wikimedia Commons</li>
+<li><a href="/wiki/File:Wikivoyage-Logo-v3-icon.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/16px-Wikivoyage-Logo-v3-icon.svg.png" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/24px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/32px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></a> <a href="https://en.wikivoyage.org/wiki/N%C3%BCrburg#Q628095" class="extiw" title="voy:Nürburg">Nürburg</a> travel guide from Wikivoyage</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Towns_and_municipalities_in_Ahrweiler" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cities_and_towns_in_Ahrweiler_(district)" title="Template:Cities and towns in Ahrweiler (district)"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cities_and_towns_in_Ahrweiler_(district)" title="Template talk:Cities and towns in Ahrweiler (district)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cities_and_towns_in_Ahrweiler_(district)&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Towns_and_municipalities_in_Ahrweiler" style="font-size:114%;margin:0 4em">Towns and municipalities in <a href="/wiki/Ahrweiler_(district)" title="Ahrweiler (district)">Ahrweiler</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adenau" title="Adenau">Adenau</a></li>
+<li><a href="/wiki/Ahrbr%C3%BCck" title="Ahrbrück">Ahrbrück</a></li>
+<li><a href="/wiki/Altenahr" title="Altenahr">Altenahr</a></li>
+<li><a href="/wiki/Antweiler" title="Antweiler">Antweiler</a></li>
+<li><a href="/wiki/Aremberg" title="Aremberg">Aremberg</a></li>
+<li><a href="/wiki/Bad_Breisig" title="Bad Breisig">Bad Breisig</a></li>
+<li><a href="/wiki/Bad_Neuenahr-Ahrweiler" title="Bad Neuenahr-Ahrweiler">Bad Neuenahr-Ahrweiler</a></li>
+<li><a href="/wiki/Barweiler" title="Barweiler">Barweiler</a></li>
+<li><a href="/wiki/Bauler,_Ahrweiler" title="Bauler, Ahrweiler">Bauler</a></li>
+<li><a href="/wiki/Berg,_Ahrweiler" title="Berg, Ahrweiler">Berg</a></li>
+<li><a href="/wiki/Brenk" title="Brenk">Brenk</a></li>
+<li><a href="/wiki/Brohl-L%C3%BCtzing" title="Brohl-Lützing">Brohl-Lützing</a></li>
+<li><a href="/wiki/Burgbrohl" title="Burgbrohl">Burgbrohl</a></li>
+<li><a href="/wiki/Dankerath" title="Dankerath">Dankerath</a></li>
+<li><a href="/wiki/Dedenbach" title="Dedenbach">Dedenbach</a></li>
+<li><a href="/wiki/Dernau" title="Dernau">Dernau</a></li>
+<li><a href="/wiki/Dorsel" title="Dorsel">Dorsel</a></li>
+<li><a href="/wiki/D%C3%BCmpelfeld" title="Dümpelfeld">Dümpelfeld</a></li>
+<li><a href="/wiki/Eichenbach" title="Eichenbach">Eichenbach</a></li>
+<li><a href="/wiki/Fuchshofen" title="Fuchshofen">Fuchshofen</a></li>
+<li><a href="/wiki/Galenberg" title="Galenberg">Galenberg</a></li>
+<li><a href="/wiki/Glees" title="Glees">Glees</a></li>
+<li><a href="/wiki/G%C3%B6nnersdorf" title="Gönnersdorf">Gönnersdorf</a></li>
+<li><a href="/wiki/Grafschaft,_Rhineland" title="Grafschaft, Rhineland">Grafschaft</a></li>
+<li><a href="/wiki/Harscheid" title="Harscheid">Harscheid</a></li>
+<li><a href="/wiki/Heckenbach" title="Heckenbach">Heckenbach</a></li>
+<li><a href="/wiki/Herschbroich" title="Herschbroich">Herschbroich</a></li>
+<li><a href="/wiki/Hoffeld" title="Hoffeld">Hoffeld</a></li>
+<li><a href="/wiki/Hohenleimbach" title="Hohenleimbach">Hohenleimbach</a></li>
+<li><a href="/wiki/Honerath" title="Honerath">Honerath</a></li>
+<li><a href="/wiki/H%C3%B6nningen" title="Hönningen">Hönningen</a></li>
+<li><a href="/wiki/H%C3%BCmmel" title="Hümmel">Hümmel</a></li>
+<li><a href="/wiki/Insul" title="Insul">Insul</a></li>
+<li><a href="/wiki/Kalenborn,_Ahrweiler" title="Kalenborn, Ahrweiler">Kalenborn</a></li>
+<li><a href="/wiki/Kaltenborn" title="Kaltenborn">Kaltenborn</a></li>
+<li><a href="/wiki/Kempenich" title="Kempenich">Kempenich</a></li>
+<li><a href="/wiki/Kesseling" title="Kesseling">Kesseling</a></li>
+<li><a href="/wiki/Kirchsahr" title="Kirchsahr">Kirchsahr</a></li>
+<li><a href="/wiki/K%C3%B6nigsfeld,_Rhineland-Palatinate" title="Königsfeld, Rhineland-Palatinate">Königsfeld</a></li>
+<li><a href="/wiki/Kottenborn" title="Kottenborn">Kottenborn</a></li>
+<li><a href="/wiki/Leimbach,_Ahrweiler" title="Leimbach, Ahrweiler">Leimbach</a></li>
+<li><a href="/wiki/Lind,_Ahrweiler" title="Lind, Ahrweiler">Lind</a></li>
+<li><a href="/wiki/Mayscho%C3%9F" title="Mayschoß">Mayschoß</a></li>
+<li><a href="/wiki/Meuspath" title="Meuspath">Meuspath</a></li>
+<li><a href="/wiki/M%C3%BCllenbach" title="Müllenbach">Müllenbach</a></li>
+<li><a href="/wiki/M%C3%BCsch" title="Müsch">Müsch</a></li>
+<li><a href="/wiki/Niederd%C3%BCrenbach" title="Niederdürenbach">Niederdürenbach</a></li>
+<li><a href="/wiki/Niederzissen" title="Niederzissen">Niederzissen</a></li>
+<li><a class="mw-selflink selflink">Nürburg</a></li>
+<li><a href="/wiki/Oberd%C3%BCrenbach" title="Oberdürenbach">Oberdürenbach</a></li>
+<li><a href="/wiki/Oberzissen" title="Oberzissen">Oberzissen</a></li>
+<li><a href="/wiki/Ohlenhard" title="Ohlenhard">Ohlenhard</a></li>
+<li><a href="/wiki/Pomster" title="Pomster">Pomster</a></li>
+<li><a href="/wiki/Quiddelbach" title="Quiddelbach">Quiddelbach</a></li>
+<li><a href="/wiki/Rech" title="Rech">Rech</a></li>
+<li><a href="/wiki/Reifferscheid" title="Reifferscheid">Reifferscheid</a></li>
+<li><a href="/wiki/Remagen" title="Remagen">Remagen</a></li>
+<li><a href="/wiki/Rodder" title="Rodder">Rodder</a></li>
+<li><a href="/wiki/Schalkenbach" title="Schalkenbach">Schalkenbach</a></li>
+<li><a href="/wiki/Schuld" title="Schuld">Schuld</a></li>
+<li><a href="/wiki/Senscheid" title="Senscheid">Senscheid</a></li>
+<li><a href="/wiki/Sierscheid" title="Sierscheid">Sierscheid</a></li>
+<li><a href="/wiki/Sinzig" title="Sinzig">Sinzig</a></li>
+<li><a href="/wiki/Spessart,_Rhineland-Palatinate" title="Spessart, Rhineland-Palatinate">Spessart</a></li>
+<li><a href="/wiki/Trierscheid" title="Trierscheid">Trierscheid</a></li>
+<li><a href="/wiki/Waldorf,_Rhineland-Palatinate" title="Waldorf, Rhineland-Palatinate">Waldorf</a></li>
+<li><a href="/wiki/Wassenach" title="Wassenach">Wassenach</a></li>
+<li><a href="/wiki/Wehr,_Rhineland-Palatinate" title="Wehr, Rhineland-Palatinate">Wehr</a></li>
+<li><a href="/wiki/Weibern" title="Weibern">Weibern</a></li>
+<li><a href="/wiki/Wershofen" title="Wershofen">Wershofen</a></li>
+<li><a href="/wiki/Wiesemscheid" title="Wiesemscheid">Wiesemscheid</a></li>
+<li><a href="/wiki/Wimbach" title="Wimbach">Wimbach</a></li>
+<li><a href="/wiki/Winnerath" title="Winnerath">Winnerath</a></li>
+<li><a href="/wiki/Wirft" title="Wirft">Wirft</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px">
+<div>
+<div class="floatright"><a href="/wiki/File:DEU_Kreis_Ahrweiler_COA.svg" class="image" title="Coat of arms"><img alt="Coat of arms" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/DEU_Kreis_Ahrweiler_COA.svg/40px-DEU_Kreis_Ahrweiler_COA.svg.png" width="40" height="44" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/DEU_Kreis_Ahrweiler_COA.svg/60px-DEU_Kreis_Ahrweiler_COA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/DEU_Kreis_Ahrweiler_COA.svg/80px-DEU_Kreis_Ahrweiler_COA.svg.png 2x" data-file-width="512" data-file-height="564" /></a></div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/containsVIAFID/240027808">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/240027808">240027808</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4294943-9">4294943-9</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1265
+Cached time: 20170909083804
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.552 seconds
+Real time usage: 0.699 seconds
+Preprocessor visited node count: 6520/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 74125/2097152 bytes
+Template argument size: 20809/2097152 bytes
+Highest expansion depth: 26/40
+Expensive parser function count: 12/500
+Lua time usage: 0.144/10.000 seconds
+Lua memory usage: 4.9 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  633.191      1 -total
+ 68.07%  431.021      1 Template:Infobox_German_location
+ 65.36%  413.855      1 Template:Infobox_settlement
+ 57.89%  366.552      1 Template:Infobox
+ 20.71%  131.120      7 Template:Population_Germany
+ 15.51%   98.182      7 Template:Metadata_Population_DE-RP
+ 13.75%   87.088      1 Template:Infobox_former_country
+ 10.65%   67.453      1 Template:Imagemap_Germany_district_AW
+  6.19%   39.207      1 Template:Cite_web
+  4.73%   29.920     12 Template:Str_left
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2212416-0!canonical and timestamp 20170909083804 and revision id 760818320
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Nürburg&amp;oldid=760818320">https://en.wikipedia.org/w/index.php?title=Nürburg&amp;oldid=760818320</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Municipalities_in_Rhineland-Palatinate" title="Category:Municipalities in Rhineland-Palatinate">Municipalities in Rhineland-Palatinate</a></li><li><a href="/wiki/Category:Former_principalities" title="Category:Former principalities">Former principalities</a></li><li><a href="/wiki/Category:Former_countries_in_Europe" title="Category:Former countries in Europe">Former countries in Europe</a></li><li><a href="/wiki/Category:States_of_the_Holy_Roman_Empire" title="Category:States of the Holy Roman Empire">States of the Holy Roman Empire</a></li><li><a href="/wiki/Category:States_and_territories_established_in_1144" title="Category:States and territories established in 1144">States and territories established in 1144</a></li><li><a href="/wiki/Category:States_and_territories_disestablished_in_1225" title="Category:States and territories disestablished in 1225">States and territories disestablished in 1225</a></li><li><a href="/wiki/Category:Ahrweiler_(district)" title="Category:Ahrweiler (district)">Ahrweiler (district)</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Pages_using_infobox_former_country_with_unknown_parameters" title="Category:Pages using infobox former country with unknown parameters">Pages using infobox former country with unknown parameters</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=N%C3%BCrburg" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=N%C3%BCrburg" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/N%C3%BCrburg" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:N%C3%BCrburg" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/N%C3%BCrburg">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=N%C3%BCrburg&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=N%C3%BCrburg&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/N%C3%BCrburg" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/N%C3%BCrburg" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=N%C3%BCrburg&amp;oldid=760818320" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=N%C3%BCrburg&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q628095" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=N%C3%BCrburg&amp;id=760818320" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=N%C3%BCrburg">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=N%C3%BCrburg&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DN%25C3%25BCrburg%26returnto%3DN%25C3%25BCrburg%26oldid%3D760818320%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=N%C3%BCrburg&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:N%C3%BCrburg" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://en.wikivoyage.org/wiki/N%C3%BCrburg" hreflang="en">Wikivoyage</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/N%C3%BCrburg" title="Nürburg – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/N%C3%BCrburg_(kapital_sa_munisipyo)" title="Nürburg (kapital sa munisipyo) – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/N%C3%BCrburg_(Gemeinde)" title="Nürburg (Gemeinde) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/N%C3%BCrburg" title="Nürburg – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/N%C3%BCrburg_(komunumo)" title="Nürburg (komunumo) – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/N%C3%BCrburg" title="Nürburg – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%86%D9%88%D8%B1%D8%A8%D9%88%D8%B1%DA%AF" title="نوربورگ – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/N%C3%BCrburg" title="Nürburg – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/N%C3%BCrburg" title="Nürburg – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/N%C3%BCrburg" title="Nürburg – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/N%C3%BCrburg_(Gemeinde)" title="Nürburg (Gemeinde) – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/N%C3%BCrburg" title="Nürburg – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/N%C3%BCrburg_(gemeente)" title="Nürburg (gemeente) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%AB%E3%83%96%E3%83%AB%E3%82%AF" title="ニュルブルク – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/N%C3%BCrburg_(Gemeinde)" title="Nürburg (Gemeinde) – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/N%C3%BCrburg_(gmina)" title="Nürburg (gmina) – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/N%C3%BCrburg" title="Nürburg – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/N%C3%BCrburg_(Gemeinde)" title="Nürburg (Gemeinde) – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9D%D1%8E%D1%80%D0%B1%D1%83%D1%80%D0%B3" title="Нюрбург – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9D%D0%B8%D1%80%D0%B1%D1%83%D1%80%D0%B3_(%D0%BE%D0%BF%D1%88%D1%82%D0%B8%D0%BD%D0%B0)" title="Нирбург (општина) – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/N%C3%BCrburg" title="Nürburg – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/N%C3%BCrburg" title="Nürburg – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/N%C3%BCrburg" title="Nürburg – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9D%D1%8E%D1%80%D0%B1%D1%83%D1%80%D0%B3" title="Нюрбург – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/N%C3%BCrburg" title="Nürburg – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/N%C3%BCrburg" title="Nürburg – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/N%C3%BCrburg" title="Nürburg – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%B0%94%E5%A0%A1" title="尼尔堡 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q628095#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 19 January 2017, at 07:10.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=N%C3%BCrburg&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.552","walltime":"0.699","ppvisitednodes":{"value":6520,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":74125,"limit":2097152},"templateargumentsize":{"value":20809,"limit":2097152},"expansiondepth":{"value":26,"limit":40},"expensivefunctioncount":{"value":12,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  633.191      1 -total"," 68.07%  431.021      1 Template:Infobox_German_location"," 65.36%  413.855      1 Template:Infobox_settlement"," 57.89%  366.552      1 Template:Infobox"," 20.71%  131.120      7 Template:Population_Germany"," 15.51%   98.182      7 Template:Metadata_Population_DE-RP"," 13.75%   87.088      1 Template:Infobox_former_country"," 10.65%   67.453      1 Template:Imagemap_Germany_district_AW","  6.19%   39.207      1 Template:Cite_web","  4.73%   29.920     12 Template:Str_left"]},"scribunto":{"limitreport-timeusage":{"value":"0.144","limit":"10.000"},"limitreport-memusage":{"value":5140788,"limit":52428800}},"cachereport":{"origin":"mw1265","timestamp":"20170909083804","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":71,"wgHostname":"mw1210"});});</script>
+	</body>
+</html>

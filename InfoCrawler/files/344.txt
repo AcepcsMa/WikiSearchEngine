@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>East Francia - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"East_Francia","wgTitle":"East Francia","wgCurRevisionId":798331140,"wgRevisionId":798331140,"wgArticleId":1722738,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Former countries in Europe","10th century in the Holy Roman Empire","Medieval Austria","States and territories established in 843","Medieval Switzerland","East Francia"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"East_Francia","wgRelevantArticleId":1722738,"wgRequestId":"Wcnm2gpAMFYAABO3b7sAAAAB","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"East_Franks","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/East_Francia","wgWikibaseItemId":"Q153080","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/East_Francia_843.svg/1200px-East_Francia_843.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/East_Francia"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=East_Francia&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=East_Francia&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/East_Francia"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-East_Francia rootpage-East_Francia skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">East Francia</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=East_Franks&amp;redirect=no" class="mw-redirect" title="East Franks">East Franks</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:East_Francia_843.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/East_Francia_843.svg/220px-East_Francia_843.svg.png" width="220" height="167" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/East_Francia_843.svg/330px-East_Francia_843.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/East_Francia_843.svg/440px-East_Francia_843.svg.png 2x" data-file-width="500" data-file-height="380" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:East_Francia_843.svg" class="internal" title="Enlarge"></a></div>
+East Francia and its vassal territories after the Treaty of Verdun of 843.</div>
+</div>
+</div>
+<table class="vertical-navbox vcard plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em">
+<div style="margin: -0.2em 0; font-size:65%; font-weight:normal;">Part of <a href="/wiki/Category:History_of_Germany" title="Category:History of Germany"><b>a series</b></a> on the</div>
+</th>
+</tr>
+<tr>
+<th class="vcard navbox-title" style="background: none; font-size: 145%;padding: 0.15em 0.1em;line-height: 1.2em;"><a href="/wiki/History_of_Germany" title="History of Germany">History of <span class="fn org label">Germany</span></a></th>
+</tr>
+<tr>
+<td style="padding: 0.2em; border-bottom: 1px solid #ccc;"><a href="/wiki/File:Coat_of_arms_of_Germany.svg" class="image" title="Coat of arms of Germany"><img alt="Coat of arms of Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Coat_of_arms_of_Germany.svg/90px-Coat_of_arms_of_Germany.svg.png" width="90" height="117" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Coat_of_arms_of_Germany.svg/135px-Coat_of_arms_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Coat_of_arms_of_Germany.svg/180px-Coat_of_arms_of_Germany.svg.png 2x" data-file-width="500" data-file-height="650" /></a></td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background: #eee">Early history</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Germanic_peoples" title="Germanic peoples">Germanic peoples</a></li>
+<li><a href="/wiki/Migration_Period" title="Migration Period">Migration Period</a></li>
+<li><a href="/wiki/Francia" title="Francia">Frankish Empire</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background: #eee">Medieval Germany</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a class="mw-selflink selflink">East Francia</a></li>
+<li><a href="/wiki/Kingdom_of_Germany" title="Kingdom of Germany">Kingdom of Germany</a></li>
+<li><a href="/wiki/Holy_Roman_Empire" title="Holy Roman Empire">Holy Roman Empire</a></li>
+<li><a href="/wiki/Ostsiedlung" title="Ostsiedlung">Eastward settlement</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background: #eee"><a href="/wiki/Germany_in_the_early_modern_period" title="Germany in the early modern period">Early Modern period</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Kleinstaaterei" title="Kleinstaaterei">Sectionalism</a></li>
+<li><a href="/wiki/18th-century_history_of_Germany" title="18th-century history of Germany">18th century</a></li>
+<li><a href="/wiki/Kingdom_of_Prussia" title="Kingdom of Prussia">Kingdom of Prussia</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background: #eee"><a href="/wiki/Unification_of_Germany" title="Unification of Germany">Unification</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Confederation_of_the_Rhine" title="Confederation of the Rhine">Confederation of the Rhine</a></li>
+<li>
+<div class="hlist hlist-separated">
+<ul>
+<li><a href="/wiki/German_Confederation" title="German Confederation">German Confederation</a></li>
+<li><i><a href="/wiki/Zollverein" title="Zollverein">Zollverein</a></i></li>
+</ul>
+</div>
+</li>
+<li><a href="/wiki/Revolutions_of_1848_in_the_German_states" class="mw-redirect" title="Revolutions of 1848 in the German states">German revolutions of 1848</a></li>
+<li><a href="/wiki/Frankfurt_Constitution" title="Frankfurt Constitution">German Empire (1849)</a></li>
+<li><a href="/wiki/North_German_Confederation" title="North German Confederation">North German Confederation</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background: #eee"><a href="/wiki/German_Reich" title="German Reich">German <i>Reich</i></a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/German_Empire" title="German Empire">German Empire</a></li>
+</ul>
+<hr />
+<ul>
+<li><a href="/wiki/History_of_Germany_during_World_War_I" title="History of Germany during World War I">World War I</a></li>
+</ul>
+<hr />
+<ul>
+<li><a href="/wiki/Weimar_Republic" title="Weimar Republic">Weimar Republic</a></li>
+</ul>
+<div style="padding:0.1em 0;line-height:1.2em;line-height:1.1em;">
+<div class="hlist hlist-separated">
+<ul>
+<li><span style="font-size:90%;"><a href="/wiki/Alsace-Lorraine" title="Alsace-Lorraine">Alsace-Lorraine</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/Territory_of_the_Saar_Basin" title="Territory of the Saar Basin">Saar</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/Free_City_of_Danzig" title="Free City of Danzig">Danzig</a></span></li>
+<li><span style="font-size:90%;"><br />
+<a href="/wiki/Klaip%C4%97da_Region" title="Klaipėda Region">Memel</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/Republic_of_German-Austria" title="Republic of German-Austria">Austria</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/Sudetenland" title="Sudetenland">Sudetenland</a></span></li>
+</ul>
+</div>
+</div>
+<hr />
+<ul>
+<li><a href="/wiki/Nazi_Germany" title="Nazi Germany">Nazi Germany</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background: #eee"><a href="/wiki/History_of_Germany_(1945%E2%80%9390)" title="History of Germany (1945–90)">Cold War era</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li>
+<div class="hlist hlist-separated">
+<ul>
+<li><a href="/wiki/Allied-occupied_Germany" title="Allied-occupied Germany">Occupation</a></li>
+<li><i><a href="/wiki/Former_eastern_territories_of_Germany" title="Former eastern territories of Germany">Ostgebiete</a></i></li>
+</ul>
+</div>
+</li>
+<li><a href="/wiki/Flight_and_expulsion_of_Germans_(1944%E2%80%9350)" title="Flight and expulsion of Germans (1944–50)">Expulsion of Germans</a></li>
+<li>
+<div class="hlist hlist-separated">
+<ul>
+<li><a href="/wiki/West_Germany" title="West Germany">West Germany</a></li>
+<li><a href="/wiki/East_Germany" title="East Germany">East Germany</a></li>
+<li><a href="/wiki/Saar_Protectorate" title="Saar Protectorate">Saar</a></li>
+</ul>
+</div>
+</li>
+<li><a href="/wiki/German_reunification" title="German reunification">German reunification</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background: #eee">Contemporary</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/New_states_of_Germany" title="New states of Germany">New federal states</a></li>
+<li><a href="/wiki/History_of_Germany_since_1990" title="History of Germany since 1990">Reunified Germany</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background: #eee">By topic</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Timeline_of_German_history" title="Timeline of German history">Timeline</a></li>
+<li><a href="/wiki/Economic_history_of_Germany" title="Economic history of Germany">Economic history</a></li>
+<li><a href="/wiki/Military_history_of_Germany" title="Military history of Germany">Military history</a></li>
+<li><a href="/wiki/Territorial_evolution_of_Germany" title="Territorial evolution of Germany">Territorial evolution</a></li>
+<li><a href="/wiki/History_of_Berlin" title="History of Berlin">Berlin</a></li>
+<li><a href="/wiki/History_of_German_women" title="History of German women">Women's history</a></li>
+<li><a href="/wiki/Names_of_Germany" title="Names of Germany">Names of Germany</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;"><a href="/wiki/File:Flag_of_Germany.svg" class="image"><img alt="Flag of Germany.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/16px-Flag_of_Germany.svg.png" width="16" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/24px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/32px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a> <a href="/wiki/Portal:Germany" title="Portal:Germany">Germany portal</a></td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:History_of_Germany" title="Template:History of Germany"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:History_of_Germany" title="Template talk:History of Germany"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:History_of_Germany&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p><b>East Francia</b> (<a href="/wiki/Medieval_Latin" title="Medieval Latin">Latin</a>: <i>Francia orientalis</i>) or the <b>Kingdom of the East Franks</b> (<i>regnum Francorum orientalium</i>) was a successor state of <a href="/wiki/Charlemagne" title="Charlemagne">Charlemagne</a>'s <a href="/wiki/Carolingian_Empire" title="Carolingian Empire">empire</a> and precursor of the <a href="/wiki/Holy_Roman_Empire" title="Holy Roman Empire">Holy Roman Empire</a>. Until 911 it was ruled by the <a href="/wiki/Carolingian_dynasty" title="Carolingian dynasty">Carolingian dynasty</a>. It was created after the 840-43 civil war between Charlemagne's grandchildren which ended with the <a href="/wiki/Treaty_of_Verdun" title="Treaty of Verdun">Treaty of Verdun</a> which divided the former empire into three kingdoms.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> By the middle of the 10th century, the kingdom had become usually referred to as <a href="/wiki/Kingdom_of_Germany" title="Kingdom of Germany">Kingdom of Germany</a> or the Holy Roman Empire, therefore making it the earliest stage in the development of the modern German state.</p>
+<p>The east–west division, enforced by the German-Latin language split, "gradually hardened into the establishment of separate kingdoms",<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> with East Francia becoming the <a href="/wiki/Kingdom_of_Germany" title="Kingdom of Germany">Kingdom of Germany</a> and West Francia the <a href="/wiki/Kingdom_of_France" title="Kingdom of France">Kingdom of France</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Terminology"><span class="tocnumber">2</span> <span class="toctext">Terminology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Kingship"><span class="tocnumber">3</span> <span class="toctext">Kingship</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Church"><span class="tocnumber">4</span> <span class="toctext">Church</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#List_of_kings"><span class="tocnumber">5</span> <span class="toctext">List of kings</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes"><span class="tocnumber">7</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=East_Francia&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Partage_de_l%27Empire_carolingien_au_Trait%C3%A9_de_Verdun_en_843.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Partage_de_l%27Empire_carolingien_au_Trait%C3%A9_de_Verdun_en_843.JPG/220px-Partage_de_l%27Empire_carolingien_au_Trait%C3%A9_de_Verdun_en_843.JPG" width="220" height="202" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Partage_de_l%27Empire_carolingien_au_Trait%C3%A9_de_Verdun_en_843.JPG/330px-Partage_de_l%27Empire_carolingien_au_Trait%C3%A9_de_Verdun_en_843.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Partage_de_l%27Empire_carolingien_au_Trait%C3%A9_de_Verdun_en_843.JPG/440px-Partage_de_l%27Empire_carolingien_au_Trait%C3%A9_de_Verdun_en_843.JPG 2x" data-file-width="3597" data-file-height="3308" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Partage_de_l%27Empire_carolingien_au_Trait%C3%A9_de_Verdun_en_843.JPG" class="internal" title="Enlarge"></a></div>
+The partition of the Carolingian Empire by the Treaty of Verdun in 843. From Histoire Et Géographie - Atlas Général Vidal-Lablache, 1898.</div>
+</div>
+</div>
+<p>In August 843, after three years of civil war following the death of emperor <a href="/wiki/Louis_the_Pious" title="Louis the Pious">Louis the Pious</a> on 20 June 840, the <a href="/wiki/Treaty_of_Verdun" title="Treaty of Verdun">Treaty of Verdun</a> was signed by his three sons and heirs. The division of lands was largely based on the Meuse, Scheldt, Saone and Rhone rivers. While the eldest son <a href="/wiki/Lothair_I" title="Lothair I">Lothair I</a> kept the imperial title and the kingdom of <a href="/wiki/Middle_Francia" title="Middle Francia">Middle Francia</a>, <a href="/wiki/Charles_the_Bald" title="Charles the Bald">Charles the Bald</a> received the <a href="/wiki/West_Francia" title="West Francia">West Francia</a> and <a href="/wiki/Louis_the_German" title="Louis the German">Louis the German</a> received the eastern portion of mostly Germanic-speaking lands of <a href="/wiki/Duchy_of_Saxony" title="Duchy of Saxony">Duchy of Saxony</a>, <a href="/wiki/Austrasia" title="Austrasia">Austrasia</a>, <a href="/wiki/Alamania" title="Alamania">Alamania</a>, <a href="/wiki/Duchy_of_Bavaria" title="Duchy of Bavaria">Duchy of Bavaria</a>, and <a href="/wiki/March_of_Carinthia" title="March of Carinthia">March of Carinthia</a>.</p>
+<p>The contemporary East Frankish <i><a href="/wiki/Annales_Fuldenses" title="Annales Fuldenses">Annales Fuldenses</a></i> describes the kingdom being "divided in three" and Louis "acceding to the eastern part".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> The West Frankish <i><a href="/wiki/Annales_Bertiniani" title="Annales Bertiniani">Annales Bertiniani</a></i> describe the extent of Louis's lands: "at the assigning of portions, Louis obtained all the land beyond the Rhine river, but on this side of the Rhine also the cities of Speyer, Worms and Mainz with their counties".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> The kingdom of <a href="/wiki/West_Francia" title="West Francia">West Francia</a> went to Louis's younger half-brother <a href="/wiki/Charles_the_Bald" title="Charles the Bald">Charles the Bald</a> and between their realms a kingdom of <a href="/wiki/Middle_Francia" title="Middle Francia">Middle Francia</a>, incorporating <a href="/wiki/Regnum_Italicum" class="mw-redirect" title="Regnum Italicum">Italy</a>, was given to their elder brother, the Emperor <a href="/wiki/Lothair_I" title="Lothair I">Lothair I</a>.</p>
+<p>While West and Middle Francia contained "the traditional Frankish 'heartlands'", the East consisted mostly of lands only annexed to the Frankish empire in the eighth century.<sup id="cite_ref-Goldberg_1999.2C_41_7-0" class="reference"><a href="#cite_note-Goldberg_1999.2C_41-7">[7]</a></sup> These included the duchies of <a href="/wiki/Duchy_of_Alemannia" class="mw-redirect" title="Duchy of Alemannia">Alemannia</a>, <a href="/wiki/Duchy_of_Bavaria" title="Duchy of Bavaria">Bavaria</a>, <a href="/wiki/Duchy_of_Saxony" title="Duchy of Saxony">Saxony</a> and <a href="/wiki/Duchy_of_Thuringia" title="Duchy of Thuringia">Thuringia</a>, as well as the northern and eastern marches with the Danes and Slavs. The contemporary chronicler <a href="/wiki/Regino_of_Pr%C3%BCm" title="Regino of Prüm">Regino of Prüm</a> wrote that the "different people" (<i>diversae nationes populorum</i>) of East Francia, mostly Germanic- and Slavic-speaking, could be "distinguished from each other by race, customs, language and laws" (<i>genere moribus lingua legibus</i>).<sup id="cite_ref-Goldberg_1999.2C_41_7-1" class="reference"><a href="#cite_note-Goldberg_1999.2C_41-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<p>In 869 <a href="/wiki/Lotharingia" title="Lotharingia">Lotharingia</a> was divided between West and East Francia under the <a href="/wiki/Treaty_of_Meersen" class="mw-redirect" title="Treaty of Meersen">Treaty of Meersen</a>. The short lived Middle Francia turned out to be the theatre of Franco-German wars up until the 20th century.</p>
+<p>All the Frankish lands were briefly reunited by <a href="/wiki/Charles_the_Fat" title="Charles the Fat">Charles the Fat</a>, but in 888 he was deposed by nobles and in East Francia <a href="/wiki/Arnulf_of_Carinthia" title="Arnulf of Carinthia">Arnulf of Carinthia</a> was elected king.</p>
+<p>The increasing weakness of royal power in East Francia meant that dukes of Bavaria, Swabia, Franconia, Saxony and Lotharingia from appointed nobles turned into hereditary rulers of their territories. Kings increasingly had to deal with regional rebellions.</p>
+<p>In 911 Saxon, Franconian, Bavarian and Swabian nobles no longer followed the tradition of electing someone from Carolingian dynasty as a king to rule over them and on November 10, 911 elected one of their own as the new king. Because <a href="/wiki/Conrad_I_of_Germany" title="Conrad I of Germany">Conrad I</a> was one of the dukes, he found it very hard to establish his authority over them. Duke <a href="/wiki/Henry_the_Fowler" title="Henry the Fowler">Henry of Saxony</a> was in rebellion against Conrad I until 915 and struggle against <a href="/wiki/Arnulf,_Duke_of_Bavaria" title="Arnulf, Duke of Bavaria">Arnulf, Duke of Bavaria</a> cost Conrad I his life. On his deathbed Conrad I chose Henry of Saxony as the most capable successor. This kingship changed from Franks to Saxons, who had suffered greatly during the conquests of Charlemagne. Henry, who was elected to kingship by only Saxons and Franconians at <a href="/wiki/Fritzlar" title="Fritzlar">Fritzlar</a>, had to subdue other dukes and concentrated on creating a state apparatus which was fully utilized by his son and successor <a href="/wiki/Otto_I" class="mw-redirect" title="Otto I">Otto I</a>. By his death in July 936 Henry had prevented collapse of royal power as was happening in <a href="/wiki/West_Francia" title="West Francia">West Francia</a> and left a much stronger kingdom to his successor <a href="/wiki/Otto_I" class="mw-redirect" title="Otto I">Otto I</a>. After Otto I was crowned as the Emperor in Rome in 962 the era of the Holy Roman Empire began.</p>
+<h2><span class="mw-headline" id="Terminology">Terminology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=East_Francia&amp;action=edit&amp;section=2" title="Edit section: Terminology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The term <i>orientalis Francia</i> originally referred to <a href="/wiki/Franconia" title="Franconia">Franconia</a> and <i>orientales Franci</i> to its inhabitants, the ethnic <a href="/wiki/Franks" title="Franks">Franks</a> living east of the Rhine. The use of the term in a broader sense, to refer to the eastern kingdom, was an innovation of Louis the German's court. Since eastern Francia could be identified with old <a href="/wiki/Austrasia" title="Austrasia">Austrasia</a>, the Frankish heartland, Louis's choice of terminology hints at his ambitions.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Under his grandson, <a href="/wiki/Arnulf_of_Carinthia" title="Arnulf of Carinthia">Arnulf</a>, the terminology was largely dropped and the kingdom, when it was referred to by name, was simply <i>Francia</i>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<p>When it was necessary, as in the <a href="/wiki/Treaty_of_Bonn" title="Treaty of Bonn">Treaty of Bonn</a> (921) with the West Franks, the "eastern" qualified appeared. <a href="/wiki/Henry_I_of_Germany" class="mw-redirect" title="Henry I of Germany">Henry I</a> refers to himself as <i>rex Francorum orientalium</i>, "king of the East Franks", in the treaty.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> By the 12th century, the historian <a href="/wiki/Otto_of_Freising" title="Otto of Freising">Otto of Freising</a>, in using the Carolingian terminology had to explain that the "eastern kingdom of the Franks" (<i>orientale Francorum regnum</i>) was "now called the kingdom of the Germans" (<i>regnum Teutonicorum</i>).<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<h2><span class="mw-headline" id="Kingship">Kingship</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=East_Francia&amp;action=edit&amp;section=3" title="Edit section: Kingship">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The regalia of the Carolingian empire had been divided by Louis the Pious on his deathbed between his two faithful sons, Charles the Bald and Lothair. Louis the German, then in rebellion, received nothing of the crown jewels or liturgical books associated with Carolingian kingship. Thus the symbols and rituals of East Frankish kingship were created from scratch.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+<p>From an early date the East Frankish kingdom had a more formalised notion of royal election than West Francia. Around 900, a liturgy (<i>ordo</i>) for the coronation of a king, called the early German <i>ordo</i>, was written for a private audience. It required the coronator to ask the "designated prince" (<i>princeps designatus</i>) whether he was willing to defend the church and the people and then to turn and ask the people whether they were willing to be subject to the prince and obey his laws. The latter then shouted, "<i>Fiat</i>, <i>fiat</i>!" (Let it be done!), an act that later became known as "Recognition". This is the earliest known coronation <i>ordo</i> with a Recognition in it, and it was subsequently incorporated in the influential <a href="/wiki/Pontificale_Romano-Germanicum" title="Pontificale Romano-Germanicum">Pontificale Romano-Germanicum</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p>
+<p>In June 888, King <a href="/wiki/Arnulf_of_Carinthia" title="Arnulf of Carinthia">Arnulf</a> convened a council at <a href="/wiki/Mainz" title="Mainz">Mainz</a>. In attendance were the three archbishops of the East Frankish kingdom—<a href="/wiki/Wilbert_of_Cologne" class="mw-redirect" title="Wilbert of Cologne">Wilbert of Cologne</a>, <a href="/wiki/Liutbert_of_Mainz" class="mw-redirect" title="Liutbert of Mainz">Liutbert of Mainz</a> and <a href="/wiki/Ratbod_of_Trier" class="mw-redirect" title="Ratbod of Trier">Ratbod of Trier</a>—and the West Frankish archbishops of Reims (<a href="/wiki/Fulk_(archbishop_of_Reims)" title="Fulk (archbishop of Reims)">Fulk</a>) and Rouen (John I) along with the bishops of <a href="/wiki/Roman_Catholic_Diocese_of_Beauvais" title="Roman Catholic Diocese of Beauvais">Beauvais</a> and <a href="/wiki/Ancient_Diocese_of_Noyon" title="Ancient Diocese of Noyon">Noyon</a>. According to <a href="/wiki/Walter_Ullmann" title="Walter Ullmann">Walter Ullmann</a>, the presence of the West Franks was on account of the "barren ecclesiastical thought" of the East, and the council proceeded to adopt West Frankish ideas of royal sacrality and <a href="/wiki/Anointing" title="Anointing">anointing</a>. It was "the first phase in the process of assimilation of the two halves of the Carolingian inheritance".<sup id="cite_ref-Ullmann_1969.2C_124.E2.80.9327_15-0" class="reference"><a href="#cite_note-Ullmann_1969.2C_124.E2.80.9327-15">[15]</a></sup> In another church council at <a href="/wiki/Tribur" class="mw-redirect" title="Tribur">Tribur</a> in 895, the prelates declared that Arnulf was chosen by God and not by men and Arnulf in turn swore to defend the church and its privileges from all its enemies. When Arnulf died in 899, his minor son, <a href="/wiki/Louis_the_Child" title="Louis the Child">Louis IV</a>, was crowned, but not anointed, and placed under the tutelage of Archbishop <a href="/wiki/Hatto_I_(archbishop_of_Mainz)" class="mw-redirect" title="Hatto I (archbishop of Mainz)">Hatto I of Mainz</a>. Louis's coronation was the first in German history. When Louis died in late September 911, Duke <a href="/wiki/Conrad_I_of_Germany" title="Conrad I of Germany">Conrad of Franconia</a> was elected to replace him on 10 November and he became the first German king to receive unction.<sup id="cite_ref-Ullmann_1969.2C_124.E2.80.9327_15-1" class="reference"><a href="#cite_note-Ullmann_1969.2C_124.E2.80.9327-15">[15]</a></sup></p>
+<h2><span class="mw-headline" id="Church">Church</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=East_Francia&amp;action=edit&amp;section=4" title="Edit section: Church">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The three basic services monasteries could owe to the sovereign in the Frankish realms were military service, an annual donation of money or work, and prayers for the royal family and the kingdom. Collectively, these were known by the technical term <i>servitium regis</i> ("king's service").<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> According to the evidence of the <i><a href="/wiki/Notitia_de_servitio_monasteriorum" title="Notitia de servitio monasteriorum">Notitia de servitio monasteriorum</a></i>, list of monasteries and the services they owed drawn up around 817, the burden of military and monetary service was more severe in west Francia than in east Francia. Only four monasteries listed as "beyond the Rhine" (<i>ultra Rhenum</i>) owed these services: <a href="/wiki/Lorsch_Abbey" title="Lorsch Abbey">Lorsch</a>, <a href="/wiki/Schuttern_Abbey" title="Schuttern Abbey">Schuttern</a>, <a href="/wiki/Mondsee_Abbey" title="Mondsee Abbey">Mondsee</a> and <a href="/wiki/Tegernsee_Abbey" title="Tegernsee Abbey">Tegernsee</a>.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></p>
+<h2><span class="mw-headline" id="List_of_kings">List of kings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=East_Francia&amp;action=edit&amp;section=5" title="Edit section: List of kings">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Louis_the_German" title="Louis the German">Louis the German</a> (843-876)</li>
+<li><a href="/wiki/Louis_the_Younger" title="Louis the Younger">Louis the Younger</a> (876-882)</li>
+<li><a href="/wiki/Charles_the_Fat" title="Charles the Fat">Charles the Fat</a> (882-887)</li>
+<li><a href="/wiki/Arnulf_of_Carinthia" title="Arnulf of Carinthia">Arnulf of Carinthia</a> (887-899)</li>
+<li><a href="/wiki/Louis_the_Child" title="Louis the Child">Louis the Child</a> (900-911)</li>
+<li><a href="/wiki/Conrad_I_of_Germany" title="Conrad I of Germany">Conrad I of Germany</a> (911-918)</li>
+<li><a href="/wiki/Henry_the_Fowler" title="Henry the Fowler">Henry the Fowler</a> (919-936)</li>
+<li><a href="/wiki/Otto_I,_Holy_Roman_Emperor" title="Otto I, Holy Roman Emperor">Otto the Great</a> (936-973)</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=East_Francia&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_Frankish_kings" title="List of Frankish kings">List of Frankish kings</a></li>
+<li><a href="/wiki/List_of_German_monarchs" title="List of German monarchs">List of German monarchs</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=East_Francia&amp;action=edit&amp;section=7" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">The term "<a href="/wiki/Francia" title="Francia">Francia</a>", land of the Franks, was commonly used to refer to the empire. The ruling dynasty was <a href="/wiki/Franks" title="Franks">Frankish</a>, although its inhabitants were mostly non-Franks.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Bradbury 2007, 21: "... division which gradually hardened into the establishment of separate kingdoms, notably East and West Francia, or what we can begin to call Germany and France."</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Goldberg 2006, 6: "Louis [the German's] kingship laid the foundations for an east Frankish kingdom that, in the eleventh century, was transformed into the medieval kingdom of Germany".</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Reuter 2006, 270.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><i>AF</i> a. 843: <i>in tres partes diviso ... Hludowicus quidem orientalem partem accepti</i>.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><i>AB</i> a. 843: <i>ubi distributis portionibus, Hludowicus ultra Rhenum omnia, citra Rhenum vero Nemetum, Vangium et Moguntiam civitates pagosque sortitus est</i>. The cities are <a href="/wiki/Speyer" title="Speyer">Speyer</a>, <a href="/wiki/Worms_(Germany)" class="mw-redirect" title="Worms (Germany)">Worms</a> and <a href="/wiki/Mainz" title="Mainz">Mainz</a>.</span></li>
+<li id="cite_note-Goldberg_1999.2C_41-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Goldberg_1999.2C_41_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Goldberg_1999.2C_41_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Goldberg 1999, 41.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Reynolds 1997, 257.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Goldberg 2006, 73.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Müller-Mertens 1999, 237.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Müller-Mertens 1999, 241.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Scales 2012, 158.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Goldberg 1999, 43.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Ullmann 1969, 108–09.</span></li>
+<li id="cite_note-Ullmann_1969.2C_124.E2.80.9327-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-Ullmann_1969.2C_124.E2.80.9327_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Ullmann_1969.2C_124.E2.80.9327_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Ullmann 1969, 124–27.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Bernhardt 1993, 77.</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Bernhardt 1993, 112 and n. 116.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=East_Francia&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Bernard_Bachrach" title="Bernard Bachrach">Bernard Bachrach</a> and <a href="/wiki/David_Bachrach" title="David Bachrach">David Bachrach</a>. "The Saxon Military Revolution, 912–973: Myth and Reality". <i>Early Medieval Europe</i> <b>15</b> (2007), 186–222. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1111%2Fj.1468-0254.2007.00203.x">10.1111/j.1468-0254.2007.00203.x</a></li>
+<li>Bernard Bachrach and David Bachrach. "Early Saxon Frontier Warfare: Henry I, Otto I, and Carolingian Military Institutions". <i>Journal of Medieval Military History</i> <b>10</b> (2012), 17–60.</li>
+<li>David Bachrach. "Exercise of Royal Power in Early Medieval Europe: The Case of Otto the Great, 936–973". <i>Early Medieval Europe</i> <b>17</b> (2009), 389–419. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1111%2Fj.1468-0254.2009.00283.x">10.1111/j.1468-0254.2009.00283.x</a></li>
+<li>David Bachrach. "The Written Word in Carolingian-Style Fiscal Administration under King Henry I, 919–936". <i>German History</i> <b>28</b>:4 (2010), 399–423. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1093%2Fgerhis%2Fghq108">10.1093/gerhis/ghq108</a></li>
+<li>John W. Bernhardt. <i>Itinerant Kingship and Royal Monasteries in Early Medieval Germany, c. 936–1075</i>. Cambridge Studies in Medieval Life and Thought, 21. Cambridge: Cambridge University Press, 1993. <small><a href="/wiki/International_Standard_Book_Number_(identifier)" class="mw-redirect" title="International Standard Book Number (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0521394899" title="Special:BookSources/0521394899">0521394899</a></small> <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1017%2FCBO9780511562372">10.1017/CBO9780511562372</a></li>
+<li><a href="/wiki/Jim_Bradbury" title="Jim Bradbury">Jim Bradbury</a>. <i>The Capetians: Kings of France, 987–1328</i>. London: Hambledon Continuum, 2007.</li>
+<li>Eric J. Goldberg. "'More Devoted to the Equipment of Battle Than the Splendor of Banquets': Frontier Kingship, Military Ritual, and Early Knighthood at the Court of Louis the German". <i>Viator</i> <b>30</b> (1999), 41–78. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1484%2FJ.VIATOR.2.300829">10.1484/J.VIATOR.2.300829</a></li>
+<li>Eric J. Goldberg. <i>Struggle for Empire: Kingship and Conflict Under Louis the German, 817–876</i>. Ithaca and London: Cornell University Press, 2006.</li>
+<li>Eckhard Müller-Mertens. "The Ottonians as Kings and Emperors". Timothy Reuter, ed. <i>The New Cambridge Medieval History. Volume II: c.900–c.1024</i>. Cambridge: Cambridge University Press, 1999.</li>
+<li><a href="/wiki/Timothy_Reuter" title="Timothy Reuter">Timothy Reuter</a>. "The Medieval German <i>Sonderweg</i>? The Empire and its Rulers in the Highe Middle Ages". In <i>Kings nd Kingship in Medieval Europe</i>, ed. Anne J. Duggan (London: 1993), 179–211.</li>
+<li>Timothy Reuter. "The Ottonian and Carolingian Tradition". In <i>Medieval Polities and Modern Mentalities</i>, ed. <a href="/wiki/Janet_L._Nelson" class="mw-redirect" title="Janet L. Nelson">Janet L. Nelson</a> (Cambridge: Cambridge University Press, 2006), 268–83.</li>
+<li><a href="/wiki/Susan_Reynolds" title="Susan Reynolds">Susan Reynolds</a>. <i>Kingdoms and Communities in Western Europe, 900–1300</i>. Oxford: Clarendon, 1997.</li>
+<li>Len Scales. <i>The Shaping of German Identity: Authority and Crisis, 1245–1414</i>. Cambridge: Cambridge University Press, 2012.</li>
+<li><a href="/wiki/Walter_Ullmann" title="Walter Ullmann">Walter Ullmann</a>. <i>The Carolingian Renaissance and the Idea of Kingship</i>. London: Methuen, 1969.</li>
+<li>Karl Ferdinand Werner. "Les nations et le sentiment national dans l'Europe médiévale". <i>Revue Historique</i>, <b>244</b>:2 (1970), 285–304.</li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1254
+Cached time: 20170917044008
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.092 seconds
+Real time usage: 0.140 seconds
+Preprocessor visited node count: 957/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 25929/2097152 bytes
+Template argument size: 2941/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 0/500
+Lua time usage: 0.015/10.000 seconds
+Lua memory usage: 1.2 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   96.846      1 -total
+ 46.25%   44.790      1 Template:History_of_Germany
+ 44.39%   42.994      1 Template:Sidebar_with_collapsible_lists
+ 21.35%   20.678      1 Template:ISBN
+ 15.65%   15.156      1 Template:Reflist
+  9.74%    9.428      4 Template:Hlist
+  9.07%    8.784      1 Template:Catalog_lookup_link
+  6.67%    6.457      5 Template:Doi
+  5.74%    5.556      1 Template:Portal-inline
+  5.23%    5.064      1 Template:Error-small
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1722738-0!canonical and timestamp 20170917044008 and revision id 798331140
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=East_Francia&amp;oldid=798331140">https://en.wikipedia.org/w/index.php?title=East_Francia&amp;oldid=798331140</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Former_countries_in_Europe" title="Category:Former countries in Europe">Former countries in Europe</a></li><li><a href="/wiki/Category:10th_century_in_the_Holy_Roman_Empire" title="Category:10th century in the Holy Roman Empire">10th century in the Holy Roman Empire</a></li><li><a href="/wiki/Category:Medieval_Austria" title="Category:Medieval Austria">Medieval Austria</a></li><li><a href="/wiki/Category:States_and_territories_established_in_843" title="Category:States and territories established in 843">States and territories established in 843</a></li><li><a href="/wiki/Category:Medieval_Switzerland" title="Category:Medieval Switzerland">Medieval Switzerland</a></li><li><a href="/wiki/Category:East_Francia" title="Category:East Francia">East Francia</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=East+Francia" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=East+Francia" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/East_Francia" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:East_Francia" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/East_Francia">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=East_Francia&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=East_Francia&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/East_Francia" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/East_Francia" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=East_Francia&amp;oldid=798331140" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=East_Francia&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q153080" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=East_Francia&amp;id=798331140" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=East+Francia">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=East+Francia&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DEast%2BFrancia%26returnto%3DEast%2BFrancia%26oldid%3D798331140%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=East_Francia&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Ostfrankenreich" title="Ostfrankenreich – Alemannisch" lang="als" hreflang="als" class="interlanguage-link-target">Alemannisch</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D9%85%D9%84%D9%83%D8%A9_%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%AC%D8%A9_%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D9%88%D9%86" title="مملكة الفرنجة الشرقيون – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A3%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B5-%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D1%81%D0%BA%D0%B0%D0%B5_%D0%BA%D0%B0%D1%80%D0%B0%D0%BB%D0%B5%D1%9E%D1%81%D1%82%D0%B2%D0%B0" title="Усходне-Франкскае каралеўства – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%98%D0%B7%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D1%84%D1%80%D0%B0%D0%BD%D0%BA%D1%81%D0%BA%D0%BE_%D0%BA%D1%80%D0%B0%D0%BB%D1%81%D1%82%D0%B2%D0%BE" title="Източнофранкско кралство – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Frankia_ar_Reter" title="Frankia ar Reter – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Fran%C3%A7a_oriental" title="França oriental – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/V%C3%BDchodofransk%C3%A1_%C5%99%C3%AD%C5%A1e" title="Východofranská říše – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/%C3%98stfranken" title="Østfranken – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Ostfrankenreich" title="Ostfrankenreich – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Ida-Frangi_riik" title="Ida-Frangi riik – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%91%CE%BD%CE%B1%CF%84%CE%BF%CE%BB%CE%B9%CE%BA%CE%AE_%CE%A6%CF%81%CE%B1%CE%B3%CE%BA%CE%AF%CE%B1" title="Ανατολική Φραγκία – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Francia_Oriental" title="Francia Oriental – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Orientfranka_imperio" title="Orientfranka imperio – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Ekialdeko_Frantzia" title="Ekialdeko Frantzia – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D8%A7%D9%86%DA%A9_%D8%AE%D8%A7%D9%88%D8%B1%DB%8C" title="فرانک خاوری – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Francie_orientale" title="Francie orientale – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%8F%99%ED%94%84%EB%9E%91%ED%81%AC_%EC%99%95%EA%B5%AD" title="동프랑크 왕국 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Isto%C4%8Dna_Frana%C4%8Dka" title="Istočna Franačka – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Estala_Francia" title="Estala Francia – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Francia_Timur" title="Francia Timur – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Regnum_Teutonicorum" title="Regnum Teutonicorum – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A4%D7%A8%D7%A0%D7%A7%D7%99%D7%94_%D7%94%D7%9E%D7%96%D7%A8%D7%97%D7%99%D7%AA" title="פרנקיה המזרחית – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%90%E1%83%A6%E1%83%9B%E1%83%9D%E1%83%A1%E1%83%90%E1%83%95%E1%83%9A%E1%83%94%E1%83%97_%E1%83%A4%E1%83%A0%E1%83%90%E1%83%9C%E1%83%99%E1%83%97%E1%83%90_%E1%83%A1%E1%83%90%E1%83%9B%E1%83%94%E1%83%A4%E1%83%9D" title="აღმოსავლეთ ფრანკთა სამეფო – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Regnum_Francorum_orientalium" title="Regnum Francorum orientalium – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Ryt%C5%B3_Frank%C5%B3_karalyst%C4%97" title="Rytų Frankų karalystė – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Keleti_Frank_Kir%C3%A1lys%C3%A1g" title="Keleti Frank Királyság – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Oost-Frankische_Rijk" title="Oost-Frankische Rijk – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E6%9D%B1%E3%83%95%E3%83%A9%E3%83%B3%E3%82%AF%E7%8E%8B%E5%9B%BD" title="東フランク王国 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/%C3%98stfrankerriket" title="Østfrankerriket – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Austfrankarriket" title="Austfrankarriket – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Francia_Orientala" title="Francia Orientala – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Pa%C5%84stwo_wschodniofrankijskie" title="Państwo wschodniofrankijskie – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Fr%C3%A2ncia_Oriental" title="Frância Oriental – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Francia_R%C4%83s%C4%83ritean%C4%83" title="Francia Răsăriteană – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%BE-%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D1%81%D0%BA%D0%BE%D0%B5_%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D1%82%D0%B2%D0%BE" title="Восточно-Франкское королевство – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/East_Francia" title="East Francia – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/V%C3%BDchodofransk%C3%A1_r%C3%AD%C5%A1a" title="Východofranská ríša – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Vzhodnofrankovska_dr%C5%BEava" title="Vzhodnofrankovska država – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B0_%D0%A4%D1%80%D0%B0%D0%BD%D0%B0%D1%87%D0%BA%D0%B0" title="Источна Франачка – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Isto%C4%8Dna_Frana%C4%8Dka" title="Istočna Franačka – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/It%C3%A4-Francia" title="Itä-Francia – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/%C3%96stfrankiska_riket" title="Östfrankiska riket – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Silangang_Francia" title="Silangang Francia – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B9%81%E0%B8%9F%E0%B8%A3%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B8%95%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%81" title="อาณาจักรแฟรงก์ตะวันออก – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Do%C4%9Fu_Frank_Krall%C4%B1%C4%9F%C4%B1" title="Doğu Frank Krallığı – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D1%85%D1%96%D0%B4%D0%BD%D0%B5_%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D1%81%D1%8C%D0%BA%D0%B5_%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D1%96%D0%B2%D1%81%D1%82%D0%B2%D0%BE" title="Східне Франкське королівство – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/%C4%90%C3%B4ng_Frank" title="Đông Frank – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vls"><a href="https://vls.wikipedia.org/wiki/Oost-Franci%C3%AB" title="Oost-Francië – West Flemish" lang="vls" hreflang="vls" class="interlanguage-link-target">West-Vlams</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%9D%B1%E6%B3%95%E8%98%AD%E5%85%8B%E7%8E%8B%E5%9C%8B" title="東法蘭克王國 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q153080#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 1 September 2017, at 08:14.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=East_Francia&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.092","walltime":"0.140","ppvisitednodes":{"value":957,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":25929,"limit":2097152},"templateargumentsize":{"value":2941,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   96.846      1 -total"," 46.25%   44.790      1 Template:History_of_Germany"," 44.39%   42.994      1 Template:Sidebar_with_collapsible_lists"," 21.35%   20.678      1 Template:ISBN"," 15.65%   15.156      1 Template:Reflist","  9.74%    9.428      4 Template:Hlist","  9.07%    8.784      1 Template:Catalog_lookup_link","  6.67%    6.457      5 Template:Doi","  5.74%    5.556      1 Template:Portal-inline","  5.23%    5.064      1 Template:Error-small"]},"scribunto":{"limitreport-timeusage":{"value":"0.015","limit":"10.000"},"limitreport-memusage":{"value":1260536,"limit":52428800}},"cachereport":{"origin":"mw1254","timestamp":"20170917044008","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":64,"wgHostname":"mw1251"});});</script>
+	</body>
+</html>

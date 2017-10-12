@@ -1,0 +1,929 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Literary Hall - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Literary_Hall","wgTitle":"Literary Hall","wgCurRevisionId":802090151,"wgRevisionId":802090151,"wgArticleId":15577066,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Featured articles","Coordinates on Wikidata","Pages with login required references or sources","National Register of Historic Places in Hampshire County, West Virginia","Clubhouses on the National Register of Historic Places in West Virginia","Libraries on the National Register of Historic Places in West Virginia","Buildings and structures in Romney, West Virginia","Former library buildings in the United States","Former Masonic buildings in West Virginia","Museums in Hampshire County, West Virginia","Federal architecture in West Virginia","Greek Revival architecture in West Virginia","Victorian architecture in West Virginia","Library buildings completed in 1870","1870 establishments in West Virginia","Romney Literary Society","Hampshire County, West Virginia in the American Civil War"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Literary_Hall","wgRelevantArticleId":15577066,"wgRequestId":"Wcm7BQpAMF0AABi3oXsAAAAC","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":39.3423209,"lon":-78.7566839},"wgWikibaseItemId":"Q6647604","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Literary_Hall_Romney_WV_2013_07_14_03.jpg/1200px-Literary_Hall_Romney_WV_2013_07_14_03.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Literary_Hall"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Literary_Hall&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Literary_Hall&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Literary_Hall"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Literary_Hall rootpage-Literary_Hall skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-featured-star" class="mw-indicator"><a href="/wiki/Wikipedia:Featured_articles" title="This is a featured article. Click here for more information."><img alt="This is a featured article. Click here for more information." src="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/20px-Cscr-featured.svg.png" width="20" height="19" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/30px-Cscr-featured.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/40px-Cscr-featured.svg.png 2x" data-file-width="462" data-file-height="438" /></a></div>
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Literary Hall</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="width:22em;width:250px; border-spacing:1px;">
+<tr>
+<td colspan="2" style="text-align:center;padding:0; border:none;"></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div style="width:100%; font-size:105%; font-weight:bold; background: #A8EDEF; line-height:1.5">Literary Hall</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div style="width:100%; text-align:center; line-height:1.5; background: #A8EDEF;"><a href="/wiki/National_Register_of_Historic_Places" title="National Register of Historic Places">U.S. National Register of Historic Places</a></div>
+</td>
+</tr>
+<tr style="display:none">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Literary_Hall_Romney_WV_2013_07_14_03.jpg" class="image" title="The main façade of a two-story brick building"><img alt="The main façade of a two-story brick building" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Literary_Hall_Romney_WV_2013_07_14_03.jpg/200px-Literary_Hall_Romney_WV_2013_07_14_03.jpg" width="200" height="267" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Literary_Hall_Romney_WV_2013_07_14_03.jpg/300px-Literary_Hall_Romney_WV_2013_07_14_03.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Literary_Hall_Romney_WV_2013_07_14_03.jpg/400px-Literary_Hall_Romney_WV_2013_07_14_03.jpg 2x" data-file-width="2640" data-file-height="3520" /></a>
+<div style="font-size:95%;">Literary Hall, viewed from the south, facing West Main Street in Romney</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div class="switcher-container">
+<div class="center">
+<div style="width:235px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:235px;padding:0">
+<div style="position:relative;width:235px"><a href="/wiki/File:Shenandoah_Valley.svg" class="image" title="Literary Hall is located in Shenandoah Valley"><img alt="Literary Hall is located in Shenandoah Valley" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Shenandoah_Valley.svg/235px-Shenandoah_Valley.svg.png" width="235" height="217" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Shenandoah_Valley.svg/353px-Shenandoah_Valley.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Shenandoah_Valley.svg/470px-Shenandoah_Valley.svg.png 2x" data-file-width="716" data-file-height="662" /></a>
+<div style="position:absolute;top:13.582%;left:65.846%">
+<div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Literary Hall" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/7px-Red_pog.svg.png" title="Literary Hall" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/11px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/14px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:5px;text-align:left"><span style="padding:1px;float:left">Literary Hall</span></div>
+</div>
+</div>
+<span class="switcher-label" style="display:none">Show map of Shenandoah Valley</span></div>
+</div>
+</div>
+<div class="center">
+<div style="width:235px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:235px;padding:0">
+<div style="position:relative;width:235px"><a href="/wiki/File:USA_West_Virginia_location_map.svg" class="image" title="Literary Hall is located in West Virginia"><img alt="Literary Hall is located in West Virginia" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/USA_West_Virginia_location_map.svg/235px-USA_West_Virginia_location_map.svg.png" width="235" height="219" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/USA_West_Virginia_location_map.svg/353px-USA_West_Virginia_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/USA_West_Virginia_location_map.svg/470px-USA_West_Virginia_location_map.svg.png 2x" data-file-width="1201" data-file-height="1118" /></a>
+<div style="position:absolute;top:38.36%;left:76.289%">
+<div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Literary Hall" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/7px-Red_pog.svg.png" title="Literary Hall" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/11px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/14px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;right:5px;text-align:right"><span style="padding:1px;float:right">Literary Hall</span></div>
+</div>
+</div>
+<span class="switcher-label" style="display:none">Show map of West Virginia</span></div>
+</div>
+</div>
+<div class="center">
+<div style="width:235px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:235px;padding:0">
+<div style="position:relative;width:235px"><a href="/wiki/File:Usa_edcp_location_map.svg" class="image" title="Literary Hall is located in the US"><img alt="Literary Hall is located in the US" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Usa_edcp_location_map.svg/235px-Usa_edcp_location_map.svg.png" width="235" height="145" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Usa_edcp_location_map.svg/353px-Usa_edcp_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Usa_edcp_location_map.svg/470px-Usa_edcp_location_map.svg.png 2x" data-file-width="1181" data-file-height="731" /></a>
+<div style="position:absolute;top:42.851%;left:78.624%">
+<div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Literary Hall" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/7px-Red_pog.svg.png" title="Literary Hall" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/11px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/14px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;right:5px;text-align:right"><span style="padding:1px;float:right">Literary Hall</span></div>
+</div>
+</div>
+<span class="switcher-label" style="display:none">Show map of the US</span></div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">Location</th>
+<td style="border: 0;">West Main &amp;<br />
+North High Streets<br />
+<a href="/wiki/Romney,_West_Virginia" title="Romney, West Virginia">Romney, West Virginia</a>, United States</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">Coordinates</th>
+<td style="border: 0;"><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Literary_Hall&amp;params=39.3423209_N_-78.7566839_E_region:US-WV_type:landmark_source:GNIS"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">39°20′32″N</span> <span class="longitude">78°45′24″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">39.3423209°N 78.7566839°W</span><span style="display:none">﻿ / <span class="geo">39.3423209; -78.7566839</span></span></span></a></span><sup id="cite_ref-gnis_2-0" class="reference"><a href="#cite_note-gnis-2">[2]</a></sup><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Literary_Hall&amp;params=39.3423209_N_-78.7566839_E_region:US-WV_type:landmark_source:GNIS"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">39°20′32″N</span> <span class="longitude">78°45′24″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">39.3423209°N 78.7566839°W</span><span style="display:none">﻿ / <span class="geo">39.3423209; -78.7566839</span></span></span></a></span><sup id="cite_ref-gnis_2-0" class="reference"><a href="#cite_note-gnis-2">[2]</a></sup></span></span></td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">Area</th>
+<td style="border: 0;">Less than 1 acre (0.40&#160;ha)</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">Built</th>
+<td style="border: 0;">1869–70</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">Architectural&#160;style</th>
+<td style="border: 0;"><a href="/wiki/Federal_architecture" title="Federal architecture">Federal</a>, <a href="/wiki/Greek_Revival_architecture" title="Greek Revival architecture">Greek Revival</a>, <a href="/wiki/Victorian_architecture" title="Victorian architecture">Victorian</a></td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">NRHP&#160;reference&#160;#</th>
+<td style="border: 0;"><a rel="nofollow" class="external text" href="https://npgallery.nps.gov/AssetDetail/NRIS/79002577">79002577</a><sup id="cite_ref-nris_1-0" class="reference"><a href="#cite_note-nris-1">[1]</a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">Designated&#160;</th>
+<td style="border: 0;">May 29, 1979<sup id="cite_ref-WVSHPO1_3-0" class="reference"><a href="#cite_note-WVSHPO1-3">[3]</a></sup></td>
+</tr>
+</table>
+<p><b>Literary Hall</b> is a mid-19th-century brick <a href="/wiki/Library" title="Library">library</a>, building and museum located in <a href="/wiki/Romney,_West_Virginia" title="Romney, West Virginia">Romney</a>, a city in the U.S. state of <a href="/wiki/West_Virginia" title="West Virginia">West Virginia</a>. It is located at the intersection of North High Street (<a href="/wiki/West_Virginia_Route_28" title="West Virginia Route 28">West Virginia Route 28</a>) and West Main Street (<a href="/wiki/U.S._Route_50" title="U.S. Route 50">U.S. Route 50</a>). Literary Hall was constructed between 1869 and 1870 by the <a href="/wiki/Romney_Literary_Society" title="Romney Literary Society">Romney Literary Society</a>.</p>
+<p>Founded in 1819, the Romney Literary Society was the first <a href="/wiki/Literary_society" title="Literary society">literary organization</a> of its kind in the present-day state of <a href="/wiki/West_Virginia" title="West Virginia">West Virginia</a>, and one of the first in the United States. In 1846, the society constructed a building which housed the <a href="/wiki/Romney_Classical_Institute" title="Romney Classical Institute">Romney Classical Institute</a> and its library. The Romney Literary Society and the Romney Classical Institute both flourished and continued to grow in importance and influence until the onset of the <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a> in 1861.</p>
+<p>During the war, the contents of the society's library were plundered by <a href="/wiki/Union_Army" title="Union Army">Union Army</a> forces, and many of its 3,000 volumes were either scattered or destroyed. After a reorganization in 1869, the society commenced construction of the present Literary Hall in downtown Romney. It transferred ownership of its Romney Classical Institute campus to the <a href="/wiki/West_Virginia_Schools_for_the_Deaf_and_Blind" title="West Virginia Schools for the Deaf and Blind">West Virginia Schools for the Deaf and Blind</a> in 1870 and in that year completed Literary Hall, where the society reconstituted its library collection and revived its literary activities.</p>
+<p>The Romney Literary Society's last meeting was held at Literary Hall in 1886. From that point to 1973 the building was used as a meeting space by the Clinton Lodge of <a href="/wiki/Masonic_lodge" title="Masonic lodge">Ancient Free and Accepted Masons</a> and the <a href="/wiki/Order_of_the_Eastern_Star" title="Order of the Eastern Star">Order of the Eastern Star</a>. In 1973, the building was purchased by prominent Romney lawyer Ralph Haines, who used it as a law office and museum. From 1937 to the early 1940s the building also housed a community library. Literary Hall was listed on the <a href="/wiki/National_Register_of_Historic_Places" title="National Register of Historic Places">National Register of Historic Places</a> on May 29, 1979.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Geography_and_setting"><span class="tocnumber">1</span> <span class="toctext">Geography and setting</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Location"><span class="tocnumber">2.1</span> <span class="toctext">Location</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Romney_Literary_Society"><span class="tocnumber">2.2</span> <span class="toctext">Romney Literary Society</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Clinton_Lodge"><span class="tocnumber">2.3</span> <span class="toctext">Clinton Lodge</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Hampshire_County_Public_Library"><span class="tocnumber">2.4</span> <span class="toctext">Hampshire County Public Library</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Architecture"><span class="tocnumber">3</span> <span class="toctext">Architecture</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Bibliography"><span class="tocnumber">5</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Geography_and_setting">Geography and setting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Literary_Hall&amp;action=edit&amp;section=1" title="Edit section: Geography and setting">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Literary Hall is located in the center of downtown <a href="/wiki/Romney,_West_Virginia" title="Romney, West Virginia">Romney, West Virginia</a>, at the intersection of North High Street (<a href="/wiki/West_Virginia_Route_28" title="West Virginia Route 28">West Virginia Route 28</a>) and West Main Street (<a href="/wiki/U.S._Route_50" title="U.S. Route 50">U.S. Route 50</a>) on a city lot less than one acre (0.40&#160;ha) in size.<sup id="cite_ref-Pauley1_4-0" class="reference"><a href="#cite_note-Pauley1-4">[4]</a></sup><sup id="cite_ref-Pauley5_5-0" class="reference"><a href="#cite_note-Pauley5-5">[5]</a></sup><sup id="cite_ref-USGS1_6-0" class="reference"><a href="#cite_note-USGS1-6">[6]</a></sup> The <a href="/wiki/Hampshire_County_Courthouse_(West_Virginia)" title="Hampshire County Courthouse (West Virginia)">Hampshire County Courthouse</a> is immediately to its east across North High Street, and the Romney First United Methodist Church is situated immediately to the building's north.<sup id="cite_ref-USGS1_6-1" class="reference"><a href="#cite_note-USGS1-6">[6]</a></sup> The Old National Building is located to the immediate south of Literary Hall across West Main Street.<sup id="cite_ref-USGS1_6-2" class="reference"><a href="#cite_note-USGS1-6">[6]</a></sup> Literary Hall stands at an elevation of 820.3 feet (250.0&#160;m) above sea level.<sup id="cite_ref-USGS1_6-3" class="reference"><a href="#cite_note-USGS1-6">[6]</a></sup></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Literary_Hall&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Location">Location</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Literary_Hall&amp;action=edit&amp;section=3" title="Edit section: Location">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The land upon which Literary Hall was established was originally part of the <a href="/wiki/Northern_Neck_Proprietary" title="Northern Neck Proprietary">Northern Neck Proprietary</a>, a 5,000,000-acre (20,000&#160;km<sup>2</sup>) land grant that <a href="/wiki/Charles_II_of_England" title="Charles II of England">Charles II of England</a> awarded to seven of his supporters in the <a href="/wiki/Colony_of_Virginia" title="Colony of Virginia">Colony of Virginia</a> in 1649 and renewed by an official patent in 1688.<sup id="cite_ref-Munske5_7-0" class="reference"><a href="#cite_note-Munske5-7">[7]</a></sup><sup id="cite_ref-Coleman1_8-0" class="reference"><a href="#cite_note-Coleman1-8">[8]</a></sup><sup id="cite_ref-Rose_1_9-0" class="reference"><a href="#cite_note-Rose_1-9">[9]</a></sup> One of these seven supporters, <a href="/wiki/Thomas_Colepeper,_2nd_Baron_Colepeper" title="Thomas Colepeper, 2nd Baron Colepeper">Thomas Colepeper, 2nd Baron Colepeper</a>, acquired the entire area in 1681; his grandson, <a href="/wiki/Thomas_Fairfax,_6th_Lord_Fairfax_of_Cameron" title="Thomas Fairfax, 6th Lord Fairfax of Cameron">Thomas Fairfax, 6th Lord Fairfax of Cameron</a>, inherited it in 1719.<sup id="cite_ref-Munske5_7-1" class="reference"><a href="#cite_note-Munske5-7">[7]</a></sup><sup id="cite_ref-W.26MQ1_10-0" class="reference"><a href="#cite_note-W.26MQ1-10">[10]</a></sup><sup id="cite_ref-Rice1_11-0" class="reference"><a href="#cite_note-Rice1-11">[11]</a></sup></p>
+<p>Literary Hall was built upon a land lot designated "Lot 56" to the immediate west of the public square of Romney.<sup id="cite_ref-FWP3_12-0" class="reference"><a href="#cite_note-FWP3-12">[12]</a></sup> In 1790, the <a href="/wiki/Trustee" title="Trustee">trustees</a> of the Town of Romney commissioned John Mitchel to draft a <a href="/wiki/Cadastral_surveying" title="Cadastral surveying">cadastral survey map</a> of Romney.<sup id="cite_ref-FWP1_13-0" class="reference"><a href="#cite_note-FWP1-13">[13]</a></sup><sup id="cite_ref-FWP2_14-0" class="reference"><a href="#cite_note-FWP2-14">[14]</a></sup> Prior to this survey, Lord Fairfax had commissioned a similar cadastral survey of Romney sometime before the town's <a href="/wiki/Municipal_corporation" title="Municipal corporation">incorporation</a> on December 23, 1762.<sup id="cite_ref-FWP1_13-1" class="reference"><a href="#cite_note-FWP1-13">[13]</a></sup> On June 30, 1790, Mitchel submitted to the trustees a "Plan of the Town of Romney", which divided the town into 100 land lots of equal size, with four lots adjacent to the <a href="/wiki/Courthouse" title="Courthouse">courthouse</a> comprising the public square.<sup id="cite_ref-FWP2_14-1" class="reference"><a href="#cite_note-FWP2-14">[14]</a></sup></p>
+<h3><span class="mw-headline" id="Romney_Literary_Society">Romney Literary Society</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Literary_Hall&amp;action=edit&amp;section=4" title="Edit section: Romney Literary Society">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Romney_Literary_Society" title="Romney Literary Society">Romney Literary Society</a>, which built Literary Hall between 1869 and 1870, was organized by nine prominent men in Romney on January 30, 1819.<sup id="cite_ref-Maxwell1_15-0" class="reference"><a href="#cite_note-Maxwell1-15">[15]</a></sup><sup id="cite_ref-Brannon8_16-0" class="reference"><a href="#cite_note-Brannon8-16">[16]</a></sup><sup id="cite_ref-FWP7_17-0" class="reference"><a href="#cite_note-FWP7-17">[17]</a></sup> With its establishment in 1819, the Romney Literary Society became the first literary organization of its kind in the present-day state of <a href="/wiki/West_Virginia" title="West Virginia">West Virginia</a>, and one of the first in the United States.<sup id="cite_ref-Maxwell1_15-1" class="reference"><a href="#cite_note-Maxwell1-15">[15]</a></sup><sup id="cite_ref-FWP8_18-0" class="reference"><a href="#cite_note-FWP8-18">[18]</a></sup><sup id="cite_ref-Munske1_19-0" class="reference"><a href="#cite_note-Munske1-19">[19]</a></sup> On February 4, 1819, the constitution of the society was adopted, which provided that the organization should be known as the "<a href="/wiki/Polemic" title="Polemic">Polemic</a> Society of Romney".<sup id="cite_ref-Maxwell1_15-2" class="reference"><a href="#cite_note-Maxwell1-15">[15]</a></sup><sup id="cite_ref-Brannon8_16-1" class="reference"><a href="#cite_note-Brannon8-16">[16]</a></sup><sup id="cite_ref-Pauley3_20-0" class="reference"><a href="#cite_note-Pauley3-20">[20]</a></sup> The society founded its library in 1819 with the acquisition of two books, and by 1861 the society's humble library had grown to contain approximately 3,000 volumes, consisting of books on literature, science, history and art.<sup id="cite_ref-Maxwell2_21-0" class="reference"><a href="#cite_note-Maxwell2-21">[21]</a></sup><sup id="cite_ref-FWP9_22-0" class="reference"><a href="#cite_note-FWP9-22">[22]</a></sup><sup id="cite_ref-Brannon4_23-0" class="reference"><a href="#cite_note-Brannon4-23">[23]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:WV_Schools_for_the_Deaf_and_Blind_Romney_WV_2013_07_14_01.JPG" class="image"><img alt="A two-story brick building with a two-story neoclassical portico" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/WV_Schools_for_the_Deaf_and_Blind_Romney_WV_2013_07_14_01.JPG/220px-WV_Schools_for_the_Deaf_and_Blind_Romney_WV_2013_07_14_01.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/WV_Schools_for_the_Deaf_and_Blind_Romney_WV_2013_07_14_01.JPG/330px-WV_Schools_for_the_Deaf_and_Blind_Romney_WV_2013_07_14_01.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/WV_Schools_for_the_Deaf_and_Blind_Romney_WV_2013_07_14_01.JPG/440px-WV_Schools_for_the_Deaf_and_Blind_Romney_WV_2013_07_14_01.JPG 2x" data-file-width="3648" data-file-height="2736" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:WV_Schools_for_the_Deaf_and_Blind_Romney_WV_2013_07_14_01.JPG" class="internal" title="Enlarge"></a></div>
+The administration building of the <a href="/wiki/West_Virginia_Schools_for_the_Deaf_and_Blind" title="West Virginia Schools for the Deaf and Blind">West Virginia Schools for the Deaf and Blind</a>, the center section of which is the former <a href="/wiki/Romney_Classical_Institute" title="Romney Classical Institute">Romney Classical Institute</a> and <a href="/wiki/Romney_Literary_Society" title="Romney Literary Society">Romney Literary Society</a> library building</div>
+</div>
+</div>
+<p>The Romney Literary Society commenced a movement to establish an institution for "the higher education of the youth of the community".<sup id="cite_ref-Pauley3_20-1" class="reference"><a href="#cite_note-Pauley3-20">[20]</a></sup><sup id="cite_ref-Brannon4_23-1" class="reference"><a href="#cite_note-Brannon4-23">[23]</a></sup><sup id="cite_ref-FWP10_24-0" class="reference"><a href="#cite_note-FWP10-24">[24]</a></sup> As a result of this initiative, the teaching of the classics was introduced into the curriculum of <a href="/wiki/Romney_Academy" title="Romney Academy">Romney Academy</a> in 1820, thus making the institution the first school of higher education in the <a href="/wiki/Eastern_Panhandle_of_West_Virginia" title="Eastern Panhandle of West Virginia">Eastern Panhandle</a>.<sup id="cite_ref-Pauley3_20-2" class="reference"><a href="#cite_note-Pauley3-20">[20]</a></sup><sup id="cite_ref-Brannon4_23-2" class="reference"><a href="#cite_note-Brannon4-23">[23]</a></sup><sup id="cite_ref-FWP10_24-1" class="reference"><a href="#cite_note-FWP10-24">[24]</a></sup> In 1846, the society constructed a new building to house the <a href="/wiki/Romney_Classical_Institute" title="Romney Classical Institute">Romney Classical Institute</a> and its library, both of which fell under the society's supervision.<sup id="cite_ref-FWP11_25-0" class="reference"><a href="#cite_note-FWP11-25">[25]</a></sup><sup id="cite_ref-Maxwell3_26-0" class="reference"><a href="#cite_note-Maxwell3-26">[26]</a></sup><sup id="cite_ref-Brannon5_27-0" class="reference"><a href="#cite_note-Brannon5-27">[27]</a></sup></p>
+<p>The Romney Literary Society and the Romney Classical Institute both flourished and continued to grow in importance and influence until the onset of the <a href="/wiki/American_Civil_War" title="American Civil War">Civil War</a> in 1861.<sup id="cite_ref-Pauley3_20-3" class="reference"><a href="#cite_note-Pauley3-20">[20]</a></sup><sup id="cite_ref-FWP9_22-1" class="reference"><a href="#cite_note-FWP9-22">[22]</a></sup><sup id="cite_ref-Maxwell4_28-0" class="reference"><a href="#cite_note-Maxwell4-28">[28]</a></sup> During the war, many members fought for the <a href="/wiki/Confederate_States_Army" title="Confederate States Army">Confederate States Army</a> forces and were killed during the conflict.<sup id="cite_ref-Pauley3_20-4" class="reference"><a href="#cite_note-Pauley3-20">[20]</a></sup> The contents of the society's library were plundered by <a href="/wiki/Union_Army" title="Union Army">Union Army</a> forces, and many of its 3,000 volumes were either scattered or destroyed.<sup id="cite_ref-Pauley3_20-5" class="reference"><a href="#cite_note-Pauley3-20">[20]</a></sup><sup id="cite_ref-Maxwell4_28-1" class="reference"><a href="#cite_note-Maxwell4-28">[28]</a></sup><sup id="cite_ref-FWP12_29-0" class="reference"><a href="#cite_note-FWP12-29">[29]</a></sup> Following the war's end, only 400 of those volumes could be recovered, with just 200 remaining on the library's shelves.<sup id="cite_ref-Maxwell4_28-2" class="reference"><a href="#cite_note-Maxwell4-28">[28]</a></sup><sup id="cite_ref-FWP12_29-1" class="reference"><a href="#cite_note-FWP12-29">[29]</a></sup><sup id="cite_ref-Brannon1_30-0" class="reference"><a href="#cite_note-Brannon1-30">[30]</a></sup></p>
+<p>The Romney Literary Society reorganized on May 15, 1869.<sup id="cite_ref-Maxwell4_28-3" class="reference"><a href="#cite_note-Maxwell4-28">[28]</a></sup><sup id="cite_ref-FWP12_29-2" class="reference"><a href="#cite_note-FWP12-29">[29]</a></sup><sup id="cite_ref-Munske2_31-0" class="reference"><a href="#cite_note-Munske2-31">[31]</a></sup> Following the reorganization, the society built Literary Hall between 1869 and 1870 while also undertaking an initiative to bring the <a href="/wiki/West_Virginia_Schools_for_the_Deaf_and_Blind" title="West Virginia Schools for the Deaf and Blind">West Virginia Schools for the Deaf and Blind</a> to its old Romney Classical Institute campus. The construction of Literary Hall was part of the society's effort to revive the organization and reassemble its original library.<sup id="cite_ref-Brannon1_30-1" class="reference"><a href="#cite_note-Brannon1-30">[30]</a></sup><sup id="cite_ref-Pauley4_32-0" class="reference"><a href="#cite_note-Pauley4-32">[32]</a></sup><sup id="cite_ref-FWP4_33-0" class="reference"><a href="#cite_note-FWP4-33">[33]</a></sup> The society set about recovering original volumes and purchasing new ones, and the library reopened with 700 volumes. For a period of ten years between 1870 and 1880, much of Romney's intellectual life centered on Literary Hall. As older members died, interest in the society began to dwindle.<sup id="cite_ref-Brannon1_30-2" class="reference"><a href="#cite_note-Brannon1-30">[30]</a></sup><sup id="cite_ref-Pauley4_32-1" class="reference"><a href="#cite_note-Pauley4-32">[32]</a></sup><sup id="cite_ref-FWP5_34-0" class="reference"><a href="#cite_note-FWP5-34">[34]</a></sup> The society's meetings were held less frequently, and its last recorded meeting was held on February 15, 1886.<sup id="cite_ref-Pauley4_32-2" class="reference"><a href="#cite_note-Pauley4-32">[32]</a></sup><sup id="cite_ref-FWP5_34-1" class="reference"><a href="#cite_note-FWP5-34">[34]</a></sup><sup id="cite_ref-Brannon2_35-0" class="reference"><a href="#cite_note-Brannon2-35">[35]</a></sup></p>
+<h3><span class="mw-headline" id="Clinton_Lodge">Clinton Lodge</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Literary_Hall&amp;action=edit&amp;section=5" title="Edit section: Clinton Lodge">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Clinton Lodge of Ancient Free and Accepted Masons was the second organization to utilize Literary Hall as a meeting place.<sup id="cite_ref-Pauley4_32-3" class="reference"><a href="#cite_note-Pauley4-32">[32]</a></sup><sup id="cite_ref-Brannon2_35-1" class="reference"><a href="#cite_note-Brannon2-35">[35]</a></sup><sup id="cite_ref-FWP6_36-0" class="reference"><a href="#cite_note-FWP6-36">[36]</a></sup> The Clinton Lodge was the first Masonic lodge to be chartered in <a href="/wiki/Hampshire_County,_West_Virginia" title="Hampshire County, West Virginia">Hampshire County</a> and is among the earliest Masonic lodges to be established in present-day West Virginia.<sup id="cite_ref-Brannon9_37-0" class="reference"><a href="#cite_note-Brannon9-37">[37]</a></sup> It was chartered by the <a href="/wiki/Grand_Lodge_of_Virginia" title="Grand Lodge of Virginia">Grand Lodge of Virginia</a> on December 13, 1825.<sup id="cite_ref-Brannon9_37-1" class="reference"><a href="#cite_note-Brannon9-37">[37]</a></sup><sup id="cite_ref-CET1_38-0" class="reference"><a href="#cite_note-CET1-38">[38]</a></sup> The lodge underwent four periods of hiatus: first, between 1838 and December 15, 1846; a second time between 1855 and its rechartering on July 3, 1857; a third time between 1861 and December 11, 1867, during the Civil War and <a href="/wiki/Reconstruction_Era" title="Reconstruction Era">Reconstruction</a>; and a fourth time between November 29, 1881 and November 12, 1890, when it was again reactivated.<sup id="cite_ref-CET1_38-1" class="reference"><a href="#cite_note-CET1-38">[38]</a></sup><sup id="cite_ref-Brannon10_39-0" class="reference"><a href="#cite_note-Brannon10-39">[39]</a></sup></p>
+<p>Following the completion of Literary Hall in 1870, the Clinton Lodge Masons regularly utilized the first floor of the building as a meeting space, while the Romney Literary Society maintained its use of the second floor as a library.<sup id="cite_ref-CET1_38-2" class="reference"><a href="#cite_note-CET1-38">[38]</a></sup> Between its various periods of dormancy, the Clinton Lodge and the associated <a href="/wiki/Order_of_the_Eastern_Star" title="Order of the Eastern Star">Order of the Eastern Star</a>, which was organized in July 1919, utilized Literary Hall as a meeting space, and following the Romney Literary Society's disestablishment, the Masons and Eastern Star continued their use of the building.<sup id="cite_ref-Pauley4_32-4" class="reference"><a href="#cite_note-Pauley4-32">[32]</a></sup><sup id="cite_ref-FWP6_36-1" class="reference"><a href="#cite_note-FWP6-36">[36]</a></sup><sup id="cite_ref-Brannon11_40-0" class="reference"><a href="#cite_note-Brannon11-40">[40]</a></sup> In 1973, prominent Romney lawyer Ralph Haines purchased Literary Hall from the Clinton Lodge Masons and provided the lodge with a land lot for the construction of a new Masonic Temple at the corner of Washington and Center Streets in Romney.<sup id="cite_ref-CET1_38-3" class="reference"><a href="#cite_note-CET1-38">[38]</a></sup> Following his purchase of Literary Hall, Haines used the historic building as a law office building and private museum.<sup id="cite_ref-Pauley4_32-5" class="reference"><a href="#cite_note-Pauley4-32">[32]</a></sup><sup id="cite_ref-Brannon2_35-2" class="reference"><a href="#cite_note-Brannon2-35">[35]</a></sup> Literary Hall was listed on the <a href="/wiki/National_Register_of_Historic_Places" title="National Register of Historic Places">National Register of Historic Places</a> on May 29, 1979.<sup id="cite_ref-WVSHPO1_3-1" class="reference"><a href="#cite_note-WVSHPO1-3">[3]</a></sup></p>
+<h3><span class="mw-headline" id="Hampshire_County_Public_Library">Hampshire County Public Library</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Literary_Hall&amp;action=edit&amp;section=6" title="Edit section: Hampshire County Public Library">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The building again served as a library in March 1937, when Romney's community library was relocated to the first floor of Literary Hall from its previous facility in the basement of the Hampshire County Courthouse. The library had been established on April 11, 1935 as a project by the <a href="/wiki/American_Legion_Auxiliary" title="American Legion Auxiliary">American Legion Auxiliary</a>, and was housed in a room of the courthouse basement where it was staffed by volunteers and open from 2pm to 4pm on Saturday afternoons. When the library's collection of both purchased and donated books outgrew its space in the courthouse basement, the Clinton Lodge Masons granted permission to the library to house its collection at Literary Hall in 1937.<sup id="cite_ref-Brannon6_41-0" class="reference"><a href="#cite_note-Brannon6-41">[41]</a></sup><sup id="cite_ref-Munske3_42-0" class="reference"><a href="#cite_note-Munske3-42">[42]</a></sup><sup id="cite_ref-HCPL1_43-0" class="reference"><a href="#cite_note-HCPL1-43">[43]</a></sup> Following its move to Literary Hall, the library expanded its hours,<sup id="cite_ref-Munske3_42-1" class="reference"><a href="#cite_note-Munske3-42">[42]</a></sup><sup id="cite_ref-Brannon7_44-0" class="reference"><a href="#cite_note-Brannon7-44">[44]</a></sup> and expanded them again, to five afternoons a week, through the assistance of the <a href="/wiki/National_Youth_Administration" title="National Youth Administration">National Youth Administration</a> and the <a href="/wiki/Works_Progress_Administration" title="Works Progress Administration">Works Progress Administration</a>.<sup id="cite_ref-Munske3_42-2" class="reference"><a href="#cite_note-Munske3-42">[42]</a></sup><sup id="cite_ref-Brannon7_44-1" class="reference"><a href="#cite_note-Brannon7-44">[44]</a></sup></p>
+<p>In January 1942, a meeting was held for the purpose of establishing a more extensive library service. Later that month, on January 29, a charter was issued by <a href="/wiki/Secretary_of_State_of_West_Virginia" title="Secretary of State of West Virginia">West Virginia Secretary of State</a> <a href="/wiki/William_Smith_O%27Brien_(Congressman)" title="William Smith O'Brien (Congressman)">William Smith O'Brien</a> for the creation of the non-profit Hampshire County Library Association.<sup id="cite_ref-Munske3_42-3" class="reference"><a href="#cite_note-Munske3-42">[42]</a></sup><sup id="cite_ref-HCPL1_43-1" class="reference"><a href="#cite_note-HCPL1-43">[43]</a></sup><sup id="cite_ref-Brannon7_44-2" class="reference"><a href="#cite_note-Brannon7-44">[44]</a></sup> Following its incorporation, the library was relocated from Literary Hall to two rear adjoining rooms on the second story of the Hampshire County Courthouse.<sup id="cite_ref-Munske3_42-4" class="reference"><a href="#cite_note-Munske3-42">[42]</a></sup><sup id="cite_ref-Brannon7_44-3" class="reference"><a href="#cite_note-Brannon7-44">[44]</a></sup> The association continued to house its library collection in the courthouse until 1967, when the new Hampshire County Public Library building at 153&#160;West Main Street was formally dedicated on September 28, 1967.<sup id="cite_ref-Brannon8_16-2" class="reference"><a href="#cite_note-Brannon8-16">[16]</a></sup><sup id="cite_ref-Munske3_42-5" class="reference"><a href="#cite_note-Munske3-42">[42]</a></sup><sup id="cite_ref-HCPL1_43-2" class="reference"><a href="#cite_note-HCPL1-43">[43]</a></sup> The library had been built on land donated by sisters Kate and Mary Davis, who had been engaged in the restoration of Literary Hall and whose father, Charles Maurice Davis, had been a member of both the Romney Literary Society and the Clinton Lodge Masons, which had both held meetings in the building.<sup id="cite_ref-Munske4_45-0" class="reference"><a href="#cite_note-Munske4-45">[45]</a></sup></p>
+<h2><span class="mw-headline" id="Architecture">Architecture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Literary_Hall&amp;action=edit&amp;section=7" title="Edit section: Architecture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Romney_Literary_Hall.jpg" class="image"><img alt="A two-story brick façade photographed at nighttime" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Romney_Literary_Hall.jpg/170px-Romney_Literary_Hall.jpg" width="170" height="269" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Romney_Literary_Hall.jpg/255px-Romney_Literary_Hall.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Romney_Literary_Hall.jpg/340px-Romney_Literary_Hall.jpg 2x" data-file-width="1836" data-file-height="2904" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Romney_Literary_Hall.jpg" class="internal" title="Enlarge"></a></div>
+Literary Hall's main façade, photographed at night</div>
+</div>
+</div>
+<p>The interior and exterior of Literary Hall remain largely intact. At two stories, the building is tall in its proportion and incorporates elements from both early American and <a href="/wiki/Victorian_architecture" title="Victorian architecture">Victorian</a> styles, which were common in academic buildings built during this period.<sup id="cite_ref-Pauley2_46-0" class="reference"><a href="#cite_note-Pauley2-46">[46]</a></sup></p>
+<p>Architectural historian S.&#160;Allen Chambers described Literary Hall as an anomaly because the basic design and <a href="/wiki/Fenestration" class="mw-disambig" title="Fenestration">fenestration</a> patterns, which invoke early <a href="/wiki/Federal_architecture" title="Federal architecture">Federal</a> and <a href="/wiki/Greek_Revival_architecture" title="Greek Revival architecture">Greek Revival</a> design elements, are adorned with details more characteristic of the Victorian era.<sup id="cite_ref-Chambers1_47-0" class="reference"><a href="#cite_note-Chambers1-47">[47]</a></sup></p>
+<p>According to architectural historian Michael J. Pauley of the West Virginia Department of Culture and History's Historic Preservation Unit, Literary Hall's unique structural features make the building "one of Romney's and Hampshire County's most notable landmarks, and one in which this community is justifiably proud".<sup id="cite_ref-Pauley2_46-1" class="reference"><a href="#cite_note-Pauley2-46">[46]</a></sup> Pauley further averred that the building is "highly representative of the development of education and literature in the early United States".<sup id="cite_ref-Pauley3_20-6" class="reference"><a href="#cite_note-Pauley3-20">[20]</a></sup> In describing its impact on Romney's streetscape, Chambers described Literary Hall as "adding distinction to Romney's major street intersection".<sup id="cite_ref-Chambers1_47-1" class="reference"><a href="#cite_note-Chambers1-47">[47]</a></sup> Chambers also noted the building's resemblance and "strong architectural kinship" to the <a href="/wiki/Romney_Presbyterian_Church" title="Romney Presbyterian Church">Romney Presbyterian Church</a>.<sup id="cite_ref-Chambers3_48-0" class="reference"><a href="#cite_note-Chambers3-48">[48]</a></sup></p>
+<p>Literary Hall is a two-story red <a href="/wiki/Brick" title="Brick">brick</a> structure, rectangular in plan, and topped with a <a href="/wiki/Gable" title="Gable">gable</a> roof.<sup id="cite_ref-Pauley2_46-2" class="reference"><a href="#cite_note-Pauley2-46">[46]</a></sup><sup id="cite_ref-Chambers1_47-2" class="reference"><a href="#cite_note-Chambers1-47">[47]</a></sup> The first floor of Literary Hall consists of four rooms, and the second story is a single large <a href="/wiki/Ballroom" title="Ballroom">ballroom</a>.<sup id="cite_ref-Pauley2_46-3" class="reference"><a href="#cite_note-Pauley2-46">[46]</a></sup> Fused with symmetrical elements evoking Federal and Greek Revival architectural styles are exterior <a href="/wiki/Molding_(decorative)" title="Molding (decorative)">decorative moldings</a> and brick <a href="/wiki/Corbel" title="Corbel">corbeling</a> in the Victorian style.<sup id="cite_ref-Pauley2_46-4" class="reference"><a href="#cite_note-Pauley2-46">[46]</a></sup><sup id="cite_ref-Chambers1_47-3" class="reference"><a href="#cite_note-Chambers1-47">[47]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Romney_Presbyterian_Church_Romney_WV_2015_05_10_07.JPG" class="image"><img alt="The main façade of a brick church with white double doors and a round window in the façade's gable" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Romney_Presbyterian_Church_Romney_WV_2015_05_10_07.JPG/170px-Romney_Presbyterian_Church_Romney_WV_2015_05_10_07.JPG" width="170" height="128" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Romney_Presbyterian_Church_Romney_WV_2015_05_10_07.JPG/255px-Romney_Presbyterian_Church_Romney_WV_2015_05_10_07.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Romney_Presbyterian_Church_Romney_WV_2015_05_10_07.JPG/340px-Romney_Presbyterian_Church_Romney_WV_2015_05_10_07.JPG 2x" data-file-width="3264" data-file-height="2448" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Romney_Presbyterian_Church_Romney_WV_2015_05_10_07.JPG" class="internal" title="Enlarge"></a></div>
+Architectural historian S.&#160;Allen Chambers compared Literary Hall's architectural design with that of the <a href="/wiki/Romney_Presbyterian_Church" title="Romney Presbyterian Church">Romney Presbyterian Church</a>.</div>
+</div>
+</div>
+<p>The main façade (south elevation) of Literary Hall is divided into three <a href="/wiki/Bay_(architecture)" title="Bay (architecture)">bays</a>, and its west and east elevations are divided into five bays.<sup id="cite_ref-Pauley2_46-5" class="reference"><a href="#cite_note-Pauley2-46">[46]</a></sup><sup id="cite_ref-Chambers1_47-4" class="reference"><a href="#cite_note-Chambers1-47">[47]</a></sup> Each of the building's bays consists of a <a href="/wiki/Sash_window" title="Sash window">double-hung sash wooden window</a>, with nine panes of glass within each sash.<sup id="cite_ref-Pauley2_46-6" class="reference"><a href="#cite_note-Pauley2-46">[46]</a></sup> The windows are symmetrically placed within recessed brick panels that are defined at the first and second stories of the building with elementary brick ribs, or pseudo-pilasters, that form the outer surface of the building's exterior walls and provide separation of the three bays of the main façade and the five bays of the west and east elevations.<sup id="cite_ref-Pauley2_46-7" class="reference"><a href="#cite_note-Pauley2-46">[46]</a></sup><sup id="cite_ref-Chambers1_47-5" class="reference"><a href="#cite_note-Chambers1-47">[47]</a></sup> The windows are framed by white wooden <a href="/wiki/Louver" title="Louver">louvered</a> <a href="/wiki/Window_shutter" title="Window shutter">window shutters</a>. The building's brick is laid in an <a href="/wiki/Brickwork#American.2C_or_common_bond" title="Brickwork">American bond</a> pattern, with five courses of stretchers between every course of headers.<sup id="cite_ref-Pauley2_46-8" class="reference"><a href="#cite_note-Pauley2-46">[46]</a></sup></p>
+<p>The main façade is topped by a simple wooden <a href="/wiki/Cornice#Rake" title="Cornice">raking cornice</a> that surmounts an ornamental corbel brick pendant. A semicircular <a href="/wiki/Fanlight" title="Fanlight">fanlight</a>, or lunette, is located in the center of the gable of the building's main façade, providing lighting to the building's attic.<sup id="cite_ref-Pauley2_46-9" class="reference"><a href="#cite_note-Pauley2-46">[46]</a></sup><sup id="cite_ref-Chambers1_47-6" class="reference"><a href="#cite_note-Chambers1-47">[47]</a></sup> Chambers described this window as the most antiquated of the building's architectural elements and may have been based on the fanlight of the county's earlier courthouse built in 1833, which was located to the building's east.<sup id="cite_ref-Chambers2_49-0" class="reference"><a href="#cite_note-Chambers2-49">[49]</a></sup></p>
+<p>Each of the main façade's first- and second-story windows and the entrance are adorned with white wooden <a href="/wiki/Hood_mould" title="Hood mould">label moldings</a>. The main entrance is composed of a tall double wooden entrance door, with its original handle and locks. Each door consists of four vertical wooden panels. A rectangular <a href="/wiki/Transom_(architectural)" title="Transom (architectural)">transom</a> light of four vertical glass panels tops the main entryway's double wooden doors. Outside the entryway is a spacious brick <a href="/wiki/Stoop_(architecture)" title="Stoop (architecture)">stoop</a> that is accessed by a cement walkway from West Main Street. Its brick steps leading up to the stoop were last restored in the late 1970s.<sup id="cite_ref-Pauley2_46-10" class="reference"><a href="#cite_note-Pauley2-46">[46]</a></sup></p>
+<p>Literary Hall is flanked by two interior side <a href="/wiki/Chimney" title="Chimney">chimneys</a>, between the second and third bays of the west and east elevations of the building. The building rests on a sandstone, <a href="/wiki/Ashlar" title="Ashlar">ashlar</a> block foundation. Its gable roof is sheathed with <a href="/wiki/Metal_roof" title="Metal roof">standing seam tin sheeting</a>.<sup id="cite_ref-Pauley2_46-11" class="reference"><a href="#cite_note-Pauley2-46">[46]</a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Literary_Hall&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-nris-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-nris_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/National_Park_Service" title="National Park Service">National Park Service</a> (November 2, 2013). <a rel="nofollow" class="external text" href="https://npgallery.nps.gov/AssetDetail/NRIS/79002577">"National Register Information System&#160;–&#160;Literary Hall&#160;(#79002577)"</a>. <i>National Register of Historic Places</i>. National Park Service<span class="reference-accessdate">. Retrieved <span class="nowrap">August 28,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALiterary+Hall&amp;rft.atitle=National+Register+Information+System+%E2%80%93+Literary+Hall+%28%26%23035%3B79002577%29&amp;rft.au=National+Park+Service&amp;rft.date=2013-11-02&amp;rft.genre=unknown&amp;rft.jtitle=National+Register+of+Historic+Places&amp;rft_id=https%3A%2F%2Fnpgallery.nps.gov%2FAssetDetail%2FNRIS%2F79002577&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-gnis-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-gnis_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://geonames.usgs.gov/apex/f?p=gnispq:3:::NO::P3_FID:1718668">"Literary Hall"</a>. <i><a href="/wiki/Geographic_Names_Information_System" title="Geographic Names Information System">Geographic Names Information System</a></i>. <a href="/wiki/United_States_Geological_Survey" title="United States Geological Survey">United States Geological Survey</a>. December 6, 1996<span class="reference-accessdate">. Retrieved <span class="nowrap">August 28,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALiterary+Hall&amp;rft.atitle=Literary+Hall&amp;rft.date=1996-12-06&amp;rft.genre=unknown&amp;rft.jtitle=Geographic+Names+Information+System&amp;rft_id=https%3A%2F%2Fgeonames.usgs.gov%2Fapex%2Ff%3Fp%3Dgnispq%3A3%3A%3A%3ANO%3A%3AP3_FID%3A1718668&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-WVSHPO1-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-WVSHPO1_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-WVSHPO1_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160328143404/http://www.wvculture.org/shpo/nr/hampshire.html">"Hampshire County National Register of Historic Places"</a>. <i>West Virginia Division of Culture and History website</i>. West Virginia Division of Culture and History. Archived from <a rel="nofollow" class="external text" href="http://www.wvculture.org/shpo/nr/hampshire.html">the original</a> on March 28, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">March 28,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALiterary+Hall&amp;rft.atitle=Hampshire+County+National+Register+of+Historic+Places&amp;rft.genre=unknown&amp;rft.jtitle=West+Virginia+Division+of+Culture+and+History+website&amp;rft_id=http%3A%2F%2Fwww.wvculture.org%2Fshpo%2Fnr%2Fhampshire.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Pauley1-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Pauley1_4-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFPauley1979">Pauley 1979</a>, p.&#160;1 of the PDF file.</span></li>
+<li id="cite_note-Pauley5-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Pauley5_5-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFPauley1979">Pauley 1979</a>, p.&#160;5 of the PDF file.</span></li>
+<li id="cite_note-USGS1-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-USGS1_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-USGS1_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-USGS1_6-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-USGS1_6-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation map"><i>Romney Quadrangle–West Virginia</i> (Topographic map). 1:24,000. 7.5 Minute Series. <a href="/wiki/United_States_Geological_Survey" title="United States Geological Survey">United States Geological Survey</a>. 1973. <a href="/wiki/OCLC" title="OCLC">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/36344599">36344599</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALiterary+Hall&amp;rft.btitle=Romney+Quadrangle%E2%80%93West+Virginia&amp;rft.date=1973&amp;rft.genre=unknown&amp;rft.pub=United+States+Geological+Survey&amp;rft.series=7.5+Minute+Series&amp;rft_id=info%3Aoclcnum%2F36344599&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Munske5-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Munske5_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Munske5_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFMunskeKerns2004">Munske &amp; Kerns 2004</a>, p.&#160;9.</span></li>
+<li id="cite_note-Coleman1-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Coleman1_8-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFColeman1951">Coleman 1951</a>, p.&#160;246.</span></li>
+<li id="cite_note-Rose_1-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Rose_1_9-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFRose1976">Rose 1976</a>, p.&#160;25.</span></li>
+<li id="cite_note-W.26MQ1-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-W.26MQ1_10-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFWilliam_and_Mary_Quarterly1898"><i>William and Mary Quarterly</i> 1898</a>, p.&#160;224.</span></li>
+<li id="cite_note-Rice1-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Rice1_11-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFRice2015">Rice 2015</a>, p.&#160;23.</span></li>
+<li id="cite_note-FWP3-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-FWP3_12-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFFederal_Writers.27_Project1937">Federal Writers' Project 1937</a>, p.&#160;inset map.</span></li>
+<li id="cite_note-FWP1-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-FWP1_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FWP1_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFFederal_Writers.27_Project1937">Federal Writers' Project 1937</a>, p.&#160;9.</span></li>
+<li id="cite_note-FWP2-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-FWP2_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FWP2_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFFederal_Writers.27_Project1937">Federal Writers' Project 1937</a>, p.&#160;10.</span></li>
+<li id="cite_note-Maxwell1-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-Maxwell1_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Maxwell1_15-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Maxwell1_15-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFMaxwellSwisher1897">Maxwell &amp; Swisher 1897</a>, p.&#160;430.</span></li>
+<li id="cite_note-Brannon8-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-Brannon8_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Brannon8_16-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Brannon8_16-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFBrannon1976">Brannon 1976</a>, p.&#160;257.</span></li>
+<li id="cite_note-FWP7-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-FWP7_17-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFFederal_Writers.27_Project1937">Federal Writers' Project 1937</a>, p.&#160;31.</span></li>
+<li id="cite_note-FWP8-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-FWP8_18-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFFederal_Writers.27_Project1937">Federal Writers' Project 1937</a>, p.&#160;32.</span></li>
+<li id="cite_note-Munske1-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-Munske1_19-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFMunskeKerns2004">Munske &amp; Kerns 2004</a>, p.&#160;185.</span></li>
+<li id="cite_note-Pauley3-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-Pauley3_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Pauley3_20-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Pauley3_20-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Pauley3_20-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Pauley3_20-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Pauley3_20-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Pauley3_20-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFPauley1979">Pauley 1979</a>, p.&#160;3 of the PDF file.</span></li>
+<li id="cite_note-Maxwell2-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-Maxwell2_21-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFMaxwellSwisher1897">Maxwell &amp; Swisher 1897</a>, pp.&#160;431–2.</span></li>
+<li id="cite_note-FWP9-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-FWP9_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FWP9_22-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFFederal_Writers.27_Project1937">Federal Writers' Project 1937</a>, p.&#160;33.</span></li>
+<li id="cite_note-Brannon4-23"><span class="mw-cite-backlink">^ <a href="#cite_ref-Brannon4_23-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Brannon4_23-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Brannon4_23-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFBrannon1976">Brannon 1976</a>, p.&#160;258.</span></li>
+<li id="cite_note-FWP10-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-FWP10_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FWP10_24-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFFederal_Writers.27_Project1937">Federal Writers' Project 1937</a>, p.&#160;34.</span></li>
+<li id="cite_note-FWP11-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-FWP11_25-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFFederal_Writers.27_Project1937">Federal Writers' Project 1937</a>, p.&#160;35.</span></li>
+<li id="cite_note-Maxwell3-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-Maxwell3_26-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFMaxwellSwisher1897">Maxwell &amp; Swisher 1897</a>, p.&#160;434.</span></li>
+<li id="cite_note-Brannon5-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-Brannon5_27-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFBrannon1976">Brannon 1976</a>, p.&#160;260.</span></li>
+<li id="cite_note-Maxwell4-28"><span class="mw-cite-backlink">^ <a href="#cite_ref-Maxwell4_28-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Maxwell4_28-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Maxwell4_28-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Maxwell4_28-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFMaxwellSwisher1897">Maxwell &amp; Swisher 1897</a>, pp.&#160;434–5.</span></li>
+<li id="cite_note-FWP12-29"><span class="mw-cite-backlink">^ <a href="#cite_ref-FWP12_29-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FWP12_29-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FWP12_29-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFFederal_Writers.27_Project1937">Federal Writers' Project 1937</a>, p.&#160;37.</span></li>
+<li id="cite_note-Brannon1-30"><span class="mw-cite-backlink">^ <a href="#cite_ref-Brannon1_30-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Brannon1_30-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Brannon1_30-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFBrannon1976">Brannon 1976</a>, p.&#160;261.</span></li>
+<li id="cite_note-Munske2-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-Munske2_31-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFMunskeKerns2004">Munske &amp; Kerns 2004</a>, p.&#160;186.</span></li>
+<li id="cite_note-Pauley4-32"><span class="mw-cite-backlink">^ <a href="#cite_ref-Pauley4_32-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Pauley4_32-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Pauley4_32-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Pauley4_32-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Pauley4_32-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Pauley4_32-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFPauley1979">Pauley 1979</a>, p.&#160;4 of the PDF file.</span></li>
+<li id="cite_note-FWP4-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-FWP4_33-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFFederal_Writers.27_Project1937">Federal Writers' Project 1937</a>, pp.&#160;37–8.</span></li>
+<li id="cite_note-FWP5-34"><span class="mw-cite-backlink">^ <a href="#cite_ref-FWP5_34-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FWP5_34-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFFederal_Writers.27_Project1937">Federal Writers' Project 1937</a>, p.&#160;38.</span></li>
+<li id="cite_note-Brannon2-35"><span class="mw-cite-backlink">^ <a href="#cite_ref-Brannon2_35-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Brannon2_35-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Brannon2_35-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFBrannon1976">Brannon 1976</a>, p.&#160;262.</span></li>
+<li id="cite_note-FWP6-36"><span class="mw-cite-backlink">^ <a href="#cite_ref-FWP6_36-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FWP6_36-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFFederal_Writers.27_Project1937">Federal Writers' Project 1937</a>, p.&#160;29.</span></li>
+<li id="cite_note-Brannon9-37"><span class="mw-cite-backlink">^ <a href="#cite_ref-Brannon9_37-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Brannon9_37-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFBrannon1976">Brannon 1976</a>, p.&#160;279.</span></li>
+<li id="cite_note-CET1-38"><span class="mw-cite-backlink">^ <a href="#cite_ref-CET1_38-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CET1_38-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-CET1_38-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-CET1_38-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.newspapers.com/image/18607614/">"Ground Break Set For Masonic Temple"</a>. <i>Cumberland Evening Times</i>. <a href="/wiki/Cumberland,_Maryland" title="Cumberland, Maryland">Cumberland, Maryland</a>. December 3, 1973. p.&#160;5<span class="reference-accessdate">. Retrieved <span class="nowrap">October 8,</span> 2015</span> – via <a href="/wiki/Newspapers.com" class="mw-redirect" title="Newspapers.com">Newspapers.com</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALiterary+Hall&amp;rft.atitle=Ground+Break+Set+For+Masonic+Temple&amp;rft.date=1973-12-03&amp;rft.genre=article&amp;rft.jtitle=Cumberland+Evening+Times&amp;rft.pages=5&amp;rft_id=https%3A%2F%2Fwww.newspapers.com%2Fimage%2F18607614%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="position:relative; top: -2px;"><a href="/wiki/Open_access" title="open access publication – free to read"><img alt="open access publication – free to read" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/9px-Open_Access_logo_PLoS_transparent.svg.png" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/14px-Open_Access_logo_PLoS_transparent.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/18px-Open_Access_logo_PLoS_transparent.svg.png 2x" data-file-width="640" data-file-height="1000" /></a></span></span></li>
+<li id="cite_note-Brannon10-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-Brannon10_39-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFBrannon1976">Brannon 1976</a>, pp.&#160;279–80.</span></li>
+<li id="cite_note-Brannon11-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-Brannon11_40-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFBrannon1976">Brannon 1976</a>, p.&#160;280.</span></li>
+<li id="cite_note-Brannon6-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-Brannon6_41-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFBrannon1976">Brannon 1976</a>, p.&#160;255.</span></li>
+<li id="cite_note-Munske3-42"><span class="mw-cite-backlink">^ <a href="#cite_ref-Munske3_42-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Munske3_42-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Munske3_42-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Munske3_42-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Munske3_42-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Munske3_42-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFMunskeKerns2004">Munske &amp; Kerns 2004</a>, p.&#160;181.</span></li>
+<li id="cite_note-HCPL1-43"><span class="mw-cite-backlink">^ <a href="#cite_ref-HCPL1_43-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-HCPL1_43-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-HCPL1_43-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20151009003759/http://hampshirecopubliclib.com/about-the-library/">"About the Library: History of the Library"</a>. <i>Hampshire County Public Library website</i>. Hampshire County Public Library. Archived from <a rel="nofollow" class="external text" href="http://hampshirecopubliclib.com/about-the-library/">the original</a> on October 9, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">October 8,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALiterary+Hall&amp;rft.atitle=About+the+Library%3A+History+of+the+Library&amp;rft.genre=unknown&amp;rft.jtitle=Hampshire+County+Public+Library+website&amp;rft_id=http%3A%2F%2Fhampshirecopubliclib.com%2Fabout-the-library%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Brannon7-44"><span class="mw-cite-backlink">^ <a href="#cite_ref-Brannon7_44-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Brannon7_44-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Brannon7_44-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Brannon7_44-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFBrannon1976">Brannon 1976</a>, p.&#160;256.</span></li>
+<li id="cite_note-Munske4-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-Munske4_45-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFMunskeKerns2004">Munske &amp; Kerns 2004</a>, pp.&#160;183–4.</span></li>
+<li id="cite_note-Pauley2-46"><span class="mw-cite-backlink">^ <a href="#cite_ref-Pauley2_46-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Pauley2_46-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Pauley2_46-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Pauley2_46-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Pauley2_46-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Pauley2_46-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Pauley2_46-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Pauley2_46-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-Pauley2_46-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-Pauley2_46-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-Pauley2_46-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-Pauley2_46-11"><sup><i><b>l</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFPauley1979">Pauley 1979</a>, p.&#160;2 of the PDF file.</span></li>
+<li id="cite_note-Chambers1-47"><span class="mw-cite-backlink">^ <a href="#cite_ref-Chambers1_47-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Chambers1_47-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Chambers1_47-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Chambers1_47-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Chambers1_47-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Chambers1_47-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Chambers1_47-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFChambers2004">Chambers 2004</a>, p.&#160;509.</span></li>
+<li id="cite_note-Chambers3-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-Chambers3_48-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFChambers2004">Chambers 2004</a>, p.&#160;510.</span></li>
+<li id="cite_note-Chambers2-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-Chambers2_49-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFChambers2004">Chambers 2004</a>, pp.&#160;509–10.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Literary_Hall&amp;action=edit&amp;section=9" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite id="CITEREFBrannon1976" class="citation book">Brannon, Selden W. (1976). <i>Historic Hampshire: A Symposium of Hampshire County and Its People, Past and Present</i>. <a href="/wiki/Parsons,_West_Virginia" title="Parsons, West Virginia">Parsons, West Virginia</a>: <a href="/wiki/McClain_Printing_Company" title="McClain Printing Company">McClain Printing Company</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-87012-236-1" title="Special:BookSources/978-0-87012-236-1">978-0-87012-236-1</a>. <a href="/wiki/OCLC" title="OCLC">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/3121468">3121468</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALiterary+Hall&amp;rft.aufirst=Selden+W.&amp;rft.aulast=Brannon&amp;rft.btitle=Historic+Hampshire%3A+A+Symposium+of+Hampshire+County+and+Its+People%2C+Past+and+Present&amp;rft.date=1976&amp;rft.genre=book&amp;rft.isbn=978-0-87012-236-1&amp;rft.place=Parsons%2C+West+Virginia&amp;rft.pub=McClain+Printing+Company&amp;rft_id=info%3Aoclcnum%2F3121468&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFChambers2004" class="citation book">Chambers, S. Allen (2004). <i>Buildings of West Virginia</i>. Oxford, New York City: <a href="/wiki/Oxford_University_Press" title="Oxford University Press">Oxford University Press</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-19-516548-7" title="Special:BookSources/978-0-19-516548-7">978-0-19-516548-7</a>. <a href="/wiki/OCLC" title="OCLC">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/53315276">53315276</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALiterary+Hall&amp;rft.aufirst=S.+Allen&amp;rft.aulast=Chambers&amp;rft.btitle=Buildings+of+West+Virginia&amp;rft.date=2004&amp;rft.genre=book&amp;rft.isbn=978-0-19-516548-7&amp;rft.place=Oxford%2C+New+York+City&amp;rft.pub=Oxford+University+Press&amp;rft_id=info%3Aoclcnum%2F53315276&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFColeman1951" class="citation book">Coleman, Roy V. (1951). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=5oUBAAAAMAAJ"><i>Liberty and Property</i></a>. New York City: <a href="/wiki/Charles_Scribner%27s_Sons" title="Charles Scribner's Sons">Scribner</a>. <a href="/wiki/OCLC" title="OCLC">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/1020487">1020487</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALiterary+Hall&amp;rft.aufirst=Roy+V.&amp;rft.aulast=Coleman&amp;rft.btitle=Liberty+and+Property&amp;rft.date=1951&amp;rft.genre=book&amp;rft.place=New+York+City&amp;rft.pub=Scribner&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D5oUBAAAAMAAJ&amp;rft_id=info%3Aoclcnum%2F1020487&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFFederal_Writers.27_Project1937" class="citation book"><a href="/wiki/Federal_Writers%27_Project" title="Federal Writers' Project">Federal Writers' Project</a> (1937). <i>Historic Romney 1762–1937</i>. <a href="/wiki/Romney,_West_Virginia" title="Romney, West Virginia">Romney, West Virginia</a>: <a href="/wiki/Federal_Writers%27_Project" title="Federal Writers' Project">Federal Writers' Project</a>, The Town Council of Romney, West Virginia. <a href="/wiki/OCLC" title="OCLC">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/2006735">2006735</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALiterary+Hall&amp;rft.au=Federal+Writers%27+Project&amp;rft.btitle=Historic+Romney+1762%E2%80%931937&amp;rft.date=1937&amp;rft.genre=book&amp;rft.place=Romney%2C+West+Virginia&amp;rft.pub=Federal+Writers%27+Project%2C+The+Town+Council+of+Romney%2C+West+Virginia&amp;rft_id=info%3Aoclcnum%2F2006735&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFMaxwellSwisher1897" class="citation book"><a href="/wiki/Hu_Maxwell" title="Hu Maxwell">Maxwell, Hu</a>; <a href="/wiki/Howard_Llewellyn_Swisher" title="Howard Llewellyn Swisher">Swisher, Howard Llewellyn</a> (1897). <a rel="nofollow" class="external text" href="https://openlibrary.org/books/OL23304577M/History_of_Hampshire_County_West_Virginia"><i>History of Hampshire County, West Virginia from Its Earliest Settlement to the Present</i></a>. <a href="/wiki/Morgantown,_West_Virginia" title="Morgantown, West Virginia">Morgantown, West Virginia</a>: A. Brown Boughner, Printer. <a href="/wiki/OCLC" title="OCLC">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/680931891">680931891</a> – via <a href="/wiki/Internet_Archive" title="Internet Archive">Internet Archive</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALiterary+Hall&amp;rft.au=Swisher%2C+Howard+Llewellyn&amp;rft.aufirst=Hu&amp;rft.aulast=Maxwell&amp;rft.btitle=History+of+Hampshire+County%2C+West+Virginia+from+Its+Earliest+Settlement+to+the+Present&amp;rft.date=1897&amp;rft.genre=book&amp;rft.place=Morgantown%2C+West+Virginia&amp;rft.pub=A.+Brown+Boughner%2C+Printer&amp;rft_id=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL23304577M%2FHistory_of_Hampshire_County_West_Virginia&amp;rft_id=info%3Aoclcnum%2F680931891&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFMunskeKerns2004" class="citation book">Munske, Roberta R.; Kerns, Wilmer L., eds. (2004). <i>Hampshire County, West Virginia, 1754–2004</i>. Romney, West Virginia: The Hampshire County 250th Anniversary Committee. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-9715738-2-6" title="Special:BookSources/978-0-9715738-2-6">978-0-9715738-2-6</a>. <a href="/wiki/OCLC" title="OCLC">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/55983178">55983178</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALiterary+Hall&amp;rft.btitle=Hampshire+County%2C+West+Virginia%2C+1754%E2%80%932004&amp;rft.date=2004&amp;rft.genre=book&amp;rft.isbn=978-0-9715738-2-6&amp;rft.place=Romney%2C+West+Virginia&amp;rft.pub=The+Hampshire+County+250th+Anniversary+Committee&amp;rft_id=info%3Aoclcnum%2F55983178&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFPauley1979" class="citation book">Pauley, Michael J. (January 12, 1979). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20151009004259/http://www.wvculture.org/shpo/nr/pdf/hampshire/79002577.pdf"><i>National Register of Historic Places Registration Form: Literary Hall</i></a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/United_States_Department_of_the_Interior" title="United States Department of the Interior">United States Department of the Interior</a>, <a href="/wiki/National_Park_Service" title="National Park Service">National Park Service</a>. Archived from <a rel="nofollow" class="external text" href="http://www.wvculture.org/shpo/nr/pdf/hampshire/79002577.pdf">the original</a> <span style="font-size:85%;">(PDF)</span> on October 9, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">October 8,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALiterary+Hall&amp;rft.aufirst=Michael+J.&amp;rft.aulast=Pauley&amp;rft.btitle=National+Register+of+Historic+Places+Registration+Form%3A+Literary+Hall&amp;rft.date=1979-01-12&amp;rft.genre=book&amp;rft.pub=United+States+Department+of+the+Interior%2C+National+Park+Service&amp;rft_id=http%3A%2F%2Fwww.wvculture.org%2Fshpo%2Fnr%2Fpdf%2Fhampshire%2F79002577.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFRice2015" class="citation book">Rice, Otis K. (2015). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=_cUfBgAAQBAJ"><i>The Allegheny Frontier: West Virginia Beginnings, 1730-1830</i></a>. Lexington, Kentucky: <a href="/wiki/University_Press_of_Kentucky" title="University Press of Kentucky">University Press of Kentucky</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8131-6438-0" title="Special:BookSources/978-0-8131-6438-0">978-0-8131-6438-0</a>. <a href="/wiki/OCLC" title="OCLC">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/900345296">900345296</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALiterary+Hall&amp;rft.aufirst=Otis+K.&amp;rft.aulast=Rice&amp;rft.btitle=The+Allegheny+Frontier%3A+West+Virginia+Beginnings%2C+1730-1830&amp;rft.date=2015&amp;rft.genre=book&amp;rft.isbn=978-0-8131-6438-0&amp;rft.place=Lexington%2C+Kentucky&amp;rft.pub=University+Press+of+Kentucky&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D_cUfBgAAQBAJ&amp;rft_id=info%3Aoclcnum%2F900345296&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFRose1976" class="citation book">Rose, Cornelia Bruère (1976). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=XycTAAAAYAAJ"><i>Arlington County, Virginia: A History</i></a>. <a href="/wiki/Arlington_County,_Virginia" title="Arlington County, Virginia">Arlington County, Virginia</a>: Arlington Historical Society. <a href="/wiki/OCLC" title="OCLC">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/2401541">2401541</a> – via <a href="/wiki/Google_Books" title="Google Books">Google Books</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALiterary+Hall&amp;rft.aufirst=Cornelia+Bru%C3%A8re&amp;rft.aulast=Rose&amp;rft.btitle=Arlington+County%2C+Virginia%3A+A+History&amp;rft.date=1976&amp;rft.genre=book&amp;rft.place=Arlington+County%2C+Virginia&amp;rft.pub=Arlington+Historical+Society&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DXycTAAAAYAAJ&amp;rft_id=info%3Aoclcnum%2F2401541&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFWilliam_and_Mary_Quarterly1898" class="citation journal"><i><a href="/wiki/William_and_Mary_Quarterly" title="William and Mary Quarterly">William and Mary Quarterly</a></i> (April 1898). "The Northern Neck of Virginia". <i><a href="/wiki/William_and_Mary_Quarterly" title="William and Mary Quarterly">William and Mary Quarterly</a></i>. Williamsburg, Virginia: <a href="/wiki/College_of_William_%26_Mary" title="College of William &amp; Mary">College of William &amp; Mary</a>. <b>6</b> (4): 222–226. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0043-5597">0043-5597</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/1915885">1915885</a>. <a href="/wiki/OCLC" title="OCLC">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/1607858">1607858</a> – via <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>. <span style="font-size:90%; color:#555">(Registration required (<span title="The site requires registration to access this page." style="border-bottom:1px dotted;cursor:help">help</span>))</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALiterary+Hall&amp;rft.atitle=The+Northern+Neck+of+Virginia&amp;rft.au=%27%27William+and+Mary+Quarterly%27%27&amp;rft.date=1898-04&amp;rft.genre=article&amp;rft.issn=0043-5597&amp;rft.issue=4&amp;rft.jtitle=William+and+Mary+Quarterly&amp;rft.pages=222-226&amp;rft.volume=6&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F1915885&amp;rft_id=info%3Aoclcnum%2F1607858&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Literary_Hall&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Literary_Hall_(Romney,_West_Virginia)" class="extiw" title="commons:Category:Literary Hall (Romney, West Virginia)">Literary Hall (Romney, West Virginia)</a> at Wikimedia Commons</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Education_in_Hampshire_County.2C_West_Virginia" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Education_in_Hampshire_County,_West_Virginia" title="Template:Education in Hampshire County, West Virginia"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Education_in_Hampshire_County,_West_Virginia" title="Template talk:Education in Hampshire County, West Virginia"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Education_in_Hampshire_County,_West_Virginia&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Education_in_Hampshire_County.2C_West_Virginia" style="font-size:114%;margin:0 4em">Education in <a href="/wiki/Hampshire_County,_West_Virginia" title="Hampshire County, West Virginia">Hampshire County</a>, <a href="/wiki/West_Virginia" title="West Virginia">West Virginia</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Hampshire_County_Schools" title="Hampshire County Schools">Hampshire County Schools</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Elementary schools</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Augusta Elementary School</li>
+<li>Capon Bridge Elementary School</li>
+<li>John J. Cornwell Elementary School</li>
+<li>Romney Elementary School</li>
+<li>Slanesville Elementary School</li>
+<li>Springfield–Green Spring Elementary School</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Middle schools</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Capon_Bridge_Middle_School" class="mw-redirect" title="Capon Bridge Middle School">Capon Bridge Middle School</a></li>
+<li><a href="/wiki/Romney_Middle_School" class="mw-redirect" title="Romney Middle School">Romney Middle School</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">High schools</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hampshire_High_School_(West_Virginia)" title="Hampshire High School (West Virginia)">Hampshire High School</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Defunct schools</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Capon Bridge High School</li>
+<li>Capon Bridge Junior High School</li>
+<li>Grassy Lick Elementary School</li>
+<li>Green Spring Elementary School</li>
+<li>Hoy Grade School</li>
+<li>Levels Elementary School</li>
+<li>Mill Creek Elementary School</li>
+<li>Rio Elementary School</li>
+<li>Romney Colored School</li>
+<li>Romney High School</li>
+<li>Romney Junior High School</li>
+<li>Springfield Elementary School</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">State public schools</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/West_Virginia_Schools_for_the_Deaf_and_Blind" title="West Virginia Schools for the Deaf and Blind">West Virginia Schools for the Deaf and Blind</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Private learning centers<br />
+and educational institutions</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Bhavana Society Forest Monastery and Retreat Center</li>
+<li>Global Country of World Peace Transcendental Meditation Learning Center and Retreat</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Historic educational<br />
+societies and institutions</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Potomac Seminary</li>
+<li><a href="/wiki/Romney_Academy" title="Romney Academy">Romney Academy</a></li>
+<li><a href="/wiki/Romney_Classical_Institute" title="Romney Classical Institute">Romney Classical Institute</a></li>
+<li><a href="/wiki/Romney_Literary_Society" title="Romney Literary Society">Romney Literary Society</a></li>
+<li>Springfield Academy</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Libraries</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Hampshire County Public Library</li>
+<li><a class="mw-selflink selflink">Literary Hall</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">School administrators,<br />
+educators, and<br />
+superintendents</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/John_Rinehart_Blue" title="John Rinehart Blue">John Rinehart Blue</a></li>
+<li><a href="/wiki/William_C._Clayton" title="William C. Clayton">William C. Clayton</a></li>
+<li><a href="/wiki/John_J._Cornwell" title="John J. Cornwell">John Jacob Cornwell</a></li>
+<li><a href="/wiki/John_Collins_Covell" title="John Collins Covell">John Collins Covell</a></li>
+<li><a href="/wiki/Samuel_Lightfoot_Flournoy" title="Samuel Lightfoot Flournoy">Samuel Lightfoot Flournoy</a></li>
+<li><a href="/wiki/William_Henry_Foote" title="William Henry Foote">William Henry Foote</a></li>
+<li><a href="/wiki/Henry_Bell_Gilkeson" title="Henry Bell Gilkeson">Henry Bell Gilkeson</a></li>
+<li><a href="/wiki/John_J._Jacob_(West_Virginia)" title="John J. Jacob (West Virginia)">John Jeremiah Jacob</a></li>
+<li><a href="/wiki/Howard_Hille_Johnson" title="Howard Hille Johnson">Howard Hille Johnson</a></li>
+<li><a href="/wiki/James_Sloan_Kuykendall" title="James Sloan Kuykendall">James Sloan Kuykendall</a></li>
+<li><a href="/wiki/Jerry_Mezzatesta" title="Jerry Mezzatesta">Jerry Mezzatesta</a></li>
+<li><a href="/wiki/Alexander_W._Monroe" title="Alexander W. Monroe">Alexander W. Monroe</a></li>
+<li><a href="/wiki/Ruth_Rowan" title="Ruth Rowan">Ruth Rowan</a></li>
+<li><a href="/wiki/Howard_Llewellyn_Swisher" title="Howard Llewellyn Swisher">Howard Llewellyn Swisher</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Hampshire_County.2C_West_Virginia_in_the_American_Civil_War" style=";wide;padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3" style="background-color:#B0C4DE;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Hampshire_County,_West_Virginia_in_the_American_Civil_War" title="Template:Hampshire County, West Virginia in the American Civil War"><abbr title="View this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Hampshire_County,_West_Virginia_in_the_American_Civil_War" title="Template talk:Hampshire County, West Virginia in the American Civil War"><abbr title="Discuss this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Hampshire_County,_West_Virginia_in_the_American_Civil_War&amp;action=edit"><abbr title="Edit this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Hampshire_County.2C_West_Virginia_in_the_American_Civil_War" style="font-size:114%;margin:0 4em"><a href="/wiki/Romney,_West_Virginia_in_the_American_Civil_War" title="Romney, West Virginia in the American Civil War">Hampshire County, West Virginia in the American Civil War</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Raids and<br />
+expeditions</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Romney_Expedition" title="Romney Expedition">Romney Expedition</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Confederate_Memorial_Romney_WV_2015_06_08_01.jpg" class="image" title="Confederate Memorial decorated on Confederate Memorial Day, 2015"><img alt="A stone Confederate monument decorated in an evergreen garland and surrounded by Confederate flags implanted in the ground beneath it." src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Confederate_Memorial_Romney_WV_2015_06_08_01.jpg/120px-Confederate_Memorial_Romney_WV_2015_06_08_01.jpg" width="120" height="160" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Confederate_Memorial_Romney_WV_2015_06_08_01.jpg/180px-Confederate_Memorial_Romney_WV_2015_06_08_01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Confederate_Memorial_Romney_WV_2015_06_08_01.jpg/240px-Confederate_Memorial_Romney_WV_2015_06_08_01.jpg 2x" data-file-width="2448" data-file-height="3264" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Units</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Union_Army" title="Union Army">Union Army</a>:</b> <a href="/wiki/1st_Maryland_Cavalry_(Union)" title="1st Maryland Cavalry (Union)">1st Maryland Cavalry</a></li>
+<li><b><a href="/wiki/Confederate_States_Army" title="Confederate States Army">Confederate States Army</a>:</b> <a href="/wiki/7th_Virginia_Cavalry" title="7th Virginia Cavalry">7th Virginia Cavalry</a></li>
+<li><a href="/wiki/11th_Virginia_Cavalry" title="11th Virginia Cavalry">11th Virginia Cavalry</a></li>
+<li><a href="/wiki/13th_Virginia_Infantry" title="13th Virginia Infantry">13th Virginia Infantry</a></li>
+<li><a href="/wiki/23rd_Virginia_Cavalry" title="23rd Virginia Cavalry">23rd Virginia Cavalry</a></li>
+<li><a href="/wiki/33rd_Virginia_Infantry" title="33rd Virginia Infantry">33rd Virginia Infantry</a></li>
+<li><a href="/wiki/62nd_Virginia_Mounted_Infantry" title="62nd Virginia Mounted Infantry">62nd Virginia Mounted Infantry</a></li>
+<li><a href="/wiki/McNeill%27s_Rangers" title="McNeill's Rangers">McNeill's Rangers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">People</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Stonewall_Jackson" title="Stonewall Jackson">Stonewall Jackson</a></li>
+<li><a href="/wiki/Angus_William_McDonald" title="Angus William McDonald">Angus William McDonald</a></li>
+<li><a href="/wiki/John_Hanson_McNeill" title="John Hanson McNeill">John Hanson McNeill</a></li>
+<li><a href="/wiki/Alexander_W._Monroe" title="Alexander W. Monroe">Alexander W. Monroe</a></li>
+<li><a href="/wiki/Isaac_Parsons_(American_military_officer)" title="Isaac Parsons (American military officer)">Isaac Parsons</a></li>
+<li><a href="/wiki/Christian_Streit_White" title="Christian Streit White">Christian Streit White</a></li>
+<li><a href="/wiki/John_Baker_White_(Virginia)" title="John Baker White (Virginia)">John Baker White</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Places and<br />
+tourism</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Capon_Chapel" title="Capon Chapel">Capon Chapel</a></li>
+<li><a href="/wiki/Confederate_Memorial_(Romney,_West_Virginia)" title="Confederate Memorial (Romney, West Virginia)">Confederate Memorial</a></li>
+<li><a href="/wiki/Fort_Mill_Ridge_Civil_War_Trenches" title="Fort Mill Ridge Civil War Trenches">Fort Mill Ridge Civil War Trenches</a></li>
+<li><a href="/wiki/Frenchburg,_West_Virginia" title="Frenchburg, West Virginia">Frenchburg, West Virginia</a></li>
+<li><a href="/wiki/Frye%27s_Inn" title="Frye's Inn">Frye's Inn</a></li>
+<li><a href="/wiki/Hampshire_County_Courthouse_(West_Virginia)" title="Hampshire County Courthouse (West Virginia)">Hampshire County Courthouse</a></li>
+<li><a href="/wiki/Hanging_Rock,_West_Virginia" title="Hanging Rock, West Virginia">Hanging Rock, West Virginia</a></li>
+<li><a href="/wiki/Hanging_Rocks" title="Hanging Rocks">Hanging Rocks</a></li>
+<li><a href="/wiki/Hook%27s_Tavern" title="Hook's Tavern">Hook's Tavern</a></li>
+<li><a href="/wiki/Ice_Mountain" title="Ice Mountain">Ice Mountain</a></li>
+<li><a href="/wiki/Indian_Mound_Cemetery" title="Indian Mound Cemetery">Indian Mound Cemetery</a></li>
+<li><a class="mw-selflink selflink">Literary Hall</a> (<a href="/wiki/Romney_Literary_Society" title="Romney Literary Society">Romney Literary Society</a>)</li>
+<li><a href="/wiki/Little_Cacapon,_West_Virginia" title="Little Cacapon, West Virginia">Little Cacapon, West Virginia</a></li>
+<li><a href="/wiki/Mechanicsburg_Gap" title="Mechanicsburg Gap">Mechanicsburg Gap</a></li>
+<li><a href="/wiki/Moorefield_and_North_Branch_Turnpike" title="Moorefield and North Branch Turnpike">Moorefield and North Branch Turnpike</a></li>
+<li><a href="/wiki/Romney,_West_Virginia" title="Romney, West Virginia">Romney, West Virginia</a></li>
+<li><a href="/wiki/Romney_Classical_Institute" title="Romney Classical Institute">Romney Classical Institute</a></li>
+<li><a href="/wiki/Romney_Presbyterian_Church" title="Romney Presbyterian Church">Romney Presbyterian Church</a></li>
+<li><a href="/wiki/Springfield,_West_Virginia" title="Springfield, West Virginia">Springfield, West Virginia</a></li>
+<li><a href="/wiki/Sycamore_Dale" title="Sycamore Dale">Sycamore Dale</a></li>
+<li><a href="/wiki/Taggart_Hall" title="Taggart Hall">Taggart Hall</a></li>
+<li><a href="/wiki/Wappocomo_(Romney,_West_Virginia)" title="Wappocomo (Romney, West Virginia)">Wappocomo</a></li>
+<li><a href="/wiki/Washington_Bottom_Farm" title="Washington Bottom Farm">Washington Bottom Farm</a></li>
+<li><a href="/wiki/Wirgman_Building" title="Wirgman Building">Wirgman Building</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="National_Register_of_Historic_Places_in_Hampshire_County.2C_West_Virginia" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3" style="background-color:#A8EDEF">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:NRHP_in_Hampshire_County,_West_Virginia" title="Template:NRHP in Hampshire County, West Virginia"><abbr title="View this template" style="background-color:#A8EDEF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:NRHP_in_Hampshire_County,_West_Virginia" title="Template talk:NRHP in Hampshire County, West Virginia"><abbr title="Discuss this template" style="background-color:#A8EDEF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:NRHP_in_Hampshire_County,_West_Virginia&amp;action=edit"><abbr title="Edit this template" style="background-color:#A8EDEF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="National_Register_of_Historic_Places_in_Hampshire_County.2C_West_Virginia" style="font-size:114%;margin:0 4em"><a href="/wiki/National_Register_of_Historic_Places" title="National Register of Historic Places">National Register of Historic Places</a> in <a href="/wiki/Hampshire_County,_West_Virginia" title="Hampshire County, West Virginia">Hampshire County, West Virginia</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A8EDEF;width:1%"><a href="/wiki/Historic_districts_in_the_United_States" title="Historic districts in the United States">Districts</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Capon_Springs_Resort" title="Capon Springs Resort">Capon Springs</a></li>
+<li><a href="/wiki/North_River_Mills_Historic_District" title="North River Mills Historic District">North River Mills Historic District</a></li>
+<li><a href="/wiki/Washington_Bottom_Farm" title="Washington Bottom Farm">Washington Bottom Farm</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Map_of_West_Virginia_highlighting_Hampshire_County.svg" class="image" title="Hampshire County map"><img alt="Hampshire County map" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Map_of_West_Virginia_highlighting_Hampshire_County.svg/100px-Map_of_West_Virginia_highlighting_Hampshire_County.svg.png" width="100" height="89" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Map_of_West_Virginia_highlighting_Hampshire_County.svg/150px-Map_of_West_Virginia_highlighting_Hampshire_County.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Map_of_West_Virginia_highlighting_Hampshire_County.svg/200px-Map_of_West_Virginia_highlighting_Hampshire_County.svg.png 2x" data-file-width="4270" data-file-height="3810" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A8EDEF;width:1%"><a href="/wiki/National_Register_of_Historic_Places_property_types#Building" title="National Register of Historic Places property types">Buildings</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Capon_Chapel" title="Capon Chapel">Capon Chapel</a></li>
+<li><a href="/wiki/Fort_Van_Meter_(Hampshire_County,_West_Virginia)" title="Fort Van Meter (Hampshire County, West Virginia)">Fort Van Meter</a></li>
+<li><a href="/wiki/French%27s_Mill" title="French's Mill">French's Mill</a></li>
+<li><a href="/wiki/Hampshire_County_Courthouse_(West_Virginia)" title="Hampshire County Courthouse (West Virginia)">Hampshire County Courthouse</a></li>
+<li><a href="/wiki/Hebron_Church_(Intermont,_West_Virginia)" title="Hebron Church (Intermont, West Virginia)">Hebron Church</a></li>
+<li><a href="/wiki/Hickory_Grove_(Romney,_West_Virginia)" title="Hickory Grove (Romney, West Virginia)">Hickory Grove</a></li>
+<li><a href="/wiki/Hook_Tavern" class="mw-redirect" title="Hook Tavern">Hook Tavern</a></li>
+<li><a href="/wiki/Kuykendall_Polygonal_Barn" title="Kuykendall Polygonal Barn">Kuykendall Polygonal Barn</a></li>
+<li><a href="/wiki/Nathaniel_and_Isaac_Kuykendall_House" title="Nathaniel and Isaac Kuykendall House">Nathaniel and Isaac Kuykendall House</a></li>
+<li><a class="mw-selflink selflink">Literary Hall</a></li>
+<li><a href="/wiki/Old_Methodist_District_Parsonage" title="Old Methodist District Parsonage">Old District Parsonage</a></li>
+<li><a href="/wiki/Old_Pine_Church" title="Old Pine Church">Old Pine Church</a></li>
+<li><a href="/wiki/Captain_David_Pugh_House" title="Captain David Pugh House">Captain David Pugh House</a></li>
+<li><a href="/wiki/Scanlon_Farm" title="Scanlon Farm">Scanlon Farm</a></li>
+<li><a href="/wiki/Sloan-Parker_House" class="mw-redirect" title="Sloan-Parker House">Sloan-Parker House</a></li>
+<li><a href="/wiki/Springfield_Brick_House" title="Springfield Brick House">Springfield Brick House</a></li>
+<li><a href="/wiki/Sycamore_Dale" title="Sycamore Dale">Sycamore Dale</a></li>
+<li><a href="/wiki/Valley_View_(Romney,_West_Virginia)" title="Valley View (Romney, West Virginia)">Valley View</a></li>
+<li><a href="/wiki/Yellow_Spring_Mill" title="Yellow Spring Mill">Yellow Spring Mill</a></li>
+<li><a href="/wiki/Wilson-Wodrow-Mytinger_House" title="Wilson-Wodrow-Mytinger House">Wilson-Wodrow-Mytinger House</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A8EDEF;width:1%"><a href="/wiki/National_Register_of_Historic_Places_property_types#Site" title="National Register of Historic Places property types">Sites</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fort_Mill_Ridge_Civil_War_Trenches" title="Fort Mill Ridge Civil War Trenches">Fort Mill Ridge Civil War Trenches</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A8EDEF;width:1%"><a href="/wiki/National_Register_of_Historic_Places_property_types#Structure" title="National Register of Historic Places property types">Structures</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Capon_Lake_Whipple_Truss_Bridge" title="Capon Lake Whipple Truss Bridge">Capon Lake Whipple Truss Bridge</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3" style="background-color:#A8EDEF">
+<div><b>See also:</b> <a href="/wiki/National_Register_of_Historic_Places_listings_in_Hampshire_County,_West_Virginia" title="National Register of Historic Places listings in Hampshire County, West Virginia">National Register of Historic Places listings in Hampshire County, West Virginia</a> and <a href="/wiki/List_of_National_Historic_Landmarks_in_West_Virginia" title="List of National Historic Landmarks in West Virginia">List of National Historic Landmarks in West Virginia</a></div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="U.S._National_Register_of_Historic_Places_in_West_Virginia" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3" style="background-color:#A8EDEF">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:National_Register_of_Historic_Places_in_West_Virginia" title="Template:National Register of Historic Places in West Virginia"><abbr title="View this template" style=";background-color:#A8EDEF;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:National_Register_of_Historic_Places_in_West_Virginia" title="Template talk:National Register of Historic Places in West Virginia"><abbr title="Discuss this template" style=";background-color:#A8EDEF;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:National_Register_of_Historic_Places_in_West_Virginia&amp;action=edit"><abbr title="Edit this template" style=";background-color:#A8EDEF;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="U.S._National_Register_of_Historic_Places_in_West_Virginia" style="font-size:114%;margin:0 4em"><a href="/wiki/National_Register_of_Historic_Places" title="National Register of Historic Places">U.S. National Register of Historic Places</a> in <a href="/wiki/National_Register_of_Historic_Places_listings_in_West_Virginia" title="National Register of Historic Places listings in West Virginia">West Virginia</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#A8EDEF">Topics</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Contributing_property" title="Contributing property">Contributing property</a></li>
+<li><a href="/wiki/Keeper_of_the_Register" title="Keeper of the Register">Keeper of the Register</a></li>
+<li><a href="/wiki/Historic_districts_in_the_United_States" title="Historic districts in the United States">Historic district</a></li>
+<li><a href="/wiki/History_of_the_National_Register_of_Historic_Places" title="History of the National Register of Historic Places">History of the National Register of Historic Places</a></li>
+<li><a href="/wiki/National_Park_Service" title="National Park Service">National Park Service</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_property_types" title="National Register of Historic Places property types">Property types</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="3" style="width:1px;padding:0px 0px 0px 2px">
+<div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/US-NationalParkService-ShadedLogo.svg/50px-US-NationalParkService-ShadedLogo.svg.png" width="50" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/US-NationalParkService-ShadedLogo.svg/75px-US-NationalParkService-ShadedLogo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/US-NationalParkService-ShadedLogo.svg/100px-US-NationalParkService-ShadedLogo.svg.png 2x" data-file-width="553" data-file-height="720" /><br />
+<br />
+<img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Map_of_USA_WV.svg/69px-Map_of_USA_WV.svg.png" width="69" height="45" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Map_of_USA_WV.svg/105px-Map_of_USA_WV.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Map_of_USA_WV.svg/139px-Map_of_USA_WV.svg.png 2x" data-file-width="286" data-file-height="186" /></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#A8EDEF">Lists by<br />
+county</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Barbour_County,_West_Virginia" title="National Register of Historic Places listings in Barbour County, West Virginia">Barbour</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Berkeley_County,_West_Virginia" title="National Register of Historic Places listings in Berkeley County, West Virginia">Berkeley</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Boone_County,_West_Virginia" title="National Register of Historic Places listings in Boone County, West Virginia">Boone</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Braxton_County,_West_Virginia" title="National Register of Historic Places listings in Braxton County, West Virginia">Braxton</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Brooke_County,_West_Virginia" title="National Register of Historic Places listings in Brooke County, West Virginia">Brooke</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Cabell_County,_West_Virginia" title="National Register of Historic Places listings in Cabell County, West Virginia">Cabell</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Calhoun_County,_West_Virginia" title="National Register of Historic Places listings in Calhoun County, West Virginia">Calhoun</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Clay_County,_West_Virginia" title="National Register of Historic Places listings in Clay County, West Virginia">Clay</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Doddridge_County,_West_Virginia" title="National Register of Historic Places listings in Doddridge County, West Virginia">Doddridge</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Fayette_County,_West_Virginia" title="National Register of Historic Places listings in Fayette County, West Virginia">Fayette</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Gilmer_County,_West_Virginia" title="National Register of Historic Places listings in Gilmer County, West Virginia">Gilmer</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Grant_County,_West_Virginia" title="National Register of Historic Places listings in Grant County, West Virginia">Grant</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Greenbrier_County,_West_Virginia" title="National Register of Historic Places listings in Greenbrier County, West Virginia">Greenbrier</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Hampshire_County,_West_Virginia" title="National Register of Historic Places listings in Hampshire County, West Virginia">Hampshire</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Hancock_County,_West_Virginia" title="National Register of Historic Places listings in Hancock County, West Virginia">Hancock</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Hardy_County,_West_Virginia" title="National Register of Historic Places listings in Hardy County, West Virginia">Hardy</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Harrison_County,_West_Virginia" title="National Register of Historic Places listings in Harrison County, West Virginia">Harrison</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Jackson_County,_West_Virginia" title="National Register of Historic Places listings in Jackson County, West Virginia">Jackson</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Jefferson_County,_West_Virginia" title="National Register of Historic Places listings in Jefferson County, West Virginia">Jefferson</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Kanawha_County,_West_Virginia" title="National Register of Historic Places listings in Kanawha County, West Virginia">Kanawha</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Lewis_County,_West_Virginia" title="National Register of Historic Places listings in Lewis County, West Virginia">Lewis</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Lincoln_County,_West_Virginia" title="National Register of Historic Places listings in Lincoln County, West Virginia">Lincoln</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Logan_County,_West_Virginia" title="National Register of Historic Places listings in Logan County, West Virginia">Logan</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Marion_County,_West_Virginia" title="National Register of Historic Places listings in Marion County, West Virginia">Marion</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Marshall_County,_West_Virginia" title="National Register of Historic Places listings in Marshall County, West Virginia">Marshall</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Mason_County,_West_Virginia" title="National Register of Historic Places listings in Mason County, West Virginia">Mason</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_McDowell_County,_West_Virginia" title="National Register of Historic Places listings in McDowell County, West Virginia">McDowell</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Mercer_County,_West_Virginia" title="National Register of Historic Places listings in Mercer County, West Virginia">Mercer</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Mineral_County,_West_Virginia" title="National Register of Historic Places listings in Mineral County, West Virginia">Mineral</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Mingo_County,_West_Virginia" title="National Register of Historic Places listings in Mingo County, West Virginia">Mingo</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Monongalia_County,_West_Virginia" title="National Register of Historic Places listings in Monongalia County, West Virginia">Monongalia</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Monroe_County,_West_Virginia" title="National Register of Historic Places listings in Monroe County, West Virginia">Monroe</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Morgan_County,_West_Virginia" title="National Register of Historic Places listings in Morgan County, West Virginia">Morgan</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Nicholas_County,_West_Virginia" title="National Register of Historic Places listings in Nicholas County, West Virginia">Nicholas</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Ohio_County,_West_Virginia" title="National Register of Historic Places listings in Ohio County, West Virginia">Ohio</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Pendleton_County,_West_Virginia" title="National Register of Historic Places listings in Pendleton County, West Virginia">Pendleton</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Pleasants_County,_West_Virginia" title="National Register of Historic Places listings in Pleasants County, West Virginia">Pleasants</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Pocahontas_County,_West_Virginia" title="National Register of Historic Places listings in Pocahontas County, West Virginia">Pocahontas</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Preston_County,_West_Virginia" title="National Register of Historic Places listings in Preston County, West Virginia">Preston</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Putnam_County,_West_Virginia" title="National Register of Historic Places listings in Putnam County, West Virginia">Putnam</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Raleigh_County,_West_Virginia" title="National Register of Historic Places listings in Raleigh County, West Virginia">Raleigh</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Randolph_County,_West_Virginia" title="National Register of Historic Places listings in Randolph County, West Virginia">Randolph</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Ritchie_County,_West_Virginia" title="National Register of Historic Places listings in Ritchie County, West Virginia">Ritchie</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Roane_County,_West_Virginia" title="National Register of Historic Places listings in Roane County, West Virginia">Roane</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Summers_County,_West_Virginia" title="National Register of Historic Places listings in Summers County, West Virginia">Summers</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Taylor_County,_West_Virginia" title="National Register of Historic Places listings in Taylor County, West Virginia">Taylor</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Tucker_County,_West_Virginia" title="National Register of Historic Places listings in Tucker County, West Virginia">Tucker</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Tyler_County,_West_Virginia" title="National Register of Historic Places listings in Tyler County, West Virginia">Tyler</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Upshur_County,_West_Virginia" title="National Register of Historic Places listings in Upshur County, West Virginia">Upshur</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Wayne_County,_West_Virginia" title="National Register of Historic Places listings in Wayne County, West Virginia">Wayne</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Webster_County,_West_Virginia" title="National Register of Historic Places listings in Webster County, West Virginia">Webster</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Wetzel_County,_West_Virginia" title="National Register of Historic Places listings in Wetzel County, West Virginia">Wetzel</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Wirt_County,_West_Virginia" title="National Register of Historic Places listings in Wirt County, West Virginia">Wirt</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Wood_County,_West_Virginia" title="National Register of Historic Places listings in Wood County, West Virginia">Wood</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Wyoming_County,_West_Virginia" title="National Register of Historic Places listings in Wyoming County, West Virginia">Wyoming</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#A8EDEF">Other lists</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_bridges_on_the_National_Register_of_Historic_Places_in_West_Virginia" title="List of bridges on the National Register of Historic Places in West Virginia">Bridges</a></li>
+<li><a href="/wiki/List_of_National_Historic_Landmarks_in_West_Virginia" title="List of National Historic Landmarks in West Virginia">National Historic Landmarks</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="3" style="background-color:#A8EDEF">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:National_Register_of_Historic_Places_in_West_Virginia" title="Category:National Register of Historic Places in West Virginia">Category:National Register of Historic Places in West Virginia</a></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:National_Register_of_Historic_Places" title="Portal:National Register of Historic Places">Portal:National Register of Historic Places</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="noprint metadata navbox" role="navigation" aria-label="Portals" style="font-weight:bold;padding:0.4em 2em">
+<ul style="margin:0.1em 0 0">
+<li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:P_parthenon.svg" class="image"><img alt="P parthenon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/P_parthenon.svg/23px-P_parthenon.svg.png" width="23" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/P_parthenon.svg/36px-P_parthenon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/P_parthenon.svg/47px-P_parthenon.svg.png 2x" data-file-width="400" data-file-height="360" /></a></span><a href="/wiki/Portal:Architecture" title="Portal:Architecture">Architecture portal</a></span></li>
+<li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Nuvola_apps_bookcase.svg" class="image"><img alt="Nuvola apps bookcase.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nuvola_apps_bookcase.svg/21px-Nuvola_apps_bookcase.svg.png" width="21" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nuvola_apps_bookcase.svg/32px-Nuvola_apps_bookcase.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nuvola_apps_bookcase.svg/42px-Nuvola_apps_bookcase.svg.png 2x" data-file-width="128" data-file-height="128" /></a></span><a href="/wiki/Portal:Books" title="Portal:Books">Books portal</a></span></li>
+<li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Nuvola_apps_bookcase.svg" class="image"><img alt="Nuvola apps bookcase.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nuvola_apps_bookcase.svg/21px-Nuvola_apps_bookcase.svg.png" width="21" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nuvola_apps_bookcase.svg/32px-Nuvola_apps_bookcase.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nuvola_apps_bookcase.svg/42px-Nuvola_apps_bookcase.svg.png 2x" data-file-width="128" data-file-height="128" /></a></span><a href="/wiki/Portal:Education" title="Portal:Education">Education portal</a></span></li>
+<li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Library-logo.svg" class="image"><img alt="Library-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Library-logo.svg/17px-Library-logo.svg.png" width="17" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Library-logo.svg/26px-Library-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Library-logo.svg/34px-Library-logo.svg.png 2x" data-file-width="442" data-file-height="546" /></a></span><a href="/wiki/Portal:Library_and_information_science" title="Portal:Library and information science">Library and information science portal</a></span></li>
+<li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:HistoricPlacesNationalRegisterPlaque.JPG" class="image"><img alt="HistoricPlacesNationalRegisterPlaque.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/HistoricPlacesNationalRegisterPlaque.JPG/24px-HistoricPlacesNationalRegisterPlaque.JPG" width="24" height="19" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/HistoricPlacesNationalRegisterPlaque.JPG/36px-HistoricPlacesNationalRegisterPlaque.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/HistoricPlacesNationalRegisterPlaque.JPG/48px-HistoricPlacesNationalRegisterPlaque.JPG 2x" data-file-width="2498" data-file-height="1969" /></a></span><a href="/wiki/Portal:National_Register_of_Historic_Places" title="Portal:National Register of Historic Places">National Register of Historic Places portal</a></span></li>
+<li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Flag_of_West_Virginia.svg" class="image"><img alt="Flag of West Virginia.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flag_of_West_Virginia.svg/24px-Flag_of_West_Virginia.svg.png" width="24" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flag_of_West_Virginia.svg/36px-Flag_of_West_Virginia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flag_of_West_Virginia.svg/48px-Flag_of_West_Virginia.svg.png 2x" data-file-width="760" data-file-height="400" /></a></span><a href="/wiki/Portal:West_Virginia" title="Portal:West Virginia">West Virginia portal</a></span></li>
+</ul>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1286
+Cached time: 20170926022430
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.600 seconds
+Real time usage: 0.755 seconds
+Preprocessor visited node count: 4286/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 154966/2097152 bytes
+Template argument size: 11680/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 7/500
+Lua time usage: 0.249/10.000 seconds
+Lua memory usage: 7.94 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  611.111      1 -total
+ 32.87%  200.896      2 Template:Infobox
+ 31.45%  192.216      1 Template:Infobox_NRHP
+ 28.86%  176.363      1 Template:Reflist
+ 10.88%   66.467     43 Template:Harvnb
+  7.25%   44.277      1 Template:Featured_article
+  7.05%   43.058      1 Template:Top_icon
+  6.71%   40.996      4 Template:Cite_web
+  6.55%   40.025      9 Template:Cite_book
+  5.92%   36.179      1 Template:Category_handler
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:15577066-0!canonical and timestamp 20170926022430 and revision id 802090151
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Literary_Hall&amp;oldid=802090151">https://en.wikipedia.org/w/index.php?title=Literary_Hall&amp;oldid=802090151</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:National_Register_of_Historic_Places_in_Hampshire_County,_West_Virginia" title="Category:National Register of Historic Places in Hampshire County, West Virginia">National Register of Historic Places in Hampshire County, West Virginia</a></li><li><a href="/wiki/Category:Clubhouses_on_the_National_Register_of_Historic_Places_in_West_Virginia" title="Category:Clubhouses on the National Register of Historic Places in West Virginia">Clubhouses on the National Register of Historic Places in West Virginia</a></li><li><a href="/wiki/Category:Libraries_on_the_National_Register_of_Historic_Places_in_West_Virginia" title="Category:Libraries on the National Register of Historic Places in West Virginia">Libraries on the National Register of Historic Places in West Virginia</a></li><li><a href="/wiki/Category:Buildings_and_structures_in_Romney,_West_Virginia" title="Category:Buildings and structures in Romney, West Virginia">Buildings and structures in Romney, West Virginia</a></li><li><a href="/wiki/Category:Former_library_buildings_in_the_United_States" title="Category:Former library buildings in the United States">Former library buildings in the United States</a></li><li><a href="/wiki/Category:Former_Masonic_buildings_in_West_Virginia" title="Category:Former Masonic buildings in West Virginia">Former Masonic buildings in West Virginia</a></li><li><a href="/wiki/Category:Museums_in_Hampshire_County,_West_Virginia" title="Category:Museums in Hampshire County, West Virginia">Museums in Hampshire County, West Virginia</a></li><li><a href="/wiki/Category:Federal_architecture_in_West_Virginia" title="Category:Federal architecture in West Virginia">Federal architecture in West Virginia</a></li><li><a href="/wiki/Category:Greek_Revival_architecture_in_West_Virginia" title="Category:Greek Revival architecture in West Virginia">Greek Revival architecture in West Virginia</a></li><li><a href="/wiki/Category:Victorian_architecture_in_West_Virginia" title="Category:Victorian architecture in West Virginia">Victorian architecture in West Virginia</a></li><li><a href="/wiki/Category:Library_buildings_completed_in_1870" title="Category:Library buildings completed in 1870">Library buildings completed in 1870</a></li><li><a href="/wiki/Category:1870_establishments_in_West_Virginia" title="Category:1870 establishments in West Virginia">1870 establishments in West Virginia</a></li><li><a href="/wiki/Category:Romney_Literary_Society" title="Category:Romney Literary Society">Romney Literary Society</a></li><li><a href="/wiki/Category:Hampshire_County,_West_Virginia_in_the_American_Civil_War" title="Category:Hampshire County, West Virginia in the American Civil War">Hampshire County, West Virginia in the American Civil War</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Featured_articles" title="Category:Featured articles">Featured articles</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Pages_with_login_required_references_or_sources" title="Category:Pages with login required references or sources">Pages with login required references or sources</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Literary+Hall" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Literary+Hall" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Literary_Hall" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Literary_Hall" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Literary_Hall">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Literary_Hall&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Literary_Hall&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Literary_Hall" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Literary_Hall" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Literary_Hall&amp;oldid=802090151" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Literary_Hall&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6647604" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Literary_Hall&amp;id=802090151" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Literary+Hall">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Literary+Hall&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DLiterary%2BHall%26returnto%3DLiterary%2BHall%26oldid%3D802090151%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Literary_Hall&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Literary_Hall_(Romney,_West_Virginia)" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AA%D8%A7%D9%84%D8%A7%D8%B1_%D8%A7%D8%AF%D8%A8%DB%8C%D8%A7%D8%AA_(%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7)" title="تالار ادبیات (آمریکا) – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%87%E0%AE%B2%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%AF_%E0%AE%AE%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AE%AA%E0%AE%AE%E0%AF%8D" title="இலக்கிய மண்டபம் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6647604#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 23 September 2017, at 23:05.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Literary_Hall&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.600","walltime":"0.755","ppvisitednodes":{"value":4286,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":154966,"limit":2097152},"templateargumentsize":{"value":11680,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  611.111      1 -total"," 32.87%  200.896      2 Template:Infobox"," 31.45%  192.216      1 Template:Infobox_NRHP"," 28.86%  176.363      1 Template:Reflist"," 10.88%   66.467     43 Template:Harvnb","  7.25%   44.277      1 Template:Featured_article","  7.05%   43.058      1 Template:Top_icon","  6.71%   40.996      4 Template:Cite_web","  6.55%   40.025      9 Template:Cite_book","  5.92%   36.179      1 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.249","limit":"10.000"},"limitreport-memusage":{"value":8327167,"limit":52428800}},"cachereport":{"origin":"mw1286","timestamp":"20170926022430","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":64,"wgHostname":"mw1258"});});</script>
+	</body>
+</html>

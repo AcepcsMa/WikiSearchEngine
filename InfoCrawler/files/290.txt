@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Central European Summer Time - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Central_European_Summer_Time","wgTitle":"Central European Summer Time","wgCurRevisionId":801522475,"wgRevisionId":801522475,"wgArticleId":922843,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Time zones","Daylight saving time","Time in Europe","Geography of Central Europe"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Central_European_Summer_Time","wgRelevantArticleId":922843,"wgRequestId":"WcfcEQpAICoAAEkzaRcAAAAN","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q207020","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Time_zones_of_Europe.svg/1200px-Time_zones_of_Europe.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Central_European_Summer_Time"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Central_European_Summer_Time&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Central_European_Summer_Time&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Central_European_Summer_Time"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Central_European_Summer_Time rootpage-Central_European_Summer_Time skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Central European Summer Time</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Time_zones_of_Europe.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Time_zones_of_Europe.svg/300px-Time_zones_of_Europe.svg.png" width="300" height="307" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Time_zones_of_Europe.svg/450px-Time_zones_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/Time_zones_of_Europe.svg/600px-Time_zones_of_Europe.svg.png 2x" data-file-width="593" data-file-height="606" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Time_zones_of_Europe.svg" class="internal" title="Enlarge"></a></div>
+<b><a href="/wiki/Time_in_Europe" title="Time in Europe">Time in Europe</a></b>:<br />
+<table style="background-color:inherit;">
+<tr>
+<td style="background-color:#AFB1FF;color:black;text-align:center;">light blue</td>
+<td><a href="/wiki/Western_European_Time" title="Western European Time">Western European Time</a> / <span class="nowrap"><a href="/wiki/Greenwich_Mean_Time" title="Greenwich Mean Time">Greenwich Mean Time</a> (<a href="/wiki/UTC%C2%B100:00" title="UTC±00:00">UTC</a>)</span></td>
+</tr>
+<tr>
+<td style="background-color:#5F61BF;color:white;text-align:center;">blue</td>
+<td><a href="/wiki/Western_European_Time" title="Western European Time">Western European Time</a> / <span class="nowrap"><a href="/wiki/Greenwich_Mean_Time" title="Greenwich Mean Time">Greenwich Mean Time</a> (<a href="/wiki/UTC%C2%B100:00" title="UTC±00:00">UTC</a>)</span><br />
+<span class="nowrap"><a href="/wiki/Western_European_Summer_Time" title="Western European Summer Time">Western European Summer Time</a> (<a href="/wiki/UTC%2B01:00" title="UTC+01:00">UTC+1</a>)</span></td>
+</tr>
+<tr>
+<td style="background-color:#C15F61;color:white;text-align:center;">red</td>
+<td><a href="/wiki/Central_European_Time" title="Central European Time">Central European Time</a> (<a href="/wiki/UTC%2B01:00" title="UTC+01:00">UTC+1</a>)<br />
+<a class="mw-selflink selflink">Central European Summer Time</a> (<a href="/wiki/UTC%2B02:00" title="UTC+02:00">UTC+2</a>)</td>
+</tr>
+<tr>
+<td style="background-color:#F7F689;text-align:center;">yellow</td>
+<td><a href="/wiki/Eastern_European_Time" title="Eastern European Time">Eastern European Time</a> / <span class="nowrap"><a href="/wiki/Kaliningrad_Time" title="Kaliningrad Time">Kaliningrad Time</a> (<a href="/wiki/UTC%2B02:00" title="UTC+02:00">UTC+2</a>)</span></td>
+</tr>
+<tr>
+<td style="background-color:#D7D65C;text-align:center;">golden</td>
+<td><a href="/wiki/Eastern_European_Time" title="Eastern European Time">Eastern European Time</a> (<a href="/wiki/UTC%2B02:00" title="UTC+02:00">UTC+2</a>)<br />
+<a href="/wiki/Eastern_European_Summer_Time" title="Eastern European Summer Time">Eastern European Summer Time</a> (<a href="/wiki/UTC%2B03:00" title="UTC+03:00">UTC+3</a>)</td>
+</tr>
+<tr>
+<td style="background-color:#a5ffa5;color:black;text-align:center;">light green</td>
+<td><a href="/wiki/Further-eastern_European_Time" title="Further-eastern European Time">Further-eastern European Time</a> / <span class="nowrap"><a href="/wiki/Moscow_Time" title="Moscow Time">Moscow Time</a></span> / <span class="nowrap"><a href="/wiki/Time_in_Turkey" title="Time in Turkey">Turkey Time</a></span> (<a href="/wiki/UTC%2B03:00" title="UTC+03:00">UTC+3</a>)</td>
+</tr>
+</table>
+<small>Light colours indicate where standard time is observed all year; dark colours indicate where a <a href="/wiki/Daylight_saving_time" title="Daylight saving time">summer time</a> is observed.</small></div>
+</div>
+</div>
+<p><b>Central European Summer Time</b> (<b>CEST</b>), sometime referred also as Central European Daylight Time (CEDT), is the standard clock time observed during the period of <a href="/wiki/Daylight_saving_time" title="Daylight saving time">summer daylight-saving</a> in those European countries which observe <a href="/wiki/Central_European_Time" title="Central European Time">Central European Time</a> (<a href="/wiki/UTC%2B01:00" title="UTC+01:00">UTC+1</a>) during the other part of the year. It corresponds to <a href="/wiki/UTC%2B02:00" title="UTC+02:00">UTC+2</a>, which makes it the same as <a href="/wiki/Central_Africa_Time" title="Central Africa Time">Central Africa Time</a>, <a href="/wiki/South_African_Standard_Time" title="South African Standard Time">South African Standard Time</a> and <a href="/wiki/Kaliningrad_Time" title="Kaliningrad Time">Kaliningrad Time</a> in <a href="/wiki/Russia" title="Russia">Russia</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Names"><span class="tocnumber">1</span> <span class="toctext">Names</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Period_of_observation"><span class="tocnumber">2</span> <span class="toctext">Period of observation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Usage"><span class="tocnumber">3</span> <span class="toctext">Usage</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Names">Names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Central_European_Summer_Time&amp;action=edit&amp;section=1" title="Edit section: Names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Other names which have been applied to Central European Summer Time are Middle European Summer Time (MEST), Central European Daylight Saving Time (CEDT), and Bravo Time (after the second letter of the <a href="/wiki/NATO_phonetic_alphabet" title="NATO phonetic alphabet">NATO phonetic alphabet</a>).</p>
+<h2><span class="mw-headline" id="Period_of_observation">Period of observation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Central_European_Summer_Time&amp;action=edit&amp;section=2" title="Edit section: Period of observation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Since 1996 European Summer Time has been observed between 1:00 UTC on the last Sunday of March and 1:00 on the last Sunday of October; previously the rules were not uniform across the European Union.<sup id="cite_ref-Myers_1-0" class="reference"><a href="#cite_note-Myers-1">[1]</a></sup></p>
+<h2><span class="mw-headline" id="Usage">Usage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Central_European_Summer_Time&amp;action=edit&amp;section=3" title="Edit section: Usage">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The following countries and territories use Central European Summer Time.</p>
+<ul>
+<li><a href="/wiki/Albania" title="Albania">Albania</a>, regularly since 1974</li>
+<li><a href="/wiki/Andorra" title="Andorra">Andorra</a>, regularly since 1985</li>
+<li><a href="/wiki/Austria" title="Austria">Austria</a>, regularly since 1980</li>
+<li><a href="/wiki/Belgium" title="Belgium">Belgium</a>, regularly since 1980</li>
+<li><a href="/wiki/Bosnia_and_Herzegovina" title="Bosnia and Herzegovina">Bosnia and Herzegovina</a>, regularly since 1983</li>
+<li><a href="/wiki/Croatia" title="Croatia">Croatia</a>, regularly since 1983</li>
+<li><a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a>, regularly since 1979</li>
+<li><a href="/wiki/Denmark" title="Denmark">Denmark</a> (metropolitan), regularly since 1980</li>
+<li><a href="/wiki/France" title="France">France</a> (<a href="/wiki/Metropolitan_France" title="Metropolitan France">metropolitan</a>), regularly since 1976</li>
+<li><a href="/wiki/Daylight_saving_time_in_Germany" class="mw-redirect" title="Daylight saving time in Germany">Germany</a>, regularly since 1980</li>
+<li><a href="/wiki/Gibraltar" title="Gibraltar">Gibraltar</a>, regularly since 1982</li>
+<li><a href="/wiki/Hungary" title="Hungary">Hungary</a>, regularly since 1983</li>
+<li><a href="/wiki/Italy" title="Italy">Italy</a>, regularly since 1968</li>
+<li><a href="/wiki/Liechtenstein" title="Liechtenstein">Liechtenstein</a></li>
+<li><a href="/wiki/Luxembourg" title="Luxembourg">Luxembourg</a>, regularly since 1981</li>
+<li><a href="/wiki/Malta" title="Malta">Malta</a>, regularly since 1974</li>
+<li><a href="/wiki/Monaco" title="Monaco">Monaco</a>, regularly since 1976</li>
+<li><a href="/wiki/Montenegro" title="Montenegro">Montenegro</a>, regularly since 1983</li>
+<li><a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>, regularly since 1977</li>
+<li><a href="/wiki/Norway" title="Norway">Norway</a>, regularly since 1980</li>
+<li><a href="/wiki/Poland" title="Poland">Poland</a>, regularly since 1977</li>
+<li><a href="/wiki/Republic_of_Macedonia" title="Republic of Macedonia">Republic of Macedonia</a>, regularly since 1983</li>
+<li><a href="/wiki/San_Marino" title="San Marino">San Marino</a>, regularly since 1966</li>
+<li><a href="/wiki/Serbia" title="Serbia">Serbia</a>, regularly since 1983</li>
+<li><a href="/wiki/Slovakia" title="Slovakia">Slovakia</a> regularly since 1979</li>
+<li><a href="/wiki/Slovenia" title="Slovenia">Slovenia</a>, regularly since 1983</li>
+<li><a href="/wiki/Spain" title="Spain">Spain</a> (except <a href="/wiki/Canary_Islands" title="Canary Islands">Canary Islands</a>, which apply <a href="/wiki/Western_European_Summer_Time" title="Western European Summer Time">Western European Summer Time</a> instead), regularly since 1974</li>
+<li><a href="/wiki/Sweden" title="Sweden">Sweden</a>, regularly since 1980</li>
+<li><a href="/wiki/Switzerland" title="Switzerland">Switzerland</a>, regularly since 1981</li>
+<li><a href="/wiki/Vatican_City" title="Vatican City">Vatican</a>, regularly since 1966</li>
+</ul>
+<p>CEST was used also in the years 1993–1995 in <a href="/wiki/Portugal" title="Portugal">Portugal</a>, 1998–1999 in <a href="/wiki/Lithuania" title="Lithuania">Lithuania</a> and 2005–2008 in <a href="/wiki/Tunisia" title="Tunisia">Tunisia</a>. In addition, <a href="/wiki/Libya" title="Libya">Libya</a> used CEST during the years 1951–1959, 1982–1989, 1996–1997 and 2012–2013.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Central_European_Summer_Time&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/European_Summer_Time" class="mw-redirect" title="European Summer Time">European Summer Time</a></li>
+<li><a href="/wiki/Time_zone#UTC.2B2" title="Time zone">Other countries and territories in UTC+2 time zone</a></li>
+<li><a href="/wiki/UTC%2B2" class="mw-redirect" title="UTC+2">Other names of UTC+2 time zone</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Central_European_Summer_Time&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-Myers-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Myers_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Joseph Myers (2009-07-17). <a rel="nofollow" class="external text" href="http://www.srcf.ucam.org/~jsm28/british-time/">"History of legal time in Britain"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-10-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACentral+European+Summer+Time&amp;rft.au=Joseph+Myers&amp;rft.btitle=History+of+legal+time+in+Britain&amp;rft.date=2009-07-17&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.srcf.ucam.org%2F~jsm28%2Fbritish-time%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1200
+Cached time: 20170920050215
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.052 seconds
+Real time usage: 0.075 seconds
+Preprocessor visited node count: 199/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 3671/2097152 bytes
+Template argument size: 321/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.018/10.000 seconds
+Lua memory usage: 1.37 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   52.498      1 -total
+ 90.48%   47.499      1 Template:Reflist
+ 74.67%   39.200      1 Template:Cite_web
+  6.69%    3.513      1 Template:Time_zones_of_Europe
+  3.26%    1.712      1 Template:Main_other
+  2.45%    1.286      6 Template:Nowrap
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:922843-0!canonical and timestamp 20170920050245 and revision id 801522475
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Central_European_Summer_Time&amp;oldid=801522475">https://en.wikipedia.org/w/index.php?title=Central_European_Summer_Time&amp;oldid=801522475</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Time_zones" title="Category:Time zones">Time zones</a></li><li><a href="/wiki/Category:Daylight_saving_time" title="Category:Daylight saving time">Daylight saving time</a></li><li><a href="/wiki/Category:Time_in_Europe" title="Category:Time in Europe">Time in Europe</a></li><li><a href="/wiki/Category:Geography_of_Central_Europe" title="Category:Geography of Central Europe">Geography of Central Europe</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Central+European+Summer+Time" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Central+European+Summer+Time" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Central_European_Summer_Time" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Central_European_Summer_Time" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Central_European_Summer_Time">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Central_European_Summer_Time&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Central_European_Summer_Time&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Central_European_Summer_Time" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Central_European_Summer_Time" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Central_European_Summer_Time&amp;oldid=801522475" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Central_European_Summer_Time&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q207020" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Central_European_Summer_Time&amp;id=801522475" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Central+European+Summer+Time">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Central+European+Summer+Time&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DCentral%2BEuropean%2BSummer%2BTime%26returnto%3DCentral%2BEuropean%2BSummer%2BTime%26oldid%3D801522475%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Central_European_Summer_Time&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Middel-Europese_Somertyd" title="Middel-Europese Somertyd – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D9%88%D9%82%D9%8A%D8%AA_%D9%88%D8%B3%D8%B7_%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7_%D8%A7%D9%84%D8%B5%D9%8A%D9%81%D9%8A" title="توقيت وسط أوروبا الصيفي – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/CEST" title="CEST – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%87%E0%A6%89%E0%A6%B0%E0%A7%8B%E0%A6%AA%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B7%E0%A7%8D%E0%A6%AE%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A7%80%E0%A6%A8_%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC" title="কেন্দ্রীয় ইউরোপীয় গ্রীষ্মকালীন সময় – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A6%D1%8D%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D0%B5%D1%9E%D1%80%D0%B0%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D1%96_%D0%BB%D0%B5%D1%82%D0%BD%D1%96_%D1%87%D0%B0%D1%81" title="Цэнтральнаеўрапейскі летні час – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Srednjoevropsko_ljetno_vrijeme" title="Srednjoevropsko ljetno vrijeme – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Central_European_Summer_Time" title="Central European Summer Time – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/St%C5%99edoevropsk%C3%BD_letn%C3%AD_%C4%8Das" title="Středoevropský letní čas – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/CEST" title="CEST – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Mitteleurop%C3%A4ische_Sommerzeit" title="Mitteleuropäische Sommerzeit – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Europa_Erdialdeko_Udako_Ordua" title="Europa Erdialdeko Udako Ordua – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B3%D8%A7%D8%B9%D8%AA_%D8%AA%D8%A7%D8%A8%D8%B3%D8%AA%D8%A7%D9%86%DB%8C_%D8%A7%D8%B1%D9%88%D9%BE%D8%A7%DB%8C_%D9%85%D8%B1%DA%A9%D8%B2%DB%8C" title="ساعت تابستانی اروپای مرکزی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Heure_d%27%C3%A9t%C3%A9_d%27Europe_centrale" title="Heure d'été d'Europe centrale – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Tempo_central_europeo_de_ver%C3%A1n" title="Tempo central europeo de verán – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%A4%91%EC%95%99%EC%9C%A0%EB%9F%BD_%EC%9D%BC%EA%B4%91_%EC%A0%88%EC%95%BD_%EC%8B%9C%EA%B0%84%EB%8C%80" title="중앙유럽 일광 절약 시간대 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Srednjoeuropsko_ljetno_vrijeme" title="Srednjoeuropsko ljetno vrijeme – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/Oras_ti_Kalgaw_ti_Tengnga_nga_Europa" title="Oras ti Kalgaw ti Tengnga nga Europa – Iloko" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Waktu_Musim_Panas_Eropa_Tengah" title="Waktu Musim Panas Eropa Tengah – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Central_European_Summer_Time" title="Central European Summer Time – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Centr%C4%81leiropas_vasaras_laiks" title="Centrāleiropas vasaras laiks – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/K%C3%B6z%C3%A9p-eur%C3%B3pai_ny%C3%A1ri_id%C5%91" title="Közép-európai nyári idő – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%BE%D0%B5%D0%B2%D1%80%D0%BE%D0%BF%D1%81%D0%BA%D0%BE_%D0%BB%D0%B5%D1%82%D0%BD%D0%BE_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5" title="Средноевропско летно време – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%AE%E0%A4%A7%E0%A5%8D%E0%A4%AF_%E0%A4%AF%E0%A5%81%E0%A4%B0%E0%A5%8B%E0%A4%AA%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A8%E0%A5%8D%E0%A4%B9%E0%A4%BE%E0%A4%B3%E0%A5%80_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A4%BE%E0%A4%A3%E0%A4%B5%E0%A5%87%E0%A4%B3" title="मध्य युरोपीय उन्हाळी प्रमाणवेळ – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Waktu_Musim_Panas_Eropah_Tengah" title="Waktu Musim Panas Eropah Tengah – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91%E5%A4%8F%E6%99%82%E9%96%93" title="中央ヨーロッパ夏時間 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Sentraleuropeisk_sommertid" title="Sentraleuropeisk sommertid – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Czas_%C5%9Brodkowoeuropejski_letni" title="Czas środkowoeuropejski letni – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Hor%C3%A1rio_de_Ver%C3%A3o_da_Europa_Central" title="Horário de Verão da Europa Central – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Ora_de_var%C4%83_a_Europei_Centrale" title="Ora de vară a Europei Centrale – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%BE%D0%B5_%D0%BB%D0%B5%D1%82%D0%BD%D0%B5%D0%B5_%D0%B2%D1%80%D0%B5%D0%BC%D1%8F" title="Центральноевропейское летнее время – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Central_European_Simmer_Time" title="Central European Simmer Time – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Ora_Verore_e_Evrop%C3%ABs_Qendrore" title="Ora Verore e Evropës Qendrore – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Central_European_Summer_Time" title="Central European Summer Time – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Stredoeur%C3%B3psky_letn%C3%BD_%C4%8Das" title="Stredoeurópsky letný čas – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Srednjeevropski_poletni_%C4%8Das" title="Srednjeevropski poletni čas – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A1%D1%80%D0%B5%D0%B4%D1%9A%D0%BE%D0%B5%D0%B2%D1%80%D0%BE%D0%BF%D1%81%D0%BA%D0%BE_%D0%BB%D0%B5%D1%82%D1%9A%D0%B5_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5" title="Средњоевропско летње време – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Srednjoevropsko_ljetno_vrijeme" title="Srednjoevropsko ljetno vrijeme – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Wanci_Usum_Panas_%C3%89ropa_Tengah" title="Wanci Usum Panas Éropa Tengah – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Basa Sunda</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Keski-Euroopan_kes%C3%A4aika" title="Keski-Euroopan kesäaika – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Oras_sa_Tag-araw_ng_Gitnang_Europa" title="Oras sa Tag-araw ng Gitnang Europa – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%AF_%E0%AE%90%E0%AE%B0%E0%AF%8B%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BF%E0%AE%AF_%E0%AE%95%E0%AF%8B%E0%AE%9F%E0%AF%88%E0%AE%95%E0%AE%BE%E0%AE%B2_%E0%AE%A8%E0%AF%87%E0%AE%B0%E0%AE%AE%E0%AF%8D" title="மத்திய ஐரோப்பிய கோடைகால நேரம் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%AD%E0%B8%AD%E0%B8%A1%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%A2%E0%B8%B8%E0%B9%82%E0%B8%A3%E0%B8%9B%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87" title="เวลาออมแสงยุโรปกลาง – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Orta_Avrupa_Yaz_Zaman_Dilimi" title="Orta Avrupa Yaz Zaman Dilimi – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%94%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BB%D1%96%D1%82%D0%BD%D1%96%D0%B9_%D1%87%D0%B0%D1%81" title="Центральноєвропейський літній час – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%85%D8%B1%DA%A9%D8%B2%DB%8C_%DB%8C%D9%88%D8%B1%D9%BE%DB%8C_%DA%AF%D8%B1%D9%85%D8%A7_%D9%88%D9%82%D8%AA" title="مرکزی یورپی گرما وقت – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Gi%E1%BB%9D_m%C3%B9a_h%C3%A8_Trung_%C3%82u" title="Giờ mùa hè Trung Âu – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%AC%A7%E6%B4%B2%E4%B8%AD%E9%83%A8%E5%A4%8F%E4%BB%A4%E6%97%B6%E9%97%B4" title="欧洲中部夏令时间 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q207020#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 20 September 2017, at 05:02.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Central_European_Summer_Time&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.052","walltime":"0.075","ppvisitednodes":{"value":199,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":3671,"limit":2097152},"templateargumentsize":{"value":321,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   52.498      1 -total"," 90.48%   47.499      1 Template:Reflist"," 74.67%   39.200      1 Template:Cite_web","  6.69%    3.513      1 Template:Time_zones_of_Europe","  3.26%    1.712      1 Template:Main_other","  2.45%    1.286      6 Template:Nowrap"]},"scribunto":{"limitreport-timeusage":{"value":"0.018","limit":"10.000"},"limitreport-memusage":{"value":1437520,"limit":52428800}},"cachereport":{"origin":"mw1200","timestamp":"20170920050215","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":59,"wgHostname":"mw1321"});});</script>
+	</body>
+</html>

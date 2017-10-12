@@ -1,0 +1,842 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Max-Morlock-Stadion - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Max-Morlock-Stadion","wgTitle":"Max-Morlock-Stadion","wgCurRevisionId":795988170,"wgRevisionId":795988170,"wgArticleId":2249831,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Pages using deprecated image syntax","Coordinates on Wikidata","Wikipedia articles with GND identifiers","2006 FIFA World Cup stadiums","2005 FIFA Confederations Cup stadiums","1972 Summer Olympic venues","Olympic football venues","Football venues in Germany","Athletics (track and field) venues in Germany","Buildings and structures in Nuremberg","1. FC Nürnberg","Sports venues completed in 1928"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Max-Morlock-Stadion","wgRelevantArticleId":2249831,"wgRequestId":"WcWcRgpAMF0AAGZauWwAAAAY","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":49.426111111111,"lon":11.125833333333},"wgWikibaseItemId":"Q152599","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Frankenstadion_1.JPG/1200px-Frankenstadion_1.JPG"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Max-Morlock-Stadion"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Max-Morlock-Stadion&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Max-Morlock-Stadion&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Max-Morlock-Stadion"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Max-Morlock-Stadion rootpage-Max-Morlock-Stadion skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Max-Morlock-Stadion</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em">
+<caption class="fn org">Max-Morlock-Stadion</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Frankenstadion_1.JPG" class="image" title="Max-Morlock-Stadion"><img alt="Max-Morlock-Stadion" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Frankenstadion_1.JPG/250px-Frankenstadion_1.JPG" width="250" height="188" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Frankenstadion_1.JPG/375px-Frankenstadion_1.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Frankenstadion_1.JPG/500px-Frankenstadion_1.JPG 2x" data-file-width="2592" data-file-height="1944" /></a></td>
+</tr>
+<tr>
+<th scope="row">Former names</th>
+<td class="nickname">Städtisches Stadion (1928–1945, 1961–1991)<br />
+Victory Stadium (1945–1961)<br />
+Frankenstadion (1991–2006)<br />
+easyCredit-Stadion (2006–2012)<br />
+Stadion Nürnberg (2012–2013, 2016–2017)<br />
+Grundig Stadion (2013–2016)</td>
+</tr>
+<tr>
+<th scope="row">Location</th>
+<td class="label"><a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a>, <a href="/wiki/Germany" title="Germany">Germany</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a></th>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Max-Morlock-Stadion&amp;params=49_25_34_N_11_7_33_E_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°25′34″N</span> <span class="longitude">11°7′33″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.42611°N 11.12583°E</span><span style="display:none">﻿ / <span class="geo">49.42611; 11.12583</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Max-Morlock-Stadion&amp;params=49_25_34_N_11_7_33_E_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°25′34″N</span> <span class="longitude">11°7′33″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.42611°N 11.12583°E</span><span style="display:none">﻿ / <span class="geo">49.42611; 11.12583</span></span></span></a></span></span></span></td>
+</tr>
+<tr>
+<th scope="row">Owner</th>
+<td class="agent">City of <a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Seating_capacity" title="Seating capacity">Capacity</a></th>
+<td>50,000 (League matches),<br />
+44,308 (International matches)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td>
+</tr>
+<tr>
+<th scope="row">Field size</th>
+<td>105 × 68 m</td>
+</tr>
+<tr>
+<th scope="row">Surface</th>
+<td>Grass</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color:#ccc">Construction</th>
+</tr>
+<tr>
+<th scope="row">Built</th>
+<td>1928</td>
+</tr>
+<tr>
+<th scope="row">Opened</th>
+<td>1928</td>
+</tr>
+<tr>
+<th scope="row">Construction cost</th>
+<td>56.2 million <a href="/wiki/Euro" title="Euro">Euros</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color:#ccc">Tenants</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/1._FC_N%C3%BCrnberg" title="1. FC Nürnberg">1. FC Nürnberg</a> (1963–present)<br />
+<a href="/wiki/Germany_national_football_team" title="Germany national football team">Germany national football team</a> (selected matches)</td>
+</tr>
+</table>
+<p><b>Max-Morlock-Stadion</b> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Standard_German" title="Help:IPA/Standard German">[ˌmaksˈmɔʁlɔkˌʃtaːdi̯ɔn]</a></span> is a <a href="/wiki/Stadium" title="Stadium">stadium</a> in <a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a>, Germany, which was opened in 1928. It is located next to <a href="/wiki/Zeppelinfeld" class="mw-redirect" title="Zeppelinfeld">Zeppelinfeld</a>. It also neighbors the <a href="/wiki/Arena_N%C3%BCrnberger_Versicherung" title="Arena Nürnberger Versicherung">Nuremberg Arena</a>.</p>
+<p>Since 1966, it has been home stadium to the German <a href="/wiki/Bundesliga" title="Bundesliga">Bundesliga</a> club <a href="/wiki/1._FC_N%C3%BCrnberg" title="1. FC Nürnberg">1. FC Nürnberg</a>. During the <a href="/wiki/1972_Summer_Olympics" title="1972 Summer Olympics">1972 Summer Olympics</a>, it hosted six <a href="/wiki/Football_at_the_1972_Summer_Olympics" title="Football at the 1972 Summer Olympics">football</a> matches. In 1967, it hosted the <a href="/wiki/1967_European_Cup_Winners%27_Cup_Final" title="1967 European Cup Winners' Cup Final">European Cup Winners' Cup final</a> between <a href="/wiki/Rangers_F.C." title="Rangers F.C.">Rangers</a> and <a href="/wiki/FC_Bayern_Munich" title="FC Bayern Munich">Bayern Munich</a>. Bayern won 1–0.</p>
+<p>Originally it was known as the <b>Städtisches Stadion</b> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Standard_German" title="Help:IPA/Standard German">[ˈʃtɛtɪʃəs ˌʃtaːdi̯ɔn]</a></span> (English: Municipal Stadium) until 1945, when it was renamed <b>Victory Stadium</b>. In 1961, it returned to its original name until 1991, when it received the name <b>Frankenstadion</b> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Standard_German" title="Help:IPA/Standard German">[ˈfʁaŋkn̩ˌʃtaːdi̯ɔn]</a></span>. On 14 March 2006, the stadium was renamed <b>easyCredit-Stadion</b> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Standard_German" title="Help:IPA/Standard German">[ʔiːziˈkʁɛdɪtˌʃtaːdi̯ɔn]</a></span> for a period of five years, after a sponsorship deal with the German bank <a href="/wiki/DZ_Bank" title="DZ Bank">DZ Bank</a>. Many fans of the 1. FC Nuremberg, led by the "Ultras Nuremberg" introduced on 1 April 2006, held demonstration against the name and symbolically renamed the stadium with its current name, in honour of one of the best players in the club's history, <a href="/wiki/Max_Morlock" title="Max Morlock">Max Morlock</a>. On 14 February 2013, the stadium was renamed <b>Grundig Stadion</b> (<small>pronounced</small> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Standard_German" title="Help:IPA/Standard German">[ˈɡʁʊndɪç ˌʃtaːdi̯ɔn]</a></span> or <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Standard_German" title="Help:IPA/Standard German">[ˈɡʁʊndɪɡ-]</a></span>), after a sponsorship deal with <a href="/wiki/Grundig" title="Grundig">Grundig</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> In July 2016, the stadium's name changed back to <b>Stadion Nürnberg</b> after the city of Nuremberg could not find a new sponsor.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> From 1 July 2017, the stadium's name officially became Max-Morlock-Stadion.</p>
+<p>The stadium hosted five games of the <a href="/wiki/2006_FIFA_World_Cup" title="2006 FIFA World Cup">2006 FIFA World Cup</a>, including the famous match between <a href="/wiki/Portugal_national_football_team" title="Portugal national football team">Portugal</a> and the <a href="/wiki/Netherlands_national_football_team" title="Netherlands national football team">Netherlands</a>, consequently known as the <a href="/wiki/Battle_of_Nuremberg_(2006_FIFA_World_Cup)" title="Battle of Nuremberg (2006 FIFA World Cup)">Battle of Nuremberg</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Facilities"><span class="tocnumber">1</span> <span class="toctext">Facilities</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Renovations"><span class="tocnumber">3</span> <span class="toctext">Renovations</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Concerts"><span class="tocnumber">4</span> <span class="toctext">Concerts</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Transportation"><span class="tocnumber">5</span> <span class="toctext">Transportation</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#2006_FIFA_World_Cup"><span class="tocnumber">6</span> <span class="toctext">2006 FIFA World Cup</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Facilities">Facilities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Max-Morlock-Stadion&amp;action=edit&amp;section=1" title="Edit section: Facilities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The available facilities at the stadium include two changing rooms for players, changing rooms for coaches, referees. Also physician and treatment rooms are available. A 300 m² press area, an area for press conferences, and three TV studios make the stadium a truly modern one. 1200 m² makes up the VIP area with room for 800 guests. To compensate for the large amount of seats there are 15,000 parking spaces with 205 for VIPs.</p>
+<p>The stadium also has track and field facilities that follow international regulation. A full sprinkler system, that feeds the grass with rain water. The pitch is also heated, and lit with a floodlight system. There are two 60 m² video walls that provide video to the fans. There is also a full power back up system, powered by diesel generators.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Frankenstadion.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Frankenstadion.jpg/220px-Frankenstadion.jpg" width="220" height="144" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Frankenstadion.jpg/330px-Frankenstadion.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/Frankenstadion.jpg/440px-Frankenstadion.jpg 2x" data-file-width="2977" data-file-height="1952" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Frankenstadion.jpg" class="internal" title="Enlarge"></a></div>
+Stadium view from outside</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Frankenstadion_2.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Frankenstadion_2.JPG/220px-Frankenstadion_2.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Frankenstadion_2.JPG/330px-Frankenstadion_2.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/15/Frankenstadion_2.JPG/440px-Frankenstadion_2.JPG 2x" data-file-width="2592" data-file-height="1944" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Frankenstadion_2.JPG" class="internal" title="Enlarge"></a></div>
+Football match in the stadium</div>
+</div>
+</div>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Max-Morlock-Stadion&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Beginning in 1933, the <a href="/wiki/National_Socialist_German_Workers_Party" class="mw-redirect" title="National Socialist German Workers Party">National Socialists</a> began to use the stadium as a marching area for the <a href="/wiki/Hitler_Youth" title="Hitler Youth">Hitler Youth</a>. The fourth <i>Deutsche Kampfspiele</i>, one of the biggest events organized by the <a href="/wiki/NSRL" class="mw-redirect" title="NSRL">Nazi Sports Body</a>, took place in this stadium from 23–29 July 1934.</p>
+<p>Following 1963, the stadium was reconditioned multiple times, so that it could meet the requirements for football in the Bundesliga.</p>
+<h2><span class="mw-headline" id="Renovations">Renovations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Max-Morlock-Stadion&amp;action=edit&amp;section=3" title="Edit section: Renovations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Max-Morlock-Stadion has been renovated two times, once in 1988 to 1991, and then again renovation began again in 2002, to be ready in time for the 2006 World Cup. The 2002 renovation cost €56.2 million; the cost is split between the city of Nürnberg, the State of <a href="/wiki/Bavaria" title="Bavaria">Bavaria</a> and the building society, which managed the stadium. The stadium has had its capacity increased to 48,548. this modernisation was designed and realized by HPP Architects. This was achieved by extending the southwest and northwest grandstand. The playing field was lowered by 1.30 metres in order to provide all seats an unrestricted view of the field. The <a href="/wiki/Max_Morlock" title="Max Morlock">Max Morlock</a> place was developed as a place for fans to meet and enjoy something to eat; the total area of this place is 1,000 metres. In the summer of 2012, the capacity was increased to 50,000.</p>
+<h2><span class="mw-headline" id="Concerts">Concerts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Max-Morlock-Stadion&amp;action=edit&amp;section=4" title="Edit section: Concerts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/P!nk" class="mw-redirect" title="P!nk">P!nk</a> performed at the stadium on July 15, 2010 during <a href="/wiki/The_Funhouse_Summer_Carnival" class="mw-redirect" title="The Funhouse Summer Carnival">The Funhouse Summer Carnival</a>.</p>
+<h2><span class="mw-headline" id="Transportation">Transportation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Max-Morlock-Stadion&amp;action=edit&amp;section=5" title="Edit section: Transportation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The stadium and the adjacent <a href="/wiki/Nuremberg_Arena" class="mw-redirect" title="Nuremberg Arena">Nuremberg Arena</a> are well serviced by <a href="/wiki/Public_transportation" class="mw-redirect" title="Public transportation">public transportation</a> to facilitate transport of fans from and to the various sports and musical events taking place there:</p>
+<ul>
+<li>Bus stop <i><a href="/wiki/Max_Morlock" title="Max Morlock">Max-Morlock-Platz</a></i>, right in front of the stadium. Serviced by Bus line 55</li>
+<li><i>Frankenstadion</i> station, about 400 Meters (1300&#160;ft) or a 5-minute walk from the stadium. Serviced by <a href="/wiki/Nuremberg_S-Bahn" title="Nuremberg S-Bahn">S-Bahn</a> line S2</li>
+<li><i>Dutzendteich</i> station and <a href="/wiki/Tram" title="Tram">tramway</a> stop, about 1300&#160;m (4000&#160;ft) or a 10-minute walk from the stadium. Services by Bus lines 55 and 65, Tramway line 6 and S-Bahn line S2</li>
+<li><i><a href="/wiki/Messe_(Nuremberg_U-Bahn)" title="Messe (Nuremberg U-Bahn)">Messe subway station</a>, about 1800&#160;m (5500&#160;ft) or a 15-minute walk from the Stadium. Serviced by <a href="/wiki/Nuremberg_U-Bahn" title="Nuremberg U-Bahn">U-Bahn (Subway)</a> lines U1 and U11</i></li>
+</ul>
+<p>During mass sports and entertainment events, such as <a href="/wiki/Bundesliga" title="Bundesliga">Bundesliga</a> games or the annual <a href="/wiki/Rock_im_Park" class="mw-redirect" title="Rock im Park">Rock im Park</a> festival, additional S-Bahn trains running between main station and Frankenstadion station are being put into service. Before the 2006 <a href="/wiki/FIFA_World_Cup" title="FIFA World Cup">FIFA World Cup</a>, Frankenstadion station had the length of its existing platform doubled and an additional platform built for that purpose.</p>
+<h2><span class="mw-headline" id="2006_FIFA_World_Cup">2006 FIFA World Cup</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Max-Morlock-Stadion&amp;action=edit&amp;section=6" title="Edit section: 2006 FIFA World Cup">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The stadium was one of the venues for the <a href="/wiki/2006_FIFA_World_Cup" title="2006 FIFA World Cup">2006 FIFA World Cup</a>.</p>
+<p>The following games were played at the stadium during the World Cup of 2006:</p>
+<div style="clear:both;"></div>
+<table class="wikitable" style="text-align: left;" width="80%">
+<tr>
+<th>Date</th>
+<th>Time (<a href="/wiki/Central_European_Time" title="Central European Time">CET</a>)</th>
+<th>Team #1</th>
+<th>Res.</th>
+<th>Team #2</th>
+<th>Round</th>
+<th>Spectators</th>
+</tr>
+<tr>
+<td>11 June 2006</td>
+<td>18:00</td>
+<td><span class="flagicon"><a href="/wiki/Mexico" title="Mexico"><img alt="Mexico" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" data-file-width="840" data-file-height="480" /></a></span> <a href="/wiki/Mexico_national_football_team" title="Mexico national football team">Mexico</a></td>
+<td style="text-align:center;">3–1</td>
+<td><span class="flagicon"><a href="/wiki/Iran" title="Iran"><img alt="Iran" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/23px-Flag_of_Iran.svg.png" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/35px-Flag_of_Iran.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/46px-Flag_of_Iran.svg.png 2x" data-file-width="630" data-file-height="360" /></a></span> <a href="/wiki/Iran_national_football_team" title="Iran national football team">Iran</a></td>
+<td><a href="/wiki/2006_FIFA_World_Cup_-_Group_D" class="mw-redirect" title="2006 FIFA World Cup - Group D">Group D</a></td>
+<td style="text-align:center;">41,000</td>
+</tr>
+<tr>
+<td>15 June 2006</td>
+<td>18:00</td>
+<td><span class="flagicon"><a href="/wiki/England" title="England"><img alt="England" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" /></a></span> <a href="/wiki/England_national_football_team" title="England national football team">England</a></td>
+<td style="text-align:center;">2–0</td>
+<td><span class="flagicon"><a href="/wiki/Trinidad_and_Tobago" title="Trinidad and Tobago"><img alt="Trinidad and Tobago" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/23px-Flag_of_Trinidad_and_Tobago.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/35px-Flag_of_Trinidad_and_Tobago.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/46px-Flag_of_Trinidad_and_Tobago.svg.png 2x" data-file-width="800" data-file-height="480" /></a></span> <a href="/wiki/Trinidad_and_Tobago_national_football_team" title="Trinidad and Tobago national football team">Trinidad and Tobago</a></td>
+<td><a href="/wiki/2006_FIFA_World_Cup_-_Group_B" class="mw-redirect" title="2006 FIFA World Cup - Group B">Group B</a></td>
+<td style="text-align:center;">41,000</td>
+</tr>
+<tr>
+<td>18 June 2006</td>
+<td>15:00</td>
+<td><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Japan_national_football_team" title="Japan national football team">Japan</a></td>
+<td style="text-align:center;">0–0</td>
+<td><span class="flagicon"><a href="/wiki/Croatia" title="Croatia"><img alt="Croatia" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/23px-Flag_of_Croatia.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/35px-Flag_of_Croatia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/46px-Flag_of_Croatia.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Croatia_national_football_team" title="Croatia national football team">Croatia</a></td>
+<td><a href="/wiki/2006_FIFA_World_Cup_-_Group_F" class="mw-redirect" title="2006 FIFA World Cup - Group F">Group F</a></td>
+<td style="text-align:center;">41,000</td>
+</tr>
+<tr>
+<td>22 June 2006</td>
+<td>16:00</td>
+<td><span class="flagicon"><a href="/wiki/Ghana" title="Ghana"><img alt="Ghana" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/23px-Flag_of_Ghana.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/35px-Flag_of_Ghana.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/45px-Flag_of_Ghana.svg.png 2x" data-file-width="450" data-file-height="300" /></a></span> <a href="/wiki/Ghana_national_football_team" title="Ghana national football team">Ghana</a></td>
+<td style="text-align:center;">2–1</td>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/United_States_men%27s_national_soccer_team" title="United States men's national soccer team">United States</a></td>
+<td><a href="/wiki/2006_FIFA_World_Cup_-_Group_E" class="mw-redirect" title="2006 FIFA World Cup - Group E">Group E</a></td>
+<td style="text-align:center;">41,000</td>
+</tr>
+<tr>
+<td>25 June 2006</td>
+<td>21:00</td>
+<td><span class="flagicon"><a href="/wiki/Portugal" title="Portugal"><img alt="Portugal" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/35px-Flag_of_Portugal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/45px-Flag_of_Portugal.svg.png 2x" data-file-width="600" data-file-height="400" /></a></span> <a href="/wiki/Portugal_national_football_team" title="Portugal national football team">Portugal</a></td>
+<td style="text-align:center;"><a href="/wiki/Battle_of_Nuremberg_(association_football)" class="mw-redirect" title="Battle of Nuremberg (association football)">1–0</a></td>
+<td><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Netherlands_national_football_team" title="Netherlands national football team">Netherlands</a></td>
+<td>Round of 16</td>
+<td style="text-align:center;">41,000</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Max-Morlock-Stadion&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.grundig-stadion.de/main-ger/?sid=stadion-daten">http://www.grundig-stadion.de/main-ger/?sid=stadion-daten</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">stern.de: <a rel="nofollow" class="external text" href="http://www.stern.de/sport/fussball/nuernberger-arena-heisst-kuenftig-grundig-stadion-1971633.html"><i>Nürnberger Arena heißt künftig Grundig-Stadion</i></a> (Nuremberg Arena will be known as Grundig Stadium.) February 14th, 2013</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.infranken.de/regional/nuernberg/Nuernberg-scheitert-bei-Suche-nach-Stadion-Sponsor;art88523,1985916">"Nürnberg scheitert bei Suche nach Stadion-Sponsor"</a> (in German). inFranken.de. 3 July 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">1 August</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMax-Morlock-Stadion&amp;rft.btitle=N%C3%BCrnberg+scheitert+bei+Suche+nach+Stadion-Sponsor&amp;rft.date=2016-07-03&amp;rft.genre=unknown&amp;rft.pub=inFranken.de&amp;rft_id=http%3A%2F%2Fwww.infranken.de%2Fregional%2Fnuernberg%2FNuernberg-scheitert-bei-Suche-nach-Stadion-Sponsor%3Bart88523%2C1985916&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.la84foundation.org/6oic/OfficialReports/1972/1972s1pt1.pdf">1972 Summer Olympics official report.</a> Volume 1. Part 1. p.&#160;121.</li>
+<li><a rel="nofollow" class="external text" href="http://www.la84foundation.org/6oic/OfficialReports/1972/1972s3.pdf">1972 Summer Olympics official report.</a> Volume 3. p.&#160;359.</li>
+<li><a rel="nofollow" class="external text" href="http://www.fcn.de/stadion/easycredit-stadion/">1.FC Nuernberg stadium profile.</a></li>
+<li><a rel="nofollow" class="external text" href="http://fifaworldcup.yahoo.com/06/en/050425/1/3jmu.html">FIFA World Cup 2006 profile</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.football.co.uk/worldcup/stadiums/nuremberg.shtml">Football.co.uk profile</a></li>
+</ul>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+<tr style="text-align:center;">
+<td style="width:30%;" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/Hampden_Park" title="Hampden Park">Hampden Park</a></i><br />
+<i><a href="/wiki/Glasgow" title="Glasgow">Glasgow</a></i></span></td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b><a href="/wiki/UEFA_Cup_Winners_Cup" class="mw-redirect" title="UEFA Cup Winners Cup">UEFA Cup Winners Cup</a><br />
+<a href="/wiki/List_of_UEFA_Cup_Winners%27_Cup_finals" title="List of UEFA Cup Winners' Cup finals">Final Venue</a></b><br />
+<b><a href="/wiki/1966%E2%80%9367_European_Cup_Winners%27_Cup" title="1966–67 European Cup Winners' Cup">1967</a></b></td>
+<td style="width: 30%; text-align: center;" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><i><a href="/wiki/De_Kuip" title="De Kuip">De Kuip</a></i><br />
+<i><a href="/wiki/Rotterdam" title="Rotterdam">Rotterdam</a></i></span></td>
+</tr>
+</table>
+<div role="navigation" class="navbox" aria-labelledby="1._FC_N.C3.BCrnberg" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background-color:#c00000; color:#FFFFFF;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:1._FC_N%C3%BCrnberg" title="Template:1. FC Nürnberg"><abbr title="View this template" style="background-color:#c00000; color:#FFFFFF;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:1._FC_N%C3%BCrnberg" title="Template talk:1. FC Nürnberg"><abbr title="Discuss this template" style="background-color:#c00000; color:#FFFFFF;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:1._FC_N%C3%BCrnberg&amp;action=edit"><abbr title="Edit this template" style="background-color:#c00000; color:#FFFFFF;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="1._FC_N.C3.BCrnberg" style="font-size:114%;margin:0 4em">1. FC Nürnberg</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#c00000; color:#FFFFFF;;width:1%">Information</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1._FC_N%C3%BCrnberg" title="1. FC Nürnberg">Club</a></li>
+<li><a href="/wiki/Template:1._FC_N%C3%BCrnberg_squad" title="Template:1. FC Nürnberg squad">Current squad</a></li>
+<li><a href="/wiki/1._FC_N%C3%BCrnberg_II" title="1. FC Nürnberg II">Reserve team</a></li>
+<li><a class="mw-selflink selflink">Stadium</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#c00000; color:#FFFFFF;;width:1%">Lists and categories</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Category:1._FC_N%C3%BCrnberg_managers" title="Category:1. FC Nürnberg managers">Managers</a></li>
+<li><a href="/wiki/Category:1._FC_N%C3%BCrnberg_players" title="Category:1. FC Nürnberg players">Players</a></li>
+<li><a href="/wiki/List_of_1._FC_N%C3%BCrnberg_players" title="List of 1. FC Nürnberg players">Player list</a></li>
+<li><a href="/wiki/Category:1._FC_N%C3%BCrnberg_matches" title="Category:1. FC Nürnberg matches">Matches</a></li>
+<li><a href="/wiki/List_of_1._FC_N%C3%BCrnberg_seasons" title="List of 1. FC Nürnberg seasons">Seasons</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#c00000; color:#FFFFFF;;width:1%">Rivalries</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bavarian_football_derbies#The_Franconian_derby" title="Bavarian football derbies">Franconian derby</a></li>
+<li><a href="/wiki/Bavarian_football_derbies#The_Bavarian_derby" title="Bavarian football derbies">Franconian-Bavarian derby</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#c00000; color:#FFFFFF;;width:1%">Seasons</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1967%E2%80%9368_1._FC_N%C3%BCrnberg_season" title="1967–68 1. FC Nürnberg season">1967–68</a></li>
+<li><a href="/wiki/1968%E2%80%9369_1._FC_N%C3%BCrnberg_season" title="1968–69 1. FC Nürnberg season">1968–69</a></li>
+<li><a href="/wiki/1986%E2%80%9387_1._FC_N%C3%BCrnberg_season" title="1986–87 1. FC Nürnberg season">1986–87</a></li>
+<li><a href="/wiki/2004%E2%80%9305_1._FC_N%C3%BCrnberg_season" title="2004–05 1. FC Nürnberg season">2004–05</a></li>
+<li><a href="/wiki/2005%E2%80%9306_1._FC_N%C3%BCrnberg_season" title="2005–06 1. FC Nürnberg season">2005–06</a></li>
+<li><a href="/wiki/2006%E2%80%9307_1._FC_N%C3%BCrnberg_season" title="2006–07 1. FC Nürnberg season">2006–07</a></li>
+<li><a href="/wiki/2009%E2%80%9310_1._FC_N%C3%BCrnberg_season" title="2009–10 1. FC Nürnberg season">2009–10</a></li>
+<li><a href="/wiki/2010%E2%80%9311_1._FC_N%C3%BCrnberg_season" title="2010–11 1. FC Nürnberg season">2010–11</a></li>
+<li><a href="/wiki/2011%E2%80%9312_1._FC_N%C3%BCrnberg_season" title="2011–12 1. FC Nürnberg season">2011–12</a></li>
+<li><a href="/wiki/2012%E2%80%9313_1._FC_N%C3%BCrnberg_season" title="2012–13 1. FC Nürnberg season">2012–13</a></li>
+<li><a href="/wiki/2013%E2%80%9314_1._FC_N%C3%BCrnberg_season" title="2013–14 1. FC Nürnberg season">2013–14</a></li>
+<li><a href="/wiki/2014%E2%80%9315_1._FC_N%C3%BCrnberg_season" title="2014–15 1. FC Nürnberg season">2014–15</a></li>
+<li><a href="/wiki/2015%E2%80%9316_1._FC_N%C3%BCrnberg_season" title="2015–16 1. FC Nürnberg season">2015–16</a></li>
+<li><a href="/wiki/2016%E2%80%9317_1._FC_N%C3%BCrnberg_season" title="2016–17 1. FC Nürnberg season">2016–17</a></li>
+<li><a href="/wiki/2017%E2%80%9318_1._FC_N%C3%BCrnberg_season" title="2017–18 1. FC Nürnberg season">2017–18</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="2016.E2.80.9317_2._Bundesliga_venues" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:2._Bundesliga_venues" title="Template:2. Bundesliga venues"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:2._Bundesliga_venues" title="Template talk:2. Bundesliga venues"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:2._Bundesliga_venues&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="2016.E2.80.9317_2._Bundesliga_venues" style="font-size:114%;margin:0 4em"><a href="/wiki/2016%E2%80%9317_2._Bundesliga" title="2016–17 2. Bundesliga">2016–17 2. Bundesliga</a> venues</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Allianz_Arena" title="Allianz Arena">Allianz Arena</a>
+<ul>
+<li><a href="/wiki/TSV_1860_Munich" title="TSV 1860 Munich">1860 Munich</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Eintracht-Stadion" title="Eintracht-Stadion">Eintracht-Stadion</a>
+<ul>
+<li><a href="/wiki/Eintracht_Braunschweig" title="Eintracht Braunschweig">Eintracht Braunschweig</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Sparkassen-Erzgebirgsstadion" title="Sparkassen-Erzgebirgsstadion">Erzgebirgsstadion</a>
+<ul>
+<li><a href="/wiki/FC_Erzgebirge_Aue" title="FC Erzgebirge Aue">Erzgebirge Aue</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Esprit_Arena" title="Esprit Arena">ESPRIT arena</a>
+<ul>
+<li><a href="/wiki/Fortuna_D%C3%BCsseldorf" title="Fortuna Düsseldorf">Fortuna Düsseldorf</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Flyeralarm_Arena" title="Flyeralarm Arena">Flyeralarm Arena</a>
+<ul>
+<li><a href="/wiki/W%C3%BCrzburger_Kickers" title="Würzburger Kickers">Würzburger Kickers</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Fritz-Walter-Stadion" title="Fritz-Walter-Stadion">Fritz-Walter-Stadion</a>
+<ul>
+<li><a href="/wiki/1._FC_Kaiserslautern" title="1. FC Kaiserslautern">1. FC Kaiserslautern</a></li>
+</ul>
+</li>
+<li><a class="mw-selflink selflink">Stadion Nürnberg</a>
+<ul>
+<li><a href="/wiki/1._FC_N%C3%BCrnberg" title="1. FC Nürnberg">1. FC Nürnberg</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Hardtwaldstadion" class="mw-redirect" title="Hardtwaldstadion">Hardtwaldstadion</a>
+<ul>
+<li><a href="/wiki/SV_Sandhausen" title="SV Sandhausen">SV Sandhausen</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Mercedes-Benz_Arena_(Stuttgart)" title="Mercedes-Benz Arena (Stuttgart)">Mercedes-Benz Arena</a>
+<ul>
+<li><a href="/wiki/VfB_Stuttgart" title="VfB Stuttgart">VfB Stuttgart</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Millerntor-Stadion" title="Millerntor-Stadion">Millerntor-Stadion</a>
+<ul>
+<li><a href="/wiki/FC_St._Pauli" title="FC St. Pauli">FC St. Pauli</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Niedersachsenstadion" title="Niedersachsenstadion">Niedersachsenstadion</a>
+<ul>
+<li><a href="/wiki/Hannover_96" title="Hannover 96">Hannover 96</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Bielefelder_Alm" title="Bielefelder Alm">SchücoArena</a>
+<ul>
+<li><a href="/wiki/Arminia_Bielefeld" title="Arminia Bielefeld">Arminia Bielefeld</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Stadion_An_der_Alten_F%C3%B6rsterei" title="Stadion An der Alten Försterei">Stadion An der Alten Försterei</a>
+<ul>
+<li><a href="/wiki/1._FC_Union_Berlin" title="1. FC Union Berlin">Union Berlin</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Sportpark_Ronhof_Thomas_Sommer" title="Sportpark Ronhof Thomas Sommer">Sportpark Ronhof Thomas Sommer</a>
+<ul>
+<li><a href="/wiki/SpVgg_Greuther_F%C3%BCrth" title="SpVgg Greuther Fürth">Greuther Fürth</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Stadion_Dresden" title="Stadion Dresden">Stadion Dresden</a>
+<ul>
+<li><a href="/wiki/Dynamo_Dresden" title="Dynamo Dresden">Dynamo Dresden</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Voith-Arena" title="Voith-Arena">Voith-Arena</a>
+<ul>
+<li><a href="/wiki/1._FC_Heidenheim" title="1. FC Heidenheim">1. FC Heidenheim</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ruhrstadion" title="Ruhrstadion">Vonovia-Ruhrstadion</a>
+<ul>
+<li><a href="/wiki/VfL_Bochum" title="VfL Bochum">VfL Bochum</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wildparkstadion" title="Wildparkstadion">Wildparkstadion</a>
+<ul>
+<li><a href="/wiki/Karlsruher_SC" title="Karlsruher SC">Karlsruher SC</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Venues_of_the_1972_Summer_Olympics" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:1972_Summer_Olympic_venues" title="Template:1972 Summer Olympic venues"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:1972_Summer_Olympic_venues" title="Template talk:1972 Summer Olympic venues"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:1972_Summer_Olympic_venues&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Venues_of_the_1972_Summer_Olympics" style="font-size:114%;margin:0 4em"><a href="/wiki/Venues_of_the_1972_Summer_Olympics" title="Venues of the 1972 Summer Olympics">Venues</a> of the <a href="/wiki/1972_Summer_Olympics" title="1972 Summer Olympics">1972 Summer Olympics</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Olympiapark_(Munich)" title="Olympiapark (Munich)">Olympiapark</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Boxhalle" title="Boxhalle">Boxhalle</a></li>
+<li><a href="/wiki/Hockeyanlage" title="Hockeyanlage">Hockeyanlage</a></li>
+<li><a href="/wiki/Olympiahalle" title="Olympiahalle">Olympiahalle</a></li>
+<li><a href="/wiki/Olympiastadion_(Munich)" title="Olympiastadion (Munich)">Olympiastadion</a></li>
+<li><a href="/wiki/Olympic_Village,_Munich" title="Olympic Village, Munich">Olympisches Dorf</a></li>
+<li><a href="/wiki/Radstadion" title="Radstadion">Radstadion</a></li>
+<li><a href="/wiki/Olympia_Schwimmhalle" title="Olympia Schwimmhalle">Schwimmhalle</a></li>
+<li><a href="/wiki/Volleyballhalle" title="Volleyballhalle">Volleyballhalle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Greater <a href="/wiki/Munich" title="Munich">Munich</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Rudi-Sedlmayer-Halle" title="Rudi-Sedlmayer-Halle">Basketballhalle</a></li>
+<li><a href="/wiki/Englischer_Garten" title="Englischer Garten">Bogenschießlage</a></li>
+<li><a href="/wiki/Dantebad" title="Dantebad">Dantebad</a></li>
+<li><a href="/wiki/Nymphenburg_Palace" title="Nymphenburg Palace">Dressage Facility Nymphenburg</a></li>
+<li><a href="/wiki/Gr%C3%BCnwald,_Bavaria" title="Grünwald, Bavaria">Grünwald</a></li>
+<li><a href="/wiki/Messegel%C3%A4nde" title="Messegelände">Messegelände, Fechthalle 1</a></li>
+<li><a href="/wiki/Messegel%C3%A4nde" title="Messegelände">Messegelände Fechthalle 2</a></li>
+<li><a href="/wiki/Messegel%C3%A4nde" title="Messegelände">Messegelände, Gewichtheberhalle</a></li>
+<li><a href="/wiki/Messegel%C3%A4nde" title="Messegelände">Messegelände, Judo- und Ringerhalle</a></li>
+<li><a href="/wiki/Oberschlei%C3%9Fheim_Regatta_Course" title="Oberschleißheim Regatta Course">Oberschleißheim Regatta Course</a></li>
+<li><a href="/wiki/Riding_Facility,_Riem" title="Riding Facility, Riem">Riding Facility, Riem</a></li>
+<li><a href="/wiki/Schie%C3%9Fanlage" title="Schießanlage">Schießanlage</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Football venues</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Drei_Fl%C3%BCsse_Stadion" title="Drei Flüsse Stadion">Drei Flüsse Stadion</a> (<a href="/wiki/Passau" title="Passau">Passau</a>)</li>
+<li><a href="/wiki/Tuja-Stadion" title="Tuja-Stadion">ESV-Stadion</a> (<a href="/wiki/Ingolstadt" title="Ingolstadt">Ingolstadt</a>)</li>
+<li><a href="/wiki/Jahnstadion_(Regensburg)" title="Jahnstadion (Regensburg)">Jahnstadion (Regensburg)</a></li>
+<li><a href="/wiki/Rosenaustadion" title="Rosenaustadion">Rosenaustadion</a> (<a href="/wiki/Augsburg" title="Augsburg">Augsburg</a>)</li>
+<li><a class="mw-selflink selflink">Urban Stadium</a> (<a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Handball venues</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sporthalle_(B%C3%B6blingen)" title="Sporthalle (Böblingen)">Böblingen Sportshalle</a></li>
+<li><a href="/wiki/Donauhalle_Ulm" title="Donauhalle Ulm">Donauhalle Ulm</a></li>
+<li><a href="/wiki/EWS_Arena" title="EWS Arena">Hohenstaufenhalle Göppingen</a></li>
+<li><a href="/wiki/Sporthalle_Augsburg" title="Sporthalle Augsburg">Sporthalle Augsburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other venues</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bay_of_Kiel" title="Bay of Kiel">Bay of Kiel</a></li>
+<li><a href="/wiki/Bundesautobahn_96" title="Bundesautobahn 96">Bundesautobahn 96</a></li>
+<li><a href="/wiki/Augsburg_Eiskanal" title="Augsburg Eiskanal">Eiskanal</a> (<a href="/wiki/Augsburg" title="Augsburg">Augsburg</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Olympic_venues_in_association_football" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Olympic_venues_football" title="Template:Olympic venues football"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Olympic_venues_football" title="Template talk:Olympic venues football"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Olympic_venues_football&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Olympic_venues_in_association_football" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_Olympic_venues_in_football" title="List of Olympic venues in football">Olympic venues in association football</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dt><a href="/wiki/Football_at_the_1900_Summer_Olympics" title="Football at the 1900 Summer Olympics">1900</a></dt>
+<dd><a href="/wiki/V%C3%A9lodrome_de_Vincennes" title="Vélodrome de Vincennes">Vélodrome de Vincennes</a></dd>
+<dt><a href="/wiki/Football_at_the_1904_Summer_Olympics" title="Football at the 1904 Summer Olympics">1904</a></dt>
+<dd><a href="/wiki/Francis_Field_(St._Louis_County,_Missouri)" class="mw-redirect" title="Francis Field (St. Louis County, Missouri)">Francis Field</a></dd>
+<dt><a href="/wiki/Football_at_the_1908_Summer_Olympics" title="Football at the 1908 Summer Olympics">1908</a></dt>
+<dd><a href="/wiki/White_City_Stadium" title="White City Stadium">White City Stadium</a></dd>
+<dt><a href="/wiki/Football_at_the_1912_Summer_Olympics" title="Football at the 1912 Summer Olympics">1912</a></dt>
+<dd><a href="/wiki/R%C3%A5sunda_IP_(1910)" class="mw-redirect" title="Råsunda IP (1910)">Råsunda IP</a>, <a href="/wiki/Stockholm_Olympic_Stadium" title="Stockholm Olympic Stadium">Stockholm Olympic Stadium</a> (final), <a href="/wiki/Tranebergs_Idrottsplats" title="Tranebergs Idrottsplats">Tranebergs Idrottsplats</a></dd>
+<dt><a href="/wiki/Football_at_the_1920_Summer_Olympics" title="Football at the 1920 Summer Olympics">1920</a></dt>
+<dd><a href="/wiki/Jules_Ottenstadion" title="Jules Ottenstadion">Jules Ottenstadion</a>, <a href="/wiki/Olympisch_Stadion_(Antwerp)" title="Olympisch Stadion (Antwerp)">Olympisch Stadion</a> (final), <a href="/wiki/Stade_Joseph_Marien" title="Stade Joseph Marien">Stade Joseph Marien</a>, <a href="/wiki/Stadion_Broodstraat" title="Stadion Broodstraat">Stadion Broodstraat</a></dd>
+<dt><a href="/wiki/Football_at_the_1924_Summer_Olympics" title="Football at the 1924 Summer Olympics">1924</a></dt>
+<dd><a href="/wiki/Stade_Bergeyre" title="Stade Bergeyre">Stade Bergeyre</a>, <a href="/wiki/Stade_Olympique_Yves-du-Manoir" title="Stade Olympique Yves-du-Manoir">Stade de Colombes</a> (final), <a href="/wiki/Stade_de_Paris" title="Stade de Paris">Stade de Paris</a>, <a href="/wiki/Stade_Pershing" title="Stade Pershing">Stade Pershing</a></dd>
+<dt><a href="/wiki/Football_at_the_1928_Summer_Olympics" title="Football at the 1928 Summer Olympics">1928</a></dt>
+<dd><a href="/wiki/Monnikenhuize" title="Monnikenhuize">Monnikenhuize</a>, <a href="/wiki/Olympic_Stadium_(Amsterdam)" title="Olympic Stadium (Amsterdam)">Olympic Stadium</a> (final), <a href="/wiki/Sparta_Stadion_Het_Kasteel" title="Sparta Stadion Het Kasteel">Sparta Stadion Het Kasteel</a></dd>
+<dt><a href="/wiki/Football_at_the_1936_Summer_Olympics" title="Football at the 1936 Summer Olympics">1936</a></dt>
+<dd><a href="/wiki/Stadion_am_Gesundbrunnen" title="Stadion am Gesundbrunnen">Hertha-BSC Field</a>, <a href="/wiki/Mommsenstadion" title="Mommsenstadion">Mommsenstadion</a>, <a href="/wiki/Olympiastadion_(Berlin)" title="Olympiastadion (Berlin)">Olympiastadion</a> (final), <a href="/wiki/Poststadion" title="Poststadion">Poststadion</a></dd>
+<dt><a href="/wiki/Football_at_the_1948_Summer_Olympics" title="Football at the 1948 Summer Olympics">1948</a></dt>
+<dd><a href="/wiki/Arsenal_Stadium" title="Arsenal Stadium">Arsenal Stadium</a>, <a href="/wiki/Champion_Hill" title="Champion Hill">Champion Hill</a>, <a href="/wiki/Craven_Cottage" title="Craven Cottage">Craven Cottage</a>, <a href="/wiki/Wembley_Stadium_(1923)" title="Wembley Stadium (1923)">Empire Stadium</a> (medal matches), <a href="/wiki/Fratton_Park" title="Fratton Park">Fratton Park</a>, <a href="/wiki/Goldstone_Ground" title="Goldstone Ground">Goldstone Ground</a>, <a href="/wiki/Green_Pond_Road" title="Green Pond Road">Green Pond Road</a>, <a href="/wiki/Griffin_Park" title="Griffin Park">Griffin Park</a>, <a href="/wiki/Lynn_Road" title="Lynn Road">Lynn Road</a>, <a href="/wiki/Selhurst_Park" title="Selhurst Park">Selhurst Park</a>, <a href="/wiki/White_Hart_Lane" title="White Hart Lane">White Hart Lane</a></dd>
+<dt><a href="/wiki/Football_at_the_1952_Summer_Olympics" title="Football at the 1952 Summer Olympics">1952</a></dt>
+<dd><a href="/wiki/Sonera_Stadium" class="mw-redirect" title="Sonera Stadium">Helsinki Football Grounds</a>, <a href="/wiki/Arto_Tolsa_Areena" title="Arto Tolsa Areena">Kotka</a>, <a href="/wiki/Lahden_kisapuisto" title="Lahden kisapuisto">Lahti</a>, <a href="/wiki/Helsinki_Olympic_Stadium" title="Helsinki Olympic Stadium">Olympic Stadium</a> (final), <a href="/wiki/Tampere" title="Tampere">Tampere</a>, <a href="/wiki/Veritas_Stadion" title="Veritas Stadion">Turku</a></dd>
+<dt><a href="/wiki/Association_football_at_the_1956_Summer_Olympics" title="Association football at the 1956 Summer Olympics">1956</a></dt>
+<dd><a href="/wiki/Melbourne_Cricket_Ground" title="Melbourne Cricket Ground">Melbourne Cricket Ground</a> (final), <a href="/wiki/Olympic_Park_Stadium" title="Olympic Park Stadium">Olympic Park Stadium</a></dd>
+<dt><a href="/wiki/Football_at_the_1960_Summer_Olympics" title="Football at the 1960 Summer Olympics">1960</a></dt>
+<dd><a href="/wiki/Stadio_Artemio_Franchi" title="Stadio Artemio Franchi">Florence Communal Stadium</a>, <a href="/wiki/Stadio_Olimpico_Carlo_Zecchini" title="Stadio Olimpico Carlo Zecchini">Grosseto Communal Stadium</a>, <a href="/wiki/Stadio_Tommaso_Fattori" title="Stadio Tommaso Fattori">L'Aquila Communal Stadium</a>, <a href="/wiki/Stadio_Armando_Picchi" title="Stadio Armando Picchi">Livorno Ardenza Stadium</a>, <a href="/wiki/Stadio_San_Paolo" title="Stadio San Paolo">Naples Saint Paul's Stadium</a>, <a href="/wiki/Stadio_Adriatico_-_Giovanni_Cornacchia" class="mw-redirect" title="Stadio Adriatico - Giovanni Cornacchia">Pescara Adriatic Stadium</a>, <a href="/wiki/Stadio_Flaminio" title="Stadio Flaminio">Stadio Flaminio</a> (final)</dd>
+<dt><a href="/wiki/Football_at_the_1964_Summer_Olympics" title="Football at the 1964 Summer Olympics">1964</a></dt>
+<dd><a href="/wiki/Komazawa_Olympic_Park_Stadium" title="Komazawa Olympic Park Stadium">Komazawa Olympic Park Stadium</a>, <a href="/wiki/Nippatsu_Mitsuzawa_Stadium" title="Nippatsu Mitsuzawa Stadium">Mitsuzawa Football Field</a>, <a href="/wiki/Nagai_Stadium" class="mw-redirect" title="Nagai Stadium">Nagai Stadium</a>, <a href="/wiki/National_Olympic_Stadium_(Tokyo)" class="mw-redirect" title="National Olympic Stadium (Tokyo)">Tokyo National Stadium</a> (final), <a href="/wiki/Nishikyogoku_Athletic_Stadium" title="Nishikyogoku Athletic Stadium">Nishikyogoku Athletic Stadium</a>, <a href="/wiki/NACK5_Stadium_Omiya" title="NACK5 Stadium Omiya">Ōmiya Football Field</a>, <a href="/wiki/Chichibunomiya_Rugby_Stadium" title="Chichibunomiya Rugby Stadium">Prince Chichibu Memorial Football Field</a></dd>
+<dt><a href="/wiki/Football_at_the_1968_Summer_Olympics" title="Football at the 1968 Summer Olympics">1968</a></dt>
+<dd><a href="/wiki/Estadio_Azteca" title="Estadio Azteca">Estadio Azteca</a> (final), <a href="/wiki/Estadio_Cuauht%C3%A9moc" title="Estadio Cuauhtémoc">Estadio Cuauhtémoc</a>, <a href="/wiki/Estadio_Le%C3%B3n" title="Estadio León">Estadio Nou Camp</a>, <a href="/wiki/Estadio_Jalisco" title="Estadio Jalisco">Jalisco Stadium</a></dd>
+<dt><a href="/wiki/Football_at_the_1972_Summer_Olympics" title="Football at the 1972 Summer Olympics">1972</a></dt>
+<dd><a href="/wiki/Drei_Fl%C3%BCsse_Stadion" title="Drei Flüsse Stadion">Drei Flüsse Stadion</a>, <a href="/wiki/Tuja-Stadion" title="Tuja-Stadion">ESV-Stadion</a>, <a href="/wiki/Jahnstadion_(Regensburg)" title="Jahnstadion (Regensburg)">Jahnstadion</a>, <a href="/wiki/Olympiastadion_(Munich)" title="Olympiastadion (Munich)">Olympiastadion</a> (final), <a href="/wiki/Rosenaustadion" title="Rosenaustadion">Rosenaustadion</a>, <a class="mw-selflink selflink">Urban Stadium</a></dd>
+<dt><a href="/wiki/Football_at_the_1976_Summer_Olympics" title="Football at the 1976 Summer Olympics">1976</a></dt>
+<dd><a href="/wiki/TD_Place_Stadium" title="TD Place Stadium">Lansdowne Park</a>, <a href="/wiki/Olympic_Stadium_(Montreal)" title="Olympic Stadium (Montreal)">Olympic Stadium</a> (final), <a href="/wiki/Municipal_Stadium_(Sherbrooke)" title="Municipal Stadium (Sherbrooke)">Sherbrooke Stadium</a>, <a href="/wiki/Varsity_Stadium" title="Varsity Stadium">Varsity Stadium</a></dd>
+<dt><a href="/wiki/Football_at_the_1980_Summer_Olympics" title="Football at the 1980 Summer Olympics">1980</a></dt>
+<dd><a href="/wiki/Dinamo_Stadium_(Minsk)" title="Dinamo Stadium (Minsk)">Dinamo Stadium</a>, <a href="/wiki/Central_Dynamo_Stadium" title="Central Dynamo Stadium">Dynamo Central Stadium, Grand Arena</a>, <a href="/wiki/Luzhniki_Stadium" title="Luzhniki Stadium">Grand Arena</a> (final), <a href="/wiki/Kirov_Stadium" title="Kirov Stadium">Kirov Stadium</a>, <a href="/wiki/Olimpiyskiy_National_Sports_Complex" title="Olimpiyskiy National Sports Complex">Republican Stadium</a></dd>
+<dt><a href="/wiki/Football_at_the_1984_Summer_Olympics" title="Football at the 1984 Summer Olympics">1984</a></dt>
+<dd><a href="/wiki/Harvard_Stadium" title="Harvard Stadium">Harvard Stadium</a>, <a href="/wiki/Navy%E2%80%93Marine_Corps_Memorial_Stadium" title="Navy–Marine Corps Memorial Stadium">Navy–Marine Corps Memorial Stadium</a>, <a href="/wiki/Rose_Bowl_(stadium)" title="Rose Bowl (stadium)">Rose Bowl</a> (final), <a href="/wiki/Stanford_Stadium" title="Stanford Stadium">Stanford Stadium</a></dd>
+<dt><a href="/wiki/Football_at_the_1988_Summer_Olympics" title="Football at the 1988 Summer Olympics">1988</a></dt>
+<dd><a href="/wiki/Busan_Gudeok_Stadium" title="Busan Gudeok Stadium">Busan Stadium</a>, <a href="/wiki/Daegu_Civic_Stadium" title="Daegu Civic Stadium">Daegu Stadium</a>, <a href="/wiki/Hanbat_Sports_Complex" class="mw-redirect" title="Hanbat Sports Complex">Daejeon Stadium</a>, <a href="/wiki/Dongdaemun_Stadium" title="Dongdaemun Stadium">Dongdaemun Stadium</a>, <a href="/wiki/Olympic_Stadium_(Seoul)" class="mw-redirect" title="Olympic Stadium (Seoul)">Olympic Stadium</a> (final)</dd>
+<dt><a href="/wiki/Football_at_the_1992_Summer_Olympics" title="Football at the 1992 Summer Olympics">1992</a></dt>
+<dd><a href="/wiki/Estadi_de_la_Nova_Creu_Alta" title="Estadi de la Nova Creu Alta">Estadi de la Nova Creu Alta</a>, <a href="/wiki/Camp_Nou" title="Camp Nou">Camp Nou</a> (final), <a href="/wiki/Mestalla_Stadium" title="Mestalla Stadium">Estadio Luís Casanova</a>, <a href="/wiki/La_Romareda" title="La Romareda">La Romareda</a>, <a href="/wiki/Sarri%C3%A0_Stadium" title="Sarrià Stadium">Sarrià Stadium</a></dd>
+<dt><a href="/wiki/Football_at_the_1996_Summer_Olympics" title="Football at the 1996 Summer Olympics">1996</a></dt>
+<dd><a href="/wiki/Camping_World_Stadium" title="Camping World Stadium">Florida Citrus Bowl</a>, <a href="/wiki/Legion_Field" title="Legion Field">Legion Field</a>, <a href="/wiki/Miami_Orange_Bowl" title="Miami Orange Bowl">Orange Bowl</a>, <a href="/wiki/Robert_F._Kennedy_Memorial_Stadium" title="Robert F. Kennedy Memorial Stadium">RFK Memorial Stadium</a>, <a href="/wiki/Sanford_Stadium" title="Sanford Stadium">Sanford Stadium</a> (both finals)</dd>
+<dt><a href="/wiki/Football_at_the_2000_Summer_Olympics" title="Football at the 2000 Summer Olympics">2000</a></dt>
+<dd><a href="/wiki/ANZ_Stadium" class="mw-redirect" title="ANZ Stadium">Stadium Australia</a>, <a href="/wiki/The_Gabba" title="The Gabba">Brisbane Cricket Ground</a>, <a href="/wiki/Canberra_Stadium" title="Canberra Stadium">Bruce Stadium</a>, <a href="/wiki/Hindmarsh_Stadium" title="Hindmarsh Stadium">Hindmarsh Stadium</a>, <a href="/wiki/Melbourne_Cricket_Ground" title="Melbourne Cricket Ground">Melbourne Cricket Ground</a>, <a href="/wiki/Stadium_Australia" title="Stadium Australia">Olympic Stadium</a> (men's final), <a href="/wiki/Sydney_Football_Stadium" title="Sydney Football Stadium">Sydney Football Stadium</a> (women's final)</dd>
+<dt><a href="/wiki/Football_at_the_2004_Summer_Olympics" title="Football at the 2004 Summer Olympics">2004</a></dt>
+<dd><a href="/wiki/Kaftanzoglio_Stadium" title="Kaftanzoglio Stadium">Kaftanzoglio Stadium</a>, <a href="/wiki/Karaiskakis_Stadium" title="Karaiskakis Stadium">Karaiskakis Stadium</a> (women's final), <a href="/wiki/Olympic_Stadium_(Athens)" title="Olympic Stadium (Athens)">Olympic Stadium</a> (men's final), <a href="/wiki/Pampeloponnisiako_Stadium" title="Pampeloponnisiako Stadium">Pampeloponnisiako Stadium</a>, <a href="/wiki/Pankritio_Stadium" title="Pankritio Stadium">Pankritio Stadium</a>, <a href="/wiki/Panthessaliko_Stadium" title="Panthessaliko Stadium">Panthessaliko Stadium</a></dd>
+<dt><a href="/wiki/Football_at_the_2008_Summer_Olympics" title="Football at the 2008 Summer Olympics">2008</a></dt>
+<dd><a href="/wiki/Beijing_National_Stadium" title="Beijing National Stadium">Beijing National Stadium</a> (men's final), <a href="/wiki/Qinhuangdao_Olympic_Sports_Center_Stadium" title="Qinhuangdao Olympic Sports Center Stadium">Qinhuangdao Olympic Sports Center Stadium</a>, <a href="/wiki/Shanghai_Stadium" title="Shanghai Stadium">Shanghai Stadium</a>, <a href="/wiki/Shenyang_Olympic_Sports_Center_Stadium" title="Shenyang Olympic Sports Center Stadium">Shenyang Olympic Sports Center Stadium</a>, <a href="/wiki/Tianjin_Olympic_Center_Stadium" title="Tianjin Olympic Center Stadium">Tianjin Olympic Center Stadium</a>, <a href="/wiki/Workers%27_Stadium" title="Workers' Stadium">Workers' Stadium</a> (women's final)</dd>
+<dt><a href="/wiki/Football_at_the_2012_Summer_Olympics" title="Football at the 2012 Summer Olympics">2012</a></dt>
+<dd><a href="/wiki/Ricoh_Arena" title="Ricoh Arena">City of Coventry Stadium</a>, <a href="/wiki/Hampden_Park" title="Hampden Park">Hampden Park</a>, <a href="/wiki/Millennium_Stadium" title="Millennium Stadium">Millennium Stadium</a>, <a href="/wiki/St_James%27_Park" title="St James' Park">St James' Park</a>, <a href="/wiki/Old_Trafford" title="Old Trafford">Old Trafford</a>, <a href="/wiki/Wembley_Stadium" title="Wembley Stadium">Wembley Stadium</a> (both finals)</dd>
+<dt><a href="/wiki/Football_at_the_2016_Summer_Olympics" title="Football at the 2016 Summer Olympics">2016</a></dt>
+<dd><a href="/wiki/Est%C3%A1dio_Nacional_Man%C3%A9_Garrincha" title="Estádio Nacional Mané Garrincha">Estádio Nacional de Brasília</a>, <a href="/wiki/Itaipava_Arena_Fonte_Nova" title="Itaipava Arena Fonte Nova">Arena Fonte Nova</a>, <a href="/wiki/Mineir%C3%A3o" title="Mineirão">Mineirão</a>, <a href="/wiki/Arena_Corinthians" title="Arena Corinthians">Arena Corinthians</a>, <a href="/wiki/Arena_da_Amaz%C3%B4nia" title="Arena da Amazônia">Arena da Amazônia</a>, <a href="/wiki/Est%C3%A1dio_Ol%C3%ADmpico_Nilton_Santos" title="Estádio Olímpico Nilton Santos">Estádio Olímpico João Havelange</a>, <a href="/wiki/Maracan%C3%A3_Stadium" title="Maracanã Stadium">Maracanã</a> (both finals)</dd>
+<dt><a href="/wiki/Football_at_the_2020_Summer_Olympics" title="Football at the 2020 Summer Olympics">2020</a></dt>
+<dd><a href="/wiki/International_Stadium_Yokohama" title="International Stadium Yokohama">International Stadium Yokohama</a>, <a href="/wiki/Kashima_Soccer_Stadium" title="Kashima Soccer Stadium">Kashima Soccer Stadium</a>, <a href="/wiki/Miyagi_Stadium" title="Miyagi Stadium">Miyagi Stadium</a>, <a href="/wiki/New_National_Stadium_(Tokyo)" title="New National Stadium (Tokyo)">National Stadium</a>, <a href="/wiki/Saitama_Stadium_2002" title="Saitama Stadium 2002">Saiama Stadium</a>, <a href="/wiki/Sapporo_Dome" title="Sapporo Dome">Sapporo Dome</a>, <a href="/wiki/Ajinomoto_Stadium" title="Ajinomoto Stadium">Tokyo Stadium</a></dd>
+<dt><a href="/w/index.php?title=Football_at_the_2024_Summer_Olympics&amp;action=edit&amp;redlink=1" class="new" title="Football at the 2024 Summer Olympics (page does not exist)">2024</a></dt>
+<dd><a href="/wiki/Parc_des_Princes" title="Parc des Princes">Parc des Princes</a> (both finals), <a href="/wiki/Parc_Olympique_Lyonnais" title="Parc Olympique Lyonnais">Parc Olympique Lyonnais</a>, <a href="/wiki/Stade_de_la_Beaujoire" title="Stade de la Beaujoire">Stade de la Beaujoire</a>, <a href="/wiki/Allianz_Riviera" title="Allianz Riviera">Stade de Nice</a>, <a href="/wiki/Stade_Geoffroy-Guichard" title="Stade Geoffroy-Guichard">Stade Geoffroy-Guichard</a>, <a href="/wiki/Nouveau_Stade_de_Bordeaux" title="Nouveau Stade de Bordeaux">Stade Matmut Atlantique</a>, <a href="/wiki/Stadium_Municipal" title="Stadium Municipal">Stadium Municipal</a>, <a href="/wiki/Stade_Pierre-Mauroy" title="Stade Pierre-Mauroy">Stade Pierre-Mauroy</a>, <a href="/wiki/Stade_V%C3%A9lodrome" title="Stade Vélodrome">Stade Vélodrome</a></dd>
+</dl>
+</div>
+</td>
+<td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Football_pictogram.svg" class="image"><img alt="Football pictogram.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Football_pictogram.svg/50px-Football_pictogram.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Football_pictogram.svg/75px-Football_pictogram.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Football_pictogram.svg/100px-Football_pictogram.svg.png 2x" data-file-width="300" data-file-height="300" /></a></div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="2006_FIFA_World_Cup_stadiums" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:2006_FIFA_World_Cup_stadiums" title="Template:2006 FIFA World Cup stadiums"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:2006_FIFA_World_Cup_stadiums" title="Template talk:2006 FIFA World Cup stadiums"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:2006_FIFA_World_Cup_stadiums&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="2006_FIFA_World_Cup_stadiums" style="font-size:114%;margin:0 4em"><a href="/wiki/2006_FIFA_World_Cup" title="2006 FIFA World Cup">2006 FIFA World Cup</a> stadiums</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Westfalenstadion" title="Westfalenstadion">FIFA WM-Stadion Dortmund</a> (Dortmund)</li>
+<li><a href="/wiki/Commerzbank-Arena" title="Commerzbank-Arena">FIFA WM-Stadion Frankfurt</a> (Frankfurt)</li>
+<li><a href="/wiki/Veltins-Arena" title="Veltins-Arena">FIFA WM-Stadion Gelsenkirchen</a> (Gelsenkirchen)</li>
+<li><a href="/wiki/Volksparkstadion" title="Volksparkstadion">FIFA WM-Stadion Hamburg</a> (Hamburg)</li>
+<li><a href="/wiki/Niedersachsenstadion" title="Niedersachsenstadion">FIFA WM-Stadion Hannover</a> (Hanover)</li>
+<li><a href="/wiki/RheinEnergieStadion" title="RheinEnergieStadion">FIFA WM-Stadion Köln</a> (Cologne)</li>
+<li><a href="/wiki/Allianz_Arena" title="Allianz Arena">FIFA WM-Stadion München</a> (Munich)</li>
+<li><a class="mw-selflink selflink">Frankenstadion</a> (Nuremberg)</li>
+<li><a href="/wiki/Fritz-Walter-Stadion" title="Fritz-Walter-Stadion">Fritz-Walter-Stadion</a> (Kaiserslautern)</li>
+<li><a href="/wiki/Mercedes-Benz_Arena_(Stuttgart)" title="Mercedes-Benz Arena (Stuttgart)">Gottlieb-Daimler-Stadion</a> (Stuttgart)</li>
+<li><a href="/wiki/Olympiastadion_(Berlin)" title="Olympiastadion (Berlin)">Olympiastadion</a> (Berlin)</li>
+<li><a href="/wiki/Red_Bull_Arena_(Leipzig)" title="Red Bull Arena (Leipzig)">Zentralstadion</a> (Leipzig)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4844261-6">4844261-6</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1257
+Cached time: 20170922213516
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.216 seconds
+Real time usage: 0.301 seconds
+Preprocessor visited node count: 1895/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 81565/2097152 bytes
+Template argument size: 4064/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Lua time usage: 0.069/10.000 seconds
+Lua memory usage: 2.81 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  200.561      1 -total
+ 42.52%   85.280      1 Template:Infobox_venue
+ 37.21%   74.626      1 Template:Infobox
+ 15.51%   31.106      1 Template:Cite_web
+ 12.70%   25.473      1 Template:Coord
+ 12.67%   25.419     10 Template:Flagicon
+  8.92%   17.883      5 Template:Navbox
+  5.14%   10.303      1 Template:Succession_box
+  4.99%   10.007      1 Template:If_empty
+  3.93%    7.873      1 Template:Authority_control
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2249831-0!canonical and timestamp 20170922213515 and revision id 795988170
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Max-Morlock-Stadion&amp;oldid=795988170">https://en.wikipedia.org/w/index.php?title=Max-Morlock-Stadion&amp;oldid=795988170</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2006_FIFA_World_Cup_stadiums" title="Category:2006 FIFA World Cup stadiums">2006 FIFA World Cup stadiums</a></li><li><a href="/wiki/Category:2005_FIFA_Confederations_Cup_stadiums" title="Category:2005 FIFA Confederations Cup stadiums">2005 FIFA Confederations Cup stadiums</a></li><li><a href="/wiki/Category:1972_Summer_Olympic_venues" title="Category:1972 Summer Olympic venues">1972 Summer Olympic venues</a></li><li><a href="/wiki/Category:Olympic_football_venues" title="Category:Olympic football venues">Olympic football venues</a></li><li><a href="/wiki/Category:Football_venues_in_Germany" title="Category:Football venues in Germany">Football venues in Germany</a></li><li><a href="/wiki/Category:Athletics_(track_and_field)_venues_in_Germany" title="Category:Athletics (track and field) venues in Germany">Athletics (track and field) venues in Germany</a></li><li><a href="/wiki/Category:Buildings_and_structures_in_Nuremberg" title="Category:Buildings and structures in Nuremberg">Buildings and structures in Nuremberg</a></li><li><a href="/wiki/Category:1._FC_N%C3%BCrnberg" title="Category:1. FC Nürnberg">1. FC Nürnberg</a></li><li><a href="/wiki/Category:Sports_venues_completed_in_1928" title="Category:Sports venues completed in 1928">Sports venues completed in 1928</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Max-Morlock-Stadion" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Max-Morlock-Stadion" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Max-Morlock-Stadion" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Max-Morlock-Stadion" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Max-Morlock-Stadion">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Max-Morlock-Stadion&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Max-Morlock-Stadion&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Max-Morlock-Stadion" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Max-Morlock-Stadion" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Max-Morlock-Stadion&amp;oldid=795988170" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Max-Morlock-Stadion&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q152599" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Max-Morlock-Stadion&amp;id=795988170" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Max-Morlock-Stadion">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Max-Morlock-Stadion&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DMax-Morlock-Stadion%26returnto%3DMax-Morlock-Stadion%26oldid%3D795988170%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Max-Morlock-Stadion&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Frankenstadion" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D9%84%D8%B9%D8%A8_%D9%85%D8%A7%D9%83%D8%B3_%D9%85%D9%88%D8%B1%D9%84%D9%88%D9%83" title="ملعب ماكس مورلوك – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%B5%D0%BD%D1%89%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD" title="Франкенщадион – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Grundig_Stadion" title="Grundig Stadion – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Grundig_Stadion" title="Grundig Stadion – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Grundig_Stadion" title="Grundig Stadion – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Grundig_Stadion" title="Grundig Stadion – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Max-Morlock-Stadion" title="Max-Morlock-Stadion – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Stadion_N%C3%BCrnberg" title="Stadion Nürnberg – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Grundig_Stadion" title="Grundig Stadion – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%88%D8%B1%D8%B2%D8%B4%DA%AF%D8%A7%D9%87_%D9%81%D8%B1%D8%A7%D9%86%DA%A9%D9%86" title="ورزشگاه فرانکن – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Grundig_Stadion" title="Grundig Stadion – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%8A%88%ED%83%80%EB%94%94%EC%98%A8_%EB%89%98%EB%A5%B8%EB%B2%A0%EB%A5%B4%ED%81%AC" title="슈타디온 뉘른베르크 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Grundig_Stadion" title="Grundig Stadion – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Grundig_Stadion" title="Grundig Stadion – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Max-Morlock-Stadion" title="Max-Morlock-Stadion – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%A6%D7%98%D7%93%D7%99%D7%95%D7%9F_%D7%A0%D7%99%D7%A8%D7%A0%D7%91%D7%A8%D7%92" title="אצטדיון נירנברג – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Grundig_Stadion" title="Grundig Stadion – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Grundig_Stadion" title="Grundig Stadion – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%82%E0%A4%95%E0%A4%A8%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%87%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%A8" title="फ्रांकनस्टेडियोन – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Grundig_Stadion" title="Grundig Stadion – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B1%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%B3" title="フランケンシュタディオン – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Grundig_Stadion" title="Grundig Stadion – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Grundig_Stadion" title="Grundig Stadion – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Grundig_Stadion" title="Grundig Stadion – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Grundig_Stadion" title="Grundig Stadion – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9D%D1%8E%D1%80%D0%BD%D0%B1%D0%B5%D1%80%D0%B3_(%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD)" title="Нюрнберг (стадион) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Frankenstadion" title="Frankenstadion – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Grundig_Stadion" title="Grundig Stadion – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%98%D0%B7%D0%B8_%D0%9A%D1%80%D0%B5%D0%B4%D0%B8%D1%82_%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD" title="Изи Кредит стадион – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Stadion_N%C3%BCrnberg" title="Stadion Nürnberg – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Grundig_Stadion" title="Grundig Stadion – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Franken_Stadyumu" title="Franken Stadyumu – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%93%D1%80%D1%8E%D0%BD%D0%B4%D1%96%D0%B3-%D0%A8%D1%82%D0%B0%D0%B4%D1%96%D0%BE%D0%BD" title="Грюндіг-Штадіон – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%A9%AC%E5%85%8B%E6%96%AF%C2%B7%E8%8E%AB%E6%B4%9B%E5%85%8B%E4%BD%93%E8%82%B2%E5%9C%BA" title="马克斯·莫洛克体育场 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q152599#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 17 August 2017, at 19:36.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Max-Morlock-Stadion&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.216","walltime":"0.301","ppvisitednodes":{"value":1895,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":81565,"limit":2097152},"templateargumentsize":{"value":4064,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  200.561      1 -total"," 42.52%   85.280      1 Template:Infobox_venue"," 37.21%   74.626      1 Template:Infobox"," 15.51%   31.106      1 Template:Cite_web"," 12.70%   25.473      1 Template:Coord"," 12.67%   25.419     10 Template:Flagicon","  8.92%   17.883      5 Template:Navbox","  5.14%   10.303      1 Template:Succession_box","  4.99%   10.007      1 Template:If_empty","  3.93%    7.873      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.069","limit":"10.000"},"limitreport-memusage":{"value":2943543,"limit":52428800}},"cachereport":{"origin":"mw1257","timestamp":"20170922213516","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":54,"wgHostname":"mw1258"});});</script>
+	</body>
+</html>

@@ -1,0 +1,1643 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Elisha - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Elisha","wgTitle":"Elisha","wgCurRevisionId":802436247,"wgRevisionId":802436247,"wgArticleId":23671899,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles with Arabic-language external links","Articles with hCards","Articles containing Ancient Greek-language text","Articles with specifically marked weasel-worded phrases from March 2017","Articles containing Arabic-language text","Articles incorporating text from the 1913 Catholic Encyclopedia with no article parameter","Wikipedia articles incorporating text from Easton's Bible Dictionary","Wikipedia articles with VIAF identifiers","Wikipedia articles with GND identifiers","Prophets of the Hebrew Bible","9th-century BC people","Christian saints from the Old Testament","Carmelite spirituality","Prophets of Islam","Books of Kings","Biblical people in Islam","Elijah","Wonderworkers"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Elisha","wgRelevantArticleId":23671899,"wgRequestId":"WcnW8ApAIDkAACGLscMAAABL","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q206238","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/5/58/ElishaRaisingShunammitesSon.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Elisha"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Elisha&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Elisha&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Elisha"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Elisha rootpage-Elisha skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Elisha</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about the prophet. For others with the same given name, see <a href="/wiki/Elisha_(given_name)" title="Elisha (given name)">Elisha (given name)</a>.</div>
+<div role="note" class="hatnote navigation-not-searchable">Not to be confused with <a href="/wiki/Elishah" title="Elishah">Elishah</a> or <a href="/wiki/Elijah" title="Elijah">Elijah</a>.</div>
+<table class="infobox biography vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Elisha</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:ElishaRaisingShunammitesSon.jpg" class="image"><img alt="ElishaRaisingShunammitesSon.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/ElishaRaisingShunammitesSon.jpg/220px-ElishaRaisingShunammitesSon.jpg" width="220" height="260" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/ElishaRaisingShunammitesSon.jpg/330px-ElishaRaisingShunammitesSon.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/58/ElishaRaisingShunammitesSon.jpg/440px-ElishaRaisingShunammitesSon.jpg 2x" data-file-width="599" data-file-height="708" /></a>
+<div><a href="/wiki/Raising_of_the_son_of_the_woman_of_Shunem" title="Raising of the son of the woman of Shunem">Elisha raising the Shunammite's Son</a>, early 1900s Bible Card illustration</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Died</th>
+<td><span class="deathplace">Samaria</span></td>
+</tr>
+</table>
+<p><b>Elisha</b> (<span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ɪ/: 'i' in 'kit'">ɪ</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="'l' in 'lie'">l</span><span title="/aɪ/: 'i' in 'tide'">aɪ</span><span title="/ʃ/: 'sh' in 'shy'">ʃ</span><span title="/ə/: 'a' in 'about'">ə</span></span>/</a></span></span>;<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a>: <span style="white-space:nowrap;" lang="he" dir="rtl" xml:lang="he">אֱלִישָׁע</span>, <small><a href="/wiki/Modern_Hebrew" title="Modern Hebrew">Modern</a></small>&#160;<i><span title="he transliteration" class="Unicode" style="white-space:normal; text-decoration: none">Elisha</span></i>, <small><a href="/wiki/Tiberian_vocalization" title="Tiberian vocalization">Tiberian</a></small>&#160;<i><span title="Hebrew transliteration" class="Unicode" style="white-space:normal; text-decoration: none">ʼĔlîšāʻ</span></i>; "My <a href="/wiki/Elohim" title="Elohim">God</a> is salvation", Greek: <span lang="grc" xml:lang="grc">Ἐλισσαῖος</span>, <i>Elissaîos</i> or <span lang="grc" xml:lang="grc">Ἐλισαιέ</span>, <i>Elisaié</i>, <a href="/wiki/Arabic" title="Arabic">Arabic</a>: الْيَسَع <i>Al-Yasaʿ</i>) is a <a href="/wiki/Hebrew" class="mw-redirect" title="Hebrew">Hebrew</a> <a href="/wiki/Prophet" title="Prophet">prophet</a> and a <a href="/wiki/Thaumaturgy" title="Thaumaturgy">wonder-worker</a> whose life is documented in the <a href="/wiki/Hebrew_Bible" title="Hebrew Bible">Hebrew Bible</a>. Also mentioned in the <a href="/wiki/New_Testament" title="New Testament">New Testament</a> and the <a href="/wiki/Quran" title="Quran">Quran</a>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Elisha is venerated as a prophet in <a href="/wiki/Judaism" title="Judaism">Judaism</a>, <a href="/wiki/Christianity" title="Christianity">Christianity</a>, and <a href="/wiki/Islam" title="Islam">Islam</a>. Amongst new religious movements, <a href="/wiki/Bah%C3%A1%27%C3%AD" class="mw-redirect" title="Bahá'í">Bahá'í</a> writings refer to him by name.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> His name is commonly transliterated into <a href="/wiki/English_language" title="English language">English</a> as <b>Elisha</b> via <a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a>, <b>Eliseus</b> via <a href="/wiki/Greek_language" title="Greek language">Greek</a> and <a href="/wiki/Latin" title="Latin">Latin</a>, or <b>Alyasa</b> via <a href="/wiki/Arabic_language" class="mw-redirect" title="Arabic language">Arabic</a>, <b>Elyesa</b> via Turkish. He was a disciple, and even protégé, of <a href="/wiki/Elijah" title="Elijah">Elijah</a> and, after Elijah was taken up into the whirlwind, Elisha was accepted as the leader of the sons of the prophets.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Wonder-worker"><span class="tocnumber">1.1</span> <span class="toctext">Wonder-worker</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Veneration"><span class="tocnumber">2</span> <span class="toctext">Veneration</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Elisha_in_Islam"><span class="tocnumber">3</span> <span class="toctext">Elisha in Islam</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Further_reading"><span class="tocnumber">6</span> <span class="toctext">Further reading</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Islamic_view"><span class="tocnumber">6.1</span> <span class="toctext">Islamic view</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Elisha&amp;action=edit&amp;section=1" title="Edit section: Biography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Elisha-Eliseus.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Elisha-Eliseus.jpg/220px-Elisha-Eliseus.jpg" width="220" height="258" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Elisha-Eliseus.jpg/330px-Elisha-Eliseus.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/b/b2/Elisha-Eliseus.jpg 2x" data-file-width="427" data-file-height="500" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Elisha-Eliseus.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Russian_icons" title="Russian icons">Russian icon</a> of Elisha (18th century, <a href="/wiki/Kizhi" class="mw-redirect" title="Kizhi">Kizhi</a> <a href="/wiki/Monastery" title="Monastery">Monastery</a>, Russia).</div>
+</div>
+</div>
+<p>Elisha's story is related in the <a href="/wiki/Books_of_Kings" title="Books of Kings">Book of Kings</a> in the <a href="/wiki/Hebrew_Bible" title="Hebrew Bible">Hebrew Bible</a> (in Judaism, part of the <a href="/wiki/Nevi%27im" title="Nevi'im">Nevi'im</a>). He was a prophet and a wonder-worker of the <a href="/wiki/Kingdom_of_Israel_(Samaria)" title="Kingdom of Israel (Samaria)">Northern Kingdom of Israel</a> who was active during the reign of <a href="/wiki/Jehoram_of_Israel" title="Jehoram of Israel">Joram</a>, <a href="/wiki/Jehu" title="Jehu">Jehu</a>, <a href="/wiki/Jehoahaz_of_Israel" title="Jehoahaz of Israel">Jehoahaz</a>, and <a href="/wiki/Jehoash_of_Israel" title="Jehoash of Israel">Jehoash</a> (Joash).<sup id="cite_ref-autogenerated1996_4-0" class="reference"><a href="#cite_note-autogenerated1996-4">[4]</a></sup> Elisha was the son of <a href="/wiki/Shaphat" title="Shaphat">Shaphat</a>, a wealthy land-owner of <a href="/wiki/Abel-meholah" title="Abel-meholah">Abel-meholah</a>; he became the attendant and disciple of Elijah.<sup id="cite_ref-je_5-0" class="reference"><a href="#cite_note-je-5">[5]</a></sup></p>
+<p>His name first occurs in the command given to Elijah to <a href="/wiki/Anointing" title="Anointing">anoint</a> him as his successor. After learning in the <a href="/wiki/Cave_of_Elijah" title="Cave of Elijah">cave</a> on <a href="/wiki/Mount_Horeb" title="Mount Horeb">Mount Horeb</a>, that Elisha, the son of Shaphat, had been selected by <a href="/wiki/Yahweh" title="Yahweh">Yahweh</a> as his successor in the prophetic office, Elijah set out to find him. On his way from <a href="/wiki/Sinai_Peninsula" title="Sinai Peninsula">Sinai</a> to <a href="/wiki/Damascus" title="Damascus">Damascus</a>, Elijah found Elisha "one of them that were ploughing with twelve yoke of <a href="/wiki/Ox" title="Ox">oxen</a>". Elisha delayed only long enough to kill the yoke of oxen, whose flesh he boiled with the wood of his plough. He went over to him, threw his <a href="/wiki/Mantle_(vesture)" title="Mantle (vesture)">mantle</a> over Elisha's shoulders, and at once adopted him as a son, investing him with the prophetic office.<sup id="cite_ref-je_5-1" class="reference"><a href="#cite_note-je-5">[5]</a></sup> Elisha accepted this call about four years before the death of Israel's King <a href="/wiki/Ahab" title="Ahab">Ahab</a>. For the next seven or eight years Elisha became Elijah's close attendant until Elijah was taken up into <a href="/wiki/Heaven" title="Heaven">heaven</a>. During all these years we hear nothing of Elisha except in connection with the closing scenes of Elijah's life.</p>
+<p>After he had shared this farewell repast with his father, mother, and friends, the newly chosen prophet "went after Elijah, and ministered unto him."<sup id="cite_ref-dothie_6-0" class="reference"><a href="#cite_note-dothie-6">[6]</a></sup> He went with his master from <a href="/wiki/Gilgal" title="Gilgal">Gilgal</a> to <a href="/wiki/Bethel" title="Bethel">Bethel</a>, to <a href="/wiki/Jericho" title="Jericho">Jericho</a>, and thence to the eastern side of the <a href="/wiki/Jordan_River" title="Jordan River">Jordan</a>, the waters of which, touched by the mantle, divided, so as to permit both to pass over on dry ground. Elisha then was separated from Elijah by a fiery chariot, and Elijah was taken up by a whirlwind into Heaven.</p>
+<p>Before Elijah was taken up into the whirlwind, Elisha asked to "inherit a double-portion" of Elijah's spirit. Some scholars see this as indicative of the property inheritance customs of the time, where the oldest son received twice as much of the father's inheritance as each of the younger sons. In this interpretation Elisha is asking that he may be seen as the "rightful heir" and successor to Elijah.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Critics of this view point out that Elisha was already appointed as Elijah's successor earlier in the narrative and that Elisha is described as performing twice as many miracles as Elijah. In this interpretation the "double-portion" isn't merely an allusion to primacy in succession, but is instead a request for greater prophetic power even than Elijah.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Much of this confusion comes from translations which incorrectly translate the phrase as a "double portion" while in Hebrew Elisha asks for "two thirds of a portion" of the prophetic spirit that imbued Elijah.</p>
+<p>By means of the mantle let fall from Elijah, Elisha miraculously recrossed the Jordan, and Elisha returned to Jericho, where he won the gratitude of the people by purifying the unwholesome waters of their spring and making them drinkable.<sup id="cite_ref-ocarm_9-0" class="reference"><a href="#cite_note-ocarm-9">[9]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Willem_Willemsz_van_den_Bundel_The_Prophet_Elisha_curses_the_children_who_mocked_him.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Willem_Willemsz_van_den_Bundel_The_Prophet_Elisha_curses_the_children_who_mocked_him.jpg/220px-Willem_Willemsz_van_den_Bundel_The_Prophet_Elisha_curses_the_children_who_mocked_him.jpg" width="220" height="154" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Willem_Willemsz_van_den_Bundel_The_Prophet_Elisha_curses_the_children_who_mocked_him.jpg/330px-Willem_Willemsz_van_den_Bundel_The_Prophet_Elisha_curses_the_children_who_mocked_him.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Willem_Willemsz_van_den_Bundel_The_Prophet_Elisha_curses_the_children_who_mocked_him.jpg/440px-Willem_Willemsz_van_den_Bundel_The_Prophet_Elisha_curses_the_children_who_mocked_him.jpg 2x" data-file-width="3182" data-file-height="2223" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Willem_Willemsz_van_den_Bundel_The_Prophet_Elisha_curses_the_children_who_mocked_him.jpg" class="internal" title="Enlarge"></a></div>
+<i>The Prophet Elisha curses the children who mocked him</i>, by <a href="/wiki/Willem_van_den_Bundel" title="Willem van den Bundel">Willem van den Bundel</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Bears_savaging_the_youths_from_a_French_Manuscript.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bears_savaging_the_youths_from_a_French_Manuscript.jpg/250px-Bears_savaging_the_youths_from_a_French_Manuscript.jpg" width="250" height="224" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bears_savaging_the_youths_from_a_French_Manuscript.jpg/375px-Bears_savaging_the_youths_from_a_French_Manuscript.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bears_savaging_the_youths_from_a_French_Manuscript.jpg/500px-Bears_savaging_the_youths_from_a_French_Manuscript.jpg 2x" data-file-width="600" data-file-height="538" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Bears_savaging_the_youths_from_a_French_Manuscript.jpg" class="internal" title="Enlarge"></a></div>
+The bears savaging the youths at Elisha's command, while <a href="/wiki/Elijah" title="Elijah">Elijah</a> is borne in the flying chariot (1453 French manuscript).</div>
+</div>
+</div>
+<p>Before he settled in Samaria, Elisha passed some time on <a href="/wiki/Mount_Carmel" title="Mount Carmel">Mount Carmel</a>.<sup id="cite_ref-duffy_10-0" class="reference"><a href="#cite_note-duffy-10">[10]</a></sup> When the armies of Judah, Israel and Edom, then allied against <a href="/wiki/Mesha" title="Mesha">Mesha</a>, the <a href="/wiki/Moab" title="Moab">Moabite</a> king, were being tortured by drought in the <a href="/wiki/Edom" title="Edom">Idumean</a> desert, Elisha consented to intervene. His double prediction regarding relief from drought and victory over the Moabites was fulfilled on the following morning.<sup id="cite_ref-je_5-2" class="reference"><a href="#cite_note-je-5">[5]</a></sup> When a group of boys (or youths<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>) from Bethel taunted the prophet for his baldness, Elisha cursed them in the name of <a href="/wiki/Yahweh" title="Yahweh">Yahweh</a> and two female bears came out of the forest and tore forty-two of the boys.<sup id="cite_ref-duffy_10-1" class="reference"><a href="#cite_note-duffy-10">[10]</a></sup></p>
+<p>He became noted in Israel, and for six decades (892–832 B.C.) held the office of "prophet in Israel". He is called a patriot because of his help to soldiers and kings.<sup id="cite_ref-autogenerated1996_4-1" class="reference"><a href="#cite_note-autogenerated1996-4">[4]</a></sup></p>
+<h3><span class="mw-headline" id="Wonder-worker">Wonder-worker</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Elisha&amp;action=edit&amp;section=2" title="Edit section: Wonder-worker">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Elisha_raises_son_BenjaminWest.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Elisha_raises_son_BenjaminWest.jpg/220px-Elisha_raises_son_BenjaminWest.jpg" width="220" height="176" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Elisha_raises_son_BenjaminWest.jpg/330px-Elisha_raises_son_BenjaminWest.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Elisha_raises_son_BenjaminWest.jpg/440px-Elisha_raises_son_BenjaminWest.jpg 2x" data-file-width="1024" data-file-height="817" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Elisha_raises_son_BenjaminWest.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Raising_of_the_son_of_the_woman_of_Shunem" title="Raising of the son of the woman of Shunem">Elisha raises son of the woman of Shunem</a>, by <a href="/wiki/Benjamin_West" title="Benjamin West">Benjamin West</a>, 1765</div>
+</div>
+</div>
+<p>To relieve the widow importuned by a hard creditor, Elisha so multiplied a little oil as to enable her, not only to pay her debt, but to provide for her family needs. To reward the <a href="/wiki/Woman_of_Shunem" title="Woman of Shunem">rich lady of Shunem</a> for her hospitality, he obtained for her from Yahweh, at first the birth of a son, and subsequently the <a href="/wiki/Raising_of_the_son_of_the_woman_of_Shunem" title="Raising of the son of the woman of Shunem">resurrection of her child</a>, who had died. To nourish the sons of the prophets pressed by famine, Elisha changed into wholesome food the pottage made from poisonous gourds.<sup id="cite_ref-ocarm_9-1" class="reference"><a href="#cite_note-ocarm-9">[9]</a></sup></p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:ElijahRefusingGifts_PieterDeGrebber.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/ElijahRefusingGifts_PieterDeGrebber.jpg/220px-ElijahRefusingGifts_PieterDeGrebber.jpg" width="220" height="149" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/ElijahRefusingGifts_PieterDeGrebber.jpg/330px-ElijahRefusingGifts_PieterDeGrebber.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/ElijahRefusingGifts_PieterDeGrebber.jpg/440px-ElijahRefusingGifts_PieterDeGrebber.jpg 2x" data-file-width="950" data-file-height="642" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:ElijahRefusingGifts_PieterDeGrebber.jpg" class="internal" title="Enlarge"></a></div>
+<i>Elisha refusing the gifts of <a href="/wiki/Naaman" title="Naaman">Naaman</a></i>, by <a href="/wiki/Pieter_de_Grebber" title="Pieter de Grebber">Pieter de Grebber</a> 1630</div>
+</div>
+</div>
+<p>Elisha cured the Syrian military commander <a href="/wiki/Naaman" title="Naaman">Naaman</a> of <a href="/wiki/Leprosy" title="Leprosy">leprosy</a> but punished his own servant <a href="/wiki/Gehazi" title="Gehazi">Gehazi</a>, who took money from Naaman.<sup id="cite_ref-oca_12-0" class="reference"><a href="#cite_note-oca-12">[12]</a></sup> Naaman, at first reluctant, obeyed Elisha, and washed seven times in the Jordan. Finding his flesh "restored like the flesh of a little child", the general was so impressed by this evidence of God's power, and by the disinterestedness of His Prophet, as to express his deep conviction that "there is no other God in all the earth, but only in Israel". In the <a href="/wiki/Christianity" title="Christianity">Christian</a> tradition, <a href="/wiki/Jesus" title="Jesus">Jesus</a> referred to this event when he said, "And there were many lepers in Israel in the time of Elisha the prophet: and none of them was cleansed but Naaman the Syrian".<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+<p>Elisha's public political actions included repeatedly saving King Jehoram of Israel from the ambushes planned by <a href="/wiki/Hadadezer" title="Hadadezer">Benhadad</a>,<sup id="cite_ref-duffy_10-2" class="reference"><a href="#cite_note-duffy-10">[10]</a></sup> ordering the elders to shut the door against the messenger of Israel's ungrateful king,<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> bewildering with a strange blindness the soldiers of the Syrian king,<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> making iron float to relieve from embarrassment a son of a prophet,<sup id="cite_ref-bibleverse.7C2.7CKings.7C6:1.E2.80.937.7CHE_16-0" class="reference"><a href="#cite_note-bibleverse.7C2.7CKings.7C6:1.E2.80.937.7CHE-16">[16]</a></sup> confidently predicting the sudden flight of the enemy and the consequent cessation of the famine,<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> and unmasking the treachery of <a href="/wiki/Hazael" title="Hazael">Hazael</a>.<sup id="cite_ref-bibleverse.7C2.7CKings.7C8:7.E2.80.9315.7CHE_18-0" class="reference"><a href="#cite_note-bibleverse.7C2.7CKings.7C8:7.E2.80.9315.7CHE-18">[18]</a></sup></p>
+<p>Other miracles Elisha accomplishes include multiplying the twenty loaves of new <a href="/wiki/Barley" title="Barley">barley</a> into a sufficient supply for a hundred men, and for a disciple of the schools of the prophets, he recovers an axe fallen into the waters of the Jordan.<sup id="cite_ref-ocarm_9-2" class="reference"><a href="#cite_note-ocarm-9">[9]</a></sup> He administered the miracle at <a href="/wiki/Dothan_(ancient_city)" title="Dothan (ancient city)">Dothan</a>, half-way on the road between <a href="/wiki/Samaria" title="Samaria">Samaria</a> and <a href="/wiki/Jezreel_Valley" title="Jezreel Valley">Jezreel</a>, and at the siege of Samaria by the king of Syria, Elisha prophesied about the terrible sufferings of the people of Samaria and their eventual relief.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></p>
+<p>Elisha then journeyed to Damascus and prophesied that Hazael would be king over Syria;<sup id="cite_ref-bibleverse.7C2.7CKings.7C8:7.E2.80.9315.7CHE_18-1" class="reference"><a href="#cite_note-bibleverse.7C2.7CKings.7C8:7.E2.80.9315.7CHE-18">[18]</a></sup> thereafter he directs one of the sons of the prophets to anoint Jehu, the son of <a href="/wiki/Jehoshaphat" title="Jehoshaphat">Jehoshaphat</a>, king of Israel, in place of Ahab. Mindful of the order given to Elijah, Elisha delegated a son of one of the prophets to quietly anoint Jehu King of Israel, and to commission him to cut off the house of Ahab.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> The death of Jehoram, pierced by an arrow from Jehu's bow, the ignominious end of <a href="/wiki/Jezebel" title="Jezebel">Jezebel</a>, the slaughter of Ahab's seventy sons, proved how faithfully executed was the Divine command.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> After predicting to Jehoash his victory over the Syrians at <a href="/wiki/Aphek_(biblical)" title="Aphek (biblical)">Aphek</a>, as well as three other subsequent victories, ever bold before kings, ever kindly towards the lowly, "Elisha died, and they buried him".<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:The_Miracle_at_the_Grave_of_Elisha_by_Jan_Nagel_(d_1602).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Miracle_at_the_Grave_of_Elisha_by_Jan_Nagel_%28d_1602%29.jpg/220px-The_Miracle_at_the_Grave_of_Elisha_by_Jan_Nagel_%28d_1602%29.jpg" width="220" height="256" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Miracle_at_the_Grave_of_Elisha_by_Jan_Nagel_%28d_1602%29.jpg/330px-The_Miracle_at_the_Grave_of_Elisha_by_Jan_Nagel_%28d_1602%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Miracle_at_the_Grave_of_Elisha_by_Jan_Nagel_%28d_1602%29.jpg/440px-The_Miracle_at_the_Grave_of_Elisha_by_Jan_Nagel_%28d_1602%29.jpg 2x" data-file-width="2362" data-file-height="2750" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:The_Miracle_at_the_Grave_of_Elisha_by_Jan_Nagel_(d_1602).jpg" class="internal" title="Enlarge"></a></div>
+The miracle at the grave of Elisha. (<a href="/wiki/Jan_Nagel_(painter)" title="Jan Nagel (painter)">Jan Nagel</a>, 1596)</div>
+</div>
+</div>
+<p>While Elisha lay on his death-bed in his own house,<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> Jehoash, the grandson of Jehu, came to mourn over his approaching departure, and uttered the same words as those of Elisha when Elijah was taken away, indicating his value to him: "My father, my father! the chariot of Israel, and the horsemen thereof."</p>
+<p>The touch of his corpse served to resuscitate a dead man. A year after Elisha's death and burial a body was placed in his grave. As soon as the body touched Elisha's remains the man "revived, and stood up on his feet".<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup> It has been said<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch"><span title="The material near this tag may use weasel words or too-vague attribution. (March 2017)">by whom?</span></a></i>]</sup>, that this dead man was Shallum (son of Tikvah), keeper of the temple-wardrobe in the reign of <a href="/wiki/Josiah" title="Josiah">Josiah</a><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> and husband of <a href="/wiki/Huldah" title="Huldah">Huldah</a> the prophetess.</p>
+<h2><span class="mw-headline" id="Veneration">Veneration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Elisha&amp;action=edit&amp;section=3" title="Edit section: Veneration">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He is <a href="/wiki/Veneration" title="Veneration">venerated</a> as a <a href="/wiki/Saint" title="Saint">saint</a> in a number of Christian Churches. His <a href="/wiki/Calendar_of_saints" title="Calendar of saints">feast day</a> is on June 14, on the <a href="/wiki/Eastern_Orthodox_Church" title="Eastern Orthodox Church">Eastern Orthodox</a>, and <a href="/wiki/Eastern_Catholic_Churches" title="Eastern Catholic Churches">Eastern Catholic</a> <a href="/wiki/Eastern_Orthodox_liturgical_calendar" title="Eastern Orthodox liturgical calendar">liturgical calendars</a> (for those churches which use the traditional <a href="/wiki/Julian_calendar" title="Julian calendar">Julian calendar</a>, June 14 falls on June 27 of the modern <a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian calendar</a>). <a href="/wiki/John_of_Damascus" title="John of Damascus">John of Damascus</a> composed a <a href="/wiki/Canon_(hymnography)" title="Canon (hymnography)">canon</a> in honor of Elisha, and a church was built at <a href="/wiki/Constantinople" title="Constantinople">Constantinople</a> in his honor.</p>
+<p>In <a href="/wiki/Western_Christianity" title="Western Christianity">Western Christianity</a> he is commemorated on the <a href="/wiki/Carmelites" title="Carmelites">Carmelites</a>, a <a href="/wiki/Catholic_religious_order" title="Catholic religious order">Catholic religious order</a>, calendar of saints.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> He is also commemorated as a prophet on the <a href="/wiki/Calendar_of_Saints_(Lutheran)" class="mw-redirect" title="Calendar of Saints (Lutheran)">Calendar of Saints</a> of the <a href="/wiki/Lutheran_Church%E2%80%93Missouri_Synod" title="Lutheran Church–Missouri Synod">Lutheran Church–Missouri Synod</a>. Both calendars also celebrate him on June 14. Both the Orthodox and Roman Catholics believe that he was unmarried and celibate.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></p>
+<p><a href="/wiki/Julian_the_Apostate" class="mw-redirect" title="Julian the Apostate">Julian the Apostate</a> (361–363) gave orders to burn the <a href="/wiki/Relic" title="Relic">relics</a> of the prophets Elisha, <a href="/wiki/Obadiah" title="Obadiah">Obadiah</a> and <a href="/wiki/John_the_Baptist" title="John the Baptist">John the Baptist</a>, who were buried next to each other in <a href="/wiki/Sebastia,_Nablus" title="Sebastia, Nablus">Sebastia</a>,<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> but they were rescued by the Christians, and part of them were transferred to <a href="/wiki/Alexandria" title="Alexandria">Alexandria</a>.<sup id="cite_ref-oca_12-1" class="reference"><a href="#cite_note-oca-12">[12]</a></sup> Today, the relics of Elisha are claimed to be among the possessions of the <a href="/wiki/Coptic_Orthodox_Church_of_Alexandria" title="Coptic Orthodox Church of Alexandria">Coptic Orthodox</a> <a href="/wiki/Monastery_of_Saint_Macarius_the_Great" title="Monastery of Saint Macarius the Great">Monastery of Saint Macarius the Great</a> in <a href="/wiki/Wadi_El_Natrun" title="Wadi El Natrun">Scetes</a>, <a href="/wiki/Egypt" title="Egypt">Egypt</a>.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup></p>
+<h2><span class="mw-headline" id="Elisha_in_Islam">Elisha in Islam</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Elisha&amp;action=edit&amp;section=4" title="Edit section: Elisha in Islam">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="vertical-navbox nowraplinks collapsible" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;font-size:88%; line-height:200%;"><a href="/wiki/File:Basmala.svg" class="image" title="Bismillahir Rahmanir Rahim"><img alt="Bismillahir Rahmanir Rahim" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Basmala.svg/200px-Basmala.svg.png" width="200" height="39" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Basmala.svg/300px-Basmala.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Basmala.svg/400px-Basmala.svg.png 2x" data-file-width="608" data-file-height="119" /></a> <span style="font-size:110%;"><span style="font-weight:normal;">Part of <a href="/wiki/Category:Islam" title="Category:Islam">a series</a> on <a href="/wiki/Islam" title="Islam">Islam</a></span></span><br />
+<span style="font-size:220%;"><a href="/wiki/Prophets_and_messengers_in_Islam" title="Prophets and messengers in Islam">Islamic prophets</a></span></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em"><a href="/wiki/File:Al-Anbiya.png" class="image" title="Anbiya"><img alt="Anbiya" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Al-Anbiya.png/140px-Al-Anbiya.png" width="140" height="105" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Al-Anbiya.png/210px-Al-Anbiya.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Al-Anbiya.png/280px-Al-Anbiya.png 2x" data-file-width="1518" data-file-height="1143" /></a></td>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<div class="NavFrame" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Prophets_and_messengers_in_Islam" title="Prophets and messengers in Islam">Prophets in the Quran</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><small>Listed by Islamic name and Biblical name.</small>
+<ul>
+<li><span class="nowrap"><a href="/wiki/Adam_in_Islam" title="Adam in Islam">ʾĀdam</a> <small>(<a href="/wiki/Adam" title="Adam">Adam</a>)</small></span></li>
+<li><span class="nowrap"><a href="/wiki/Idris_(prophet)" title="Idris (prophet)">ʾIdrīs</a> <small>(<a href="/wiki/Enoch_(ancestor_of_Noah)" title="Enoch (ancestor of Noah)">Enoch</a>)</small></span></li>
+<li><span class="nowrap"><a href="/wiki/Noah_in_Islam" title="Noah in Islam">Nūḥ</a> <small>(<a href="/wiki/Noah" title="Noah">Noah</a>)</small></span></li>
+<li><span class="nowrap"><a href="/wiki/Hud_(prophet)" title="Hud (prophet)">Hūd</a> <small>(<a href="/wiki/Eber" title="Eber">Eber</a>)</small></span></li>
+<li><span class="nowrap"><a href="/wiki/Saleh" title="Saleh">Ṣāliḥ</a> <small>(<a href="/wiki/Salah_(biblical_figure)" title="Salah (biblical figure)">Salah</a>)</small></span></li>
+<li><span class="nowrap"><a href="/wiki/Abraham_in_Islam" title="Abraham in Islam">ʾIbrāhīm</a> <small>(<a href="/wiki/Abraham" title="Abraham">Abraham</a>)</small></span></li>
+<li><span class="nowrap"><a href="/wiki/Lot_in_Islam" title="Lot in Islam">Lūṭ</a> <small>(<a href="/wiki/Lot_(biblical_person)" title="Lot (biblical person)">Lot</a>)</small></span></li>
+<li><span class="nowrap"><a href="/wiki/Ishmael_in_Islam" title="Ishmael in Islam">ʾIsmāʿīl</a> <small>(<a href="/wiki/Ishmael" title="Ishmael">Ishmael</a>)</small></span></li>
+<li><span class="nowrap"><a href="/wiki/Isaac_in_Islam" title="Isaac in Islam">ʾIsḥāq</a> <small>(<a href="/wiki/Isaac" title="Isaac">Isaac</a>)</small></span></li>
+<li><span class="nowrap"><a href="/wiki/Jacob_in_Islam" title="Jacob in Islam">Yaʿqūb</a> <small>(<a href="/wiki/Jacob" title="Jacob">Jacob</a>)</small></span></li>
+<li><span class="nowrap"><a href="/wiki/Joseph_in_Islam" title="Joseph in Islam">Yūsuf</a> <small>(<a href="/wiki/Joseph_(patriarch)" class="mw-redirect" title="Joseph (patriarch)">Joseph</a>)</small></span></li>
+<li><span class="nowrap"><a href="/wiki/Job_in_Islam" title="Job in Islam">Ayūb</a> <small>(<a href="/wiki/Job_(biblical_figure)" title="Job (biblical figure)">Job</a>)</small></span></li>
+<li><span class="nowrap"><a href="/wiki/Dhul-Kifl" title="Dhul-Kifl">Dhul-Kifl</a> <small>(<a href="/wiki/Ezekiel" title="Ezekiel">Ezekiel</a>)</small></span></li>
+<li><span class="nowrap"><a href="/wiki/Shuaib" title="Shuaib">Shuʿayb</a> <small>(<a href="/wiki/Jethro_(Bible)" title="Jethro (Bible)">Jethro</a>)</small></span></li>
+<li><span class="nowrap"><a href="/wiki/Moses_in_Islam" title="Moses in Islam">Mūsā</a> <small>(<a href="/wiki/Moses" title="Moses">Moses</a>)</small></span></li>
+<li><span class="nowrap"><a href="/wiki/Aaron#Aaron_in_Islam" title="Aaron">Hārūn</a> <small>(<a href="/wiki/Aaron" title="Aaron">Aaron</a>)</small></span></li>
+<li><span class="nowrap"><a href="/wiki/David_in_Islam" title="David in Islam">Dāūd</a> <small>(<a href="/wiki/David" title="David">David</a>)</small></span></li>
+<li><span class="nowrap"><a href="/wiki/Solomon_in_Islam" title="Solomon in Islam">Sulaymān</a> <small>(<a href="/wiki/Solomon" title="Solomon">Solomon</a>)</small></span></li>
+<li><span class="nowrap"><a href="/wiki/Jonah#Jonah_in_Islam" title="Jonah">Yūnus</a> <small>(<a href="/wiki/Jonah" title="Jonah">Jonah</a>)</small></span></li>
+<li><span class="nowrap"><a href="/wiki/Elijah#Elijah_in_Islam" title="Elijah">ʾIlyās</a> <small>(<a href="/wiki/Elijah" title="Elijah">Elijah</a>)</small></span></li>
+<li><span class="nowrap"><a href="/wiki/Elisha#In_Islam" title="Elisha">Alyasaʿ</a> <small>(<a class="mw-selflink selflink">Elisha</a>)</small></span></li>
+<li><span class="nowrap"><a href="/wiki/Zechariah_(priest)#In_Islam" title="Zechariah (priest)">Zakarīya</a> <small>(<a href="/wiki/Zechariah_(priest)" title="Zechariah (priest)">Zechariah</a>)</small></span></li>
+<li><span class="nowrap"><a href="/wiki/John_the_Baptist#Islam" title="John the Baptist">Yaḥyā</a> <small>(<a href="/wiki/John_the_Baptist" title="John the Baptist">John</a>)</small></span></li>
+<li><span class="nowrap"><a href="/wiki/Jesus_in_Islam" title="Jesus in Islam">ʿĪsā</a> <small>(<a href="/wiki/Jesus" title="Jesus">Jesus</a>)</small></span></li>
+<li><span class="nowrap"><a href="/wiki/Muhammad_in_Islam" title="Muhammad in Islam">Muḥammad</a> <small>(<a href="/wiki/Muhammad" title="Muhammad">Muhammad</a>)</small></span></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Prophetic_biography" title="Prophetic biography">Main events</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Qisas_Al-Anbiya" title="Qisas Al-Anbiya">Stories of the Prophets</a></li>
+<li><a href="/wiki/People_of_Ya-Sin" title="People of Ya-Sin">The Three Messengers</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Views</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Islamic%E2%80%93Jewish_relations#Other_prophets" title="Islamic–Jewish relations">Jews, Christians and Muslims prophets</a></li>
+<li><a href="/wiki/Table_of_prophets_of_Abrahamic_religions" title="Table of prophets of Abrahamic religions">Abrahamic prophets</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;"><a href="/wiki/File:Allah-green.svg" class="image"><img alt="Allah-green.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Allah-green.svg/15px-Allah-green.svg.png" width="15" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Allah-green.svg/23px-Allah-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Allah-green.svg/31px-Allah-green.svg.png 2x" data-file-width="206" data-file-height="215" /></a> <a href="/wiki/Portal:Islam" title="Portal:Islam">Islam portal</a></td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Islamic_prophets" title="Template:Islamic prophets"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/w/index.php?title=Template_talk:Islamic_prophets&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Islamic prophets (page does not exist)"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Islamic_prophets&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>Elisha (<a href="/wiki/Arabic_language" class="mw-redirect" title="Arabic language">Arabic</a>: اليسع, <i>Al-Yasaʿ</i>) is venerated as a <a href="/wiki/Prophets_in_Islam" class="mw-redirect" title="Prophets in Islam">prophet</a> in all of <a href="/wiki/Islam" title="Islam">Islam</a>, and is also honored by <a href="/wiki/Muslim" title="Muslim">Muslims</a> as the prophetic successor to <a href="/wiki/Elijah" title="Elijah">Elijah</a> (Arabic: <i>Ilyās</i> = Greek: <i>Elias</i>). Elisha is mentioned twice in the <a href="/wiki/Quran" title="Quran">Quran</a> as a prophet,<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup> and is mentioned both times alongside fellow prophets.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup> According to the Quran, Elisha is exalted "above the rest of creation" (<i>faḍḍalnā ʿalā l-ʿālamīna</i>)<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup> and is "among the excellent" (<i>mina l- akhyāri</i>).<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup> Although the Quran does not give any details about Elisha's life, later Muslim tradition fleshed out Elisha's narrative through consulting the <a href="/wiki/Hebrew_Bible" title="Hebrew Bible">Hebrew Bible</a>. Sources that identify Elisha with al-Khidr cite the strong relationship between al-Khidr and Elijah in Islamic tradition.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup></p>
+<p>Some Muslims believe the tomb of Elisha is in <a href="/wiki/Al-Awjam" title="Al-Awjam">Al-Awjam</a> in the eastern region of <a href="/wiki/Saudi_Arabia" title="Saudi Arabia">Saudi Arabia</a>. The shrine was removed by the <a href="/wiki/Politics_of_Saudi_Arabia" title="Politics of Saudi Arabia">Saudi Government</a> because such veneration is not in accordance with the <a href="/wiki/Wahhabi" class="mw-redirect" title="Wahhabi">Wahhabi</a> or <a href="/wiki/Salafi" class="mw-redirect" title="Salafi">Salafi</a> reform movement dominant in Saudi Arabia.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup><sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup> It had been an important landmark for many centuries during and before the <a href="/wiki/Sunni_Islam" title="Sunni Islam">Sunni</a> <a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman</a> rule of the Middle-East, and had been a very popular pilgrimage destination for Muslims of all sects throughout the pre-modern period.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup> A shrine of Elisha is also present in the <a href="/wiki/E%C4%9Fil" title="Eğil">Eğil</a> district of <a href="/wiki/Diyarbakir_Province" class="mw-redirect" title="Diyarbakir Province">Diyarbakir Province</a>, Turkey.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Elisha&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Biblical_narratives_and_the_Quran" class="mw-redirect" title="Biblical narratives and the Quran">Biblical narratives and the Quran</a></li>
+<li><a href="/wiki/Legends_and_the_Quran" class="mw-redirect" title="Legends and the Quran">Legends and the Quran</a></li>
+<li><a href="/wiki/Tel_Rehov" title="Tel Rehov">Tel Rehov</a></li>
+</ul>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Elisha&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Wells, John C. (1990). <i>Longman pronunciation dictionary</i>. Harlow, England: Longman. p.&#160;239. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-582-05383-8" title="Special:BookSources/0-582-05383-8">0-582-05383-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElisha&amp;rft.aufirst=John+C.&amp;rft.aulast=Wells&amp;rft.btitle=Longman+pronunciation+dictionary&amp;rft.date=1990&amp;rft.genre=book&amp;rft.isbn=0-582-05383-8&amp;rft.pages=239&amp;rft.place=Harlow%2C+England&amp;rft.pub=Longman&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> entry "Elisha"</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Qur'an 6:36, 38:48</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Revisioning the Sacred: New Perspectives on a Bahái̓́ Theology - Volume 8 - Page 32, Jack McLean - 1997 -</span></li>
+<li id="cite_note-autogenerated1996-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-autogenerated1996_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-autogenerated1996_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Achtemeijer, Paul L. ed., and Dennis R. Bratcher, Ph.D. "Elisha." HaperCollins' Bible Dictionary. New York, New York: HarperCollins Publishers, 1996.</span></li>
+<li id="cite_note-je-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-je_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-je_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-je_5-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://jewishencyclopedia.com/articles/5682-elisha">"<span style="padding-left:0.2em;">"</span>Elisha", <i>Jewish Encyclopedia</i>"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElisha&amp;rft.btitle=%22Elisha%22%2C+Jewish+Encyclopedia&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fjewishencyclopedia.com%2Farticles%2F5682-elisha&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-dothie-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-dothie_6-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Dothie, William Plaskett; ), Elisha (the Prophet (1872). <a rel="nofollow" class="external text" href="http://books.google.tt/books?id=reQEAAAAQAAJ&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false"><i>Dothie, William Plaskett.</i> The history of the prophet Elisha</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElisha&amp;rft.au=%29%2C+Elisha+%28the+Prophet&amp;rft.aufirst=William+Plaskett&amp;rft.aulast=Dothie&amp;rft.btitle=Dothie%2C+William+Plaskett.+The+history+of+the+prophet+Elisha&amp;rft.date=1872&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.tt%2Fbooks%3Fid%3DreQEAAAAQAAJ%26printsec%3Dfrontcover%23v%3Donepage%26q%26f%3Dfalse&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://rabatchurch.org/sermons/asking-for-a-double-portion">"Wald, Jack, "Asking for a double share", Rabat International Church, November 2, 2003"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElisha&amp;rft.btitle=Wald%2C+Jack%2C+%22Asking+for+a+double+share%22%2C+Rabat+International+Church%2C+November+2%2C+2003&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Frabatchurch.org%2Fsermons%2Fasking-for-a-double-portion&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web">Francis, Rodney W. <a rel="nofollow" class="external text" href="http://www.gospel.org.nz/index.php/articles/articles-by-rodney/230-the-prophetic-double-anointing">"The Prophetic Double Anointing"</a>. <i>The Gospel Faith Messenger</i>. gospel.org.nz.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElisha&amp;rft.atitle=The+Prophetic+Double+Anointing&amp;rft.aufirst=Rodney+W.&amp;rft.aulast=Francis&amp;rft.genre=unknown&amp;rft.jtitle=The+Gospel+Faith+Messenger&amp;rft_id=http%3A%2F%2Fwww.gospel.org.nz%2Findex.php%2Farticles%2Farticles-by-rodney%2F230-the-prophetic-double-anointing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ocarm-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-ocarm_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ocarm_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ocarm_9-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://ocarm.org/en/content/liturgy/st-elisha-prophet-m">"<span style="padding-left:0.2em;">"</span>Eliseus", the Order of Carmelites"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElisha&amp;rft.btitle=%22Eliseus%22%2C+the+Order+of+Carmelites&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Focarm.org%2Fen%2Fcontent%2Fliturgy%2Fst-elisha-prophet-m&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-duffy-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-duffy_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-duffy_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-duffy_10-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.newadvent.org/cathen/05386c.htm">"Duffy, Daniel. "Eliseus." The Catholic Encyclopedia. Vol. 5. New York: Robert Appleton Company, 1909. 7 Jan. 2014"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElisha&amp;rft.btitle=Duffy%2C+Daniel.+%22Eliseus.%22+The+Catholic+Encyclopedia.+Vol.+5.+New+York%3A+Robert+Appleton+Company%2C+1909.+7+Jan.+2014&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.newadvent.org%2Fcathen%2F05386c.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Hebrew <i>na'ar</i>, translated "youths" in the <a href="/wiki/New_International_Version" title="New International Version">New International Version</a>. <i><a href="/wiki/Jewish_Encyclopedia" title="Jewish Encyclopedia">Jewish Encyclopedia</a></i> on <a rel="nofollow" class="external text" href="http://jewishencyclopedia.com/articles/5682-elisha">Elisha</a> states, "The offenders were not children, but were called so ("ne'arim") because they lacked ("meno'arin") all religion (<a href="/wiki/So%E1%B9%ADah" class="mw-redirect" title="Soṭah">Soṭah</a> 46b)." Although the <a href="/wiki/Authorized_King_James_Version" class="mw-redirect" title="Authorized King James Version">Authorized King James Version</a> used the words "little children", <a href="/wiki/John_Gill_(theologian)" title="John Gill (theologian)">John Gill</a> stated in his <a rel="nofollow" class="external text" href="http://www.biblestudytools.com/commentaries/gills-exposition-of-the-bible/2-kings-2-23.html"><i>Exposition of the Bible</i></a> that the word was "used of persons of thirty or forty years of age".</span></li>
+<li id="cite_note-oca-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-oca_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-oca_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://oca.org/saints/lives/2013/06/14/101718-prophet-elisha">"<span style="padding-left:0.2em;">"</span>Elisha", Orthodox Church in America"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElisha&amp;rft.btitle=%22Elisha%22%2C+Orthodox+Church+in+America&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Foca.org%2Fsaints%2Flives%2F2013%2F06%2F14%2F101718-prophet-elisha&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a href="https://en.wikisource.org/wiki/Bible_(King_James)/Luke#4:27" class="extiw" title="s:Bible (King James)/Luke">Luke 4:27</a></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mechon-mamre.org/p/pt/pt09b06.htm#25">2 Kings 6:25–32</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mechon-mamre.org/p/pt/pt09b06.htm#13">2 Kings 6:13–23</a></span></li>
+<li id="cite_note-bibleverse.7C2.7CKings.7C6:1.E2.80.937.7CHE-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-bibleverse.7C2.7CKings.7C6:1.E2.80.937.7CHE_16-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mechon-mamre.org/p/pt/pt09b06.htm#1">2 Kings 6:1–7</a></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mechon-mamre.org/p/pt/pt09b07.htm#1">2 Kings 7:1–20</a></span></li>
+<li id="cite_note-bibleverse.7C2.7CKings.7C8:7.E2.80.9315.7CHE-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-bibleverse.7C2.7CKings.7C8:7.E2.80.9315.7CHE_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bibleverse.7C2.7CKings.7C8:7.E2.80.9315.7CHE_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mechon-mamre.org/p/pt/pt09b08.htm#7">2 Kings 8:7–15</a></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mechon-mamre.org/p/pt/pt09b06.htm#24">2 Kings 6:24–7:2</a></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mechon-mamre.org/p/pt/pt09b09.htm#1">2 Kings 9:1–10</a></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mechon-mamre.org/p/pt/pt09b09.htm#11">2 Kings 9:11–10:30</a></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mechon-mamre.org/p/pt/pt09b13.htm#14">2 Kings 13:14–20</a></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mechon-mamre.org/p/pt/pt09b13.htm#14">2 Kings 13:14–19</a></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mechon-mamre.org/p/pt/pt09b13.htm#20">2 Kings 13:20–21</a></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mechon-mamre.org/p/pt/pt09b22.htm#14">2 Kings 22:14</a></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.carmelite-seremban.org/Spirituality/carmelite_calendar.html">Carmelite Calendar</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070713102022/http://www.carmelite-seremban.org/Spirituality/carmelite_calendar.html">Archived</a> July 13, 2007, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web">Rev. Paul L. Rothermel (2010-08-19). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110728055728/http://www.stignatiusreading.org/Apologetics/answersindepth/Celibate_Jesus.html">"Jesus was never married"</a>. <i>Answers In-Depth to Questions about Christianity</i>. ST. Ignatius reading. Archived from <a rel="nofollow" class="external text" href="http://www.stignatiusreading.org/Apologetics/answersindepth/Celibate_Jesus.html">the original</a> on 2011-07-28.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElisha&amp;rft.atitle=Jesus+was+never+married&amp;rft.au=Rev.+Paul+L.+Rothermel&amp;rft.date=2010-08-19&amp;rft.genre=unknown&amp;rft.jtitle=Answers+In-Depth+to+Questions+about+Christianity&amp;rft_id=http%3A%2F%2Fwww.stignatiusreading.org%2FApologetics%2Fanswersindepth%2FCelibate_Jesus.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text">Denys Pringle, <i>The Churches of the Crusader Kingdom of Jerusalem: A Corpus. Vol. 2: LZ (excluding Tyre)</i>, p. 283.</span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.stmacariusmonastery.org/eabout.htm">"The Monastery of St. Macarius the Great"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElisha&amp;rft.btitle=The+Monastery+of+St.+Macarius+the+Great&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.stmacariusmonastery.org%2Feabout.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text">Tottoli, Roberto, “Elisha”, in: <i>Encyclopaedia of the Qurʾān</i>, General Editor: Jane Dammen McAuliffe, Georgetown University, Washington DC. Brill Online.</span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text">Tottoli, Roberto, “Elisha”, in: Encyclopaedia of Islam, THREE, Edited by: Kate Fleet, Gudrun Krämer, Denis Matringe, John Nawas, Everett Rowson. Brill Online.</span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text">Qur'an 6:86</span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text">Qur'an 38:48</span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text">al-Rabghūzī, <i>Stories of the prophets</i>, ed. Hendrik E. Boeschoten, M. Vandamme, and Semih Tezcan [Leiden 1995], 2:460</span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.jafariyanews.com/dec2k2/13_saudicurbs.htm">"Religious curbs in Saudi Arabia – Report: JAFARIYA NEWS, December 12 News"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElisha&amp;rft.btitle=Religious+curbs+in+Saudi+Arabia+%E2%80%93+Report%3A+JAFARIYA+NEWS%2C+December+12+News&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.jafariyanews.com%2Fdec2k2%2F13_saudicurbs.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://en.shiapen.com/comprehensive/salafi-disease-literalism/salafi-bidah-respecting-signs-allah.html">"Salafi Bidah in respecting the signs of Allah"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElisha&amp;rft.btitle=Salafi+Bidah+in+respecting+the+signs+of+Allah&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fen.shiapen.com%2Fcomprehensive%2Fsalafi-disease-literalism%2Fsalafi-bidah-respecting-signs-allah.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%8A%D8%B3%D8%B9" class="extiw" title="ar:اليسع">اليسع</a> (Al-Yasa) <span class="languageicon">(in Arabic)</span></span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://wowturkey.com/forum/viewtopic.php?p=2876005">"Diyarbakır - Eğil - Peygamberler Türbesi"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElisha&amp;rft.btitle=Diyarbak%C4%B1r+-+E%C4%9Fil+-+Peygamberler+T%C3%BCrbesi&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwowturkey.com%2Fforum%2Fviewtopic.php%3Fp%3D2876005&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Elisha&amp;action=edit&amp;section=7" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Islamic_view">Islamic view</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Elisha&amp;action=edit&amp;section=8" title="Edit section: Islamic view">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Amina Adil, <i>Gaben des Lichts. Die wundersamen Geschichten der Gesandten Gottes</i> (Kandern im Schwarzwald 1999), 563–73</p>
+<p>al-Farrāʾ, <i>Maʿānī al-Qurʾān</i>, ed. Aḥmad Yūsuf Najātī and Muḥammad ʿAlī al-Najjār (Cairo 1955–71), 2:407–8</p>
+<p>Josef Horovitz, <i>Koranische Untersuchungen</i> (Berlin and Leipzig 1926), 99, 101</p>
+<p>al-Khūshābī, <i>ʿArāʾis al-Qurʾān wa-nafāʾis al-furqān wa-farādīs al-jinān</i>, ed. Saʿīd ʿAbd al-Fattāḥ (Beirut 2007), 167–9</p>
+<p>al-Kisāʾī, <i>Qiṣaṣ al-anbiyāʾ</i>, ed. Isaac Eisenberg (Leiden 1922–3), 199–205, trans. Wheeler M. Thackston Jr., <i>The tales of the prophets of al-Kisaʾi</i> (Boston 1978), 269</p>
+<p>al-Majlisī, <i>Biḥār al-anwār</i> (Beirut 1983), 13:396–403</p>
+<p>al-Maqdisī, <i>al-Muṭahhar b. Ṭāhir, al-Badʾ wa-l-taʾrīkh</i>, ed. Clément Huart (Paris 1903), 3:100</p>
+<p>al-Rabghūzī, <i>Stories of the prophets</i>, ed. Hendrik E. Boeschoten, M. Vandamme, and Semih Tezcan (Leiden 1995), 2:460</p>
+<p>Sibṭ b. al-Jawzī, <i>Mirʾāt al-zamān fī taʾrīkh al-aʿyān</i>, ed. Iḥsān ʿAbbās (Beirut 1985), 1:460, 466</p>
+<p>al-Ṭabarī, <i>Taʾrīkh al-rusul wa-l-mulūk</i>, ed. M. J. de Goeje et al. (Leiden 1879–1901), 1:542–4, trans. William M. Brinner, <i>The history of al-Ṭabarī, vol. 4, The Children of Israel</i> (Albany 1991), 124–5</p>
+<p>al-Thaʿlabī, <i>Qiṣaṣ al-anbiyāʾ</i> (Cairo 1954), 259–61, trans. William M. Brinner, <i>ʿArāʾis al-Majālis fī Qiṣaṣ al-Anbiyāʾ</i> or <i>Lives of the prophets, as recounted by Abū Isḥāq Aḥmad ibn Muḥammad ibn Ibrāhīm al-Thaʿlabī</i> (Leiden 2002), 432–35.</p>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Elisha&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Eliseus" class="extiw" title="commons:Category:Eliseus">Eliseus</a></b></i>.</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png" width="38" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/57px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/76px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikisource" title="Wikisource">Wikisource</a> has the text of the 1905 <i><a href="/wiki/New_International_Encyclopedia" title="New International Encyclopedia">New International Encyclopedia</a></i> article <i><b><a href="https://en.wikisource.org/wiki/The_New_International_Encyclop%C3%A6dia/Elisha" class="extiw" title="s:The New International Encyclopædia/Elisha">Elisha</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://carmelites.ie/elisha.html">Prophet Elisha in Carmelite Tradition</a></li>
+<li><a rel="nofollow" class="external text" href="http://ocafs.oca.org/FeastSaintsViewer.asp?SID=4&amp;ID=1&amp;FSID=101718">Prophet Elisha</a> Orthodox <a href="/wiki/Icon" title="Icon">icon</a> and <a href="/wiki/Synaxarium" title="Synaxarium">synaxarion</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Prophets_in_the_Hebrew_Bible" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Prophets_of_the_Tanakh" title="Template:Prophets of the Tanakh"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Prophets_of_the_Tanakh" title="Template talk:Prophets of the Tanakh"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Prophets_of_the_Tanakh&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Prophets_in_the_Hebrew_Bible" style="font-size:114%;margin:0 4em"><a href="/wiki/Category:Prophets_of_the_Hebrew_Bible" title="Category:Prophets of the Hebrew Bible">Prophets in the Hebrew Bible</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Pre-Patriarchal</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Cain_and_Abel" title="Cain and Abel">Abel</a></i></li>
+<li><i><a href="/wiki/Kenan" title="Kenan">Kenan</a></i></li>
+<li><i><a href="/wiki/Enoch_(ancestor_of_Noah)" title="Enoch (ancestor of Noah)">Enoch</a></i></li>
+<li><i><a href="/wiki/Noah" title="Noah">Noah</a>&#160;<small>(<a href="/wiki/Noah_in_rabbinic_literature" title="Noah in rabbinic literature">in rabbinic literature</a>)</small></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Patriarchs_(Bible)" title="Patriarchs (Bible)">Patriarchs</a>&#160;/ <a href="/wiki/Matriarchs_(Bible)#Matriarchs" class="mw-redirect" title="Matriarchs (Bible)">Matriarchs</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abraham" title="Abraham">Abraham</a></li>
+<li><a href="/wiki/Isaac" title="Isaac">Isaac</a></li>
+<li><a href="/wiki/Jacob" title="Jacob">Jacob</a></li>
+<li><i><a href="/wiki/Levi" title="Levi">Levi</a></i></li>
+<li><i><a href="/wiki/Joseph_(patriarch)" class="mw-redirect" title="Joseph (patriarch)">Joseph</a></i></li>
+<li><i><a href="/wiki/Sarah" title="Sarah">Sarah</a></i></li>
+<li><i><a href="/wiki/Rebecca" title="Rebecca">Rebecca</a></i></li>
+<li><i><a href="/wiki/Rachel" title="Rachel">Rachel</a></i></li>
+<li><i><a href="/wiki/Leah" title="Leah">Leah</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">
+<div style="padding:0.1em 0;line-height:1.2em;">Israelite prophets<br />
+in the <a href="/wiki/Torah" title="Torah">Torah</a></div>
+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Moses" title="Moses">Moses</a>&#160;<small>(<a href="/wiki/Moses_in_rabbinic_literature" title="Moses in rabbinic literature">in rabbinic literature</a>)</small></li>
+<li><a href="/wiki/Aaron" title="Aaron">Aaron</a></li>
+<li><a href="/wiki/Miriam" title="Miriam">Miriam</a></li>
+<li><a href="/wiki/Eldad_and_Medad" title="Eldad and Medad">Eldad and Medad</a></li>
+<li><a href="/wiki/Phinehas" title="Phinehas">Phinehas</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">
+<div style="padding:0.1em 0;line-height:1.2em;">Mentioned in the<br />
+<a href="/wiki/Nevi%27im#Former_Prophets" title="Nevi'im">Former Prophets</a></div>
+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Joshua" title="Joshua">Joshua</a></li>
+<li><a href="/wiki/Deborah" title="Deborah">Deborah</a></li>
+<li><i><a href="/wiki/Gideon" title="Gideon">Gideon</a></i></li>
+<li><i><a href="/wiki/Eli_(biblical_figure)" title="Eli (biblical figure)">Eli</a></i></li>
+<li><i><a href="/wiki/Elkanah" title="Elkanah">Elkanah</a></i></li>
+<li><i><a href="/wiki/Hannah_(biblical_figure)" title="Hannah (biblical figure)">Hannah</a></i></li>
+<li><i><a href="/wiki/Abigail" title="Abigail">Abigail</a></i></li>
+<li><a href="/wiki/Samuel" title="Samuel">Samuel</a></li>
+<li><a href="/wiki/Gad_(prophet)" title="Gad (prophet)">Gad</a></li>
+<li><a href="/wiki/Nathan_(prophet)" title="Nathan (prophet)">Nathan</a></li>
+<li><a href="/wiki/David" title="David">David</a></li>
+<li><a href="/wiki/Solomon" title="Solomon">Solomon</a></li>
+<li><a href="/wiki/Jeduthun" title="Jeduthun">Jeduthun</a></li>
+<li><a href="/wiki/Ahijah_the_Shilonite" title="Ahijah the Shilonite">Ahijah</a></li>
+<li><a href="/wiki/Shemaiah_(prophet)" title="Shemaiah (prophet)">Shemaiah</a></li>
+<li><a href="/wiki/Elijah" title="Elijah">Elijah</a></li>
+<li><a class="mw-selflink selflink">Elisha</a></li>
+<li><a href="/wiki/Iddo_(prophet)" title="Iddo (prophet)">Iddo</a></li>
+<li><a href="/wiki/Hanani" title="Hanani">Hanani</a></li>
+<li><a href="/wiki/Jehu_(prophet)" title="Jehu (prophet)">Jehu</a></li>
+<li><a href="/wiki/Micaiah" title="Micaiah">Micaiah</a></li>
+<li><a href="/wiki/Jahaziel" title="Jahaziel">Jahaziel</a></li>
+<li><a href="/wiki/Eliezer" title="Eliezer">Eliezer</a></li>
+<li><a href="/wiki/Zechariah_ben_Jehoiada" title="Zechariah ben Jehoiada">Zechariah ben Jehoiada</a></li>
+<li><a href="/wiki/Huldah" title="Huldah">Huldah</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Major_prophet" title="Major prophet">Major</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Isaiah" title="Isaiah">Isaiah</a>&#160;<small>(<a href="/wiki/Isaiah_in_rabbinic_literature" title="Isaiah in rabbinic literature">in rabbinic literature</a>)</small></li>
+<li><a href="/wiki/Jeremiah" title="Jeremiah">Jeremiah</a></li>
+<li><a href="/wiki/Ezekiel" title="Ezekiel">Ezekiel</a></li>
+<li><a href="/wiki/Daniel_(biblical_figure)" title="Daniel (biblical figure)">Daniel</a>&#160;<small>(<a href="/wiki/Daniel_in_rabbinic_literature" title="Daniel in rabbinic literature">in rabbinic literature</a>)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Minor_prophet" class="mw-redirect" title="Minor prophet">Minor</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hosea" title="Hosea">Hosea</a></li>
+<li><a href="/wiki/Joel_(prophet)" title="Joel (prophet)">Joel</a></li>
+<li><a href="/wiki/Amos_(prophet)" title="Amos (prophet)">Amos</a></li>
+<li><a href="/wiki/Obadiah" title="Obadiah">Obadiah</a></li>
+<li><a href="/wiki/Jonah" title="Jonah">Jonah</a>&#160;<small>(<a href="/wiki/Jonah_in_rabbinic_literature" title="Jonah in rabbinic literature">in rabbinic literature</a>)</small></li>
+<li><a href="/wiki/Micah_(prophet)" title="Micah (prophet)">Micah</a></li>
+<li><a href="/wiki/Nahum" title="Nahum">Nahum</a></li>
+<li><a href="/wiki/Habakkuk" title="Habakkuk">Habakkuk</a></li>
+<li><a href="/wiki/Zephaniah" title="Zephaniah">Zephaniah</a></li>
+<li><a href="/wiki/Haggai" title="Haggai">Haggai</a></li>
+<li><a href="/wiki/Zechariah_(Hebrew_prophet)" title="Zechariah (Hebrew prophet)">Zechariah</a></li>
+<li><a href="/wiki/Malachi" title="Malachi">Malachi</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Noahidism" title="Noahidism">Noahide</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Beor_(biblical_figure)" title="Beor (biblical figure)">Beor</a></i></li>
+<li><a href="/wiki/Balaam" title="Balaam">Balaam</a></li>
+<li><i><a href="/wiki/Job_(biblical_figure)" title="Job (biblical figure)">Job</a>&#160;<small>(<a href="/wiki/Job_in_rabbinic_literature" title="Job in rabbinic literature">in rabbinic literature</a>)</small></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Amoz" title="Amoz">Amoz</a></i></li>
+<li><i><a href="/wiki/Beeri" title="Beeri">Beeri</a></i></li>
+<li><i><a href="/wiki/Baruch_ben_Neriah" title="Baruch ben Neriah">Baruch</a></i></li>
+<li><i><a href="/wiki/Agur" title="Agur">Agur</a></i></li>
+<li><a href="/wiki/Urijah" title="Urijah">Uriah</a></li>
+<li><i><a href="/wiki/Buzi" title="Buzi">Buzi</a></i></li>
+<li><i><a href="/wiki/Mordecai" title="Mordecai">Mordecai</a></i></li>
+<li><i><a href="/wiki/Esther" title="Esther">Esther</a>&#160;<small>(<a href="/wiki/Esther_in_rabbinic_literature" title="Esther in rabbinic literature">in rabbinic literature</a>)</small></i></li>
+<li><a href="/wiki/Oded_(prophet)" title="Oded (prophet)">Oded</a></li>
+<li><a href="/wiki/Azariah_(prophet)" title="Azariah (prophet)">Azariah</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><i>Italics</i> indicate persons whose status as <a href="/wiki/Prophet" title="Prophet">prophets</a> is not universally accepted.</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Prophets_in_the_Quran" style="padding:3px">
+<table class="nowraplinks plainlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Prophets_in_the_Quran" title="Template:Prophets in the Quran"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Prophets_in_the_Quran" title="Template talk:Prophets in the Quran"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Prophets_in_the_Quran&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Prophets_in_the_Quran" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_Quranic_prophets" class="mw-redirect" title="List of Quranic prophets">Prophets in the Quran</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;background:transparent;color:inherit;">
+<div style="padding:0px;">
+<table class="navbox-columns-table" style="border-spacing: 0px; text-align:left;width:100%;">
+<tr>
+<td class="navbox-abovebelow" colspan="1" style="font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">آدم</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">إدريس</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">نوح</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">هود</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">صالح</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">إبراهيم</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">لوط</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">إسماعيل</span></span></td>
+</tr>
+<tr style="vertical-align:top;">
+<td class="navbox-list" style="padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Adam_in_Islam" title="Adam in Islam">Adam</a></i></li>
+<li><a href="/wiki/Adam" title="Adam">Adam</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Idris_(prophet)" title="Idris (prophet)">Idris</a></i></li>
+<li><a href="/wiki/Enoch_(ancestor_of_Noah)" title="Enoch (ancestor of Noah)">Enoch</a> (?)</li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Noah_in_Islam" title="Noah in Islam">Nuh</a></i></li>
+<li><a href="/wiki/Noah" title="Noah">Noah</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Hud_(prophet)" title="Hud (prophet)">Hud</a></i></li>
+<li><a href="/wiki/Eber" title="Eber">Eber</a> (?)</li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Saleh" title="Saleh">Saleh</a></i></li>
+<li><a href="/wiki/Salah_(biblical_figure)" title="Salah (biblical figure)">Salah</a> (?)</li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Abraham_in_Islam" title="Abraham in Islam">Ibrahim</a></i></li>
+<li><a href="/wiki/Abraham" title="Abraham">Abraham</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Lot_in_Islam" title="Lot in Islam">Lut</a></i></li>
+<li><a href="/wiki/Lot_(biblical_person)" title="Lot (biblical person)">Lot</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Ishmael_in_Islam" title="Ishmael in Islam">Ismail</a></i></li>
+<li><a href="/wiki/Ishmael" title="Ishmael">Ishmael</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px;background:transparent;color:inherit;">
+<div style="padding:0px;">
+<table class="navbox-columns-table" style="border-spacing: 0px; text-align:left;width:100%;">
+<tr>
+<td class="navbox-abovebelow" colspan="1" style="font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">إسحاق</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">يعقوب</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">يوسف</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">أيوب</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">شُعيب</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">موسى</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">هارون</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">ذو الكفل</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">داود</span></span></td>
+</tr>
+<tr style="vertical-align:top;">
+<td class="navbox-list" style="padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Isaac_in_Islam" title="Isaac in Islam">Is'haq</a></i></li>
+<li><a href="/wiki/Isaac" title="Isaac">Isaac</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Jacob_in_Islam" title="Jacob in Islam">Yaqub</a></i></li>
+<li><a href="/wiki/Jacob" title="Jacob">Jacob</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Joseph_in_Islam" title="Joseph in Islam">Yusuf</a></i></li>
+<li><a href="/wiki/Joseph_(patriarch)" class="mw-redirect" title="Joseph (patriarch)">Joseph</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Job_in_Islam" title="Job in Islam">Ayyub</a></i></li>
+<li><a href="/wiki/Job_(biblical_figure)" title="Job (biblical figure)">Job</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Shuaib" title="Shuaib">Shuayb</a></i></li>
+<li><a href="/wiki/Jethro_(Bible)" title="Jethro (Bible)">Jethro</a> (?)</li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Moses_in_Islam" title="Moses in Islam">Musa</a></i></li>
+<li><a href="/wiki/Moses" title="Moses">Moses</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Islamic_view_of_Aaron" class="mw-redirect" title="Islamic view of Aaron">Harun</a></i></li>
+<li><a href="/wiki/Aaron" title="Aaron">Aaron</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Dhul-Kifl" title="Dhul-Kifl">Dhul-Kifl</a></i></li>
+<li><a href="/wiki/Ezekiel" title="Ezekiel">Ezekiel</a> (?)</li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/David_in_Islam" title="David in Islam">Daud</a></i></li>
+<li><a href="/wiki/David" title="David">David</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;background:transparent;color:inherit;">
+<div style="padding:0px;">
+<table class="navbox-columns-table" style="border-spacing: 0px; text-align:left;width:100%;">
+<tr>
+<td class="navbox-abovebelow" colspan="1" style="font-weight:bold;width:8%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">سليمان</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">إلياس</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">إليسع</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">يونس</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">زكريا</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">يحيى</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">عيسى</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">مُحمد</span></span></td>
+</tr>
+<tr style="vertical-align:top;">
+<td class="navbox-list" style="padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Solomon_in_Islam" title="Solomon in Islam">Sulaiman</a></i></li>
+<li><a href="/wiki/Solomon" title="Solomon">Solomon</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Elijah" title="Elijah">Ilyas</a></i></li>
+<li><a href="/wiki/Elijah" title="Elijah">Elijah</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Islamic_view_of_Elisha" class="mw-redirect" title="Islamic view of Elisha">Al-Yasa</a></i></li>
+<li><a class="mw-selflink selflink">Elisha</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Islamic_view_of_Jonah" class="mw-redirect" title="Islamic view of Jonah">Yunus</a></i></li>
+<li><a href="/wiki/Jonah" title="Jonah">Jonah</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Zechariah_(New_Testament_figure)#In_Islam" class="mw-redirect" title="Zechariah (New Testament figure)">Zakaria</a></i></li>
+<li><a href="/wiki/Zechariah_(priest)" title="Zechariah (priest)">Zechariah</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Yahya_ibn_Zakariyya" class="mw-redirect" title="Yahya ibn Zakariyya">Yahya</a></i></li>
+<li><a href="/wiki/John_the_Baptist" title="John the Baptist">John</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Jesus_in_Islam" title="Jesus in Islam">Isa</a></i></li>
+<li><a href="/wiki/Jesus" title="Jesus">Jesus</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Muhammad_in_Islam" title="Muhammad in Islam">Muhammad</a></i></li>
+<li><a href="/wiki/Muhammad" title="Muhammad">Muhammad</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>Note: <a href="/wiki/Muslim" title="Muslim">Muslims</a> believe that there were many prophets sent by <a href="/wiki/God_in_Islam" title="God in Islam">God</a> to mankind. The <a href="/wiki/Prophets_in_Islam" class="mw-redirect" title="Prophets in Islam">Islamic prophets</a> above are only the ones mentioned by name in the <a href="/wiki/Quran" title="Quran">Quran</a>.</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="People_and_things_in_the_Quran" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Characters_and_names_in_the_Quran" title="Template:Characters and names in the Quran"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Characters_and_names_in_the_Quran" title="Template talk:Characters and names in the Quran"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Characters_and_names_in_the_Quran&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="People_and_things_in_the_Quran" style="font-size:114%;margin:0 4em">People and things in the Quran</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible expanded navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div id="Characters" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_characters_and_names_mentioned_in_the_Quran" title="List of characters and names mentioned in the Quran">Characters</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/God_in_Islam" title="God in Islam">God in Islam</a> (<a href="/wiki/Allah" title="Allah">Allah</a>)</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Names_of_God_in_Islam#List_of_names_and_attributes_of_God_as_found_in_the_Quran" title="Names of God in Islam">Names of God found in the Quran</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Islamic_view_of_angels" title="Islamic view of angels">Angels</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Israfil" title="Israfil">Israfil</a></li>
+<li><a href="/wiki/Azrael#In_Islam" title="Azrael">Izra'il/Azrael (Malak al-Mawt)</a></li>
+<li><a href="/wiki/Gabriel#Islam" title="Gabriel">Jibra'il/Gabriel (Al-Ruh al-Amin)</a> and <a href="/wiki/Holy_Spirit_(Islam)" class="mw-redirect" title="Holy Spirit (Islam)">Holy Spirit (Al-Ruh al-Qudus)</a> and <a href="/wiki/Holy_Spirit_(Islam)#The_Spirit.2C_al-Ruh.2C_in_the_Quran" class="mw-redirect" title="Holy Spirit (Islam)">Al-Ruh (The Spirit)</a></li>
+<li><a href="/wiki/Maalik" title="Maalik">Maalik</a></li>
+<li><a href="/wiki/Michael_(archangel)#Islam" title="Michael (archangel)">Mika'il</a></li>
+<li><a href="/wiki/Harut_and_Marut" title="Harut and Marut">Harut and Marut</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Jinn" title="Jinn">Jinns</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Devil_(Islam)" title="Devil (Islam)">Iblīs/Devil</a></li>
+<li><a href="/wiki/Demon#Islam" title="Demon">Shaitan/Satan</a></li>
+<li><a href="/wiki/Ifrit#Islamic_scripture" title="Ifrit">Ifrit</a> (and <a href="/wiki/Marid" title="Marid">Marid</a>)</li>
+<li><a href="/wiki/Qareen#Qareen_in_islamic_scriptures" title="Qareen">Qareen</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">In <a href="/wiki/Jannah" title="Jannah">Heaven (Jannah)</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ghilman" title="Ghilman">Ghilman and Wildan</a></li>
+<li><a href="/wiki/Houri" title="Houri">Houri</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">In <a href="/wiki/Jahannam" title="Jahannam">Hell (Jahannam)</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Zabaniyya" title="Zabaniyya">Zabaniyya</a></li>
+<li><a href="/wiki/Zaqqum" title="Zaqqum">Zaqqum</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Prophets_and_messengers_in_Islam" title="Prophets and messengers in Islam">Prophets<br />
+and apostles</a><br />
+(messengers)<br />
+of God</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Mentioned</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adam_in_Islam" title="Adam in Islam">Ādam/Adam</a></li>
+<li><a href="/wiki/Elisha#In_Islam" title="Elisha">Alyasa'/Elisha</a></li>
+<li><a href="/wiki/Job_in_Islam" title="Job in Islam">Ayyub/Job</a></li>
+<li><a href="/wiki/David_in_Islam" title="David in Islam">Dawud/David</a></li>
+<li><a href="/wiki/Dhul-Kifl" title="Dhul-Kifl">Dhul-Kifl/Ezekiel?</a></li>
+<li><a href="/wiki/Aaron#Islam" title="Aaron">Harun/Aaron</a></li>
+<li><a href="/wiki/Hud_(prophet)" title="Hud (prophet)">Hud/Eber?</a></li>
+<li><a href="/wiki/Abraham_in_Islam" title="Abraham in Islam">Ibrahim/Abraham (Khalilullah)</a></li>
+<li><a href="/wiki/Idris_(prophet)" title="Idris (prophet)">Idris/Enoch?</a></li>
+<li><a href="/wiki/Elijah#Elijah_in_Islam" title="Elijah">Ilyas/Elijah</a></li>
+<li><a href="/wiki/Joachim#In_Islam" title="Joachim">Imran/Joachim (father of Maryam)</a></li>
+<li><a href="/wiki/Jesus_in_Islam" title="Jesus in Islam">Isa/Jesus</a></li>
+<li><a href="/wiki/Isaac_in_Islam" title="Isaac in Islam">Isḥaq/Isaac</a></li>
+<li><a href="/wiki/Ishmael_in_Islam" title="Ishmael in Islam">Isma'il/Ishmael</a>
+<ul>
+<li><a href="/wiki/Binding_of_Isaac#Muslim_views" title="Binding of Isaac">Dhabih Ullah</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Lot_in_Islam" title="Lot in Islam">Lut/Lot</a></li>
+<li><a href="/wiki/Muhammad_in_Islam" title="Muhammad in Islam">Muhammad</a> or <a href="/wiki/Ahmad" title="Ahmad">Ahmad</a>/<a href="/wiki/Paraclete#Paraclete_in_Islam" title="Paraclete">Paraclete</a></li>
+<li><a href="/wiki/Moses_in_Islam" title="Moses in Islam">Musa/Moses (Kalimullah)</a></li>
+<li><a href="/wiki/Noah_in_Islam" title="Noah in Islam">Nuh/Noah</a></li>
+<li><a href="/wiki/Saleh" title="Saleh">Saleh/Shelah?</a></li>
+<li><a href="/wiki/Shuaib" title="Shuaib">Shuaib/Jethro</a></li>
+<li><a href="/wiki/Solomon_in_Islam" title="Solomon in Islam">Sulayman/Solomon</a></li>
+<li><a href="/wiki/Uzair" title="Uzair">Uzair/Ezra?</a></li>
+<li><a href="/wiki/John_the_Baptist#Islam" title="John the Baptist">Yahya/John the Baptist</a></li>
+<li><a href="/wiki/Jacob_in_Islam" title="Jacob in Islam">Yaqub/Jacob (Israel)</a></li>
+<li><a href="/wiki/Jonah#Jonah_in_Islam" title="Jonah">Yunus/Jonah (Dhul-Nun, Sahib al-Hut)</a></li>
+<li><a href="/wiki/Joseph_in_Islam" title="Joseph in Islam">Yūsuf/Joseph</a></li>
+<li><a href="/wiki/Zechariah_(priest)#In_Islam" title="Zechariah (priest)">Zakariya/Zechariah</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Implied</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jeremiah#Islam" title="Jeremiah">Ermia/Jeremiah</a></li>
+<li><a href="/wiki/Samuel#Islam" title="Samuel">Samuel</a></li>
+<li><a href="/wiki/Joshua#Joshua_in_Islamic_history" title="Joshua">Yusha' ibn Nūn/Joshua</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Good people<br />
+(before Islam)</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Mentioned</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dhul-Qarnayn" title="Dhul-Qarnayn">Dhul-Qarnayn</a></li>
+<li><a href="/wiki/Luqman" title="Luqman">Luqman</a></li>
+<li><a href="/wiki/Mary_in_Islam" title="Mary in Islam">Maryam/Mary (mother of Isa)</a></li>
+<li><a href="/wiki/Saul#In_Islam" title="Saul">Talut/Saul</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Implicitly<br />
+mentioned</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Asiya,_wife_of_the_Pharaoh" class="mw-redirect" title="Asiya, wife of the Pharaoh">Asiyah bint Muzahim</a>/<a href="/wiki/Bithiah#In_Islamic_tradition" title="Bithiah">Bithiah?</a> <a href="/wiki/Asiya,_wife_of_the_Pharaoh" class="mw-redirect" title="Asiya, wife of the Pharaoh">(wife of Fir'aun)</a></li>
+<li><a href="/wiki/Asif_ibn_Barkhiya" title="Asif ibn Barkhiya">Asif ibn Barkhiya</a></li>
+<li><a href="/wiki/Queen_of_Sheba#Qur.27anic_account" title="Queen of Sheba">Bilquis (Queen of Saba/Sheba)</a></li>
+<li><a href="/w/index.php?title=Believer_of_Fir%27aun_Family&amp;action=edit&amp;redlink=1" class="new" title="Believer of Fir'aun Family (page does not exist)">Believer of Fir'aun Family (Hizbil/Hizqil ibn Sabura)</a></li>
+<li><a href="/wiki/Benjamin#Benjamin_in_Islam" title="Benjamin">Beniamin/Benjamin</a></li>
+<li><a href="/wiki/Habib_the_Carpenter" title="Habib the Carpenter">Habib the Carpenter (believer of Ya-Sin)</a></li>
+<li><a href="/wiki/Caleb#Quranic_account" title="Caleb">Kaleb/Caleb</a></li>
+<li><a href="/wiki/Khidr" title="Khidr">Khidr</a></li>
+<li><a href="/wiki/Moses_in_Islam#Confrontation_with_sorcerers" title="Moses in Islam">Magicians of Fir'aun</a></li>
+<li><a href="/wiki/Peter_in_Islam" title="Peter in Islam">Simon Cephas/Simon Peter</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other people<br />
+(before Islam)</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Mentioned</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abraham_in_Islam#Family" title="Abraham in Islam">Āzar (uncle of Ibrahim)</a></li>
+<li><a href="/wiki/Pharaoh_of_the_Exodus" class="mw-redirect" title="Pharaoh of the Exodus">Fir'aun/Pharaoh</a></li>
+<li><a href="/wiki/Haman_(Islam)" title="Haman (Islam)">Haman</a></li>
+<li><a href="/wiki/Goliath#Islam" title="Goliath">Jalut/Goliath</a></li>
+<li><a href="/wiki/Korah#Quranic_reference" title="Korah">Qarun/Korah</a></li>
+<li><a href="/wiki/Samiri_(Islamic_figure)" title="Samiri (Islamic figure)">Sāmiri</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Implicitly<br />
+mentioned</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abraha" title="Abraha">Abraha</a></li>
+<li><a href="/wiki/Balaam#Balaam_in_the_Quran" title="Balaam">Bal'am/Balaam</a></li>
+<li><a href="/wiki/Bar%E1%B9%A3%C4%AB%E1%B9%A3%C4%81" title="Barṣīṣā">Barṣīṣā</a></li>
+<li><a href="/wiki/Nebuchadnezzar_II" title="Nebuchadnezzar II">Nebuchadnezzar II</a></li>
+<li><a href="/wiki/Nimrod" title="Nimrod">Nimrod</a></li>
+<li><a href="/wiki/Potiphar" class="mw-redirect" title="Potiphar">Potiphar (Al-Aziz)</a></li>
+<li><a href="/wiki/Shaddad" title="Shaddad">Shaddad</a></li>
+<li><a href="/wiki/Simeon_(Hebrew_Bible)" class="mw-redirect" title="Simeon (Hebrew Bible)">Simeon (son of Ya'qub)</a></li>
+<li><a href="/w/index.php?title=Qaddar_ibn_Salif&amp;action=edit&amp;redlink=1" class="new" title="Qaddar ibn Salif (page does not exist)">Slayers of Saleh's she-camel (Qaddar ibn Salif</a> and <a href="/w/index.php?title=Musda%27_ibn_Dahr&amp;action=edit&amp;redlink=1" class="new" title="Musda' ibn Dahr (page does not exist)">Musda' ibn Dahr</a>)</li>
+<li><a href="/w/index.php?title=Valid_ibn_Rayyan&amp;action=edit&amp;redlink=1" class="new" title="Valid ibn Rayyan (page does not exist)">Valid ibn Rayyan (king of Egypt in the account of Yūsuf)</a></li>
+<li><a href="/wiki/Zuleika_(tradition)" class="mw-redirect" title="Zuleika (tradition)">Zuleika (wife of al-Aziz)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Mentioned people<br />
+(after inception of Islam)</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ab%C5%AB_Lahab" title="Abū Lahab">Abū Lahab</a></li>
+<li><a href="/wiki/Zayd_ibn_Harithah" title="Zayd ibn Harithah">Zayd ibn Harithah</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Relatives<br />
+of prophets</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Specified<br />
+good relatives</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lot%27s_daughters" title="Lot's daughters">Daughters of Lut/Lot (Ritha, Za'ura, et al.)</a></li>
+<li><a href="/wiki/Elizabeth_(biblical_figure)#In_Islam" title="Elizabeth (biblical figure)">Elizabeth or 'Ishā' (wife of Zakariya)</a></li>
+<li><a href="/wiki/Cain_and_Abel_in_Islam" title="Cain and Abel in Islam">Habil/Abel (son of Adam)</a></li>
+<li><a href="/wiki/Eve#Islamic_view" title="Eve">Hawwa'/Eve (wife of Adam)</a></li>
+<li><a href="/wiki/Miriam#Quranic_account" title="Miriam">Kulthum/Miriam (sister of Musa)</a></li>
+<li><a href="/wiki/Zipporah" title="Zipporah">Saffurah/Zipporah (wife of Musa)</a> and <a href="/w/index.php?title=Layya&amp;action=edit&amp;redlink=1" class="new" title="Layya (page does not exist)">Layya (Saffura's sister)</a></li>
+<li><a href="/wiki/Sarah#Islam" title="Sarah">Sarah (wife of Ibrahim, mother of Isḥaq)</a></li>
+<li><a href="/wiki/Jochebed#The_Islamic_view_of_Jochebed" title="Jochebed">Yukabed/Jochebed (mother of Musa)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Non-specified<br />
+good relatives</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=Amtelai_daughter_of_Karnebo&amp;action=edit&amp;redlink=1" class="new" title="Amtelai daughter of Karnebo (page does not exist)">Abiona/Amtelai daughter of Karnebo (mother of Ibrahim)</a></li>
+<li><a href="/wiki/Bathsheba#Islam" title="Bathsheba">Bathsheba (wife of Dawud)</a></li>
+<li><a href="/wiki/Muhammad%27s_wives" title="Muhammad's wives">Muhammad's wives</a></li>
+<li><a href="/wiki/Genealogy_of_Khadijah%27s_daughters" title="Genealogy of Khadijah's daughters">Daughters of Muhammad</a></li>
+<li><a href="/wiki/Hagar_in_Islam" title="Hagar in Islam">Hājar/Hagar (wife of Ibrahim, mother of Isma'il)</a></li>
+<li><a href="/wiki/Saint_Anne#In_Islam" title="Saint Anne">Hannah/Anne daughter of Faquz (mother of Maryam)</a></li>
+<li><a href="/wiki/Amram#In_the_Qur.27an" title="Amram">Imran/Amram (father of Musa)</a></li>
+<li><a href="/wiki/Lamech_(father_of_Noah)" title="Lamech (father of Noah)">Lamech (father of Nuh)</a></li>
+<li><a href="/wiki/Rachel" title="Rachel">Rāhil/Rachel (wife of Ya'qub)</a></li>
+<li><a href="/wiki/Dinah" title="Dinah">Rahma/Dinah (wife of Ayyub)</a></li>
+<li><a href="/w/index.php?title=Betenos&amp;action=edit&amp;redlink=1" class="new" title="Betenos (page does not exist)">Shamkha bint Anush/Betenos (mother of Nuh)</a></li>
+<li><a href="/wiki/Luqman" title="Luqman">Son of Luqman</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other relatives</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jacob#Children_of_Jacob" title="Jacob">Brothers of Yūsuf</a></li>
+<li><a href="/wiki/Job_in_Islam" title="Job in Islam">Children of Ayyub</a></li>
+<li><a href="/wiki/Solomon_in_Islam" title="Solomon in Islam">Dead son of Sulaiman</a></li>
+<li><a href="/wiki/Cain_and_Abel_in_Islam" title="Cain and Abel in Islam">Qabil/Cain?</a></li>
+<li><a href="/wiki/Terah#Islamic_tradition" title="Terah">Tārah/Terah (father of Ibrahim)</a></li>
+<li><a href="/wiki/Umm_Jamil" title="Umm Jamil">Umm Jamil (wife of Abu Lahab)</a></li>
+<li><a href="/wiki/Wives_aboard_Noah%27s_Ark" title="Wives aboard Noah's Ark">Wali'ah or Wa'ilah/Waala? (wife of Nuh)</a></li>
+<li><a href="/wiki/Lot%27s_wife" title="Lot's wife">Walihah or Wahilah (wife of Lut)</a></li>
+<li><a href="/wiki/Generations_of_Noah#Extrabiblical_sons_of_Noah" title="Generations of Noah">Yam or Kan'an (son of Nuh)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div id="Groups_and_tribes" style="font-size:114%;margin:0 4em">Groups and tribes</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Tribes and<br />
+ethnicities</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Mentioned</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%CA%BF%C4%80d" title="ʿĀd">'Ād (people of Hud)</a></li>
+<li><a href="/wiki/Arabs" title="Arabs">Arabs</a> and <a href="/wiki/Ajam" title="Ajam">Ajam</a></li>
+<li><a href="/wiki/Israelites" title="Israelites">Children of Israel/Israelites</a></li>
+<li><a href="/wiki/Companions_of_the_Rass" title="Companions of the Rass">Companions of the Rass</a></li>
+<li><a href="/wiki/Sabaeans" title="Sabaeans">People of Saba'/Sheba</a></li>
+<li><a href="/wiki/Shuaib" title="Shuaib">People of Shu'aib</a> (<a href="/wiki/Midian#In_the_Qur.27an" title="Midian">people of Madyan</a> and <a href="/w/index.php?title=Aykah&amp;action=edit&amp;redlink=1" class="new" title="Aykah (page does not exist)">people of Aykah/Wood</a>)</li>
+<li><a href="/w/index.php?title=Tubba%27&amp;action=edit&amp;redlink=1" class="new" title="Tubba' (page does not exist)">People of Tubba'</a></li>
+<li><a href="/wiki/Quraysh" title="Quraysh">Quraysh</a></li>
+<li><a href="/wiki/R%C3%BBm" title="Rûm">Romans</a></li>
+<li><a href="/wiki/Thamud" title="Thamud">Thamud (people of Saleh, companions of Hijr)</a></li>
+<li><a href="/wiki/Gog_and_Magog#Qur.27an" title="Gog and Magog">Ya'juj and Ma'juj/Gog and Magog</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Implicitly<br />
+mentioned</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ahl_al-Bayt" title="Ahl al-Bayt">Ahl al-Bayt</a></li>
+<li><a href="/wiki/Amalek" title="Amalek">Amalek</a></li>
+<li><a href="/wiki/Banu_Hashim" title="Banu Hashim">Banu Hashim</a></li>
+<li><a href="/wiki/Banu_Nadir" title="Banu Nadir">Banu Nadir</a></li>
+<li><a href="/wiki/Banu_Qaynuqa" title="Banu Qaynuqa">Banu Qaynuqa</a></li>
+<li><a href="/wiki/Banu_Qurayza" title="Banu Qurayza">Banu Qurayza</a></li>
+<li><a href="/wiki/Iranian_peoples" title="Iranian peoples">Iranian people</a></li>
+<li><a href="/wiki/Umayyad_Caliphate" title="Umayyad Caliphate">Umayyad Dynasty</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Groups</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Mentioned</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Apostle_(Christian)" class="mw-redirect" title="Apostle (Christian)">Christian apostles</a>
+<ul>
+<li><a href="/wiki/Disciples_of_Jesus_in_Islam" title="Disciples of Jesus in Islam">Disciples of Jesus</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Noah%27s_Ark" title="Noah's Ark">Companions of Noah's Ark</a></li>
+<li><a href="/w/index.php?title=Companions_of_Sabbath&amp;action=edit&amp;redlink=1" class="new" title="Companions of Sabbath (page does not exist)">Companions of Sabbath (Aşḥāb al-Sabt)</a></li>
+<li><a href="/wiki/Seven_Sleepers#Islamic_interpretation" title="Seven Sleepers">Companions of the Cave/Seven Sleepers</a> and <a href="/wiki/Sahab_district#Famous_places_in_Sahab" title="Sahab district">Companions of al-Raqaim</a></li>
+<li><a href="/wiki/Al-Fil" title="Al-Fil">Companions of the Elephant</a></li>
+<li><a href="/wiki/Ancient_towns_in_Saudi_Arabia#Al-Ukhd.C5.ABd_Archeological_Area" title="Ancient towns in Saudi Arabia">People of al-Ukhdūd</a></li>
+<li><a href="/wiki/People_of_Ya-Sin" title="People of Ya-Sin">People of the City (People of Ya-Sin)</a></li>
+<li><a href="/w/index.php?title=People_of_the_Garden&amp;action=edit&amp;redlink=1" class="new" title="People of the Garden (page does not exist)">People of the Burned Garden (Aşḥāb al-Jannah)</a></li>
+<li><a href="/wiki/Ulu%27l_azm_prophets" class="mw-redirect" title="Ulu'l azm prophets">Ulu'l azm prophets</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Implicitly<br />
+mentioned</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=People_of_the_Verandah&amp;action=edit&amp;redlink=1" class="new" title="People of the Verandah (page does not exist)">Ahl al-Suffa (People of the Verandah)</a></li>
+<li><a href="/wiki/Banu_Aws" title="Banu Aws">Aus</a> and <a href="/wiki/Banu_Khazraj" title="Banu Khazraj">Khazraj</a></li>
+<li><a href="/wiki/Copts" title="Copts">Copts</a></li>
+<li><a href="/w/index.php?title=Hezbollah_(Quran)&amp;action=edit&amp;redlink=1" class="new" title="Hezbollah (Quran) (page does not exist)">Hezbollah</a></li>
+<li><a href="/wiki/Muhajirun" title="Muhajirun">Muhajirun (The emigrants)</a> and <a href="/wiki/Ansar_(Islam)" title="Ansar (Islam)">Ansar (The helpers)</a></li>
+<li><a href="/wiki/Muslim_world" title="Muslim world">Ummah of Islam (Ummah of Muhammad)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Religious groups</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dhimmi" title="Dhimmi">Ahl al-dhimmah (Dhimmi)</a></li>
+<li><a href="/wiki/Christian" title="Christian">Christians (People of Injil)</a></li>
+<li><a href="/wiki/Jews" title="Jews">Jews</a></li>
+<li><a href="/wiki/Kafir" title="Kafir">Kafir (Infidels)</a></li>
+<li><a href="/wiki/Majus" title="Majus">Majus</a>
+<ul>
+<li><a href="/wiki/Zoroastrianism" title="Zoroastrianism">Zoroastrians</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Munafiq" class="mw-redirect" title="Munafiq">Munafiq</a>
+<ul>
+<li><a href="/wiki/Hypocrisy" title="Hypocrisy">Hypocrites</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Shirk_(Islam)" title="Shirk (Islam)">Mushrik</a>
+<ul>
+<li><a href="/wiki/Polytheism" title="Polytheism">Polytheists</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Muslim" title="Muslim">Muslims</a></li>
+<li><a href="/wiki/People_of_the_Book" title="People of the Book">People of the Book (‎′Ahl al-Kitāb)</a></li>
+<li><a href="/wiki/Sabians#Islamic_reference" title="Sabians">Sabians</a></li>
+<li><a href="/wiki/Hakham" title="Hakham">Ahbār (Jewish scholars)</a></li>
+<li><a href="/wiki/Priest#Christianity" title="Priest">Qissis (Christian priest)</a></li>
+<li><a href="/wiki/Rabbi" title="Rabbi">Rabbani/Rabbi</a></li>
+<li><a href="/wiki/Monk" title="Monk">Ruhban (Christian monks)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div id="Locations.2C_entities_and_events" style="font-size:114%;margin:0 4em">Locations, entities and events</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Locations</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Mentioned</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Al-Ahqaf" title="Al-Ahqaf">Ahqāf</a></li>
+<li><a href="/wiki/Al-Aqsa_Mosque" title="Al-Aqsa Mosque">Al-Aqsa Mosque</a></li>
+<li><a href="/wiki/Mount_Arafat" title="Mount Arafat">Arafat</a> and <a href="/w/index.php?title=Mash%27ar_al-Har%C4%81m&amp;action=edit&amp;redlink=1" class="new" title="Mash'ar al-Harām (page does not exist)">Mash'ar al-Harām</a></li>
+<li><a href="/wiki/Babil_Governorate#History" title="Babil Governorate">Bābil</a>/<a href="/wiki/Babylon" title="Babylon">Babylon</a></li>
+<li><a href="/wiki/Badr,_Saudi_Arabia" title="Badr, Saudi Arabia">Badr</a></li>
+<li><a href="/w/index.php?title=Door_of_Hittah&amp;action=edit&amp;redlink=1" class="new" title="Door of Hittah (page does not exist)">Door of Hittah</a></li>
+<li><a href="/wiki/Mada%27in_Saleh" title="Mada'in Saleh">Hijr/Hegra</a></li>
+<li><a href="/wiki/Holy_Land" title="Holy Land">Holy Land</a> (<a href="/wiki/Palestine_(region)" title="Palestine (region)">Palestine</a> and <a href="/wiki/Levant" title="Levant">Levant</a>)</li>
+<li><a href="/wiki/Hunayn,_Saudi_Arabia" title="Hunayn, Saudi Arabia">Hunayn</a></li>
+<li><a href="/wiki/Iram_of_the_Pillars" title="Iram of the Pillars">Iram</a></li>
+<li><a href="/wiki/Kaaba" title="Kaaba">Ka'bah/Kaaba (Bayt al-Harām/Sacred House, Bayt al-'Atīq/Ancient House)</a></li>
+<li><a href="/wiki/Midian" title="Midian">Madyan/Midian</a></li>
+<li><a href="/wiki/Medina" title="Medina">Madinah/Medina</a> (formerly <a href="/wiki/Medina#Pre-Islamic_times" title="Medina">Yathrib</a>)</li>
+<li><a href="/w/index.php?title=Majma%27_al-Bahrain&amp;action=edit&amp;redlink=1" class="new" title="Majma' al-Bahrain (page does not exist)">Majma' al-Bahrain</a></li>
+<li><a href="/wiki/Mecca" title="Mecca">Makkah/Mecca (Umm al-Qura, Balad al-Amin</a>, <a href="/wiki/Bakkah" title="Bakkah">Bakkah</a>)</li>
+<li><a href="/wiki/Masjid_al-Haram#Maq.C4.81m_Ibrahim" class="mw-redirect" title="Masjid al-Haram">Maqām Ibrahim</a></li>
+<li><a href="/wiki/Demolition_of_Masjid_al-Dirar" title="Demolition of Masjid al-Dirar">Masjid al-Dirar</a></li>
+<li><a href="/wiki/Masjid_al-Haram" class="mw-redirect" title="Masjid al-Haram">Masjid al-Haram</a></li>
+<li><a href="/wiki/Mount_Judi" title="Mount Judi">Mount Judi</a></li>
+<li><a href="/wiki/Sodom_and_Gomorrah" title="Sodom and Gomorrah">Mu'tafikat (Sodom)</a></li>
+<li><a href="/wiki/Ar_Rass" title="Ar Rass">Rass</a></li>
+<li><a href="/wiki/Sheba" title="Sheba">Saba'/Sheba</a></li>
+<li><a href="/wiki/Al-Safa_and_Al-Marwah" class="mw-redirect" title="Al-Safa and Al-Marwah">Al-Safa and Al-Marwah</a></li>
+<li><a href="/wiki/Mount_Sinai" title="Mount Sinai">Tur Sinā' /Mount Sinai</a> and <a href="/wiki/Mount_Tabor" title="Mount Tabor">Jabal al-Tur</a></li>
+<li><a href="/wiki/Egypt" title="Egypt">Egypt</a></li>
+<li><a href="/wiki/Valley_of_Tuwa" class="mw-redirect" title="Valley of Tuwa">Valley of Tuwa</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Implicitly<br />
+mentioned</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Antioch" title="Antioch">Antioch</a>
+<ul>
+<li><a href="/wiki/Antakya" title="Antakya">Antakya</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ayla_(city)" title="Ayla (city)">Ayla</a></li>
+<li><a href="/wiki/Dhul-Qarnayn" title="Dhul-Qarnayn">Barrier of Dhul-Qarnayn</a></li>
+<li><a href="/wiki/Jerusalem" title="Jerusalem">Bayt al-Muqaddas</a> and <a href="/wiki/Jericho" title="Jericho">'Ariha</a></li>
+<li><a href="/wiki/Black_Stone" title="Black Stone">Black Stone (Al-Ḥajar al-Aswad)</a> and <a href="/wiki/Al-Hijr_of_Ishmael" class="mw-redirect" title="Al-Hijr of Ishmael">Al-Hijr of Isma'il</a></li>
+<li><a href="/wiki/Canaan" title="Canaan">Canaan</a></li>
+<li><a href="/wiki/Hira" title="Hira">Cave of Hira</a> and <a href="/wiki/Jabal_Thawr#Cave" title="Jabal Thawr">Cave of Thawr</a></li>
+<li><a href="/wiki/Seven_Sleepers#Location_of_the_cave_and_duration_of_stay" title="Seven Sleepers">Cave of Seven Sleepers</a></li>
+<li><a href="/w/index.php?title=D%C4%81r_al-Nadwa&amp;action=edit&amp;redlink=1" class="new" title="Dār al-Nadwa (page does not exist)">Dār al-Nadwa</a></li>
+<li><a href="/wiki/Treaty_of_Hudaybiyyah" title="Treaty of Hudaybiyyah">Hudaybiyyah</a></li>
+<li><a href="/wiki/Jordan_River" title="Jordan River">Jordan River</a></li>
+<li><a href="/wiki/Marib_Dam" title="Marib Dam">Ma'rib Dam</a></li>
+<li><a href="/wiki/Al-Masjid_an-Nabawi" title="Al-Masjid an-Nabawi">Masjid al-Nabawi (Prophet's Mosque)</a></li>
+<li><a href="/wiki/Mesopotamia" title="Mesopotamia">Mesopotamia</a></li>
+<li><a href="/wiki/Nile" title="Nile">Nile River</a></li>
+<li><a href="/wiki/Nineveh" title="Nineveh">Nineveh</a></li>
+<li><a href="/w/index.php?title=Palestine_River&amp;action=edit&amp;redlink=1" class="new" title="Palestine River (page does not exist)">Palestine River</a></li>
+<li><a href="/wiki/Shaddad" title="Shaddad">Paradise of Shaddad</a></li>
+<li><a href="/wiki/Quba_Mosque" title="Quba Mosque">Quba Mosque</a></li>
+<li><a href="/wiki/Sinai_Peninsula" title="Sinai Peninsula">Sinai Desert</a> and <a href="/w/index.php?title=T%C4%ABh_Desert&amp;action=edit&amp;redlink=1" class="new" title="Tīh Desert (page does not exist)">Tīh Desert</a></li>
+<li><a href="/wiki/Ta%27if" title="Ta'if">Ta'if</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Religious locations</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Christian_Church" title="Christian Church">Bay'a (Church)</a></li>
+<li><a href="/wiki/Mihrab" title="Mihrab">Mihrab</a></li>
+<li><a href="/wiki/Monastery" title="Monastery">Monastery</a></li>
+<li><a href="/wiki/Mosque" title="Mosque">Mosque</a></li>
+<li><a href="/wiki/Synagogue" title="Synagogue">Salat (Synagogue)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Non-human<br />
+physical<br />
+entities</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Islamic_holy_books" title="Islamic holy books">Religious texts</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Gospel_in_Islam" title="Gospel in Islam">Injil/Gospel</a></li>
+<li><a href="/wiki/Quran" title="Quran">Quran</a></li>
+<li><a href="/wiki/Scrolls_of_Abraham" title="Scrolls of Abraham">Suhuf-i Ibrahim (Scrolls of Abraham)</a></li>
+<li><a href="/wiki/Torah_in_Islam" title="Torah in Islam">Tawrat/Torah</a>, <a href="/wiki/Scrolls_of_Moses" title="Scrolls of Moses">Suhuf-i-Musa (Scrolls of Moses)</a> and <a href="/wiki/Tablets_of_Stone" title="Tablets of Stone">Tablets of Stone</a></li>
+<li><a href="/wiki/Zabur" title="Zabur">Zabur</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Related animals</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Al-Baqara#Overview" title="Al-Baqara">Cow of Israelites</a> and <a href="/wiki/Golden_calf" title="Golden calf">Golden calf</a></li>
+<li><a href="/wiki/Seven_Sleepers#Islamic_interpretation" title="Seven Sleepers">Dog of Seven Sleepers</a></li>
+<li><a href="/wiki/Jonah#The_fish" title="Jonah">Fish of Yunis</a></li>
+<li><a href="/wiki/Solomon_in_Islam" title="Solomon in Islam">Hoopoe of Sulayman</a></li>
+<li><a href="/wiki/She-Camel_of_God" title="She-Camel of God">She-Camel of Saleh</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Related objects</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Forbidden_fruit#Islamic_tradition" title="Forbidden fruit">Forbidden fruit of Adam</a></li>
+<li><a href="/wiki/Disciples_of_Jesus_in_Islam" title="Disciples of Jesus in Islam">Heavenly Food of Christian Apostles</a></li>
+<li><a href="/wiki/Noah%27s_Ark" title="Noah's Ark">Noah's Ark</a></li>
+<li><a href="/wiki/Staff_of_Moses" title="Staff of Moses">Staff of Musa</a></li>
+<li><a href="/wiki/Ark_of_the_Covenant#Quran" title="Ark of the Covenant">Tabut al-Sakina (Casket of Shekhinah)</a></li>
+<li><a href="/wiki/Queen_of_Sheba#Qur.27anic_account" title="Queen of Sheba">Throne of Bilqis</a></li>
+<li><a href="/wiki/Israfil" title="Israfil">Trumpet of Israfil</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Mentioned idols<br />
+(cult images)</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Baal#In_Islam" title="Baal">Baal</a></li>
+<li><a href="/wiki/Al-l%C4%81t" class="mw-redirect" title="Al-lāt">Lāt</a>, <a href="/wiki/Al-%E2%80%98Uzz%C3%A1" title="Al-‘Uzzá">'Uzza</a> and <a href="/wiki/Man%C4%81t" title="Manāt">Manāt</a></li>
+<li><a href="/wiki/Wadd" title="Wadd">Wadd</a>, <a href="/wiki/Suwa%27" title="Suwa'">Suwa'</a>, <a href="/wiki/Yaghuth" class="mw-redirect" title="Yaghuth">Yaghuth</a>, <a href="/wiki/Ya%27uq" title="Ya'uq">Ya'uq</a> and <a href="/wiki/Nasr_(idol)" title="Nasr (idol)">Nasr</a></li>
+<li>(<a href="/w/index.php?title=Jibt&amp;action=edit&amp;redlink=1" class="new" title="Jibt (page does not exist)">Jibt</a> and <a href="/wiki/Taghut" title="Taghut">Taghut</a></li>
+<li><a href="/w/index.php?title=Ans%C4%81b&amp;action=edit&amp;redlink=1" class="new" title="Ansāb (page does not exist)">Ansāb</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Events</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Battle_of_Badr" title="Battle of Badr">Battle of Badr</a></li>
+<li><a href="/wiki/Battle_of_Hunayn" title="Battle of Hunayn">Battle of Hunayn</a></li>
+<li><a href="/wiki/Battle_of_Khaybar" title="Battle of Khaybar">Battle of Khaybar</a></li>
+<li><a href="/wiki/Battle_of_Tabouk" class="mw-redirect" title="Battle of Tabouk">Battle of Tabouk</a></li>
+<li><a href="/wiki/Battle_of_the_Trench" title="Battle of the Trench">Battle of the Trench (Battle of the Confederates)</a></li>
+<li><a href="/wiki/Battle_of_Uhud" title="Battle of Uhud">Battle of Uhud</a></li>
+<li><a href="/wiki/Conquest_of_Mecca" title="Conquest of Mecca">Conquest of Mecca</a></li>
+<li><a href="/wiki/Hadith_of_the_pond_of_Khumm" title="Hadith of the pond of Khumm">Hadith of the pond of Khumm</a></li>
+<li><a href="/w/index.php?title=Incident_of_Ifk&amp;action=edit&amp;redlink=1" class="new" title="Incident of Ifk (page does not exist)">Incident of Ifk</a></li>
+<li><a href="/w/index.php?title=Layla_al-Mabit&amp;action=edit&amp;redlink=1" class="new" title="Layla al-Mabit (page does not exist)">Layla al-Mabit</a></li>
+<li><a href="/wiki/Event_of_Mubahala" title="Event of Mubahala">Mubahala</a></li>
+<li><a href="/wiki/Farewell_Pilgrimage" title="Farewell Pilgrimage">The Farewell Pilgrimage (Hujja al-Wada')</a></li>
+<li><a href="/wiki/Treaty_of_Hudaybiyyah" title="Treaty of Hudaybiyyah">Treaty of Hudaybiyyah</a></li>
+<li><a href="/wiki/The_first_pilgrimage" title="The first pilgrimage">Umrah al-Qaza</a></li>
+<li><a href="/w/index.php?title=Yawm_al-D%C4%81r&amp;action=edit&amp;redlink=1" class="new" title="Yawm al-Dār (page does not exist)">Yawm al-Dār</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><b>Note:</b> The names are sorted alphabetically. Standard form: Islamic name / Biblical name (title or relationship)</div>
+</td>
+</tr>
+</table>
+</div>
+<p><a href="/wiki/File:PD-icon.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/12px-PD-icon.svg.png" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/18px-PD-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/24px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" /></a>&#160;This article incorporates text from a publication now in the <a href="/wiki/Public_domain" title="Public domain">public domain</a>:&#160;<cite id="CITEREFHerbermann1913" class="citation encyclopaedia">Herbermann, Charles, ed. (1913). "<sup><a href="/wiki/Template:Catholic_Encyclopedia" title="Template:Catholic Encyclopedia"><span style="color:red">article name needed</span></a></sup>". <i><a href="/wiki/Catholic_Encyclopedia" title="Catholic Encyclopedia">Catholic Encyclopedia</a></i>. New York: Robert Appleton.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElisha&amp;rft.atitle=%3Csup%3E%3Cspan+style%3D%22color%3Ared%22%3Earticle+name+needed%3C%2Fspan%3E%3C%2Fsup%3E&amp;rft.btitle=Catholic+Encyclopedia&amp;rft.date=1913&amp;rft.genre=bookitem&amp;rft.place=New+York&amp;rft.pub=Robert+Appleton&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span><a href="/wiki/File:PD-icon.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/12px-PD-icon.svg.png" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/18px-PD-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/24px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" /></a>&#160;This article incorporates text from a publication now in the <a href="/wiki/Public_domain" title="Public domain">public domain</a>:&#160;<cite id="CITEREFEaston1897" class="citation encyclopaedia"><a href="/wiki/Matthew_George_Easton" title="Matthew George Easton">Easton, Matthew George</a> (1897). "<a href="https://en.wikisource.org/wiki/Easton%27s_Bible_Dictionary_(1897)/Elisha" class="extiw" title="s:Easton's Bible Dictionary (1897)/Elisha">Elisha</a>". <i><a href="/wiki/Easton%27s_Bible_Dictionary" title="Easton's Bible Dictionary">Easton's Bible Dictionary</a></i> (New and revised ed.). T. Nelson and Sons.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElisha&amp;rft.atitle=Elisha&amp;rft.aufirst=Matthew+George&amp;rft.aulast=Easton&amp;rft.btitle=Easton%27s+Bible+Dictionary&amp;rft.date=1897&amp;rft.edition=New+and+revised&amp;rft.genre=bookitem&amp;rft.pub=T.+Nelson+and+Sons&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></p>
+<p><br /></p>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/198212449">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/198212449">198212449</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/118688685">118688685</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1277
+Cached time: 20170926042524
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.648 seconds
+Real time usage: 0.829 seconds
+Preprocessor visited node count: 6981/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 332494/2097152 bytes
+Template argument size: 19633/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 5/500
+Lua time usage: 0.248/10.000 seconds
+Lua memory usage: 6.32 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  640.946      1 -total
+ 38.67%  247.870     17 Template:Navbox
+ 28.21%  180.837      1 Template:Reflist
+ 14.41%   92.332      1 Template:Prophets_in_the_Qur'an
+ 13.61%   87.210      1 Template:Infobox_person
+ 13.08%   83.843      3 Template:Navbox_with_columns
+ 10.18%   65.261     27 Template:Lang
+  8.89%   56.973     29 Template:Category_handler
+  7.62%   48.813     13 Template:Bibleverse
+  6.57%   42.138      1 Template:Infobox
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:23671899-0!canonical and timestamp 20170926042524 and revision id 802436247
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Elisha&amp;oldid=802436247">https://en.wikipedia.org/w/index.php?title=Elisha&amp;oldid=802436247</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Prophets_of_the_Hebrew_Bible" title="Category:Prophets of the Hebrew Bible">Prophets of the Hebrew Bible</a></li><li><a href="/wiki/Category:9th-century_BC_people" title="Category:9th-century BC people">9th-century BC people</a></li><li><a href="/wiki/Category:Christian_saints_from_the_Old_Testament" title="Category:Christian saints from the Old Testament">Christian saints from the Old Testament</a></li><li><a href="/wiki/Category:Carmelite_spirituality" title="Category:Carmelite spirituality">Carmelite spirituality</a></li><li><a href="/wiki/Category:Prophets_of_Islam" title="Category:Prophets of Islam">Prophets of Islam</a></li><li><a href="/wiki/Category:Books_of_Kings" title="Category:Books of Kings">Books of Kings</a></li><li><a href="/wiki/Category:Biblical_people_in_Islam" title="Category:Biblical people in Islam">Biblical people in Islam</a></li><li><a href="/wiki/Category:Elijah" title="Category:Elijah">Elijah</a></li><li><a href="/wiki/Category:Wonderworkers" title="Category:Wonderworkers">Wonderworkers</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_with_Arabic-language_external_links" title="Category:Articles with Arabic-language external links">Articles with Arabic-language external links</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Articles_containing_Ancient_Greek-language_text" title="Category:Articles containing Ancient Greek-language text">Articles containing Ancient Greek-language text</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_March_2017" title="Category:Articles with specifically marked weasel-worded phrases from March 2017">Articles with specifically marked weasel-worded phrases from March 2017</a></li><li><a href="/wiki/Category:Articles_containing_Arabic-language_text" title="Category:Articles containing Arabic-language text">Articles containing Arabic-language text</a></li><li><a href="/wiki/Category:Articles_incorporating_text_from_the_1913_Catholic_Encyclopedia_with_no_article_parameter" title="Category:Articles incorporating text from the 1913 Catholic Encyclopedia with no article parameter">Articles incorporating text from the 1913 Catholic Encyclopedia with no article parameter</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_text_from_Easton%27s_Bible_Dictionary" title="Category:Wikipedia articles incorporating text from Easton's Bible Dictionary">Wikipedia articles incorporating text from Easton's Bible Dictionary</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Elisha" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Elisha" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Elisha" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Elisha" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Elisha">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Elisha&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Elisha&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Elisha" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Elisha" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Elisha&amp;oldid=802436247" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Elisha&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q206238" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Elisha&amp;id=802436247" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Elisha">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Elisha&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DElisha%26returnto%3DElisha%26oldid%3D802436247%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Elisha&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Eliseus" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%8A%D8%B3%D8%B9" title="اليسع – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-arc"><a href="https://arc.wikipedia.org/wiki/%DC%90%DC%A0%DC%9D%DC%AB%DC%A5" title="ܐܠܝܫܥ – Aramaic" lang="arc" hreflang="arc" class="interlanguage-link-target">ܐܪܡܝܐ</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Yelisey" title="Yelisey – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%95%D0%BB%D1%96%D1%81%D0%B5%D0%B9,_%D0%BF%D1%80%D0%B0%D1%80%D0%BE%D0%BA" title="Елісей, прарок – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bo"><a href="https://bo.wikipedia.org/wiki/%E0%BD%A8%E0%BD%BA%E0%BC%8B%E0%BD%A3%E0%BD%B2%E0%BC%8B%E0%BD%A4%E0%BC%8D" title="ཨེ་ལི་ཤ། – Tibetan" lang="bo" hreflang="bo" class="interlanguage-link-target">བོད་ཡིག</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Elisha" title="Elisha – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Eliseu" title="Eliseu – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/El%C3%AD%C5%A1a" title="Elíša – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Elisa_(profet)" title="Elisa (profet) – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Elischa" title="Elischa – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-dv"><a href="https://dv.wikipedia.org/wiki/%DE%87%DE%A6%DE%8D%DE%B0%DE%94%DE%A6%DE%90%DE%A6%DE%A2%DE%AA%DE%8E%DE%AC%DE%8A%DE%A7%DE%82%DE%AA" title="އަލްޔަސަޢުގެފާނު – Divehi" lang="dv" hreflang="dv" class="interlanguage-link-target">ދިވެހިބަސް</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%95%CE%BB%CE%B9%CF%83%CE%B1%CE%AF%CE%BF%CF%82" title="Ελισαίος – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Eliseo" title="Eliseo – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D9%84%DB%8C%D8%B3%D8%B9" title="الیسع – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/%C3%89lis%C3%A9e" title="Élisée – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Eil%C3%ADse%C3%A1" title="Eilíseá – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%97%98%EB%A6%AC%EC%82%AC_(%EC%98%88%EC%96%B8%EC%9E%90)" title="엘리사 (예언자) – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Elisa" title="Elisa – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Elisha" title="Elisha – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Eliseo_(profeta)" title="Eliseo (profeta) – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%9C%D7%99%D7%A9%D7%A2" title="אלישע – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%94%E1%83%9A%E1%83%98%E1%83%A1%E1%83%94_%E1%83%AC%E1%83%98%E1%83%9C%E1%83%90%E1%83%A1%E1%83%AC%E1%83%90%E1%83%A0%E1%83%9B%E1%83%94%E1%83%A2%E1%83%A7%E1%83%95%E1%83%94%E1%83%9A%E1%83%98" title="ელისე წინასწარმეტყველი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D3%98%D0%BB-%D0%99%D0%B0%D1%81%D0%B0" title="Әл-Йаса – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Elisha" title="Elisha – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-lbe"><a href="https://lbe.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D1%8F%D1%81%D0%B0%D0%B3%D3%80_%D0%B8%D0%B4%D0%B0%D0%B2%D1%81" title="АльясагӀ идавс – Lak" lang="lbe" hreflang="lbe" class="interlanguage-link-target">Лакку</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Elisaeus_(propheta)" title="Elisaeus (propheta) – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Eliziejus" title="Eliziejus – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Elizeus_pr%C3%B3f%C3%A9ta" title="Elizeus próféta – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Elisa_(profeet)" title="Elisa (profeet) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%B7%E3%83%A3" title="エリシャ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C-%D0%AF%D1%81%D0%B0%D3%80" title="Аль-ЯсаӀ – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Elisja" title="Elisja – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-ps"><a href="https://ps.wikipedia.org/wiki/%D8%A7%D9%84%D9%8A%D8%B3%D8%B9" title="اليسع – Pashto" lang="ps" hreflang="ps" class="interlanguage-link-target">پښتو</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Elizeusz" title="Elizeusz – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Eliseu" title="Eliseu – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Elisei" title="Elisei – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%95%D0%BB%D0%B8%D1%81%D0%B5%D0%B9" title="Елисей – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Iljesa" title="Iljesa – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Elizeus" title="Elizeus – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-so"><a href="https://so.wikipedia.org/wiki/Nabi_Alyasac_C.S." title="Nabi Alyasac C.S. – Somali" lang="so" hreflang="so" class="interlanguage-link-target">Soomaaliga</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D8%A6%DB%95%D9%84%DB%8C%DB%95%D8%B3%DB%95%D8%B9" title="ئەلیەسەع – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%88%D0%B5%D0%BB%D0%B8%D1%81%D0%B5%D1%98_(%D0%BF%D1%80%D0%BE%D1%80%D0%BE%D0%BA)" title="Јелисеј (пророк) – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Elisa_(profeetta)" title="Elisa (profeetta) – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Elisha" title="Elisha – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Eliseo" title="Eliseo – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%8E%E0%AE%B2%E0%AE%BF%E0%AE%9A%E0%AE%BE" title="எலிசா – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Elyesa" title="Elyesa – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%84%D0%BB%D0%B8%D1%81%D0%B5%D0%B9" title="Єлисей – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%A7%D9%84%DB%8C%D8%B4%D8%B9" title="الیشع – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-ug"><a href="https://ug.wikipedia.org/wiki/%D8%A6%DB%95%D9%84%D9%8A%DB%95%D8%B3%DB%95_%D8%A6%DB%95%D9%84%DB%95%D9%8A%DA%BE%D9%89%D8%B3%D8%B3%D8%A7%D9%84%D8%A7%D9%85" title="ئەليەسە ئەلەيھىسسالام – Uyghur" lang="ug" hreflang="ug" class="interlanguage-link-target">ئۇيغۇرچە / Uyghurche</a></li><li class="interlanguage-link interwiki-wo"><a href="https://wo.wikipedia.org/wiki/Alisa" title="Alisa – Wolof" lang="wo" hreflang="wo" class="interlanguage-link-target">Wolof</a></li><li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%90%D7%9C%D7%99%D7%A9%D7%A2" title="אלישע – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E4%BB%A5%E5%88%A9%E6%B2%99" title="以利沙 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q206238#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 26 September 2017, at 04:25.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Elisha&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.648","walltime":"0.829","ppvisitednodes":{"value":6981,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":332494,"limit":2097152},"templateargumentsize":{"value":19633,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  640.946      1 -total"," 38.67%  247.870     17 Template:Navbox"," 28.21%  180.837      1 Template:Reflist"," 14.41%   92.332      1 Template:Prophets_in_the_Qur'an"," 13.61%   87.210      1 Template:Infobox_person"," 13.08%   83.843      3 Template:Navbox_with_columns"," 10.18%   65.261     27 Template:Lang","  8.89%   56.973     29 Template:Category_handler","  7.62%   48.813     13 Template:Bibleverse","  6.57%   42.138      1 Template:Infobox"]},"scribunto":{"limitreport-timeusage":{"value":"0.248","limit":"10.000"},"limitreport-memusage":{"value":6623734,"limit":52428800}},"cachereport":{"origin":"mw1277","timestamp":"20170926042524","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":79,"wgHostname":"mw1187"});});</script>
+	</body>
+</html>

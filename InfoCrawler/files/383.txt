@@ -1,0 +1,954 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Hussite Wars - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Hussite_Wars","wgTitle":"Hussite Wars","wgCurRevisionId":800692828,"wgRevisionId":800692828,"wgArticleId":303005,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from May 2013","All articles lacking in-text citations","Pages using deprecated image syntax","All articles with unsourced statements","Articles with unsourced statements from November 2010","Articles with unsourced statements from May 2008","15th-century crusades","Hussite Wars"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Hussite_Wars","wgRelevantArticleId":303005,"wgRequestId":"WcjvwwpAMFEAAL9WGOgAAAAR","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q478301","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/44/Josef_Mathauser_-_Jan_%C5%BDi%C5%BEka_s_kn%C4%9Bzem_V%C3%A1clavem_Korandou_roku_1420_hled%C3%AD_s_V%C3%ADtkova_na_Prahu.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Hussite_Wars"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Hussite_Wars&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Hussite_Wars&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Hussite_Wars"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Hussite_Wars rootpage-Hussite_Wars skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Hussite Wars</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">"Bohemian Wars" redirects here. For the later war over Bohemia, see <a href="/wiki/Bohemian_War_(1468-1478)" class="mw-redirect" title="Bohemian War (1468-1478)">Bohemian War (1468-1478)</a>.</div>
+<table class="plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(May 2013)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<table class="infobox vevent" style="border-spacing:2px;;width:315px">
+<tr>
+<th class="summary" colspan="2" style="background-color:#B0C4DE;text-align:center;vertical-align:middle;font-size:110%;">Hussite Wars</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;border-bottom:1px solid #aaa;line-height:1.5em;"><a href="/wiki/File:Josef_Mathauser_-_Jan_%C5%BDi%C5%BEka_s_kn%C4%9Bzem_V%C3%A1clavem_Korandou_roku_1420_hled%C3%AD_s_V%C3%ADtkova_na_Prahu.jpg" class="image"><img alt="Josef Mathauser - Jan Žižka s knězem Václavem Korandou roku 1420 hledí s Vítkova na Prahu.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Josef_Mathauser_-_Jan_%C5%BDi%C5%BEka_s_kn%C4%9Bzem_V%C3%A1clavem_Korandou_roku_1420_hled%C3%AD_s_V%C3%ADtkova_na_Prahu.jpg/300px-Josef_Mathauser_-_Jan_%C5%BDi%C5%BEka_s_kn%C4%9Bzem_V%C3%A1clavem_Korandou_roku_1420_hled%C3%AD_s_V%C3%ADtkova_na_Prahu.jpg" width="300" height="195" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Josef_Mathauser_-_Jan_%C5%BDi%C5%BEka_s_kn%C4%9Bzem_V%C3%A1clavem_Korandou_roku_1420_hled%C3%AD_s_V%C3%ADtkova_na_Prahu.jpg/450px-Josef_Mathauser_-_Jan_%C5%BDi%C5%BEka_s_kn%C4%9Bzem_V%C3%A1clavem_Korandou_roku_1420_hled%C3%AD_s_V%C3%ADtkova_na_Prahu.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/4/44/Josef_Mathauser_-_Jan_%C5%BDi%C5%BEka_s_kn%C4%9Bzem_V%C3%A1clavem_Korandou_roku_1420_hled%C3%AD_s_V%C3%ADtkova_na_Prahu.jpg 2x" data-file-width="528" data-file-height="344" /></a><br />
+<a href="/wiki/Jan_%C5%BDi%C5%BEka" title="Jan Žižka">Jan Žižka</a> with a Hussite priest looking over <a href="/wiki/Prague" title="Prague">Prague</a> after the <a href="/wiki/Battle_of_V%C3%ADtkov_Hill" title="Battle of Vítkov Hill">Battle of Vítkov Hill</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<table style="width:100%;margin:0;padding:0;border:0">
+<tr>
+<th style="padding-right:1em">Date</th>
+<td>July 30, 1419 – May 30, 1434</td>
+</tr>
+<tr>
+<th style="padding-right:1em">Location</th>
+<td><span class="location"><a href="/wiki/Central_Europe" title="Central Europe">Central Europe</a>, mostly in the <a href="/wiki/Crown_of_Bohemia" class="mw-redirect" title="Crown of Bohemia">Crown of Bohemia</a></span></td>
+</tr>
+<tr>
+<th style="padding-right:1em">Result</th>
+<td>
+<p>Hussite victory<sup id="cite_ref-tUF_1-0" class="reference"><a href="#cite_note-tUF-1">[1]</a></sup></p>
+<ul>
+<li>Hussite church becomes free from the Papacy<sup id="cite_ref-tUF_1-1" class="reference"><a href="#cite_note-tUF-1">[1]</a></sup></li>
+<li>Compromise between the Utraquist Hussites and the Council</li>
+<li><a href="/wiki/Sigismund,_Holy_Roman_Emperor" title="Sigismund, Holy Roman Emperor">Sigismund, Holy Roman Emperor</a> becomes <a href="/wiki/King_of_Bohemia" class="mw-redirect" title="King of Bohemia">King of Bohemia</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="background-color:#B0C4DE;text-align:center;vertical-align:middle;font-size:110%;">Belligerents</th>
+</tr>
+<tr>
+<td style="width:50%;border-right:1px dotted #aaa;">
+<p><a href="/wiki/File:Husitsk%C3%A1_korouhev.svg" class="image"><img alt="Husitská korouhev.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/22px-Husitsk%C3%A1_korouhev.svg.png" width="22" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/33px-Husitsk%C3%A1_korouhev.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/44px-Husitsk%C3%A1_korouhev.svg.png 2x" data-file-width="472" data-file-height="354" /></a> <a href="/wiki/Hussites" title="Hussites">Hussites</a><sup>(1419-1423)</sup></p>
+<ul>
+<li><a href="/wiki/File:Tabori.jpg" class="image"><img alt="Tabori.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tabori.jpg/45px-Tabori.jpg" width="45" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tabori.jpg/68px-Tabori.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tabori.jpg/90px-Tabori.jpg 2x" data-file-width="1907" data-file-height="642" /></a> <a href="/wiki/Taborites" class="mw-redirect" title="Taborites">Taborites</a></li>
+<li><a href="/wiki/File:Sirotci_2.jpg" class="image"><img alt="Sirotci 2.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Sirotci_2.jpg/45px-Sirotci_2.jpg" width="45" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Sirotci_2.jpg/68px-Sirotci_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Sirotci_2.jpg/90px-Sirotci_2.jpg 2x" data-file-width="1907" data-file-height="642" /></a> <a href="/wiki/Orebites" title="Orebites">Orebites</a><br />
+<sup>(1419-1424)</sup></li>
+<li><a href="/wiki/File:Prague_banner_c1477.png" class="image"><img alt="Prague banner c1477.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Prague_banner_c1477.png/22px-Prague_banner_c1477.png" width="22" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Prague_banner_c1477.png/33px-Prague_banner_c1477.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Prague_banner_c1477.png/44px-Prague_banner_c1477.png 2x" data-file-width="936" data-file-height="600" /></a> <a href="/w/index.php?title=Prague_Hussites&amp;action=edit&amp;redlink=1" class="new" title="Prague Hussites (page does not exist)">Prague Hussites</a></li>
+<li><a href="/w/index.php?title=Hussites_of_%C5%BDatec_and_Louny&amp;action=edit&amp;redlink=1" class="new" title="Hussites of Žatec and Louny (page does not exist)">Hussites of Žatec and Louny</a></li>
+<li><a href="/wiki/File:Bohemia_Arms.svg" class="image"><img alt="Bohemia Arms.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bohemia_Arms.svg/18px-Bohemia_Arms.svg.png" width="18" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bohemia_Arms.svg/27px-Bohemia_Arms.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bohemia_Arms.svg/36px-Bohemia_Arms.svg.png 2x" data-file-width="600" data-file-height="660" /></a> <a href="/wiki/Kingdom_of_Bohemia" title="Kingdom of Bohemia">Bohemian Hussite Nobility</a></li>
+</ul>
+<hr />
+<p><a href="/wiki/File:Husitsk%C3%A1_korouhev.svg" class="image"><img alt="Husitská korouhev.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/22px-Husitsk%C3%A1_korouhev.svg.png" width="22" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/33px-Husitsk%C3%A1_korouhev.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/44px-Husitsk%C3%A1_korouhev.svg.png 2x" data-file-width="472" data-file-height="354" /></a> Radical Hussites<br />
+<sup>(1423-1434)</sup></p>
+<ul>
+<li><a href="/wiki/File:Tabori.jpg" class="image"><img alt="Tabori.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tabori.jpg/45px-Tabori.jpg" width="45" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tabori.jpg/68px-Tabori.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tabori.jpg/90px-Tabori.jpg 2x" data-file-width="1907" data-file-height="642" /></a> <a href="/wiki/Taborites" class="mw-redirect" title="Taborites">Taborites</a></li>
+<li><a href="/wiki/File:Sirotci_2.jpg" class="image"><img alt="Sirotci 2.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Sirotci_2.jpg/45px-Sirotci_2.jpg" width="45" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Sirotci_2.jpg/68px-Sirotci_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Sirotci_2.jpg/90px-Sirotci_2.jpg 2x" data-file-width="1907" data-file-height="642" /></a> <a href="/wiki/Orebites" title="Orebites">Orebites</a><br />
+<sup>(until 1424)</sup></li>
+<li><a href="/wiki/File:Sirotci_2.jpg" class="image"><img alt="Sirotci 2.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Sirotci_2.jpg/45px-Sirotci_2.jpg" width="45" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Sirotci_2.jpg/68px-Sirotci_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Sirotci_2.jpg/90px-Sirotci_2.jpg 2x" data-file-width="1907" data-file-height="642" /></a> <a href="/wiki/Sirotci" title="Sirotci">Orphans</a><br />
+<sup>(1424-1434)</sup></li>
+</ul>
+<hr />
+<a href="/wiki/File:Pohonia.svg" class="image"><img alt="Pohonia.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pohonia.svg/18px-Pohonia.svg.png" width="18" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pohonia.svg/27px-Pohonia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pohonia.svg/36px-Pohonia.svg.png 2x" data-file-width="517" data-file-height="522" /></a> <a href="/wiki/Grand_Duchy_of_Lithuania" title="Grand Duchy of Lithuania">Grand Duchy of Lithuania</a><br />
+<br />
+<b>Supported by:</b><br />
+<a href="/wiki/File:Coat_of_Arms_of_the_Polish_Crown.svg" class="image"><img alt="Coat of Arms of the Polish Crown.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Coat_of_Arms_of_the_Polish_Crown.svg/17px-Coat_of_Arms_of_the_Polish_Crown.svg.png" width="17" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Coat_of_Arms_of_the_Polish_Crown.svg/26px-Coat_of_Arms_of_the_Polish_Crown.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Coat_of_Arms_of_the_Polish_Crown.svg/34px-Coat_of_Arms_of_the_Polish_Crown.svg.png 2x" data-file-width="628" data-file-height="739" /></a> <a href="/wiki/Kingdom_of_Poland_(1320_-_1505)" class="mw-redirect" title="Kingdom of Poland (1320 - 1505)">Kingdom of Poland</a></td>
+<td style="width:50%;padding-left:0.25em">
+<p><a href="/wiki/File:Emblem_of_the_Papacy_SE.svg" class="image"><img alt="Emblem of the Papacy SE.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Emblem_of_the_Papacy_SE.svg/18px-Emblem_of_the_Papacy_SE.svg.png" width="18" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Emblem_of_the_Papacy_SE.svg/27px-Emblem_of_the_Papacy_SE.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Emblem_of_the_Papacy_SE.svg/36px-Emblem_of_the_Papacy_SE.svg.png 2x" data-file-width="815" data-file-height="1105" /></a> <a href="/wiki/Catholic_Church" title="Catholic Church">Catholic Church</a><br />
+<a href="/wiki/File:Holy_Roman_Empire_Arms-double_head.svg" class="image"><img alt="Holy Roman Empire Arms-double head.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Holy_Roman_Empire_Arms-double_head.svg/18px-Holy_Roman_Empire_Arms-double_head.svg.png" width="18" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Holy_Roman_Empire_Arms-double_head.svg/27px-Holy_Roman_Empire_Arms-double_head.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Holy_Roman_Empire_Arms-double_head.svg/36px-Holy_Roman_Empire_Arms-double_head.svg.png 2x" data-file-width="550" data-file-height="659" /></a> <a href="/wiki/Holy_Roman_Empire" title="Holy Roman Empire">Holy Roman Empire</a></p>
+<ul>
+<li><a href="/wiki/File:Bohemia_Arms.svg" class="image"><img alt="Bohemia Arms.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bohemia_Arms.svg/18px-Bohemia_Arms.svg.png" width="18" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bohemia_Arms.svg/27px-Bohemia_Arms.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bohemia_Arms.svg/36px-Bohemia_Arms.svg.png 2x" data-file-width="600" data-file-height="660" /></a> <a href="/wiki/Kingdom_of_Bohemia" title="Kingdom of Bohemia">Bohemian Catholics</a></li>
+<li><a href="/wiki/File:Moravia.svg" class="image"><img alt="Moravia.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Moravia.svg/18px-Moravia.svg.png" width="18" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Moravia.svg/27px-Moravia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/04/Moravia.svg/36px-Moravia.svg.png 2x" data-file-width="491" data-file-height="600" /></a> <a href="/wiki/Moravian_Margraviate" class="mw-redirect" title="Moravian Margraviate">Moravian Margraviate</a></li>
+<li><a href="/wiki/File:Silesia.svg" class="image"><img alt="Silesia.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Silesia.svg/18px-Silesia.svg.png" width="18" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Silesia.svg/27px-Silesia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Silesia.svg/36px-Silesia.svg.png 2x" data-file-width="491" data-file-height="600" /></a> <a href="/wiki/Duchies_of_Silesia" title="Duchies of Silesia">Duchies of Silesia</a></li>
+<li><a href="/wiki/File:Wappen_Landkreis_Meissen.svg" class="image"><img alt="Wappen Landkreis Meissen.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wappen_Landkreis_Meissen.svg/18px-Wappen_Landkreis_Meissen.svg.png" width="18" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wappen_Landkreis_Meissen.svg/27px-Wappen_Landkreis_Meissen.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wappen_Landkreis_Meissen.svg/36px-Wappen_Landkreis_Meissen.svg.png 2x" data-file-width="458" data-file-height="596" /></a> <a href="/wiki/Margravate_of_Meissen" title="Margravate of Meissen">Margravate of Meissen</a></li>
+<li><a href="/wiki/File:Coa_Germany_Town_Upper_Lusatia.svg" class="image"><img alt="Coa Germany Town Upper Lusatia.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Coa_Germany_Town_Upper_Lusatia.svg/18px-Coa_Germany_Town_Upper_Lusatia.svg.png" width="18" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Coa_Germany_Town_Upper_Lusatia.svg/27px-Coa_Germany_Town_Upper_Lusatia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Coa_Germany_Town_Upper_Lusatia.svg/36px-Coa_Germany_Town_Upper_Lusatia.svg.png 2x" data-file-width="360" data-file-height="300" /></a> <a href="/wiki/Upper_Lusatia" title="Upper Lusatia">Upper Lusatia</a></li>
+<li><a href="/wiki/File:Austria_coat_of_arms_simple.svg" class="image"><img alt="Austria coat of arms simple.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Austria_coat_of_arms_simple.svg/18px-Austria_coat_of_arms_simple.svg.png" width="18" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Austria_coat_of_arms_simple.svg/27px-Austria_coat_of_arms_simple.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Austria_coat_of_arms_simple.svg/36px-Austria_coat_of_arms_simple.svg.png 2x" data-file-width="275" data-file-height="300" /></a> <a href="/wiki/Duchy_of_Austria" title="Duchy of Austria">Duchy of Austria</a></li>
+<li><a href="/wiki/File:Armoiries_Bavi%C3%A8re.svg" class="image"><img alt="Armoiries Bavière.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Armoiries_Bavi%C3%A8re.svg/18px-Armoiries_Bavi%C3%A8re.svg.png" width="18" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Armoiries_Bavi%C3%A8re.svg/27px-Armoiries_Bavi%C3%A8re.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/44/Armoiries_Bavi%C3%A8re.svg/36px-Armoiries_Bavi%C3%A8re.svg.png 2x" data-file-width="600" data-file-height="660" /></a> <a href="/wiki/Duchy_of_Bavaria" title="Duchy of Bavaria">Duchy of Bavaria</a></li>
+<li><a href="/wiki/File:Blason_Jean-Georges_IV_de_Saxe.svg" class="image"><img alt="Blason Jean-Georges IV de Saxe.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Blason_Jean-Georges_IV_de_Saxe.svg/18px-Blason_Jean-Georges_IV_de_Saxe.svg.png" width="18" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Blason_Jean-Georges_IV_de_Saxe.svg/27px-Blason_Jean-Georges_IV_de_Saxe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Blason_Jean-Georges_IV_de_Saxe.svg/36px-Blason_Jean-Georges_IV_de_Saxe.svg.png 2x" data-file-width="600" data-file-height="660" /></a> <a href="/wiki/Electorate_of_Saxony" title="Electorate of Saxony">Electorate of Saxony</a></li>
+<li><a href="/wiki/File:Wappen_Mark_Brandenburg.png" class="image"><img alt="Wappen Mark Brandenburg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Wappen_Mark_Brandenburg.png/18px-Wappen_Mark_Brandenburg.png" width="18" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Wappen_Mark_Brandenburg.png/27px-Wappen_Mark_Brandenburg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Wappen_Mark_Brandenburg.png/36px-Wappen_Mark_Brandenburg.png 2x" data-file-width="640" data-file-height="800" /></a> <a href="/wiki/Margraviate_of_Brandenburg" title="Margraviate of Brandenburg">Margraviate of Brandenburg</a></li>
+<li><a href="/wiki/File:Old_Palatinate_Arms.svg" class="image"><img alt="Old Palatinate Arms.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Old_Palatinate_Arms.svg/18px-Old_Palatinate_Arms.svg.png" width="18" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Old_Palatinate_Arms.svg/27px-Old_Palatinate_Arms.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Old_Palatinate_Arms.svg/36px-Old_Palatinate_Arms.svg.png 2x" data-file-width="600" data-file-height="660" /></a> <a href="/wiki/County_Palatine_of_the_Rhine" class="mw-redirect" title="County Palatine of the Rhine">County Palatine of the Rhine</a></li>
+<li><a href="/wiki/File:COA_family_de_Landgrafen_von_Hessen.svg" class="image"><img alt="COA family de Landgrafen von Hessen.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/COA_family_de_Landgrafen_von_Hessen.svg/18px-COA_family_de_Landgrafen_von_Hessen.svg.png" width="18" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/COA_family_de_Landgrafen_von_Hessen.svg/27px-COA_family_de_Landgrafen_von_Hessen.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/COA_family_de_Landgrafen_von_Hessen.svg/36px-COA_family_de_Landgrafen_von_Hessen.svg.png 2x" data-file-width="550" data-file-height="600" /></a> <a href="/wiki/Duchy_of_Thuringia" title="Duchy of Thuringia">Duchy of Thuringia</a></li>
+<li><a href="/wiki/File:Trier_Arms.svg" class="image"><img alt="Trier Arms.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Trier_Arms.svg/18px-Trier_Arms.svg.png" width="18" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Trier_Arms.svg/27px-Trier_Arms.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Trier_Arms.svg/36px-Trier_Arms.svg.png 2x" data-file-width="550" data-file-height="659" /></a> <a href="/wiki/Electorate_of_Trier" title="Electorate of Trier">Electorate of Trier</a></li>
+<li><a href="/wiki/File:Mainz_Arms.svg" class="image"><img alt="Mainz Arms.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Mainz_Arms.svg/18px-Mainz_Arms.svg.png" width="18" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Mainz_Arms.svg/27px-Mainz_Arms.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Mainz_Arms.svg/36px-Mainz_Arms.svg.png 2x" data-file-width="550" data-file-height="659" /></a> <a href="/wiki/Electorate_of_Mainz" title="Electorate of Mainz">Electorate of Mainz</a></li>
+<li><a href="/wiki/File:Teutonic_Knights_Arms.svg" class="image"><img alt="Teutonic Knights Arms.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Teutonic_Knights_Arms.svg/18px-Teutonic_Knights_Arms.svg.png" width="18" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Teutonic_Knights_Arms.svg/27px-Teutonic_Knights_Arms.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Teutonic_Knights_Arms.svg/36px-Teutonic_Knights_Arms.svg.png 2x" data-file-width="550" data-file-height="659" /></a> <a href="/wiki/Electorate_of_Cologne" title="Electorate of Cologne">Electorate of Cologne</a></li>
+</ul>
+<p><a href="/wiki/File:Flag_of_Hungary_(15th_century,_rectangular).svg" class="image"><img alt="Flag of Hungary (15th century, rectangular).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Hungary_%2815th_century%2C_rectangular%29.svg/18px-Flag_of_Hungary_%2815th_century%2C_rectangular%29.svg.png" width="18" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Hungary_%2815th_century%2C_rectangular%29.svg/27px-Flag_of_Hungary_%2815th_century%2C_rectangular%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Hungary_%2815th_century%2C_rectangular%29.svg/36px-Flag_of_Hungary_%2815th_century%2C_rectangular%29.svg.png 2x" data-file-width="400" data-file-height="400" /></a> <a href="/wiki/Kingdom_of_Hungary" title="Kingdom of Hungary">Kingdom of Hungary</a><br />
+<a href="/wiki/File:CoA_Pontifical_States_02.svg" class="image"><img alt="CoA Pontifical States 02.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/CoA_Pontifical_States_02.svg/18px-CoA_Pontifical_States_02.svg.png" width="18" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/CoA_Pontifical_States_02.svg/27px-CoA_Pontifical_States_02.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/CoA_Pontifical_States_02.svg/36px-CoA_Pontifical_States_02.svg.png 2x" data-file-width="218" data-file-height="250" /></a> <a href="/wiki/Papal_States" title="Papal States">Papal States</a><br />
+<a href="/wiki/File:Blason_ville_fr_Valcanville_(Manche).svg" class="image"><img alt="Blason ville fr Valcanville (Manche).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Blason_ville_fr_Valcanville_%28Manche%29.svg/18px-Blason_ville_fr_Valcanville_%28Manche%29.svg.png" width="18" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Blason_ville_fr_Valcanville_%28Manche%29.svg/27px-Blason_ville_fr_Valcanville_%28Manche%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Blason_ville_fr_Valcanville_%28Manche%29.svg/36px-Blason_ville_fr_Valcanville_%28Manche%29.svg.png 2x" data-file-width="600" data-file-height="660" /></a> <a href="/wiki/Order_of_Malta" class="mw-redirect" title="Order of Malta">Order of Malta</a><br />
+<a href="/wiki/File:Insignia_Germany_Order_Teutonic.svg" class="image"><img alt="Insignia Germany Order Teutonic.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Insignia_Germany_Order_Teutonic.svg/18px-Insignia_Germany_Order_Teutonic.svg.png" width="18" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Insignia_Germany_Order_Teutonic.svg/27px-Insignia_Germany_Order_Teutonic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Insignia_Germany_Order_Teutonic.svg/36px-Insignia_Germany_Order_Teutonic.svg.png 2x" data-file-width="260" data-file-height="300" /></a> <a href="/wiki/Teutonic_Order" title="Teutonic Order">Teutonic Order</a><br />
+<a href="/wiki/File:Royal_Arms_of_England_(1470-1471).svg" class="image"><img alt="Royal Arms of England (1470-1471).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Royal_Arms_of_England_%281470-1471%29.svg/18px-Royal_Arms_of_England_%281470-1471%29.svg.png" width="18" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Royal_Arms_of_England_%281470-1471%29.svg/27px-Royal_Arms_of_England_%281470-1471%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Royal_Arms_of_England_%281470-1471%29.svg/36px-Royal_Arms_of_England_%281470-1471%29.svg.png 2x" data-file-width="410" data-file-height="478" /></a> <a href="/wiki/Kingdom_of_England" title="Kingdom of England">Kingdom of England</a> <a href="/wiki/File:Despot_of_Serbia.png" class="image"><img alt="Despot of Serbia.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Despot_of_Serbia.png/18px-Despot_of_Serbia.png" width="18" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Despot_of_Serbia.png/27px-Despot_of_Serbia.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/Despot_of_Serbia.png/36px-Despot_of_Serbia.png 2x" data-file-width="2370" data-file-height="2903" /></a> <a href="/wiki/Serbian_Despotate" title="Serbian Despotate">Serbian Despotate</a></p>
+<hr />
+<p><a href="/wiki/File:Husitsk%C3%A1_korouhev.svg" class="image"><img alt="Husitská korouhev.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/22px-Husitsk%C3%A1_korouhev.svg.png" width="22" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/33px-Husitsk%C3%A1_korouhev.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/44px-Husitsk%C3%A1_korouhev.svg.png 2x" data-file-width="472" data-file-height="354" /></a> Moderate Hussites (<a href="/wiki/Utraquism" title="Utraquism">Utraquists</a>)<sup>(1423-1434)</sup></p>
+<ul>
+<li><a href="/wiki/File:Bohemia_Arms.svg" class="image"><img alt="Bohemia Arms.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bohemia_Arms.svg/18px-Bohemia_Arms.svg.png" width="18" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bohemia_Arms.svg/27px-Bohemia_Arms.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bohemia_Arms.svg/36px-Bohemia_Arms.svg.png 2x" data-file-width="600" data-file-height="660" /></a> <a href="/wiki/Kingdom_of_Bohemia" title="Kingdom of Bohemia">Bohemian Hussite Nobility</a></li>
+<li><a href="/wiki/File:Prague_banner_c1477.png" class="image"><img alt="Prague banner c1477.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Prague_banner_c1477.png/22px-Prague_banner_c1477.png" width="22" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Prague_banner_c1477.png/33px-Prague_banner_c1477.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Prague_banner_c1477.png/44px-Prague_banner_c1477.png 2x" data-file-width="936" data-file-height="600" /></a> <a href="/w/index.php?title=Prague_Hussites&amp;action=edit&amp;redlink=1" class="new" title="Prague Hussites (page does not exist)">Prague Hussites</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="background-color:#B0C4DE;text-align:center;vertical-align:middle;font-size:110%;">Commanders and leaders</th>
+</tr>
+<tr>
+<td style="width:50%;border-right:1px dotted #aaa;">
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/File:%C5%BDi%C5%BEka_Jan-Coat_of_Arms.png" class="image"><img alt="Žižka Jan-Coat of Arms.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/%C5%BDi%C5%BEka_Jan-Coat_of_Arms.png/20px-%C5%BDi%C5%BEka_Jan-Coat_of_Arms.png" width="20" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/%C5%BDi%C5%BEka_Jan-Coat_of_Arms.png/30px-%C5%BDi%C5%BEka_Jan-Coat_of_Arms.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/%C5%BDi%C5%BEka_Jan-Coat_of_Arms.png/40px-%C5%BDi%C5%BEka_Jan-Coat_of_Arms.png 2x" data-file-width="258" data-file-height="391" /></a> <b><a href="/wiki/Jan_%C5%BDi%C5%BEka" title="Jan Žižka">Jan Žižka</a></b></li>
+<li><a href="/wiki/File:Husitsk%C3%A1_korouhev.svg" class="image"><img alt="Husitská korouhev.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/22px-Husitsk%C3%A1_korouhev.svg.png" width="22" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/33px-Husitsk%C3%A1_korouhev.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/44px-Husitsk%C3%A1_korouhev.svg.png 2x" data-file-width="472" data-file-height="354" /></a> <b><a href="/wiki/Prokop_the_Great" title="Prokop the Great">Prokop the Great</a></b>&#160;<a href="/wiki/Killed_in_action" title="Killed in action"><span style="font-family:'Times New Roman','Old English Text MT',serif"><b>†</b></span></a></li>
+<li><a href="/wiki/File:Husitsk%C3%A1_korouhev.svg" class="image"><img alt="Husitská korouhev.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/22px-Husitsk%C3%A1_korouhev.svg.png" width="22" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/33px-Husitsk%C3%A1_korouhev.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/44px-Husitsk%C3%A1_korouhev.svg.png 2x" data-file-width="472" data-file-height="354" /></a> <a href="/w/index.php?title=Prokop_the_Lesser&amp;action=edit&amp;redlink=1" class="new" title="Prokop the Lesser (page does not exist)">Prokop the Lesser</a>&#160;<a href="/wiki/Killed_in_action" title="Killed in action"><span style="font-family:'Times New Roman','Old English Text MT',serif"><b>†</b></span></a></li>
+<li><a href="/wiki/File:Husitsk%C3%A1_korouhev.svg" class="image"><img alt="Husitská korouhev.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/22px-Husitsk%C3%A1_korouhev.svg.png" width="22" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/33px-Husitsk%C3%A1_korouhev.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/44px-Husitsk%C3%A1_korouhev.svg.png 2x" data-file-width="472" data-file-height="354" /></a> <a href="/wiki/Hynek_Kru%C5%A1ina_of_Lichtenburg" title="Hynek Krušina of Lichtenburg">Hynek Krušina of Lichtenburg</a></li>
+<li><a href="/wiki/File:Husitsk%C3%A1_korouhev.svg" class="image"><img alt="Husitská korouhev.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/22px-Husitsk%C3%A1_korouhev.svg.png" width="22" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/33px-Husitsk%C3%A1_korouhev.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/44px-Husitsk%C3%A1_korouhev.svg.png 2x" data-file-width="472" data-file-height="354" /></a> <a href="/wiki/Jan_%C4%8Capek_ze_S%C3%A1n" title="Jan Čapek ze Sán">Jan Čapek of Sány</a></li>
+<li><a href="/wiki/File:Husitsk%C3%A1_korouhev.svg" class="image"><img alt="Husitská korouhev.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/22px-Husitsk%C3%A1_korouhev.svg.png" width="22" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/33px-Husitsk%C3%A1_korouhev.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/44px-Husitsk%C3%A1_korouhev.svg.png 2x" data-file-width="472" data-file-height="354" /></a> <a href="/wiki/Divi%C5%A1_Bo%C5%99ek_of_Milet%C3%ADnek" title="Diviš Bořek of Miletínek">Diviš Bořek of Miletínek</a><sup>(1420-1423)</sup></li>
+<li><a href="/wiki/File:Erb_P%C3%A1n%C5%AF_z_V%C5%99esovic.JPG" class="image"><img alt="Erb Pánů z Vřesovic.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Erb_P%C3%A1n%C5%AF_z_V%C5%99esovic.JPG/18px-Erb_P%C3%A1n%C5%AF_z_V%C5%99esovic.JPG" width="18" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Erb_P%C3%A1n%C5%AF_z_V%C5%99esovic.JPG/27px-Erb_P%C3%A1n%C5%AF_z_V%C5%99esovic.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Erb_P%C3%A1n%C5%AF_z_V%C5%99esovic.JPG/36px-Erb_P%C3%A1n%C5%AF_z_V%C5%99esovic.JPG 2x" data-file-width="151" data-file-height="218" /></a> <a href="/w/index.php?title=Jakoubek_of_V%C5%99esovice&amp;action=edit&amp;redlink=1" class="new" title="Jakoubek of Vřesovice (page does not exist)">Jakoubek of Vřesovice</a></li>
+<li><a href="/wiki/File:COA_Rohac_z_Dube.png" class="image"><img alt="COA Rohac z Dube.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/COA_Rohac_z_Dube.png/18px-COA_Rohac_z_Dube.png" width="18" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/COA_Rohac_z_Dube.png/27px-COA_Rohac_z_Dube.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/COA_Rohac_z_Dube.png/36px-COA_Rohac_z_Dube.png 2x" data-file-width="276" data-file-height="320" /></a> <a href="/wiki/Jan_Roh%C3%A1%C4%8D_z_Dub%C3%A9" title="Jan Roháč z Dubé">Jan Roháč of Dubá</a></li>
+<li><a href="/wiki/File:Schwanberg_tp.png" class="image"><img alt="Schwanberg tp.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Schwanberg_tp.png/18px-Schwanberg_tp.png" width="18" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Schwanberg_tp.png/27px-Schwanberg_tp.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Schwanberg_tp.png/36px-Schwanberg_tp.png 2x" data-file-width="400" data-file-height="521" /></a> <a href="/w/index.php?title=Bohuslav_von_Schwanberg&amp;action=edit&amp;redlink=1" class="new" title="Bohuslav von Schwanberg (page does not exist)">Bohuslav von Schwanberg</a><sup>(1422-1425)</sup>&#160;<a href="/wiki/Killed_in_action" title="Killed in action"><span style="font-family:'Times New Roman','Old English Text MT',serif"><b>†</b></span></a></li>
+<li><a href="/wiki/File:Pohonia.svg" class="image"><img alt="Pohonia.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pohonia.svg/18px-Pohonia.svg.png" width="18" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pohonia.svg/27px-Pohonia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pohonia.svg/36px-Pohonia.svg.png 2x" data-file-width="517" data-file-height="522" /></a> / <a href="/wiki/File:Husitsk%C3%A1_korouhev.svg" class="image"><img alt="Husitská korouhev.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/22px-Husitsk%C3%A1_korouhev.svg.png" width="22" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/33px-Husitsk%C3%A1_korouhev.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/44px-Husitsk%C3%A1_korouhev.svg.png 2x" data-file-width="472" data-file-height="354" /></a> <a href="/wiki/Sigismund_Korybut" title="Sigismund Korybut">Sigismund Korybut</a></li>
+<li><a href="/wiki/File:Husitsk%C3%A1_korouhev.svg" class="image"><img alt="Husitská korouhev.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/22px-Husitsk%C3%A1_korouhev.svg.png" width="22" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/33px-Husitsk%C3%A1_korouhev.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/44px-Husitsk%C3%A1_korouhev.svg.png 2x" data-file-width="472" data-file-height="354" /></a> <a href="/w/index.php?title=Ale%C5%A1_V%C5%99e%C5%A1%C5%A5ovsk%C3%BD_of_R%C3%BDzmburk&amp;action=edit&amp;redlink=1" class="new" title="Aleš Vřešťovský of Rýzmburk (page does not exist)">Aleš Vřešťovský of Rýzmburk</a></li>
+<li><a href="/wiki/File:Husitsk%C3%A1_korouhev.svg" class="image"><img alt="Husitská korouhev.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/22px-Husitsk%C3%A1_korouhev.svg.png" width="22" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/33px-Husitsk%C3%A1_korouhev.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/44px-Husitsk%C3%A1_korouhev.svg.png 2x" data-file-width="472" data-file-height="354" /></a> <a href="/w/index.php?title=Chval_%C5%98epick%C3%BD_of_Machovice&amp;action=edit&amp;redlink=1" class="new" title="Chval Řepický of Machovice (page does not exist)">Chval Řepický of Machovice</a></li>
+<li><a href="/wiki/File:Husitsk%C3%A1_korouhev.svg" class="image"><img alt="Husitská korouhev.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/22px-Husitsk%C3%A1_korouhev.svg.png" width="22" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/33px-Husitsk%C3%A1_korouhev.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/44px-Husitsk%C3%A1_korouhev.svg.png 2x" data-file-width="472" data-file-height="354" /></a> <a href="/w/index.php?title=Jan_Pardus_of_Horka_and_Vratkov&amp;action=edit&amp;redlink=1" class="new" title="Jan Pardus of Horka and Vratkov (page does not exist)">Jan Pardus of Horka and Vratkov</a></li>
+<li><a href="/wiki/File:Husitsk%C3%A1_korouhev.svg" class="image"><img alt="Husitská korouhev.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/22px-Husitsk%C3%A1_korouhev.svg.png" width="22" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/33px-Husitsk%C3%A1_korouhev.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/44px-Husitsk%C3%A1_korouhev.svg.png 2x" data-file-width="472" data-file-height="354" /></a> <a href="/wiki/Mikul%C3%A1%C5%A1_of_Hus" title="Mikuláš of Hus">Mikuláš of Hus</a>&#160;<a href="/wiki/Killed_in_action" title="Killed in action"><span style="font-family:'Times New Roman','Old English Text MT',serif"><b>†</b></span></a></li>
+<li><a href="/wiki/File:Husitsk%C3%A1_korouhev.svg" class="image"><img alt="Husitská korouhev.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/22px-Husitsk%C3%A1_korouhev.svg.png" width="22" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/33px-Husitsk%C3%A1_korouhev.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/44px-Husitsk%C3%A1_korouhev.svg.png 2x" data-file-width="472" data-file-height="354" /></a> <a href="/w/index.php?title=Ond%C5%99ej_Ke%C5%99sk%C3%BD_of_%C5%98imovice&amp;action=edit&amp;redlink=1" class="new" title="Ondřej Keřský of Řimovice (page does not exist)">Ondřej Keřský of Řimovice</a>&#160;<a href="/wiki/Killed_in_action" title="Killed in action"><span style="font-family:'Times New Roman','Old English Text MT',serif"><b>†</b></span></a></li>
+<li><a href="/wiki/File:Husitsk%C3%A1_korouhev.svg" class="image"><img alt="Husitská korouhev.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/22px-Husitsk%C3%A1_korouhev.svg.png" width="22" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/33px-Husitsk%C3%A1_korouhev.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/44px-Husitsk%C3%A1_korouhev.svg.png 2x" data-file-width="472" data-file-height="354" /></a> <a href="/w/index.php?title=Petr_Zmrzl%C3%ADk_of_Svoj%C5%A1%C3%ADn&amp;action=edit&amp;redlink=1" class="new" title="Petr Zmrzlík of Svojšín (page does not exist)">Petr Zmrzlík of Svojšín</a></li>
+<li><a href="/wiki/File:Husitsk%C3%A1_korouhev.svg" class="image"><img alt="Husitská korouhev.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/22px-Husitsk%C3%A1_korouhev.svg.png" width="22" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/33px-Husitsk%C3%A1_korouhev.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/44px-Husitsk%C3%A1_korouhev.svg.png 2x" data-file-width="472" data-file-height="354" /></a> <a href="/w/index.php?title=Jan_Talaf%C3%BAs_of_Ostrov&amp;action=edit&amp;redlink=1" class="new" title="Jan Talafús of Ostrov (page does not exist)">Jan Talafús of Ostrov</a></li>
+<li><a href="/wiki/File:Husitsk%C3%A1_korouhev.svg" class="image"><img alt="Husitská korouhev.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/22px-Husitsk%C3%A1_korouhev.svg.png" width="22" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/33px-Husitsk%C3%A1_korouhev.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/44px-Husitsk%C3%A1_korouhev.svg.png 2x" data-file-width="472" data-file-height="354" /></a> <a href="/w/index.php?title=Kune%C5%A1_of_B%C4%9Blovice&amp;action=edit&amp;redlink=1" class="new" title="Kuneš of Bělovice (page does not exist)">Kuneš of Bělovice</a></li>
+<li><a href="/wiki/File:Coat_of_Arms_of_the_Polish_Crown.svg" class="image"><img alt="Coat of Arms of the Polish Crown.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Coat_of_Arms_of_the_Polish_Crown.svg/16px-Coat_of_Arms_of_the_Polish_Crown.svg.png" width="16" height="19" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Coat_of_Arms_of_the_Polish_Crown.svg/24px-Coat_of_Arms_of_the_Polish_Crown.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Coat_of_Arms_of_the_Polish_Crown.svg/32px-Coat_of_Arms_of_the_Polish_Crown.svg.png 2x" data-file-width="628" data-file-height="739" /></a> / <a href="/wiki/File:Pohonia.svg" class="image"><img alt="Pohonia.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pohonia.svg/18px-Pohonia.svg.png" width="18" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pohonia.svg/27px-Pohonia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pohonia.svg/36px-Pohonia.svg.png 2x" data-file-width="517" data-file-height="522" /></a> <b><a href="/wiki/W%C5%82adys%C5%82aw_II_Jagie%C5%82%C5%82o" title="Władysław II Jagiełło">Władysław II Jagiełło</a></b></li>
+</ul>
+</div>
+</td>
+<td style="width:50%;padding-left:0.25em">
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/File:Armoiries_empereur_Sigismond_Ier.svg" class="image"><img alt="Armoiries empereur Sigismond Ier.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Armoiries_empereur_Sigismond_Ier.svg/18px-Armoiries_empereur_Sigismond_Ier.svg.png" width="18" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Armoiries_empereur_Sigismond_Ier.svg/27px-Armoiries_empereur_Sigismond_Ier.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Armoiries_empereur_Sigismond_Ier.svg/36px-Armoiries_empereur_Sigismond_Ier.svg.png 2x" data-file-width="738" data-file-height="853" /></a> <b><a href="/wiki/Sigismund,_Holy_Roman_Emperor" title="Sigismund, Holy Roman Emperor">Sigismund</a></b></li>
+<li><a href="/wiki/File:C_o_a_Martino_V.svg" class="image"><img alt="C o a Martino V.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C_o_a_Martino_V.svg/18px-C_o_a_Martino_V.svg.png" width="18" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C_o_a_Martino_V.svg/27px-C_o_a_Martino_V.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C_o_a_Martino_V.svg/36px-C_o_a_Martino_V.svg.png 2x" data-file-width="1383" data-file-height="1320" /></a> <b><a href="/wiki/Pope_Martin_V" title="Pope Martin V">Pope Martin V</a></b></li>
+<li><a href="/wiki/File:Flag_of_Hungary_(15th_century,_rectangular).svg" class="image"><img alt="Flag of Hungary (15th century, rectangular).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Hungary_%2815th_century%2C_rectangular%29.svg/18px-Flag_of_Hungary_%2815th_century%2C_rectangular%29.svg.png" width="18" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Hungary_%2815th_century%2C_rectangular%29.svg/27px-Flag_of_Hungary_%2815th_century%2C_rectangular%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Hungary_%2815th_century%2C_rectangular%29.svg/36px-Flag_of_Hungary_%2815th_century%2C_rectangular%29.svg.png 2x" data-file-width="400" data-file-height="400" /></a> <a href="/wiki/Pippo_Spano" title="Pippo Spano">Pippo Spano</a></li>
+<li><a href="/wiki/File:Schwanberg_tp.png" class="image"><img alt="Schwanberg tp.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Schwanberg_tp.png/18px-Schwanberg_tp.png" width="18" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Schwanberg_tp.png/27px-Schwanberg_tp.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Schwanberg_tp.png/36px-Schwanberg_tp.png 2x" data-file-width="400" data-file-height="521" /></a> <a href="/w/index.php?title=Bohuslav_von_Schwanberg&amp;action=edit&amp;redlink=1" class="new" title="Bohuslav von Schwanberg (page does not exist)">Bohuslav von Schwanberg</a><sup>(1419-1422)</sup></li>
+<li><a href="/wiki/File:Rosenberg-Wappen.png" class="image"><img alt="Rosenberg-Wappen.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Rosenberg-Wappen.png/18px-Rosenberg-Wappen.png" width="18" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Rosenberg-Wappen.png/27px-Rosenberg-Wappen.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/12/Rosenberg-Wappen.png/36px-Rosenberg-Wappen.png 2x" data-file-width="460" data-file-height="600" /></a> <a href="/w/index.php?title=Ulrich_II_von_Rosenberg&amp;action=edit&amp;redlink=1" class="new" title="Ulrich II von Rosenberg (page does not exist)">Ulrich II von Rosenberg</a></li>
+<li><a href="/wiki/File:CoA_Wartenberg.png" class="image"><img alt="CoA Wartenberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/CoA_Wartenberg.png/16px-CoA_Wartenberg.png" width="16" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/CoA_Wartenberg.png/24px-CoA_Wartenberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/CoA_Wartenberg.png/32px-CoA_Wartenberg.png 2x" data-file-width="218" data-file-height="373" /></a> <a href="/wiki/%C4%8Cen%C4%9Bk_von_Wartenberg" class="mw-redirect" title="Čeněk von Wartenberg">Čeněk von Wartenberg</a></li>
+<li><a href="/wiki/File:Znak_m%C4%9Bsta_Boskovice.svg" class="image"><img alt="Znak města Boskovice.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Znak_m%C4%9Bsta_Boskovice.svg/17px-Znak_m%C4%9Bsta_Boskovice.svg.png" width="17" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Znak_m%C4%9Bsta_Boskovice.svg/26px-Znak_m%C4%9Bsta_Boskovice.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Znak_m%C4%9Bsta_Boskovice.svg/34px-Znak_m%C4%9Bsta_Boskovice.svg.png 2x" data-file-width="491" data-file-height="602" /></a> Jan Všembera of <a href="/wiki/Boskovice" title="Boskovice">Boskovice</a></li>
+<li><a href="/wiki/File:COA_Kravare.png" class="image"><img alt="COA Kravare.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/COA_Kravare.png/18px-COA_Kravare.png" width="18" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/COA_Kravare.png/27px-COA_Kravare.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/COA_Kravare.png/36px-COA_Kravare.png 2x" data-file-width="247" data-file-height="400" /></a> Henry of <a href="/wiki/Krava%C5%99e" title="Kravaře">Kravaře</a> and <a href="/wiki/Plumlov" title="Plumlov">Plumlov</a>&#160;<a href="/wiki/Killed_in_action" title="Killed in action"><span style="font-family:'Times New Roman','Old English Text MT',serif"><b>†</b></span></a></li>
+<li><a href="/wiki/File:Silesia.svg" class="image"><img alt="Silesia.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Silesia.svg/18px-Silesia.svg.png" width="18" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Silesia.svg/27px-Silesia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Silesia.svg/36px-Silesia.svg.png 2x" data-file-width="491" data-file-height="600" /></a> <a href="/wiki/Jan_I_of_%C5%BBaga%C5%84" title="Jan I of Żagań">Jan I of Żagań</a></li>
+<li><a href="/wiki/File:Wappen_Landkreis_Meissen.svg" class="image"><img alt="Wappen Landkreis Meissen.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wappen_Landkreis_Meissen.svg/18px-Wappen_Landkreis_Meissen.svg.png" width="18" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wappen_Landkreis_Meissen.svg/27px-Wappen_Landkreis_Meissen.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wappen_Landkreis_Meissen.svg/36px-Wappen_Landkreis_Meissen.svg.png 2x" data-file-width="458" data-file-height="596" /></a> <a href="/wiki/Frederick_I,_Elector_of_Saxony" title="Frederick I, Elector of Saxony">Frederick I, the Belligerent</a></li>
+<li><a href="/wiki/File:Blason_Jean-Georges_IV_de_Saxe.svg" class="image"><img alt="Blason Jean-Georges IV de Saxe.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Blason_Jean-Georges_IV_de_Saxe.svg/18px-Blason_Jean-Georges_IV_de_Saxe.svg.png" width="18" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Blason_Jean-Georges_IV_de_Saxe.svg/27px-Blason_Jean-Georges_IV_de_Saxe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Blason_Jean-Georges_IV_de_Saxe.svg/36px-Blason_Jean-Georges_IV_de_Saxe.svg.png 2x" data-file-width="600" data-file-height="660" /></a> <a href="/wiki/Frederick_II,_Elector_of_Saxony" title="Frederick II, Elector of Saxony">Frederick II, Elector of Saxony</a></li>
+<li><a href="/wiki/File:Wappen_Mark_Brandenburg.png" class="image"><img alt="Wappen Mark Brandenburg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Wappen_Mark_Brandenburg.png/18px-Wappen_Mark_Brandenburg.png" width="18" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Wappen_Mark_Brandenburg.png/27px-Wappen_Mark_Brandenburg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Wappen_Mark_Brandenburg.png/36px-Wappen_Mark_Brandenburg.png 2x" data-file-width="640" data-file-height="800" /></a> <a href="/wiki/Frederick_I_of_Brandenburg" class="mw-redirect" title="Frederick I of Brandenburg">Frederick I of Brandenburg</a></li>
+<li><a href="/wiki/File:Old_Palatinate_Arms.svg" class="image"><img alt="Old Palatinate Arms.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Old_Palatinate_Arms.svg/18px-Old_Palatinate_Arms.svg.png" width="18" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Old_Palatinate_Arms.svg/27px-Old_Palatinate_Arms.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Old_Palatinate_Arms.svg/36px-Old_Palatinate_Arms.svg.png 2x" data-file-width="600" data-file-height="660" /></a> <a href="/wiki/John,_Count_Palatine_of_Neumarkt" title="John, Count Palatine of Neumarkt">Johann von Pfalz-Neumarkt</a></li>
+<li><a href="/wiki/File:CoA_Pontifical_States_02.svg" class="image"><img alt="CoA Pontifical States 02.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/CoA_Pontifical_States_02.svg/18px-CoA_Pontifical_States_02.svg.png" width="18" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/CoA_Pontifical_States_02.svg/27px-CoA_Pontifical_States_02.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/CoA_Pontifical_States_02.svg/36px-CoA_Pontifical_States_02.svg.png 2x" data-file-width="218" data-file-height="250" /></a> <a href="/wiki/Julian_Cesarini" title="Julian Cesarini">Julian Cesarini</a></li>
+<li><a href="/wiki/File:Blason_ville_fr_Valcanville_(Manche).svg" class="image"><img alt="Blason ville fr Valcanville (Manche).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Blason_ville_fr_Valcanville_%28Manche%29.svg/18px-Blason_ville_fr_Valcanville_%28Manche%29.svg.png" width="18" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Blason_ville_fr_Valcanville_%28Manche%29.svg/27px-Blason_ville_fr_Valcanville_%28Manche%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Blason_ville_fr_Valcanville_%28Manche%29.svg/36px-Blason_ville_fr_Valcanville_%28Manche%29.svg.png 2x" data-file-width="600" data-file-height="660" /></a> <a href="/w/index.php?title=Henry_of_Hradec&amp;action=edit&amp;redlink=1" class="new" title="Henry of Hradec (page does not exist)">Henry of Hradec</a>&#160;<small><a href="/wiki/Died_of_wounds" class="mw-redirect" title="Died of wounds">(DOW)</a></small></li>
+<li><a href="/wiki/File:Insignia_Germany_Order_Teutonic.svg" class="image"><img alt="Insignia Germany Order Teutonic.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Insignia_Germany_Order_Teutonic.svg/18px-Insignia_Germany_Order_Teutonic.svg.png" width="18" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Insignia_Germany_Order_Teutonic.svg/27px-Insignia_Germany_Order_Teutonic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Insignia_Germany_Order_Teutonic.svg/36px-Insignia_Germany_Order_Teutonic.svg.png 2x" data-file-width="260" data-file-height="300" /></a> <a href="/w/index.php?title=Otto_von_Ziegenhain&amp;action=edit&amp;redlink=1" class="new" title="Otto von Ziegenhain (page does not exist)">Otto von Ziegenhain</a></li>
+<li><a href="/wiki/File:Arms_of_John_Beaufort,_1st_Earl_of_Somerset.svg" class="image"><img alt="Arms of John Beaufort, 1st Earl of Somerset.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Arms_of_John_Beaufort%2C_1st_Earl_of_Somerset.svg/18px-Arms_of_John_Beaufort%2C_1st_Earl_of_Somerset.svg.png" width="18" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Arms_of_John_Beaufort%2C_1st_Earl_of_Somerset.svg/27px-Arms_of_John_Beaufort%2C_1st_Earl_of_Somerset.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Arms_of_John_Beaufort%2C_1st_Earl_of_Somerset.svg/36px-Arms_of_John_Beaufort%2C_1st_Earl_of_Somerset.svg.png 2x" data-file-width="410" data-file-height="478" /></a> <a href="/wiki/Henry_Beaufort" title="Henry Beaufort">Henry Beaufort</a></li>
+</ul>
+<hr />
+<ul>
+<li><a href="/wiki/File:Husitsk%C3%A1_korouhev.svg" class="image"><img alt="Husitská korouhev.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/22px-Husitsk%C3%A1_korouhev.svg.png" width="22" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/33px-Husitsk%C3%A1_korouhev.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Husitsk%C3%A1_korouhev.svg/44px-Husitsk%C3%A1_korouhev.svg.png 2x" data-file-width="472" data-file-height="354" /></a> <a href="/wiki/Divi%C5%A1_Bo%C5%99ek_of_Milet%C3%ADnek" title="Diviš Bořek of Miletínek">Diviš Bořek of Miletínek</a><sup>(1423-1434)</sup></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<div role="navigation" class="navbox" aria-labelledby="Crusades" style="margin:0;float:right;clear:right;width:315px;margin-bottom:0.5em;margin-left:1em;;padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background-color:#B0C4DE;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Campaignbox_Crusades" title="Template:Campaignbox Crusades"><abbr title="View this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Campaignbox_Crusades" title="Template talk:Campaignbox Crusades"><abbr title="Discuss this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Campaignbox_Crusades&amp;action=edit"><abbr title="Edit this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Crusades" style="font-size:114%;margin:0 4em"><span style="line-height:1.6em"><a href="/wiki/Crusades" title="Crusades">Crusades</a></span></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"><b>In the Holy Land (1095–1291)</b>
+<ul>
+<li><a href="/wiki/First_Crusade" title="First Crusade">First</a></li>
+<li><a href="/wiki/People%27s_Crusade" title="People's Crusade">People's</a></li>
+<li><a href="/wiki/Crusade_of_1101" title="Crusade of 1101">1101</a></li>
+<li><a href="/wiki/Norwegian_Crusade" title="Norwegian Crusade">Norwegian</a></li>
+<li><a href="/wiki/Venetian_Crusade" title="Venetian Crusade">Venetian</a></li>
+<li><a href="/wiki/Second_Crusade" title="Second Crusade">Second</a></li>
+<li><a href="/wiki/Third_Crusade" title="Third Crusade">Third</a></li>
+<li><a href="/wiki/Crusade_of_1197" title="Crusade of 1197">1197</a></li>
+<li><a href="/wiki/Fourth_Crusade" title="Fourth Crusade">Fourth</a></li>
+<li><a href="/wiki/Children%27s_Crusade" title="Children's Crusade">Children's</a></li>
+<li><a href="/wiki/Fifth_Crusade" title="Fifth Crusade">Fifth</a></li>
+<li><a href="/wiki/Sixth_Crusade" title="Sixth Crusade">Sixth</a></li>
+<li><a href="/wiki/Barons%27_Crusade" title="Barons' Crusade">Barons'</a></li>
+<li><a href="/wiki/Seventh_Crusade" title="Seventh Crusade">Seventh</a></li>
+<li><a href="/wiki/Shepherds%27_Crusade_(1251)" title="Shepherds' Crusade (1251)">Shepherds' 1251</a></li>
+<li><a href="/wiki/Eighth_Crusade" title="Eighth Crusade">Eighth</a></li>
+<li><a href="/wiki/Ninth_Crusade" title="Ninth Crusade">Ninth</a></li>
+</ul>
+<p><b>After 1291</b></p>
+<ul>
+<li><a href="/wiki/Crusade_of_the_Poor" title="Crusade of the Poor">Poor 1309</a></li>
+<li><a href="/wiki/Shepherds%27_Crusade_(1320)" title="Shepherds' Crusade (1320)">Shepherds' 1320</a></li>
+<li><a href="/wiki/Smyrniote_crusades" title="Smyrniote crusades">Smyrniote 1343–1351</a></li>
+<li><a href="/wiki/Alexandrian_Crusade" title="Alexandrian Crusade">Alexandrian 1365</a></li>
+<li><a href="/wiki/Savoyard_crusade" title="Savoyard crusade">Savoyard 1366</a></li>
+<li><a href="/wiki/Barbary_Crusade" title="Barbary Crusade">Barbary 1390</a></li>
+<li><a href="/wiki/Battle_of_Nicopolis" title="Battle of Nicopolis">Nicopolis 1396</a></li>
+<li><a href="/wiki/Crusade_of_Varna" title="Crusade of Varna">Varna 1443</a></li>
+<li><a href="/wiki/Portuguese_expedition_to_Otranto" title="Portuguese expedition to Otranto">Portuguese 1481</a></li>
+</ul>
+<p><b><a href="/wiki/Northern_Crusades" title="Northern Crusades">Northern Crusades</a> (1147–1410)</b></p>
+<ul>
+<li><a href="/wiki/Wendish_Crusade" title="Wendish Crusade">Wendish 1147</a></li>
+<li>Swedish
+<ul>
+<li><a href="/wiki/First_Swedish_Crusade" title="First Swedish Crusade">1150</a></li>
+<li><a href="/wiki/Second_Swedish_Crusade" title="Second Swedish Crusade">1249</a></li>
+<li><a href="/wiki/Third_Swedish_Crusade" title="Third Swedish Crusade">1293</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Livonian_Crusade" title="Livonian Crusade">Livonian 1198–1290</a></li>
+<li><a href="/wiki/Prussian_Crusade" title="Prussian Crusade">Prussian 1217–1274</a></li>
+<li><a href="/wiki/Lithuanian_Crusade" title="Lithuanian Crusade">Lithuanian 1283–1410</a></li>
+</ul>
+<p><b>Against Christians</b></p>
+<ul>
+<li><a href="/wiki/Bosnian_Crusade" title="Bosnian Crusade">Bosnian 1235–1241</a></li>
+<li><a href="/wiki/Albigensian_Crusade" title="Albigensian Crusade">Albigensian 1209–1229</a></li>
+<li><a href="/wiki/Aragonese_Crusade" title="Aragonese Crusade">Aragonese 1284/5</a></li>
+<li><a href="/wiki/Despenser%27s_Crusade" title="Despenser's Crusade">Despenser's 1382/3</a></li>
+<li><a class="mw-selflink selflink">Hussite 1419–1434</a></li>
+</ul>
+<hr />
+<ul>
+<li><b><span class="nowrap"><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Book:The_Crusades" title="Book:The Crusades">Book:The Crusades</a></span></b></li>
+<li><b><span class="nowrap"><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Crusades" title="Portal:Crusades">Portal:Crusades</a></span></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Hussite_Wars" style="margin:0;float:right;clear:right;width:315px;margin-bottom:0.5em;margin-left:1em;;padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background-color:#B0C4DE;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Campaignbox_Hussite_Wars" title="Template:Campaignbox Hussite Wars"><abbr title="View this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Campaignbox_Hussite_Wars" title="Template talk:Campaignbox Hussite Wars"><abbr title="Discuss this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Campaignbox_Hussite_Wars&amp;action=edit"><abbr title="Edit this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Hussite_Wars" style="font-size:114%;margin:0 4em"><span style="line-height:1.6em"><a class="mw-selflink selflink">Hussite Wars</a></span></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Battle_of_%C5%BDivoho%C5%A1t%C4%9B" title="Battle of Živohoště">Živohoště</a></li>
+<li><a href="/wiki/Battle_of_Nekm%C3%AD%C5%99" title="Battle of Nekmíř">Nekmíř</a></li>
+<li><a href="/wiki/Battle_of_Sudom%C4%9B%C5%99" title="Battle of Sudoměř">Sudoměř</a></li>
+<li><a href="/wiki/Battle_of_V%C3%ADtkov_Hill" title="Battle of Vítkov Hill">Vítkov Hill</a></li>
+<li><a href="/wiki/Battle_of_Vy%C5%A1ehrad" title="Battle of Vyšehrad">Vyšehrad</a></li>
+<li><a href="/wiki/Battle_of_Br%C3%BCx" title="Battle of Brüx">Brüx</a></li>
+<li><a href="/wiki/Battle_of_Kutn%C3%A1_Hora" title="Battle of Kutná Hora">Kutná Hora</a></li>
+<li><a href="/wiki/Battle_of_Nebovidy" title="Battle of Nebovidy">Nebovidy</a></li>
+<li><a href="/wiki/Battle_of_Deutschbrod" title="Battle of Deutschbrod">Deutschbrod</a></li>
+<li><a href="/wiki/Battle_of_Ho%C5%99ice" title="Battle of Hořice">Hořice</a></li>
+<li><a href="/wiki/Battle_of_Aussig" title="Battle of Aussig">Aussig</a></li>
+<li><a href="/wiki/Battle_of_Tachov" title="Battle of Tachov">Tachov</a></li>
+<li><a href="/wiki/Battle_of_Kratzau" title="Battle of Kratzau">Kratzau</a></li>
+<li><a href="/wiki/Battle_of_Trnava_(1430)" title="Battle of Trnava (1430)">Trnava</a></li>
+<li><a href="/wiki/Battle_of_Doma%C5%BElice" title="Battle of Domažlice">Domažlice</a></li>
+<li><a href="/wiki/Battle_of_Waidhofen" title="Battle of Waidhofen">Waidhofen</a></li>
+<li><a href="/wiki/Battle_of_Ilava" title="Battle of Ilava">Ilava</a></li>
+<li><a href="/wiki/Battle_of_Hiltersried" title="Battle of Hiltersried">Hiltersried</a></li>
+<li><a href="/wiki/Siege_of_Pilsen_(1433-1434)" class="mw-redirect" title="Siege of Pilsen (1433-1434)">Pilsen</a></li>
+<li><a href="/wiki/Battle_of_Lipany" title="Battle of Lipany">Lipany</a></li>
+<li><a href="/wiki/Battle_of_Kretsch" title="Battle of Kretsch">Kretsch</a></li>
+<li><a href="/wiki/Battle_of_Sellnitz" title="Battle of Sellnitz">Sellnitz</a></li>
+<li><a href="/wiki/Battle_of_Grotniki" title="Battle of Grotniki">Grotniki</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:225px;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Protestant_Reformation" title="Category:Protestant Reformation">a series</a> on</td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Reformation" title="Reformation">Reformation</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em"><a href="/wiki/File:95Thesen_facsimile_colour.png" class="image"><img alt="95Thesen facsimile colour.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/95Thesen_facsimile_colour.png/150px-95Thesen_facsimile_colour.png" width="150" height="112" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/95Thesen_facsimile_colour.png/225px-95Thesen_facsimile_colour.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/58/95Thesen_facsimile_colour.png/300px-95Thesen_facsimile_colour.png 2x" data-file-width="654" data-file-height="488" /></a>
+<div style="padding-top:0.2em;line-height:1.2em"><a href="/wiki/Ninety-five_Theses" title="Ninety-five Theses">Ninety-five Theses</a></div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/History_of_Protestantism" title="History of Protestantism">Precursors</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Arnold_of_Brescia" title="Arnold of Brescia">Arnold of Brescia</a> and <a href="/wiki/Arnoldists" title="Arnoldists">Arnoldists</a></li>
+<li><a href="/wiki/Peter_Waldo" title="Peter Waldo">Peter Waldo</a> and <a href="/wiki/Waldensians" title="Waldensians">Waldensians</a></li>
+<li><a href="/wiki/Girolamo_Savonarola" title="Girolamo Savonarola">Girolamo Savonarola</a></li>
+<li><a href="/wiki/John_Wycliffe" title="John Wycliffe">John Wycliffe</a> and <a href="/wiki/Lollardy" title="Lollardy">Lollardy</a></li>
+<li><a href="/wiki/William_Tyndale" title="William Tyndale">William Tyndale</a></li>
+<li><a href="/wiki/Jan_Hus" title="Jan Hus">Jan Hus</a> and <a href="/wiki/Hussites" title="Hussites">Hussites</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Martin_Luther#The_start_of_the_Reformation" title="Martin Luther">Beginning</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Ninety-five_Theses" title="Ninety-five Theses">Ninety-five Theses</a></li>
+<li><a href="/wiki/Diet_of_Worms" title="Diet of Worms">Diet of Worms</a></li>
+<li><a href="/wiki/Luther_Bible" title="Luther Bible">Luther Bible</a></li>
+<li><a href="/wiki/Iconoclasm" title="Iconoclasm">Iconoclasm</a></li>
+<li><a href="/wiki/Magisterial_Reformation" title="Magisterial Reformation">Magisterials</a></li>
+<li><a href="/wiki/Radical_Reformation" title="Radical Reformation">Radicals</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Contributing factors</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Western_Schism" title="Western Schism">Western Schism</a></li>
+<li><a href="/wiki/Avignon_Papacy" title="Avignon Papacy">Avignon Papacy</a></li>
+<li><a href="/wiki/Bohemian_Reformation" title="Bohemian Reformation">Bohemian Reformation</a></li>
+<li><a href="/wiki/Northern_Renaissance" title="Northern Renaissance">Northern Renaissance</a></li>
+<li><a href="/wiki/Humanism" title="Humanism">Humanism</a></li>
+<li><a href="/wiki/Johann_Reuchlin" title="Johann Reuchlin">Johann Reuchlin</a></li>
+<li><a href="/wiki/German_mysticism" title="German mysticism">German mysticism</a></li>
+<li><a href="/wiki/Johannes_Gutenberg" title="Johannes Gutenberg">Johannes Gutenberg</a> and his <a href="/wiki/Printing_press" title="Printing press">printing press</a></li>
+<li><a href="/wiki/Erasmus" title="Erasmus">Erasmus</a></li>
+<li><a href="/wiki/Propaganda_during_the_Reformation" title="Propaganda during the Reformation">Propaganda</a></li>
+<li><a href="/wiki/Art_in_the_Protestant_Reformation_and_Counter-Reformation" title="Art in the Protestant Reformation and Counter-Reformation">Art</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Theologies of seminal figures</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Theology_of_Martin_Luther" title="Theology of Martin Luther">Theology of Martin Luther</a></li>
+<li><a href="/wiki/Theology_of_Huldrych_Zwingli" title="Theology of Huldrych Zwingli">Theology of Huldrych Zwingli</a></li>
+<li><a href="/wiki/Theology_of_John_Calvin" title="Theology of John Calvin">Theology of John Calvin</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Protestant_Reformers" title="Protestant Reformers">Protestant Reformers</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Martin_Luther" title="Martin Luther">Martin Luther</a></li>
+<li><a href="/wiki/Philip_Melanchthon" title="Philip Melanchthon">Philip Melanchthon</a></li>
+<li><a href="/wiki/Huldrych_Zwingli" title="Huldrych Zwingli">Huldrych Zwingli</a></li>
+<li><a href="/wiki/John_Calvin" title="John Calvin">John Calvin</a></li>
+<li><a href="/wiki/Martin_Bucer" title="Martin Bucer">Martin Bucer</a></li>
+<li><a href="/wiki/Theodore_Beza" title="Theodore Beza">Theodore Beza</a></li>
+<li><a href="/wiki/Heinrich_Bullinger" title="Heinrich Bullinger">Heinrich Bullinger</a></li>
+<li><a href="/wiki/Peter_Martyr_Vermigli" title="Peter Martyr Vermigli">Peter Martyr Vermigli</a></li>
+<li><a href="/wiki/William_Farel" title="William Farel">William Farel</a></li>
+<li><a href="/wiki/John_Knox" title="John Knox">John Knox</a></li>
+<li><a href="/wiki/Roger_Williams" title="Roger Williams">Roger Williams</a></li>
+<li><a href="/wiki/Thomas_M%C3%BCntzer" title="Thomas Müntzer">Thomas Müntzer</a></li>
+<li><a href="/wiki/Balthasar_Hubmaier" title="Balthasar Hubmaier">Balthasar Hubmaier</a></li>
+<li><a href="/wiki/Andreas_Karlstadt" title="Andreas Karlstadt">Andreas Karlstadt</a></li>
+<li><a href="/wiki/Menno_Simons" title="Menno Simons">Menno Simons</a></li>
+<li><a href="/wiki/Thomas_Cranmer" title="Thomas Cranmer">Thomas Cranmer</a></li>
+<li><a href="/wiki/Richard_Hooker" title="Richard Hooker">Richard Hooker</a></li>
+<li><a href="/wiki/List_of_Protestant_Reformers" title="List of Protestant Reformers"><b>Many others</b></a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Major political leaders</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Henry_VIII_of_England" title="Henry VIII of England">Henry VIII of England</a></li>
+<li><a href="/wiki/Elizabeth_I_of_England" title="Elizabeth I of England">Elizabeth I of England</a></li>
+<li><a href="/wiki/Oliver_Cromwell" title="Oliver Cromwell">Oliver Cromwell</a></li>
+<li><a href="/wiki/James_VI_and_I" title="James VI and I">James VI and I</a></li>
+<li><a href="/wiki/William_the_Silent" title="William the Silent">William the Silent</a></li>
+<li><a href="/wiki/Gaspard_II_de_Coligny" title="Gaspard II de Coligny">Gaspard II de Coligny</a></li>
+<li><a href="/wiki/Henry_IV_of_France" title="Henry IV of France">Henry IV of France</a></li>
+<li><a href="/wiki/Jeanne_d%27Albret" title="Jeanne d'Albret">Jeanne d'Albret</a></li>
+<li><a href="/wiki/Stephen_Bocskai" title="Stephen Bocskai">Stephen Bocskai</a></li>
+<li><a href="/wiki/Gabriel_Bethlen" title="Gabriel Bethlen">Gabriel Bethlen</a></li>
+<li><a href="/wiki/Gustav_II_Adolf" class="mw-redirect" title="Gustav II Adolf">Gustav II Adolf</a></li>
+<li><a href="/wiki/Frederick_V,_Elector_Palatine" class="mw-redirect" title="Frederick V, Elector Palatine">Frederick V, Elector Palatine</a></li>
+<li><a href="/wiki/Philip_I_of_Hesse" class="mw-redirect" title="Philip I of Hesse">Philip I of Hesse</a></li>
+<li><a href="/wiki/Frederick_III,_Elector_of_Saxony" title="Frederick III, Elector of Saxony">Frederick III, Elector of Saxony</a></li>
+<li><a href="/wiki/John_Frederick_I,_Elector_of_Saxony" title="John Frederick I, Elector of Saxony">John Frederick I, Elector of Saxony</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left">By location</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Germany_in_the_early_modern_period" title="Germany in the early modern period">Germany</a></li>
+<li><a href="/wiki/Reformation_in_Switzerland" title="Reformation in Switzerland">Switzerland</a> (<a href="/wiki/History_of_Geneva#Reformation" title="History of Geneva">Geneva</a>/<a href="/wiki/Reformation_in_Z%C3%BCrich" title="Reformation in Zürich">Zürich</a>)</li>
+<li><a href="/wiki/English_Reformation" title="English Reformation">England</a></li>
+<li><a href="/wiki/Scottish_Reformation" title="Scottish Reformation">Scotland</a></li>
+<li><a href="/wiki/History_of_the_Netherlands#The_Reformation" title="History of the Netherlands">Netherlands</a></li>
+<li><a href="/wiki/Bohemian_Reformation" title="Bohemian Reformation">Czech Lands</a></li>
+<li><a href="/wiki/History_of_Christianity_in_Slovakia#Early_Modern_and_Modern_Times" title="History of Christianity in Slovakia">Slovakia</a></li>
+<li><a href="/wiki/History_of_Christianity_in_Hungary#Early_Modern_Times" title="History of Christianity in Hungary">Hungary</a></li>
+<li><a href="/wiki/History_of_Christianity_in_Romania#Reformation" title="History of Christianity in Romania">Romania</a></li>
+<li><a href="/wiki/History_of_Slovenia#Early_modern_period" title="History of Slovenia">Slovenia</a></li>
+<li><a href="/wiki/Reformation_in_Denmark%E2%80%93Norway_and_Holstein" title="Reformation in Denmark–Norway and Holstein">Denmark–Norway and Holstein</a></li>
+<li><a href="/wiki/Reformation_in_Sweden" title="Reformation in Sweden">Sweden and Finland</a></li>
+<li><a href="/wiki/Reformation_in_Iceland" class="mw-redirect" title="Reformation in Iceland">Iceland</a></li>
+<li><a href="/wiki/History_of_Estonia#The_Reformation" title="History of Estonia">Estonia</a> and <a href="/wiki/History_of_Latvia#German_period.2C_1185.E2.80.931561" title="History of Latvia">Latvia</a></li>
+<li><a href="/wiki/History_of_Austria#Austria_in_the_Reformation_and_Counter-Reformation_.281517.E2.80.931564.29" title="History of Austria">Austria</a></li>
+<li><a href="/wiki/Huguenots" title="Huguenots">France</a></li>
+<li><a href="/wiki/Reformation_in_Italy" title="Reformation in Italy">Italy</a></li>
+<li><a href="/wiki/Reformation_in_Poland" class="mw-redirect" title="Reformation in Poland">Poland-Lithuania</a></li>
+<li><a href="/wiki/Reformation_in_Ireland" title="Reformation in Ireland">Ireland</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/European_wars_of_religion" title="European wars of religion">Political and religious conflicts</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Thirty_Years%27_War" title="Thirty Years' War">Thirty Years' War</a></li>
+<li><a href="/wiki/French_Wars_of_Religion" title="French Wars of Religion">French Wars of Religion</a></li>
+<li><a href="/wiki/Eighty_Years%27_War" title="Eighty Years' War">Eighty Years' War</a></li>
+<li><a href="/wiki/War_of_the_Three_Kingdoms" class="mw-redirect" title="War of the Three Kingdoms">War of the Three Kingdoms</a></li>
+<li><a href="/wiki/German_Peasants%27_War" title="German Peasants' War">German Peasants' War</a></li>
+<li><a href="/wiki/Wars_of_Kappel" title="Wars of Kappel">Wars of Kappel</a></li>
+<li><a href="/wiki/Schmalkaldic_War" title="Schmalkaldic War">Schmalkaldic War</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Counter-Reformation" title="Counter-Reformation">Opposition</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Catholic_Church" title="Catholic Church">Catholic Church</a></li>
+<li><a href="/wiki/Council_of_Trent" title="Council of Trent">Council of Trent</a></li>
+<li><a href="/wiki/Anti-Protestantism" title="Anti-Protestantism">Anti-Protestantism</a></li>
+<li><a href="/wiki/Criticism_of_Protestantism" title="Criticism of Protestantism">Criticism of Protestantism</a></li>
+<li><a href="/wiki/Charles_V,_Holy_Roman_Emperor" title="Charles V, Holy Roman Emperor">Charles V, Holy Roman Emperor</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Conclusion</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Peace_of_Westphalia" title="Peace of Westphalia">Peace of Westphalia</a></li>
+<li>Rise of <a href="/wiki/Pietism" title="Pietism">Pietism</a></li>
+<li>No end thesis</li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Commemoration</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Reformation_Day" title="Reformation Day">Reformation Day</a></li>
+<li><a href="/wiki/Reformation_Wall" title="Reformation Wall">Reformation Wall</a></li>
+<li><a href="/wiki/Calendar_of_saints_(Lutheran)" title="Calendar of saints (Lutheran)">Lutheran commemorations</a></li>
+<li><a href="/wiki/List_of_Anglican_Church_calendars" title="List of Anglican Church calendars">Anglican commemorations</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;"><a href="/wiki/Protestantism" title="Protestantism">Protestantism</a></td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Reformation" title="Template:Reformation"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Reformation" title="Template talk:Reformation"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Reformation&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>The <b>Hussite Wars</b>, also called the <b>Bohemian Wars</b> or the <b>Hussite Revolution</b>, were fought between the <a href="/wiki/Hussites" title="Hussites">Hussites</a> and various European monarchs who sought to enforce the authority of the <a href="/wiki/Roman_Catholic_Church" class="mw-redirect" title="Roman Catholic Church">Roman Catholic Church</a> on them; various Hussite factions also confronted each other, especially the Utraquists who opposed remaining Hussite spinoffs alongside Roman Catholics. These wars lasted from 1419 to approximately 1434.</p>
+<p>The Hussite community included most of the <a href="/wiki/Czechs" title="Czechs">Czech</a> population of the <a href="/wiki/Kingdom_of_Bohemia" title="Kingdom of Bohemia">Kingdom of Bohemia</a>, and formed a major military power. They defeated five crusades proclaimed against them by the Pope (1420, 1421, 1422, 1427 and in 1431), and intervened in the wars of neighboring countries. The Hussite Wars were notable for the extensive use of early hand-held firearms such as <a href="/wiki/Hand_cannon" title="Hand cannon">hand cannons</a>.</p>
+<p>The fighting ended after 1434, when the moderate <a href="/wiki/Utraquism" title="Utraquism">Utraquist</a> faction of the Hussites defeated the radical <a href="/wiki/Taborite" title="Taborite">Taborite</a> faction. The Hussites agreed to submit to the authority of the <a href="/wiki/King_of_Bohemia" class="mw-redirect" title="King of Bohemia">King of Bohemia</a> and the Church, and were allowed to practice their somewhat variant rite.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Origins"><span class="tocnumber">1</span> <span class="toctext">Origins</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#The_outbreak_of_fighting"><span class="tocnumber">2</span> <span class="toctext">The outbreak of fighting</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Wagenburg_tactics"><span class="tocnumber">3</span> <span class="toctext">Wagenburg tactics</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#The_first_anti-Hussite_crusade"><span class="tocnumber">4</span> <span class="toctext">The first anti-Hussite crusade</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#The_second_anti-Hussite_crusade"><span class="tocnumber">5</span> <span class="toctext">The second anti-Hussite crusade</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Civil_war"><span class="tocnumber">6</span> <span class="toctext">Civil war</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Polish_and_Lithuanian_involvement"><span class="tocnumber">7</span> <span class="toctext">Polish and Lithuanian involvement</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#The_third_anti-Hussite_crusade"><span class="tocnumber">8</span> <span class="toctext">The third anti-Hussite crusade</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Campaigns_of_1426_and_1427_.28fourth_anti-Hussite_Crusade.29"><span class="tocnumber">9</span> <span class="toctext">Campaigns of 1426 and 1427 (fourth anti-Hussite Crusade)</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Beautiful_rides_.28Chevauch.C3.A9e.29"><span class="tocnumber">10</span> <span class="toctext">Beautiful rides (Chevauchée)</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Peace_talks"><span class="tocnumber">11</span> <span class="toctext">Peace talks</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#The_fifth_anti-Hussite_crusade"><span class="tocnumber">12</span> <span class="toctext">The fifth anti-Hussite crusade</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#New_negotiations_and_the_defeat_of_radical_Hussites"><span class="tocnumber">13</span> <span class="toctext">New negotiations and the defeat of radical Hussites</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Peace_agreement"><span class="tocnumber">14</span> <span class="toctext">Peace agreement</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Aftermath"><span class="tocnumber">15</span> <span class="toctext">Aftermath</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#See_also"><span class="tocnumber">16</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#References"><span class="tocnumber">17</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Further_reading"><span class="tocnumber">18</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#External_links"><span class="tocnumber">19</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Origins">Origins</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hussite_Wars&amp;action=edit&amp;section=1" title="Edit section: Origins">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Burning_of_jan_hus_at_the_stake_at_council_of_constance.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Burning_of_jan_hus_at_the_stake_at_council_of_constance.jpg/220px-Burning_of_jan_hus_at_the_stake_at_council_of_constance.jpg" width="220" height="149" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Burning_of_jan_hus_at_the_stake_at_council_of_constance.jpg/330px-Burning_of_jan_hus_at_the_stake_at_council_of_constance.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Burning_of_jan_hus_at_the_stake_at_council_of_constance.jpg/440px-Burning_of_jan_hus_at_the_stake_at_council_of_constance.jpg 2x" data-file-width="1360" data-file-height="920" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Burning_of_jan_hus_at_the_stake_at_council_of_constance.jpg" class="internal" title="Enlarge"></a></div>
+Burning of <a href="/wiki/Jan_Hus" title="Jan Hus">Jan Hus</a> at the Council of Constance</div>
+</div>
+</div>
+<p>Starting around 1402, priest and scholar <a href="/wiki/Jan_Hus" title="Jan Hus">Jan Hus</a> denounced what he judged as the corruption of the Church and the Papacy, and he promoted the reformist ideas of English theologian <a href="/wiki/John_Wycliffe" title="John Wycliffe">John Wycliffe</a>. His preaching was widely heeded in Bohemia, and provoked suppression by the Church, which had declared Wycliffe a heretic. In 1411, in the course of the <a href="/wiki/Western_Schism" title="Western Schism">Western Schism</a>, "<a href="/wiki/Antipope" title="Antipope">Antipope</a>" <a href="/wiki/Antipope_John_XXIII" title="Antipope John XXIII">John XXIII</a> proclaimed a "crusade" against King <a href="/wiki/Ladislaus_of_Naples" title="Ladislaus of Naples">Ladislaus of Naples</a>, the protector of rival <a href="/wiki/Pope_Gregory_XII" title="Pope Gregory XII">Pope Gregory XII</a>. To raise money for this, he proclaimed <a href="/wiki/Indulgences" class="mw-redirect" title="Indulgences">indulgences</a> in Bohemia. Hus bitterly denounced this and explicitly quoted Wycliffe against it, provoking further complaints of heresy but winning much support in Bohemia.</p>
+<p>In 1414, <a href="/wiki/Sigismund,_Holy_Roman_Emperor" title="Sigismund, Holy Roman Emperor">Sigismund of Hungary</a> convened the <a href="/wiki/Council_of_Constance" title="Council of Constance">Council of Constance</a> to end the Schism and resolve other religious controversies. Hus went to the Council, under a safe-conduct from Sigismund, but was imprisoned, tried, and executed on 6 July 1415. The knights and nobles of Bohemia and <a href="/wiki/Moravia" title="Moravia">Moravia</a>, who were in favour of church reform, sent the <i>protestatio Bohemorum</i> to the Council of Constance on 2 September 1415, which condemned the execution of Hus in the strongest language. This angered Sigismund, who was "<a href="/wiki/King_of_the_Romans" title="King of the Romans">King of the Romans</a>" (head of the <a href="/wiki/Holy_Roman_Empire" title="Holy Roman Empire">Holy Roman Empire</a>, though not yet Emperor), and brother of King <a href="/wiki/Wenceslaus,_King_of_the_Romans" class="mw-redirect" title="Wenceslaus, King of the Romans">Wenceslaus of Bohemia</a>. He had been persuaded by the Council that Hus was a heretic. He sent threatening letters to Bohemia declaring that he would shortly drown all Wycliffites and Hussites, greatly incensing the people.</p>
+<p>Disorder broke out in various parts of Bohemia, and drove many Catholic priests from their parishes. Almost from the beginning the Hussites divided into two main groups, though many minor divisions also arose among them. Shortly before his death Hus had accepted the doctrine of <a href="/wiki/Utraquism" title="Utraquism">Utraquism</a> preached during his absence by his adherents at Prague: the obligation of the faithful to receive communion in both kinds, bread and wine (<i>sub utraque specie</i>). This doctrine became the watchword of the moderate Hussites known as the Utraquists or Calixtines, from the <a href="/wiki/Latin" title="Latin">Latin</a> <i>calix</i> (the chalice), in <a href="/wiki/Czech_language" title="Czech language">Czech</a> <i>kališníci</i> (from <i>kalich</i>). The more extreme Hussites became known as <a href="/wiki/Taborites" class="mw-redirect" title="Taborites">Taborites</a> (<i>táborité</i>), after the city of <a href="/wiki/T%C3%A1bor" title="Tábor">Tábor</a> that became their center; or Orphans (<i>sirotci</i>), a name they adopted after the death of their leader and general <a href="/wiki/Jan_%C5%BDi%C5%BEka" title="Jan Žižka">Jan Žižka</a>.</p>
+<p>Under the influence of Sigismund, Wenceslaus endeavoured to stem the Hussite movement. A number of Hussites led by <a href="/wiki/Mikul%C3%A1%C5%A1_of_Hus" title="Mikuláš of Hus">Mikuláš of Hus</a> — no relation of Jan Hus — left Prague. They held meetings in various parts of Bohemia, particularly at <a href="/wiki/Sezimovo_%C3%9Ast%C3%AD" title="Sezimovo Ústí">Sezimovo Ústí</a> (not to be confused with <a href="/wiki/%C3%9Ast%C3%AD_nad_Labem" title="Ústí nad Labem">Ústí nad Labem</a>), near the spot where the town of Tábor was founded soon afterwards. At these meetings they violently denounced Sigismund, and the people everywhere prepared for war.</p>
+<p>In spite of the departure of many prominent Hussites, the troubles at Prague continued. On 30 July 1419 Hussite procession headed by the priest <a href="/wiki/Jan_%C5%BDelivsk%C3%BD" title="Jan Želivský">Jan Želivský</a> attacked <a href="/wiki/New_Town_Hall,_Prague" class="mw-redirect" title="New Town Hall, Prague">New Town Hall</a> in Prague and threw the king's representatives, the burgomaster, and some town councillors from the windows into the street (the first "<a href="/wiki/Defenestrations_of_Prague" title="Defenestrations of Prague">Defenestration of Prague</a>"), where several were killed by the fall, after a rock was allegedly thrown from the town hall and hit Želivský.<sup id="cite_ref-Catholic_Encyclopedia_2-0" class="reference"><a href="#cite_note-Catholic_Encyclopedia-2">[2]</a></sup> It has been suggested that Wenceslaus was so stunned by the defenestration that it caused his death on 16 August 1419.<sup id="cite_ref-Catholic_Encyclopedia_2-1" class="reference"><a href="#cite_note-Catholic_Encyclopedia-2">[2]</a></sup> (Alternatively, it is possible that he may have just died of natural causes.)<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2010)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="The_outbreak_of_fighting">The outbreak of fighting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hussite_Wars&amp;action=edit&amp;section=2" title="Edit section: The outbreak of fighting">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The death of Wenceslaus resulted in renewed troubles in Prague and in almost all parts of Bohemia. Many Catholics, mostly Germans — mostly still faithful to the Pope — were expelled from the Bohemian cities. Wenceslaus' widow <a href="/wiki/Sophia_of_Bavaria" title="Sophia of Bavaria">Sophia of Bavaria</a>, acting as regent in Bohemia, hurriedly collected a force of mercenaries and tried to gain control of Prague, which led to severe fighting. After a considerable part of the city had been damaged or destroyed, the parties declared a truce on 13 November. The nobles, sympathetic to the Hussite cause, but supporting the regent, promised to act as mediators with Sigismund, while the citizens of Prague consented to restore to the royal forces the castle of <a href="/wiki/Vy%C5%A1ehrad" title="Vyšehrad">Vyšehrad</a>, which had fallen into their hands. Žižka, who disapproved of this compromise, left Prague and retired to <a href="/wiki/Plze%C5%88" title="Plzeň">Plzeň</a>. Unable to maintain himself there he marched to southern Bohemia. He defeated the Catholics at the <a href="/wiki/Battle_of_Sudom%C4%9B%C5%99" title="Battle of Sudoměř">Battle of Sudoměř</a> (25 March 1420), the first pitched battle of the Hussite wars. After Sudoměř, he moved to Ústí, one of the earliest meeting-places of the Hussites. Not considering its situation sufficiently strong, he moved to the neighboring new settlement of the Hussites, called by the biblical name of Tábor.</p>
+<p>Tábor soon became the center of the most militant Hussites, who differed from the Utraquists by recognizing only two sacraments - <a href="/wiki/Baptism" title="Baptism">Baptism</a> and <a href="/wiki/Eucharist" title="Eucharist">Communion</a> - and by rejecting most of the ceremony of the Roman Catholic Church. The ecclesiastical organization of Tabor had a somewhat puritanical character, and the government was established on a thoroughly democratic basis. Four captains of the people (<i>hejtmané</i>) were elected, one of whom was Žižka, and a very strict military discipline was instituted.</p>
+<h2><span class="mw-headline" id="Wagenburg_tactics">Wagenburg tactics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hussite_Wars&amp;action=edit&amp;section=3" title="Edit section: Wagenburg tactics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Wagenburg" class="mw-redirect" title="Wagenburg">Wagenburg</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Wagenburg.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Wagenburg.jpg/220px-Wagenburg.jpg" width="220" height="171" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Wagenburg.jpg/330px-Wagenburg.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Wagenburg.jpg/440px-Wagenburg.jpg 2x" data-file-width="699" data-file-height="543" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Wagenburg.jpg" class="internal" title="Enlarge"></a></div>
+The Hussite Wagenburg</div>
+</div>
+</div>
+<p>Depending on the terrain, Hussites prepared carts for the battle, forming them into squares or circles. The carts were joined wheel to wheel by chains and positioned aslant, with their corners attached to each other, so that horses could be harnessed to them quickly, if necessary. In front of this wall of carts a ditch was dug by camp followers. The crew of each cart consisted of 16-22 soldiers: 4-8 <a href="/wiki/Crossbow" title="Crossbow">crossbowmen</a>, 2 <a href="/wiki/Hand_cannon" title="Hand cannon">handgunners</a>, 6-8 soldiers equipped with <a href="/wiki/Pike_(weapon)" title="Pike (weapon)">pikes</a> or <a href="/wiki/Flail_(weapon)" title="Flail (weapon)">flails</a> (the flail was the Hussite "national weapon"), 2 shield carriers and 2 drivers.</p>
+<p>The Hussites' battle consisted of two stages, the first defensive, the second an offensive counterattack. In the first stage the army placed the carts near the enemy army and by means of artillery fire provoked the enemy into battle. The artillery would usually inflict heavy casualties at close range.</p>
+<p>In order to avoid more losses, the enemy knights finally attacked. Then the infantry hidden behind the carts used firearms and crossbows to ward off the attack, weakening the enemy. The shooters aimed first at the horses, depriving the cavalry of its main advantage. Many of the knights died as their horses were shot and they fell.</p>
+<p>As soon as the enemy's morale was lowered, the second stage, an offensive counterattack, began. The infantry and the cavalry burst out from behind the carts striking violently at the enemy - mostly from the flanks. While fighting on the flanks and being shot at from the carts the enemy was not able to put up much resistance. They were forced to withdraw, leaving behind dismounted knights in heavy armor who were unable to escape the battlefield. The enemy armies suffered heavy losses and the Hussites soon had the reputation of not taking captives.</p>
+<h2><span class="mw-headline" id="The_first_anti-Hussite_crusade">The first anti-Hussite crusade</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hussite_Wars&amp;action=edit&amp;section=4" title="Edit section: The first anti-Hussite crusade">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Adolf_Liebscher_-_Bitva_na_ho%C5%99e_V%C3%ADtkov%C4%9B_dne_14._%C4%8Dervence_roku_1420.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Adolf_Liebscher_-_Bitva_na_ho%C5%99e_V%C3%ADtkov%C4%9B_dne_14._%C4%8Dervence_roku_1420.jpg/220px-Adolf_Liebscher_-_Bitva_na_ho%C5%99e_V%C3%ADtkov%C4%9B_dne_14._%C4%8Dervence_roku_1420.jpg" width="220" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Adolf_Liebscher_-_Bitva_na_ho%C5%99e_V%C3%ADtkov%C4%9B_dne_14._%C4%8Dervence_roku_1420.jpg/330px-Adolf_Liebscher_-_Bitva_na_ho%C5%99e_V%C3%ADtkov%C4%9B_dne_14._%C4%8Dervence_roku_1420.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Adolf_Liebscher_-_Bitva_na_ho%C5%99e_V%C3%ADtkov%C4%9B_dne_14._%C4%8Dervence_roku_1420.jpg/440px-Adolf_Liebscher_-_Bitva_na_ho%C5%99e_V%C3%ADtkov%C4%9B_dne_14._%C4%8Dervence_roku_1420.jpg 2x" data-file-width="524" data-file-height="358" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Adolf_Liebscher_-_Bitva_na_ho%C5%99e_V%C3%ADtkov%C4%9B_dne_14._%C4%8Dervence_roku_1420.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Battle_of_V%C3%ADtkov_Hill" title="Battle of Vítkov Hill">Battle of Vítkov Hill</a></div>
+</div>
+</div>
+<p>After the death of his childless brother Wenceslaus, Sigismund inherited a claim on the Bohemian crown, though it was then, and remained till much later, in question whether Bohemia was a hereditary or an elective monarchy, especially as the line through which Sigismund claimed the throne had accepted that the Kingdom of Bohemia was an elective monarchy elected by the nobles, and thus the regent of the kingdom (Čeněk of Wartenberg) also explicitly stated that Sigismund had not been elected as reason for Sigismund's claim to not be accepted. A firm adherent of the Church of Rome, Sigismund was aided by <a href="/wiki/Pope_Martin_V" title="Pope Martin V">Pope Martin V</a>, who issued a bull on 17 March 1420 proclaiming a <a href="/wiki/Crusade" class="mw-redirect" title="Crusade">crusade</a> “for the destruction of the Wycliffites, Hussites and all other <a href="/wiki/Heresy" title="Heresy">heretics</a> in Bohemia". Sigismund and many German princes arrived before <a href="/wiki/Prague" title="Prague">Prague</a> on 30 June at the head of a vast army of crusaders from all parts of <a href="/wiki/Europe" title="Europe">Europe</a>, largely consisting of adventurers attracted by the hope of pillage. They immediately began a siege of the city, which had, however, soon to be abandoned. Negotiations took place for a settlement of the religious differences.</p>
+<p>The united Hussites formulated their demands in a statement known as the “<a href="/wiki/Hussite#The_Four_Articles_of_Prague" class="mw-redirect" title="Hussite">Four Articles of Prague</a>". This document, the most important of the Hussite period, ran, in the wording of the contemporary chronicler, <a href="/w/index.php?title=Laurence_of_Brezova&amp;action=edit&amp;redlink=1" class="new" title="Laurence of Brezova (page does not exist)">Laurence of Brezova</a>, as follows:</p>
+<dl>
+<dd>"1. The word of God shall be preached and made known in the kingdom of Bohemia freely and in an orderly manner by the priests of the Lord.</dd>
+</dl>
+<dl>
+<dd>2. The sacrament of the most Holy Eucharist shall be freely administered in the two kinds, that is bread and wine, to all the faithful in Christ who are not precluded by mortal sin - according to the word and disposition of Our Saviour.</dd>
+</dl>
+<dl>
+<dd>3. The secular power over riches and worldly goods which the clergy possesses in contradiction to Christ’s precept, to the prejudice of its office and to the detriment of the secular arm, shall be taken and withdrawn from it, and the clergy itself shall be brought back to the evangelical rule and an apostolic life such as that which Christ and his apostles led.</dd>
+</dl>
+<dl>
+<dd>4. All mortal sins, and in particular all public and other disorders, which are contrary to God’s law shall in every rank of life be duly and judiciously prohibited and destroyed by those whose office it is."<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2008)">citation needed</span></a></i>]</sup></dd>
+</dl>
+<p>These articles, which contain the essence of the Hussite doctrine, were rejected by King Sigismund, mainly through the influence of the <a href="/wiki/Papal_legate" title="Papal legate">papal legates</a>, who considered them prejudicial to the authority of the Pope. Hostilities therefore continued. However Sigismund was defeated at the <a href="/wiki/Battle_of_V%C3%ADtkov_Hill" title="Battle of Vítkov Hill">Battle of Vítkov Hill</a> on July 1420.</p>
+<p>Though Sigismund had retired from Prague, his troops held the castles of <a href="/wiki/Vy%C5%A1ehrad" title="Vyšehrad">Vyšehrad</a> and <a href="/wiki/Hrad%C4%8Dany" title="Hradčany">Hradčany</a>. The citizens of Prague laid siege to Vyšehrad (see <a href="/wiki/Battle_of_Vy%C5%A1ehrad" title="Battle of Vyšehrad">Battle of Vyšehrad</a>), and towards the end of October (1420) the garrison was on the point of capitulating through famine. Sigismund tried to relieve the fortress but was decisively defeated by the Hussites on 1 November near the village of <a href="/wiki/Pankr%C3%A1c" title="Pankrác">Pankrác</a>. The castles of Vyšehrad and Hradčany now capitulated, and shortly afterwards almost all Bohemia fell into the hands of the Hussites.</p>
+<h2><span class="mw-headline" id="The_second_anti-Hussite_crusade">The second anti-Hussite crusade</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hussite_Wars&amp;action=edit&amp;section=5" title="Edit section: The second anti-Hussite crusade">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Hugo_Sch%C3%BCllinger_-_Zap%C3%A1len%C3%AD_Kutn%C3%A9_Hory_a_%C3%BAt%C4%9Bk_voj%C3%A1k%C5%AF_Zikmundov%C3%BDch.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Hugo_Sch%C3%BCllinger_-_Zap%C3%A1len%C3%AD_Kutn%C3%A9_Hory_a_%C3%BAt%C4%9Bk_voj%C3%A1k%C5%AF_Zikmundov%C3%BDch.jpg/220px-Hugo_Sch%C3%BCllinger_-_Zap%C3%A1len%C3%AD_Kutn%C3%A9_Hory_a_%C3%BAt%C4%9Bk_voj%C3%A1k%C5%AF_Zikmundov%C3%BDch.jpg" width="220" height="161" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Hugo_Sch%C3%BCllinger_-_Zap%C3%A1len%C3%AD_Kutn%C3%A9_Hory_a_%C3%BAt%C4%9Bk_voj%C3%A1k%C5%AF_Zikmundov%C3%BDch.jpg/330px-Hugo_Sch%C3%BCllinger_-_Zap%C3%A1len%C3%AD_Kutn%C3%A9_Hory_a_%C3%BAt%C4%9Bk_voj%C3%A1k%C5%AF_Zikmundov%C3%BDch.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/30/Hugo_Sch%C3%BCllinger_-_Zap%C3%A1len%C3%AD_Kutn%C3%A9_Hory_a_%C3%BAt%C4%9Bk_voj%C3%A1k%C5%AF_Zikmundov%C3%BDch.jpg/440px-Hugo_Sch%C3%BCllinger_-_Zap%C3%A1len%C3%AD_Kutn%C3%A9_Hory_a_%C3%BAt%C4%9Bk_voj%C3%A1k%C5%AF_Zikmundov%C3%BDch.jpg 2x" data-file-width="526" data-file-height="384" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Hugo_Sch%C3%BCllinger_-_Zap%C3%A1len%C3%AD_Kutn%C3%A9_Hory_a_%C3%BAt%C4%9Bk_voj%C3%A1k%C5%AF_Zikmundov%C3%BDch.jpg" class="internal" title="Enlarge"></a></div>
+Escape of the <a href="/wiki/Sigismund,_Holy_Roman_Emperor" title="Sigismund, Holy Roman Emperor">King Sigismund</a> from <a href="/wiki/Kutn%C3%A1_Hora" title="Kutná Hora">Kutná Hora</a></div>
+</div>
+</div>
+<p>Internal troubles prevented the followers of Hus from fully capitalizing on their victory. At Prague a demagogue, the priest <a href="/wiki/Jan_%C5%BDelivsk%C3%BD" title="Jan Želivský">Jan Želivský</a>, for a time obtained almost unlimited authority over the lower classes of the townsmen; and at Tábor a religious communistic movement (that of the so-called <a href="/wiki/Adamites" title="Adamites">Adamites</a>) was sternly suppressed by Žižka. Shortly afterwards a new crusade against the Hussites was undertaken. A large German army entered Bohemia and in August 1421 laid siege to the town of <a href="/wiki/%C5%BDatec" title="Žatec">Žatec</a>. After an unsuccessful attempt of storming the city, the crusaders retreated somewhat ingloriously on hearing that the Hussite troops were approaching.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Sigismund only arrived in Bohemia at the end of 1421. He took possession of the town of <a href="/wiki/Kutn%C3%A1_Hora" title="Kutná Hora">Kutná Hora</a> but was decisively defeated by Jan Žižka at the <a href="/wiki/Battle_of_Deutschbrod" title="Battle of Deutschbrod">Battle of Deutschbrod</a> (Německý Brod) on 6 January 1422.</p>
+<h2><span class="mw-headline" id="Civil_war">Civil war</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hussite_Wars&amp;action=edit&amp;section=6" title="Edit section: Civil war">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Bohemia was for a time free from foreign intervention, but internal discord again broke out, caused partly by theological strife and partly by the ambition of agitators. On 9 March 1422, Jan Želivský was arrested by the town council of Prague and beheaded. There were troubles at Tábor also, where a more radical party opposed Žižka's authority.</p>
+<h2><span class="mw-headline" id="Polish_and_Lithuanian_involvement">Polish and Lithuanian involvement</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hussite_Wars&amp;action=edit&amp;section=7" title="Edit section: Polish and Lithuanian involvement">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Hussites were aided at various times by <a href="/wiki/Poland" title="Poland">Poland</a>. Because of this, Jan Žižka arranged for the crown of Bohemia to be offered to King <a href="/wiki/Jogaila" class="mw-redirect" title="Jogaila">Władysław II Jagiełło</a> of Poland, who, under pressure from his own advisors, refused it. The crown was then offered to Władysław's cousin, <a href="/wiki/Vytautas" title="Vytautas">Vytautas</a>, the <a href="/wiki/Grand_Duke_of_Lithuania" class="mw-redirect" title="Grand Duke of Lithuania">Grand Duke of Lithuania</a>. Vytautas accepted it, with the condition that the Hussites reunite with the Catholic Church. In 1422, Žižka accepted Prince <a href="/wiki/Sigismund_Korybut" title="Sigismund Korybut">Sigismund Korybut</a> of Lithuania (nephew of Władysław II) as regent of Bohemia for Vytautas.</p>
+<p>His authority was recognized by the Utraquist nobles, the citizens of Prague, and the more moderate of the Taborites, but he failed to bring the Hussites back into the Church. On a few occasions, he even fought against both the Taborites and the <a href="/wiki/Orebites" title="Orebites">Orebites</a> to try to force them into reuniting. After Władysław II and Vytautas signed the <a href="/wiki/Treaty_of_Melno" title="Treaty of Melno">Treaty of Melno</a> with Sigismund of Hungary in 1423, they recalled Sigismund Korybut to Lithuania, under pressure from Sigismund of Hungary and the Pope.</p>
+<p>On his departure, civil war broke out, the Taborites opposing in arms the more moderate Utraquists, who at this period are also called by the chroniclers the "Praguers", as Prague was their principal stronghold. On 27 April 1423, Žižka now again leading, the Taborites defeated the Utraquist army under <a href="/wiki/%C4%8Cen%C4%9Bk_of_Wartenberg" title="Čeněk of Wartenberg">Čeněk of Wartenberg</a> at the <a href="/wiki/Battle_of_Ho%C5%99ice" title="Battle of Hořice">Battle of Hořice</a>; shortly afterwards an armistice was concluded at <a href="/w/index.php?title=Konopilt&amp;action=edit&amp;redlink=1" class="new" title="Konopilt (page does not exist)">Konopilt</a>.</p>
+<h2><span class="mw-headline" id="The_third_anti-Hussite_crusade">The third anti-Hussite crusade</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hussite_Wars&amp;action=edit&amp;section=8" title="Edit section: The third anti-Hussite crusade">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Jan_Zizka_Vitkov_Prague_CZ_007.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Jan_Zizka_Vitkov_Prague_CZ_007.jpg/170px-Jan_Zizka_Vitkov_Prague_CZ_007.jpg" width="170" height="227" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Jan_Zizka_Vitkov_Prague_CZ_007.jpg/255px-Jan_Zizka_Vitkov_Prague_CZ_007.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Jan_Zizka_Vitkov_Prague_CZ_007.jpg/340px-Jan_Zizka_Vitkov_Prague_CZ_007.jpg 2x" data-file-width="1488" data-file-height="1984" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Jan_Zizka_Vitkov_Prague_CZ_007.jpg" class="internal" title="Enlarge"></a></div>
+Statue of <a href="/wiki/Jan_%C5%BDi%C5%BEka" title="Jan Žižka">Jan Žižka</a> on <a href="/wiki/National_Monument_in_Vitkov" title="National Monument in Vitkov">Vítkov Hill</a></div>
+</div>
+</div>
+<p>Papal influence had meanwhile succeeded in calling forth a new crusade against Bohemia, but it resulted in complete failure. In spite of the endeavours of their rulers, Poles and Lithuanians did not wish to attack the kindred Czechs; the Germans were prevented by internal discord from taking joint action against the Hussites; and the King of <a href="/wiki/Denmark" title="Denmark">Denmark</a>, who had landed in Germany with a large force intending to take part in the crusade, soon returned to his own country. Free for a time from foreign threat, the Hussites invaded Moravia, where a large part of the population favored their creed; but, paralysed again by dissensions, they soon returned to Bohemia.</p>
+<p>The city of <a href="/wiki/Hradec_Kr%C3%A1lov%C3%A9" title="Hradec Králové">Hradec Králové</a>, which had been under Utraquist rule, espoused the doctrine of Tábor, and called Žižka to its aid. After several military successes gained by Žižka in 1423 and the following year, a treaty of peace between the Hussite factions was concluded on 13 September 1424 at Libeň, a village near Prague, now part of that city.</p>
+<p>Sigismund Korybut, who had returned to Bohemia in 1424 with 1,500 troops, helped broker this peace. After Žižka's death in October 1424, <a href="/wiki/Prokop_the_Great" title="Prokop the Great">Prokop the Great</a> took command of the Taborites. Korybut, who had come in defiance of Władysław II and Vytautas, also became a Hussite leader.</p>
+<h2><span id="Campaigns_of_1426_and_1427_(fourth_anti-Hussite_Crusade)"></span><span class="mw-headline" id="Campaigns_of_1426_and_1427_.28fourth_anti-Hussite_Crusade.29">Campaigns of 1426 and 1427 (fourth anti-Hussite Crusade)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hussite_Wars&amp;action=edit&amp;section=9" title="Edit section: Campaigns of 1426 and 1427 (fourth anti-Hussite Crusade)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 1426 the Hussites were again attacked by foreign enemies. In June 1426 Hussite forces, led by Prokop and Sigismund Korybut, signally defeated the invaders in the <a href="/wiki/Battle_of_Aussig" title="Battle of Aussig">Battle of Aussig</a>.</p>
+<p>Despite this result, the death of Jan Žižka caused many, including Pope Martin V, to believe that the Hussites were much weakened. Martin proclaimed yet another crusade in 1427. He appointed Cardinal <a href="/wiki/Henry_Beaufort" title="Henry Beaufort">Henry Beaufort</a> of <a href="/wiki/England" title="England">England</a> as Papal Legate of Germany, Hungary, and Bohemia, to lead the crusader forces. The crusaders were defeated at the <a href="/wiki/Battle_of_Tachov" title="Battle of Tachov">Battle of Tachov</a>.</p>
+<p>The Hussites subsequently invaded parts of Germany several times, though they made no attempt to occupy permanently any part of the country.</p>
+<p>Korybut was imprisoned in 1427 for allegedly conspiring to surrender the Hussite forces to Sigismund of Hungary. He was released in 1428, and participated in the Hussite invasion of Silesia.</p>
+<p>But after a few years, Korybut returned to Poland with his men. Korybut and his Poles, however, did not really want to leave; but the Pope threatened to call a crusade against Poland if they did not.</p>
+<h2><span id="Beautiful_rides_(Chevauchée)"></span><span class="mw-headline" id="Beautiful_rides_.28Chevauch.C3.A9e.29">Beautiful rides (Chevauchée)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hussite_Wars&amp;action=edit&amp;section=10" title="Edit section: Beautiful rides (Chevauchée)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>During the Hussite Wars, the Hussites launched raids against many bordering countries. The Hussites called them <i>Spanilé jízdy</i> ("beautiful rides"). Especially under the leadership of Prokop the Great, Hussites invaded <a href="/wiki/Silesia" title="Silesia">Silesia</a>, <a href="/wiki/Saxony" title="Saxony">Saxony</a>, <a href="/wiki/Hungary" title="Hungary">Hungary</a>, <a href="/wiki/Lusatia" title="Lusatia">Lusatia</a>, and <a href="/wiki/Meissen" title="Meissen">Meissen</a>. These raids were against countries that had supplied the Germans with men during the anti-Hussite crusades, to deter further participation. However, the raids did not have the desired effect; these countries kept supplying soldiers for the crusades against the Hussites.</p>
+<p>During a <a href="/wiki/Polish%E2%80%93Teutonic_War_(1431%E2%80%931435)" class="mw-redirect" title="Polish–Teutonic War (1431–1435)">war between Poland and the Teutonic Order</a>, some Hussite troops helped the Poles. In 1433, a Hussite army of 7,000 men marched through Neumark into <a href="/wiki/Prussia" title="Prussia">Prussia</a> and captured <a href="/wiki/Dirschau" class="mw-redirect" title="Dirschau">Dirschau</a> on the <a href="/wiki/Vistula_River" class="mw-redirect" title="Vistula River">Vistula River</a>. They eventually reached the mouth of the Vistula where it enters the <a href="/wiki/Baltic_Sea" title="Baltic Sea">Baltic Sea</a> near <a href="/wiki/Danzig" class="mw-redirect" title="Danzig">Danzig</a>. There, they performed a great victory celebration to show that nothing but the ocean could stop the Hussites. The Prussian historian <a href="/wiki/Heinrich_von_Treitschke" title="Heinrich von Treitschke">Heinrich von Treitschke</a> later wrote that they had "greeted the sea with a wild Czech song about God's warriors, and filled their water bottles with brine in token that the Baltic once more obeyed the Slavs."<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<h2><span class="mw-headline" id="Peace_talks">Peace talks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hussite_Wars&amp;action=edit&amp;section=11" title="Edit section: Peace talks">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The almost uninterrupted series of victories of the Hussites now rendered vain all hope of subduing them by force of arms. Moreover, the conspicuously democratic character of the Hussite movement caused the German princes, who were afraid that such ideas might spread to their own countries, to desire peace. Many Hussites, particularly the Utraquist clergy, were also in favour of peace. Negotiations for this purpose were to take place at the ecumenical <a href="/wiki/Council_of_Basel" class="mw-redirect" title="Council of Basel">Council of Basel</a> which had been summoned to meet on 3 March 1431. The Roman See reluctantly consented to the presence of heretics at this council, but indignantly rejected the suggestion of the Hussites that members of the <a href="/wiki/Eastern_Orthodox_Church" title="Eastern Orthodox Church">Eastern Orthodox Church</a>, and representatives of all Christian creeds, should also be present. Before definitely giving its consent to peace negotiations, the Roman Church determined on making a last effort to reduce the Hussites to subjection; this resulted in the fifth Crusade against the Hussites.</p>
+<h2><span class="mw-headline" id="The_fifth_anti-Hussite_crusade">The fifth anti-Hussite crusade</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hussite_Wars&amp;action=edit&amp;section=12" title="Edit section: The fifth anti-Hussite crusade">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Husit%C3%A9_-_Jensk%C3%BD_kodex.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Husit%C3%A9_-_Jensk%C3%BD_kodex.jpg/170px-Husit%C3%A9_-_Jensk%C3%BD_kodex.jpg" width="170" height="233" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Husit%C3%A9_-_Jensk%C3%BD_kodex.jpg/255px-Husit%C3%A9_-_Jensk%C3%BD_kodex.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/95/Husit%C3%A9_-_Jensk%C3%BD_kodex.jpg/340px-Husit%C3%A9_-_Jensk%C3%BD_kodex.jpg 2x" data-file-width="1423" data-file-height="1949" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Husit%C3%A9_-_Jensk%C3%BD_kodex.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Battle_of_Doma%C5%BElice" title="Battle of Domažlice">Battle of Domažlice</a>, 15th century Jena Codex</div>
+</div>
+</div>
+<p>On 1 August 1431 a large army of crusaders under <a href="/wiki/Frederick_I,_Elector_of_Brandenburg" title="Frederick I, Elector of Brandenburg">Frederick I, Elector of Brandenburg</a>, accompanied by Cardinal <a href="/wiki/Julian_Cesarini" title="Julian Cesarini">Cesarini</a> as <a href="/wiki/Papal_legate" title="Papal legate">papal legate</a>, crossed the Bohemian border. On 8 August the crusaders reached the city of <a href="/wiki/Doma%C5%BElice" title="Domažlice">Domažlice</a> and began besieging it. On 14 August, a Hussite relief army arrived, reinforced with some 6,000 Polish Hussites and under the command of Prokop the Great, and it completely routed the crusaders at the resulting <a href="/wiki/Battle_of_Doma%C5%BElice" title="Battle of Domažlice">Battle of Domažlice</a>. As the legend has it, upon seeing the Hussite banners and hearing their battle hymn, "<a href="/wiki/Kto%C5%BE_js%C3%BA_bo%C5%BE%C3%AD_bojovn%C3%ADci" title="Ktož jsú boží bojovníci">Ktož jsú boží bojovníci</a>" ("Ye Who are Warriors of God"), the invading Papal forces immediately took to flight.</p>
+<h2><span class="mw-headline" id="New_negotiations_and_the_defeat_of_radical_Hussites">New negotiations and the defeat of radical Hussites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hussite_Wars&amp;action=edit&amp;section=13" title="Edit section: New negotiations and the defeat of radical Hussites">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On 15 October 1431, the Council of Basel issued a formal invitation to the Hussites to take part in its deliberations. Prolonged negotiations ensued, but finally a Hussite embassy, led by Prokop and including <a href="/wiki/John_of_Rokycan" class="mw-redirect" title="John of Rokycan">John of Rokycan</a>, the Taborite bishop <a href="/w/index.php?title=Nicolas_of_Pelh%C5%99imov&amp;action=edit&amp;redlink=1" class="new" title="Nicolas of Pelhřimov (page does not exist)">Nicolas of Pelhřimov</a>, the ‘English Hussite’ <a href="/wiki/Peter_Payne" title="Peter Payne">Peter Payne</a> and many others, arrived at Basel on 4 January 1433. No agreement could be reached, but negotiations were not broken off, and a change in the political situation of Bohemia finally resulted in a settlement.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Josef_Mathauser_-_Bitva_u_Lipan_roku_1434.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Josef_Mathauser_-_Bitva_u_Lipan_roku_1434.jpg/220px-Josef_Mathauser_-_Bitva_u_Lipan_roku_1434.jpg" width="220" height="138" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Josef_Mathauser_-_Bitva_u_Lipan_roku_1434.jpg/330px-Josef_Mathauser_-_Bitva_u_Lipan_roku_1434.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Josef_Mathauser_-_Bitva_u_Lipan_roku_1434.jpg/440px-Josef_Mathauser_-_Bitva_u_Lipan_roku_1434.jpg 2x" data-file-width="3000" data-file-height="1886" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Josef_Mathauser_-_Bitva_u_Lipan_roku_1434.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Battle_of_Lipany" title="Battle of Lipany">Battle of Lipany</a>, romantic painting</div>
+</div>
+</div>
+<p>In 1434 war again broke out between the Utraquists and the Taborites. On 30 May 1434, the Taborite army, led by Prokop the Great and <a href="/w/index.php?title=Prokop_the_Lesser&amp;action=edit&amp;redlink=1" class="new" title="Prokop the Lesser (page does not exist)">Prokop the Lesser</a>, who both fell in the battle, was totally defeated and almost annihilated at the <a href="/wiki/Battle_of_Lipany" title="Battle of Lipany">Battle of Lipany</a>.</p>
+<p>The Polish Hussite movement also came to an end. Polish royal troops under <a href="/wiki/W%C5%82adys%C5%82aw_III_of_Varna" class="mw-redirect" title="Władysław III of Varna">Władysław III of Varna</a> defeated the Hussites at the <a href="/wiki/Battle_of_Grotniki" title="Battle of Grotniki">Battle of Grotniki</a> in 1439, bringing the Hussite Wars to an end.</p>
+<h2><span class="mw-headline" id="Peace_agreement">Peace agreement</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hussite_Wars&amp;action=edit&amp;section=14" title="Edit section: Peace agreement">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The moderate party thus obtained the upper hand; and wanted to find a compromise between the council and the Hussites. It formulated its demands in a document which was finally accepted by the Church of Rome in a slightly modified form, and which is known as ‘the compacts.’ The compacts, mainly founded on the articles of Prague, declare that:</p>
+<ol>
+<li>The Holy Sacrament is to be given freely in both kinds to all Christians in Bohemia and Moravia, and to those elsewhere who adhere to the faith of these two countries.</li>
+<li>All mortal sins shall be punished and extirpated by those whose office it is so to do.</li>
+<li>The word of God is to be freely and truthfully preached by the priests of the Lord, and by worthy deacons.</li>
+<li>The priests in the time of the law of grace shall claim no ownership of worldly possessions.</li>
+</ol>
+<p>On 5 July 1436 the compacts were formally accepted and signed at <a href="/wiki/Jihlava" title="Jihlava">Jihlava</a> (Iglau), in Moravia, by King Sigismund, by the Hussite delegates, and by the representatives of the Roman Catholic Church. The last-named, however, refused to recognize as archbishop of Prague <a href="/wiki/John_of_Rokycan" class="mw-redirect" title="John of Rokycan">John of Rokycan</a>, who had been elected to that dignity by the estates of Bohemia.</p>
+<h2><span class="mw-headline" id="Aftermath">Aftermath</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hussite_Wars&amp;action=edit&amp;section=15" title="Edit section: Aftermath">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/Religious_peace_of_Kutn%C3%A1_Hora" title="Religious peace of Kutná Hora">Religious peace of Kutná Hora</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Schlacht_Schoenberg.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Schlacht_Schoenberg.jpg/220px-Schlacht_Schoenberg.jpg" width="220" height="158" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Schlacht_Schoenberg.jpg/330px-Schlacht_Schoenberg.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Schlacht_Schoenberg.jpg/440px-Schlacht_Schoenberg.jpg 2x" data-file-width="2009" data-file-height="1440" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Schlacht_Schoenberg.jpg" class="internal" title="Enlarge"></a></div>
+The battle of Wenzenbach between the troops of Emperor <a href="/wiki/Maximilian_I,_Holy_Roman_Emperor" title="Maximilian I, Holy Roman Emperor">Maximilian I</a> and the Czech Utraquists in 1504</div>
+</div>
+</div>
+<p>The Utraquist creed, frequently varying in its details, continued to be that of the established church of Bohemia until all non-Catholic religious services were prohibited shortly after the <a href="/wiki/Battle_of_the_White_Mountain" class="mw-redirect" title="Battle of the White Mountain">Battle of the White Mountain</a> in 1620. The Taborite party never recovered from its defeat at Lipany, and after the town of Tábor had been captured by <a href="/wiki/George_of_Pod%C4%9Bbrady" title="George of Poděbrady">George of Poděbrady</a> in 1452, Utraquist religious worship was established there. The <a href="/wiki/Unity_of_the_Brethren" title="Unity of the Brethren">Bohemian Brethren</a> (<i>Unitas Fratrum</i>), whose intellectual originator was <a href="/wiki/Peter_Chelcicky" class="mw-redirect" title="Peter Chelcicky">Petr Chelčický</a> but whose actual founders were Brother Gregory, a nephew of Archbishop Rokycany, and Michael, curate of <a href="/wiki/%C5%BDamberk" title="Žamberk">Žamberk</a>, to a certain extent continued the Taborite traditions, and in the 15th and 16th centuries included most of the strongest opponents of Rome in Bohemia.</p>
+<p>J. A. Komenský (<a href="/wiki/Comenius" class="mw-redirect" title="Comenius">Comenius</a>), a member of the Brethren, claimed for the members of his church that they were the genuine inheritors of the doctrines of Hus. After the beginning of the German Reformation, many Utraquists adopted to a large extent the doctrines of <a href="/wiki/Martin_Luther" title="Martin Luther">Martin Luther</a> and of <a href="/wiki/John_Calvin" title="John Calvin">John Calvin</a> and, in 1567, obtained the repeal of the Compacts which no longer seemed sufficiently far-reaching. From the end of the 16th century the inheritors of the Hussite tradition in Bohemia were included in the more general name of "Protestants" borne by the adherents of the Reformation.</p>
+<p>At the end of the Hussite Wars in 1431, the lands of Bohemia had been totally ravaged. The adjacent <a href="/wiki/Bishopric_of_W%C3%BCrzburg" title="Bishopric of Würzburg">Bishopric of Würzburg</a> in Germany was left in such bad shape after the Hussite Wars, that the impoverishment of the people was still evident in 1476. The poor conditions contributed directly to the peasant conspiracy that broke out that same year in Würzburg.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hussite_Wars&amp;action=edit&amp;section=16" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Czechoslovak_Hussite_Church" title="Czechoslovak Hussite Church">Czechoslovak Hussite Church</a></li>
+<li><a href="/wiki/The_Slav_Epic" title="The Slav Epic">The Slav Epic</a> (Painting: "The meeting at Křížky: Sub utraque")</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hussite_Wars&amp;action=edit&amp;section=17" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-tUF-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-tUF_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-tUF_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Reeves, Michael, and Mark Dever. The Unquenchable Flame: Discovering the Heart of the Reformation. Nashville, TN: B &amp; H Academic, 2010. Print.</span></li>
+<li id="cite_note-Catholic_Encyclopedia-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Catholic_Encyclopedia_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Catholic_Encyclopedia_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.newadvent.org/cathen/02121b.htm">Catholic Encyclopedia</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hardy, Duncan (2016). <a rel="nofollow" class="external text" href="https://books.google.co.uk/books?id=tkYlDgAAQBAJ&amp;lpg=PA1&amp;dq=crusades%20volume%2015%20kedar&amp;pg=PA1#v=onepage&amp;q&amp;f=false">"An Alsatian Nobleman's Account of the Second Crusade against the Hussites: New Edition, Translation, and Interpretation"</a>. <i>Crusades</i>. <b>15</b>: 199–221.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHussite+Wars&amp;rft.atitle=An+Alsatian+Nobleman%27s+Account+of+the+Second+Crusade+against+the+Hussites%3A+New+Edition%2C+Translation%2C+and+Interpretation&amp;rft.aufirst=Duncan&amp;rft.aulast=Hardy&amp;rft.date=2016&amp;rft.genre=article&amp;rft.jtitle=Crusades&amp;rft.pages=199-221&amp;rft.volume=15&amp;rft_id=https%3A%2F%2Fbooks.google.co.uk%2Fbooks%3Fid%3DtkYlDgAAQBAJ%26lpg%3DPA1%26dq%3Dcrusades%2520volume%252015%2520kedar%26pg%3DPA1%23v%3Donepage%26q%26f%3Dfalse&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Von Treitschke, Heinrich (2013). <i>Treitschke's Origins of Prussianism (Routledge Revivals)&#160;: the Teutonic Knights.</i> (ebook ed.). Hoboken&#160;: Taylor and Francis. p.&#160;128. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781134582211" title="Special:BookSources/9781134582211">9781134582211</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHussite+Wars&amp;rft.aufirst=Heinrich&amp;rft.aulast=Von+Treitschke&amp;rft.btitle=Treitschke%27s+Origins+of+Prussianism+%28Routledge+Revivals%29+%3A+the+Teutonic+Knights.&amp;rft.date=2013&amp;rft.edition=ebook&amp;rft.genre=book&amp;rft.isbn=9781134582211&amp;rft.pages=128&amp;rft.pub=Hoboken+%3A+Taylor+and+Francis&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Frederick Engels, "The Peasant War in Germany" contained in the <i>Collected Works of Karl Marx and Frederick Engels: Volume 10</i> (International Publishers: New York, 1978) p. 428.</span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hussite_Wars&amp;action=edit&amp;section=18" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation book">Victor Verney (2009). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=WtjPPAAACAAJ&amp;dq=warrior+of+god&amp;hl=en&amp;sa=X&amp;ei=BFKKVIqqN8KiyASKjIGQDA&amp;ved=0CB8Q6AEwAA"><i>Warrior of God: Jan Žižka and the Hussite Revolution</i></a>. Frontline Books. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-84832-516-6" title="Special:BookSources/978-1-84832-516-6">978-1-84832-516-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHussite+Wars&amp;rft.au=Victor+Verney&amp;rft.btitle=Warrior+of+God%3A+Jan+%C5%BDi%C5%BEka+and+the+Hussite+Revolution&amp;rft.date=2009&amp;rft.genre=book&amp;rft.isbn=978-1-84832-516-6&amp;rft.pub=Frontline+Books&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DWtjPPAAACAAJ%26dq%3Dwarrior%2Bof%2Bgod%26hl%3Den%26sa%3DX%26ei%3DBFKKVIqqN8KiyASKjIGQDA%26ved%3D0CB8Q6AEwAA&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Howard Kaminsky (2004-04-08). <a rel="nofollow" class="external text" href="https://books.google.com/?id=98U-RAAACAAJ"><i>A History of the Hussite Revolution</i></a>. Wipf and Stock. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-59244-631-5" title="Special:BookSources/978-1-59244-631-5">978-1-59244-631-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHussite+Wars&amp;rft.au=Howard+Kaminsky&amp;rft.btitle=A+History+of+the+Hussite+Revolution&amp;rft.date=2004-04-08&amp;rft.genre=book&amp;rft.isbn=978-1-59244-631-5&amp;rft.pub=Wipf+and+Stock&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3D98U-RAAACAAJ&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Stephen Turnbull (2004-05-25). <a rel="nofollow" class="external text" href="https://books.google.com/?id=9ntLB8W-cVQC"><i>The Hussite Wars 1419-36</i></a>. Osprey Publishing. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-84176-665-2" title="Special:BookSources/978-1-84176-665-2">978-1-84176-665-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHussite+Wars&amp;rft.au=Stephen+Turnbull&amp;rft.btitle=The+Hussite+Wars+1419-36&amp;rft.date=2004-05-25&amp;rft.genre=book&amp;rft.isbn=978-1-84176-665-2&amp;rft.pub=Osprey+Publishing&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3D9ntLB8W-cVQC&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li>Count Lützow, <i>Bohemia; an Historical Sketch</i> (London, 1896)</li>
+<li>František Palacký, <i>Geschichte von Böhmen</i></li>
+<li>Bachmann, <i>Geschichte Böhmens</i></li>
+<li>L. Krummel, <i>Geschichte der böhmischen Reformation</i> (Gotha, 1866)</li>
+<li>L. Krummel, <i>Utraquisten und Taboriten</i> (Gotha, 187 i)</li>
+<li>Ernest Denis, <i>Huss et la guerre des Hussites</i> (Paris, 1878)</li>
+<li>H. Toman, <i>Husitské válečnictví</i> (Prague, 1898).</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hussite_Wars&amp;action=edit&amp;section=19" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>[Hussite Museum in Tábor]<a rel="nofollow" class="external autonumber" href="http://www.husitskemuzeum.cz/search.php?rsvelikost=sab&amp;rstext=all-phpRS-all&amp;rstema=114">[1]</a></li>
+<li><a rel="nofollow" class="external text" href="http://archive.joan-of-arc.org/joanofarc_letter_march_23_1430.html">Joan of Arc's Letter to the Hussites</a> (23 March 1430) — In 1430, <a href="/wiki/Joan_of_Arc" title="Joan of Arc">Joan of Arc</a> dictated a letter threatening to lead a crusading army against the Hussites unless they returned to "the Catholic Faith and the original Light". This link contains a translation of the letter plus notes and commentary.</li>
+<li><a rel="nofollow" class="external text" href="http://www.allempires.com/article/index.php?q=hussite_wars#section_2">Tactics of the Hussite Wars</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.historyofwar.org/articles/wars_bohemian.html">The Bohemian War (1420–1434)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.medievalarchives.com/JanHusBio">Jan Hus and the Hussite Wars</a> on <a rel="nofollow" class="external text" href="http://www.medievalarchives.com/PodcastList">Medieval Archives Podcast</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1246
+Cached time: 20170925120004
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.268 seconds
+Real time usage: 0.383 seconds
+Preprocessor visited node count: 1190/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 88593/2097152 bytes
+Template argument size: 11241/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 4/500
+Lua time usage: 0.091/10.000 seconds
+Lua memory usage: 3.62 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  208.998      1 -total
+ 24.03%   50.222      1 Template:Reflist
+ 17.43%   36.437      1 Template:Cite_journal
+ 16.20%   33.854      2 Template:Citation_needed
+ 15.54%   32.484      1 Template:More_footnotes
+ 14.88%   31.107      2 Template:Fix
+ 11.10%   23.197      1 Template:Ambox
+ 10.22%   21.367      1 Template:Crusade
+ 10.12%   21.148      2 Template:Campaignbox
+  9.56%   19.988      1 Template:Redirect
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:303005-0!canonical and timestamp 20170925120003 and revision id 800692828
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Hussite_Wars&amp;oldid=800692828">https://en.wikipedia.org/w/index.php?title=Hussite_Wars&amp;oldid=800692828</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:15th-century_crusades" title="Category:15th-century crusades">15th-century crusades</a></li><li><a href="/wiki/Category:Hussite_Wars" title="Category:Hussite Wars">Hussite Wars</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_May_2013" title="Category:Articles lacking in-text citations from May 2013">Articles lacking in-text citations from May 2013</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2010" title="Category:Articles with unsourced statements from November 2010">Articles with unsourced statements from November 2010</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2008" title="Category:Articles with unsourced statements from May 2008">Articles with unsourced statements from May 2008</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Hussite+Wars" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Hussite+Wars" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Hussite_Wars" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Hussite_Wars" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="selected"><span><a href="/wiki/Hussite_Wars">Read</a></span></li>
+							<li id="ca-edit"><span><a href="/w/index.php?title=Hussite_Wars&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Hussite_Wars&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Hussite_Wars" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Hussite_Wars" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Hussite_Wars&amp;oldid=800692828" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Hussite_Wars&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q478301" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Hussite_Wars&amp;id=800692828" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Hussite+Wars">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Hussite+Wars&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DHussite%2BWars%26returnto%3DHussite%2BWars%26oldid%3D800692828%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Hussite_Wars&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Hussite_wars" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AD%D8%B1%D9%88%D8%A8_%D8%A7%D9%84%D9%87%D9%88%D8%B3%D9%8A%D9%8A%D9%86" title="حروب الهوسيين – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Qus%C3%A7ular_h%C9%99r%C9%99kat%C4%B1" title="Qusçular hərəkatı – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%93%D1%83%D1%81%D1%96%D1%86%D0%BA%D1%96%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B" title="Гусіцкія войны – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A5%D1%83%D1%81%D0%B8%D1%82%D1%81%D0%BA%D0%B8_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B8" title="Хуситски войни – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Husitsk%C3%A9_v%C3%A1lky" title="Husitské války – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Hussitenkriege" title="Hussitenkriege – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A0%CF%8C%CE%BB%CE%B5%CE%BC%CE%BF%CE%B9_%CF%84%CF%89%CE%BD_%CE%A7%CE%BF%CF%85%CF%83%CE%B9%CF%84%CF%8E%CE%BD" title="Πόλεμοι των Χουσιτών – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Guerras_husitas" title="Guerras husitas – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AC%D9%86%DA%AF%E2%80%8C%D9%87%D8%A7%DB%8C_%D9%87%D9%88%D8%B3%DB%8C" title="جنگ‌های هوسی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Croisades_contre_les_hussites" title="Croisades contre les hussites – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Guerras_Husitas" title="Guerras Husitas – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%9B%84%EC%8A%A4_%EC%A0%84%EC%9F%81" title="후스 전쟁 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%80%D5%B8%D6%82%D5%BD%D5%B5%D5%A1%D5%B6_%D5%B0%D5%A5%D5%B2%D5%A1%D6%83%D5%B8%D5%AD%D5%A1%D5%AF%D5%A1%D5%B6_%D5%B7%D5%A1%D6%80%D5%AA%D5%B8%D6%82%D5%B4" title="Հուսյան հեղափոխական շարժում – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Husitski_ratovi" title="Husitski ratovi – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Peperangan_Husite" title="Peperangan Husite – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/H%C3%BAss%C3%ADtastr%C3%AD%C3%B0in" title="Hússítastríðin – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Crociata_Hussita" title="Crociata Hussita – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%B0%E1%83%A3%E1%83%A1%E1%83%98%E1%83%A2%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%9D%E1%83%9B%E1%83%94%E1%83%91%E1%83%98" title="ჰუსიტური ომები – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Husit%C5%B3_karai" title="Husitų karai – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Hussietenoorlogen" title="Hussietenoorlogen – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B9%E6%88%A6%E4%BA%89" title="フス戦争 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Wojny_husyckie" title="Wojny husyckie – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Guerras_Hussitas" title="Guerras Hussitas – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/R%C4%83zboaiele_Husite" title="Războaiele Husite – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%93%D1%83%D1%81%D0%B8%D1%82%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B" title="Гуситские войны – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Kri%C5%BEiacke_v%C3%BDpravy_proti_husitom" title="Križiacke výpravy proti husitom – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Husitske_vojne" title="Husitske vojne – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A5%D1%83%D1%81%D0%B8%D1%82%D1%81%D0%BA%D0%B8_%D1%80%D0%B0%D1%82%D0%BE%D0%B2%D0%B8" title="Хуситски ратови – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Husitski_ratovi" title="Husitski ratovi – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Hussilaissodat" title="Hussilaissodat – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Hussit_sava%C5%9Flar%C4%B1" title="Hussit savaşları – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%93%D1%83%D1%81%D0%B8%D1%82%D1%81%D1%8C%D0%BA%D1%96_%D0%B2%D1%96%D0%B9%D0%BD%D0%B8" title="Гуситські війни – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_Hussite" title="Chiến tranh Hussite – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%83%A1%E6%96%AF%E6%88%98%E4%BA%89" title="胡斯战争 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q478301#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 15 September 2017, at 02:54.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Hussite_Wars&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.268","walltime":"0.383","ppvisitednodes":{"value":1190,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":88593,"limit":2097152},"templateargumentsize":{"value":11241,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  208.998      1 -total"," 24.03%   50.222      1 Template:Reflist"," 17.43%   36.437      1 Template:Cite_journal"," 16.20%   33.854      2 Template:Citation_needed"," 15.54%   32.484      1 Template:More_footnotes"," 14.88%   31.107      2 Template:Fix"," 11.10%   23.197      1 Template:Ambox"," 10.22%   21.367      1 Template:Crusade"," 10.12%   21.148      2 Template:Campaignbox","  9.56%   19.988      1 Template:Redirect"]},"scribunto":{"limitreport-timeusage":{"value":"0.091","limit":"10.000"},"limitreport-memusage":{"value":3790838,"limit":52428800}},"cachereport":{"origin":"mw1246","timestamp":"20170925120004","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":487,"wgHostname":"mw1246"});});</script>
+	</body>
+</html>
