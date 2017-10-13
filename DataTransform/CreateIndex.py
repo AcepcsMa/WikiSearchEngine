@@ -18,7 +18,7 @@ if __name__ == "__main__":
         with open(folderName + fileName) as document:
             documentList.append((i, document.read(), fileName))
 
-    d = DataTransformer.DataTransformer(documentList)
+    d = DataTransformer.DataTransformer(documentList, folderName)
     d.transform()
 
     creator = IndexCreator.IndexCreator(d)
