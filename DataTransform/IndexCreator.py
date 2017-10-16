@@ -3,8 +3,8 @@ __author__ = "Haoxiang Ma"
 import json
 import os
 import re
-import DataTransformer
 
+# class of index creator
 class IndexCreator:
 
     def __init__(self, dataTransformer):
@@ -14,12 +14,11 @@ class IndexCreator:
         self.numDocuments = dataTransformer.getNumDocuments()
         self.indexFileSizeSum = 0
 
+    # create TermIDFile.txt
     def createTermIDFile(self):
         termIDDict = dict()
         for termID, term in zip(range(1,self.numTerms+1), self.terms):
-            #termIDDict[termID] = list()
             documents = self.dataTransformer.getDocumentsWithTerm(term)
-            #for document in documents:
             item = {"term":term, "docFreq":len(documents)/float(self.numDocuments)}
             termIDDict[termID] = item
 
@@ -28,6 +27,7 @@ class IndexCreator:
 
         self.indexFileSizeSum += os.path.getsize("TermIDFile.txt")
 
+    # create DocumentIDFile.txt
     def createDocumentIDFile(self):
         documentIDDict = dict()
         documentList = self.dataTransformer.getDocumentList()
@@ -44,6 +44,7 @@ class IndexCreator:
 
         self.indexFileSizeSum += os.path.getsize("DocumentIDFile.txt")
 
+    # create InvertedIndex.txt
     def createInvertedIndex(self):
         invertedIndexDict = {}
         for termID, term in zip(range(1, self.numTerms + 1), self.terms):
