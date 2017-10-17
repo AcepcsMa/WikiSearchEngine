@@ -19,7 +19,7 @@ class IndexCreator:
         termIDDict = dict()
         for termID, term in zip(range(1,self.numTerms+1), self.terms):
             documents = self.dataTransformer.getDocumentsWithTerm(term)
-            item = {"term":term, "docFreq":len(documents)/float(self.numDocuments)}
+            item = {"term":term, "docFreq":len(documents)}
             termIDDict[termID] = item
 
         with open("TermIDFile.txt", "w") as termIDFile:
@@ -37,7 +37,8 @@ class IndexCreator:
             docName = each[2]
             documentIDDict[docID] = dict()
             documentIDDict[docID]["docName"] = docName
-            documentIDDict[docID]["docLength"] = len(docContent)
+            #documentIDDict[docID]["docLength"] = len(docContent)
+            documentIDDict[docID]["docLength"] = self.dataTransformer.getNumTokensOfDoc(docID)
 
         with open("DocumentIDFile.txt", "w") as documentIDFile:
             documentIDFile.write(json.dumps(documentIDDict))

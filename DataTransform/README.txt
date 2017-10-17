@@ -11,12 +11,12 @@ been kept properly during the transformation & index creation, so it's easy to f
     {
         "1":{
                 "term":"Gerard",
-                "docFreq":0.1
+                "docFreq":18        // the number of documents that this term occurs in
             }
 
         "2":{
                 "term":"Wikipedia",
-                "docFreq":0.05
+                "docFreq":8
             }
     }
 
@@ -24,12 +24,12 @@ been kept properly during the transformation & index creation, so it's easy to f
     {
         "1":{
                 "docName":"doc1.txt",
-                "docLength":5000
+                "docLength":150         // the number of tokens in this document
             }
 
         "2":{
                 "docName":"doc2.txt",
-                "docLength":10000
+                "docLength":450
             }
     }
 

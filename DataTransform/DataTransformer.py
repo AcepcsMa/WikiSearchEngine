@@ -10,6 +10,7 @@ class DataTransformer:
         self.documentList = documentList
         self.numDocuments = len(documentList)
         self.workDir = workDir
+        self.documentTokens = dict()
 
     # data transformation
     def transform(self):
@@ -26,9 +27,11 @@ class DataTransformer:
             content = re.sub("'", "", content)
             content = re.sub("\.", "", content)
             content = re.sub("\n", "", content)
+            content = re.sub("\t", "", content)
             terms = content.split(" ")
             uniqueTerms = list(set(terms))  # get unique terms
             uniqueTerms = [uniqueTerm for uniqueTerm in uniqueTerms if len(uniqueTerm) > 0]
+            self.documentTokens[docID] = len(uniqueTerms)
             tokenSum += len(terms)
             for term in uniqueTerms:
                 try:
@@ -61,3 +64,6 @@ class DataTransformer:
     # get documents
     def getDocumentList(self):
         return self.documentList
+
+    def getNumTokensOfDoc(self, docID):
+        return self.documentTokens[docID]
