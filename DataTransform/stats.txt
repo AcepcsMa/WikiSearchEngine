@@ -1,5 +1,5 @@
-Total size of all input files:6874013
-Total number of tokens:164335
-Total number of unique tokens:35845
-Total size of three index files:4402694
-Ratio of the index size to the total file size:0.64
+Total size of all input files:4134086
+Total number of tokens:152589
+Total number of unique tokens:21651
+Total size of three index files:2891361
+Ratio of the index size to the total file size:0.70

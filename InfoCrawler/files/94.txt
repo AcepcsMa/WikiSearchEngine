@@ -1,452 +1,1506 @@
-<!DOCTYPE html>
-<html class="client-nojs" lang="en" dir="ltr">
-<head>
-<meta charset="UTF-8"/>
-<title>Portal:Featured content - Wikipedia</title>
-<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Portal","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":100,"wgPageName":"Portal:Featured_content","wgTitle":"Featured content","wgCurRevisionId":798154181,"wgRevisionId":798154181,"wgArticleId":10515459,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia semi-protected portals","Wikipedia featured content"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Portal:Featured_content","wgRelevantArticleId":10515459,"wgRequestId":"WciQUwpAMFcAADe8JGgAAAAF","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["sysop"],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q4387047","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
-mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
-
-});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
-<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
-<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
-<meta name="ResourceLoaderDynamicStyles" content=""/>
-<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
-<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
-<meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
-<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
-<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
-<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
-<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Portal:Featured_content"/>
-<link rel="dns-prefetch" href="//login.wikimedia.org"/>
-<link rel="dns-prefetch" href="//meta.wikimedia.org" />
-<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
-</head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-100 ns-subject page-Portal_Featured_content rootpage-Portal_Featured_content skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
-		<div id="mw-head-base" class="noprint"></div>
-		<div id="content" class="mw-body" role="main">
-			<a id="top"></a>
-
-							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
-						<div class="mw-indicators mw-body-content">
-<div id="mw-indicator-pp-default" class="mw-indicator"><a href="/wiki/Wikipedia:Protection_policy#semi" title="This page is semi-protected."><img alt="Page semi-protected" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/30px-Padlock-silver.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/40px-Padlock-silver.svg.png 2x" data-file-width="128" data-file-height="128" /></a></div>
-</div>
-			<h1 id="firstHeading" class="firstHeading" lang="en">Portal:Featured content</h1>
-									<div id="bodyContent" class="mw-body-content">
+<div id="bodyContent" class="mw-body-content">
 									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
 								<div id="contentSub"></div>
 												<div id="jump-to-nav" class="mw-jump">
 					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
 				</div>
-				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table role="presentation" style="border-spacing:8px;margin:-8px -8px -2px; background-color:transparent; width:100%">
-<tr>
-<td class="MainPageBG" style="padding:0.5em 1em 0em; border:1px solid #A3B1BF;background-color:#E6F2FF;vertical-align:top;color:#000">
-<h2><span class="mw-headline" id="Featured_content_in_Wikipedia">Featured content in Wikipedia</span></h2>
-<div class="floatright"><a href="/wiki/File:Cscr-featured.svg" class="image" title="The featured content star"><img alt="The featured content star" src="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/40px-Cscr-featured.svg.png" width="40" height="38" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/60px-Cscr-featured.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/80px-Cscr-featured.svg.png 2x" data-file-width="462" data-file-height="438" /></a></div>
-<p>Featured content represents the best of Wikipedia, including articles, pictures, and other contributions that showcase excellent results of the collaborative efforts of Wikipedia.</p>
-<p>All featured content undergoes a thorough review process to ensure that it meets the highest standards in order to serve as the best example of our end goals.</p>
-<p>A small bronze star (<a href="/wiki/File:Cscr-featured.svg" class="image" title="The featured content star"><img alt="The featured content star" src="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/14px-Cscr-featured.svg.png" width="14" height="13" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/21px-Cscr-featured.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/28px-Cscr-featured.svg.png 2x" data-file-width="462" data-file-height="438" /></a>) in the top right corner of a page indicates that the content is featured.</p>
-<p>This page gives links to all of Wikipedia's featured content.</p>
-</td>
-<td style="width:300px; vertical-align:top;padding:0.5em 1em 0em; border:1px solid #A3B1BF; background-color:#E6F2FF">
-<div style="position:relative;top:-3em"><span id="P:FC"></span><span id="WP:FX"></span><span id="WP:FC"></span><span id="WP:FEAT"></span><span id="WP:FEATURE"></span></div>
-<div class="shortcutbox plainlist noprint" role="note" style="float:right;border:1px solid #aaa;background:#fff;margin:.3em .3em .3em 1em;padding:.4em .6em;text-align:center;font-size:smaller;line-height:2em;font-weight:bold"><a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcuts</a>:
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div id="portals-browsebar" class="hlist noprint" style="text-align: center;">
+<dl>
+<dt><a href="/wiki/Portal:Contents/Portals" title="Portal:Contents/Portals">Topics</a></dt>
+<dd><a href="/wiki/Portal:Contents/Portals#Culture_and_the_arts" title="Portal:Contents/Portals">Culture</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Geography_and_places" title="Portal:Contents/Portals">Geography</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Health_and_fitness" title="Portal:Contents/Portals">Health</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#History_and_events" title="Portal:Contents/Portals">History</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Mathematics_and_logic" title="Portal:Contents/Portals">Mathematics</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Natural_and_physical_sciences" title="Portal:Contents/Portals">Nature</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#People_and_self" title="Portal:Contents/Portals">People</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Philosophy_and_thinking" title="Portal:Contents/Portals">Philosophy</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Religion_and_belief_systems" title="Portal:Contents/Portals">Religion</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Society_and_social_sciences" title="Portal:Contents/Portals">Society</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Technology_and_applied_sciences" title="Portal:Contents/Portals">Technology</a></dd>
+</dl>
+</div>
+<hr />
+<div style="padding-top:0.2em;padding-bottom:0.2em;">
+<div id="history_portals_browsebar" class="hlist" style="font-size:95%;margin-top:-3px;text-align:center;line-height:1.35em;margin-bottom:0.2em;">
 <ul>
-<li><span class="plainlinks"><a class="external text" href="//en.wikipedia.org/w/index.php?title=P:FC&amp;redirect=no">P:FC</a></span></li>
-<li><span class="plainlinks"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Wikipedia:FX&amp;redirect=no">WP:FX</a></span></li>
-<li><span class="plainlinks"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Wikipedia:FC&amp;redirect=no">WP:FC</a></span></li>
-<li><span class="plainlinks"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Wikipedia:FEAT&amp;redirect=no">WP:FEAT</a></span></li>
-<li><span class="plainlinks"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Wikipedia:FEATURE&amp;redirect=no">WP:FEATURE</a></span></li>
+<li><b><a class="mw-selflink selflink">History</a></b><br />
+<a href="/wiki/Portal:Ancient_Egypt" title="Portal:Ancient Egypt">Ancient Egypt</a></li>
+<li><a href="/wiki/Portal:Ancient_Germanic_culture" title="Portal:Ancient Germanic culture">Ancient Germanic Culture</a></li>
+<li><a href="/wiki/Portal:Ancient_Greece" title="Portal:Ancient Greece">Ancient Greece</a></li>
+<li><a href="/wiki/Portal:Ancient_Japan" title="Portal:Ancient Japan">Ancient Japan</a></li>
+<li><a href="/wiki/Portal:Ancient_Near_East" title="Portal:Ancient Near East">Ancient Near East</a></li>
+<li><a href="/wiki/Portal:Ancient_Rome" title="Portal:Ancient Rome">Ancient Rome</a></li>
+<li><a href="/wiki/Portal:Anglo-Saxon_England" title="Portal:Anglo-Saxon England">Anglo-Saxon England</a></li>
+<li><a href="/wiki/Portal:Archaeology" title="Portal:Archaeology">Archaeology</a></li>
+<li><a href="/wiki/Portal:Austria-Hungary" title="Portal:Austria-Hungary">Austria-Hungary</a></li>
+<li><a href="/wiki/Portal:British_Empire" title="Portal:British Empire">British Empire</a></li>
+<li><a href="/wiki/Portal:Bulgarian_Empire" title="Portal:Bulgarian Empire">Bulgarian Empire</a></li>
+<li><a href="/wiki/Portal:Byzantine_Empire" title="Portal:Byzantine Empire">Byzantine Empire</a></li>
+<li><a href="/wiki/Portal:Classical_civilisation" title="Portal:Classical civilisation">Classical civilisation</a></li>
+<li><a href="/wiki/Portal:Colonialism" title="Portal:Colonialism">Colonialism</a></li>
+<li><a href="/wiki/Portal:Crusades" title="Portal:Crusades">Crusades</a></li>
+<li><a href="/wiki/Portal:Dacia" title="Portal:Dacia">Dacia</a></li>
+<li><a href="/wiki/Portal:Disasters" title="Portal:Disasters">Disasters</a></li>
+<li><a href="/wiki/Portal:German_Empire" title="Portal:German Empire">German Empire</a></li>
+<li><a href="/wiki/Portal:Heraldry" title="Portal:Heraldry">Heraldry</a></li>
+<li><a href="/wiki/Portal:History_of_Canada" title="Portal:History of Canada">History of Canada</a></li>
+<li><a href="/wiki/Portal:History_of_science" title="Portal:History of science">History of science</a></li>
+<li><a href="/wiki/Portal:History_of_Imperial_China" title="Portal:History of Imperial China">Imperial China</a></li>
+<li><a href="/wiki/Portal:Indian_independence_movement" title="Portal:Indian independence movement">Indian independence movement</a></li>
+<li><a href="/wiki/Portal:Khitan" title="Portal:Khitan">Khitan</a></li>
+<li><a href="/wiki/Portal:History_of_the_Latter_Day_Saint_movement" title="Portal:History of the Latter Day Saint movement">Latter Day Saint movement</a></li>
+<li><a href="/wiki/Portal:Middle_Ages" title="Portal:Middle Ages">Middle Ages</a></li>
+<li><a href="/wiki/Portal:Mughal_Empire" title="Portal:Mughal Empire">Mughal Empire</a></li>
+<li><a href="/wiki/Portal:New_France" title="Portal:New France">New France</a></li>
+<li><a href="/wiki/Portal:Ottoman_Empire" title="Portal:Ottoman Empire">Ottoman Empire</a></li>
+<li><a href="/wiki/Portal:Russian_Empire" title="Portal:Russian Empire">Russian Empire</a></li>
+<li><a href="/wiki/Portal:Sasanian_Empire" title="Portal:Sasanian Empire">Sasanian Empire</a></li>
+<li><a href="/wiki/Portal:Seljuk_Empire" title="Portal:Seljuk Empire">Seljuk Empire</a></li>
+<li><a href="/wiki/Portal:Soviet_Union" title="Portal:Soviet Union">Soviet Union</a></li>
+<li><a href="/wiki/Portal:War" title="Portal:War">War</a></li>
+<li><a href="/wiki/Portal:Weimar_Republic" title="Portal:Weimar Republic">Weimar Republic</a></li>
 </ul>
 </div>
-<p><b><a class="mw-selflink selflink">Featured content:</a></b> ←</p>
-<ul>
-<li><a href="/wiki/Wikipedia:Featured_articles" title="Wikipedia:Featured articles">Featured articles</a></li>
-<li><a href="/wiki/Wikipedia:Featured_lists" title="Wikipedia:Featured lists">Featured lists</a></li>
-<li><a href="/wiki/Wikipedia:Featured_pictures" title="Wikipedia:Featured pictures">Featured pictures</a></li>
-<li><a href="/wiki/Wikipedia:Featured_topics" title="Wikipedia:Featured topics">Featured topics</a></li>
-</ul>
+</div>
+<table width="100%" cellpadding="5" cellspacing="10" style="background:#E9D0B6; border-style:solid; border-width:1px; border-color:#B05F3C;">
+<tr>
+<td width="55%" style="vertical-align:top;padding: 0; margin:0;">
+<div style="float:right; width:100%">
+<div style="clear: both; border: solid #C27E3A; border-width: 1px 1px 0; background: #DAAF85; color: black; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: black"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:History/Intro&amp;action=edit"><span style="color: black">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:black;"><span class="mw-headline" id="The_History_Portal"><big>The History Portal</big></span></h2>
+</div>
+<div style="border: 1px solid #C27E3A; border-top-width: 1px; vertical-align: top;background: #EEDCC8;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<p><br /></p>
+<div style="float:right;margin-left:1em">
+<center><a href="/wiki/This_is_the_Place_Monument" title="This is the Place Monument">This is the Place Monument</a></center>
+<p><a href="/wiki/This_is_the_Place_Monument" title="This is the Place Monument"><img alt="This is the Place Monument" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/This_Is_The_Place_Heritage_Park.jpg/200px-This_Is_The_Place_Heritage_Park.jpg" width="200" height="294" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/This_Is_The_Place_Heritage_Park.jpg/300px-This_Is_The_Place_Heritage_Park.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/This_Is_The_Place_Heritage_Park.jpg/400px-This_Is_The_Place_Heritage_Park.jpg 2x" data-file-width="680" data-file-height="1000" /></a><br /></p>
+</div>
+<p><b><a href="/wiki/History" title="History">History</a></b> is the discovery, collection, organization, analysis, and presentation of information about past events. History can also mean a continuous, typically chronological record of important or public events or of a particular trend or institution. Scholars who write about history are called <a href="/wiki/Historian" title="Historian">historians</a>. It is a field of <a href="/wiki/Knowledge" title="Knowledge">knowledge</a> which uses a <a href="/wiki/Narrative" title="Narrative">narrative</a> to examine and analyse the sequence of events, and it sometimes attempts to objectively investigate the patterns of cause and effect that determine events. Historians debate the nature of history and its usefulness. This includes discussing the study of the discipline as an end in itself and as a way of providing "perspective" on the problems of the present. The stories common to a particular <a href="/wiki/Culture" title="Culture">culture</a> but not supported by external sources (such as the legends surrounding <a href="/wiki/King_Arthur" title="King Arthur">King Arthur</a>) are usually classified as <a href="/wiki/Cultural_heritage" title="Cultural heritage">cultural heritage</a> rather than as the "disinterested investigation" needed by the discipline of history. Events of the past prior to written record are considered <a href="/wiki/Prehistory" title="Prehistory">prehistory</a>.</p>
+<p>Amongst scholars, fifth century BC <a href="/wiki/Ancient_Greece" title="Ancient Greece">Greek</a> historian <a href="/wiki/Herodotus" title="Herodotus">Herodotus</a> is considered to be the "father of history"; the methods of Herodotus along with his contemporary <a href="/wiki/Thucydides" title="Thucydides">Thucydides</a> form the foundations for the modern study of history. Their influence (along with other historical traditions in other parts of their world) has spawned many different interpretations of the nature of history which has developed over the centuries and are continuing to change. The modern study of history has many different fields, including those that focus on certain regions and those that focus on certain topical or thematic elements of historical investigation. Often, history is taught as part of primary and secondary education, and the academic study of history is a major discipline in university studies.</p>
+<table width="100%" border="0" style="padding: 0; margin:0; background:transparent;">
+<tr>
+<td style="text-align:right;margin-right:10px;margin-bottom:-4px;"><b><a href="/wiki/History" title="History">More about History…</a></b></td>
+</tr>
+</table>
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
+</div>
+<div style="text-align:center; margin:0.25em auto 0.75em"><span class="noprint plainlinks purgelink"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:History&amp;action=purge"><span title="Purge this page"><b>View new selections below</b> (purge)</span></a></span></div>
+</div>
+<div class="portal-column-left">
+<div style="clear: both; border: solid #C27E3A; border-width: 1px 1px 0; background: #DAAF85; color: black; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: black"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:History/Featured_article/7&amp;action=edit"><span style="color: black">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:black;"><span class="mw-headline" id="Selected_article">Selected article</span></h2>
+</div>
+<div style="border: 1px solid #C27E3A; border-top-width: 1px; vertical-align: top;background: #EEDCC8;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div style="float:left;margin-right:1em"><a href="/wiki/File:Travis_letter_page_1_adj.jpg" class="image" title="The first page of William Barret Travis's letter, To the People of Texas &amp; All Americans in the World"><img alt="The first page of William Barret Travis's letter, To the People of Texas &amp; All Americans in the World" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Travis_letter_page_1_adj.jpg/150px-Travis_letter_page_1_adj.jpg" width="150" height="244" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Travis_letter_page_1_adj.jpg/225px-Travis_letter_page_1_adj.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Travis_letter_page_1_adj.jpg/300px-Travis_letter_page_1_adj.jpg 2x" data-file-width="432" data-file-height="704" /></a></div>
+<b><a href="/wiki/To_the_People_of_Texas_%26_All_Americans_in_the_World" title="To the People of Texas &amp; All Americans in the World">To the People of Texas &amp; All Americans in the World</a></b> is an <a href="/wiki/Open_letter" title="Open letter">open letter</a> written on February 24, 1836, by <a href="/wiki/William_B._Travis" title="William B. Travis">William B. Travis</a>, commander of the <a href="/wiki/Texian" class="mw-redirect" title="Texian">Texian</a> forces at the <a href="/wiki/Battle_of_the_Alamo" title="Battle of the Alamo">Battle of the Alamo</a>, to settlers in <a href="/wiki/Mexican_Texas" title="Mexican Texas">Mexican Texas</a>. The letter is renowned as a "declaration of defiance" and a "masterpiece of American patriotism", and forms part of the history education of Texas schoolchildren.
+<p>On February 23, the <a href="/wiki/Alamo_Mission" class="mw-redirect" title="Alamo Mission">Alamo Mission</a> in <a href="/wiki/San_Antonio,_Texas" class="mw-redirect" title="San Antonio, Texas">San Antonio, Texas</a> had been besieged by Mexican forces led by General <a href="/wiki/Antonio_L%C3%B3pez_de_Santa_Anna" title="Antonio López de Santa Anna">Antonio López de Santa Anna</a>. Fearing that his small group of men could not withstand an assault, Travis wrote this letter seeking reinforcements and supplies from supporters. The letter closes with Travis's vow of "Victory or Death!", an emotion which has been both praised and derided by historians.</p>
+<p>The letter was initially entrusted to courier Albert Martin, who carried it to the town of <a href="/wiki/Gonzales,_Texas" title="Gonzales, Texas">Gonzales</a> some seventy miles away. Martin added several postscripts to encourage men to reinforce the Alamo, and then handed the letter to Launcelot Smithers. Smithers added his own postscript and delivered the letter to its intended destination, <a href="/wiki/San_Felipe,_Texas" title="San Felipe, Texas">San Felipe de Austin</a>. Local publishers printed over 700&#160;copies of the letter. It also appeared in the two main Texas newspapers and was eventually printed throughout the United States and Europe. Partially in response to the letter, men from throughout Texas and the United States began to gather in Gonzales. Between 32 and 90 of them reached the Alamo before it fell; the remainder formed the nucleus of the army which eventually defeated Santa Anna at the <a href="/wiki/Battle_of_San_Jacinto" title="Battle of San Jacinto">Battle of San Jacinto</a>.</p>
+<table class="noprint" width="100%" border="0" style="padding: 0; margin: 0; background-color:transparent">
+<tr>
+<td>
+<div style="text-align:left;"><b><a href="/wiki/Portal:History/Featured_article" title="Portal:History/Featured article">...Archive/Nominations</a></b></div>
+</td>
+<td>
+<div style="text-align:right;margin-right:10px;margin-bottom:0px;">
+<p><b><a href="/wiki/To_the_People_of_Texas_%26_All_Americans_in_the_World" title="To the People of Texas &amp; All Americans in the World">Read more...</a></b></p>
+</div>
 </td>
 </tr>
 </table>
-<div style="margin:15px 0; border:1px solid #A3B1BF; padding:5px; background-color:#F5FAFF; color:#000; text-align:center;">
-<h2><span class="mw-headline" id="Lists_of_featured_content">Lists of featured content</span></h2>
-<table class="wikitable" style="text-align: center; border: none; margin-top: 1ex; margin-left: auto; margin-right: auto;" cellpadding="4">
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid #C27E3A; border-width: 1px 1px 0; background: #DAAF85; color: black; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: black"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:History/Featured_biography/12&amp;action=edit"><span style="color: black">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:black;"><span class="mw-headline" id="Selected_biography">Selected biography</span></h2>
+</div>
+<div style="border: 1px solid #C27E3A; border-top-width: 1px; vertical-align: top;background: #EEDCC8;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div style="float:left;margin-right:1em"><a href="/wiki/File:Pericles_Pio-Clementino_Inv269.jpg" class="image" title="Bust of Pericles bearing the inscription “Pericles, son of Xanthippus, Athenian”."><img alt="Bust of Pericles bearing the inscription “Pericles, son of Xanthippus, Athenian”." src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Pericles_Pio-Clementino_Inv269.jpg/150px-Pericles_Pio-Clementino_Inv269.jpg" width="150" height="301" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Pericles_Pio-Clementino_Inv269.jpg/225px-Pericles_Pio-Clementino_Inv269.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Pericles_Pio-Clementino_Inv269.jpg/300px-Pericles_Pio-Clementino_Inv269.jpg 2x" data-file-width="1275" data-file-height="2560" /></a></div>
+<b><a href="/wiki/Pericles" title="Pericles">Pericles</a></b> (<a href="/wiki/Greek_language" title="Greek language">Greek</a>: <span lang="el" xml:lang="el">Περικλῆς</span>, <i>Periklēs</i>, "surrounded by glory"; c. 495 – 429 BC) was a prominent and influential <a href="https://en.wiktionary.org/wiki/statesman" class="extiw" title="wikt:statesman">statesman</a>, orator, and general of <a href="/wiki/History_of_Athens" title="History of Athens">Athens</a> during the city's <a href="/wiki/Age_of_Pericles" class="mw-redirect" title="Age of Pericles">Golden Age</a>—specifically, the time between the <a href="/wiki/Greco-Persian_Wars" title="Greco-Persian Wars">Persian</a> and <a href="/wiki/Peloponnesian_War" title="Peloponnesian War">Peloponnesian</a> wars. He was descended, through his mother, from the powerful and historically influential <a href="/wiki/Alcmaeonidae" title="Alcmaeonidae">Alcmaeonid</a> family.
+<p>Pericles had such a profound influence on Athenian society that <a href="/wiki/Thucydides" title="Thucydides">Thucydides</a>, his contemporary historian, acclaimed him as "the first citizen of Athens". Pericles turned the <a href="/wiki/Delian_League" title="Delian League">Delian League</a> into an Athenian empire and led his countrymen during the first two years of the Peloponnesian War. The period during which he led Athens, roughly from 461 to 429&#160;BC, is sometimes known as the "<a href="/wiki/Age_of_Pericles" class="mw-redirect" title="Age of Pericles">Age of Pericles</a>", though the period thus denoted can include times as early as the <a href="/wiki/Persian_Wars" class="mw-redirect" title="Persian Wars">Persian Wars</a>, or as late as the next century.</p>
+<p>Pericles promoted the arts and literature; this was a chief reason Athens holds the reputation of being the educational and cultural centre of the <a href="/wiki/Ancient_Greece" title="Ancient Greece">ancient Greek</a> world. He started an ambitious project that generated most of the surviving structures on the <a href="/wiki/Acropolis_of_Athens" title="Acropolis of Athens">Acropolis</a> (including the <a href="/wiki/Parthenon" title="Parthenon">Parthenon</a>). This project beautified the city, exhibited its glory, and gave work to the people. Furthermore, Pericles fostered <a href="/wiki/Athenian_democracy" title="Athenian democracy">Athenian democracy</a> to such an extent that critics call him a <a href="/wiki/Populism" title="Populism">populist</a>.</p>
+<table class="noprint" width="100%" border="0" style="padding: 0; margin: 0; background-color:transparent">
 <tr>
-<td style="border-top: none; border-left: none; background: transparent"></td>
-<th scope="col">Articles</th>
-<th scope="col">Pictures</th>
-<th scope="col">Lists</th>
-<th scope="col">Topics</th>
-</tr>
-<tr>
-<th scope="row">Featured:</th>
-<td><a href="/wiki/Wikipedia:Featured_articles" title="Wikipedia:Featured articles">5144</a> / <a href="/wiki/Wikipedia_talk:Featured_articles" title="Wikipedia talk:Featured articles">T</a></td>
-<td><a href="/wiki/Wikipedia:Featured_pictures" title="Wikipedia:Featured pictures">6,106</a> / <a href="/wiki/Wikipedia_talk:Featured_pictures" title="Wikipedia talk:Featured pictures">T</a></td>
-<td><a href="/wiki/Wikipedia:Featured_lists" title="Wikipedia:Featured lists">3197</a> / <a href="/wiki/Wikipedia_talk:Featured_lists" title="Wikipedia talk:Featured lists">T</a></td>
-<td><a href="/wiki/Wikipedia:Featured_topics" title="Wikipedia:Featured topics">150</a> / <a href="/wiki/Wikipedia_talk:Featured_topics" title="Wikipedia talk:Featured topics">T</a></td>
-</tr>
-<tr>
-<th scope="row">Criteria:</th>
-<td><a href="/wiki/Wikipedia:Featured_article_criteria" title="Wikipedia:Featured article criteria">FA?</a> / <a href="/wiki/Wikipedia_talk:Featured_article_criteria" title="Wikipedia talk:Featured article criteria">T</a></td>
-<td><a href="/wiki/Wikipedia:Featured_picture_criteria" title="Wikipedia:Featured picture criteria">FP?</a> / <a href="/wiki/Wikipedia_talk:Featured_picture_criteria" title="Wikipedia talk:Featured picture criteria">T</a></td>
-<td><a href="/wiki/Wikipedia:Featured_list_criteria" title="Wikipedia:Featured list criteria">FL?</a> / <a href="/wiki/Wikipedia_talk:Featured_list_criteria" title="Wikipedia talk:Featured list criteria">T</a></td>
-<td><a href="/wiki/Wikipedia:Featured_topic_criteria" title="Wikipedia:Featured topic criteria">FT?</a> / <a href="/wiki/Wikipedia_talk:Featured_topic_criteria" class="mw-redirect" title="Wikipedia talk:Featured topic criteria">T</a></td>
-</tr>
-<tr>
-<th scope="row">Candidates:</th>
-<td><a href="/wiki/Wikipedia:Featured_article_candidates" title="Wikipedia:Featured article candidates">FAC</a> / <a href="/wiki/Wikipedia_talk:Featured_article_candidates" title="Wikipedia talk:Featured article candidates">T</a></td>
-<td><a href="/wiki/Wikipedia:Featured_picture_candidates" title="Wikipedia:Featured picture candidates">FPC</a> / <a href="/wiki/Wikipedia_talk:Featured_picture_candidates" title="Wikipedia talk:Featured picture candidates">T</a></td>
-<td><a href="/wiki/Wikipedia:Featured_list_candidates" title="Wikipedia:Featured list candidates">FLC</a> / <a href="/wiki/Wikipedia_talk:Featured_list_candidates" title="Wikipedia talk:Featured list candidates">T</a></td>
-<td><a href="/wiki/Wikipedia:Featured_topic_candidates" title="Wikipedia:Featured topic candidates">FTC</a> / <a href="/wiki/Wikipedia_talk:Featured_topic_candidates" title="Wikipedia talk:Featured topic candidates">T</a></td>
-</tr>
-<tr>
-<th scope="row">Removal:</th>
-<td><a href="/wiki/Wikipedia:Featured_article_review" title="Wikipedia:Featured article review">FARC</a> / <a href="/wiki/Wikipedia_talk:Featured_article_review" title="Wikipedia talk:Featured article review">T</a></td>
-<td><a href="/wiki/Wikipedia:Featured_picture_candidates#Nominations_for_delisting" title="Wikipedia:Featured picture candidates">FPR</a> / <a href="/wiki/Wikipedia_talk:Featured_picture_candidates" title="Wikipedia talk:Featured picture candidates">T</a></td>
-<td><a href="/wiki/Wikipedia:Featured_list_removal_candidates" title="Wikipedia:Featured list removal candidates">FLRC</a> / <a href="/wiki/Wikipedia_talk:Featured_list_removal_candidates" title="Wikipedia talk:Featured list removal candidates">T</a></td>
-<td><a href="/wiki/Wikipedia:Featured_topic_removal_candidates" title="Wikipedia:Featured topic removal candidates">FTRC</a> / <a href="/wiki/Wikipedia_talk:Featured_topic_removal_candidates" class="mw-redirect" title="Wikipedia talk:Featured topic removal candidates">T</a></td>
-</tr>
-<tr>
-<th scope="row">Former:</th>
-<td><a href="/wiki/Wikipedia:Former_featured_articles" title="Wikipedia:Former featured articles">1,124</a> / <a href="/wiki/Wikipedia_talk:Former_featured_articles" title="Wikipedia talk:Former featured articles">T</a></td>
-<td><a href="/wiki/Wikipedia:Former_featured_pictures" title="Wikipedia:Former featured pictures">FFP</a></td>
-<td><a href="/wiki/Wikipedia:Former_featured_lists" title="Wikipedia:Former featured lists">256</a> / <a href="/wiki/Wikipedia_talk:Former_featured_lists" title="Wikipedia talk:Former featured lists">T</a></td>
-<td><a href="/wiki/Wikipedia:Former_featured_topics" title="Wikipedia:Former featured topics">FFT</a></td>
+<td>
+<div style="text-align:left;"><b><a href="/wiki/Portal:History/Featured_biography" title="Portal:History/Featured biography">...Archive/Nominations</a></b></div>
+</td>
+<td>
+<div style="text-align:right;margin-right:10px;margin-bottom:0px;">
+<p><b><a href="/wiki/Pericles" title="Pericles">Read more...</a></b></p>
+</div>
+</td>
 </tr>
 </table>
-<h2><span class="mw-headline" id="Newest_featured_content_edit">Newest featured content <small><span class="editlink noprint plainlinks navbar"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Announcements/New_featured_content&amp;action=edit">edit</a></span></small></span></h2>
-<div style="display:flex; flex-wrap:wrap; overflow:auto; text-align:left;">
-<div style="float:left; box-sizing:border-box; margin:0.2em 0; width:50%; border-left:1px solid #FFFFFF; border-right:1px solid #FFFFFF; padding:0.1em; background-color:#F5FFFA">
-<div style="margin:-0.1em -0.1em 0.1em; border-bottom:2px solid #FFFFFF; padding:0.1em; background-color:#E6FFF2; text-align:center; font-weight:bold"><a href="/wiki/Wikipedia:Featured_articles" title="Wikipedia:Featured articles">Articles</a></div>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid #C27E3A; border-width: 1px 1px 0; background: #DAAF85; color: black; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: black"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:History/Did_you_know/5&amp;action=edit"><span style="color: black">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:black;"><span class="mw-headline" id="Did_you_know...">Did you know...</span></h2>
+</div>
+<div style="border: 1px solid #C27E3A; border-top-width: 1px; vertical-align: top;background: #EEDCC8;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div style="float:right; margin-left:0.5em;">
+<p><a href="/wiki/File:Beak_Doctor.jpg" class="image"><img alt="Beak Doctor.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Beak_Doctor.jpg/56px-Beak_Doctor.jpg" width="56" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Beak_Doctor.jpg/84px-Beak_Doctor.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/Beak_Doctor.jpg/112px-Beak_Doctor.jpg 2x" data-file-width="361" data-file-height="642" /></a></p>
+</div>
 <ul>
-<li><a href="/wiki/Rochdale_Cenotaph" title="Rochdale Cenotaph">Rochdale Cenotaph</a></li>
-<li><a href="/wiki/Rotating_locomotion_in_living_systems" title="Rotating locomotion in living systems">Rotating locomotion in living systems</a></li>
-<li><a href="/wiki/Donald_Trump_(Last_Week_Tonight)" title="Donald Trump (Last Week Tonight)">"Donald Trump" (<i>Last Week Tonight)</i></a></li>
-<li><a href="/wiki/Florin_(British_coin)" title="Florin (British coin)">Florin (British coin)</a></li>
-<li><a href="/wiki/Emily_Davison" title="Emily Davison">Emily Davison</a></li>
-<li><a href="/wiki/Henry_W._Sawyer" title="Henry W. Sawyer">Henry W. Sawyer</a></li>
+<li>... that <b><a href="/wiki/Giovanni_de_Ventura" title="Giovanni de Ventura">Giovanni de Ventura</a></b>, a <b><a href="/wiki/Plague_doctor" title="Plague doctor">plague doctor</a></b> who may have worn a <b><a href="/wiki/Beak_doctor_costume" class="mw-redirect" title="Beak doctor costume">beak doctor costume</a></b> <i>(pictured)</i>, was restricted by <b><a href="/wiki/Plague_doctor_contract" title="Plague doctor contract">a covenant</a></b> to treat only infectious patients? In the nose of the mask, there were types of plants that were used to filter the sickness from the wearer.</li>
+<li>... that in some <b><a href="/wiki/Archaic_Greek_alphabets" title="Archaic Greek alphabets">archaic Greek alphabets</a></b>, an Ε could look like a Β, a Β like a C, a Γ like an Ι, an Ι like a Σ, or a Σ like an Μ?</li>
+<li>... that the <a href="/wiki/State_Administration_of_Cultural_Heritage" title="State Administration of Cultural Heritage">Chinese government</a> has published a <b><a href="/wiki/List_of_Chinese_cultural_relics_forbidden_to_be_exhibited_abroad" title="List of Chinese cultural relics forbidden to be exhibited abroad">list of sixty-four important cultural relics</a></b> that are forbidden to be exhibited outside of China?</li>
+<li>... that the 1886 novel <i><b><a href="/wiki/Albertine_(1886_novel)" class="mw-redirect" title="Albertine (1886 novel)">Albertine</a></b></i> expedited the abolition of public prostitution in Norway?</li>
+<li>... that <a href="/wiki/Carl_Sagan" title="Carl Sagan">Carl Sagan</a> worked with the US Air Force on <b><a href="/wiki/Project_A119" title="Project A119">detonating a nuclear device on the Moon</a></b>?</li>
+<li>... that <b><a href="/wiki/Olympic_medal" title="Olympic medal">Olympic gold medals</a></b> have been made out of silver, jade, and glass?</li>
+<li>... that in 1945 a Japanese <a href="/wiki/Battalion" title="Battalion">battalion</a> was rearmed to serve alongside the British <b><a href="/wiki/5th_Parachute_Brigade_(United_Kingdom)" title="5th Parachute Brigade (United Kingdom)">5th Parachute Brigade</a></b> in the <a href="/wiki/Far_East" title="Far East">Far East</a>?</li>
+<li>... that <b><a href="/wiki/Solomon_(Byzantine_general)" title="Solomon (Byzantine general)">Solomon</a></b> was accidentally <a href="/wiki/Eunuch" title="Eunuch">castrated as an infant</a>?</li>
+</ul>
+<table class="noprint" width="100%" border="0" style="padding: 0; margin: 0; background-color:transparent">
+<tr>
+<td>
+<div style="text-align:left;margin-bottom:0px;"><b><a href="/wiki/Portal:History/Did_you_know" title="Portal:History/Did you know">...Archive/Nominations</a></b></div>
+</td>
+<td>
+<div style="text-align:right;margin-right:10px;margin-bottom:0px;">
+<p><b><a href="/wiki/Wikipedia:Recent_additions" title="Wikipedia:Recent additions">More...</a></b></p>
+</div>
+</td>
+</tr>
+</table>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="portal-column-right">
+<div style="clear: both; border: solid #C27E3A; border-width: 1px 1px 0; background: #DAAF85; color: black; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: black"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:History/Featured_picture/7&amp;action=edit"><span style="color: black">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:black;"><span class="mw-headline" id="Selected_picture">Selected picture</span></h2>
+</div>
+<div style="border: 1px solid #C27E3A; border-top-width: 1px; vertical-align: top;background: #EEDCC8;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<center>
+<table style="margin-right: 14px; margin-bottom: 5px; padding-top: 7px; padding-bottom: 7px; padding-left: 7px; padding-right: 7px; background: beige; border:4px ridge #4B5320;">
+<tr>
+<td>
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Jacques-Louis_David,_The_Coronation_of_Napoleon_edit.jpg" class="image"><img alt="Jacques-Louis David, The Coronation of Napoleon edit.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Jacques-Louis_David%2C_The_Coronation_of_Napoleon_edit.jpg/300px-Jacques-Louis_David%2C_The_Coronation_of_Napoleon_edit.jpg" width="300" height="188" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Jacques-Louis_David%2C_The_Coronation_of_Napoleon_edit.jpg/450px-Jacques-Louis_David%2C_The_Coronation_of_Napoleon_edit.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/Jacques-Louis_David%2C_The_Coronation_of_Napoleon_edit.jpg/600px-Jacques-Louis_David%2C_The_Coronation_of_Napoleon_edit.jpg 2x" data-file-width="2200" data-file-height="1375" /></a></div>
+</div>
+</td>
+</tr>
+</table>
+<p>The <b><a href="/wiki/Coronation_of_Napoleon_I" title="Coronation of Napoleon I">Coronation of Napoleon I</a></b> as <a href="/wiki/Emperor_of_the_French" title="Emperor of the French">Emperor of the French</a> took place on December 2, 1804. After a <a href="/wiki/French_constitutional_referendum,_1804" title="French constitutional referendum, 1804">referendum</a> showed overwhelming French support for the action, Napoleon designed an elaborate coronation ceremony, France's first since before the <a href="/wiki/French_Revolution" title="French Revolution">French Revolution</a>, with a combination of <a href="/wiki/Ancient_Rome" title="Ancient Rome">Roman</a> pageantry and the purported memory of <a href="/wiki/Charlemagne" title="Charlemagne">Charlemagne</a>. During the ceremony, as <a href="/wiki/Pope_Pius_VII" title="Pope Pius VII">Pope Pius VII</a> readied the crown for Napoleon, the future emperor turned around, took it from the pope, and placed it on his own head, an unprecedented action of <a href="/wiki/Separation_of_church_and_state" title="Separation of church and state">state over church</a>.</p>
+</center>
+<table class="noprint" width="100%" border="0" style="padding: 0; margin: 0; background-color:transparent">
+<tr>
+<td>
+<div style="text-align:left;"><b><a href="/wiki/Portal:History/Featured_picture" title="Portal:History/Featured picture">...Archive/Nominations</a></b></div>
+</td>
+<td>
+<div style="text-align:right;margin-right:10px;margin-bottom:0px;">
+<p><b><a href="/wiki/Coronation_of_Napoleon_I" title="Coronation of Napoleon I">Read more...</a></b></p>
+</div>
+</td>
+</tr>
+</table>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid #C27E3A; border-width: 1px 1px 0; background: #DAAF85; color: black; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: black"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Wikipedia:Selected_anniversaries/October_28&amp;action=edit"><span style="color: black">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:black;"><span class="mw-headline" id="On_this_day">On this day</span></h2>
+</div>
+<div style="border: 1px solid #C27E3A; border-top-width: 1px; vertical-align: top;background: #EEDCC8;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<p><b><a href="/wiki/October_28" title="October 28">October 28</a></b>: <a href="/wiki/Calendar_of_saints" title="Calendar of saints">Feast day</a> of <b><a href="/wiki/Jude_the_Apostle" title="Jude the Apostle">Jude the Apostle</a></b> (<a href="/wiki/Western_Christianity" title="Western Christianity">Western Christianity</a>)</p>
+<div style="float:right;margin-left:0.5em;" id="mp-otd-img">
+<div class="thumbinner mp-thumb" style="background: transparent; border: none; padding: 0; max-width: 100px;"><a href="/wiki/File:TUT-Ausstellung_FFM_2012_47_(7117819557).jpg" class="image" title="Tutankhamun's mask"><img alt="Tutankhamun's mask" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TUT-Ausstellung_FFM_2012_47_%287117819557%29.jpg/100px-TUT-Ausstellung_FFM_2012_47_%287117819557%29.jpg" width="100" height="133" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TUT-Ausstellung_FFM_2012_47_%287117819557%29.jpg/150px-TUT-Ausstellung_FFM_2012_47_%287117819557%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TUT-Ausstellung_FFM_2012_47_%287117819557%29.jpg/200px-TUT-Ausstellung_FFM_2012_47_%287117819557%29.jpg 2x" data-file-width="1008" data-file-height="1344" /></a>
+<div class="thumbcaption" style="padding: 0.25em 0; word-wrap: break-word;">Tutankhamun's mask</div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/312" title="312">312</a> – <a href="/wiki/Civil_wars_of_the_Tetrarchy" title="Civil wars of the Tetrarchy">Civil wars of the Tetrarchy</a>: <a href="/wiki/Constantine_the_Great" title="Constantine the Great">Constantine the Great</a> defeated <a href="/wiki/Maxentius" title="Maxentius">Maxentius</a> at the <b><a href="/wiki/Battle_of_the_Milvian_Bridge" title="Battle of the Milvian Bridge">Battle of the Milvian Bridge</a></b> in Rome.</li>
+<li><a href="/wiki/1453" title="1453">1453</a> – <b><a href="/wiki/Ladislaus_the_Posthumous" title="Ladislaus the Posthumous">Ladislaus the Posthumous</a></b> was crowned <a href="/wiki/List_of_Bohemian_monarchs" title="List of Bohemian monarchs">King of Bohemia</a>, although <a href="/wiki/George_of_Pod%C4%9Bbrady" title="George of Poděbrady">George of Poděbrady</a> remained in control of the government.</li>
+<li><a href="/wiki/1919" title="1919">1919</a> – The <a href="/wiki/United_States_Congress" title="United States Congress">U.S. Congress</a> passed the <b><a href="/wiki/Volstead_Act" title="Volstead Act">Volstead Act</a></b> over President <a href="/wiki/Woodrow_Wilson" title="Woodrow Wilson">Woodrow Wilson</a>'s veto, reinforcing <a href="/wiki/Prohibition_in_the_United_States" title="Prohibition in the United States">Prohibition in the United States</a>.</li>
+<li><a href="/wiki/1925" title="1925">1925</a> – The <b><a href="/wiki/Tutankhamun%27s_mask" title="Tutankhamun's mask">funerary mask of Tutankhamun</a></b> <i>(pictured)</i>, possibly made for <a href="/wiki/Neferneferuaten" title="Neferneferuaten">Queen Nefertiti</a>, was uncovered for the first time in 3,250 years.</li>
+<li><a href="/wiki/2013" title="2013">2013</a> – The first terrorist attack in Beijing's recent history took place when three members of the <a href="/wiki/Turkistan_Islamic_Party" title="Turkistan Islamic Party">Turkistan Islamic Party</a> <b><a href="/wiki/2013_Tiananmen_Square_attack" title="2013 Tiananmen Square attack">drove a vehicle into a crowd</a></b>.</li>
+</ul>
+<p><b><a href="/wiki/Johann_Karl_August_Mus%C3%A4us" title="Johann Karl August Musäus">Johann Karl August Musäus</a></b> (d.&#160;1787)&#160;<b>·</b>  <b><a href="/wiki/Rosalie_Slaughter_Morton" title="Rosalie Slaughter Morton">Rosalie Slaughter Morton</a></b> (b.&#160;1876)&#160;<b>·</b>  <b><a href="/wiki/Bill_Gates" title="Bill Gates">Bill Gates</a></b> (b.&#160;1955)</p>
+<div style="margin-top: 0.5em;">More anniversaries:
+<div class="hlist inline nowraplinks">
+<ul>
+<li><a href="/wiki/October_27" title="October 27">October 27</a></li>
+<li><b><a href="/wiki/October_28" title="October 28">October 28</a></b></li>
+<li><a href="/wiki/October_29" title="October 29">October 29</a></li>
+</ul>
+</div>
+</div>
+<div class="otd-footer hlist noprint" style="text-align: right;">
+<ul>
+<li><b><a href="/wiki/Wikipedia:Selected_anniversaries/October" title="Wikipedia:Selected anniversaries/October">Archive</a></b></li>
+<li><b><a href="https://lists.wikimedia.org/mailman/listinfo/daily-article-l" class="extiw" title="mail:daily-article-l">By email</a></b></li>
+<li><b><a href="/wiki/List_of_historical_anniversaries" title="List of historical anniversaries">List of historical anniversaries</a></b></li>
+</ul>
+</div>
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid #C27E3A; border-width: 1px 1px 0; background: #DAAF85; color: black; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: black"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:History/Quote/9&amp;action=edit"><span style="color: black">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:black;"><span class="mw-headline" id="Selected_quote">Selected quote</span></h2>
+</div>
+<div style="border: 1px solid #C27E3A; border-top-width: 1px; vertical-align: top;background: #EEDCC8;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<blockquote class="templatequote">
+<p>What we find in books is like the fire in our hearths. We fetch it from our neighbors, we kindle it at home, we communicate it to others, and it becomes the property of all.</p>
+<div class="templatequotecite">— <cite><a href="/wiki/Voltaire" title="Voltaire">Voltaire</a>, 18th century French philosopher</cite></div>
+</blockquote>
+<table class="noprint" width="100%" border="0" style="padding: 0; margin: 0; background-color:transparent">
+<tr>
+<td>
+<div style="text-align:left;margin-bottom:0px;"><b><a href="/wiki/Portal:History/Quote" title="Portal:History/Quote">...Archive</a></b></div>
+</td>
+<td>
+<div style="text-align:right;margin-right:10px;margin-bottom:0px;">
+<p><b><span class="plainlinks"><a href="https://en.wikiquote.org/wiki/Voltaire" class="extiw" title="q:Voltaire">More...</a></span></b></p>
+</div>
+</td>
+</tr>
+</table>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid #C27E3A; border-width: 1px 1px 0; background: #DAAF85; color: black; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: black"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:History/Subportals/7&amp;action=edit"><span style="color: black">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:black;"><span class="mw-headline" id="Selected_portal">Selected portal</span></h2>
+</div>
+<div style="border: 1px solid #C27E3A; border-top-width: 1px; vertical-align: top;background: #EEDCC8;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<center>
+<p><a href="/wiki/Portal:War" title="Portal:War"><img alt="Schlacht am Weißen Berg C-K 063.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schlacht_am_Wei%C3%9Fen_Berg_C-K_063.jpg/175px-Schlacht_am_Wei%C3%9Fen_Berg_C-K_063.jpg" width="175" height="111" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schlacht_am_Wei%C3%9Fen_Berg_C-K_063.jpg/263px-Schlacht_am_Wei%C3%9Fen_Berg_C-K_063.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schlacht_am_Wei%C3%9Fen_Berg_C-K_063.jpg/350px-Schlacht_am_Wei%C3%9Fen_Berg_C-K_063.jpg 2x" data-file-width="897" data-file-height="569" /></a><br />
+<b><a href="/wiki/Portal:War" title="Portal:War">War</a></b></p>
+<div style="margin: 5px; align:center; font-size: 90%">
+<p>"War is not a pathology that, with proper hygiene and treatment, can be wholly prevented. War is a natural condition of the State, which was organized in order to be an effective instrument of violence on behalf of society. Wars are like deaths, which, while they can be postponed, will come when they will come and cannot be finally avoided."<br />
+— <a href="/wiki/Philip_Bobbitt" title="Philip Bobbitt">Philip Bobbitt</a></p>
+</div>
+</center>
+<table width="99%">
+<tr>
+<td>
+<div style="text-align:left;"><b><a href="/wiki/Portal:History/Subportals" title="Portal:History/Subportals">...Archive/Nominations</a></b></div>
+</td>
+<td>
+<div style="text-align:right;margin-right:10px;margin-bottom:0px;"><b><a href="/wiki/Portal:War" title="Portal:War">Read more...</a></b></div>
+</td>
+</tr>
+</table>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div style="clear: both; border: solid #C27E3A; border-width: 1px 1px 0; background: #DAAF85; color: black; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: black"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:History/Things_you_can_do&amp;action=edit"><span style="color: black">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:black;"><span class="mw-headline" id="Things_you_can_do">Things you can do</span></h2>
+</div>
+<div style="border: 1px solid #C27E3A; border-top-width: 1px; vertical-align: top;background: #EEDCC8;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<table>
+<tr valign="top">
+<td>
+<div class="floatright"><a href="/wiki/File:Clipboard.svg" class="image" title="NaodW29-nowiki286369b71e7b327900000001"><img alt="NaodW29-nowiki286369b71e7b327900000001" src="//upload.wikimedia.org/wikipedia/en/thumb/1/1f/Clipboard.svg/48px-Clipboard.svg.png" width="48" height="48" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/1f/Clipboard.svg/72px-Clipboard.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/1f/Clipboard.svg/96px-Clipboard.svg.png 2x" data-file-width="48" data-file-height="48" /></a></div>
+</td>
+<td style="padding-left: 5px;">
+<div style="position:relative;left:-15px;margin-right:-10px;z-index:15">&#160;&#160;&#160;Here are some <i><b><a href="/wiki/Portal:History/Things_you_can_do" title="Portal:History/Things you can do">Open Tasks</a></b></i>&#160;:
+<ul style="font-size:85%;padding:.3em 0 .3em 25px;margin:0">
+<li><b><a href="/wiki/Wikipedia:Why_Aren%27t_These_Pages_Copy-edited" class="mw-redirect" title="Wikipedia:Why Aren't These Pages Copy-edited">Copy/edit</a>:</b> <a href="/wiki/Hongwu_Emperor" title="Hongwu Emperor">Hongwu Emperor</a>, <a href="/wiki/Indian_independence_movement" title="Indian independence movement">Indian independence movement</a>, <a href="/wiki/Modern_history" title="Modern history">Modern history</a>, <i><a href="/wiki/Wikipedia:Pages_needing_attention/Social_Sciences_and_Philosophy#History" title="Wikipedia:Pages needing attention/Social Sciences and Philosophy">More...</a></i></li>
+<li><b><a href="/wiki/Wikify#wiki_markup" class="mw-redirect" title="Wikify">Wikify</a>:</b></li>
+<li><b><a href="/wiki/Wikipedia:Duplicate_articles" class="mw-redirect" title="Wikipedia:Duplicate articles">Merge</a>:</b> <i><a href="/wiki/Wikipedia:Duplicate_articles#Articles_to_be_merged" class="mw-redirect" title="Wikipedia:Duplicate articles">More...</a></i></li>
+<li><b><a href="/wiki/Wikipedia:Requested_articles" title="Wikipedia:Requested articles">Requests</a>:</b> , <i><a href="/wiki/Wikipedia:Requested_articles/Social_sciences/History" title="Wikipedia:Requested articles/Social sciences/History">More...</a></i></li>
+<li><b><a href="/wiki/Wikipedia:Find_or_fix_a_stub" class="mw-redirect" title="Wikipedia:Find or fix a stub">Stubs</a>:</b> <a href="/wiki/Panhellenic_Liberation_Movement" title="Panhellenic Liberation Movement">Panhellenic Liberation Movement</a>, <a href="/wiki/Category:History_stubs" title="Category:History stubs">More...</a></li>
+<li><b><a href="/wiki/Wikipedia:Requested_pictures" title="Wikipedia:Requested pictures">Requested pictures</a></b> - of <a href="/wiki/Category:Wikipedia_requested_photographs_of_history" title="Category:Wikipedia requested photographs of history">history topics</a></li>
+<li><b>Are you a historian,</b> i.e. one who studies and writes history, and who has a keen interest in writing outstanding articles? <b>Join</b> our fine group by adding <a href="/wiki/Category:Wikipedian_historians" title="Category:Wikipedian historians">Category:Wikipedian historians</a> to the bottom of your <a href="/wiki/User_page" class="mw-redirect" title="User page">user page</a>.</li>
+<li style="list-style: none; display: inline">
+<p><br /></p>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid #C27E3A; border-width: 1px 1px 0; background: #DAAF85; color: black; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: black"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:History/WikiProjects&amp;action=edit"><span style="color: black">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:black;"><span class="mw-headline" id="WikiProjects">WikiProjects</span></h2>
+</div>
+<div style="border: 1px solid #C27E3A; border-top-width: 1px; vertical-align: top;background: #EEDCC8;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<p><b><a href="/wiki/Wikipedia:WikiProject_History" title="Wikipedia:WikiProject History">History</a></b></p>
+<p><a href="/wiki/Wikipedia:WikiProject_Ancient_Near_East" title="Wikipedia:WikiProject Ancient Near East">Ancient Near East</a> • <a href="/wiki/Wikipedia:WikiProject_Australian_history" title="Wikipedia:WikiProject Australian history">Australian History</a> • <a href="/wiki/Wikipedia:WikiProject_Classical_Greece_and_Rome" title="Wikipedia:WikiProject Classical Greece and Rome">Classical Greece and Rome</a> • <a href="/wiki/Wikipedia:WikiProject_Dacia" title="Wikipedia:WikiProject Dacia">Dacia</a> • <a href="/wiki/Wikipedia:WikiProject_Former_countries" title="Wikipedia:WikiProject Former countries">Former countries</a> • <a href="/wiki/Wikipedia:WikiProject_History_of_Canada" title="Wikipedia:WikiProject History of Canada">History of Canada</a> • <a href="/wiki/Wikipedia:WikiProject_Chinese_history" title="Wikipedia:WikiProject Chinese history">Chinese history</a> • <a href="/wiki/Wikipedia:WikiProject_European_history" title="Wikipedia:WikiProject European history">European history</a> • <a href="/wiki/Wikipedia:WikiProject_Heraldry_and_vexillology" title="Wikipedia:WikiProject Heraldry and vexillology">Heraldry and vexillology</a> • <a href="/wiki/Wikipedia:WikiProject_Indian_history" title="Wikipedia:WikiProject Indian history">Indian history</a> • <a href="/wiki/Wikipedia:WikiProject_Jewish_history" title="Wikipedia:WikiProject Jewish history">Jewish history</a> • <a href="/wiki/Wikipedia:WikiProject_Medieval_Scotland" title="Wikipedia:WikiProject Medieval Scotland">Medieval Scotland</a> • <a href="/wiki/Wikipedia:WikiProject_Mesoamerica" title="Wikipedia:WikiProject Mesoamerica">Mesoamerica</a> • <a href="/wiki/Wikipedia:WikiProject_Military_history" title="Wikipedia:WikiProject Military history">Military history</a> • <a href="/wiki/Wikipedia:WikiProject_Middle_Ages" title="Wikipedia:WikiProject Middle Ages">Middle Ages</a> • <a href="/wiki/Wikipedia:WikiProject_History_of_Science" title="Wikipedia:WikiProject History of Science">History of Science</a></p>
+<p><b><a href="/wiki/Wikipedia:WikiProject_Time" title="Wikipedia:WikiProject Time">Time</a></b></p>
+<p><a href="/wiki/Wikipedia:WikiProject_Days_of_the_year" title="Wikipedia:WikiProject Days of the year">Days of the Year</a> • <a href="/wiki/Wikipedia:WikiProject_Years" title="Wikipedia:WikiProject Years">Years</a></p>
+<p><b><a href="/wiki/Wikipedia:WikiProject_Biography" title="Wikipedia:WikiProject Biography">Biography</a></b></p>
+<p><a href="/wiki/Wikipedia:WikiProject_Composers" title="Wikipedia:WikiProject Composers">Composers</a> • <a href="/wiki/Wikipedia:WikiProject_Biography/Politics_and_government" title="Wikipedia:WikiProject Biography/Politics and government">Political figures</a> • <a href="/wiki/Wikipedia:WikiProject_Saints" title="Wikipedia:WikiProject Saints">Saints</a> • <a href="/wiki/Wikipedia:WikiProject_United_States_Presidents" title="Wikipedia:WikiProject United States Presidents">United States Presidents</a></p>
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid #C27E3A; border-width: 1px 1px 0; background: #DAAF85; color: black; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: black">&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:black;"><span class="mw-headline" id="Topics">Topics</span></h2>
+</div>
+<div style="border: 1px solid #C27E3A; border-top-width: 1px; vertical-align: top;background: #EEDCC8;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div role="navigation" class="navbox" aria-labelledby="Social_sciences" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Social_sciences" title="Template:Social sciences"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Social_sciences" title="Template talk:Social sciences"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Social_sciences&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Social_sciences" style="font-size:114%;margin:0 4em"><a href="/wiki/Social_science" title="Social science">Social sciences</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Primary</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anthropology" title="Anthropology">Anthropology</a>
+<ul>
+<li><a href="/wiki/Archaeology" title="Archaeology">archaeology</a></li>
+<li><a href="/wiki/Cultural_anthropology" title="Cultural anthropology">cultural</a></li>
+<li><a href="/wiki/Linguistics" title="Linguistics">linguistics</a></li>
+<li><a href="/wiki/Social_anthropology" title="Social anthropology">social</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Economics" title="Economics">Economics</a>
+<ul>
+<li><a href="/wiki/Microeconomics" title="Microeconomics">microeconomics</a></li>
+<li><a href="/wiki/Macroeconomics" title="Macroeconomics">macroeconomics</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Geography" title="Geography">Geography</a>
+<ul>
+<li><a href="/wiki/Human_geography" title="Human geography">human</a></li>
+<li><a href="/wiki/Integrated_geography" title="Integrated geography">integrative</a></li>
+</ul>
+</li>
+<li><a href="/wiki/History" title="History">History</a>
+<ul>
+<li><a href="/wiki/Cultural_history" title="Cultural history">cultural</a></li>
+<li><a href="/wiki/Economic_history" title="Economic history">economic</a></li>
+<li><a href="/wiki/Political_history" title="Political history">political</a></li>
+<li><a href="/wiki/Social_history" title="Social history">social</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Law" title="Law">Law</a>
+<ul>
+<li><a href="/wiki/Jurisprudence" title="Jurisprudence">jurisprudence</a></li>
+<li><a href="/wiki/Legal_history" title="Legal history">legal history</a></li>
+<li><a href="/wiki/List_of_national_legal_systems" title="List of national legal systems">legal systems</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Political_science" title="Political science">Political science</a>
+<ul>
+<li><a href="/wiki/International_relations" title="International relations">international relations</a></li>
+<li><a href="/wiki/Psephology" title="Psephology">psephology</a></li>
+<li><a href="/wiki/Public_administration" title="Public administration">public administration</a></li>
+<li><a href="/wiki/Public_policy" title="Public policy">public policy</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Psychology" title="Psychology">Psychology</a>
+<ul>
+<li><a href="/wiki/Abnormal_psychology" title="Abnormal psychology">abnormal</a></li>
+<li><a href="/wiki/Behavioral_neuroscience" title="Behavioral neuroscience">biological</a></li>
+<li><a href="/wiki/Cognitive_psychology" title="Cognitive psychology">cognitive</a></li>
+<li><a href="/wiki/Developmental_psychology" title="Developmental psychology">developmental</a></li>
+<li><a href="/wiki/Personality_psychology" title="Personality psychology">personality</a></li>
+<li><a href="/wiki/Social_psychology" title="Social psychology">social</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Sociology" title="Sociology">Sociology</a>
+<ul>
+<li><a href="/wiki/Criminology" title="Criminology">criminology</a></li>
+<li><a href="/wiki/Demography" title="Demography">demography</a></li>
+<li><a href="/wiki/Sociology_of_the_Internet" title="Sociology of the Internet">internet</a></li>
+<li><a href="/wiki/Rural_sociology" title="Rural sociology">rural</a></li>
+<li><a href="/wiki/Urban_sociology" title="Urban sociology">urban</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Interdisciplinary</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anthrozoology" title="Anthrozoology">Anthrozoology</a></li>
+<li><a href="/wiki/Area_studies" title="Area studies">Area studies</a></li>
+<li><a href="/wiki/Business_studies" title="Business studies">Business studies</a></li>
+<li><a href="/wiki/Cognitive_science" title="Cognitive science">Cognitive science</a></li>
+<li><a href="/wiki/Communication_studies" title="Communication studies">Communication studies</a></li>
+<li><a href="/wiki/Community_studies" title="Community studies">Community studies</a></li>
+<li><a href="/wiki/Cultural_studies" title="Cultural studies">Cultural studies</a></li>
+<li><a href="/wiki/Development_studies" title="Development studies">Development studies</a></li>
+<li><a href="/wiki/Education" title="Education">Education</a></li>
+<li>Environmental (<a href="/wiki/Environmental_social_science" title="Environmental social science">social science</a></li>
+<li><a href="/wiki/Environmental_studies" title="Environmental studies">studies</a>)</li>
+<li><a href="/wiki/Food_studies" title="Food studies">Food studies</a></li>
+<li><a href="/wiki/Gender_studies" title="Gender studies">Gender studies</a></li>
+<li><a href="/wiki/Global_studies" title="Global studies">Global studies</a></li>
+<li><a href="/wiki/History_of_technology" title="History of technology">History of technology</a></li>
+<li><a href="/wiki/Human_ecology" title="Human ecology">Human ecology</a></li>
+<li><a href="/wiki/Information_science" title="Information science">Information science</a></li>
+<li><a href="/wiki/International_studies" title="International studies">International studies</a></li>
+<li><a href="/wiki/Media_studies" title="Media studies">Media studies</a></li>
+<li><a href="/wiki/Philosophy_of_science" title="Philosophy of science">Philosophy of science</a>
+<ul>
+<li><a href="/wiki/Philosophy_and_economics" title="Philosophy and economics">economics</a></li>
+<li><a href="/wiki/Philosophy_of_history" title="Philosophy of history">history</a></li>
+<li><a href="/wiki/Philosophy_of_psychology" title="Philosophy of psychology">psychology</a></li>
+<li><a href="/wiki/Philosophy_of_social_science" title="Philosophy of social science">social science</a></li>
+</ul>
+</li>
+<li>Planning
+<ul>
+<li><a href="/wiki/Land-use_planning" title="Land-use planning">land use</a></li>
+<li><a href="/wiki/Regional_planning" title="Regional planning">regional</a></li>
+<li><a href="/wiki/Urban_planning" title="Urban planning">urban</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Political_ecology" title="Political ecology">Political ecology</a></li>
+<li><a href="/wiki/Political_economy" title="Political economy">Political economy</a></li>
+<li><a href="/wiki/Public_health" title="Public health">Public health</a></li>
+<li><a href="/wiki/Regional_science" title="Regional science">Regional science</a></li>
+<li><a href="/wiki/Science,_technology_and_society" title="Science, technology and society">Science and technology studies</a></li>
+<li><a href="/wiki/Science_studies" title="Science studies">Science studies</a>
+<ul>
+<li><a href="/wiki/History_of_science" title="History of science">historical</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Social_work" title="Social work">Social work</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other categorizations</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Humanities" title="Humanities">Humanities</a></li>
+<li><i><a href="/wiki/Geisteswissenschaft" title="Geisteswissenschaft">Geisteswissenschaft</a></i></li>
+<li><a href="/wiki/Human_science" title="Human science">Human science</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Index_of_sociology_articles" title="Index of sociology articles">Index</a></li>
+<li><a href="/wiki/List_of_social_science_journals" title="List of social science journals">Journals</a></li>
+<li><a href="/wiki/Outline_of_social_science" title="Outline of social science">Outline</a></li>
+<li><a href="https://en.wikiversity.org/wiki/Portal:Social_Sciences" class="extiw" title="wikiversity:Portal:Social Sciences">Wikiversity</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Humanities" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Humanities" title="Template:Humanities"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Humanities" title="Template talk:Humanities"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Humanities&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Humanities" style="font-size:114%;margin:0 4em"><a href="/wiki/Humanities" title="Humanities">Humanities</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px;height:2.5em;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anthropology" title="Anthropology">Anthropology</a></li>
+<li><a href="/wiki/Digital_Humanities" class="mw-redirect" title="Digital Humanities">Digital Humanities</a></li>
+<li><a href="/wiki/History" title="History">History</a></li>
+<li><a href="/wiki/Law" title="Law">Law</a></li>
+<li><a href="/wiki/Literature" title="Literature">Literature</a></li>
+<li><a href="/wiki/Performing_arts" title="Performing arts">Performing arts</a></li>
+<li><a href="/wiki/Politics" title="Politics">Politics</a></li>
+<li><a href="/wiki/Philosophy" title="Philosophy">Philosophy</a></li>
+<li><a href="/wiki/Religious_studies" title="Religious studies">Religious studies</a></li>
+<li><a href="/wiki/Visual_arts" title="Visual arts">Visual arts</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Time" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Time_topics" title="Template:Time topics"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Time_topics" title="Template talk:Time topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Time_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Time" style="font-size:114%;margin:0 4em"><a href="/wiki/Time" title="Time">Time</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Key concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Past" title="Past">Past</a>
+<ul>
+<li><a href="/wiki/History" title="History">history</a></li>
+<li><a href="/wiki/Deep_time" title="Deep time">deep time</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Present" title="Present">Present</a></li>
+<li><a href="/wiki/Future" title="Future">Future</a></li>
+<li><a href="/wiki/Futures_studies" title="Futures studies">Futures studies</a></li>
+<li><a href="/wiki/Far_future_in_religion" title="Far future in religion">Far future in religion</a></li>
+<li><a href="/wiki/Far_future_in_science_fiction_and_popular_culture" title="Far future in science fiction and popular culture">Far future in science fiction and popular culture</a></li>
+<li><a href="/wiki/Timeline_of_the_far_future" title="Timeline of the far future">Timeline of the far future</a></li>
+<li><a href="/wiki/Eternity" title="Eternity">Eternity</a></li>
+<li><a href="/wiki/Eternity_of_the_world" title="Eternity of the world">Eternity of the world</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Measurement and<br />
+<a href="/wiki/Time_standard" title="Time standard">standards</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:6.5em;font-weight:normal;text-align:center;"><a href="/wiki/Chronometry" title="Chronometry">Chronometry</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a></li>
+<li><a href="/wiki/Universal_Time" title="Universal Time">UT</a></li>
+<li><a href="/wiki/International_Atomic_Time" title="International Atomic Time">TAI</a></li>
+<li><a href="/wiki/Unit_of_time" title="Unit of time">Unit of time</a></li>
+<li><a href="/wiki/Planck_time" title="Planck time">Planck time</a></li>
+<li><a href="/wiki/Second" title="Second">Second</a></li>
+<li><a href="/wiki/Minute" title="Minute">Minute</a></li>
+<li><a href="/wiki/Hour" title="Hour">Hour</a></li>
+<li><a href="/wiki/Day" title="Day">Day</a></li>
+<li><a href="/wiki/Week" title="Week">Week</a></li>
+<li><a href="/wiki/Month" title="Month">Month</a></li>
+<li><a href="/wiki/Year" title="Year">Year</a></li>
+<li><a href="/wiki/Decade" title="Decade">Decade</a></li>
+<li><a href="/wiki/Century" title="Century">Century</a></li>
+<li><a href="/wiki/Millennium" title="Millennium">Millennium</a></li>
+<li><a href="/wiki/Tropical_year" title="Tropical year">Tropical year</a></li>
+<li><a href="/wiki/Sidereal_year" title="Sidereal year">Sidereal year</a></li>
+<li><a href="/wiki/Samvatsara" title="Samvatsara">Samvatsara</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.5em;font-weight:normal;text-align:center;"><a href="/wiki/System_of_measurement" title="System of measurement">Measurement<br />
+systems</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Time_zone" title="Time zone">Time zone</a></li>
+<li><a href="/wiki/Six-hour_clock" title="Six-hour clock">Six-hour clock</a></li>
+<li><a href="/wiki/12-hour_clock" title="12-hour clock">12-hour clock</a></li>
+<li><a href="/wiki/24-hour_clock" title="24-hour clock">24-hour clock</a></li>
+<li><a href="/wiki/Daylight_saving_time" title="Daylight saving time">Daylight saving time</a></li>
+<li><a href="/wiki/Solar_time" title="Solar time">Solar time</a></li>
+<li><a href="/wiki/Sidereal_time" title="Sidereal time">Sidereal time</a></li>
+<li><a href="/wiki/Metric_time" title="Metric time">Metric time</a></li>
+<li><a href="/wiki/Decimal_time" title="Decimal time">Decimal time</a></li>
+<li><a href="/wiki/Hexadecimal_time" title="Hexadecimal time">Hexadecimal time</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.5em;font-weight:normal;text-align:center;"><a href="/wiki/Calendar" title="Calendar">Calendars</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian</a></li>
+<li><a href="/wiki/Julian_calendar" title="Julian calendar">Julian</a></li>
+<li><a href="/wiki/Hebrew_calendar" title="Hebrew calendar">Hebrew</a></li>
+<li><a href="/wiki/Islamic_calendar" title="Islamic calendar">Islamic</a></li>
+<li><a href="/wiki/Lunar_calendar" title="Lunar calendar">Lunar</a></li>
+<li><a href="/wiki/Solar_Hijri_calendar" title="Solar Hijri calendar">Solar Hijri</a></li>
+<li><a href="/wiki/Maya_calendar" title="Maya calendar">Mayan</a></li>
+<li><a href="/wiki/Intercalation_(timekeeping)" title="Intercalation (timekeeping)">Intercalation</a></li>
+<li><a href="/wiki/Leap_second" title="Leap second">Leap second</a></li>
+<li><a href="/wiki/Leap_year" title="Leap year">Leap year</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Clock" title="Clock">Clocks</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Horology" title="Horology">Horology</a></li>
+<li><a href="/wiki/History_of_timekeeping_devices" title="History of timekeeping devices">History of timekeeping devices</a></li>
+<li><a href="/wiki/Clock#Time-measuring_devices" title="Clock">Main types</a>
+<ul>
+<li><a href="/wiki/Astrarium" title="Astrarium">astrarium</a></li>
+<li><a href="/wiki/Atomic_clock" title="Atomic clock">atomic</a>
+<ul>
+<li><a href="/wiki/Quantum_clock" title="Quantum clock">quantum</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Marine_chronometer" title="Marine chronometer">marine</a></li>
+<li><a href="/wiki/Sundial" title="Sundial">sundial</a></li>
+<li><a href="/wiki/Schema_for_horizontal_dials" title="Schema for horizontal dials">sundial markup schema</a></li>
+<li><a href="/wiki/Watch" title="Watch">watch</a></li>
+<li><a href="/wiki/Water_clock" title="Water clock">water-based</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">
+<div class="hlist hlist-separated">
+<ul style="line-height:1.2em;">
+<li><a href="/wiki/Chronology" title="Chronology">Chronology</a></li>
+<li>History</li>
+</ul>
+</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Astronomical_chronology" title="Astronomical chronology">Astronomical chronology</a></li>
+<li><a href="/wiki/Big_History" title="Big History">Big History</a></li>
+<li><a href="/wiki/Calendar_era" title="Calendar era">Calendar era</a></li>
+<li><a href="/wiki/Chronicle" title="Chronicle">Chronicle</a></li>
+<li><a href="/wiki/Deep_time" title="Deep time">Deep time</a></li>
+<li><a href="/wiki/Template:Human_timeline" title="Template:Human timeline">Human timeline</a></li>
+<li><a href="/wiki/Template:Life_timeline" title="Template:Life timeline">Life timeline</a></li>
+<li><a href="/wiki/Template:Nature_timeline" title="Template:Nature timeline">Nature timeline</a></li>
+<li><a href="/wiki/Periodization" title="Periodization">Periodization</a></li>
+<li><a href="/wiki/Regnal_year" title="Regnal year">Regnal year</a></li>
+<li><a href="/wiki/Timeline" title="Timeline">Timeline</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">
+<div class="hlist hlist-separated">
+<ul style="line-height:1.2em;">
+<li><a href="/wiki/Category:Time_in_religion" title="Category:Time in religion">Religion</a></li>
+<li>Mythology</li>
+</ul>
+</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dreamtime" title="Dreamtime">Dreamtime</a></li>
+<li><a href="/wiki/K%C4%81la_(time)" title="Kāla (time)">Kāla</a></li>
+<li><a href="/wiki/Kalachakra" title="Kalachakra">Kalachakra</a></li>
+<li><a href="/wiki/Prophecy" title="Prophecy">Prophecy</a></li>
+<li><a href="/wiki/Time_and_fate_deities" title="Time and fate deities">Time and fate deities</a></li>
+<li><a href="/wiki/Wheel_of_time" title="Wheel of time">Wheel of time</a></li>
+<li><a href="/wiki/Immortality" title="Immortality">Immortality</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Philosophy_of_space_and_time" title="Philosophy of space and time">Philosophy of time</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/A-series_and_B-series" title="A-series and B-series">A-series and B-series</a></li>
+<li><a href="/wiki/B-theory_of_time" title="B-theory of time">B-theory of time</a></li>
+<li><a href="/wiki/Causality" title="Causality">Causality</a></li>
+<li><a href="/wiki/Duration_(philosophy)" title="Duration (philosophy)">Duration</a></li>
+<li><a href="/wiki/Endurantism" title="Endurantism">Endurantism</a></li>
+<li><a href="/wiki/Eternal_return" title="Eternal return">Eternal return</a></li>
+<li><a href="/wiki/Eternalism_(philosophy_of_time)" title="Eternalism (philosophy of time)">Eternalism</a></li>
+<li><a href="/wiki/Event_(philosophy)" title="Event (philosophy)">Event</a></li>
+<li><a href="/wiki/Perdurantism" title="Perdurantism">Perdurantism</a></li>
+<li><a href="/wiki/Philosophical_presentism" title="Philosophical presentism">Presentism</a></li>
+<li><a href="/wiki/Static_interpretation_of_time" title="Static interpretation of time">Static interpretation of time</a></li>
+<li><a href="/wiki/Temporal_finitism" title="Temporal finitism">Temporal finitism</a></li>
+<li><a href="/wiki/Temporal_parts" title="Temporal parts">Temporal parts</a></li>
+<li><i><a href="/wiki/The_Unreality_of_Time" title="The Unreality of Time">The Unreality of Time</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Human experience<br />
+and use of time</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Accounting_period" title="Accounting period">Accounting period</a></li>
+<li><a href="/wiki/Chronemics" title="Chronemics">Chronemics</a></li>
+<li><a href="/wiki/Fiscal_year" title="Fiscal year">Fiscal year</a></li>
+<li><a href="/wiki/Generation_time" title="Generation time">Generation time</a></li>
+<li><a href="/wiki/Mental_chronometry" title="Mental chronometry">Mental chronometry</a></li>
+<li><a href="/wiki/Duration_(music)" title="Duration (music)">Music</a></li>
+<li><a href="/wiki/Procrastination" title="Procrastination">Procrastination</a></li>
+<li><a href="/wiki/Punctuality" title="Punctuality">Punctuality</a></li>
+<li><a href="/wiki/Temporal_database" title="Temporal database">Temporal database</a></li>
+<li><a href="/wiki/Term_(time)" title="Term (time)">Term</a></li>
+<li><a href="/wiki/Time_discipline" title="Time discipline">Time discipline</a></li>
+<li><a href="/wiki/Time_management" title="Time management">Time management</a></li>
+<li><a href="/wiki/Time_perception" title="Time perception">Time perception</a>
+<ul>
+<li><a href="/wiki/Specious_present" title="Specious present">Specious present</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Time-tracking_software" title="Time-tracking software">Time-tracking software</a></li>
+<li><a href="/wiki/Time-use_research" title="Time-use research">Time-use research</a></li>
+<li><a href="/wiki/Time-based_currency" title="Time-based currency">Time-based currency (time banking)</a></li>
+<li><a href="/wiki/Time_value_of_money" title="Time value of money">Time value of money</a></li>
+<li><a href="/wiki/Time_clock" title="Time clock">Time clock</a></li>
+<li><a href="/wiki/Timesheet" title="Timesheet">Timesheet</a></li>
+<li><a href="/wiki/Yesterday_(time)" title="Yesterday (time)">Yesterday</a> – <a href="/wiki/Present" title="Present">Today</a> – <a href="/wiki/Tomorrow_(time)" title="Tomorrow (time)">Tomorrow</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Time in</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:6.5em;font-weight:normal;text-align:center;"><a href="/wiki/Geology" title="Geology">Geology</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Geologic_time_scale" title="Geologic time scale">Geological time</a>
+<ul>
+<li><a href="/wiki/Age_(geology)" title="Age (geology)">age</a></li>
+<li><a href="/wiki/Chronozone" title="Chronozone">chron</a></li>
+<li><a href="/wiki/Eon_(geology)" class="mw-redirect" title="Eon (geology)">eon</a></li>
+<li><a href="/wiki/Epoch_(geology)" title="Epoch (geology)">epoch</a></li>
+<li><a href="/wiki/Era_(geology)" title="Era (geology)">era</a></li>
+<li><a href="/wiki/Period_(geology)" title="Period (geology)">period</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Geochronology" title="Geochronology">Geochronology</a></li>
+<li><a href="/wiki/Geological_history_of_Earth" title="Geological history of Earth">Geological history of Earth</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.5em;font-weight:normal;text-align:center;"><a href="/wiki/Time_in_physics" title="Time in physics">Physics</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Absolute_space_and_time" title="Absolute space and time">Absolute time and space</a></li>
+<li><a href="/wiki/Arrow_of_time" title="Arrow of time">Arrow of time</a></li>
+<li><a href="/wiki/Chronon" title="Chronon">Chronon</a></li>
+<li><a href="/wiki/Coordinate_time" title="Coordinate time">Coordinate time</a></li>
+<li><a href="/wiki/Imaginary_time" title="Imaginary time">Imaginary time</a></li>
+<li><a href="/wiki/Planck_epoch" class="mw-redirect" title="Planck epoch">Planck epoch</a></li>
+<li><a href="/wiki/Planck_time" title="Planck time">Planck time</a></li>
+<li><a href="/wiki/Proper_time" title="Proper time">Proper time</a></li>
+<li><a href="/wiki/Rate_(mathematics)" title="Rate (mathematics)">Rate</a></li>
+<li><a href="/wiki/Spacetime" title="Spacetime">Spacetime</a></li>
+<li><a href="/wiki/Theory_of_relativity" title="Theory of relativity">Theory of relativity</a></li>
+<li><a href="/wiki/Time_dilation" title="Time dilation">Time dilation</a>
+<ul>
+<li><a href="/wiki/Gravitational_time_dilation" title="Gravitational time dilation">gravitational</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Time_domain" title="Time domain">Time domain</a></li>
+<li><a href="/wiki/Time_translation_symmetry" title="Time translation symmetry">Time translation symmetry</a></li>
+<li><a href="/wiki/T-symmetry" title="T-symmetry">Time reversal symmetry</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.5em;font-weight:normal;text-align:center;">other subject<br />
+areas</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chronological_dating" title="Chronological dating">Chronological dating</a></li>
+<li><a href="/wiki/Chronobiology" title="Chronobiology">Chronobiology</a></li>
+<li><a href="/wiki/Circadian_rhythm" title="Circadian rhythm">Circadian rhythms</a></li>
+<li><a href="/wiki/Dating_methodologies_in_archaeology" class="mw-redirect" title="Dating methodologies in archaeology">Dating methodologies in archaeology</a></li>
+<li><a href="/wiki/Time_geography" title="Time geography">Time geography</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Related topics</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Carpe_diem" title="Carpe diem">Carpe diem</a></i></li>
+<li><a href="/wiki/Clock_position" title="Clock position">Clock position</a></li>
+<li><a href="/wiki/Space" title="Space">Space</a></li>
+<li><a href="/wiki/System_time" title="System time">System time</a></li>
+<li><i><a href="/wiki/Tempus_fugit" title="Tempus fugit">Tempus fugit</a></i></li>
+<li><a href="/wiki/Time_capsule" title="Time capsule">Time capsule</a></li>
+<li><a href="/wiki/Time_complexity" title="Time complexity">Time complexity</a></li>
+<li><a href="/wiki/Time_signature" title="Time signature">Time signature</a></li>
+<li><a href="/wiki/Time_travel" title="Time travel">Time travel</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><b><a href="/wiki/File:MontreGousset001.jpg" class="image"><img alt="MontreGousset001.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/MontreGousset001.jpg/16px-MontreGousset001.jpg" width="16" height="14" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/MontreGousset001.jpg/24px-MontreGousset001.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/MontreGousset001.jpg/32px-MontreGousset001.jpg 2x" data-file-width="800" data-file-height="697" /></a> <a href="/wiki/Portal:Time" title="Portal:Time">Time portal</a></b></div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Chronology" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background:#dd9;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Chronology" title="Template:Chronology"><abbr title="View this template" style=";background:#dd9;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Chronology" title="Template talk:Chronology"><abbr title="Discuss this template" style=";background:#dd9;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Chronology&amp;action=edit"><abbr title="Edit this template" style=";background:#dd9;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Chronology" style="font-size:114%;margin:0 4em"><a href="/wiki/Chronology" title="Chronology">Chronology</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;line-height:1.2em;background:#cc9;">Key topics</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Archaeology" title="Archaeology">Archaeology</a></li>
+<li><a href="/wiki/Astronomy" title="Astronomy">Astronomy</a></li>
+<li><a href="/wiki/Geology" title="Geology">Geology</a></li>
+<li><a href="/wiki/History" title="History">History</a></li>
+<li><a href="/wiki/Paleontology" title="Paleontology">Paleontology</a></li>
+<li><a href="/wiki/Time" title="Time">Time</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;line-height:1.2em;background:#cc9;">
+<div class="hlist hlist-separated">
+<ul>
+<li><a href="/wiki/Era" title="Era">Eras</a></li>
+<li><a href="/wiki/Epoch_(reference_date)" title="Epoch (reference date)">Epochs</a></li>
+</ul>
+</div>
+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:8.0em;font-weight:normal;background:#cc9;"><a href="/wiki/Calendar_era" title="Calendar era">Calendar eras</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Holocene_calendar" title="Holocene calendar">Human Era</a></li>
+<li><i><a href="/wiki/Ab_urbe_condita" title="Ab urbe condita">Ab urbe condita</a></i></li>
+<li><a href="/wiki/Anno_Domini" title="Anno Domini">Anno Domini</a>&#160;/ <a href="/wiki/Common_Era" title="Common Era">Common Era</a></li>
+<li><a href="/wiki/Anno_Mundi" title="Anno Mundi">Anno Mundi</a></li>
+<li><a href="/wiki/Byzantine_calendar" title="Byzantine calendar">Byzantine era</a></li>
+<li><a href="/wiki/Seleucid_era" title="Seleucid era">Seleucid era</a></li>
+<li><a href="/wiki/Spanish_era" title="Spanish era">Spanish era</a></li>
+<li><a href="/wiki/Before_Present" title="Before Present">Before Present</a></li>
+<li><a href="/wiki/Islamic_calendar" title="Islamic calendar">Hijri</a></li>
+<li><a href="/wiki/Egyptian_chronology" title="Egyptian chronology">Egyptian</a></li>
+<li><a href="/wiki/Sothic_cycle" title="Sothic cycle">Sothic cycle</a></li>
+<li><a href="/wiki/Hindu_units_of_time" title="Hindu units of time">Hindu units of time</a> (<a href="/wiki/Yuga" title="Yuga">Yuga</a>)</li>
+<li><a href="/wiki/Mesoamerican_calendars" title="Mesoamerican calendars">Mesoamerican</a>
+<ul>
+<li><a href="/wiki/Mesoamerican_Long_Count_calendar" title="Mesoamerican Long Count calendar">Long Count</a></li>
+<li><a href="/wiki/Maya_calendar#Short_Count" title="Maya calendar">Short Count</a></li>
+<li><a href="/wiki/Tzolk%27in" title="Tzolk'in">Tzolk'in</a></li>
+<li><a href="/wiki/Haab%27" title="Haab'">Haab'</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:8.0em;font-weight:normal;background:#cc9;"><a href="/wiki/Regnal_year" title="Regnal year">Regnal year</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Canon_of_Kings" title="Canon of Kings">Canon of Kings</a></li>
+<li><a href="/wiki/Category:King_lists" title="Category:King lists">Lists of kings</a></li>
+<li><a href="/wiki/Limmu" title="Limmu">Limmu</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:8.0em;font-weight:normal;background:#cc9;"><a href="/wiki/Regnal_year" title="Regnal year">Era names</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chinese_era_name" title="Chinese era name">Chinese</a></li>
+<li><a href="/wiki/Japanese_era_name" title="Japanese era name">Japanese</a></li>
+<li><a href="/wiki/Korean_era_name" title="Korean era name">Korean</a></li>
+<li><a href="/wiki/Vietnamese_era_name" title="Vietnamese era name">Vietnamese</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;line-height:1.2em;background:#cc9;"><a href="/wiki/Calendar" title="Calendar">Calendars</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:8.0em;font-weight:normal;background:#cc9;">Pre-Julian&#160;/ Julian</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Roman_calendar" title="Roman calendar">Pre-Julian Roman</a></li>
+<li><a href="/wiki/Julian_calendar" title="Julian calendar">Original Julian</a></li>
+<li><a href="/wiki/Proleptic_Julian_calendar" title="Proleptic Julian calendar">Proleptic Julian</a></li>
+<li><a href="/wiki/Revised_Julian_calendar" title="Revised Julian calendar">Revised Julian</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:8.0em;font-weight:normal;background:#cc9;">Gregorian</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian</a></li>
+<li><a href="/wiki/Proleptic_Gregorian_calendar" title="Proleptic Gregorian calendar">Proleptic Gregorian</a></li>
+<li><a href="/wiki/Old_Style_and_New_Style_dates" title="Old Style and New Style dates">Old Style and New Style dates</a></li>
+<li><a href="/wiki/Adoption_of_the_Gregorian_calendar" title="Adoption of the Gregorian calendar">Adoption of the Gregorian calendar</a></li>
+<li><a href="/wiki/Dual_dating" title="Dual dating">Dual dating</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:8.0em;font-weight:normal;background:#cc9;">Astronomical</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lunisolar_calendar" title="Lunisolar calendar">Lunisolar</a></li>
+<li><a href="/wiki/Solar_calendar" title="Solar calendar">Solar</a></li>
+<li><a href="/wiki/Lunar_calendar" title="Lunar calendar">Lunar</a></li>
+<li><a href="/wiki/Astronomical_year_numbering" title="Astronomical year numbering">Astronomical year numbering</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:8.0em;font-weight:normal;background:#cc9;">Others</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chinese_sexagenary_cycle" class="mw-redirect" title="Chinese sexagenary cycle">Chinese sexagenary cycle</a></li>
+<li><a href="/wiki/Geologic_Calendar" title="Geologic Calendar">Geologic Calendar</a></li>
+<li><a href="/wiki/Hebrew_calendar" title="Hebrew calendar">Hebrew</a></li>
+<li><a href="/wiki/Iranian_calendars" title="Iranian calendars">Iranian</a></li>
+<li><a href="/wiki/Islamic_calendar" title="Islamic calendar">Islamic</a></li>
+<li><a href="/wiki/ISO_week_date" title="ISO week date">ISO week date</a></li>
+<li><a href="/wiki/Mesoamerican_calendars" title="Mesoamerican calendars">Mesoamerican</a>
+<ul>
+<li><a href="/wiki/Maya_calendar" title="Maya calendar">Maya</a></li>
+<li><a href="/wiki/Aztec_calendar" title="Aztec calendar">Aztec</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Winter_count" title="Winter count">Winter count</a> (Plains Indians)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;line-height:1.2em;background:#cc9;"><a href="/wiki/Astronomical_chronology" title="Astronomical chronology">Astronomic time</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:#fff;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cosmic_Calendar" title="Cosmic Calendar">Cosmic Calendar</a></li>
+<li><a href="/wiki/Ephemeris" title="Ephemeris">Ephemeris</a></li>
+<li><a href="/wiki/Galactic_year" title="Galactic year">Galactic year</a></li>
+<li><a href="/wiki/Metonic_cycle" title="Metonic cycle">Metonic cycle</a></li>
+<li><a href="/wiki/Milankovitch_cycles" title="Milankovitch cycles">Milankovitch cycles</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;line-height:1.2em;background:#cc9;"><a href="/wiki/Geologic_time_scale" title="Geologic time scale">Geologic time</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:8.0em;font-weight:normal;background:#cc9;">Concepts</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Deep_time" title="Deep time">Deep time</a></li>
+<li><a href="/wiki/Geological_history_of_Earth" title="Geological history of Earth">Geological history of Earth</a></li>
+<li><a href="/wiki/Geologic_time_scale#Terminology" title="Geologic time scale">Geological time units</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:8.0em;font-weight:normal;background:#cc9;">Standards</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Global_Standard_Stratigraphic_Age" title="Global Standard Stratigraphic Age">Global Standard Stratigraphic Age (GSSA)</a></li>
+<li><a href="/wiki/Global_Boundary_Stratotype_Section_and_Point" title="Global Boundary Stratotype Section and Point">Global Boundary Stratotype Section and Point (GSSP)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:8.0em;font-weight:normal;background:#cc9;">Methods</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chronostratigraphy" title="Chronostratigraphy">Chronostratigraphy</a></li>
+<li><a href="/wiki/Geochronology" title="Geochronology">Geochronology</a></li>
+<li><a href="/wiki/Isotope_geochemistry" title="Isotope geochemistry">Isotope geochemistry</a></li>
+<li><a href="/wiki/Law_of_superposition" title="Law of superposition">Law of superposition</a></li>
+<li><a href="/wiki/Luminescence_dating" title="Luminescence dating">Luminescence dating</a></li>
+<li><a href="/wiki/Samarium%E2%80%93neodymium_dating" title="Samarium–neodymium dating">Samarium–neodymium dating</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;line-height:1.2em;background:#cc9;"><a href="/wiki/Chronological_dating" title="Chronological dating">Chronological<br />
+dating</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:8.0em;font-weight:normal;background:#cc9;"><a href="/wiki/Absolute_dating" title="Absolute dating">Absolute dating</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Amino_acid_dating" title="Amino acid dating">Amino acid racemisation</a></li>
+<li><a href="/wiki/Archaeomagnetic_dating" title="Archaeomagnetic dating">Archaeomagnetic dating</a></li>
+<li><a href="/wiki/Dendrochronology" title="Dendrochronology">Dendrochronology</a></li>
 <li><a href="/wiki/Ice_core" title="Ice core">Ice core</a></li>
-<li><a href="/wiki/Superliner_(railcar)" title="Superliner (railcar)">Superliner (railcar)</a></li>
-<li>"<a href="/wiki/Watching_the_River_Flow" title="Watching the River Flow">Watching the River Flow</a>"</li>
-<li>"<a href="/wiki/Paradises_Lost" title="Paradises Lost">Paradises Lost</a>"</li>
-<li><i><a href="/wiki/Commander_Keen_in_Invasion_of_the_Vorticons" title="Commander Keen in Invasion of the Vorticons">Commander Keen in Invasion of the Vorticons</a></i></li>
-<li><a href="/wiki/Roland_TR-808" title="Roland TR-808">Roland TR-808</a></li>
-<li><a href="/wiki/Marcel_Lihau" title="Marcel Lihau">Marcel Lihau</a></li>
-<li>"<a href="/wiki/Barge_of_the_Dead" title="Barge of the Dead">Barge of the Dead</a>"</li>
-<li><a href="/wiki/Chartwell" title="Chartwell">Chartwell</a></li>
-</ul>
-</div>
-<div style="float:left; box-sizing:border-box; margin:0.2em 0; width:50%; border-left:1px solid #FFFFFF; border-right:1px solid #FFFFFF; padding:0.1em; background-color:#F2FFE6">
-<div style="margin:-0.1em -0.1em 0.1em; border-bottom:2px solid #FFFFFF; padding:0.1em; background-color:#E0F2CE; text-align:center; font-weight:bold"><a href="/wiki/Wikipedia:Featured_topics" title="Wikipedia:Featured topics">Topics</a></div>
+<li><a href="/wiki/Incremental_dating" title="Incremental dating">Incremental dating</a></li>
+<li><a href="/wiki/Lichenometry" title="Lichenometry">Lichenometry</a></li>
+<li><a href="/wiki/Paleomagnetism" title="Paleomagnetism">Paleomagnetism</a></li>
+<li><a href="/wiki/Radiometric_dating" title="Radiometric dating">Radiometric dating</a>
 <ul>
-<li><a href="/wiki/Wikipedia:Featured_topics/Current_Consejo_Mundial_de_Lucha_Libre_championships" title="Wikipedia:Featured topics/Current Consejo Mundial de Lucha Libre championships">Current Consejo Mundial de Lucha Libre championships</a></li>
-<li><a href="/wiki/Wikipedia:Featured_topics/Emma_Stone" title="Wikipedia:Featured topics/Emma Stone">Emma Stone</a></li>
-<li><a href="/wiki/Wikipedia:Featured_topics/Battlecruisers_of_the_Royal_Navy" title="Wikipedia:Featured topics/Battlecruisers of the Royal Navy">Battlecruisers of the Royal Navy</a></li>
-<li><a href="/wiki/Wikipedia:Featured_topics/Russell_family_(Passions)" title="Wikipedia:Featured topics/Russell family (Passions)">Russell family (<i>Passions</i>)</a></li>
-<li><a href="/wiki/Wikipedia:Featured_topics/Interstate_Highways_in_Michigan" title="Wikipedia:Featured topics/Interstate Highways in Michigan">Interstate Highways in Michigan</a></li>
-<li><a href="/wiki/Wikipedia:Featured_topics/United_States_presidential_election,_1880" title="Wikipedia:Featured topics/United States presidential election, 1880">United States presidential election, 1880</a></li>
-<li><a href="/wiki/Wikipedia:Featured_topics/2012_Tour_de_France" title="Wikipedia:Featured topics/2012 Tour de France">2012 Tour de France</a></li>
-<li><a href="/wiki/Wikipedia:Featured_topics/Bradley_Cooper" title="Wikipedia:Featured topics/Bradley Cooper">Bradley Cooper</a></li>
-<li><a href="/wiki/Wikipedia:Featured_topics/Overview_of_Lady_Gaga" title="Wikipedia:Featured topics/Overview of Lady Gaga">Overview of Lady Gaga</a></li>
-<li><a href="/wiki/Wikipedia:Featured_topics/U.S._Highways_in_Michigan" title="Wikipedia:Featured topics/U.S. Highways in Michigan">U.S. Highways in Michigan</a></li>
-<li><a href="/wiki/Wikipedia:Featured_topics/World_Fantasy_Award" title="Wikipedia:Featured topics/World Fantasy Award">World Fantasy Award</a></li>
-<li><a href="/wiki/Wikipedia:Featured_topics/Overview_of_Katy_Perry" title="Wikipedia:Featured topics/Overview of Katy Perry">Overview of Katy Perry</a></li>
-<li><a href="/wiki/Wikipedia:Featured_topics/2015_Vuelta_a_Espa%C3%B1a" title="Wikipedia:Featured topics/2015 Vuelta a España">2015 Vuelta a España</a></li>
-<li><a href="/wiki/Wikipedia:Featured_topics/Final_Fantasy_series" title="Wikipedia:Featured topics/Final Fantasy series"><i>Final Fantasy</i> series</a></li>
-<li><a href="/wiki/Wikipedia:Featured_topics/1961_Atlantic_hurricane_season" title="Wikipedia:Featured topics/1961 Atlantic hurricane season">1961 Atlantic hurricane season</a></li>
-</ul>
-</div>
-<div style="float:left; box-sizing:border-box; margin:0.2em 0; width:50%; border-left:1px solid #FFFFFF; border-right:1px solid #FFFFFF; padding:0.1em; background-color:#FFFAF5">
-<div style="margin:-0.1em -0.1em 0.1em; border-bottom:2px solid #FFFFFF; padding:0.1em; background-color:#FFF2E6; text-align:center; font-weight:bold"><a href="/wiki/Wikipedia:Featured_lists" title="Wikipedia:Featured lists">Lists</a></div>
-<ul>
-<li><a href="/wiki/England_cricket_team_Test_results_(1920%E2%80%931939)" title="England cricket team Test results (1920–1939)">England cricket team Test results (1920–1939)</a></li>
-<li><a href="/wiki/Tove_Lo_discography" title="Tove Lo discography">Tove Lo discography</a></li>
-<li><a href="/wiki/Trans-Tasman_Trophy" title="Trans-Tasman Trophy">Trans-Tasman Trophy</a></li>
-<li><a href="/wiki/List_of_international_cricket_five-wicket_hauls_by_Danish_Kaneria" title="List of international cricket five-wicket hauls by Danish Kaneria">International cricket five-wicket hauls by Danish Kaneria</a></li>
-<li><a href="/wiki/Oh_Land_discography" title="Oh Land discography">Oh Land discography</a></li>
-<li><a href="/wiki/List_of_international_goals_scored_by_Clint_Dempsey" title="List of international goals scored by Clint Dempsey">International goals scored by Clint Dempsey</a></li>
-<li><a href="/wiki/List_of_people_executed_by_lethal_injection" title="List of people executed by lethal injection">People executed by lethal injection</a></li>
-<li><a href="/wiki/Jared_Leto_filmography" title="Jared Leto filmography">Jared Leto filmography</a></li>
-<li><a href="/wiki/List_of_awards_and_nominations_received_by_Inna" title="List of awards and nominations received by Inna">Awards and nominations received by Inna</a></li>
-<li><a href="/wiki/Associated_Press_NFL_Offensive_Player_of_the_Year_Award" title="Associated Press NFL Offensive Player of the Year Award">Associated Press NFL Offensive Player of the Year Award</a></li>
-<li><a href="/wiki/Walter_Lawrence_Trophy" title="Walter Lawrence Trophy">Walter Lawrence Trophy</a></li>
-<li><a href="/wiki/Margaret_discography" title="Margaret discography">Margaret discography</a></li>
-<li><a href="/wiki/List_of_Enix_games" title="List of Enix games">Enix games</a></li>
-<li><a href="/wiki/List_of_cities_in_Nevada" title="List of cities in Nevada">Cities in Nevada</a></li>
-<li><a href="/wiki/List_of_accolades_received_by_Zootopia" title="List of accolades received by Zootopia">Accolades received by <i>Zootopia</i></a></li>
-</ul>
-</div>
-<div style="float:left; box-sizing:border-box; margin:0.2em 0; width:50%; border-left:1px solid #FFFFFF; border-right:1px solid #FFFFFF; padding:0.1em; background-color:#FAF5FF">
-<div style="margin:-0.1em -0.1em 0.1em; border-bottom:2px solid #FFFFFF; padding:0.1em; background-color:#F2E6FF; text-align:center; font-weight:bold"><a href="/wiki/Wikipedia:Featured_pictures" title="Wikipedia:Featured pictures">Pictures</a></div>
-<ul>
-<li><a href="/wiki/File:Photograph_of_Members_of_the_Mochida_Family_Awaiting_Evacuation_-_NARA_-_537505_-_Restoration.jpg" title="File:Photograph of Members of the Mochida Family Awaiting Evacuation - NARA - 537505 - Restoration.jpg">Mochida family</a></li>
-<li><a href="/wiki/File:Yellow-billed_shrike_(Corvinella_corvina_corvina).jpg" title="File:Yellow-billed shrike (Corvinella corvina corvina).jpg">Yellow-billed shrike</a></li>
-<li><a href="/wiki/File:Black-headed_lapwing_(Vanellus_tectus_tectus).jpg" title="File:Black-headed lapwing (Vanellus tectus tectus).jpg">Black-headed lapwing</a></li>
-<li><a href="/wiki/File:Cuban_green_woodpecker_(Xiphidiopicus_percussus_percussus)_female.JPG" title="File:Cuban green woodpecker (Xiphidiopicus percussus percussus) female.JPG">Cuban green woodpecker</a></li>
-<li><a href="/wiki/File:Pied-winged_swallow_(Hirundo_leucosoma).jpg" title="File:Pied-winged swallow (Hirundo leucosoma).jpg">Pied-winged swallow</a></li>
-<li><a href="/wiki/File:Jan_van_Eyck_-_Lucca_Madonna_-_Google_Art_Project.jpg" title="File:Jan van Eyck - Lucca Madonna - Google Art Project.jpg"><i>Lucca Madonna</i></a></li>
-<li><a href="/wiki/File:Reine_at_Reinefjorden,_2010_September.jpg" title="File:Reine at Reinefjorden, 2010 September.jpg">Reine</a></li>
-<li><a href="/wiki/File:Wat_Phra_Kaew_by_Ninara_TSP_edit_crop.jpg" title="File:Wat Phra Kaew by Ninara TSP edit crop.jpg">Wat Phra Kaew</a></li>
-<li><a href="/wiki/File:Ermina_Zaenah,_three-quarter_portrait_(c_1960)_-_restored_(without_name).jpg" title="File:Ermina Zaenah, three-quarter portrait (c 1960) - restored (without name).jpg">Ermina Zaenah</a></li>
-<li><a href="/wiki/File:White_peacock_(Anartia_jatrophae_jatrophae)_underside.JPG" title="File:White peacock (Anartia jatrophae jatrophae) underside.JPG"><i>Anartia jatrophae</i></a></li>
-<li><a href="/wiki/File:Rufous-tailed_flycatcher_(Myiarchus_validus).JPG" title="File:Rufous-tailed flycatcher (Myiarchus validus).JPG">Rufous-tailed flycatcher</a></li>
-<li><a href="/wiki/File:LarsenC_photo_2016315_lrg.jpg" title="File:LarsenC photo 2016315 lrg.jpg">Rift in Larsen C</a></li>
-<li><a href="/wiki/File:Saltwater_Limpet_Diagram-en.svg" title="File:Saltwater Limpet Diagram-en.svg">Anatomical diagram of a limpet</a></li>
-<li><a href="/wiki/File:Bare-faced_curassow_(Crax_fasciolata)_female_head.JPG" title="File:Bare-faced curassow (Crax fasciolata) female head.JPG">Bare-faced curassow</a></li>
-<li><a href="/wiki/File:Lang%27s_short_tail_blue_(Leptotes_pirithous)_male_underside.jpg" title="File:Lang's short tail blue (Leptotes pirithous) male underside.jpg"><i>Leptotes pirithous</i></a></li>
-</ul>
-</div>
-</div>
-<h2><span class="mw-headline" id="Featured_content_procedures">Featured content procedures</span></h2>
-<div style="text-align: center; list-style-position: inside;">
-<ul>
-<li><a href="/wiki/Special:RecentChangesLinked/Portal:Featured_content/Pages" title="Special:RecentChangesLinked/Portal:Featured content/Pages">Recent changes impacting this page</a></li>
-<li><a href="/wiki/Special:RecentChangesLinked/Portal:Featured_content/Updates" title="Special:RecentChangesLinked/Portal:Featured content/Updates">Recent updates to the featured status pages</a></li>
-<li><a href="/wiki/Wikipedia:Today%27s_featured_article/requests" title="Wikipedia:Today's featured article/requests">Wikipedia:Today's featured article/requests</a></li>
-<li><a href="/wiki/Category:Wikipedia_featured_content" title="Category:Wikipedia featured content">Category:Wikipedia featured content</a></li>
-</ul>
-</div>
-</div>
-<div class="reflist" style="list-style-type: decimal;"></div>
-<div role="navigation" aria-labelledby="contents-footer-label" id="contents-footer" class="hlist plainlinks selfreference noprint" style="font-size:88%; margin-top:5px; border:1px solid #B8C7D9; background-color:#E6F2FF; padding:1em; text-align:center">
-<div id="contents-footer-label" style="font-size:140%"><a href="/wiki/Portal:Contents" title="Portal:Contents">Content listings</a></div>
-<div style="font-size:105%; font-weight:bold">Types</div>
-<div>
-<ul>
-<li><a href="/wiki/Portal:Contents/Overviews" title="Portal:Contents/Overviews">Overviews</a></li>
-<li><a class="mw-selflink selflink">Featured content</a></li>
-<li><a href="/wiki/Portal:Contents/Outlines" title="Portal:Contents/Outlines">Outlines</a></li>
-<li><a href="/wiki/Portal:Contents/Lists" title="Portal:Contents/Lists">Lists</a></li>
-<li><a href="/wiki/Portal:Contents/Portals" title="Portal:Contents/Portals">Portals</a></li>
-<li><a href="/wiki/Portal:Contents/Glossaries" title="Portal:Contents/Glossaries">Glossaries</a></li>
-<li><a href="/wiki/Portal:Contents/Categories" title="Portal:Contents/Categories">Categories</a></li>
-<li><a href="/wiki/Portal:Contents/Indices" title="Portal:Contents/Indices">Indices</a></li>
-</ul>
-</div>
-<div>
-<div style="font-size:105%; font-weight:bold">Topics</div>
-<ul>
-<li><a href="/wiki/Portal:Current_events" title="Portal:Current events">Current events</a></li>
-<li><a href="/wiki/Portal:Contents/Reference" title="Portal:Contents/Reference">Reference</a></li>
-<li><a href="/wiki/Portal:Contents/Culture_and_the_arts" title="Portal:Contents/Culture and the arts">Culture</a></li>
-<li><a href="/wiki/Portal:Contents/Geography_and_places" title="Portal:Contents/Geography and places">Geography</a></li>
-<li><a href="/wiki/Portal:Contents/Health_and_fitness" title="Portal:Contents/Health and fitness">Health</a></li>
-<li><a href="/wiki/Portal:Contents/History_and_events" title="Portal:Contents/History and events">History</a></li>
-<li><a href="/wiki/Portal:Contents/Mathematics_and_logic" title="Portal:Contents/Mathematics and logic">Mathematics</a></li>
-<li><a href="/wiki/Portal:Contents/Natural_and_physical_sciences" title="Portal:Contents/Natural and physical sciences">Nature</a></li>
-<li><a href="/wiki/Portal:Contents/People_and_self" title="Portal:Contents/People and self">People</a></li>
-<li><a href="/wiki/Portal:Contents/Philosophy_and_thinking" title="Portal:Contents/Philosophy and thinking">Philosophy</a></li>
-<li><a href="/wiki/Portal:Contents/Religion_and_belief_systems" title="Portal:Contents/Religion and belief systems">Religion</a></li>
-<li><a href="/wiki/Portal:Contents/Society_and_social_sciences" title="Portal:Contents/Society and social sciences">Society</a></li>
-<li><a href="/wiki/Portal:Contents/Technology_and_applied_sciences" title="Portal:Contents/Technology and applied sciences">Technology</a></li>
-</ul>
-</div>
-<div>
-<div style="font-size:105%; font-weight:bold">Places, people and times</div>
-<ul>
-<li><a href="/wiki/Outline_of_academic_disciplines" title="Outline of academic disciplines">Academic disciplines</a></li>
-<li><a href="/wiki/List_of_historical_anniversaries" title="List of historical anniversaries">Anniversaries</a>
-<ul>
-<li><span style="font-size:90%"><a href="/wiki/September_25" title="September 25">today</a></span></li>
+<li><a href="/wiki/Radiocarbon_dating" title="Radiocarbon dating">Radiocarbon</a></li>
+<li><a href="/wiki/Uranium%E2%80%93lead_dating" title="Uranium–lead dating">Uranium–lead</a></li>
+<li><a href="/wiki/K%E2%80%93Ar_dating" title="K–Ar dating">Potassium–argon</a></li>
 </ul>
 </li>
-<li><a href="/wiki/Lists_of_countries_and_territories" title="Lists of countries and territories">Countries and territories</a></li>
-<li><a href="/wiki/Lists_of_people" title="Lists of people">People</a>
-<ul>
-<li><span style="font-size:90%"><a href="/wiki/Deaths_in_2017" title="Deaths in 2017">deaths this year</a></span></li>
-</ul>
-</li>
-<li><a href="/wiki/List_of_timelines" title="List of timelines">Timelines</a>
-<ul>
-<li><span style="font-size:90%"><a href="/wiki/List_of_centuries" title="List of centuries">centuries</a></span></li>
-<li><span style="font-size:90%"><a href="/wiki/List_of_decades" title="List of decades">decades</a></span></li>
-</ul>
-</li>
+<li><a href="/wiki/Tephrochronology" title="Tephrochronology">Tephrochronology</a></li>
+<li><a href="/wiki/Luminescence_dating" title="Luminescence dating">Luminescence dating</a></li>
+<li><a href="/wiki/Thermoluminescence_dating" title="Thermoluminescence dating">Thermoluminescence dating</a></li>
 </ul>
 </div>
-<div style="font-size:105%; font-weight:bold">Indices</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:8.0em;font-weight:normal;background:#cc9;"><a href="/wiki/Relative_dating" title="Relative dating">Relative dating</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fluorine_absorption_dating" title="Fluorine absorption dating">Fluorine absorption</a></li>
+<li><a href="/wiki/Nitrogen_dating" title="Nitrogen dating">Nitrogen dating</a></li>
+<li><a href="/wiki/Obsidian_hydration_dating" title="Obsidian hydration dating">Obsidian hydration</a></li>
+<li><a href="/wiki/Seriation_(archaeology)" title="Seriation (archaeology)">Seriation</a></li>
+<li><a href="/wiki/Stratigraphy_(archaeology)" title="Stratigraphy (archaeology)">Stratigraphy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;line-height:1.2em;background:#cc9;">Genetic methods</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Molecular_clock" title="Molecular clock">Molecular clock</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;line-height:1.2em;background:#cc9;">Linguistic methods</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Glottochronology" title="Glottochronology">Glottochronology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;line-height:1.2em;background:#cc9;">Related topics</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chronicle" title="Chronicle">Chronicle</a></li>
+<li><a href="/wiki/New_Chronology_(Fomenko)" title="New Chronology (Fomenko)">New Chronology</a></li>
+<li><a href="/wiki/Periodization" title="Periodization">Periodization</a></li>
+<li><a href="/wiki/Synchronoptic_view" title="Synchronoptic view">Synchronoptic view</a></li>
+<li><a href="/wiki/Timeline" title="Timeline">Timeline</a></li>
+<li><a href="/wiki/Year_zero" title="Year zero">Year zero</a></li>
+<li><a href="/wiki/Circa" title="Circa">Circa</a></li>
+<li><a href="/wiki/Floruit" title="Floruit">Floruit</a></li>
+<li><a href="/wiki/Terminus_post_quem" title="Terminus post quem">Terminus post quem</a></li>
+<li><a href="/wiki/ASPRO_chronology" title="ASPRO chronology">ASPRO chronology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="2" style="background:#dd9;">
 <div>
 <ul>
-<li><a href="/wiki/Portal:Contents/A%E2%80%93Z_index" title="Portal:Contents/A–Z index">A–Z index</a></li>
-<li><a href="/wiki/Portal:Contents/Categories" title="Portal:Contents/Categories">Categories</a></li>
-<li><a href="/wiki/List_of_Dewey_Decimal_classes" title="List of Dewey Decimal classes">Dewey Decimal classes</a></li>
-<li><a href="/wiki/Library_of_Congress_Classification" title="Library of Congress Classification">Library of Congress Classification</a></li>
-<li><a href="/wiki/Wikipedia:Outline_of_Roget%27s_Thesaurus" title="Wikipedia:Outline of Roget's Thesaurus">Roget's Thesaurus</a></li>
-<li><a href="/wiki/Wikipedia:Spoken_articles" title="Wikipedia:Spoken articles">Spoken articles</a></li>
-<li><a href="/wiki/Wikipedia:Books" title="Wikipedia:Books">Wikipedia books</a></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Chronology" title="Portal:Chronology">Portal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid #C27E3A; border-width: 1px 1px 0; background: #DAAF85; color: black; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: black"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:History/Categories&amp;action=edit"><span style="color: black">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:black;"><span class="mw-headline" id="Categories">Categories</span></h2>
+</div>
+<div style="border: 1px solid #C27E3A; border-top-width: 1px; vertical-align: top;background: #EEDCC8;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div class="floatright"><a href="/wiki/File:C_Puzzle.png" class="image"><img alt="C Puzzle.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/C_Puzzle.png/42px-C_Puzzle.png" width="42" height="42" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/C_Puzzle.png/63px-C_Puzzle.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/C_Puzzle.png/84px-C_Puzzle.png 2x" data-file-width="150" data-file-height="150" /></a></div>
+<p><b><a href="/wiki/Category:History" title="Category:History">History</a></b> • <a href="/wiki/Category:History_by_period" title="Category:History by period">By period</a> • <a href="/wiki/Category:History_by_region" title="Category:History by region">By region</a> • <a href="/wiki/Category:History_by_topic" title="Category:History by topic">By topic</a> • <a href="/wiki/Category:History_by_ethnic_group" title="Category:History by ethnic group">By ethnic group</a> • <a href="/wiki/Category:Historiography" title="Category:Historiography">Historiography</a> • <a href="/wiki/Category:Archaeology" title="Category:Archaeology">Archaeology</a> • <a href="/wiki/Category:History_books" title="Category:History books">Books</a> • <a href="/wiki/Category:History_maps" title="Category:History maps">Maps</a> • <a href="/wiki/Category:History_images" title="Category:History images">Images</a> • <a href="/wiki/Category:History_magazines" title="Category:History magazines">Magazines</a> • <a href="/wiki/Category:History_organizations" title="Category:History organizations">Organizations</a> • <a href="/wiki/Category:Fictional_history" title="Category:Fictional history">Fictional</a> • <a href="/wiki/Category:History_museums" title="Category:History museums">Museums</a> • <a href="/wiki/Category:Pseudohistory" title="Category:Pseudohistory">Pseudohistory</a> • <a href="/wiki/Category:History_stubs" title="Category:History stubs">Stubs</a> • <a href="/wiki/Category:Timelines" title="Category:Timelines">Timelines</a> • <a href="/wiki/Category:Chronology" title="Category:Chronology">Chronology</a> • <a href="/wiki/Category:People" title="Category:People">People</a> •</p>
+<p><a href="/wiki/Category:Wikipedian_historians" title="Category:Wikipedian historians">Wikipedia historians</a></p>
+<div class="div-col columns column-count column-count-3" style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3;">
+<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}">
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="History" data-ct-loaded="1" data-ct-state="expanded">▼</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:History">History</a></div>
+<div class="CategoryTreeChildren" style="display:block">
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="History_by_ethnic_group" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:History_by_ethnic_group">History by ethnic group</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="History_by_location" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:History_by_location">History by location</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="History_by_period" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:History_by_period">History by period</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="History_by_topic" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:History_by_topic">History by topic</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Fields_of_history" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Fields_of_history">Fields of history</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Historians" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Historians">Historians</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="History-related_lists" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:History-related_lists">History-related lists</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="History_in_culture" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:History_in_culture">History in culture</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="History_awards" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:History_awards">History awards</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Bible_history" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Bible_history">Bible history</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Chronology" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Chronology">Chronology</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Historical_controversies" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Historical_controversies">Historical controversies</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="History_education" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:History_education">History education</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Historical_eras" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Historical_eras">Historical eras</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Events" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Events">Events</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Historically_themed_events" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Historically_themed_events">Historically themed events</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Historical_geography" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Historical_geography">Historical geography</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Historicity" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Historicity">Historicity</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Historiography" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Historiography">Historiography</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Legacies" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Legacies">Legacies</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Media_history" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Media_history">Media history</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Historical_objects" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Historical_objects">Historical objects</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Oral_history" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Oral_history">Oral history</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="History_organizations" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:History_organizations">History organizations</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Phaleristics" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Phaleristics">Phaleristics</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Philosophy_of_history" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Philosophy_of_history">Philosophy of history</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Historic_preservation" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Historic_preservation">Historic preservation</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Pseudohistory" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Pseudohistory">Pseudohistory</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">►</span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Sacred_history">Sacred history</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Theories_of_history" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Theories_of_history">Theories of history</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Historical_timelines" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Historical_timelines">Historical timelines</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="World_history" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:World_history">World history</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Wikipedia_books_on_history" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Wikipedia_books_on_history">Wikipedia books on history</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="History_images" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:History_images">History images</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="History_stubs" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:History_stubs">History stubs</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
+</div>
+<div style="float:left; width:100%;">
+<div style="clear: both; border: solid #C27E3A; border-width: 1px 1px 0; background: #DAAF85; color: black; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: black">&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:black;"><span class="mw-headline" id="Associated_Wikimedia">Associated Wikimedia</span></h2>
+</div>
+<div style="border: 1px solid #C27E3A; border-top-width: 1px; vertical-align: top;background: #EEDCC8;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div class="noprint" style="text-align:center;">
+<div style="display:inline-block;margin:0 0 0.75em 0">
+<p style="margin:0">The following <a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">Wikimedia Foundation</a> sister projects provide more on this subject:</p>
+<div style="float:left; margin:0 3px 3px 3px; font-size:91%;">
+<p><b><a href="https://en.wikibooks.org/wiki/Special:Search/History" class="extiw" title="wikibooks:Special:Search/History">Wikibooks</a></b><br />
+Books<br /></p>
+<div class="center">
+<div class="floatnone"><a href="https://en.wikibooks.org/wiki/Special:Search/History"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/25px-Wikibooks-logo.svg.png" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/38px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/50px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></a></div>
+</div>
+</div>
+<div style="float:left; margin:0 3px 3px 3px; font-size:91%;">
+<p><b><a href="https://commons.wikimedia.org/wiki/Special:Search/Category:History" class="extiw" title="commons:Special:Search/Category:History">Commons</a></b><br />
+Media<br /></p>
+<div class="center">
+<div class="floatnone"><a href="https://commons.wikimedia.org/wiki/Special:Search/Category:History"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png" width="18" height="25" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/28px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/37px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></div>
+</div>
+</div>
+<div style="float:left; margin:0 3px 3px 3px; font-size:91%;">
+<p><b><a href="https://en.wikinews.org/wiki/Special:Search/History" class="extiw" title="wikinews:Special:Search/History">Wikinews</a></b>&#160;<br />
+News<br /></p>
+<div class="center">
+<div class="floatnone"><a href="https://en.wikinews.org/wiki/Special:Search/History"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/46px-Wikinews-logo.svg.png" width="46" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/70px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/92px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415" /></a></div>
+</div>
+</div>
+<div style="float:left; margin:0 3px 3px 3px; font-size:91%;">
+<p><b><a href="https://en.wikiquote.org/wiki/Special:Search/History" class="extiw" title="wikiquote:Special:Search/History">Wikiquote</a></b>&#160;<br />
+Quotations<br /></p>
+<div class="center">
+<div class="floatnone"><a href="https://en.wikiquote.org/wiki/Special:Search/History"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/21px-Wikiquote-logo.svg.png" width="21" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/32px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/42px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a></div>
+</div>
+</div>
+<div style="float:left; margin:0 3px 3px 3px; font-size:91%;">
+<p><b><a href="https://en.wikisource.org/wiki/Special:Search/History" class="extiw" title="wikisource:Special:Search/History">Wikisource</a></b>&#160;<br />
+Texts<br /></p>
+<div class="center">
+<div class="floatnone"><a href="https://en.wikisource.org/wiki/Special:Search/History"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png" width="24" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/36px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/48px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a></div>
+</div>
+</div>
+<div style="float:left; margin:0 3px 3px 3px; font-size:91%;">
+<p><b><a href="https://en.wikiversity.org/wiki/Special:Search/History" class="extiw" title="wikiversity:Special:Search/History">Wikiversity</a></b><br />
+Learning resources<br /></p>
+<div class="center">
+<div class="floatnone"><a href="https://en.wikiversity.org/wiki/Special:Search/History"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/31px-Wikiversity-logo.svg.png" width="31" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/48px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/63px-Wikiversity-logo.svg.png 2x" data-file-width="1000" data-file-height="800" /></a></div>
+</div>
+</div>
+<div style="float:left; margin:0 3px 3px 3px; font-size:91%;">
+<p><b><a href="https://en.wikivoyage.org/wiki/Special:Search/History" class="extiw" title="wikivoyage:Special:Search/History">Wikivoyage</a></b>&#160;<br />
+Travel guides<br /></p>
+<div class="center">
+<div class="floatnone"><a href="https://en.wikivoyage.org/wiki/Special:Search/History"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/25px-Wikivoyage-Logo-v3-icon.svg.png" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/38px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/50px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></a></div>
+</div>
+</div>
+<div style="float:left; margin:0 3px 3px 3px; font-size:91%;">
+<p><b><a href="https://en.wiktionary.org/wiki/Special:Search/History" class="extiw" title="wiktionary:Special:Search/History">Wiktionary</a></b>&#160;<br />
+Definitions<br /></p>
+<div class="center">
+<div class="floatnone"><a href="https://en.wiktionary.org/wiki/Special:Search/History"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/25px-Wiktionary-logo-v2.svg.png" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/38px-Wiktionary-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/50px-Wiktionary-logo-v2.svg.png 2x" data-file-width="391" data-file-height="391" /></a></div>
+</div>
+</div>
+<div style="float:left; margin:0 3px 3px 3px; font-size:91%;">
+<p><b><a href="https://www.wikidata.org/wiki/Special:Search/History" class="extiw" title="wikidata:Special:Search/History">Wikidata</a></b>&#160;<br />
+Database<br /></p>
+<div class="center">
+<div class="floatnone"><a href="https://www.wikidata.org/wiki/Special:Search/History"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/45px-Wikidata-logo.svg.png" width="45" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/68px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/89px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a></div>
+</div>
+</div>
+<div style="float:left; margin:0 3px 3px 3px; font-size:91%;">
+<p><b><a href="https://species.wikimedia.org/wiki/Special:Search/History" class="extiw" title="wikispecies:Special:Search/History">Wikispecies</a></b>&#160;<br />
+Species<br /></p>
+<div class="center">
+<div class="floatnone"><a href="https://species.wikimedia.org/wiki/Special:Search/History"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/21px-Wikispecies-logo.svg.png" width="21" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/32px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/43px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103" /></a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
+</div>
+<div class="hlist noprint" style="text-align: center; clear:both; padding:0.25em 0 0.5em;">
+<ul>
+<li><b>What are <a href="/wiki/Wikipedia:Portal" title="Wikipedia:Portal">portals</a>?</b></li>
+<li><b><a href="/wiki/Portal:Contents/Portals" title="Portal:Contents/Portals">List of portals</a></b></li>
 </ul>
 </div>
 </div>
-<div style="font-size:85%; text-align:right;"><span class="noprint plainlinks purgelink"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Featured_content&amp;action=purge"><span title="Purge this page">Purge page cache</span></a></span></div>
+</td>
+</tr>
+</table>
 
 
 <!-- 
 NewPP limit report
-Parsed by mw1248
-Cached time: 20170925051221
-Cache expiry: 3600
+Parsed by mw1319
+Cached time: 20171028183448
+Cache expiry: 21600
 Dynamic content: true
-CPU time usage: 0.116 seconds
-Real time usage: 0.200 seconds
-Preprocessor visited node count: 363/1000000
+CPU time usage: 0.340 seconds
+Real time usage: 0.500 seconds
+Preprocessor visited node count: 2773/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 15119/2097152 bytes
-Template argument size: 298/2097152 bytes
-Highest expansion depth: 11/40
-Expensive parser function count: 11/500
-Lua time usage: 0.035/10.000 seconds
-Lua memory usage: 1.22 MB/50 MB
+Post‐expand include size: 187547/2097152 bytes
+Template argument size: 9277/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 5/500
+Lua time usage: 0.131/10.000 seconds
+Lua memory usage: 3.15 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  141.110      1 -total
- 32.30%   45.574      1 Template:Pp-protected
- 29.50%   41.631      1 Portal:Featured_content/Info
- 18.95%   26.735      1 Template:Shortcut
-  8.69%   12.256      1 Template:FA_number
-  7.96%   11.229      1 Template:FL_number
-  7.59%   10.717      1 Wikipedia:Featured_articles
-  7.10%   10.019      1 Wikipedia:Featured_lists
-  5.25%    7.403      1 Template:Ed
-  5.16%    7.282      1 Template:Reflist
+100.00%  346.262      1 -total
+ 28.38%   98.284      6 Template:Random_portal_component
+ 26.17%   90.628     10 Template:Navbox
+ 14.57%   50.464      1 Template:Pp-semi-protected
+  9.44%   32.687      1 Template:Chronology
+  8.96%   31.019      1 Template:Time_topics
+  8.93%   30.922      1 Portal:History/Featured_biography/Layout
+  8.14%   28.201      1 Template:Lang-el
+  7.82%   27.063      1 Template:Language_with_name_and_transliteration
+  7.78%   26.929      1 Wikipedia:Selected_anniversaries/October_28
 -->
 </div>
-<!-- Saved in parser cache with key enwiki:pcache:idhash:10515459-0!canonical and timestamp 20170925051220 and revision id 798154181
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1685624-0!canonical and timestamp 20171028183447 and revision id 794326639
  -->
 <noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
-						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Portal:Featured_content&amp;oldid=798154181">https://en.wikipedia.org/w/index.php?title=Portal:Featured_content&amp;oldid=798154181</a>"					</div>
-				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Wikipedia_featured_content" title="Category:Wikipedia featured content">Wikipedia featured content</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_semi-protected_portals" title="Category:Wikipedia semi-protected portals">Wikipedia semi-protected portals</a></li></ul></div></div>				<div class="visualClear"></div>
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Portal:History&amp;oldid=794326639">https://en.wikipedia.org/w/index.php?title=Portal:History&amp;oldid=794326639</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:History_portal" title="Category:History portal">History portal</a></li><li><a href="/wiki/Category:History_portals" title="Category:History portals">History portals</a></li><li><a href="/wiki/Category:History" title="Category:History">History</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_semi-protected_portals" title="Category:Wikipedia semi-protected portals">Wikipedia semi-protected portals</a></li><li><a href="/wiki/Category:Wikipedia_move-protected_portals" title="Category:Wikipedia move-protected portals">Wikipedia move-protected portals</a></li><li><a href="/wiki/Category:Featured_portals" title="Category:Featured portals">Featured portals</a></li></ul></div></div>				<div class="visualClear"></div>
 							</div>
 		</div>
 		<div id="mw-navigation">
-			<h2>Navigation menu</h2>
-
-			<div id="mw-head">
-									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
-						<h3 id="p-personal-label">Personal tools</h3>
-						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Portal%3AFeatured+content" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Portal%3AFeatured+content" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
-					</div>
-									<div id="left-navigation">
-										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
-						<h3 id="p-namespaces-label">Namespaces</h3>
-						<ul>
-														<li id="ca-nstab-portal" class="selected"><span><a href="/wiki/Portal:Featured_content">Portal</a></span></li>
-							<li id="ca-talk"><span><a href="/wiki/Portal_talk:Featured_content" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
-						</ul>
-					</div>
-										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
-												<h3 id="p-variants-label">
-							<span>Variants</span>
-						</h3>
-
-						<div class="menu">
-							<ul>
-															</ul>
-						</div>
-					</div>
-									</div>
-				<div id="right-navigation">
-										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
-						<h3 id="p-views-label">Views</h3>
-						<ul>
-														<li id="ca-view" class="selected"><span><a href="/wiki/Portal:Featured_content">Read</a></span></li>
-							<li id="ca-viewsource"><span><a href="/w/index.php?title=Portal:Featured_content&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
-							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Portal:Featured_content&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
-						</ul>
-					</div>
-										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
-						<h3 id="p-cactions-label"><span>More</span></h3>
-
-						<div class="menu">
-							<ul>
-															</ul>
-						</div>
-					</div>
-										<div id="p-search" role="search">
-						<h3>
-							<label for="searchInput">Search</label>
-						</h3>
-
-						<form action="/w/index.php" id="searchform">
-							<div id="simpleSearch">
-							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
-						</form>
-					</div>
-									</div>
-			</div>
-			<div id="mw-panel">
-				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
-						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
-			<h3 id='p-navigation-label'>Navigation</h3>
-
-			<div class="body">
-									<ul>
-						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
-			<h3 id='p-interaction-label'>Interaction</h3>
-
-			<div class="body">
-									<ul>
-						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
-			<h3 id='p-tb-label'>Tools</h3>
-
-			<div class="body">
-									<ul>
-						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Portal:Featured_content" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Portal:Featured_content" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Portal:Featured_content&amp;oldid=798154181" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Portal:Featured_content&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4387047" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
-			<h3 id='p-coll-print_export-label'>Print/export</h3>
-
-			<div class="body">
-									<ul>
-						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Portal%3AFeatured+content">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Portal%3AFeatured+content&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DPortal%253AFeatured%2Bcontent%26returnto%3DPortal%253AFeatured%2Bcontent%26oldid%3D798154181%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Portal:Featured_content&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
-			<h3 id='p-lang-label'>Languages</h3>
-
-			<div class="body">
-									<ul>
-						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D9%85%D8%AD%D8%AA%D9%88%D9%89_%D9%85%D8%AE%D8%AA%D8%A7%D8%B1" title="بوابة:محتوى مختار – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B0:%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%BF%E0%A6%A4_%E0%A6%B8%E0%A7%82%E0%A6%9A%E0%A7%80%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0" title="প্রবেশদ্বার:নির্বাচিত সূচীপত্র – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D1%8D%D0%B4%D1%8B%D1%8F:%D0%A3%D0%B7%D0%BD%D0%B0%D0%B3%D0%B0%D1%80%D0%BE%D0%B4%D1%8B" title="Вікіпэдыя:Узнагароды – Belarusian (Taraškievica orthography)" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Wikipedia:Hall_of_Fame" title="Wikipedia:Hall of Fame – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Wikipedia:Fremh%C3%A6vet_indhold" title="Wikipedia:Fremhævet indhold – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Wikipedia:Bewertungen" title="Wikipedia:Bewertungen – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Contenus_de_qualit%C3%A9" title="Wikipédia:Contenus de qualité – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE:%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%9A%E0%A4%BF%E0%A4%A4_%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A4%AF_%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%81" title="विकिपीडिया:निर्वाचित विषय वस्तु – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Portal:Isi_pilihan" title="Portal:Isi pilihan – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Wikipedia:Wyr%C3%B3%C5%BCniona_zawarto%C5%9B%C4%87_Wikipedii" title="Wikipedia:Wyróżniona zawartość Wikipedii – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Wikipedia:Proiecte_de_evaluare" title="Wikipedia:Proiecte de evaluare – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Portal:Utvalt_inneh%C3%A5ll" title="Portal:Utvalt innehåll – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A1%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD%D0%B3%D0%B0%D0%BD_%D1%8D%D1%87%D1%82%D3%99%D0%BB%D0%B5%D0%BA" title="Портал:Сайланган эчтәлек – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Vikipedi:Se%C3%A7kin_i%C3%A7erik" title="Vikipedi:Seçkin içerik – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_%C4%91%E1%BB%81:N%E1%BB%99i_dung_ch%E1%BB%8Dn_l%E1%BB%8Dc" title="Chủ đề:Nội dung chọn lọc – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-ts"><a href="https://ts.wikipedia.org/wiki/Portal:Featured_content" title="Portal:Featured content – Tsonga" lang="ts" hreflang="ts" class="interlanguage-link-target">Xitsonga</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/Portal:%E6%AD%A3%E5%98%A2" title="Portal:正嘢 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="Portal:特色內容 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4387047#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
-		</div>
-				</div>
-		</div>
-		<div id="footer" role="contentinfo">
-							<ul id="footer-info">
-											<li id="footer-info-lastmod"> This page was last edited on 31 August 2017, at 08:49.</li>
-											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
-additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
-									</ul>
-							<ul id="footer-places">
-											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
-											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
-											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
-											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
-											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
-											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
-											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Portal:Featured_content&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
-									</ul>
-										<ul id="footer-icons" class="noprint">
-											<li id="footer-copyrightico">
-							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
-											<li id="footer-poweredbyico">
-							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
-									</ul>
-						<div style="clear:both"></div>
-		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.116","walltime":"0.200","ppvisitednodes":{"value":363,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":15119,"limit":2097152},"templateargumentsize":{"value":298,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":11,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  141.110      1 -total"," 32.30%   45.574      1 Template:Pp-protected"," 29.50%   41.631      1 Portal:Featured_content/Info"," 18.95%   26.735      1 Template:Shortcut","  8.69%   12.256      1 Template:FA_number","  7.96%   11.229      1 Template:FL_number","  7.59%   10.717      1 Wikipedia:Featured_articles","  7.10%   10.019      1 Wikipedia:Featured_lists","  5.25%    7.403      1 Template:Ed","  5.16%    7.282      1 Template:Reflist"]},"scribunto":{"limitreport-timeusage":{"value":"0.035","limit":"10.000"},"limitreport-memusage":{"value":1275772,"limit":52428800}},"cachereport":{"origin":"mw1248","timestamp":"20170925051221","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":56,"wgHostname":"mw1252"});});</script>
-	</body>
-</html>

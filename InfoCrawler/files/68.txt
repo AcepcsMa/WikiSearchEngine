@@ -1,44 +1,4 @@
-<!DOCTYPE html>
-<html class="client-nojs" lang="en" dir="ltr">
-<head>
-<meta charset="UTF-8"/>
-<title>Category:1927 births - Wikipedia</title>
-<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Category","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":14,"wgPageName":"Category:1927_births","wgTitle":"1927 births","wgCurRevisionId":543594303,"wgRevisionId":543594303,"wgArticleId":1005345,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["1927","1920s births"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Category:1927_births","wgRelevantArticleId":1005345,"wgRequestId":"WcfW-ApAIDcAAD6ahBAAAAAL","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q6647300","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.action.view.categoryPage.styles":"ready","mediawiki.helplink":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.tmh.thumbnail.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
-mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
-
-});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","skins.vector.js"]);});</script>
-<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.action.view.categoryPage.styles%7Cmediawiki.helplink%2CsectionAnchor%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
-<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
-<meta name="ResourceLoaderDynamicStyles" content=""/>
-<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
-<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
-<meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Category:1927_births&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Category:1927_births&amp;action=edit"/>
-<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
-<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
-<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
-<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
-<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Category:1927_births"/>
-<link rel="dns-prefetch" href="//login.wikimedia.org"/>
-<link rel="dns-prefetch" href="//meta.wikimedia.org" />
-<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
-</head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-14 ns-subject page-Category_1927_births rootpage-Category_1927_births skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
-		<div id="mw-head-base" class="noprint"></div>
-		<div id="content" class="mw-body" role="main">
-			<a id="top"></a>
-
-							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
-						<div class="mw-indicators mw-body-content">
-<div id="mw-indicator-mw-helplink" class="mw-indicator"><a href="//www.mediawiki.org/wiki/Special:MyLanguage/Help:Categories" target="_blank" class="mw-helplink">Help</a></div>
-</div>
-			<h1 id="firstHeading" class="firstHeading" lang="en">Category:1927 births</h1>
-									<div id="bodyContent" class="mw-body-content">
+<div id="bodyContent" class="mw-body-content">
 									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
 								<div id="contentSub"></div>
 												<div id="jump-to-nav" class="mw-jump">
@@ -47,412 +7,290 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="toc" style="float:right;clear:right;">
 <div class="hlist">
 <ul>
-<li><a href="/wiki/Category:1919_births" title="Category:1919 births">←</a> <a href="/wiki/Category:1920s_births" title="Category:1920s births">1920s births</a>: <a href="/wiki/Category:1920_births" title="Category:1920 births">1920</a></li>
-<li><a href="/wiki/Category:1921_births" title="Category:1921 births">1921</a></li>
-<li><a href="/wiki/Category:1922_births" title="Category:1922 births">1922</a></li>
-<li><a href="/wiki/Category:1923_births" title="Category:1923 births">1923</a></li>
-<li><a href="/wiki/Category:1924_births" title="Category:1924 births">1924</a></li>
-<li><a href="/wiki/Category:1925_births" title="Category:1925 births">1925</a></li>
-<li><a href="/wiki/Category:1926_births" title="Category:1926 births">1926</a></li>
-<li><a class="mw-selflink selflink">1927</a></li>
-<li><a href="/wiki/Category:1928_births" title="Category:1928 births">1928</a></li>
-<li><a href="/wiki/Category:1929_births" title="Category:1929 births">1929</a> <a href="/wiki/Category:1930_births" title="Category:1930 births">→</a></li>
+<li><a href="/wiki/Category:1989_deaths" title="Category:1989 deaths">←</a> <a href="/wiki/Category:1990s_deaths" title="Category:1990s deaths">1990s deaths</a>: <a href="/wiki/Category:1990_deaths" title="Category:1990 deaths">1990</a></li>
+<li><a href="/wiki/Category:1991_deaths" title="Category:1991 deaths">1991</a></li>
+<li><a href="/wiki/Category:1992_deaths" title="Category:1992 deaths">1992</a></li>
+<li><a href="/wiki/Category:1993_deaths" title="Category:1993 deaths">1993</a></li>
+<li><a href="/wiki/Category:1994_deaths" title="Category:1994 deaths">1994</a></li>
+<li><a class="mw-selflink selflink">1995</a></li>
+<li><a href="/wiki/Category:1996_deaths" title="Category:1996 deaths">1996</a></li>
+<li><a href="/wiki/Category:1997_deaths" title="Category:1997 deaths">1997</a></li>
+<li><a href="/wiki/Category:1998_deaths" title="Category:1998 deaths">1998</a></li>
+<li><a href="/wiki/Category:1999_deaths" title="Category:1999 deaths">1999</a> <a href="/wiki/Category:2000_deaths" title="Category:2000 deaths">→</a></li>
 </ul>
 </div>
 </div>
-<p>People born in <b><a href="/wiki/1927" title="1927">1927</a></b>.<br />
-<i>See also:</i> <a href="/wiki/Category:1927_deaths" title="Category:1927 deaths">1927 deaths</a>.</p>
+<p>People who died in <b><a href="/wiki/1995" title="1995">1995</a></b>.<br />
+<i>See also:</i> <a href="/wiki/Category:1995_births" title="Category:1995 births">1995 births</a>.</p>
 <div class="toc plainlinks hlist" id="toc" style="clear: left;">
 <div id="toctitle">
 <h2><span class="mw-headline" id="Contents">Contents</span></h2>
 </div>
 <ul>
-<li><a class="external text" href="//en.wikipedia.org/wiki/Category:1927_births">Top</a></li>
-<li><a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1927_births&amp;from=A">A</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1927_births&amp;from=B">B</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1927_births&amp;from=C">C</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1927_births&amp;from=D">D</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1927_births&amp;from=E">E</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1927_births&amp;from=F">F</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1927_births&amp;from=G">G</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1927_births&amp;from=H">H</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1927_births&amp;from=I">I</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1927_births&amp;from=J">J</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1927_births&amp;from=K">K</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1927_births&amp;from=L">L</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1927_births&amp;from=M">M</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1927_births&amp;from=N">N</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1927_births&amp;from=O">O</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1927_births&amp;from=P">P</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1927_births&amp;from=Q">Q</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1927_births&amp;from=R">R</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1927_births&amp;from=S">S</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1927_births&amp;from=T">T</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1927_births&amp;from=U">U</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1927_births&amp;from=V">V</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1927_births&amp;from=W">W</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1927_births&amp;from=X">X</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1927_births&amp;from=Y">Y</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1927_births&amp;from=Z">Z</a></li>
+<li><a class="external text" href="//en.wikipedia.org/wiki/Category:1995_deaths">Top</a></li>
+<li><a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1995_deaths&amp;from=A">A</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1995_deaths&amp;from=B">B</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1995_deaths&amp;from=C">C</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1995_deaths&amp;from=D">D</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1995_deaths&amp;from=E">E</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1995_deaths&amp;from=F">F</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1995_deaths&amp;from=G">G</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1995_deaths&amp;from=H">H</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1995_deaths&amp;from=I">I</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1995_deaths&amp;from=J">J</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1995_deaths&amp;from=K">K</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1995_deaths&amp;from=L">L</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1995_deaths&amp;from=M">M</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1995_deaths&amp;from=N">N</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1995_deaths&amp;from=O">O</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1995_deaths&amp;from=P">P</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1995_deaths&amp;from=Q">Q</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1995_deaths&amp;from=R">R</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1995_deaths&amp;from=S">S</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1995_deaths&amp;from=T">T</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1995_deaths&amp;from=U">U</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1995_deaths&amp;from=V">V</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1995_deaths&amp;from=W">W</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1995_deaths&amp;from=X">X</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1995_deaths&amp;from=Y">Y</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:1995_deaths&amp;from=Z">Z</a></li>
 </ul>
 </div>
 <table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
 <tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png" width="38" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/57px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/76px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></td>
+<td class="mbox-text plainlist">Wikisource has several original texts related to: <i><b><a href="https://en.wikisource.org/wiki/Category:1995_deaths" class="extiw" title="wikisource:Category:1995 deaths">1995 deaths</a></b></i></td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
 <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
-<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:1927_births" class="extiw" title="commons:Category:1927 births">1927 births</a></b></i>.</td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:1995_deaths" class="extiw" title="commons:Category:1995 deaths">1995 deaths</a></b></i>.</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" width="34" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></td>
+<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a href="https://en.wikiquote.org/wiki/Category:1995_deaths" class="extiw" title="q:Category:1995 deaths">Category:1995 deaths</a></b></i></td>
 </tr>
 </table>
 
 
 <!-- 
 NewPP limit report
-Parsed by mw1182
-Cached time: 20170924151340
+Parsed by mw1268
+Cached time: 20171027032208
 Cache expiry: 1900800
 Dynamic content: false
-CPU time usage: 0.060 seconds
-Real time usage: 0.083 seconds
-Preprocessor visited node count: 362/1000000
+CPU time usage: 0.052 seconds
+Real time usage: 0.072 seconds
+Preprocessor visited node count: 488/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 12711/2097152 bytes
-Template argument size: 1293/2097152 bytes
+Post‐expand include size: 16038/2097152 bytes
+Template argument size: 1553/2097152 bytes
 Highest expansion depth: 9/40
 Expensive parser function count: 0/500
 Lua time usage: 0.006/10.000 seconds
-Lua memory usage: 568 KB/50 MB
+Lua memory usage: 717 KB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%   70.154      1 -total
- 71.14%   49.910      1 Template:Commons_cat
- 34.30%   24.060      1 Template:Commons
- 32.31%   22.667      1 Template:Sister_project
- 28.73%   20.153      1 Template:Birthyr
- 28.60%   20.066      1 Template:Side_box
- 15.37%   10.783      1 Template:Category_TOC
-  7.45%    5.229      1 Template:BDYearsInDecade
-  5.72%    4.014      1 Template:TOC_top
-  3.80%    2.667      1 Template:Flatlist
+100.00%   60.071      1 -total
+ 36.97%   22.207      1 Template:Commonscat
+ 31.87%   19.142      3 Template:Sister_project
+ 29.61%   17.786      1 Template:Wikisourcecat
+ 29.11%   17.485      1 Template:Deathyr
+ 28.56%   17.156      3 Template:Side_box
+ 14.86%    8.927      1 Template:Category_TOC
+  7.57%    4.550      1 Template:BDYearsInDecade
+  5.25%    3.154      1 Template:TOC_top
+  4.09%    2.454      1 Template:Commons
 -->
 </div>
-<!-- Saved in parser cache with key enwiki:pcache:idhash:1005345-0!canonical and timestamp 20170924151340 and revision id 543594303
+<!-- Saved in parser cache with key enwiki:pcache:idhash:924041-0!canonical and timestamp 20171027032208 and revision id 681403895
  -->
 <div class="mw-category-generated" lang="en" dir="ltr"><div id="mw-pages">
-<h2><span id="Pages_in_category"></span>Pages in category "1927 births"</h2>
-<p>The following 200 pages are in this category, out of approximately 7,235 total. This list may not reflect recent changes (<a href="/wiki/Wikipedia:FAQ/Categorization#Why_might_a_category_list_not_be_up_to_date.3F" title="Wikipedia:FAQ/Categorization">learn more</a>).
-</p>(previous page) (<a href="/w/index.php?title=Category:1927_births&amp;pagefrom=Annaly%2C+Luke+White%2C+5th+Baron%0ALuke+White%2C+5th+Baron+Annaly#mw-pages" title="Category:1927 births">next page</a>)<div lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-category"><div class="mw-category-group"><h3>A</h3>
-<ul><li><a href="/wiki/Torvild_Aakvaag" title="Torvild Aakvaag">Torvild Aakvaag</a></li>
-<li><a href="/wiki/Johannes_Aanderaa" title="Johannes Aanderaa">Johannes Aanderaa</a></li>
-<li><a href="/wiki/Encarna_Abad" title="Encarna Abad">Encarna Abad</a></li>
-<li><a href="/wiki/Tharwat_Abaza" title="Tharwat Abaza">Tharwat Abaza</a></li>
-<li><a href="/wiki/Tofig_Abbasguliyev" title="Tofig Abbasguliyev">Tofig Abbasguliyev</a></li>
-<li><a href="/wiki/Mario_Abbate" title="Mario Abbate">Mario Abbate</a></li>
-<li><a href="/wiki/Claude_Abbes" title="Claude Abbes">Claude Abbes</a></li>
-<li><a href="/wiki/Edward_Abbey" title="Edward Abbey">Edward Abbey</a></li>
-<li><a href="/wiki/Abbo_Nassour" title="Abbo Nassour">Abbo Nassour</a></li>
-<li><a href="/wiki/Roy_Abbott" title="Roy Abbott">Roy Abbott</a></li>
-<li><a href="/wiki/Mohamed_Ben_Ahmed_Abdelghani" title="Mohamed Ben Ahmed Abdelghani">Mohamed Ben Ahmed Abdelghani</a></li>
-<li><a href="/wiki/Abdul_Halim_of_Kedah" title="Abdul Halim of Kedah">Abdul Halim of Kedah</a></li>
-<li><a href="/wiki/Abdul_Basit_%27Abd_us-Samad" title="Abdul Basit 'Abd us-Samad">Abdul Basit &#039;Abd us-Samad</a></li>
-<li><a href="/wiki/Ahmed_Abdul-Malik" title="Ahmed Abdul-Malik">Ahmed Abdul-Malik</a></li>
-<li><a href="/wiki/Clive_Abdulah" title="Clive Abdulah">Clive Abdulah</a></li>
-<li><a href="/wiki/B._S._Abdur_Rahman" title="B. S. Abdur Rahman">B. S. Abdur Rahman</a></li>
-<li><a href="/wiki/Jack_Abel" title="Jack Abel">Jack Abel</a></li>
-<li><a href="/wiki/George_O._Abell" title="George O. Abell">George O. Abell</a></li>
-<li><a href="/wiki/Al_Aber" title="Al Aber">Al Aber</a></li>
-<li><a href="/wiki/Bob_Abernethy" title="Bob Abernethy">Bob Abernethy</a></li>
-<li><a href="/wiki/Joe_Abeywickrama" title="Joe Abeywickrama">Joe Abeywickrama</a></li>
-<li><a href="/wiki/Ibrahim_Abi-Ackel" title="Ibrahim Abi-Ackel">Ibrahim Abi-Ackel</a></li>
-<li><a href="/wiki/Paul_Ableman" title="Paul Ableman">Paul Ableman</a></li>
-<li><a href="/wiki/Alfredo_Abon_Lee" title="Alfredo Abon Lee">Alfredo Abon Lee</a></li>
-<li><a href="/wiki/Shawqi_Aboud" title="Shawqi Aboud">Shawqi Aboud</a></li>
-<li><a href="/wiki/Alton_Abraham" title="Alton Abraham">Alton Abraham</a></li>
-<li><a href="/wiki/Elihu_Abrahams" title="Elihu Abrahams">Elihu Abrahams</a></li>
-<li><a href="/wiki/Oleta_Kirk_Abrams" title="Oleta Kirk Abrams">Oleta Kirk Abrams</a></li>
-<li><a href="/wiki/Arthur_S._Abramson" title="Arthur S. Abramson">Arthur S. Abramson</a></li>
-<li><a href="/wiki/Jack_Absalom" title="Jack Absalom">Jack Absalom</a></li>
-<li><a href="/wiki/Do%C4%9Fan_Acarbay" title="Doğan Acarbay">Doğan Acarbay</a></li>
-<li><a href="/wiki/Alexander_V._Acebo" title="Alexander V. Acebo">Alexander V. Acebo</a></li>
-<li><a href="/wiki/Paul_J._Achtemeier" title="Paul J. Achtemeier">Paul J. Achtemeier</a></li>
-<li><a href="/wiki/Roger_Achten" title="Roger Achten">Roger Achten</a></li>
-<li><a href="/wiki/William_Acker" title="William Acker">William Acker</a></li>
-<li><a href="/wiki/Alvin_Ackerley" title="Alvin Ackerley">Alvin Ackerley</a></li>
-<li><a href="/wiki/Robert_Ackman" title="Robert Ackman">Robert Ackman</a></li>
-<li><a href="/wiki/Nick_Acquaviva" title="Nick Acquaviva">Nick Acquaviva</a></li>
-<li><a href="/wiki/Sabino_Acquaviva" title="Sabino Acquaviva">Sabino Acquaviva</a></li>
-<li><a href="/wiki/Luis_Alberto_Acu%C3%B1a_Gatillon" title="Luis Alberto Acuña Gatillon">Luis Alberto Acuña Gatillon</a></li>
-<li><a href="/wiki/Ad-Diba" title="Ad-Diba">Ad-Diba</a></li>
-<li><a href="/wiki/Elhadi_Adam" title="Elhadi Adam">Elhadi Adam</a></li>
-<li><a href="/wiki/Yekutiel_Adam" title="Yekutiel Adam">Yekutiel Adam</a></li>
-<li><a href="/wiki/Vinicio_Adames" title="Vinicio Adames">Vinicio Adames</a></li>
-<li><a href="/wiki/Alma_Adamkien%C4%97" title="Alma Adamkienė">Alma Adamkienė</a></li>
-<li><a href="/wiki/Ales_Adamovich" title="Ales Adamovich">Ales Adamovich</a></li>
-<li><a href="/wiki/Brock_Adams" title="Brock Adams">Brock Adams</a></li>
-<li><a href="/wiki/Chris_Adams_(footballer)" title="Chris Adams (footballer)">Chris Adams (footballer)</a></li>
-<li><a href="/wiki/Dooley_Adams" title="Dooley Adams">Dooley Adams</a></li>
-<li><a href="/wiki/Edie_Adams" title="Edie Adams">Edie Adams</a></li>
-<li><a href="/wiki/Norman_Adams_(British_artist)" title="Norman Adams (British artist)">Norman Adams (British artist)</a></li>
-<li><a href="/wiki/Stanley_Adams_(whistleblower)" title="Stanley Adams (whistleblower)">Stanley Adams (whistleblower)</a></li>
-<li><a href="/wiki/William_Y._Adams" title="William Y. Adams">William Y. Adams</a></li>
-<li><a href="/wiki/Ahmad_Adaya" title="Ahmad Adaya">Ahmad Adaya</a></li>
-<li><a href="/wiki/Joe_Adcock" title="Joe Adcock">Joe Adcock</a></li>
-<li><a href="/wiki/Evan_Adermann" title="Evan Adermann">Evan Adermann</a></li>
-<li><a href="/wiki/Cy_A._Adler" title="Cy A. Adler">Cy A. Adler</a></li>
-<li><a href="/wiki/Warren_Adler" title="Warren Adler">Warren Adler</a></li>
-<li><a href="/wiki/Hugo_Adriaensens" title="Hugo Adriaensens">Hugo Adriaensens</a></li>
+<h2><span id="Pages_in_category"></span>Pages in category "1995 deaths"</h2>
+<p>The following 200 pages are in this category, out of approximately 4,952 total. This list may not reflect recent changes (<a href="/wiki/Wikipedia:FAQ/Categorization#Why_might_a_category_list_not_be_up_to_date.3F" title="Wikipedia:FAQ/Categorization">learn more</a>).
+</p>(previous page) (<a href="/w/index.php?title=Category:1995_deaths&amp;pagefrom=Arenas%2C+Rodrigo%0ARodrigo+Arenas+Betancourt#mw-pages" title="Category:1995 deaths">next page</a>)<div lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-category"><div class="mw-category-group"><h3>A</h3>
+<ul><li><a href="/wiki/Ole_%C3%85lg%C3%A5rd" title="Ole Ålgård">Ole Ålgård</a></li>
+<li><a href="/wiki/Hans_Aardal" title="Hans Aardal">Hans Aardal</a></li>
+<li><a href="/wiki/Gijs_van_Aardenne" title="Gijs van Aardenne">Gijs van Aardenne</a></li>
+<li><a href="/wiki/Els_Aarne" title="Els Aarne">Els Aarne</a></li>
+<li><a href="/wiki/Frank_Abbandando_Jr." title="Frank Abbandando Jr.">Frank Abbandando Jr.</a></li>
+<li><a href="/wiki/George_Abbott" title="George Abbott">George Abbott</a></li>
+<li><a href="/wiki/R._Tucker_Abbott" title="R. Tucker Abbott">R. Tucker Abbott</a></li>
+<li><span class="redirect-in-category"><a href="/wiki/Michelle_Abdill" class="mw-redirect" title="Michelle Abdill">Michelle Abdill</a></span></li>
+<li><a href="/wiki/Reza_Abdoh" title="Reza Abdoh">Reza Abdoh</a></li>
+<li><a href="/wiki/Senu_Abdul_Rahman" title="Senu Abdul Rahman">Senu Abdul Rahman</a></li>
+<li><a href="/wiki/Bobby_Abel_(racing_driver)" title="Bobby Abel (racing driver)">Bobby Abel (racing driver)</a></li>
+<li><a href="/wiki/Erwin_Leonard_Guy_Abel" title="Erwin Leonard Guy Abel">Erwin Leonard Guy Abel</a></li>
+<li><a href="/wiki/Johnny_Abel" title="Johnny Abel">Johnny Abel</a></li>
+<li><a href="/wiki/Louis_Abolafia" title="Louis Abolafia">Louis Abolafia</a></li>
+<li><a href="/wiki/Chaim_Zanvl_Abramowitz" title="Chaim Zanvl Abramowitz">Chaim Zanvl Abramowitz</a></li>
+<li><a href="/wiki/Sadik_Achmet" title="Sadik Achmet">Sadik Achmet</a></li>
+<li><a href="/wiki/Bernice_Ackerman" title="Bernice Ackerman">Bernice Ackerman</a></li>
+<li><a href="/wiki/Stan_Ackermans" title="Stan Ackermans">Stan Ackermans</a></li>
+<li><a href="/wiki/Jim_Acree" title="Jim Acree">Jim Acree</a></li>
+<li><a href="/wiki/Sh%C5%8Dtar%C5%8D_Adachi" title="Shōtarō Adachi">Shōtarō Adachi</a></li>
+<li><a href="/wiki/Bojan_Adami%C4%8D" title="Bojan Adamič">Bojan Adamič</a></li>
+<li><a href="/wiki/Viktor_Adamishin" title="Viktor Adamishin">Viktor Adamishin</a></li>
+<li><a href="/wiki/Lance_Adams-Schneider" title="Lance Adams-Schneider">Lance Adams-Schneider</a></li>
+<li><a href="/wiki/Andrea_Adams" title="Andrea Adams">Andrea Adams</a></li>
+<li><a href="/wiki/Don_Adams_(R%26B_singer)" title="Don Adams (R&amp;B singer)">Don Adams (R&amp;B singer)</a></li>
+<li><a href="/wiki/John_Adams_(running_back)" title="John Adams (running back)">John Adams (running back)</a></li>
+<li><a href="/wiki/John_H._Adams" title="John H. Adams">John H. Adams</a></li>
+<li><a href="/wiki/Leon_Adams" title="Leon Adams">Leon Adams</a></li>
+<li><a href="/wiki/Al_Adamson" title="Al Adamson">Al Adamson</a></li>
+<li><a href="/wiki/Bert_Adamson" title="Bert Adamson">Bert Adamson</a></li>
+<li><a href="/wiki/Gladys_Adda" title="Gladys Adda">Gladys Adda</a></li>
+<li><a href="/wiki/Robert_H._Adleman" title="Robert H. Adleman">Robert H. Adleman</a></li>
+<li><a href="/wiki/Julia_Adler" title="Julia Adler">Julia Adler</a></li>
+<li><a href="/wiki/Marion_Adnams" title="Marion Adnams">Marion Adnams</a></li>
+<li><a href="/wiki/J%C3%A1nos_Adorj%C3%A1n" title="János Adorján">János Adorján</a></li>
 <li><a href="/wiki/Richard_Adrian,_2nd_Baron_Adrian" title="Richard Adrian, 2nd Baron Adrian">Richard Adrian, 2nd Baron Adrian</a></li>
-<li><a href="/wiki/L._K._Advani" title="L. K. Advani">L. K. Advani</a></li>
-<li><a href="/wiki/Soshana_Afroyim" title="Soshana Afroyim">Soshana Afroyim</a></li>
-<li><a href="/wiki/Joseph_Agassi" title="Joseph Agassi">Joseph Agassi</a></li>
-<li><a href="/wiki/Omar_Aggad" title="Omar Aggad">Omar Aggad</a></li>
-<li><a href="/wiki/John_Agitation" title="John Agitation">John Agitation</a></li>
-<li><a href="/wiki/Marella_Agnelli" title="Marella Agnelli">Marella Agnelli</a></li>
-<li><a href="/wiki/Jos%C3%A9_Miguel_Agrelot" title="José Miguel Agrelot">José Miguel Agrelot</a></li>
-<li><a href="/wiki/Pedro_Aguilar" title="Pedro Aguilar">Pedro Aguilar</a></li>
-<li><a href="/wiki/Bertil_Ahlin" title="Bertil Ahlin">Bertil Ahlin</a></li>
-<li><a href="/wiki/Cvetka_Ahlin" title="Cvetka Ahlin">Cvetka Ahlin</a></li>
-<li><a href="/wiki/Ahmad_bin_Ibrahim" title="Ahmad bin Ibrahim">Ahmad bin Ibrahim</a></li>
-<li><a href="/wiki/Bedaruddin_Ahmad" title="Bedaruddin Ahmad">Bedaruddin Ahmad</a></li>
-<li><a href="/wiki/Abdul_Ghafoor_Ahmed" title="Abdul Ghafoor Ahmed">Abdul Ghafoor Ahmed</a></li>
-<li><a href="/wiki/Aziz_Abdullah_Ahmed" title="Aziz Abdullah Ahmed">Aziz Abdullah Ahmed</a></li>
-<li><a href="/wiki/Ian_Aitken_(journalist)" title="Ian Aitken (journalist)">Ian Aitken (journalist)</a></li>
-<li><a href="/wiki/Laurel_Aitken" title="Laurel Aitken">Laurel Aitken</a></li>
-<li><a href="/wiki/Mustafa_Ajanovi%C4%87" title="Mustafa Ajanović">Mustafa Ajanović</a></li>
-<li><a href="/wiki/Hirotugu_Akaike" title="Hirotugu Akaike">Hirotugu Akaike</a></li>
-<li><a href="/wiki/John_Akar" title="John Akar">John Akar</a></li>
-<li><a href="/wiki/Miriam_Akavia" title="Miriam Akavia">Miriam Akavia</a></li>
-<li><a href="/wiki/Jon_%C3%85ker" title="Jon Åker">Jon Åker</a></li>
-<li><a href="/wiki/David_Akers-Jones" title="David Akers-Jones">David Akers-Jones</a></li>
-<li><a href="/wiki/Gabdulkhay_Akhatov" title="Gabdulkhay Akhatov">Gabdulkhay Akhatov</a></li>
-<li><a href="/wiki/Akinpelu_Oludele_Adesola" title="Akinpelu Oludele Adesola">Akinpelu Oludele Adesola</a></li>
-<li><a href="/wiki/Ephraim_Akpata" title="Ephraim Akpata">Ephraim Akpata</a></li>
-<li><a href="/wiki/Ellen_Alak%C3%BCla" title="Ellen Alaküla">Ellen Alaküla</a></li>
-<li><a href="/wiki/Nadine_Alari" title="Nadine Alari">Nadine Alari</a></li>
-<li><a href="/wiki/%C4%B0shak_Alaton" title="İshak Alaton">İshak Alaton</a></li>
-<li><a href="/wiki/Soledad_Alatorre" title="Soledad Alatorre">Soledad Alatorre</a></li>
-<li><a href="/wiki/Gerlando_Alberti" title="Gerlando Alberti">Gerlando Alberti</a></li>
-<li><a href="/wiki/Ottorino_Pietro_Alberti" title="Ottorino Pietro Alberti">Ottorino Pietro Alberti</a></li>
-<li><a href="/wiki/Giampiero_Albertini" title="Giampiero Albertini">Giampiero Albertini</a></li>
-<li><a href="/wiki/Eunice_Alberts" title="Eunice Alberts">Eunice Alberts</a></li>
-<li><a href="/wiki/Anton_Alberts_(architect)" title="Anton Alberts (architect)">Anton Alberts (architect)</a></li>
-<li><a href="/wiki/Peter_Aldis" title="Peter Aldis">Peter Aldis</a></li>
-<li><a href="/wiki/Ann_Aldrich" title="Ann Aldrich">Ann Aldrich</a></li>
-<li><a href="/wiki/Frederick_Aldrich" title="Frederick Aldrich">Frederick Aldrich</a></li>
-<li><a href="/wiki/Pierre_Alechinsky" title="Pierre Alechinsky">Pierre Alechinsky</a></li>
-<li><a href="/wiki/David_Alexander-Sinclair" title="David Alexander-Sinclair">David Alexander-Sinclair</a></li>
-<li><a href="/wiki/Lee_Alexander_(politician)" title="Lee Alexander (politician)">Lee Alexander (politician)</a></li>
+<li><a href="/wiki/Mary_Adshead" title="Mary Adshead">Mary Adshead</a></li>
+<li><a href="/wiki/Hashu_Advani" title="Hashu Advani">Hashu Advani</a></li>
+<li><a href="/wiki/Niklaus_Aeschbacher" title="Niklaus Aeschbacher">Niklaus Aeschbacher</a></li>
+<li><a href="/wiki/Giancarlo_Agazzi" title="Giancarlo Agazzi">Giancarlo Agazzi</a></li>
+<li><a href="/wiki/Agha_Saadat_Ali" title="Agha Saadat Ali">Agha Saadat Ali</a></li>
+<li><a href="/wiki/Jalal_Agha" title="Jalal Agha">Jalal Agha</a></li>
+<li><a href="/wiki/Godfrey_Agnew" title="Godfrey Agnew">Godfrey Agnew</a></li>
+<li><a href="/wiki/Roberto_Ago" title="Roberto Ago">Roberto Ago</a></li>
+<li><a href="/wiki/Roberto_Agramonte" title="Roberto Agramonte">Roberto Agramonte</a></li>
+<li><a href="/wiki/Rafael_Aguilar" title="Rafael Aguilar">Rafael Aguilar</a></li>
+<li><a href="/wiki/Vital_Aha%C4%8Di%C4%8D" title="Vital Ahačič">Vital Ahačič</a></li>
+<li><a href="/wiki/Eden_ahbez" title="Eden ahbez">Eden ahbez</a></li>
+<li><a href="/wiki/Isolde_Ahlgrimm" title="Isolde Ahlgrimm">Isolde Ahlgrimm</a></li>
+<li><a href="/wiki/Lennart_Ahlin" title="Lennart Ahlin">Lennart Ahlin</a></li>
+<li><a href="/wiki/Anna_Molka_Ahmed" title="Anna Molka Ahmed">Anna Molka Ahmed</a></li>
+<li><a href="/wiki/Qadeeruddin_Ahmed" title="Qadeeruddin Ahmed">Qadeeruddin Ahmed</a></li>
+<li><a href="/wiki/Rachid_Baba_Ahmed" title="Rachid Baba Ahmed">Rachid Baba Ahmed</a></li>
+<li><a href="/wiki/Sylvester_Ahola" title="Sylvester Ahola">Sylvester Ahola</a></li>
+<li><a href="/wiki/Olavi_Ahonen_(basketball)" title="Olavi Ahonen (basketball)">Olavi Ahonen (basketball)</a></li>
+<li><a href="/wiki/John_Black_Aird" title="John Black Aird">John Black Aird</a></li>
+<li><a href="/wiki/Seiichi_Akamine" title="Seiichi Akamine">Seiichi Akamine</a></li>
+<li><a href="/wiki/Bengt_%C3%85kerblom" title="Bengt Åkerblom">Bengt Åkerblom</a></li>
+<li><a href="/wiki/Irvin_William_Akerley" title="Irvin William Akerley">Irvin William Akerley</a></li>
+<li><a href="/wiki/Doris_Akers" title="Doris Akers">Doris Akers</a></li>
+<li><a href="/wiki/Chingiz_Akhmarov" title="Chingiz Akhmarov">Chingiz Akhmarov</a></li>
+<li><a href="/wiki/Al_Akins" title="Al Akins">Al Akins</a></li>
+<li><a href="/wiki/Akiyo_Asaki" title="Akiyo Asaki">Akiyo Asaki</a></li>
+<li><a href="/wiki/Baha_Ak%C5%9Fit" title="Baha Akşit">Baha Akşit</a></li>
+<li><a href="/wiki/Ogdo_Aksyonova" title="Ogdo Aksyonova">Ogdo Aksyonova</a></li>
+<li><a href="/wiki/Enrique_Alarc%C3%B3n" title="Enrique Alarcón">Enrique Alarcón</a></li>
+<li><a href="/wiki/Paolo_Alatri" title="Paolo Alatri">Paolo Alatri</a></li>
+<li><a href="/wiki/Panchito_Alba" title="Panchito Alba">Panchito Alba</a></li>
+<li><a href="/wiki/Carlos_Alb%C3%A1n_Holgu%C3%ADn" title="Carlos Albán Holguín">Carlos Albán Holguín</a></li>
+<li><a href="/wiki/Fabio_Albarelli" title="Fabio Albarelli">Fabio Albarelli</a></li>
+<li><a href="/wiki/Carl_Albert_(musician)" title="Carl Albert (musician)">Carl Albert (musician)</a></li>
+<li><a href="/wiki/Svend_Albinus" title="Svend Albinus">Svend Albinus</a></li>
+<li><a href="/wiki/Emmy_Albus" title="Emmy Albus">Emmy Albus</a></li>
+<li><a href="/wiki/Teodoro_%22Prisco%22_Alcalde_Millos" title="Teodoro &quot;Prisco&quot; Alcalde Millos">Teodoro &quot;Prisco&quot; Alcalde Millos</a></li>
+<li><a href="/wiki/James_E._Alderman" title="James E. Alderman">James E. Alderman</a></li>
+<li><a href="/wiki/Stan_Aldous" title="Stan Aldous">Stan Aldous</a></li>
+<li><a href="/wiki/Michael_Aldred" title="Michael Aldred">Michael Aldred</a></li>
+<li><a href="/wiki/John_Warren_Aldrich" title="John Warren Aldrich">John Warren Aldrich</a></li>
+<li><a href="/wiki/Kay_Aldridge" title="Kay Aldridge">Kay Aldridge</a></li>
+<li><a href="/wiki/Julio_Alejandro" title="Julio Alejandro">Julio Alejandro</a></li>
+<li><a href="/wiki/Aleksandr_Gryunberg-Tsvetinovich" title="Aleksandr Gryunberg-Tsvetinovich">Aleksandr Gryunberg-Tsvetinovich</a></li>
+<li><a href="/wiki/Vladimir_Aleksenko" title="Vladimir Aleksenko">Vladimir Aleksenko</a></li>
+<li><a href="/wiki/Mija_Aleksi%C4%87" title="Mija Aleksić">Mija Aleksić</a></li>
+<li><a href="/wiki/Armando_Alem%C3%A1n" title="Armando Alemán">Armando Alemán</a></li>
+<li><a href="/wiki/Ioannis_Alevras" title="Ioannis Alevras">Ioannis Alevras</a></li>
+<li><a href="/wiki/Alexander_Edelmann" title="Alexander Edelmann">Alexander Edelmann</a></li>
+<li><a href="/wiki/Anna_Margaret_Ross_Alexander" title="Anna Margaret Ross Alexander">Anna Margaret Ross Alexander</a></li>
+<li><a href="/wiki/Brigitte_Alexander" title="Brigitte Alexander">Brigitte Alexander</a></li>
+<li><a href="/wiki/David_Alexander_(singer)" title="David Alexander (singer)">David Alexander (singer)</a></li>
+<li><a href="/wiki/Ronald_Alexander_(playwright)" title="Ronald Alexander (playwright)">Ronald Alexander (playwright)</a></li>
+<li><a href="/wiki/Wal_Alexander" title="Wal Alexander">Wal Alexander</a></li>
 <li><span class="redirect-in-category"><a href="/wiki/Bill_Alexander_(engineer)" class="mw-redirect" title="Bill Alexander (engineer)">Bill Alexander (engineer)</a></span></li>
-<li><a href="/wiki/Roland_Alexandre" title="Roland Alexandre">Roland Alexandre</a></li>
-<li><a href="/wiki/Sarane_Alexandrian" title="Sarane Alexandrian">Sarane Alexandrian</a></li>
-<li><a href="/wiki/Lyudmila_Alexeyeva" title="Lyudmila Alexeyeva">Lyudmila Alexeyeva</a></li>
-<li><a href="/wiki/Ra%C3%BAl_Alfons%C3%ADn" title="Raúl Alfonsín">Raúl Alfonsín</a></li>
-<li><a href="/wiki/Ali_Qoddusi" title="Ali Qoddusi">Ali Qoddusi</a></li>
-<li><a href="/wiki/Ali_Said_(Indonesia)" title="Ali Said (Indonesia)">Ali Said (Indonesia)</a></li>
-<li><a href="/wiki/Ben_Ali_(businessman)" title="Ben Ali (businessman)">Ben Ali (businessman)</a></li>
-<li><a href="/wiki/Israr_Ali" title="Israr Ali">Israr Ali</a></li>
-<li><a href="/wiki/Sheik_Ali" title="Sheik Ali">Sheik Ali</a></li>
-<li><a href="/wiki/Jamil_Alibekov" title="Jamil Alibekov">Jamil Alibekov</a></li>
-<li><a href="/wiki/Habil_Aliyev" title="Habil Aliyev">Habil Aliyev</a></li>
-<li><a href="/wiki/Mowaffak_Allaf" title="Mowaffak Allaf">Mowaffak Allaf</a></li>
-<li><a href="/wiki/Les_Allan" title="Les Allan">Les Allan</a></li>
-<li><a href="/wiki/Edith_Allard" title="Edith Allard">Edith Allard</a></li>
-<li><a href="/wiki/Bridget_Allchin" title="Bridget Allchin">Bridget Allchin</a></li>
-<li><a href="/wiki/Betty_Allen" title="Betty Allen">Betty Allen</a></li>
-<li><a href="/wiki/James_B._Allen_(historian)" title="James B. Allen (historian)">James B. Allen (historian)</a></li>
-<li><a href="/wiki/Lee_Allen_(musician)" title="Lee Allen (musician)">Lee Allen (musician)</a></li>
-<li><a href="/wiki/R._Lee_Allen" title="R. Lee Allen">R. Lee Allen</a></li>
-<li><a href="/wiki/Patrick_Allen" title="Patrick Allen">Patrick Allen</a></li>
-<li><a href="/wiki/Robert_Allen_(composer)" title="Robert Allen (composer)">Robert Allen (composer)</a></li>
-<li><a href="/wiki/Anthea_Alley" title="Anthea Alley">Anthea Alley</a></li>
-<li><a href="/wiki/Carroll_Alley" title="Carroll Alley">Carroll Alley</a></li>
-<li><a href="/wiki/Louise_Alley" title="Louise Alley">Louise Alley</a></li>
-<li><a href="/wiki/C._FitzSimons_Allison" title="C. FitzSimons Allison">C. FitzSimons Allison</a></li>
-<li><a href="/wiki/Malcolm_Allison" title="Malcolm Allison">Malcolm Allison</a></li>
-<li><a href="/wiki/Mose_Allison" title="Mose Allison">Mose Allison</a></li>
-<li><a href="/wiki/Jack_Allister_(Scottish_footballer)" title="Jack Allister (Scottish footballer)">Jack Allister (Scottish footballer)</a></li>
-<li><a href="/wiki/Robert_Allman" title="Robert Allman">Robert Allman</a></li>
-<li><a href="/wiki/Juan_Almeida_Bosque" title="Juan Almeida Bosque">Juan Almeida Bosque</a></li>
-<li><a href="/wiki/Ingrid_Almqvist" title="Ingrid Almqvist">Ingrid Almqvist</a></li>
-<li><a href="/wiki/Andr%C3%A9_Almur%C3%B3" title="André Almuró">André Almuró</a></li>
-<li><a href="/wiki/Mirghani_Alnasri" title="Mirghani Alnasri">Mirghani Alnasri</a></li>
-<li><a href="/wiki/Juan_Alonso" title="Juan Alonso">Juan Alonso</a></li>
-<li><a href="/wiki/Ilse_von_Alpenheim" title="Ilse von Alpenheim">Ilse von Alpenheim</a></li>
-<li><a href="/wiki/Donald_D._Alsop" title="Donald D. Alsop">Donald D. Alsop</a></li>
-<li><a href="/wiki/Robert_Alt" title="Robert Alt">Robert Alt</a></li>
-<li><a href="/wiki/%C3%87etin_Altan" title="Çetin Altan">Çetin Altan</a></li>
-<li><a href="/wiki/Joanne_H._Alter" title="Joanne H. Alter">Joanne H. Alter</a></li>
-<li><a href="/wiki/Math%C3%A9_Alt%C3%A9ry" title="Mathé Altéry">Mathé Altéry</a></li>
-<li><a href="/wiki/Thomas_J._J._Altizer" title="Thomas J. J. Altizer">Thomas J. J. Altizer</a></li>
-<li><a href="/wiki/Jesse_Alto" title="Jesse Alto">Jesse Alto</a></li>
-<li><a href="/wiki/Javier_Alva_Orlandini" title="Javier Alva Orlandini">Javier Alva Orlandini</a></li>
-<li><a href="/wiki/Luigi_Alva" title="Luigi Alva">Luigi Alva</a></li>
-<li><a href="/wiki/Carlos_Alvarado_Villalobos" title="Carlos Alvarado Villalobos">Carlos Alvarado Villalobos</a></li>
-<li><a href="/wiki/Huberto_Alvarado_Arellano" title="Huberto Alvarado Arellano">Huberto Alvarado Arellano</a></li>
-<li><a href="/wiki/Abrar_Alvi" title="Abrar Alvi">Abrar Alvi</a></li>
-<li><a href="/wiki/Des_Alwi" title="Des Alwi">Des Alwi</a></li>
-<li><a href="/wiki/Hern%C3%A1n_Alzamora" title="Hernán Alzamora">Hernán Alzamora</a></li>
-<li><a href="/wiki/W._D._Amaradeva" title="W. D. Amaradeva">W. D. Amaradeva</a></li>
-<li><a href="/wiki/Jes%C3%BAs_Eduardo_Amaral" title="Jesús Eduardo Amaral">Jesús Eduardo Amaral</a></li>
-<li><a href="/wiki/Akitsugu_Amata" title="Akitsugu Amata">Akitsugu Amata</a></li>
-<li><a href="/wiki/Anna_Amendola" title="Anna Amendola">Anna Amendola</a></li>
-<li><a href="/wiki/Ed_Ames" title="Ed Ames">Ed Ames</a></li>
-<li><a href="/wiki/Ronald_Amess" title="Ronald Amess">Ronald Amess</a></li>
-<li><a href="/wiki/Tengiz_Amirejibi" title="Tengiz Amirejibi">Tengiz Amirejibi</a></li>
-<li><a href="/wiki/A._Amirthalingam" title="A. Amirthalingam">A. Amirthalingam</a></li>
-<li><a href="/wiki/Ray_Amm" title="Ray Amm">Ray Amm</a></li>
-<li><a href="/wiki/Rub%C3%A9n_Amor%C3%ADn" title="Rubén Amorín">Rubén Amorín</a></li>
-<li><a href="/wiki/Fe_Amorsolo" title="Fe Amorsolo">Fe Amorsolo</a></li>
-<li><a href="/wiki/Richard_Amory" title="Richard Amory">Richard Amory</a></li>
-<li><a href="/wiki/Jill_Amos" title="Jill Amos">Jill Amos</a></li>
-<li><a href="/wiki/Tanjore_Ramachandra_Anantharaman" title="Tanjore Ramachandra Anantharaman">Tanjore Ramachandra Anantharaman</a></li>
-<li><a href="/wiki/Betsy_Ancker-Johnson" title="Betsy Ancker-Johnson">Betsy Ancker-Johnson</a></li>
-<li><a href="/wiki/Greta_Andersen" title="Greta Andersen">Greta Andersen</a></li>
-<li><a href="/wiki/Charles_Buell_Anderson" title="Charles Buell Anderson">Charles Buell Anderson</a></li>
-<li><a href="/wiki/Doug_Anderson_(ice_hockey)" title="Doug Anderson (ice hockey)">Doug Anderson (ice hockey)</a></li>
-<li><a href="/wiki/Eugene_Anderson" title="Eugene Anderson">Eugene Anderson</a></li>
-<li><a href="/wiki/J._Edward_Anderson" title="J. Edward Anderson">J. Edward Anderson</a></li>
-<li><a href="/wiki/Jannette_Anderson" title="Jannette Anderson">Jannette Anderson</a></li>
-<li><a href="/wiki/Liz_Anderson" title="Liz Anderson">Liz Anderson</a></li>
-<li><a href="/wiki/Neil_Anderson_(RNZN_officer)" title="Neil Anderson (RNZN officer)">Neil Anderson (RNZN officer)</a></li>
-<li><a href="/wiki/Ralph_Anderson_(politician)" title="Ralph Anderson (politician)">Ralph Anderson (politician)</a></li>
-<li><a href="/wiki/Rudolf_Anderson" title="Rudolf Anderson">Rudolf Anderson</a></li>
-<li><a href="/wiki/Sylvia_Anderson" title="Sylvia Anderson">Sylvia Anderson</a></li>
-<li><a href="/wiki/Wallace_%22Mad_Bear%22_Anderson" title="Wallace &quot;Mad Bear&quot; Anderson">Wallace &quot;Mad Bear&quot; Anderson</a></li>
-<li><a href="/wiki/William_G._Anderson" title="William G. Anderson">William G. Anderson</a></li>
-<li><a href="/wiki/Karl-Erik_Andersson" title="Karl-Erik Andersson">Karl-Erik Andersson</a></li>
-<li><a href="/wiki/Stig_Andersson_(canoeist)" title="Stig Andersson (canoeist)">Stig Andersson (canoeist)</a></li>
-<li><a href="/wiki/Gyula_Andr%C3%A1si" title="Gyula Andrási">Gyula Andrási</a></li>
-<li><a href="/wiki/Joseph_F._Andrea" title="Joseph F. Andrea">Joseph F. Andrea</a></li>
-<li><a href="/wiki/Yannick_Andr%C3%A9i" title="Yannick Andréi">Yannick Andréi</a></li>
-<li><a href="/wiki/Hans_Andresen" title="Hans Andresen">Hans Andresen</a></li>
-<li><a href="/wiki/Ernie_Andrews" title="Ernie Andrews">Ernie Andrews</a></li>
-<li><a href="/wiki/Jimmy_Andrews" title="Jimmy Andrews">Jimmy Andrews</a></li>
-<li><a href="/wiki/Ralph_Andrews" title="Ralph Andrews">Ralph Andrews</a></li>
-<li><a href="/wiki/Ross_Andru" title="Ross Andru">Ross Andru</a></li>
-<li><a href="/wiki/Peter_Andry" title="Peter Andry">Peter Andry</a></li>
-<li><a href="/wiki/Ang_It-hong" title="Ang It-hong">Ang It-hong</a></li>
-<li><a href="/wiki/Angela_Flanders" title="Angela Flanders">Angela Flanders</a></li>
-<li><a href="/wiki/Alfredo_Angeli" title="Alfredo Angeli">Alfredo Angeli</a></li>
-<li><a href="/wiki/Kenneth_Anger" title="Kenneth Anger">Kenneth Anger</a></li>
-<li><a href="/wiki/Paul_Angerer" title="Paul Angerer">Paul Angerer</a></li>
-<li><a href="/wiki/Carlett_Brown_Angianlee" title="Carlett Brown Angianlee">Carlett Brown Angianlee</a></li>
-<li><a href="/wiki/Carol_Remmer_Angle" title="Carol Remmer Angle">Carol Remmer Angle</a></li>
-<li><a href="/wiki/Tuomas_Anhava" title="Tuomas Anhava">Tuomas Anhava</a></li>
-<li><a href="/wiki/Nesmith_Ankeny" title="Nesmith Ankeny">Nesmith Ankeny</a></li>
-<li><a href="/wiki/Peter_Anker_(art_historian)" title="Peter Anker (art historian)">Peter Anker (art historian)</a></li>
-<li><a href="/wiki/Boudjema%C3%A2_El_Ankis" title="Boudjemaâ El Ankis">Boudjemaâ El Ankis</a></li></ul></div></div></div>(previous page) (<a href="/w/index.php?title=Category:1927_births&amp;pagefrom=Annaly%2C+Luke+White%2C+5th+Baron%0ALuke+White%2C+5th+Baron+Annaly#mw-pages" title="Category:1927 births">next page</a>)
+<li><a href="/wiki/Andrzej_Alexiewicz" title="Andrzej Alexiewicz">Andrzej Alexiewicz</a></li>
+<li><a href="/wiki/John_Alford_(priest)" title="John Alford (priest)">John Alford (priest)</a></li>
+<li><a href="/wiki/Alfred_Rewane" title="Alfred Rewane">Alfred Rewane</a></li>
+<li><a href="/wiki/Hannes_Alfv%C3%A9n" title="Hannes Alfvén">Hannes Alfvén</a></li>
+<li><a href="/wiki/Ayub_Ali" title="Ayub Ali">Ayub Ali</a></li>
+<li><a href="/wiki/Hauwa_Ali" title="Hauwa Ali">Hauwa Ali</a></li>
+<li><a href="/wiki/Murder_of_Ibrahim_Ali" title="Murder of Ibrahim Ali">Murder of Ibrahim Ali</a></li>
+<li><a href="/wiki/Inshan_Ali" title="Inshan Ali">Inshan Ali</a></li>
+<li><a href="/wiki/Ali_Aliyev_(wrestler)" title="Ali Aliyev (wrestler)">Ali Aliyev (wrestler)</a></li>
+<li><a href="/wiki/Sadri_Al%C4%B1%C5%9F%C4%B1k" title="Sadri Alışık">Sadri Alışık</a></li>
+<li><a href="/wiki/Amiraslan_Aliyev" title="Amiraslan Aliyev">Amiraslan Aliyev</a></li>
+<li><a href="/wiki/Fouad_Abdulhameed_Alkhateeb" title="Fouad Abdulhameed Alkhateeb">Fouad Abdulhameed Alkhateeb</a></li>
+<li><a href="/wiki/Ted_Allan" title="Ted Allan">Ted Allan</a></li>
+<li><a href="/wiki/Paul-%C3%89mile_Allard" title="Paul-Émile Allard">Paul-Émile Allard</a></li>
+<li><a href="/wiki/Jim_Alldis_Sr." title="Jim Alldis Sr.">Jim Alldis Sr.</a></li>
+<li><a href="/wiki/Dennis_Allen_(footballer)" title="Dennis Allen (footballer)">Dennis Allen (footballer)</a></li>
+<li><a href="/wiki/Dennis_Roy_Allen_(TV_comedian)" title="Dennis Roy Allen (TV comedian)">Dennis Roy Allen (TV comedian)</a></li>
+<li><a href="/wiki/Fletcher_Allen" title="Fletcher Allen">Fletcher Allen</a></li>
+<li><a href="/wiki/Jack_Allen_(actor)" title="Jack Allen (actor)">Jack Allen (actor)</a></li>
+<li><a href="/wiki/Jimmy_Allen_(footballer,_born_1909)" title="Jimmy Allen (footballer, born 1909)">Jimmy Allen (footballer, born 1909)</a></li>
+<li><a href="/wiki/John_J._Allen_Jr." title="John J. Allen Jr.">John J. Allen Jr.</a></li>
+<li><a href="/wiki/Maxine_Allen" title="Maxine Allen">Maxine Allen</a></li>
+<li><a href="/wiki/Michael_Allen_(cricketer)" title="Michael Allen (cricketer)">Michael Allen (cricketer)</a></li>
+<li><a href="/wiki/Viv_Allen" title="Viv Allen">Viv Allen</a></li>
+<li><a href="/wiki/Walter_Allen" title="Walter Allen">Walter Allen</a></li>
+<li><a href="/wiki/Eleanor_Aller" title="Eleanor Aller">Eleanor Aller</a></li>
+<li><a href="/wiki/Franz_Allers" title="Franz Allers">Franz Allers</a></li>
+<li><a href="/wiki/Ren%C3%A9_Allio" title="René Allio">René Allio</a></li>
+<li><a href="/wiki/Bob_Allison" title="Bob Allison">Bob Allison</a></li>
+<li><a href="/wiki/Maurice_Allom" title="Maurice Allom">Maurice Allom</a></li>
+<li><a href="/wiki/Dumitru_Alma%C8%99" title="Dumitru Almaș">Dumitru Almaș</a></li>
+<li><a href="/wiki/Laurindo_Almeida" title="Laurindo Almeida">Laurindo Almeida</a></li>
+<li><a href="/wiki/Alejandro_Almendras" title="Alejandro Almendras">Alejandro Almendras</a></li>
+<li><span class="redirect-in-category"><a href="/wiki/Baylee_Almon" class="mw-redirect" title="Baylee Almon">Baylee Almon</a></span></li>
+<li><a href="/wiki/Tikvah_Alper" title="Tikvah Alper">Tikvah Alper</a></li>
+<li><a href="/wiki/Isa_Alptekin" title="Isa Alptekin">Isa Alptekin</a></li>
+<li><a href="/wiki/Wilhelm_Altar" title="Wilhelm Altar">Wilhelm Altar</a></li>
+<li><a href="/wiki/Charles_Altemose" title="Charles Altemose">Charles Altemose</a></li>
+<li><a href="/wiki/Ike_Altgens" title="Ike Altgens">Ike Altgens</a></li>
+<li><a href="/wiki/Augusto_H._%C3%81lvarez" title="Augusto H. Álvarez">Augusto H. Álvarez</a></li>
+<li><a href="/wiki/Al_Alvarez_(basketball)" title="Al Alvarez (basketball)">Al Alvarez (basketball)</a></li>
+<li><a href="/wiki/Elvis_%C3%81lvarez" title="Elvis Álvarez">Elvis Álvarez</a></li>
+<li><a href="/wiki/Max_Alwin" title="Max Alwin">Max Alwin</a></li>
+<li><a href="/wiki/Silvio_Amadio" title="Silvio Amadio">Silvio Amadio</a></li>
+<li><a href="/wiki/Ry%C5%ABichi_Amano" title="Ryūichi Amano">Ryūichi Amano</a></li>
+<li><a href="/wiki/Graciela_Amaya_de_Garc%C3%ADa" title="Graciela Amaya de García">Graciela Amaya de García</a></li>
+<li><a href="/wiki/Lou_Ambers" title="Lou Ambers">Lou Ambers</a></li>
+<li><a href="/wiki/Warren_Ambrose" title="Warren Ambrose">Warren Ambrose</a></li>
+<li><a href="/wiki/Bill_Amick" title="Bill Amick">Bill Amick</a></li>
+<li><a href="/wiki/Red_Amick" title="Red Amick">Red Amick</a></li>
+<li><a href="/wiki/Jean_Amila" title="Jean Amila">Jean Amila</a></li>
+<li><a href="/wiki/S._K._Amin" title="S. K. Amin">S. K. Amin</a></li>
+<li><a href="/wiki/Naomi_Amir" title="Naomi Amir">Naomi Amir</a></li>
+<li><a href="/wiki/Amirmachmud" title="Amirmachmud">Amirmachmud</a></li>
+<li><a href="/wiki/Kingsley_Amis" title="Kingsley Amis">Kingsley Amis</a></li>
+<li><a href="/wiki/Gordon_Amos" title="Gordon Amos">Gordon Amos</a></li>
+<li><a href="/wiki/Ephraim_Amu" title="Ephraim Amu">Ephraim Amu</a></li>
+<li><span class="redirect-in-category"><a href="/wiki/An_Marchal" class="mw-redirect" title="An Marchal">An Marchal</a></span></li>
+<li><a href="/wiki/Luciano_Anceschi" title="Luciano Anceschi">Luciano Anceschi</a></li>
+<li><a href="/wiki/Carlos_de_Anda" title="Carlos de Anda">Carlos de Anda</a></li>
+<li><a href="/wiki/Maria_Andergast" title="Maria Andergast">Maria Andergast</a></li>
+<li><a href="/wiki/Tadeusz_Anders" title="Tadeusz Anders">Tadeusz Anders</a></li>
+<li><a href="/wiki/Helen_Andersen" title="Helen Andersen">Helen Andersen</a></li>
+<li><a href="/wiki/Inger_Marie_Andersen" title="Inger Marie Andersen">Inger Marie Andersen</a></li>
+<li><a href="/wiki/Poul_Andersen_(footballer,_born_1930)" title="Poul Andersen (footballer, born 1930)">Poul Andersen (footballer, born 1930)</a></li>
+<li><a href="/wiki/Ragnvald_Mikal_Andersen" title="Ragnvald Mikal Andersen">Ragnvald Mikal Andersen</a></li>
+<li><a href="/wiki/Rigmor_Andersen" title="Rigmor Andersen">Rigmor Andersen</a></li>
+<li><a href="/wiki/Cal_Anderson" title="Cal Anderson">Cal Anderson</a></li>
+<li><a href="/wiki/David_Anderson_(judge)" title="David Anderson (judge)">David Anderson (judge)</a></li>
+<li><a href="/wiki/Donald_M._Anderson" title="Donald M. Anderson">Donald M. Anderson</a></li>
+<li><a href="/wiki/Gerald_K._Anderson" title="Gerald K. Anderson">Gerald K. Anderson</a></li>
+<li><a href="/wiki/Robert_Anderson_(singer)" title="Robert Anderson (singer)">Robert Anderson (singer)</a></li>
+<li><a href="/wiki/Robert_Alexander_Anderson_(composer)" title="Robert Alexander Anderson (composer)">Robert Alexander Anderson (composer)</a></li>
+<li><a href="/wiki/Walter_Anderson_(trade_unionist)" title="Walter Anderson (trade unionist)">Walter Anderson (trade unionist)</a></li>
+<li><a href="/wiki/Caesar_Andrade_Faini" title="Caesar Andrade Faini">Caesar Andrade Faini</a></li>
+<li><a href="/wiki/Vazken_Andr%C3%A9assian" title="Vazken Andréassian">Vazken Andréassian</a></li>
+<li><a href="/wiki/The_Andrews_Sisters" title="The Andrews Sisters">The Andrews Sisters</a></li>
+<li><a href="/wiki/Harold_Andrews_(politician)" title="Harold Andrews (politician)">Harold Andrews (politician)</a></li>
+<li><a href="/wiki/Michael_Andrews_(artist)" title="Michael Andrews (artist)">Michael Andrews (artist)</a></li>
+<li><a href="/wiki/Stan_Andrews" title="Stan Andrews">Stan Andrews</a></li>
+<li><a href="/wiki/Gilles_Andruet" title="Gilles Andruet">Gilles Andruet</a></li>
+<li><a href="/wiki/Christian_B._Anfinsen" title="Christian B. Anfinsen">Christian B. Anfinsen</a></li>
+<li><a href="/wiki/Nalin_Angammana" title="Nalin Angammana">Nalin Angammana</a></li>
+<li><a href="/wiki/Alfonso_Angelini" title="Alfonso Angelini">Alfonso Angelini</a></li>
+<li><a href="/wiki/Don_Anielak" title="Don Anielak">Don Anielak</a></li>
+<li><a href="/wiki/Roy_Ankrah" title="Roy Ankrah">Roy Ankrah</a></li>
+<li><a href="/wiki/Robert_Annis" title="Robert Annis">Robert Annis</a></li>
+<li><a href="/wiki/Rene_Anselmo" title="Rene Anselmo">Rene Anselmo</a></li>
+<li><a href="/wiki/R%C3%B3bert_Antal" title="Róbert Antal">Róbert Antal</a></li>
+<li><a href="/wiki/Rollen_Henry_Anthis" title="Rollen Henry Anthis">Rollen Henry Anthis</a></li>
+<li><a href="/wiki/Severo_Antonelli" title="Severo Antonelli">Severo Antonelli</a></li>
+<li><a href="/wiki/Dhimit%C3%ABr_Antoni" title="Dhimitër Antoni">Dhimitër Antoni</a></li>
+<li><a href="/wiki/Johannes_Antonsson" title="Johannes Antonsson">Johannes Antonsson</a></li>
+<li><a href="/wiki/Lito_Anzures" title="Lito Anzures">Lito Anzures</a></li>
+<li><a href="/wiki/Leo_Apostel" title="Leo Apostel">Leo Apostel</a></li>
+<li><a href="/wiki/Fred_Appleyard_(footballer)" title="Fred Appleyard (footballer)">Fred Appleyard (footballer)</a></li>
+<li><a href="/wiki/Boris_Aprilov" title="Boris Aprilov">Boris Aprilov</a></li>
+<li><a href="/wiki/Yan_Chernyak" title="Yan Chernyak">Yan Chernyak</a></li>
+<li><a href="/wiki/Gabriel_Arag%C3%B3n" title="Gabriel Aragón">Gabriel Aragón</a></li>
+<li><a href="/wiki/Michael_Arattukulam" title="Michael Arattukulam">Michael Arattukulam</a></li>
+<li><a href="/wiki/Richard_Arbib" title="Richard Arbib">Richard Arbib</a></li>
+<li><a href="/wiki/Thomas_Arbuthnott" title="Thomas Arbuthnott">Thomas Arbuthnott</a></li>
+<li><a href="/wiki/Ivo_Ar%C4%8Danin" title="Ivo Arčanin">Ivo Arčanin</a></li>
+<li><a href="/wiki/Cesar_Rene_Arce" title="Cesar Rene Arce">Cesar Rene Arce</a></li>
+<li><a href="/wiki/Gerald_Thomas_Archer" title="Gerald Thomas Archer">Gerald Thomas Archer</a></li>
+<li><a href="/wiki/Nike_Ardilla" title="Nike Ardilla">Nike Ardilla</a></li>
+<li><a href="/wiki/Phillip_E._Areeda" title="Phillip E. Areeda">Phillip E. Areeda</a></li>
+<li><a href="/wiki/Hipolito_Arenas" title="Hipolito Arenas">Hipolito Arenas</a></li></ul></div></div></div>(previous page) (<a href="/w/index.php?title=Category:1995_deaths&amp;pagefrom=Arenas%2C+Rodrigo%0ARodrigo+Arenas+Betancourt#mw-pages" title="Category:1995 deaths">next page</a>)
 </div></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
-						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Category:1927_births&amp;oldid=543594303">https://en.wikipedia.org/w/index.php?title=Category:1927_births&amp;oldid=543594303</a>"					</div>
-				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1927" title="Category:1927">1927</a></li><li><a href="/wiki/Category:1920s_births" title="Category:1920s births">1920s births</a></li></ul></div></div>				<div class="visualClear"></div>
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Category:1995_deaths&amp;oldid=681403895">https://en.wikipedia.org/w/index.php?title=Category:1995_deaths&amp;oldid=681403895</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1995" title="Category:1995">1995</a></li><li><a href="/wiki/Category:1990s_deaths" title="Category:1990s deaths">1990s deaths</a></li></ul></div></div>				<div class="visualClear"></div>
 							</div>
 		</div>
 		<div id="mw-navigation">
-			<h2>Navigation menu</h2>
-
-			<div id="mw-head">
-									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
-						<h3 id="p-personal-label">Personal tools</h3>
-						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Category%3A1927+births" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Category%3A1927+births" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
-					</div>
-									<div id="left-navigation">
-										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
-						<h3 id="p-namespaces-label">Namespaces</h3>
-						<ul>
-														<li id="ca-nstab-category" class="selected"><span><a href="/wiki/Category:1927_births" title="View the category page [c]" accesskey="c">Category</a></span></li>
-							<li id="ca-talk"><span><a href="/wiki/Category_talk:1927_births" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
-						</ul>
-					</div>
-										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
-												<h3 id="p-variants-label">
-							<span>Variants</span>
-						</h3>
-
-						<div class="menu">
-							<ul>
-															</ul>
-						</div>
-					</div>
-									</div>
-				<div id="right-navigation">
-										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
-						<h3 id="p-views-label">Views</h3>
-						<ul>
-														<li id="ca-view" class="selected"><span><a href="/wiki/Category:1927_births">Read</a></span></li>
-							<li id="ca-edit"><span><a href="/w/index.php?title=Category:1927_births&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
-							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Category:1927_births&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
-						</ul>
-					</div>
-										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
-						<h3 id="p-cactions-label"><span>More</span></h3>
-
-						<div class="menu">
-							<ul>
-															</ul>
-						</div>
-					</div>
-										<div id="p-search" role="search">
-						<h3>
-							<label for="searchInput">Search</label>
-						</h3>
-
-						<form action="/w/index.php" id="searchform">
-							<div id="simpleSearch">
-							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
-						</form>
-					</div>
-									</div>
-			</div>
-			<div id="mw-panel">
-				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
-						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
-			<h3 id='p-navigation-label'>Navigation</h3>
-
-			<div class="body">
-									<ul>
-						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
-			<h3 id='p-interaction-label'>Interaction</h3>
-
-			<div class="body">
-									<ul>
-						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
-			<h3 id='p-tb-label'>Tools</h3>
-
-			<div class="body">
-									<ul>
-						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Category:1927_births" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Category:1927_births" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Category:1927_births&amp;oldid=543594303" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Category:1927_births&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6647300" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
-			<h3 id='p-coll-print_export-label'>Print/export</h3>
-
-			<div class="body">
-									<ul>
-						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Category%3A1927+births">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Category%3A1927+births&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DCategory%253A1927%2Bbirths%26returnto%3DCategory%253A1927%2Bbirths%26oldid%3D543594303%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Category:1927_births&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
-			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
-
-			<div class="body">
-									<ul>
-						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:1927_births" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikisource"><a href="https://en.wikisource.org/wiki/Category:1927_births" hreflang="en">Wikisource</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
-			<h3 id='p-lang-label'>Languages</h3>
-
-			<div class="body">
-									<ul>
-						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81:%D9%85%D9%88%D8%A7%D9%84%D9%8A%D8%AF_1927" title="تصنيف:مواليد 1927 – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Categor%C3%ADa:1927_(naixencias)" title="Categoría:1927 (naixencias) – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Categor%C3%ADa:Nac%C3%ADos_en_1927" title="Categoría:Nacíos en 1927 – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-ay"><a href="https://ay.wikipedia.org/wiki/Categor%C3%ADa:Asu_1927" title="Categoría:Asu 1927 – Aymara" lang="ay" hreflang="ay" class="interlanguage-link-target">Aymar aru</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Kateqoriya:1927-ci_ild%C9%99_do%C4%9Fulanlar" title="Kateqoriya:1927-ci ildə doğulanlar – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A6%AF%E0%A6%BC%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A7%80:%E0%A7%A7%E0%A7%AF%E0%A7%A8%E0%A7%AD-%E0%A6%8F_%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AE" title="বিষয়শ্রেণী:১৯২৭-এ জন্ম – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/L%C5%ABi-pia%CC%8Dt:1927_n%C3%AE_chhut-s%C3%AC" title="Lūi-pia̍t:1927 nî chhut-sì – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:1927_%D0%B9%D1%8B%D0%BB%D0%B4%D0%B0_%D1%82%D1%8B%D1%83%D2%93%D0%B0%D0%BD%D0%B4%D0%B0%D1%80" title="Категория:1927 йылда тыуғандар – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D1%8D%D0%B3%D0%BE%D1%80%D1%8B%D1%8F:%D0%9D%D0%B0%D1%80%D0%B0%D0%B4%D0%B7%D1%96%D0%BB%D1%96%D1%81%D1%8F_%D1%9E_1927_%D0%B3%D0%BE%D0%B4%D0%B7%D0%B5" title="Катэгорыя:Нарадзіліся ў 1927 годзе – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D1%8D%D0%B3%D0%BE%D1%80%D1%8B%D1%8F:%D0%9D%D0%B0%D1%80%D0%B0%D0%B4%D0%B7%D1%96%D0%BB%D1%96%D1%81%D1%8F_%D1%9E_1927_%D0%B3%D0%BE%D0%B4%D0%B7%D0%B5" title="Катэгорыя:Нарадзіліся ў 1927 годзе – Belarusian (Taraškievica orthography)" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A3%E0%A5%80:1927_%E0%A4%AE%E0%A5%87%E0%A4%82_%E0%A4%9C%E0%A4%A8%E0%A4%AE" title="श्रेणी:1927 में जनम – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B8_%D0%BF%D1%80%D0%B5%D0%B7_1927_%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0" title="Категория:Родени през 1927 година – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Kategorie:Geboren_1927" title="Kategorie:Geboren 1927 – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Kategorija:Ro%C4%91eni_1927." title="Kategorija:Rođeni 1927. – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Rummad:Ganedigezhio%C3%B9_1927" title="Rummad:Ganedigezhioù 1927 – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8:1927_%C3%A7%D1%83%D0%BB%D1%82%D0%B0_%C3%A7%D1%83%D1%80%D0%B0%D0%BB%D0%BD%D0%B8%D1%81%D0%B5%D0%BC" title="Категори:1927 çулта çуралнисем – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Kategorie:Narozen%C3%AD_1927" title="Kategorie:Narození 1927 – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Categori:Genedigaethau_1927" title="Categori:Genedigaethau 1927 – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Kategori:F%C3%B8dt_i_1927" title="Kategori:Født i 1927 – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-pdc"><a href="https://pdc.wikipedia.org/wiki/Abdeeling:Gebore_1927" title="Abdeeling:Gebore 1927 – Pennsylvania German" lang="pdc" hreflang="pdc" class="interlanguage-link-target">Deitsch</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Kategorie:Geboren_1927" title="Kategorie:Geboren 1927 – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-dsb"><a href="https://dsb.wikipedia.org/wiki/Kategorija:Ro%C5%BA._1927" title="Kategorija:Roź. 1927 – Lower Sorbian" lang="dsb" hreflang="dsb" class="interlanguage-link-target">Dolnoserbski</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Kategooria:S%C3%BCndinud_1927" title="Kategooria:Sündinud 1927 – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Categor%C3%ADa:Nacidos_en_1927" title="Categoría:Nacidos en 1927 – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Kategorio:Naski%C4%9Dintoj_en_1927" title="Kategorio:Naskiĝintoj en 1927 – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Kategoria:1927ko_jaiotzak" title="Kategoria:1927ko jaiotzak – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B1%D8%AF%D9%87:%D8%B2%D8%A7%D8%AF%DA%AF%D8%A7%D9%86_%DB%B1%DB%B9%DB%B2%DB%B7_(%D9%85%DB%8C%D9%84%D8%A7%D8%AF%DB%8C)" title="رده:زادگان ۱۹۲۷ (میلادی) – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-hif"><a href="https://hif.wikipedia.org/wiki/vibhag:1927_janam" title="vibhag:1927 janam – Fiji Hindi" lang="hif" hreflang="hif" class="interlanguage-link-target">Fiji Hindi</a></li><li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/B%C3%B3lkur:F%C3%B8%C3%B0ingar_%C3%AD_1927" title="Bólkur:Føðingar í 1927 – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Naissance_en_1927" title="Catégorie:Naissance en 1927 – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Kategory:Persoan_berne_yn_1927" title="Kategory:Persoan berne yn 1927 – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Catag%C3%B3ir:Daoine_a_rugadh_i_1927" title="Catagóir:Daoine a rugadh i 1927 – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Categor%C3%ADa:Nados_en_1927" title="Categoría:Nados en 1927 – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-gan"><a href="https://gan.wikipedia.org/wiki/%E5%88%86%E9%A1%9E:1927%E5%B9%B4%E5%87%BA%E4%B8%96" title="分類:1927年出世 – Gan Chinese" lang="gan" hreflang="gan" class="interlanguage-link-target">贛語</a></li><li class="interlanguage-link interwiki-gu"><a href="https://gu.wikipedia.org/wiki/%E0%AA%B6%E0%AB%8D%E0%AA%B0%E0%AB%87%E0%AA%A3%E0%AB%80:%E0%AB%A7%E0%AB%AF%E0%AB%A8%E0%AB%AD%E0%AA%AE%E0%AA%BE%E0%AA%82_%E0%AA%9C%E0%AA%A8%E0%AB%8D%E0%AA%AE" title="શ્રેણી:૧૯૨૭માં જન્મ – Gujarati" lang="gu" hreflang="gu" class="interlanguage-link-target">ગુજરાતી</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%B6%84%EB%A5%98:1927%EB%85%84_%ED%83%9C%EC%96%B4%EB%82%A8" title="분류:1927년 태어남 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%BF%D5%A1%D5%BF%D5%A5%D5%A3%D5%B8%D6%80%D5%AB%D5%A1:1927_%D5%AE%D5%B6%D5%B8%D6%82%D5%B6%D5%A4%D5%B6%D5%A5%D6%80" title="Կատեգորիա:1927 ծնունդներ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A3%E0%A5%80:1927_%E0%A4%AE%E0%A5%87%E0%A4%82_%E0%A4%9C%E0%A4%A8%E0%A5%8D%E0%A4%AE%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%97" title="श्रेणी:1927 में जन्मे लोग – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/Kategorija:Rod%C5%BA._1927" title="Kategorija:Rodź. 1927 – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li><li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/Kategoria:1927_a_pannakaipasngay" title="Kategoria:1927 a pannakaipasngay – Iloko" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li><li class="interlanguage-link interwiki-bpy"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%A5%E0%A6%BE%E0%A6%95:%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A6%BF_%E0%A7%A7%E0%A7%AF%E0%A7%A8%E0%A7%AD-%E0%A6%8F_%E0%A6%89%E0%A6%9C%E0%A7%8D%E0%A6%9C%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%A4%E0%A6%BE" title="থাক:মারি ১৯২৭-এ উজ্জিসিতা – Bishnupriya" lang="bpy" hreflang="bpy" class="interlanguage-link-target">বিষ্ণুপ্রিয়া মণিপুরী</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Kategori:Kelahiran_1927" title="Kategori:Kelahiran 1927 – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Flokkur:F%C3%B3lk_f%C3%A6tt_%C3%A1ri%C3%B0_1927" title="Flokkur:Fólk fætt árið 1927 – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Categoria:Nati_nel_1927" title="Categoria:Nati nel 1927 – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Kategori:Lair_1927" title="Kategori:Lair 1927 – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Basa Jawa</a></li><li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%B5%E0%B2%B0%E0%B3%8D%E0%B2%97:%E0%B3%A7%E0%B3%AF%E0%B3%A8%E0%B3%AD_%E0%B2%9C%E0%B2%A8%E0%B2%A8" title="ವರ್ಗ:೧೯೨೭ ಜನನ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Category:1927_births" title="Category:1927 births – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%99%E1%83%90%E1%83%A2%E1%83%94%E1%83%92%E1%83%9D%E1%83%A0%E1%83%98%E1%83%90:%E1%83%93%E1%83%90%E1%83%91%E1%83%90%E1%83%93%E1%83%94%E1%83%91%E1%83%A3%E1%83%9A%E1%83%98_1927" title="კატეგორია:დაბადებული 1927 – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%B0%D1%82:1927_%D0%B6%D1%8B%D0%BB%D1%8B_%D1%82%D1%83%D2%93%D0%B0%D0%BD%D0%B4%D0%B0%D1%80" title="Санат:1927 жылы туғандар – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Jamii:Waliozaliwa_1927" title="Jamii:Waliozaliwa 1927 – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-kv"><a href="https://kv.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A7%D1%83%D0%B6%D0%B8%D1%81%D0%BD%D1%8B_1927_%D0%B2%D0%BE%D1%8B%D0%BD" title="Категория:Чужисны 1927 воын – Komi" lang="kv" hreflang="kv" class="interlanguage-link-target">Коми</a></li><li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/Kategori:Nesans_nan_lane_1927" title="Kategori:Nesans nan lane 1927 – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Kategor%C3%AE:Jiday%C3%AEkb%C3%BBn_1927" title="Kategorî:Jidayîkbûn 1927 – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li><li class="interlanguage-link interwiki-lo"><a href="https://lo.wikipedia.org/wiki/%E0%BB%9D%E0%BA%A7%E0%BA%94:%E0%BA%9A%E0%BA%B8%E0%BA%81%E0%BA%84%E0%BA%BB%E0%BA%99%E0%BA%97%E0%BA%B5%E0%BB%88%E0%BB%88%E0%BB%80%E0%BA%81%E0%BA%B5%E0%BA%94%E0%BB%83%E0%BA%99%E0%BA%9B%E0%BA%B5_%E0%BA%9E.%E0%BA%AA._2470" title="ໝວດ:ບຸກຄົນທີ່່ເກີດໃນປີ ພ.ສ. 2470 – Lao" lang="lo" hreflang="lo" class="interlanguage-link-target">ລາວ</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Categoria:Nati_1927" title="Categoria:Nati 1927 – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Kategorija:1927._gad%C4%81_dzimu%C5%A1ie" title="Kategorija:1927. gadā dzimušie – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Kategorie:Gebuer_1927" title="Kategorie:Gebuer 1927 – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-ln"><a href="https://ln.wikipedia.org/wiki/Cat%C3%A9gorie:Mb%C3%B3tama_na_1927" title="Catégorie:Mbótama na 1927 – Lingala" lang="ln" hreflang="ln" class="interlanguage-link-target">Lingála</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Kateg%C3%B3ria:1927-ben_sz%C3%BCletett_szem%C3%A9lyek" title="Kategória:1927-ben született személyek – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%98%D0%B0:%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B8_%D0%B2%D0%BE_1927_%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0" title="Категорија:Родени во 1927 година – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Sokajy:Teraka_tamin%27ny_taona_1927" title="Sokajy:Teraka tamin'ny taona 1927 – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B5%E0%B5%BC%E0%B4%97%E0%B5%8D%E0%B4%97%E0%B4%82:1927-%E0%B5%BD_%E0%B4%9C%E0%B4%A8%E0%B4%BF%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%B5%E0%B5%BC" title="വർഗ്ഗം:1927-ൽ ജനിച്ചവർ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-mt"><a href="https://mt.wikipedia.org/wiki/Kategorija:Twieldu_fl-1927" title="Kategorija:Twieldu fl-1927 – Maltese" lang="mt" hreflang="mt" class="interlanguage-link-target">Malti</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%97:%E0%A4%87.%E0%A4%B8._%E0%A5%A7%E0%A5%AF%E0%A5%A8%E0%A5%AD_%E0%A4%AE%E0%A4%A7%E0%A5%80%E0%A4%B2_%E0%A4%9C%E0%A4%A8%E0%A5%8D%E0%A4%AE" title="वर्ग:इ.स. १९२७ मधील जन्म – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-xmf"><a href="https://xmf.wikipedia.org/wiki/%E1%83%99%E1%83%90%E1%83%A2%E1%83%94%E1%83%92%E1%83%9D%E1%83%A0%E1%83%98%E1%83%90:%E1%83%93%E1%83%A3%E1%83%9C%E1%83%90%E1%83%91%E1%83%90%E1%83%93%E1%83%98_1927" title="კატეგორია:დუნაბადი 1927 – Mingrelian" lang="xmf" hreflang="xmf" class="interlanguage-link-target">მარგალური</a></li><li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81:%D9%85%D9%88%D8%A7%D9%84%D9%8A%D8%AF_1927" title="تصنيف:مواليد 1927 – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Kategori:Kelahiran_1927" title="Kategori:Kelahiran 1927 – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-cdo"><a href="https://cdo.wikipedia.org/wiki/%E5%88%86%E9%A1%9E:1927_ni%C3%A8ng_ch%C3%B3k-si%C3%A9" title="分類:1927 nièng chók-sié – Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target">Mìng-dĕ̤ng-ngṳ̄</a></li><li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%90%D0%BD%D0%B3%D0%B8%D0%BB%D0%B0%D0%BB:1927_%D0%BE%D0%BD%D0%B4_%D1%82%D3%A9%D1%80%D1%81%D3%A9%D0%BD" title="Ангилал:1927 онд төрсөн – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li><li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/Category:%E1%81%81%E1%81%89%E1%81%82%E1%81%87_%E1%80%99%E1%80%BD%E1%80%B1%E1%80%B8%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8%E1%80%9E%E1%80%B0%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8" title="Category:၁၉၂၇ မွေးဖွားသူများ – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nah"><a href="https://nah.wikipedia.org/wiki/Neneuhc%C4%81y%C5%8Dtl:Otlacatqueh_xiuhpan_1927" title="Neneuhcāyōtl:Otlacatqueh xiuhpan 1927 – Nāhuatl" lang="nah" hreflang="nah" class="interlanguage-link-target">Nāhuatl</a></li><li class="interlanguage-link interwiki-new"><a href="https://new.wikipedia.org/wiki/%E0%A4%AA%E0%A5%81%E0%A4%9A%E0%A4%83:%E0%A5%A7%E0%A5%AF%E0%A5%A8%E0%A5%AD%E0%A4%AF%E0%A5%8D_%E0%A4%AC%E0%A5%81%E0%A4%97%E0%A5%81" title="पुचः:१९२७य् बुगु – Newari" lang="new" hreflang="new" class="interlanguage-link-target">नेपाल भाषा</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Category:1927%E5%B9%B4%E7%94%9F" title="Category:1927年生 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8:%D0%91%D0%B8%D0%BD%D0%B0%D1%80%D1%88_1927_%D1%88%D0%B0%D1%80%D0%B0%D1%85%D1%8C" title="Категори:Бинарш 1927 шарахь – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Kategori:F%C3%B8dsler_i_1927" title="Kategori:Fødsler i 1927 – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Kategori:F%C3%B8dde_i_1927" title="Kategori:Fødde i 1927 – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-nov"><a href="https://nov.wikipedia.org/wiki/Category:Homes_kel_naskad_ye_1927" title="Category:Homes kel naskad ye 1927 – Novial" lang="nov" hreflang="nov" class="interlanguage-link-target">Novial</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Categoria:Naissen%C3%A7a_en_1927" title="Categoria:Naissença en 1927 – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-or"><a href="https://or.wikipedia.org/wiki/%E0%AC%B6%E0%AD%8D%E0%AC%B0%E0%AD%87%E0%AC%A3%E0%AD%80:%E0%AD%A7%E0%AD%AF%E0%AD%A8%E0%AD%AD_%E0%AC%9C%E0%AC%A8%E0%AD%8D%E0%AC%AE" title="ଶ୍ରେଣୀ:୧୯୨୭ ଜନ୍ମ – Odia" lang="or" hreflang="or" class="interlanguage-link-target">ଓଡ଼ିଆ</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Turkum:1927-yilda_tug%CA%BBilganlar" title="Turkum:1927-yilda tugʻilganlar – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%B8%E0%A8%BC%E0%A9%8D%E0%A8%B0%E0%A9%87%E0%A8%A3%E0%A9%80:%E0%A8%9C%E0%A8%A8%E0%A8%AE_1927" title="ਸ਼੍ਰੇਣੀ:ਜਨਮ 1927 – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-ps"><a href="https://ps.wikipedia.org/wiki/%D9%88%DB%90%D8%B4%D9%86%D9%8A%D8%B2%D9%87:1927_%D8%B2%DB%90%DA%96%DB%90%D8%AF%D9%86%DB%90" title="وېشنيزه:1927 زېږېدنې – Pashto" lang="ps" hreflang="ps" class="interlanguage-link-target">پښتو</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Kategoria:Urodzeni_w_1927" title="Kategoria:Urodzeni w 1927 – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Categoria:Nascidos_em_1927" title="Categoria:Nascidos em 1927 – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-crh"><a href="https://crh.wikipedia.org/wiki/Kategoriya:1927_senesinde_do%C4%9F%C4%9Fanlar" title="Kategoriya:1927 senesinde doğğanlar – Crimean Turkish" lang="crh" hreflang="crh" class="interlanguage-link-target">Qırımtatarca</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Categorie:Na%C8%99teri_%C3%AEn_1927" title="Categorie:Nașteri în 1927 – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Katiguriya:Paqarisqa_1927" title="Katiguriya:Paqarisqa 1927 – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_1927_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Родившиеся в 1927 году – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:1927_%D1%81%D1%8B%D0%BB%D0%BB%D0%B0%D0%B0%D1%85%D1%85%D0%B0_%D1%82%D3%A9%D1%80%D3%A9%D3%A9%D0%B1%D2%AF%D1%82%D1%82%D1%8D%D1%80" title="Категория:1927 сыллаахха төрөөбүттэр – Sakha" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li><li class="interlanguage-link interwiki-se"><a href="https://se.wikipedia.org/wiki/Kategoriija:Rieg%C3%A1deamit_1927" title="Kategoriija:Riegádeamit 1927 – Northern Sami" lang="se" hreflang="se" class="interlanguage-link-target">Sámegiella</a></li><li class="interlanguage-link interwiki-sa"><a href="https://sa.wikipedia.org/wiki/%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%83:%E0%A5%A7%E0%A5%AF%E0%A5%A8%E0%A5%AD_%E0%A4%9C%E0%A4%A8%E0%A4%A8%E0%A4%AE%E0%A5%8D" title="वर्गः:१९२७ जननम् – Sanskrit" lang="sa" hreflang="sa" class="interlanguage-link-target">संस्कृतम्</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Category:1927_births" title="Category:1927 births – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Kategoria:Lindje_1927" title="Kategoria:Lindje 1927 – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B6%B4%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%80%E0%B6%BB%E0%B7%8A%E0%B6%9C%E0%B6%BA:1927_%E0%B6%8B%E0%B6%B4%E0%B6%AD%E0%B7%8A" title="ප්‍රවර්ගය:1927 උපත් – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Category:1927_births" title="Category:1927 births – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Kateg%C3%B3ria:Narodenia_v_1927" title="Kategória:Narodenia v 1927 – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Kategorija:Rojeni_leta_1927" title="Kategorija:Rojeni leta 1927 – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/Kategoryjo:Rodzy%C5%84i_we_1927" title="Kategoryjo:Rodzyńi we 1927 – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D9%BE%DB%86%D9%84:%D9%84%DB%95%D8%AF%D8%A7%DB%8C%DA%A9%D8%A8%D9%88%D9%88%D8%A7%D9%86%DB%8C_%D9%A1%D9%A9%D9%A2%D9%A7" title="پۆل:لەدایکبووانی ١٩٢٧ – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%98%D0%B0:%D0%A0%D0%BE%D1%92%D0%B5%D0%BD%D0%B8_1927." title="Категорија:Рођени 1927. – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Kategorija:Ro%C4%91eni_1927." title="Kategorija:Rođeni 1927. – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Kategori:Nu_babar_taun_1927" title="Kategori:Nu babar taun 1927 – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Basa Sunda</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Luokka:Vuonna_1927_syntyneet" title="Luokka:Vuonna 1927 syntyneet – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Kategori:F%C3%B6dda_1927" title="Kategori:Födda 1927 – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Kategorya:Ipinanganak_noong_1927" title="Kategorya:Ipinanganak noong 1927 – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%95%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81:1927_%E0%AE%AA%E0%AE%BF%E0%AE%B1%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D" title="பகுப்பு:1927 பிறப்புகள் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%A2%D3%A9%D1%80%D0%BA%D0%B5%D0%BC:1927_%D0%B5%D0%BB%D0%B4%D0%B0_%D1%82%D1%83%D0%B3%D0%B0%D0%BD%D0%BD%D0%B0%D1%80" title="Төркем:1927 елда туганнар – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%B5%E0%B0%B0%E0%B1%8D%E0%B0%97%E0%B0%82:1927_%E0%B0%9C%E0%B0%A8%E0%B0%A8%E0%B0%BE%E0%B0%B2%E0%B1%81" title="వర్గం:1927 జననాలు – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%9A%E0%B8%B8%E0%B8%84%E0%B8%84%E0%B8%A5%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94%E0%B9%83%E0%B8%99%E0%B8%9B%E0%B8%B5_%E0%B8%9E.%E0%B8%A8._2470" title="หมวดหมู่:บุคคลที่เกิดในปี พ.ศ. 2470 – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%93%D1%83%D1%80%D3%AF%D2%B3:%D0%97%D0%BE%D0%B4%D0%B0%D0%B3%D0%BE%D0%BD%D0%B8_%D1%81%D0%BE%D0%BB%D0%B8_1927" title="Гурӯҳ:Зодагони соли 1927 – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Kategori:1927_do%C4%9Fumlular" title="Kategori:1927 doğumlular – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%B8%D0%BB%D0%B8%D1%81%D1%8C_1927" title="Категорія:Народились 1927 – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%B2%D9%85%D8%B1%DB%81:1927%D8%A1_%DA%A9%DB%8C_%D9%BE%DB%8C%D8%AF%D8%A7%D8%A6%D8%B4%DB%8C%DA%BA" title="زمرہ:1927ء کی پیدائشیں – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vep"><a href="https://vep.wikipedia.org/wiki/Kategorii:S%C3%BCndnuded_vl_1927" title="Kategorii:Sündnuded vl 1927 – Veps" lang="vep" hreflang="vep" class="interlanguage-link-target">Vepsän kel’</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Sinh_1927" title="Thể loại:Sinh 1927 – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Kaarangay:Mga_natawo_han_1927" title="Kaarangay:Mga natawo han 1927 – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/%E1%BA%B8%CC%80ka:%C3%80w%E1%BB%8Dn_%E1%BB%8Dj%E1%BB%8D%CC%81%C3%ACb%C3%AD_n%C3%AD_1927" title="Ẹ̀ka:Àwọn ọjọ́ìbí ní 1927 – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/Category:1927%E5%B9%B4%E5%87%BA%E4%B8%96" title="Category:1927年出世 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/Kategori:Merdum%C3%AA_ke_1927_de_biy%C3%AA" title="Kategori:Merdumê ke 1927 de biyê – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Category:1927%E5%B9%B4%E5%87%BA%E7%94%9F" title="Category:1927年出生 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6647300#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
-		</div>
-				</div>
-		</div>
-		<div id="footer" role="contentinfo">
-							<ul id="footer-info">
-											<li id="footer-info-lastmod"> This page was last edited on 12 March 2013, at 09:43.</li>
-											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
-additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
-									</ul>
-							<ul id="footer-places">
-											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
-											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
-											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
-											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
-											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
-											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
-											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Category:1927_births&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
-									</ul>
-										<ul id="footer-icons" class="noprint">
-											<li id="footer-copyrightico">
-							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
-											<li id="footer-poweredbyico">
-							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
-									</ul>
-						<div style="clear:both"></div>
-		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.060","walltime":"0.083","ppvisitednodes":{"value":362,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":12711,"limit":2097152},"templateargumentsize":{"value":1293,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%   70.154      1 -total"," 71.14%   49.910      1 Template:Commons_cat"," 34.30%   24.060      1 Template:Commons"," 32.31%   22.667      1 Template:Sister_project"," 28.73%   20.153      1 Template:Birthyr"," 28.60%   20.066      1 Template:Side_box"," 15.37%   10.783      1 Template:Category_TOC","  7.45%    5.229      1 Template:BDYearsInDecade","  5.72%    4.014      1 Template:TOC_top","  3.80%    2.667      1 Template:Flatlist"]},"scribunto":{"limitreport-timeusage":{"value":"0.006","limit":"10.000"},"limitreport-memusage":{"value":581462,"limit":52428800}},"cachereport":{"origin":"mw1182","timestamp":"20170924151340","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":135,"wgHostname":"mw1185"});});</script>
-	</body>
-</html>

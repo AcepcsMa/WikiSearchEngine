@@ -1,335 +1,375 @@
-<!DOCTYPE html>
-<html class="client-nojs" lang="en" dir="ltr">
-<head>
-<meta charset="UTF-8"/>
-<title>Gerard Salton - Wikipedia</title>
-<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Gerard_Salton","wgTitle":"Gerard Salton","wgCurRevisionId":795324931,"wgRevisionId":795324931,"wgArticleId":509624,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hCards","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with SNAC-ID identifiers","Wikipedia articles with DBLP identifiers","Wikipedia articles with ACM-DL identifiers","1927 births","1995 deaths","American computer scientists","Harvard University alumni","Harvard University faculty","Cornell University faculty","Fellows of the Association for Computing Machinery","Guggenheim Fellows","Information retrieval researchers"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Gerard_Salton","wgRelevantArticleId":509624,"wgRequestId":"WcnjAApAICsAAFIqstoAAABA","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q92880","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
-mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
-
-});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
-<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
-<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
-<meta name="ResourceLoaderDynamicStyles" content=""/>
-<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
-<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
-<meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Gerard_Salton&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Gerard_Salton&amp;action=edit"/>
-<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
-<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
-<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
-<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
-<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Gerard_Salton"/>
-<link rel="dns-prefetch" href="//login.wikimedia.org"/>
-<link rel="dns-prefetch" href="//meta.wikimedia.org" />
-<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
-</head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Gerard_Salton rootpage-Gerard_Salton skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
-		<div id="mw-head-base" class="noprint"></div>
-		<div id="content" class="mw-body" role="main">
-			<a id="top"></a>
-
-							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
-						<div class="mw-indicators mw-body-content">
-</div>
-			<h1 id="firstHeading" class="firstHeading" lang="en">Gerard Salton</h1>
-									<div id="bodyContent" class="mw-body-content">
+<div id="bodyContent" class="mw-body-content">
 									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
 								<div id="contentSub"></div>
 												<div id="jump-to-nav" class="mw-jump">
 					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
 				</div>
-				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox biography vcard" style="width:22em">
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div id="mp-topbanner" style="clear:both; position:relative; box-sizing:border-box; width:100%; margin:1.2em 0 6px; min-width:47em; border:1px solid #ddd; background-color:#f9f9f9; color:#000; white-space:nowrap;">
+<div style="margin:0.4em; width:22em; text-align:center;">
+<div style="font-size:162%; padding:.1em;">Welcome to <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>,</div>
+<div style="font-size:95%;">the <a href="/wiki/Free_content" title="Free content">free</a> <a href="/wiki/Encyclopedia" title="Encyclopedia">encyclopedia</a> that <a href="/wiki/Wikipedia:Introduction" title="Wikipedia:Introduction">anyone can edit</a>.</div>
+<div id="articlecount" style="font-size:85%;"><a href="/wiki/Special:Statistics" title="Special:Statistics">5,501,425</a> articles in <a href="/wiki/English_language" title="English language">English</a></div>
+</div>
+<ul style="position:absolute; right:-1em; top:50%; margin-top:-2.4em; width:38%; min-width:25em; font-size:95%;">
+<li style="position:absolute; left:0; top:0;"><a href="/wiki/Portal:Arts" title="Portal:Arts">Arts</a></li>
+<li style="position:absolute; left:0; top:1.6em;"><a href="/wiki/Portal:Biography" title="Portal:Biography">Biography</a></li>
+<li style="position:absolute; left:0; top:3.2em;"><a href="/wiki/Portal:Geography" title="Portal:Geography">Geography</a></li>
+<li style="position:absolute; left:33%; top:0;"><a href="/wiki/Portal:History" title="Portal:History">History</a></li>
+<li style="position:absolute; left:33%; top:1.6em;"><a href="/wiki/Portal:Mathematics" title="Portal:Mathematics">Mathematics</a></li>
+<li style="position:absolute; left:33%; top:3.2em;"><a href="/wiki/Portal:Science" title="Portal:Science">Science</a></li>
+<li style="position:absolute; left:66%; top:0;"><a href="/wiki/Portal:Society" title="Portal:Society">Society</a></li>
+<li style="position:absolute; left:66%; top:1.6em;"><a href="/wiki/Portal:Technology" title="Portal:Technology">Technology</a></li>
+<li style="position:absolute; left:66%; top:3.2em;"><strong><a href="/wiki/Portal:Contents/Portals" title="Portal:Contents/Portals">All portals</a></strong></li>
+</ul>
+</div>
+<table role="presentation" id="mp-upper" style="width: 100%; margin-top:4px; border-spacing: 0px;">
 <tr>
-<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Gerard Salton</span></th>
-</tr>
-<tr>
-<th scope="row">Born</th>
-<td><span style="display:none">(<span class="bday">1927-03-08</span>)</span>March 8, 1927<br />
-<span class="birthplace"><a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a></span></td>
-</tr>
-<tr>
-<th scope="row">Died</th>
-<td>August 28, 1995<span style="display:none">(<span class="dday deathdate">1995-08-28</span>)</span> (aged&#160;68)</td>
-</tr>
-<tr>
-<th scope="row">Alma&#160;mater</th>
-<td><a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a></td>
-</tr>
-<tr>
-<th scope="row">Known&#160;for</th>
-<td>the father of information retrieval<sup id="cite_ref-father-IR_1-0" class="reference"><a href="#cite_note-father-IR-1">[1]</a></sup><br />
-<a href="/wiki/Gerard_Salton_Award" title="Gerard Salton Award">Gerard Salton Award</a></td>
-</tr>
-<tr>
-<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
-</tr>
-<tr>
-<th scope="row">Fields</th>
-<td class="category"><a href="/wiki/Information_retrieval" title="Information retrieval">information retrieval</a></td>
-</tr>
-<tr>
-<th scope="row">Institutions</th>
-<td><a href="/wiki/Cornell_University" title="Cornell University">Cornell University</a></td>
-</tr>
-<tr>
-<th scope="row"><a href="/wiki/Thesis" title="Thesis">Thesis</a></th>
-<td><a rel="nofollow" class="external text" href="http://hollis.harvard.edu/?itemid=%7Clibrary/m/aleph%7C003918090"><i>An automatic data processing system for public utility revenue accounting</i></a>&#160;<span style="font-size:90%;">(1958)</span></td>
-</tr>
-<tr>
-<th scope="row"><a href="/wiki/Doctoral_advisor" title="Doctoral advisor">Doctoral advisor</a></th>
-<td><a href="/wiki/Howard_Aiken" class="mw-redirect" title="Howard Aiken">Howard Aiken</a></td>
-</tr>
-<tr>
-<th scope="row">Doctoral students</th>
-<td><a href="/wiki/Amit_Singhal" title="Amit Singhal">Amit Singhal</a></td>
-</tr>
-<tr style="display:none">
-<td colspan="2"></td>
+<td id="mp-left" class="MainPageBG" style="width:55%; border:1px solid #cef2e0; padding:0; background:#f5fffa; vertical-align:top; color:#000;">
+<h2 id="mp-tfa-h2" style="margin:0.5em; background:#cef2e0; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; color:#000; padding:0.2em 0.4em;"><span id="From_today's_featured_article"></span><span class="mw-headline" id="From_today.27s_featured_article">From today's featured article</span></h2>
+<div id="mp-tfa" style="padding:0.1em 0.6em;">
+<div id="mp-tfa-img" style="float: left; margin: 0.5em 0.9em 0.4em 0em;">
+<div class="thumbinner mp-thumb" style="background: transparent; border: none; padding: 0; max-width: 102px;"><a href="/wiki/File:Dave_Gallaher_(cropped).jpg" class="image" title="Dave Gallaher in 1905"><img alt="Dave Gallaher in 1905" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Dave_Gallaher_%28cropped%29.jpg/100px-Dave_Gallaher_%28cropped%29.jpg" width="100" height="125" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Dave_Gallaher_%28cropped%29.jpg/150px-Dave_Gallaher_%28cropped%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Dave_Gallaher_%28cropped%29.jpg/200px-Dave_Gallaher_%28cropped%29.jpg 2x" data-file-width="1200" data-file-height="1500" /></a></div>
+</div>
+<p><b><a href="/wiki/Dave_Gallaher" title="Dave Gallaher">Dave Gallaher</a></b> (30 October 1873 – 4 October 1917) was a New Zealand <a href="/wiki/Rugby_union" title="Rugby union">rugby union</a> footballer and the captain of the 1905–06 <a href="/wiki/The_Original_All_Blacks" title="The Original All Blacks">Original All Blacks</a>. They were the first <a href="/wiki/New_Zealand_national_rugby_union_team" title="New Zealand national rugby union team">representative New Zealand team</a> to tour the British Isles, winning 34 out of 35 matches on their world tour. With his vice-captain <a href="/wiki/Billy_Stead" title="Billy Stead">Billy Stead</a>, Gallaher co-wrote the classic rugby text <i>The Complete Rugby Footballer</i>. Retiring as a player after the tour, he took up coaching, and was a <a href="/wiki/Glossary_of_rugby_union_terms#Selector" title="Glossary of rugby union terms">selector</a> for both <a href="/wiki/Auckland_rugby_union_team" title="Auckland rugby union team">Auckland</a> and New Zealand for most of the following decade. The Originals helped to cement rugby as New Zealand's national sport, but Gallaher's role as <a href="/wiki/Thomas_Ellison#Wing-forward" title="Thomas Ellison">wing-forward</a> contributed to decades of strain between the rugby authorities of New Zealand and the <a href="/wiki/Home_Nations" title="Home Nations">Home Nations</a>, and the <a href="/wiki/World_Rugby" title="World Rugby">International Rugby Football Board</a> effectively outlawed the position in 1931. During the <a href="/wiki/World_War_I" title="World War I">First World War</a>, Gallaher was killed at the <a href="/wiki/Battle_of_Passchendaele" title="Battle of Passchendaele">Battle of Passchendaele</a> in Belgium. He has been inducted into the <a href="/wiki/World_Rugby_Hall_of_Fame" title="World Rugby Hall of Fame">World Rugby Hall of Fame</a> and <a href="/wiki/New_Zealand_Sports_Hall_of_Fame" title="New Zealand Sports Hall of Fame">New Zealand Sports Hall of Fame</a>. The <a href="/wiki/Gallaher_Shield" title="Gallaher Shield">Gallaher Shield</a> is awarded annually to the winner of Auckland's club championship, and the <a href="/wiki/Dave_Gallaher_Trophy" title="Dave Gallaher Trophy">Dave Gallaher Trophy</a> is contested between the national teams of <a href="/wiki/France_national_rugby_union_team" title="France national rugby union team">France</a> and New Zealand. (<a href="/wiki/Dave_Gallaher" title="Dave Gallaher"><b>Full&#160;article...</b></a>)</p>
+<div class="tfa-recent" style="text-align: right;">Recently featured:
+<div class="hlist inline">
+<ul>
+<li><a href="/wiki/Paul_Palaiologos_Tagaris" title="Paul Palaiologos Tagaris">Paul Palaiologos Tagaris</a></li>
+<li><a href="/wiki/O._G._S._Crawford" title="O. G. S. Crawford">O. G. S. Crawford</a></li>
+<li><a href="/wiki/Battle_of_the_Santa_Cruz_Islands" title="Battle of the Santa Cruz Islands">Battle of the Santa Cruz Islands</a></li>
+</ul>
+</div>
+</div>
+<div class="tfa-footer hlist noprint" style="text-align: right;">
+<ul>
+<li><b><a href="/wiki/Wikipedia:Today%27s_featured_article/October_2017" title="Wikipedia:Today's featured article/October 2017">Archive</a></b></li>
+<li><b><a href="https://lists.wikimedia.org/mailman/listinfo/daily-article-l" class="extiw" title="mail:daily-article-l">By email</a></b></li>
+<li><b><a href="/wiki/Wikipedia:Featured_articles" title="Wikipedia:Featured articles">More featured articles</a></b></li>
+</ul>
+</div>
+</div>
+<h2 id="mp-dyk-h2" style="clear:both; margin:0.5em; background:#cef2e0; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; color:#000; padding:0.2em 0.4em;"><span class="mw-headline" id="Did_you_know...">Did you know...</span></h2>
+<div id="mp-dyk" style="padding:0.1em 0.6em 0.5em;">
+<div style="float:right; margin-left:0.5em;" id="mp-dyk-img">
+<div class="thumbinner mp-thumb" style="background: transparent; border: none; padding: 0; max-width: 120px;"><a href="/wiki/File:Onesimus_Ustonson_1772_invoice_and_receipt_(cropped).jpg" class="image" title="Ustonson invoice"><img alt="Ustonson invoice" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Onesimus_Ustonson_1772_invoice_and_receipt_%28cropped%29.jpg/120px-Onesimus_Ustonson_1772_invoice_and_receipt_%28cropped%29.jpg" width="120" height="123" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Onesimus_Ustonson_1772_invoice_and_receipt_%28cropped%29.jpg/180px-Onesimus_Ustonson_1772_invoice_and_receipt_%28cropped%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Onesimus_Ustonson_1772_invoice_and_receipt_%28cropped%29.jpg/240px-Onesimus_Ustonson_1772_invoice_and_receipt_%28cropped%29.jpg 2x" data-file-width="1804" data-file-height="1846" /></a>
+<div class="thumbcaption" style="padding: 0.25em 0; word-wrap: break-word;">Ustonson invoice</div>
+</div>
+</div>
+<ul>
+<li>... that <b><a href="/wiki/Onesimus_Ustonson" title="Onesimus Ustonson">Onesimus Ustonson</a></b> <i>(invoice pictured)</i> supplied fishing tackle to the naturalist <a href="/wiki/Joseph_Banks" title="Joseph Banks">Joseph Banks</a> for the <a href="/wiki/Second_voyage_of_James_Cook" title="Second voyage of James Cook">second voyage of James Cook</a>?</li>
+<li>... that the <b><a href="/wiki/Ethiopian_hare" title="Ethiopian hare">Ethiopian hare</a></b> is endemic to Africa, and is found in the <a href="/wiki/Afromontane" title="Afromontane">Afromontane Biozone</a> of Ethiopia and the borders of the <a href="/wiki/Sudanian_Savanna" title="Sudanian Savanna">Sudanian Savanna Biozone</a>?</li>
+<li>... that during the <a href="/wiki/Dubin_Inquiry" class="mw-redirect" title="Dubin Inquiry">Dubin Inquiry</a>, lead counsel <b><a href="/wiki/Robert_P._Armstrong" title="Robert P. Armstrong">Robert P. Armstrong</a></b> questioned Canadian sprinter <a href="/wiki/Ben_Johnson_(sprinter)" title="Ben Johnson (sprinter)">Ben Johnson</a> about his <a href="/wiki/Anabolic_steroid" title="Anabolic steroid">anabolic steroid</a> use?</li>
+<li>... that officers from the <a href="/wiki/Albuquerque_Police_Department" title="Albuquerque Police Department">Albuquerque Police Department</a> lied to the <i><a href="/wiki/Albuquerque_Journal" title="Albuquerque Journal">Albuquerque Journal</a></i> when providing details regarding the <b><a href="/wiki/Death_of_Victoria_Martens" title="Death of Victoria Martens">death of Victoria Martens</a></b>?</li>
+<li>... that a <b><a href="/wiki/GRIM_test" title="GRIM test">GRIM test</a></b> on a sample of published psychology articles revealed that over half contained at least one mathematically impossible result?</li>
+<li>... that <b><a href="/wiki/Catie_Munnings" title="Catie Munnings">Catie Munnings</a></b>, winner of the <a href="/wiki/2016_European_Rally_Championship" title="2016 European Rally Championship">2016 FIA European Rally Championship Ladies' Trophy</a>, was the first British driver to win a European rally title in 49 years?</li>
+<li>... that the <b><a href="/wiki/Musca_sorbens" title="Musca sorbens">bazaar fly</a></b> is a vector for <a href="/wiki/Trachoma" title="Trachoma">trachoma</a>, the leading global cause of preventable <a href="/wiki/Blindness" class="mw-redirect" title="Blindness">blindness</a>?</li>
+<li>... that instead of giving the <a href="/wiki/List_of_Keys_to_the_City_in_Canada#Calgary" title="List of Keys to the City in Canada">keys to the city</a> to visiting dignitaries, the mayor of <a href="/wiki/Calgary" title="Calgary">Calgary</a> "<b><a href="/wiki/Calgary_White_Hat" title="Calgary White Hat">white hats</a></b>" them?</li>
+</ul>
+<div class="dyk-footer hlist noprint" style="margin-top: 0.5em; text-align: right;">
+<ul>
+<li><b><a href="/wiki/Wikipedia:Recent_additions" title="Wikipedia:Recent additions">Recent additions</a></b></li>
+<li><b><a href="/wiki/Wikipedia:Your_first_article" title="Wikipedia:Your first article">Start a new article</a></b></li>
+<li><b><a href="/wiki/Template_talk:Did_you_know" title="Template talk:Did you know">Nominate an article</a></b></li>
+</ul>
+</div>
+<p><br /></p>
+</div>
+</td>
+<td style="border:1px solid transparent;"></td>
+<td id="mp-right" class="MainPageBG" style="width:45%; border:1px solid #cedff2; padding:0; background:#f5faff; vertical-align:top;">
+<h2 id="mp-itn-h2" style="margin:0.5em; background:#cedff2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; color:#000; padding:0.2em 0.4em;"><span class="mw-headline" id="In_the_news">In the news</span></h2>
+<div id="mp-itn" style="padding:0.1em 0.6em;">
+<div role="figure" class="itn-img" style="float: right; margin-left: 0.5em;">
+<div class="thumbinner mp-thumb" style="background: transparent; border: none; padding: 0; max-width: 100px;"><a href="/wiki/File:Xi_Jinping_2016.jpg" class="image" title="Xi Jinping in 2016"><img alt="Xi Jinping in 2016" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Xi_Jinping_2016.jpg/100px-Xi_Jinping_2016.jpg" width="100" height="133" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Xi_Jinping_2016.jpg/150px-Xi_Jinping_2016.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Xi_Jinping_2016.jpg/200px-Xi_Jinping_2016.jpg 2x" data-file-width="648" data-file-height="864" /></a>
+<div class="thumbcaption" style="padding: 0.25em 0; word-wrap: break-word;">Xi Jinping</div>
+</div>
+</div>
+<ul>
+<li><b><a href="/wiki/Catalan_Republic_(2017)" title="Catalan Republic (2017)">Catalonia</a></b> issues a <a href="/wiki/Declaration_of_Independence_of_Catalonia" title="Declaration of Independence of Catalonia">unilateral declaration of independence</a> from <a href="/wiki/Spain" title="Spain">Spain</a>, whose government <a href="/wiki/2017_Spanish_constitutional_crisis" title="2017 Spanish constitutional crisis">imposes direct rule under Article 155 of its constitution</a>.</li>
+<li>President <a href="/wiki/Nursultan_Nazarbayev" title="Nursultan Nazarbayev">Nursultan Nazarbayev</a> of Kazakhstan announces that the <b><a href="/wiki/Kazakh_language" title="Kazakh language">Kazakh language</a></b> will begin using <a href="/wiki/Kazakh_alphabets#Latin_script" title="Kazakh alphabets">a Latin script</a>, rather than the current <a href="/wiki/Kazakh_alphabets#Cyrillic_script" title="Kazakh alphabets">Cyrillic script</a>.</li>
+<li>The <a href="/wiki/High_Court_of_Australia" title="High Court of Australia">High Court of Australia</a> finds that five parliamentarians are <b><a href="/wiki/2017_Australian_parliamentary_eligibility_crisis" title="2017 Australian parliamentary eligibility crisis">ineligible to serve</a></b>.</li>
+<li>Venezuela's democratic opposition win the <b><a href="/wiki/Sakharov_Prize" title="Sakharov Prize">Sakharov Prize</a></b>.</li>
+<li>At the <b><a href="/wiki/19th_National_Congress_of_the_Communist_Party_of_China" title="19th National Congress of the Communist Party of China">National Congress</a></b> of the <a href="/wiki/Communist_Party_of_China" title="Communist Party of China">Communist Party of China</a>, <a href="/wiki/Xi_Jinping" title="Xi Jinping">Xi Jinping</a> <i>(pictured)</i> assumes his second term as <a href="/wiki/General_Secretary_of_the_Communist_Party_of_China" title="General Secretary of the Communist Party of China">General Secretary</a>, and the political theory <a href="/wiki/Xi_Jinping_Thought" title="Xi Jinping Thought">Xi Jinping Thought</a> is written into the <a href="/wiki/Constitution_of_the_Communist_Party_of_China" title="Constitution of the Communist Party of China">party's constitution</a>.</li>
+</ul>
+<div class="itn-footer" style="margin-top: 0.5em;">
+<div><b><a href="/wiki/Portal:Current_events" title="Portal:Current events">Other recent events</a></b></div>
+<div><b><a href="/wiki/Deaths_in_2017" title="Deaths in 2017">Recent deaths</a></b>:
+<div class="hlist inline">
+<ul>
+<li><a href="/wiki/Ninian_Stephen" title="Ninian Stephen">Ninian Stephen</a></li>
+<li><a href="/wiki/Pinito_del_Oro" title="Pinito del Oro">Pinito del Oro</a></li>
+<li><a href="/wiki/Fats_Domino" title="Fats Domino">Fats Domino</a></li>
+<li><a href="/wiki/Glenn_Barr" title="Glenn Barr">Glenn Barr</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<h2 id="mp-otd-h2" style="clear:both; margin:0.5em; background:#cedff2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; color:#000; padding:0.2em 0.4em;"><span class="mw-headline" id="On_this_day...">On this day...</span></h2>
+<div id="mp-otd" style="padding:0.1em 0.6em 0.5em;">
+<p><b><a href="/wiki/October_30" title="October 30">October 30</a></b>: <b><a href="/wiki/Mischief_Night" title="Mischief Night">Mischief Night</a></b> in some areas of the United States</p>
+<div style="float:right;margin-left:0.5em;" id="mp-otd-img">
+<div class="thumbinner mp-thumb" style="background: transparent; border: none; padding: 0; max-width: 100px;"><a href="/wiki/File:Alfonsin_1983.jpg" class="image" title="Raúl Alfonsín"><img alt="Raúl Alfonsín" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Alfonsin_1983.jpg/100px-Alfonsin_1983.jpg" width="100" height="133" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Alfonsin_1983.jpg/150px-Alfonsin_1983.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/40/Alfonsin_1983.jpg/200px-Alfonsin_1983.jpg 2x" data-file-width="288" data-file-height="383" /></a>
+<div class="thumbcaption" style="padding: 0.25em 0; word-wrap: break-word;">Raúl Alfonsín</div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/1806" title="1806">1806</a> – <a href="/wiki/War_of_the_Fourth_Coalition" title="War of the Fourth Coalition">War of the Fourth Coalition</a>: Believing they were massively outnumbered, the 5,300-man German garrison at Stettin, Prussia (now <a href="/wiki/Szczecin" title="Szczecin">Szczecin, Poland</a>), <b><a href="/wiki/Capitulation_of_Stettin" title="Capitulation of Stettin">surrendered</a></b> to a much smaller French force without a fight.</li>
+<li><a href="/wiki/1888" title="1888">1888</a> – King <a href="/wiki/Lobengula" title="Lobengula">Lobengula</a> of <a href="/wiki/Matabeleland" title="Matabeleland">Matabeleland</a> granted the <b><a href="/wiki/Rudd_Concession" title="Rudd Concession">Rudd Concession</a></b> to agents of <a href="/wiki/Cecil_Rhodes" title="Cecil Rhodes">Cecil Rhodes</a>, setting in motion the creation of the <a href="/wiki/British_South_Africa_Company" title="British South Africa Company">British South Africa Company</a>.</li>
+<li><a href="/wiki/1918" title="1918">1918</a> – The <b><a href="/wiki/Armistice_of_Mudros" title="Armistice of Mudros">Armistice of Mudros</a></b> was signed in <a href="/wiki/Moudros" title="Moudros">Moudros</a> in the <a href="/wiki/Lesbos_Prefecture" title="Lesbos Prefecture">Lesbos Prefecture</a>, Greece, ending the hostilities in the <a href="/wiki/Middle-Eastern_theatre_of_World_War_I" title="Middle-Eastern theatre of World War I">Middle-Eastern theatre of World War&#160;I</a>, and paving the way for the <a href="/wiki/Occupation_of_Constantinople" title="Occupation of Constantinople">occupation of Constantinople</a> and the subsequent <a href="/wiki/Partition_of_the_Ottoman_Empire" title="Partition of the Ottoman Empire">partitioning of the Ottoman Empire</a>.</li>
+<li><a href="/wiki/1961" title="1961">1961</a> – The Soviet hydrogen bomb <b><a href="/wiki/Tsar_Bomba" title="Tsar Bomba">Tsar Bomba</a></b>, the largest <a href="/wiki/Nuclear_weapon" title="Nuclear weapon">nuclear weapon</a> ever detonated, was set off over <a href="/wiki/Novaya_Zemlya" title="Novaya Zemlya">Novaya Zemlya Island</a> in the Arctic Ocean as a test.</li>
+<li><a href="/wiki/1983" title="1983">1983</a> – As the <a href="/wiki/National_Reorganization_Process" title="National Reorganization Process">military dictatorship</a> came to an end, Argentina's <b><a href="/wiki/Argentine_general_election,_1983" title="Argentine general election, 1983">first democratic election</a></b> in a decade resulted in <a href="/wiki/Ra%C3%BAl_Alfons%C3%ADn" title="Raúl Alfonsín">Raúl Alfonsín</a> <i>(pictured)</i> being elected <a href="/wiki/President_of_Argentina" title="President of Argentina">President of Argentina</a>.</li>
+</ul>
+<p><b><a href="/wiki/Hieronymus_van_Beverningh" title="Hieronymus van Beverningh">Hieronymus van Beverningh</a></b> (d.&#160;1690)&#160;<b>·</b>  <b><a href="/wiki/Adelaide_Anne_Procter" title="Adelaide Anne Procter">Adelaide Anne Procter</a></b> (b.&#160;1825)&#160;<b>·</b>  <b><a href="/wiki/Hilja_Riipinen" title="Hilja Riipinen">Hilja Riipinen</a></b> (b.&#160;1883)</p>
+<div style="margin-top: 0.5em;">More anniversaries:
+<div class="hlist inline nowraplinks">
+<ul>
+<li><a href="/wiki/October_29" title="October 29">October 29</a></li>
+<li><b><a href="/wiki/October_30" title="October 30">October 30</a></b></li>
+<li><a href="/wiki/October_31" title="October 31">October 31</a></li>
+</ul>
+</div>
+</div>
+<div class="otd-footer hlist noprint" style="text-align: right;">
+<ul>
+<li><b><a href="/wiki/Wikipedia:Selected_anniversaries/October" title="Wikipedia:Selected anniversaries/October">Archive</a></b></li>
+<li><b><a href="https://lists.wikimedia.org/mailman/listinfo/daily-article-l" class="extiw" title="mail:daily-article-l">By email</a></b></li>
+<li><b><a href="/wiki/List_of_historical_anniversaries" title="List of historical anniversaries">List of historical anniversaries</a></b></li>
+</ul>
+</div>
+</div>
+</td>
 </tr>
 </table>
-<p><b>Gerard A. "Gerry" Salton</b> (8 March 1927 in <a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a> – 28 August 1995), was a Professor of <a href="/wiki/Computer_Science" class="mw-redirect" title="Computer Science">Computer Science</a> at <a href="/wiki/Cornell_University" title="Cornell University">Cornell University</a>. Salton was perhaps the leading computer scientist working in the field of <a href="/wiki/Information_retrieval" title="Information retrieval">information retrieval</a> during his time, and "the father of information retrieval".<sup id="cite_ref-father-IR_1-1" class="reference"><a href="#cite_note-father-IR-1">[1]</a></sup> His group at Cornell developed the <a href="/wiki/SMART_Information_Retrieval_System" title="SMART Information Retrieval System">SMART Information Retrieval System</a>, which he initiated when he was at Harvard.</p>
-<p>Salton was born Gerhard Anton Sahlmann on March 8, 1927 in <a href="/wiki/Nuremberg,_Germany" class="mw-redirect" title="Nuremberg, Germany">Nuremberg, Germany</a>. He received a Bachelor's (1950) and Master's (1952) degree in mathematics from <a href="/wiki/Brooklyn_College" title="Brooklyn College">Brooklyn College</a>, and a Ph.D. from <a href="/wiki/Harvard_University" title="Harvard University">Harvard</a> in <a href="/wiki/Applied_Mathematics" class="mw-redirect" title="Applied Mathematics">Applied Mathematics</a> in 1958, the last of <a href="/wiki/Howard_Aiken" class="mw-redirect" title="Howard Aiken">Howard Aiken</a>'s doctoral students, and taught there until 1965, when he joined <a href="/wiki/Cornell_University" title="Cornell University">Cornell University</a> and co-founded its department of Computer Science.</p>
-<p>Salton was perhaps most well known for developing the now widely used <a href="/wiki/Vector_space_model" title="Vector space model">vector space model</a> for Information Retrieval.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> In this model, both documents and queries are represented as vectors of term counts, and the similarity between a document and a query is given by the cosine between the term vector and the document vector. In this paper, he also introduced <a href="/wiki/TF-IDF" class="mw-redirect" title="TF-IDF">TF-IDF</a>, or term-frequency-inverse-document frequency, a model in which the score of a term in a document is the ratio of the number of terms in that document divided by the frequency of the number of documents in which that term occurs. (The concept of inverse document frequency, a measure of specificity, had been introduced in 1972 by <a href="/wiki/Karen_Sp%C3%A4rck_Jones" title="Karen Spärck Jones">Karen Sparck-Jones</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>) Later in life, he became interested in automatic text summarization and analysis,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> as well as automatic hypertext generation.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> He published over 150 research articles and 5 books during his life.</p>
-<p>Salton was editor-in-chief of the <a href="/wiki/Communications_of_the_ACM" title="Communications of the ACM">Communications of the ACM</a> and the <a href="/wiki/Journal_of_the_ACM" title="Journal of the ACM">Journal of the ACM</a>, and chaired <a href="/wiki/Special_Interest_Group_on_Information_Retrieval" title="Special Interest Group on Information Retrieval">Special Interest Group on Information Retrieval</a> (SIGIR). He was an associate editor of the <a href="/wiki/ACM_Transactions_on_Information_Systems" title="ACM Transactions on Information Systems">ACM Transactions on Information Systems</a>. He was an <a href="/wiki/List_of_Fellows_of_the_Association_for_Computing_Machinery" title="List of Fellows of the Association for Computing Machinery">ACM Fellow</a> (elected 1995),<sup id="cite_ref-fellow-acm_6-0" class="reference"><a href="#cite_note-fellow-acm-6">[6]</a></sup> received an Award of Merit from the <a href="/wiki/American_Society_for_Information_Science" class="mw-redirect" title="American Society for Information Science">American Society for Information Science</a> (1989), and was the first recipient of the SIGIR Award for outstanding contributions to study of information retrieval (1983) -- now called the <a href="/wiki/Gerard_Salton_Award" title="Gerard Salton Award">Gerard Salton Award</a>.</p>
-<p></p>
-<div id="toc" class="toc">
-<div class="toctitle">
-<h2>Contents</h2>
-</div>
-<ul>
-<li class="toclevel-1 tocsection-1"><a href="#Bibliography"><span class="tocnumber">1</span> <span class="toctext">Bibliography</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
-</ul>
-</div>
-<p></p>
-<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gerard_Salton&amp;action=edit&amp;section=1" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul>
-<li>Salton, <i>Automatic Information Organization and Retrieval</i>, 1968.</li>
-<li><cite class="citation book">Gerard Salton (1975). <i>A Theory of Indexing</i>. Society for Industrial and Applied Mathematics. p.&#160;56.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGerard+Salton&amp;rft.au=Gerard+Salton&amp;rft.btitle=A+Theory+of+Indexing&amp;rft.date=1975&amp;rft.genre=book&amp;rft.pages=56&amp;rft.pub=Society+for+Industrial+and+Applied+Mathematics&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
-<li>--- and Michael J. McGill, <i>Introduction to modern information retrieval</i>, 1983. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-07-054484-0" title="Special:BookSources/0-07-054484-0">0-07-054484-0</a></li>
-<li><cite class="citation book">Gerard Salton (1989). <i>Automatic Text Processing</i>. Addison-Wesley Publishing Company. p.&#160;530. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-201-12227-8" title="Special:BookSources/0-201-12227-8">0-201-12227-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGerard+Salton&amp;rft.au=Gerard+Salton&amp;rft.btitle=Automatic+Text+Processing&amp;rft.date=1989&amp;rft.genre=book&amp;rft.isbn=0-201-12227-8&amp;rft.pages=530&amp;rft.pub=Addison-Wesley+Publishing+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
-<li><a rel="nofollow" class="external text" href="http://dblp.org/pid/s/GerardSalton">Gerard Salton</a> at <a href="/wiki/DBLP" title="DBLP">DBLP</a> Bibliography Server</li>
-<li>G. Salton, A. Wong, and C. S. Yang (1975), "<a rel="nofollow" class="external text" href="http://www.cs.uiuc.edu/class/fa05/cs511/Spring05/other_papers/p613-salton.pdf">A Vector Space Model for Automatic Indexing</a>," <i>Communications of the ACM</i>, vol. 18, nr. 11, pages 613–620. <i>(Article in which a vector space model was presented)</i></li>
-</ul>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gerard_Salton&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul>
-<li><a href="/wiki/List_of_pioneers_in_computer_science" title="List of pioneers in computer science">List of pioneers in computer science</a></li>
-</ul>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gerard_Salton&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="reflist" style="list-style-type: decimal;">
-<div class="mw-references-wrap">
-<ol class="references">
-<li id="cite_note-father-IR-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-father-IR_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-father-IR_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cs.cornell.edu/gries/40brochure/pg24_25.pdf">"The father of information retrieval"</a> <span style="font-size:85%;">(PDF)</span>. <i>cs.cornell.edu</i><span class="reference-accessdate">. Retrieved <span class="nowrap">10 March</span> 2015</span>. <q>a founding member of the department and the father of information retrieval.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGerard+Salton&amp;rft.atitle=The+father+of+information+retrieval&amp;rft.genre=unknown&amp;rft.jtitle=cs.cornell.edu&amp;rft_id=http%3A%2F%2Fwww.cs.cornell.edu%2Fgries%2F40brochure%2Fpg24_25.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Salton, G.; Wong, A.; Yang, C. S. (1975). "A vector space model for automatic indexing". <i>Communications of the ACM</i>. <b>18</b> (11): 613. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1145%2F361219.361220">10.1145/361219.361220</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGerard+Salton&amp;rft.atitle=A+vector+space+model+for+automatic+indexing&amp;rft.au=Wong%2C+A.&amp;rft.au=Yang%2C+C.+S.&amp;rft.aufirst=G.&amp;rft.aulast=Salton&amp;rft.date=1975&amp;rft.genre=article&amp;rft.issue=11&amp;rft.jtitle=Communications+of+the+ACM&amp;rft.pages=613&amp;rft.volume=18&amp;rft_id=info%3Adoi%2F10.1145%2F361219.361220&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Karen_Sp%C3%A4rck_Jones" title="Karen Spärck Jones">Spärck Jones, K.</a> (1972). <a rel="nofollow" class="external text" href="http://www.emeraldinsight.com/doi/abs/10.1108/eb026526">"A Statistical Interpretation of Term Specificity and Its Application in Retrieval"</a>. <i>Journal of Documentation</i>. <b>28</b>: 11–21. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1108%2Feb026526">10.1108/eb026526</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGerard+Salton&amp;rft.atitle=A+Statistical+Interpretation+of+Term+Specificity+and+Its+Application+in+Retrieval&amp;rft.aufirst=K.&amp;rft.aulast=Sp%C3%A4rck+Jones&amp;rft.date=1972&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Documentation&amp;rft.pages=11-21&amp;rft.volume=28&amp;rft_id=http%3A%2F%2Fwww.emeraldinsight.com%2Fdoi%2Fabs%2F10.1108%2Feb026526&amp;rft_id=info%3Adoi%2F10.1108%2Feb026526&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Salton, G.; Allan, J.; Buckley, C.; Singhal, A. (1994). "Automatic Analysis, Theme Generation, and Summarization of Machine-Readable Texts". <i>Science</i>. <b>264</b> (5164): 1421–1426. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17838425">17838425</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1126%2Fscience.264.5164.1421">10.1126/science.264.5164.1421</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGerard+Salton&amp;rft.atitle=Automatic+Analysis%2C+Theme+Generation%2C+and+Summarization+of+Machine-Readable+Texts&amp;rft.au=Allan%2C+J.&amp;rft.au=Buckley%2C+C.&amp;rft.au=Singhal%2C+A.&amp;rft.aufirst=G.&amp;rft.aulast=Salton&amp;rft.date=1994&amp;rft.genre=article&amp;rft.issue=5164&amp;rft.jtitle=Science&amp;rft.pages=1421-1426&amp;rft.volume=264&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.264.5164.1421&amp;rft_id=info%3Apmid%2F17838425&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cs.cornell.edu/Info/Department/Annual95/Faculty/Salton.html">"Gerard Salton"</a>. Cs.cornell.edu<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGerard+Salton&amp;rft.btitle=Gerard+Salton&amp;rft.genre=unknown&amp;rft.pub=Cs.cornell.edu&amp;rft_id=http%3A%2F%2Fwww.cs.cornell.edu%2FInfo%2FDepartment%2FAnnual95%2FFaculty%2FSalton.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
-<li id="cite_note-fellow-acm-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-fellow-acm_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://awards.acm.org/award_winners/salton_2316166.cfm">"Gerard Salton ACM Fellows 1995"</a>. <i>acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">10 March</span> 2015</span>. <q>contributions over 30 years to information organization and retrieval</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGerard+Salton&amp;rft.atitle=Gerard+Salton+ACM+Fellows++1995&amp;rft.genre=unknown&amp;rft.jtitle=acm.org&amp;rft_id=http%3A%2F%2Fawards.acm.org%2Faward_winners%2Fsalton_2316166.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
-</ol>
+<div id="mp-middle" class="MainPageBG" style="margin-top:4px; border:1px solid #f2cedd; background:#fff5fa; overflow:auto;">
+<div id="mp-center">
+<h2 id="mp-tfl-h2" style="margin:0.5em; background:#f2cedd; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #bfa3af; color:#000; padding:0.2em 0.4em"><span id="From_today's_featured_list"></span><span class="mw-headline" id="From_today.27s_featured_list">From today's featured list</span></h2>
+<div id="mp-tfl" style="padding:0.3em 0.7em;">
+<div id="mp-tfl-img" style="float:right;margin:0.5em 0 0.4em 0.9em;">
+<div class="thumbinner mp-thumb" style="background: transparent; border: none; padding: 0; max-width: 125px;"><a href="/wiki/File:West_Virginia_counties_map.png" class="image" title="West Virginia counties"><img alt="West Virginia counties" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/West_Virginia_counties_map.png/125px-West_Virginia_counties_map.png" width="125" height="112" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/West_Virginia_counties_map.png/188px-West_Virginia_counties_map.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b2/West_Virginia_counties_map.png/250px-West_Virginia_counties_map.png 2x" data-file-width="865" data-file-height="778" /></a>
+<div class="thumbcaption" style="padding: 0.25em 0; word-wrap: break-word;">West Virginia counties</div>
 </div>
 </div>
-<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gerard_Salton&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <b><a href="/wiki/List_of_counties_in_West_Virginia" title="List of counties in West Virginia">U.S. state of West Virginia has 55 counties</a></b>. Fifty of them existed at the time of the <a href="/wiki/Wheeling_Convention" title="Wheeling Convention">Wheeling Convention</a> in 1861, before which <a href="/wiki/West_Virginia" title="West Virginia">West Virginia</a> was part of the Commonwealth of <a href="/wiki/Virginia" title="Virginia">Virginia</a>. The remaining five (<a href="/wiki/Grant_County,_West_Virginia" title="Grant County, West Virginia">Grant</a>, <a href="/wiki/Mineral_County,_West_Virginia" title="Mineral County, West Virginia">Mineral</a>, <a href="/wiki/Lincoln_County,_West_Virginia" title="Lincoln County, West Virginia">Lincoln</a>, <a href="/wiki/Summers_County,_West_Virginia" title="Summers County, West Virginia">Summers</a> and <a href="/wiki/Mingo_County,_West_Virginia" title="Mingo County, West Virginia">Mingo</a>) were formed within the state after its admission to the United States on June 20, 1863. The <a href="/wiki/Constitution_of_West_Virginia" title="Constitution of West Virginia">West Virginia Constitution</a> was ratified in 1872, replacing the state constitution created in 1863 when West Virginia became a state. Article 9, Section 8, of the West Virginia Constitution permits the creation of additional <a href="/wiki/County_(United_States)" title="County (United States)">counties</a> if a majority of citizens in the proposed new county vote for its creation and the new county has a minimum area of 400 square miles (1,036&#160;km<sup>2</sup>) and a population of at least 6,000. Creation of a new county is prohibited if it would bring another county below these thresholds. Randolph County is the largest by area at 1,040 square miles (2,694&#160;km<sup>2</sup>), and <a href="/wiki/Hancock_County,_West_Virginia" title="Hancock County, West Virginia">Hancock County</a> is the smallest at 83 square miles (215&#160;km<sup>2</sup>). (<b><a href="/wiki/List_of_counties_in_West_Virginia" title="List of counties in West Virginia">Full&#160;list...</a></b>)</p>
+<div class="tfl-recent" style="text-align: right;">Recently featured:
+<div class="hlist inline">
 <ul>
-<li><a rel="nofollow" class="external text" href="http://www.cs.cornell.edu/Info/Department/Annual96/Beginning/salton.html">In Memoriam</a></li>
-<li><a rel="nofollow" class="external text" href="http://blog.tomevslin.com/2006/01/search_down_mem.html">Fractals of Change: Search Down Memory Lane</a></li>
-<li><a rel="nofollow" class="external text" href="http://www.ideals.uiuc.edu/bitstream/2142/1697/2/Dubin748764.pdf">The Most Influential Paper Gerard Salton Never Wrote</a> - This 2004 Library Trends paper by David Dubin serves as a historical review of the metamorphosis of the term discrimination value model (TDV) into the vector space model as an information retrieval model (VSM as an IR model). This paper calls into question what the Information Retrieval research community believed Salton's vector space model was originally intended to model. What much later became an information retrieval model was originally a data-centric mathematical–computational model used as an explanatory device. In addition, Dubin's paper points out that a 1975 Salton paper oft cited does not exist but is probably a combination of two other papers, neither of which actually refers to the VSM as an IR model.</li>
+<li><a href="/wiki/Glossary_of_bird_terms" title="Glossary of bird terms">Glossary of bird terms</a></li>
+<li><a href="/wiki/500_home_run_club" title="500 home run club">500 home run club</a></li>
+<li><a href="/wiki/Manisha_Koirala_filmography" title="Manisha Koirala filmography">Manisha Koirala filmography</a></li>
 </ul>
-<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
-<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+</div>
+</div>
+<div class="tfl-footer hlist noprint" style="text-align: right;">
+<ul>
+<li><b><a href="/wiki/Wikipedia:Today%27s_featured_list/October_2017" title="Wikipedia:Today's featured list/October 2017">Archive</a></b></li>
+<li><b><a href="/wiki/Wikipedia:Featured_lists" title="Wikipedia:Featured lists">More featured lists</a></b></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="mp-lower" class="MainPageBG" style="margin-top:4px; border:1px solid #ddcef2; background:#faf5ff; overflow:auto;">
+<div id="mp-bottom">
+<h2 id="mp-tfp-h2" style="margin:0.5em; background:#ddcef2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #afa3bf; color:#000; padding:0.2em 0.4em"><span id="Today's_featured_picture"></span><span class="mw-headline" id="Today.27s_featured_picture">Today's featured picture</span></h2>
+<div id="mp-tfp" style="margin:0.1em 0.4em 0.6em;">
+<table role="presentation" style="margin:0 3px 3px; width:100%; text-align:left; background-color:transparent; border-collapse: collapse;">
 <tr>
-<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
-<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-<div style="padding:0em 0.25em">
+<td style="padding:0 0.9em 0 0;"><a href="/wiki/File:Autumn_leaf_(Doleschallia_bisaltide)_Bali_I.jpg" class="image" title="Autumn leaf butterfly"><img alt="Autumn leaf butterfly" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Autumn_leaf_%28Doleschallia_bisaltide%29_Bali_I.jpg/380px-Autumn_leaf_%28Doleschallia_bisaltide%29_Bali_I.jpg" width="380" height="253" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Autumn_leaf_%28Doleschallia_bisaltide%29_Bali_I.jpg/570px-Autumn_leaf_%28Doleschallia_bisaltide%29_Bali_I.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Autumn_leaf_%28Doleschallia_bisaltide%29_Bali_I.jpg/760px-Autumn_leaf_%28Doleschallia_bisaltide%29_Bali_I.jpg 2x" data-file-width="4996" data-file-height="3330" /></a></td>
+<td style="padding:0 6px 0 0">
+<p><i><b><a href="/wiki/Doleschallia_bisaltide" title="Doleschallia bisaltide">Doleschallia bisaltide</a></b></i>, also known as the leaf wing, is a species of butterfly found in South Asia, Southeast Asia, and Australasia. The butterfly mimics the shape and colour of an autumnal leaf, giving it its common name "autumn leaf". This specimen was photographed in <a href="/wiki/Bali" title="Bali">Bali</a>, Indonesia.</p>
+<p><small>Photograph: <a href="/wiki/User:Charlesjsharp" title="User:Charlesjsharp">Charles J. Sharp</a></small></p>
+<div class="potd-recent" style="text-align:right;">Recently featured:
+<div class="hlist inline">
 <ul>
-<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/108172047">WorldCat Identities</a></span></li>
-<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/108172047">108172047</a></span></span></li>
-<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n50015272">n50015272</a></span></span></li>
-<li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000109308253">0000 0001 0930 8253</a></span></span></li>
-<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/170160424">170160424</a></span></span></li>
-<li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/032778007">032778007</a></span></span></li>
-<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb12374122z">cb12374122z</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb12374122z">(data)</a></span></span></li>
-<li><span class="nowrap"><a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">MGP</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=13306">13306</a></span></span></li>
-<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00455212">00455212</a></span></span></li>
-<li><span class="nowrap"><a href="/wiki/Institute_for_Advanced_Technology_in_the_Humanities" title="Institute for Advanced Technology in the Humanities">IATH</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://socialarchive.iath.virginia.edu/ark:/99166/w6d52dft">w6d52dft</a></span></span></li>
-<li><span class="nowrap"><a href="/wiki/DBLP" title="DBLP">DBLP</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://dblp.org/pid/s/GerardSalton">s/GerardSalton</a></span></span></li>
-<li><span class="nowrap"><a href="/wiki/ACM_Digital_Library" class="mw-redirect" title="ACM Digital Library">ACM DL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://dl.acm.org/author_page.cfm?id=81100649307">81100649307</a></span></span></li>
+<li><a href="/wiki/Template:POTD/2017-10-29" title="Template:POTD/2017-10-29"><i>Northeaster</i></a></li>
+<li><a href="/wiki/Template:POTD/2017-10-28" title="Template:POTD/2017-10-28">Cygnus CRS Orb-3 explosion</a></li>
+<li><a href="/wiki/Template:POTD/2017-10-27" title="Template:POTD/2017-10-27"><i>Ramaria gracilis</i></a></li>
+</ul>
+</div>
+</div>
+<div class="potd-footer hlist noprint" style="text-align:right;">
+<ul>
+<li><b><a href="/wiki/Wikipedia:Picture_of_the_day/October_2017" title="Wikipedia:Picture of the day/October 2017">Archive</a></b></li>
+<li><b><a href="/wiki/Wikipedia:Featured_pictures" title="Wikipedia:Featured pictures">More featured pictures</a></b></li>
 </ul>
 </div>
 </td>
 </tr>
 </table>
 </div>
+</div>
+</div>
+<div id="mp-other" style="padding-top:4px; padding-bottom:2px;">
+<h2><span class="mw-headline" id="Other_areas_of_Wikipedia">Other areas of Wikipedia</span></h2>
+<ul>
+<li><b><a href="/wiki/Wikipedia:Community_portal" title="Wikipedia:Community portal">Community portal</a></b> – Bulletin board, projects, resources and activities covering a wide range of Wikipedia areas.</li>
+<li><b><a href="/wiki/Wikipedia:Help_desk" title="Wikipedia:Help desk">Help desk</a></b> – Ask questions about using Wikipedia.</li>
+<li><b><a href="/wiki/Wikipedia:Local_Embassy" title="Wikipedia:Local Embassy">Local embassy</a></b> – For Wikipedia-related communication in languages other than English.</li>
+<li><b><a href="/wiki/Wikipedia:Reference_desk" title="Wikipedia:Reference desk">Reference desk</a></b> – Serving as virtual librarians, Wikipedia volunteers tackle your questions on a wide range of subjects.</li>
+<li><b><a href="/wiki/Wikipedia:News" title="Wikipedia:News">Site news</a></b> – Announcements, updates, articles and press releases on Wikipedia and the Wikimedia Foundation.</li>
+<li><b><a href="/wiki/Wikipedia:Village_pump" title="Wikipedia:Village pump">Village pump</a></b> – For discussions about Wikipedia itself, including areas for technical issues and policies.</li>
+</ul>
+</div>
+<div id="mp-sister">
+<h2><span id="Wikipedia's_sister_projects"></span><span class="mw-headline" id="Wikipedia.27s_sister_projects">Wikipedia's sister projects</span></h2>
+<p>Wikipedia is hosted by the <a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">Wikimedia Foundation</a>, a non-profit organization that also hosts a range of other <a href="https://wikimediafoundation.org/wiki/Our_projects" class="extiw" title="wmf:Our projects">projects</a>:</p>
+<table class="layout plainlinks" style="width:100%; margin:auto; text-align:left; background:transparent;">
+<tr>
+<td style="min-width: 50px; text-align:center; padding:4px;"><a href="https://commons.wikimedia.org/wiki/" title="Commons"><img alt="Commons" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/31px-Commons-logo.svg.png" width="31" height="42" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/47px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/62px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td style="width:33%; padding:4px;"><b><a class="external text" href="//commons.wikimedia.org/">Commons</a></b><br />
+Free media repository</td>
+<td style="min-width: 50px; text-align:center; padding:4px;"><a href="https://www.mediawiki.org/wiki/" title="MediaWiki"><img alt="MediaWiki" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mediawiki-logo.png/35px-Mediawiki-logo.png" width="35" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mediawiki-logo.png/53px-Mediawiki-logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mediawiki-logo.png/70px-Mediawiki-logo.png 2x" data-file-width="135" data-file-height="102" /></a></td>
+<td style="width:33%; padding:4px;"><b><a class="external text" href="//mediawiki.org/">MediaWiki</a></b><br />
+Wiki software development</td>
+<td style="min-width: 50px; text-align:center; padding:4px;"><a href="https://meta.wikimedia.org/wiki/" title="Meta-Wiki"><img alt="Meta-Wiki" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/35px-Wikimedia_Community_Logo.svg.png" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/53px-Wikimedia_Community_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/70px-Wikimedia_Community_Logo.svg.png 2x" data-file-width="900" data-file-height="900" /></a></td>
+<td style="width:33%; padding:4px;"><b><a class="external text" href="//meta.wikimedia.org/">Meta-Wiki</a></b><br />
+Wikimedia project coordination</td>
+</tr>
+<tr>
+<td style="min-width: 50px; text-align:center; padding:4px;"><a href="https://en.wikibooks.org/wiki/" title="Wikibooks"><img alt="Wikibooks" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/35px-Wikibooks-logo.svg.png" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/53px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/70px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></a></td>
+<td style="padding:4px;"><b><a class="external text" href="//en.wikibooks.org/">Wikibooks</a></b><br />
+Free textbooks and manuals</td>
+<td style="min-width: 50px; text-align:center; padding:3px;"><a href="https://www.wikidata.org/wiki/" title="Wikidata"><img alt="Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/47px-Wikidata-logo.svg.png" width="47" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/71px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/94px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a></td>
+<td style="padding:4px;"><b><a class="external text" href="//www.wikidata.org/">Wikidata</a></b><br />
+Free knowledge base</td>
+<td style="min-width: 50px; text-align:center; padding:4px;"><a href="https://en.wikinews.org/wiki/" title="Wikinews"><img alt="Wikinews" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/51px-Wikinews-logo.svg.png" width="51" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/77px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/102px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415" /></a></td>
+<td style="padding:4px;"><b><a class="external text" href="//en.wikinews.org/">Wikinews</a></b><br />
+Free-content news</td>
+</tr>
+<tr>
+<td style="min-width: 50px; text-align:center; padding:4px;"><a href="https://en.wikiquote.org/wiki/" title="Wikiquote"><img alt="Wikiquote" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/35px-Wikiquote-logo.svg.png" width="35" height="41" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/53px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/70px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a></td>
+<td style="padding:4px;"><b><a class="external text" href="//en.wikiquote.org/">Wikiquote</a></b><br />
+Collection of quotations</td>
+<td style="min-width: 50px; text-align:center; padding:4px;"><a href="https://en.wikisource.org/wiki/" title="Wikisource"><img alt="Wikisource" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/35px-Wikisource-logo.svg.png" width="35" height="37" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/53px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/70px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a></td>
+<td style="padding:4px;"><b><a class="external text" href="//en.wikisource.org/">Wikisource</a></b><br />
+Free-content library</td>
+<td style="min-width: 50px; text-align:center; padding:4px;"><a href="https://species.wikimedia.org/wiki/" title="Wikispecies"><img alt="Wikispecies" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/35px-Wikispecies-logo.svg.png" width="35" height="41" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/53px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/70px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103" /></a></td>
+<td style="padding:4px;"><b><a class="external text" href="//species.wikimedia.org/">Wikispecies</a></b><br />
+Directory of species</td>
+</tr>
+<tr>
+<td style="min-width: 50px; text-align:center; padding:4px;"><a href="https://en.wikiversity.org/wiki/" title="Wikiversity"><img alt="Wikiversity" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wikiversity_logo_2017.svg/41px-Wikiversity_logo_2017.svg.png" width="41" height="34" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wikiversity_logo_2017.svg/62px-Wikiversity_logo_2017.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wikiversity_logo_2017.svg/82px-Wikiversity_logo_2017.svg.png 2x" data-file-width="626" data-file-height="512" /></a></td>
+<td style="padding:4px;"><b><a class="external text" href="//en.wikiversity.org/">Wikiversity</a></b><br />
+Free learning materials and activities</td>
+<td style="min-width: 50px; text-align:center; padding:4px;"><a href="https://en.wikivoyage.org/wiki/" title="Wikivoyage"><img alt="Wikivoyage" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/35px-Wikivoyage-Logo-v3-icon.svg.png" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/53px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/70px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></a></td>
+<td style="padding:4px;"><b><a class="external text" href="//en.wikivoyage.org/">Wikivoyage</a></b><br />
+Free travel guide</td>
+<td style="min-width: 50px; text-align:center; padding:4px;"><a href="https://en.wiktionary.org/wiki/" title="Wiktionary"><img alt="Wiktionary" src="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/35px-Wiktionary-logo-v2.svg.png" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/53px-Wiktionary-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/70px-Wiktionary-logo-v2.svg.png 2x" data-file-width="391" data-file-height="391" /></a></td>
+<td style="padding:4px;"><b><a class="external text" href="//en.wiktionary.org/">Wiktionary</a></b><br />
+Dictionary and thesaurus</td>
+</tr>
+</table>
+</div>
+<div id="mp-lang">
+<h2><span class="mw-headline" id="Wikipedia_languages">Wikipedia languages</span></h2>
+<div id="lang" class="nowraplinks nourlexpansion plainlinks">
+<p>This Wikipedia is written in <a href="/wiki/English_language" title="English language">English</a>. Started in 2001<span style="display:none">&#160;(<span class="bday dtstart published updated">2001</span>)</span>, it currently contains <a href="/wiki/Special:Statistics" title="Special:Statistics">5,501,425</a> articles.  Many other Wikipedias are available; some of the largest are listed below.</p>
+<ul>
+<li id="lang-3">More than 1,000,000 articles:
+<div class="hlist inline">
+<ul>
+<li><a class="external text" href="https://de.wikipedia.org/wiki/"><span class="autonym" title="German (de:)" lang="de" xml:lang="de">Deutsch</span></a></li>
+<li><a class="external text" href="https://es.wikipedia.org/wiki/"><span class="autonym" title="Spanish (es:)" lang="es" xml:lang="es">Español</span></a></li>
+<li><a class="external text" href="https://fr.wikipedia.org/wiki/"><span class="autonym" title="French (fr:)" lang="fr" xml:lang="fr">Français</span></a></li>
+<li><a class="external text" href="https://it.wikipedia.org/wiki/"><span class="autonym" title="Italian (it:)" lang="it" xml:lang="it">Italiano</span></a></li>
+<li><a class="external text" href="https://nl.wikipedia.org/wiki/"><span class="autonym" title="Dutch (nl:)" lang="nl" xml:lang="nl">Nederlands</span></a></li>
+<li><a class="external text" href="https://ja.wikipedia.org/wiki/"><span class="autonym" title="Japanese (ja:)" lang="ja" xml:lang="ja">日本語</span></a></li>
+<li><a class="external text" href="https://pl.wikipedia.org/wiki/"><span class="autonym" title="Polish (pl:)" lang="pl" xml:lang="pl">Polski</span></a></li>
+<li><a class="external text" href="https://ru.wikipedia.org/wiki/"><span class="autonym" title="Russian (ru:)" lang="ru" xml:lang="ru">Русский</span></a></li>
+<li><a class="external text" href="https://sv.wikipedia.org/wiki/"><span class="autonym" title="Swedish (sv:)" lang="sv" xml:lang="sv">Svenska</span></a></li>
+<li><a class="external text" href="https://vi.wikipedia.org/wiki/"><span class="autonym" title="Vietnamese (vi:)" lang="vi" xml:lang="vi">Tiếng Việt</span></a></li>
+</ul>
+</div>
+</li>
+<li id="lang-2">More than 250,000 articles:
+<div class="hlist inline">
+<ul>
+<li><a class="external text" href="https://ar.wikipedia.org/wiki/"><span class="autonym" title="Arabic (ar:)" lang="ar" xml:lang="ar">العربية</span></a></li>
+<li><a class="external text" href="https://id.wikipedia.org/wiki/"><span class="autonym" title="Indonesian (id:)" lang="id" xml:lang="id">Bahasa Indonesia</span></a></li>
+<li><a class="external text" href="https://ms.wikipedia.org/wiki/"><span class="autonym" title="Malay (ms:)" lang="ms" xml:lang="ms">Bahasa Melayu</span></a></li>
+<li><a class="external text" href="https://ca.wikipedia.org/wiki/"><span class="autonym" title="Catalan (ca:)" lang="ca" xml:lang="ca">Català</span></a></li>
+<li><a class="external text" href="https://cs.wikipedia.org/wiki/"><span class="autonym" title="Czech (cs:)" lang="cs" xml:lang="cs">Čeština</span></a></li>
+<li><a class="external text" href="https://eu.wikipedia.org/wiki/"><span class="autonym" title="Basque (eu:)" lang="eu" xml:lang="eu">Euskara</span></a></li>
+<li><a class="external text" href="https://fa.wikipedia.org/wiki/"><span class="autonym" title="Persian (fa:)" lang="fa" xml:lang="fa">فارسی</span></a></li>
+<li><a class="external text" href="https://ko.wikipedia.org/wiki/"><span class="autonym" title="Korean (ko:)" lang="ko" xml:lang="ko">한국어</span></a></li>
+<li><a class="external text" href="https://hu.wikipedia.org/wiki/"><span class="autonym" title="Hungarian (hu:)" lang="hu" xml:lang="hu">Magyar</span></a></li>
+<li><a class="external text" href="https://no.wikipedia.org/wiki/"><span class="autonym" title="Norwegian (no:)" lang="no" xml:lang="no">Norsk</span></a></li>
+<li><a class="external text" href="https://pt.wikipedia.org/wiki/"><span class="autonym" title="Portuguese (pt:)" lang="pt" xml:lang="pt">Português</span></a></li>
+<li><a class="external text" href="https://ro.wikipedia.org/wiki/"><span class="autonym" title="Romanian (ro:)" lang="ro" xml:lang="ro">Română</span></a></li>
+<li><a class="external text" href="https://sr.wikipedia.org/wiki/"><span class="autonym" title="Serbian (sr:)" lang="sr" xml:lang="sr">Srpski</span></a></li>
+<li><a class="external text" href="https://sh.wikipedia.org/wiki/"><span class="autonym" title="Serbo-Croatian (sh:)" lang="sh" xml:lang="sh">Srpskohrvatski</span></a></li>
+<li><a class="external text" href="https://fi.wikipedia.org/wiki/"><span class="autonym" title="Finnish (fi:)" lang="fi" xml:lang="fi">Suomi</span></a></li>
+<li><a class="external text" href="https://tr.wikipedia.org/wiki/"><span class="autonym" title="Turkish (tr:)" lang="tr" xml:lang="tr">Türkçe</span></a></li>
+<li><a class="external text" href="https://uk.wikipedia.org/wiki/"><span class="autonym" title="Ukrainian (uk:)" lang="uk" xml:lang="uk">Українська</span></a></li>
+<li><a class="external text" href="https://zh.wikipedia.org/wiki/"><span class="autonym" title="Chinese (zh:)" lang="zh" xml:lang="zh">中文</span></a></li>
+</ul>
+</div>
+</li>
+<li id="lang-1">More than 50,000 articles:
+<div class="hlist inline">
+<ul>
+<li><a class="external text" href="https://bs.wikipedia.org/wiki/"><span class="autonym" title="Bosnian (bs:)" lang="bs" xml:lang="bs">Bosanski</span></a></li>
+<li><a class="external text" href="https://bg.wikipedia.org/wiki/"><span class="autonym" title="Bulgarian (bg:)" lang="bg" xml:lang="bg">Български</span></a></li>
+<li><a class="external text" href="https://da.wikipedia.org/wiki/"><span class="autonym" title="Danish (da:)" lang="da" xml:lang="da">Dansk</span></a></li>
+<li><a class="external text" href="https://et.wikipedia.org/wiki/"><span class="autonym" title="Estonian (et:)" lang="et" xml:lang="et">Eesti</span></a></li>
+<li><a class="external text" href="https://el.wikipedia.org/wiki/"><span class="autonym" title="Greek (el:)" lang="el" xml:lang="el">Ελληνικά</span></a></li>
+<li><a class="external text" href="https://simple.wikipedia.org/wiki/"><span class="autonym" title="Simple English (simple:)" lang="simple" xml:lang="simple">English (simple form)</span></a></li>
+<li><a class="external text" href="https://eo.wikipedia.org/wiki/"><span class="autonym" title="Esperanto (eo:)" lang="eo" xml:lang="eo">Esperanto</span></a></li>
+<li><a class="external text" href="https://gl.wikipedia.org/wiki/"><span class="autonym" title="Galician (gl:)" lang="gl" xml:lang="gl">Galego</span></a></li>
+<li><a class="external text" href="https://he.wikipedia.org/wiki/"><span class="autonym" title="Hebrew (he:)" lang="he" xml:lang="he">עברית</span></a></li>
+<li><a class="external text" href="https://hr.wikipedia.org/wiki/"><span class="autonym" title="Croatian (hr:)" lang="hr" xml:lang="hr">Hrvatski</span></a></li>
+<li><a class="external text" href="https://lv.wikipedia.org/wiki/"><span class="autonym" title="Latvian (lv:)" lang="lv" xml:lang="lv">Latviešu</span></a></li>
+<li><a class="external text" href="https://lt.wikipedia.org/wiki/"><span class="autonym" title="Lithuanian (lt:)" lang="lt" xml:lang="lt">Lietuvių</span></a></li>
+<li><a class="external text" href="https://nn.wikipedia.org/wiki/"><span class="autonym" title="Norwegian Nynorsk (nn:)" lang="nn" xml:lang="nn">Norsk nynorsk</span></a></li>
+<li><a class="external text" href="https://sk.wikipedia.org/wiki/"><span class="autonym" title="Slovak (sk:)" lang="sk" xml:lang="sk">Slovenčina</span></a></li>
+<li><a class="external text" href="https://sl.wikipedia.org/wiki/"><span class="autonym" title="Slovenian (sl:)" lang="sl" xml:lang="sl">Slovenščina</span></a></li>
+<li><a class="external text" href="https://th.wikipedia.org/wiki/"><span class="autonym" title="Thai (th:)" lang="th" xml:lang="th">ไทย</span></a></li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<div id="metalink" style="text-align:center;" class="plainlinks"><strong><a href="https://meta.wikimedia.org/wiki/List_of_Wikipedias" class="extiw" title="meta:List of Wikipedias">Complete list of Wikipedias</a></strong></div>
+</div>
 
 
 <!-- 
 NewPP limit report
-Parsed by mw1280
-Cached time: 20170925124139
-Cache expiry: 86400
+Parsed by mw1225
+Cached time: 20171030000138
+Cache expiry: 3600
 Dynamic content: true
-CPU time usage: 0.216 seconds
-Real time usage: 0.277 seconds
-Preprocessor visited node count: 2157/1000000
+CPU time usage: 0.284 seconds
+Real time usage: 0.376 seconds
+Preprocessor visited node count: 3179/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 28040/2097152 bytes
-Template argument size: 2964/2097152 bytes
-Highest expansion depth: 18/40
-Expensive parser function count: 0/500
-Lua time usage: 0.096/10.000 seconds
-Lua memory usage: 3.82 MB/50 MB
+Post‐expand include size: 107485/2097152 bytes
+Template argument size: 5186/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 6/500
+Lua time usage: 0.086/10.000 seconds
+Lua memory usage: 3.18 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  253.324      1 -total
- 44.74%  113.335      1 Template:Infobox_scientist
- 41.70%  105.640      1 Template:Infobox_person
- 37.15%   94.104      2 Template:Infobox
- 19.45%   49.280      1 Template:Reflist
- 12.92%   32.720      2 Template:Cite_book
-  9.44%   23.913      1 Template:ISBN
-  9.33%   23.633      5 Template:Br_separated_entries
-  7.97%   20.197      1 Template:Authority_control
-  7.30%   18.492      3 Template:Cite_journal
+100.00%  263.468      1 -total
+ 39.58%  104.271      8 Template:Main_page_image
+ 38.27%  100.838      1 Wikipedia:Main_Page/Tomorrow
+ 17.94%   47.255      1 Wikipedia:Today's_featured_list/October_30,_2017
+ 17.49%   46.079      1 Template:Did_you_know/Queue/2
+ 17.44%   45.937      1 Template:TFLcontent
+ 16.48%   43.416      1 Wikipedia:Today's_featured_article/October_30,_2017
+ 16.39%   43.185      8 Template:Str_number/trim
+ 13.63%   35.902      2 Template:Wikipedia_languages
+ 13.48%   35.522     23 Template:If_empty
 -->
 </div>
-<!-- Saved in parser cache with key enwiki:pcache:idhash:509624-0!canonical and timestamp 20170925124139 and revision id 795324931
+<!-- Saved in parser cache with key enwiki:pcache:idhash:15580374-0!canonical and timestamp 20171030000137 and revision id 798174323
  -->
 <noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
-						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Gerard_Salton&amp;oldid=795324931">https://en.wikipedia.org/w/index.php?title=Gerard_Salton&amp;oldid=795324931</a>"					</div>
-				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1927_births" title="Category:1927 births">1927 births</a></li><li><a href="/wiki/Category:1995_deaths" title="Category:1995 deaths">1995 deaths</a></li><li><a href="/wiki/Category:American_computer_scientists" title="Category:American computer scientists">American computer scientists</a></li><li><a href="/wiki/Category:Harvard_University_alumni" title="Category:Harvard University alumni">Harvard University alumni</a></li><li><a href="/wiki/Category:Harvard_University_faculty" title="Category:Harvard University faculty">Harvard University faculty</a></li><li><a href="/wiki/Category:Cornell_University_faculty" title="Category:Cornell University faculty">Cornell University faculty</a></li><li><a href="/wiki/Category:Fellows_of_the_Association_for_Computing_Machinery" title="Category:Fellows of the Association for Computing Machinery">Fellows of the Association for Computing Machinery</a></li><li><a href="/wiki/Category:Guggenheim_Fellows" title="Category:Guggenheim Fellows">Guggenheim Fellows</a></li><li><a href="/wiki/Category:Information_retrieval_researchers" title="Category:Information retrieval researchers">Information retrieval researchers</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SNAC-ID_identifiers" title="Category:Wikipedia articles with SNAC-ID identifiers">Wikipedia articles with SNAC-ID identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_DBLP_identifiers" title="Category:Wikipedia articles with DBLP identifiers">Wikipedia articles with DBLP identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ACM-DL_identifiers" title="Category:Wikipedia articles with ACM-DL identifiers">Wikipedia articles with ACM-DL identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Main_Page&amp;oldid=798174323">https://en.wikipedia.org/w/index.php?title=Main_Page&amp;oldid=798174323</a>"					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
 							</div>
 		</div>
 		<div id="mw-navigation">
-			<h2>Navigation menu</h2>
-
-			<div id="mw-head">
-									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
-						<h3 id="p-personal-label">Personal tools</h3>
-						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Gerard+Salton&amp;returntoquery=amp%253Baction%3Dedit%26amp%253Bsection%3D3" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Gerard+Salton&amp;returntoquery=amp%253Baction%3Dedit%26amp%253Bsection%3D3" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
-					</div>
-									<div id="left-navigation">
-										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
-						<h3 id="p-namespaces-label">Namespaces</h3>
-						<ul>
-														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Gerard_Salton" title="View the content page [c]" accesskey="c">Article</a></span></li>
-							<li id="ca-talk"><span><a href="/wiki/Talk:Gerard_Salton" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
-						</ul>
-					</div>
-										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
-												<h3 id="p-variants-label">
-							<span>Variants</span>
-						</h3>
-
-						<div class="menu">
-							<ul>
-															</ul>
-						</div>
-					</div>
-									</div>
-				<div id="right-navigation">
-										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
-						<h3 id="p-views-label">Views</h3>
-						<ul>
-														<li id="ca-view" class="selected"><span><a href="/wiki/Gerard_Salton">Read</a></span></li>
-							<li id="ca-edit"><span><a href="/w/index.php?title=Gerard_Salton&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
-							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Gerard_Salton&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
-						</ul>
-					</div>
-										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
-						<h3 id="p-cactions-label"><span>More</span></h3>
-
-						<div class="menu">
-							<ul>
-															</ul>
-						</div>
-					</div>
-										<div id="p-search" role="search">
-						<h3>
-							<label for="searchInput">Search</label>
-						</h3>
-
-						<form action="/w/index.php" id="searchform">
-							<div id="simpleSearch">
-							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
-						</form>
-					</div>
-									</div>
-			</div>
-			<div id="mw-panel">
-				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
-						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
-			<h3 id='p-navigation-label'>Navigation</h3>
-
-			<div class="body">
-									<ul>
-						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
-			<h3 id='p-interaction-label'>Interaction</h3>
-
-			<div class="body">
-									<ul>
-						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
-			<h3 id='p-tb-label'>Tools</h3>
-
-			<div class="body">
-									<ul>
-						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Gerard_Salton" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Gerard_Salton" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Gerard_Salton&amp;oldid=795324931" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Gerard_Salton&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q92880" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Gerard_Salton&amp;id=795324931" title="Information on how to cite this page">Cite this page</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
-			<h3 id='p-coll-print_export-label'>Print/export</h3>
-
-			<div class="body">
-									<ul>
-						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Gerard+Salton">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Gerard+Salton&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DGerard%2BSalton%26returnto%3DGerard%2BSalton%26oldid%3D795324931%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Gerard_Salton&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
-			<h3 id='p-lang-label'>Languages</h3>
-
-			<div class="body">
-									<ul>
-						<li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%AC%D8%B1%D8%A7%D8%B1%D8%AF_%D8%B3%D8%A7%D9%84%D8%AA%D9%88%D9%86" title="جرارد سالتون – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Gerard_Salton" title="Gerard Salton – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Gerard_Salton" title="Gerard Salton – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Gerard_Salton" title="Gerard Salton – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AC%D8%B1%D8%A7%D8%B1%D8%AF_%D8%B3%D8%A7%D9%84%D8%AA%D9%88%D9%86" title="جرارد سالتون – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Gerard_Salton" title="Gerard Salton – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%A0%9C%EB%9D%BC%EB%93%9C_%EC%86%94%ED%8A%BC" title="제라드 솔튼 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Gerard_Salton" title="Gerard Salton – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>					</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q92880#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
-		</div>
-				</div>
-		</div>
-		<div id="footer" role="contentinfo">
-							<ul id="footer-info">
-											<li id="footer-info-lastmod"> This page was last edited on 13 August 2017, at 14:17.</li>
-											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
-additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
-									</ul>
-							<ul id="footer-places">
-											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
-											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
-											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
-											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
-											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
-											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
-											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Gerard_Salton&amp;amp%3Baction=edit&amp;amp%3Bsection=3&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
-									</ul>
-										<ul id="footer-icons" class="noprint">
-											<li id="footer-copyrightico">
-							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
-											<li id="footer-poweredbyico">
-							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
-									</ul>
-						<div style="clear:both"></div>
-		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.216","walltime":"0.277","ppvisitednodes":{"value":2157,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":28040,"limit":2097152},"templateargumentsize":{"value":2964,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  253.324      1 -total"," 44.74%  113.335      1 Template:Infobox_scientist"," 41.70%  105.640      1 Template:Infobox_person"," 37.15%   94.104      2 Template:Infobox"," 19.45%   49.280      1 Template:Reflist"," 12.92%   32.720      2 Template:Cite_book","  9.44%   23.913      1 Template:ISBN","  9.33%   23.633      5 Template:Br_separated_entries","  7.97%   20.197      1 Template:Authority_control","  7.30%   18.492      3 Template:Cite_journal"]},"scribunto":{"limitreport-timeusage":{"value":"0.096","limit":"10.000"},"limitreport-memusage":{"value":4007384,"limit":52428800}},"cachereport":{"origin":"mw1280","timestamp":"20170925124139","ttl":86400,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":67,"wgHostname":"mw1322"});});</script>
-	</body>
-</html>

@@ -44,6 +44,7 @@ class WikiCrawler:
                 # send http request to get page content
                 response = requests.get(currentUrl)
                 pageContent = response.content.decode()
+                pageContent = re.findall("<div id=\"bodyContent\".+?<div id=\"mw-navigation\">", pageContent, re.S)[0]
             except:
                 continue
 

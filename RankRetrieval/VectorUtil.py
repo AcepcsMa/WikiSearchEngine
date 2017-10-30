@@ -9,15 +9,18 @@ class VectorUtil:
         if(len(vectorA) != len(vectorB)):
             raise Exception("Size of vectorA does not equal to size of vectorB")
 
-        numerator = 0.0
+        similarity = 0.0
+        contributions = list()
         for valueA, valueB in zip(vectorA, vectorB):
-            numerator += valueA*valueB
-        denominator = math.sqrt(self.vectorSize(vectorA) * self.vectorSize(vectorB))
-        return numerator / denominator
+            similarity += valueA*valueB
+            contributions.append(valueA*valueB)
+        #denominator = math.sqrt(self.vectorSize(vectorA) * self.vectorSize(vectorB))
+        #return numerator / denominator
+        return similarity, contributions
 
 
-    def vectorSize(self, vector):
+    '''def vectorSize(self, vector):
         size = 0.0
         for value in vector:
             size += value*value
-        return size
+        return size'''

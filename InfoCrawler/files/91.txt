@@ -1,335 +1,599 @@
-<!DOCTYPE html>
-<html class="client-nojs" lang="en" dir="ltr">
-<head>
-<meta charset="UTF-8"/>
-<title>Gerard Salton - Wikipedia</title>
-<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Gerard_Salton","wgTitle":"Gerard Salton","wgCurRevisionId":795324931,"wgRevisionId":795324931,"wgArticleId":509624,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hCards","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with SNAC-ID identifiers","Wikipedia articles with DBLP identifiers","Wikipedia articles with ACM-DL identifiers","1927 births","1995 deaths","American computer scientists","Harvard University alumni","Harvard University faculty","Cornell University faculty","Fellows of the Association for Computing Machinery","Guggenheim Fellows","Information retrieval researchers"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Gerard_Salton","wgRelevantArticleId":509624,"wgRequestId":"WcnjmgpAMEoAACTJzsYAAAAI","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q92880","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
-mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
-
-});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
-<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
-<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
-<meta name="ResourceLoaderDynamicStyles" content=""/>
-<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
-<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
-<meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Gerard_Salton&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Gerard_Salton&amp;action=edit"/>
-<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
-<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
-<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
-<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
-<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Gerard_Salton"/>
-<link rel="dns-prefetch" href="//login.wikimedia.org"/>
-<link rel="dns-prefetch" href="//meta.wikimedia.org" />
-<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
-</head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Gerard_Salton rootpage-Gerard_Salton skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
-		<div id="mw-head-base" class="noprint"></div>
-		<div id="content" class="mw-body" role="main">
-			<a id="top"></a>
-
-							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
-						<div class="mw-indicators mw-body-content">
-</div>
-			<h1 id="firstHeading" class="firstHeading" lang="en">Gerard Salton</h1>
-									<div id="bodyContent" class="mw-body-content">
+<div id="bodyContent" class="mw-body-content">
 									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
 								<div id="contentSub"></div>
 												<div id="jump-to-nav" class="mw-jump">
 					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
 				</div>
-				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox biography vcard" style="width:22em">
-<tr>
-<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Gerard Salton</span></th>
-</tr>
-<tr>
-<th scope="row">Born</th>
-<td><span style="display:none">(<span class="bday">1927-03-08</span>)</span>March 8, 1927<br />
-<span class="birthplace"><a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a></span></td>
-</tr>
-<tr>
-<th scope="row">Died</th>
-<td>August 28, 1995<span style="display:none">(<span class="dday deathdate">1995-08-28</span>)</span> (aged&#160;68)</td>
-</tr>
-<tr>
-<th scope="row">Alma&#160;mater</th>
-<td><a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a></td>
-</tr>
-<tr>
-<th scope="row">Known&#160;for</th>
-<td>the father of information retrieval<sup id="cite_ref-father-IR_1-0" class="reference"><a href="#cite_note-father-IR-1">[1]</a></sup><br />
-<a href="/wiki/Gerard_Salton_Award" title="Gerard Salton Award">Gerard Salton Award</a></td>
-</tr>
-<tr>
-<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
-</tr>
-<tr>
-<th scope="row">Fields</th>
-<td class="category"><a href="/wiki/Information_retrieval" title="Information retrieval">information retrieval</a></td>
-</tr>
-<tr>
-<th scope="row">Institutions</th>
-<td><a href="/wiki/Cornell_University" title="Cornell University">Cornell University</a></td>
-</tr>
-<tr>
-<th scope="row"><a href="/wiki/Thesis" title="Thesis">Thesis</a></th>
-<td><a rel="nofollow" class="external text" href="http://hollis.harvard.edu/?itemid=%7Clibrary/m/aleph%7C003918090"><i>An automatic data processing system for public utility revenue accounting</i></a>&#160;<span style="font-size:90%;">(1958)</span></td>
-</tr>
-<tr>
-<th scope="row"><a href="/wiki/Doctoral_advisor" title="Doctoral advisor">Doctoral advisor</a></th>
-<td><a href="/wiki/Howard_Aiken" class="mw-redirect" title="Howard Aiken">Howard Aiken</a></td>
-</tr>
-<tr>
-<th scope="row">Doctoral students</th>
-<td><a href="/wiki/Amit_Singhal" title="Amit Singhal">Amit Singhal</a></td>
-</tr>
-<tr style="display:none">
-<td colspan="2"></td>
-</tr>
-</table>
-<p><b>Gerard A. "Gerry" Salton</b> (8 March 1927 in <a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a> – 28 August 1995), was a Professor of <a href="/wiki/Computer_Science" class="mw-redirect" title="Computer Science">Computer Science</a> at <a href="/wiki/Cornell_University" title="Cornell University">Cornell University</a>. Salton was perhaps the leading computer scientist working in the field of <a href="/wiki/Information_retrieval" title="Information retrieval">information retrieval</a> during his time, and "the father of information retrieval".<sup id="cite_ref-father-IR_1-1" class="reference"><a href="#cite_note-father-IR-1">[1]</a></sup> His group at Cornell developed the <a href="/wiki/SMART_Information_Retrieval_System" title="SMART Information Retrieval System">SMART Information Retrieval System</a>, which he initiated when he was at Harvard.</p>
-<p>Salton was born Gerhard Anton Sahlmann on March 8, 1927 in <a href="/wiki/Nuremberg,_Germany" class="mw-redirect" title="Nuremberg, Germany">Nuremberg, Germany</a>. He received a Bachelor's (1950) and Master's (1952) degree in mathematics from <a href="/wiki/Brooklyn_College" title="Brooklyn College">Brooklyn College</a>, and a Ph.D. from <a href="/wiki/Harvard_University" title="Harvard University">Harvard</a> in <a href="/wiki/Applied_Mathematics" class="mw-redirect" title="Applied Mathematics">Applied Mathematics</a> in 1958, the last of <a href="/wiki/Howard_Aiken" class="mw-redirect" title="Howard Aiken">Howard Aiken</a>'s doctoral students, and taught there until 1965, when he joined <a href="/wiki/Cornell_University" title="Cornell University">Cornell University</a> and co-founded its department of Computer Science.</p>
-<p>Salton was perhaps most well known for developing the now widely used <a href="/wiki/Vector_space_model" title="Vector space model">vector space model</a> for Information Retrieval.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> In this model, both documents and queries are represented as vectors of term counts, and the similarity between a document and a query is given by the cosine between the term vector and the document vector. In this paper, he also introduced <a href="/wiki/TF-IDF" class="mw-redirect" title="TF-IDF">TF-IDF</a>, or term-frequency-inverse-document frequency, a model in which the score of a term in a document is the ratio of the number of terms in that document divided by the frequency of the number of documents in which that term occurs. (The concept of inverse document frequency, a measure of specificity, had been introduced in 1972 by <a href="/wiki/Karen_Sp%C3%A4rck_Jones" title="Karen Spärck Jones">Karen Sparck-Jones</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>) Later in life, he became interested in automatic text summarization and analysis,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> as well as automatic hypertext generation.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> He published over 150 research articles and 5 books during his life.</p>
-<p>Salton was editor-in-chief of the <a href="/wiki/Communications_of_the_ACM" title="Communications of the ACM">Communications of the ACM</a> and the <a href="/wiki/Journal_of_the_ACM" title="Journal of the ACM">Journal of the ACM</a>, and chaired <a href="/wiki/Special_Interest_Group_on_Information_Retrieval" title="Special Interest Group on Information Retrieval">Special Interest Group on Information Retrieval</a> (SIGIR). He was an associate editor of the <a href="/wiki/ACM_Transactions_on_Information_Systems" title="ACM Transactions on Information Systems">ACM Transactions on Information Systems</a>. He was an <a href="/wiki/List_of_Fellows_of_the_Association_for_Computing_Machinery" title="List of Fellows of the Association for Computing Machinery">ACM Fellow</a> (elected 1995),<sup id="cite_ref-fellow-acm_6-0" class="reference"><a href="#cite_note-fellow-acm-6">[6]</a></sup> received an Award of Merit from the <a href="/wiki/American_Society_for_Information_Science" class="mw-redirect" title="American Society for Information Science">American Society for Information Science</a> (1989), and was the first recipient of the SIGIR Award for outstanding contributions to study of information retrieval (1983) -- now called the <a href="/wiki/Gerard_Salton_Award" title="Gerard Salton Award">Gerard Salton Award</a>.</p>
-<p></p>
-<div id="toc" class="toc">
-<div class="toctitle">
-<h2>Contents</h2>
-</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div style="position:relative;top:-3em"><span id="P:A"></span><span id="P:ARTS"></span></div>
+<div class="shortcutbox plainlist noprint" role="note" style="float:right;border:1px solid #aaa;background:#fff;margin:.3em .3em .3em 1em;padding:.4em .6em;text-align:center;font-size:smaller;line-height:2em;font-weight:bold"><a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcuts</a>:
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#Bibliography"><span class="tocnumber">1</span> <span class="toctext">Bibliography</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+<li><span class="plainlinks"><a class="external text" href="//en.wikipedia.org/w/index.php?title=P:A&amp;redirect=no">P:A</a></span></li>
+<li><span class="plainlinks"><a class="external text" href="//en.wikipedia.org/w/index.php?title=P:ARTS&amp;redirect=no">P:ARTS</a></span></li>
 </ul>
 </div>
-<p></p>
-<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gerard_Salton&amp;action=edit&amp;section=1" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul>
-<li>Salton, <i>Automatic Information Organization and Retrieval</i>, 1968.</li>
-<li><cite class="citation book">Gerard Salton (1975). <i>A Theory of Indexing</i>. Society for Industrial and Applied Mathematics. p.&#160;56.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGerard+Salton&amp;rft.au=Gerard+Salton&amp;rft.btitle=A+Theory+of+Indexing&amp;rft.date=1975&amp;rft.genre=book&amp;rft.pages=56&amp;rft.pub=Society+for+Industrial+and+Applied+Mathematics&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
-<li>--- and Michael J. McGill, <i>Introduction to modern information retrieval</i>, 1983. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-07-054484-0" title="Special:BookSources/0-07-054484-0">0-07-054484-0</a></li>
-<li><cite class="citation book">Gerard Salton (1989). <i>Automatic Text Processing</i>. Addison-Wesley Publishing Company. p.&#160;530. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-201-12227-8" title="Special:BookSources/0-201-12227-8">0-201-12227-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGerard+Salton&amp;rft.au=Gerard+Salton&amp;rft.btitle=Automatic+Text+Processing&amp;rft.date=1989&amp;rft.genre=book&amp;rft.isbn=0-201-12227-8&amp;rft.pages=530&amp;rft.pub=Addison-Wesley+Publishing+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
-<li><a rel="nofollow" class="external text" href="http://dblp.org/pid/s/GerardSalton">Gerard Salton</a> at <a href="/wiki/DBLP" title="DBLP">DBLP</a> Bibliography Server</li>
-<li>G. Salton, A. Wong, and C. S. Yang (1975), "<a rel="nofollow" class="external text" href="http://www.cs.uiuc.edu/class/fa05/cs511/Spring05/other_papers/p613-salton.pdf">A Vector Space Model for Automatic Indexing</a>," <i>Communications of the ACM</i>, vol. 18, nr. 11, pages 613–620. <i>(Article in which a vector space model was presented)</i></li>
-</ul>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gerard_Salton&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul>
-<li><a href="/wiki/List_of_pioneers_in_computer_science" title="List of pioneers in computer science">List of pioneers in computer science</a></li>
-</ul>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gerard_Salton&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="reflist" style="list-style-type: decimal;">
-<div class="mw-references-wrap">
-<ol class="references">
-<li id="cite_note-father-IR-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-father-IR_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-father-IR_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cs.cornell.edu/gries/40brochure/pg24_25.pdf">"The father of information retrieval"</a> <span style="font-size:85%;">(PDF)</span>. <i>cs.cornell.edu</i><span class="reference-accessdate">. Retrieved <span class="nowrap">10 March</span> 2015</span>. <q>a founding member of the department and the father of information retrieval.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGerard+Salton&amp;rft.atitle=The+father+of+information+retrieval&amp;rft.genre=unknown&amp;rft.jtitle=cs.cornell.edu&amp;rft_id=http%3A%2F%2Fwww.cs.cornell.edu%2Fgries%2F40brochure%2Fpg24_25.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Salton, G.; Wong, A.; Yang, C. S. (1975). "A vector space model for automatic indexing". <i>Communications of the ACM</i>. <b>18</b> (11): 613. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1145%2F361219.361220">10.1145/361219.361220</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGerard+Salton&amp;rft.atitle=A+vector+space+model+for+automatic+indexing&amp;rft.au=Wong%2C+A.&amp;rft.au=Yang%2C+C.+S.&amp;rft.aufirst=G.&amp;rft.aulast=Salton&amp;rft.date=1975&amp;rft.genre=article&amp;rft.issue=11&amp;rft.jtitle=Communications+of+the+ACM&amp;rft.pages=613&amp;rft.volume=18&amp;rft_id=info%3Adoi%2F10.1145%2F361219.361220&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Karen_Sp%C3%A4rck_Jones" title="Karen Spärck Jones">Spärck Jones, K.</a> (1972). <a rel="nofollow" class="external text" href="http://www.emeraldinsight.com/doi/abs/10.1108/eb026526">"A Statistical Interpretation of Term Specificity and Its Application in Retrieval"</a>. <i>Journal of Documentation</i>. <b>28</b>: 11–21. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1108%2Feb026526">10.1108/eb026526</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGerard+Salton&amp;rft.atitle=A+Statistical+Interpretation+of+Term+Specificity+and+Its+Application+in+Retrieval&amp;rft.aufirst=K.&amp;rft.aulast=Sp%C3%A4rck+Jones&amp;rft.date=1972&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Documentation&amp;rft.pages=11-21&amp;rft.volume=28&amp;rft_id=http%3A%2F%2Fwww.emeraldinsight.com%2Fdoi%2Fabs%2F10.1108%2Feb026526&amp;rft_id=info%3Adoi%2F10.1108%2Feb026526&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Salton, G.; Allan, J.; Buckley, C.; Singhal, A. (1994). "Automatic Analysis, Theme Generation, and Summarization of Machine-Readable Texts". <i>Science</i>. <b>264</b> (5164): 1421–1426. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17838425">17838425</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1126%2Fscience.264.5164.1421">10.1126/science.264.5164.1421</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGerard+Salton&amp;rft.atitle=Automatic+Analysis%2C+Theme+Generation%2C+and+Summarization+of+Machine-Readable+Texts&amp;rft.au=Allan%2C+J.&amp;rft.au=Buckley%2C+C.&amp;rft.au=Singhal%2C+A.&amp;rft.aufirst=G.&amp;rft.aulast=Salton&amp;rft.date=1994&amp;rft.genre=article&amp;rft.issue=5164&amp;rft.jtitle=Science&amp;rft.pages=1421-1426&amp;rft.volume=264&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.264.5164.1421&amp;rft_id=info%3Apmid%2F17838425&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cs.cornell.edu/Info/Department/Annual95/Faculty/Salton.html">"Gerard Salton"</a>. Cs.cornell.edu<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGerard+Salton&amp;rft.btitle=Gerard+Salton&amp;rft.genre=unknown&amp;rft.pub=Cs.cornell.edu&amp;rft_id=http%3A%2F%2Fwww.cs.cornell.edu%2FInfo%2FDepartment%2FAnnual95%2FFaculty%2FSalton.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
-<li id="cite_note-fellow-acm-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-fellow-acm_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://awards.acm.org/award_winners/salton_2316166.cfm">"Gerard Salton ACM Fellows 1995"</a>. <i>acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">10 March</span> 2015</span>. <q>contributions over 30 years to information organization and retrieval</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGerard+Salton&amp;rft.atitle=Gerard+Salton+ACM+Fellows++1995&amp;rft.genre=unknown&amp;rft.jtitle=acm.org&amp;rft_id=http%3A%2F%2Fawards.acm.org%2Faward_winners%2Fsalton_2316166.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
-</ol>
+<div id="portals-browsebar" class="hlist noprint" style="text-align: center;">
+<dl>
+<dt><a href="/wiki/Portal:Contents/Portals" title="Portal:Contents/Portals">Topics</a></dt>
+<dd><a href="/wiki/Portal:Contents/Portals#Culture_and_the_arts" title="Portal:Contents/Portals">Culture</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Geography_and_places" title="Portal:Contents/Portals">Geography</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Health_and_fitness" title="Portal:Contents/Portals">Health</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#History_and_events" title="Portal:Contents/Portals">History</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Mathematics_and_logic" title="Portal:Contents/Portals">Mathematics</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Natural_and_physical_sciences" title="Portal:Contents/Portals">Nature</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#People_and_self" title="Portal:Contents/Portals">People</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Philosophy_and_thinking" title="Portal:Contents/Portals">Philosophy</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Religion_and_belief_systems" title="Portal:Contents/Portals">Religion</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Society_and_social_sciences" title="Portal:Contents/Portals">Society</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Technology_and_applied_sciences" title="Portal:Contents/Portals">Technology</a></dd>
+</dl>
+</div>
+<hr class="noprint" />
+<div id="sociology_browsebar" class="noprint" style="margin-top:-3px; margin-bottom:0.2em; text-align:center; font-size:95%;">
+<p><a href="/wiki/Portal:Society" title="Portal:Society">Society portals</a>: <a class="mw-selflink selflink">Arts</a>&#160;<b>·</b>  <a href="/wiki/Portal:Anthropology" title="Portal:Anthropology">Anthropology</a>&#160;<b>·</b>  <a href="/wiki/Portal:Community" title="Portal:Community">Community</a>&#160;<b>·</b>  <a href="/wiki/Portal:Culture" title="Portal:Culture">Culture</a>&#160;<b>·</b>  <a href="/wiki/Portal:Business_and_economics" title="Portal:Business and economics">Economics</a>&#160;<b>·</b>  <a href="/wiki/Portal:Education" title="Portal:Education">Education</a>&#160;<b>·</b>  <a href="/wiki/Portal:Geography" title="Portal:Geography">Geography</a>&#160;<b>·</b>  <a href="/wiki/Portal:Gender_studies" title="Portal:Gender studies">Gender studies</a>&#160;<b>·</b>  <a href="/wiki/Portal:Globalization" title="Portal:Globalization">Globalization</a>&#160;<b>·</b>  <a href="/wiki/Portal:History" title="Portal:History">History</a>&#160;<b>·</b>  <a href="/wiki/Portal:Human_rights" title="Portal:Human rights">Human rights</a>&#160;<b>·</b>  <a href="/wiki/Portal:Internet" title="Portal:Internet">Internet</a>&#160;<b>·</b>  <a href="/wiki/Portal:Law" title="Portal:Law">Law</a>&#160;<b>·</b>  <a href="/wiki/Portal:Philosophy" title="Portal:Philosophy">Philosophy</a>&#160;<b>·</b>  <a href="/wiki/Portal:Social_movements" title="Portal:Social movements">Social movements</a>&#160;<b>·</b>  <a href="/wiki/Portal:Social_sciences" title="Portal:Social sciences">Social sciences</a>&#160;<b>·</b>  <a href="/wiki/Portal:Social_welfare_and_social_work" title="Portal:Social welfare and social work">Social welfare and social work</a>&#160;<b>·</b>  <a href="/wiki/Portal:Sociology" title="Portal:Sociology">Sociology</a></p>
+</div>
+<div style="clear: both; border: 1px solid black; padding: 0.75em;">
+<div>
+<div style="clear: both; border: solid #aaaaaa; border-width: 1px 1px 0; background: #444444; color: #f9f9ff; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: #f9f9ff"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Arts/Intro&amp;action=edit"><span style="color: #f9f9ff">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#f9f9ff;"><span class="mw-headline" id="The_Arts_Portal"><big>The Arts Portal</big></span></h2>
+</div>
+<div style="border: 1px solid #aaaaaa; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<p><br /></p>
+<div style="float:right;margin-left:1em">
+<center>The <a href="/wiki/Parthenon" title="Parthenon">Parthenon</a></center>
+<p><a href="/wiki/File:The_Parthenon_in_Athens.jpg" class="image" title="The Parthenon on top of the Acropolis, Athens, Greece"><img alt="The Parthenon on top of the Acropolis, Athens, Greece" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/The_Parthenon_in_Athens.jpg/180px-The_Parthenon_in_Athens.jpg" width="180" height="127" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/The_Parthenon_in_Athens.jpg/270px-The_Parthenon_in_Athens.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/The_Parthenon_in_Athens.jpg/360px-The_Parthenon_in_Athens.jpg 2x" data-file-width="1144" data-file-height="804" /></a><br /></p>
+</div>
+<p><b><a href="/wiki/The_arts" title="The arts">The arts</a></b> is a vast subdivision of <a href="/wiki/Culture" title="Culture">culture</a>, composed of many creative endeavors and disciplines. It is a broader term than "<i><a href="/wiki/Art" title="Art">art</a></i>", which, as a description of a field, usually means only the <a href="/wiki/Visual_arts" title="Visual arts">visual arts</a>. <i>The arts</i> encompass the <a href="/wiki/Visual_arts" title="Visual arts">visual arts</a>, the <a href="/wiki/Literary_arts" class="mw-redirect" title="Literary arts">literary arts</a> and the <a href="/wiki/Performing_arts" title="Performing arts">performing arts</a> – <a href="/wiki/Music" title="Music">music</a>, <a href="/wiki/Theatre" title="Theatre">theatre</a>, <a href="/wiki/Dance" title="Dance">dance</a> and <a href="/wiki/Film" title="Film">film</a>, among others. This list is by no means comprehensive, but only meant to introduce the concept of the arts. For all intents and purposes, the history of the arts begins with the <i><a href="/wiki/History_of_art" title="History of art">history of art</a></i>. The arts might have origins in early human evolutionary prehistory.</p>
+<p>Ancient Greek art saw the veneration of the animal form and the development of equivalent skills to show musculature, poise, beauty and anatomically correct proportions. <a href="/wiki/Roman_Empire" title="Roman Empire">Ancient Roman</a> art depicted gods as idealized humans, shown with characteristic distinguishing features (e.g. <a href="/wiki/Jupiter_(mythology)" title="Jupiter (mythology)">Jupiter</a>'s thunderbolt). In <a href="/wiki/Byzantine_art" title="Byzantine art">Byzantine</a> and <a href="/wiki/Gothic_art" title="Gothic art">Gothic art</a> of the <a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a>, the dominance of the church insisted on the expression of biblical and not material truths. Eastern art has generally worked in a style akin to Western medieval art, namely a concentration on surface patterning and local colour (meaning the plain colour of an object, such as basic red for a red robe, rather than the modulations of that colour brought about by light, shade and reflection). A characteristic of this style is that the local colour is often defined by an outline (a contemporary equivalent is the cartoon). This is evident in, for example, the art of <a href="/wiki/India" title="India">India</a>, <a href="/wiki/Tibet" title="Tibet">Tibet</a> and <a href="/wiki/Japan" title="Japan">Japan</a>. Religious <a href="/wiki/Islam" title="Islam">Islamic</a> art forbids iconography, and expresses religious ideas through geometry instead. The physical and rational certainties depicted by the 19th-century Enlightenment were shattered not only by new discoveries of relativity by <a href="/wiki/Albert_Einstein" title="Albert Einstein">Einstein</a> and of unseen psychology by <a href="/wiki/Sigmund_Freud" title="Sigmund Freud">Freud</a>, but also by unprecedented technological development. Paradoxically the expressions of new technologies were greatly influenced by the ancient tribal arts of Africa and Oceania, through the works of Paul Gauguin and the Post-Impressionists, Pablo Picasso and the Cubists, as well as the Futurists and others.</p>
+<div class="noprint" style="clear:both;margin:0.2em;text-align:right;font-weight:bold;"><a href="/wiki/The_arts" title="The arts">More about The arts...</a></div>
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
 </div>
 </div>
-<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gerard_Salton&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div style="text-align:center; margin:0.25em auto 0.75em"><span class="noprint plainlinks purgelink"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Arts&amp;action=purge"><span title="Purge this page"><b>View new selections below</b> (purge)</span></a></span></div>
+<div class="portal-column-left">
+<div style="clear: both; border: solid #aaaaaa; border-width: 1px 1px 0; background: #444444; color: #f9f9ff; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: #f9f9ff"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Arts/Featured_article/27&amp;action=edit"><span style="color: #f9f9ff">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#f9f9ff;"><span class="mw-headline" id="Featured_article">Featured article</span></h2>
+</div>
+<div style="border: 1px solid #aaaaaa; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div style="float:left;margin-right:1em"><a href="/wiki/File:Old_Kannada_inscription_dated_1115_AD_in_the_Lakshmi_Devi_temple_at_Doddagaddavalli.jpg" class="image" title="Old-Kannada inscription, 1114 CE at Doddagaddavalli"><img alt="Old-Kannada inscription, 1114 CE at Doddagaddavalli" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Old_Kannada_inscription_dated_1115_AD_in_the_Lakshmi_Devi_temple_at_Doddagaddavalli.jpg/120px-Old_Kannada_inscription_dated_1115_AD_in_the_Lakshmi_Devi_temple_at_Doddagaddavalli.jpg" width="120" height="187" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Old_Kannada_inscription_dated_1115_AD_in_the_Lakshmi_Devi_temple_at_Doddagaddavalli.jpg/180px-Old_Kannada_inscription_dated_1115_AD_in_the_Lakshmi_Devi_temple_at_Doddagaddavalli.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Old_Kannada_inscription_dated_1115_AD_in_the_Lakshmi_Devi_temple_at_Doddagaddavalli.jpg/240px-Old_Kannada_inscription_dated_1115_AD_in_the_Lakshmi_Devi_temple_at_Doddagaddavalli.jpg 2x" data-file-width="740" data-file-height="1156" /></a></div>
+<b><a href="/wiki/Hoysala_literature" title="Hoysala literature">Hoysala literature</a></b> is the large body of literature in the <a href="/wiki/Kannada_language" class="mw-redirect" title="Kannada language">Kannada</a> and <a href="/wiki/Sanskrit_language" class="mw-redirect" title="Sanskrit language">Sanskrit languages</a> produced by the <a href="/wiki/Hoysala_Empire" title="Hoysala Empire">Hoysala Empire</a> (1025–1343) in what is now southern India. <a href="/wiki/Kannada_literature" title="Kannada literature">Kannada literature</a> during this period consisted of writings relating to the socio-religious developments of the <a href="/wiki/Jain" class="mw-redirect" title="Jain">Jain</a> and <a href="/wiki/Veerashaiva" title="Veerashaiva">Veerashaiva</a> faiths, and to a lesser extent that of the <a href="/wiki/Vaishnavism" title="Vaishnavism">Vaishnava</a> faith. The earliest well-known <a href="/wiki/Brahmin" title="Brahmin">brahmin</a> writers in Kannada were from the Hoysala court. While most of the courtly textual production was in Kannada, an important corpus of <a href="/wiki/Monastery" title="Monastery">monastic</a> <a href="/wiki/Vaishnava" class="mw-redirect" title="Vaishnava">Vaishnava</a> literature relating to <i><a href="/wiki/Dvaita" class="mw-redirect" title="Dvaita">Dvaita</a></i> (dualistic) philosophy was written by the renowned philosopher <a href="/wiki/Madhvacharya" title="Madhvacharya">Madhvacharya</a> in Sanskrit. Writing Kannada literature in native <a href="/wiki/Meter_(poetry)" class="mw-redirect" title="Meter (poetry)">metres</a> was first popularised by the court poets. These metres were the <i>sangatya</i>, compositions sung to the accompaniment of a musical instrument; <i>shatpadi</i>, six-line verses; <i>ragale</i>, lyrical compositions in blank verse; and <i><a href="/wiki/Tripadi" title="Tripadi">tripadi</a></i>, three-line verses. However, Jain writers continued to use the traditional <i><a href="/wiki/Champu" title="Champu">champu</a></i>, composed of prose and verse. Important literary contributions in Kannada were made not only by court poets but also by noblemen, commanders, ministers, ascetics and saints associated with monasteries.
+<div class="noprint" style="padding:0.7em 0.9em 0.7em 0.2em; font-weight:bold;"><span style="display:inline-block; width:73%; text-align:left;"><a href="/wiki/Portal:Arts/Featured_article" title="Portal:Arts/Featured article">...Archive/Nominations</a></span><span style="display:inline-block; width:27%; text-align:right;"><a href="/wiki/Hoysala_literature" title="Hoysala literature">More...</a></span></div>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid #aaaaaa; border-width: 1px 1px 0; background: #444444; color: #f9f9ff; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: #f9f9ff"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Arts/Featured_picture/30&amp;action=edit"><span style="color: #f9f9ff">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#f9f9ff;"><span class="mw-headline" id="Featured_picture">Featured picture</span></h2>
+</div>
+<div style="border: 1px solid #aaaaaa; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div style="text-align: center;"><a href="/wiki/File:Zhou_Maoshu_Appreciating_Lotuses.jpg" class="image" title="Kanō Masanobu"><img alt="Kanō Masanobu" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Zhou_Maoshu_Appreciating_Lotuses.jpg/200px-Zhou_Maoshu_Appreciating_Lotuses.jpg" width="200" height="504" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Zhou_Maoshu_Appreciating_Lotuses.jpg/300px-Zhou_Maoshu_Appreciating_Lotuses.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Zhou_Maoshu_Appreciating_Lotuses.jpg/400px-Zhou_Maoshu_Appreciating_Lotuses.jpg 2x" data-file-width="1527" data-file-height="3846" /></a><small style="display: block; margin: 1.1em 0.25em 0.85em;">Credit: <a href="/wiki/Kan%C5%8D_Masanobu" title="Kanō Masanobu">Kanō Masanobu</a></small></div>
+<p><i>Zhou Maoshu Appreciating Lotuses</i>, a designated <a href="/wiki/National_Treasures_of_Japan" class="mw-redirect" title="National Treasures of Japan">National Treasure of Japan</a>, is a 15th century painting mounted as a <a href="/wiki/Kakemono" title="Kakemono">hanging scroll</a> by <b><a href="/wiki/Kan%C5%8D_Masanobu" title="Kanō Masanobu">Kanō Masanobu</a></b> that depicts the 11th century <a href="/wiki/Confucianism" title="Confucianism">Confucian</a> scholar <a href="/wiki/Zhou_Maoshu" class="mw-redirect" title="Zhou Maoshu">Zhou Maoshu</a> in a boat floating on a lake with <a href="/wiki/Lotus_(plant)" class="mw-redirect" title="Lotus (plant)">lotuses</a>. Kanō was the chief painter of the <a href="/wiki/Ashikaga_shogunate" title="Ashikaga shogunate">Ashikaga shogunate</a> and is generally considered the founder of the <a href="/wiki/Kan%C5%8D_school" title="Kanō school">Kanō school</a> of painting, which would become the dominant style of painting until the <a href="/wiki/Meiji_period" title="Meiji period">Meiji period</a>.</p>
+<div class="noprint" style="padding:0.7em 0.9em 0.7em 0.2em; font-weight:bold;"><span style="display:inline-block; width:73%; text-align:left;"><a href="/wiki/Portal:Arts/Featured_picture" title="Portal:Arts/Featured picture">...Archive/Nominations</a></span><span style="display:inline-block; width:27%; text-align:right;"><a href="/wiki/Kan%C5%8D_Masanobu" title="Kanō Masanobu">More...</a></span></div>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid #aaaaaa; border-width: 1px 1px 0; background: #444444; color: #f9f9ff; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: #f9f9ff"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Arts/DYK/14&amp;action=edit"><span style="color: #f9f9ff">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#f9f9ff;"><span class="mw-headline" id="Did_you_know...">Did you know...</span></h2>
+</div>
+<div style="border: 1px solid #aaaaaa; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div style="float:right;margin-left:0.5em;">
+<p><a href="/wiki/File:Slonimski_Chaim_Zelig.jpg" class="image" title="Hayyim Selig Slonimski"><img alt="Hayyim Selig Slonimski" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Slonimski_Chaim_Zelig.jpg/83px-Slonimski_Chaim_Zelig.jpg" width="83" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Slonimski_Chaim_Zelig.jpg/125px-Slonimski_Chaim_Zelig.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Slonimski_Chaim_Zelig.jpg/167px-Slonimski_Chaim_Zelig.jpg 2x" data-file-width="345" data-file-height="414" /></a></p>
+</div>
 <ul>
-<li><a rel="nofollow" class="external text" href="http://www.cs.cornell.edu/Info/Department/Annual96/Beginning/salton.html">In Memoriam</a></li>
-<li><a rel="nofollow" class="external text" href="http://blog.tomevslin.com/2006/01/search_down_mem.html">Fractals of Change: Search Down Memory Lane</a></li>
-<li><a rel="nofollow" class="external text" href="http://www.ideals.uiuc.edu/bitstream/2142/1697/2/Dubin748764.pdf">The Most Influential Paper Gerard Salton Never Wrote</a> - This 2004 Library Trends paper by David Dubin serves as a historical review of the metamorphosis of the term discrimination value model (TDV) into the vector space model as an information retrieval model (VSM as an IR model). This paper calls into question what the Information Retrieval research community believed Salton's vector space model was originally intended to model. What much later became an information retrieval model was originally a data-centric mathematical–computational model used as an explanatory device. In addition, Dubin's paper points out that a 1975 Salton paper oft cited does not exist but is probably a combination of two other papers, neither of which actually refers to the VSM as an IR model.</li>
+<li>... that <a href="/wiki/Hebrew" class="mw-redirect" title="Hebrew">Hebrew</a> publisher <b><a href="/wiki/Hayyim_Selig_Slonimski" title="Hayyim Selig Slonimski">Hayyim Selig Slonimski</a></b> <i>(pictured)</i> was awarded the <a href="/wiki/Demidov_prize" class="mw-redirect" title="Demidov prize">Demidov prize</a> of 2,500 <a href="/wiki/Ruble" title="Ruble">rubles</a> in 1844 by the <a href="/wiki/Russian_Academy_of_Sciences" title="Russian Academy of Sciences">Russian Academy of Sciences</a> for the invention of a <a href="/wiki/Calculating_machine" class="mw-redirect" title="Calculating machine">calculating machine</a>?</li>
+<li>... that the <b><a href="/wiki/Pasco-Kennewick_Bridge_(1922)" class="mw-redirect" title="Pasco-Kennewick Bridge (1922)">Pasco-Kennewick Bridge</a></b> in <a href="/wiki/Washington_(state)" title="Washington (state)">Washington</a> was the first of its size to be financed entirely by sales of <a href="/wiki/Stock" title="Stock">stock</a>?</li>
+<li>... that the 1974 film <i><b><a href="/wiki/Lost_in_the_Stars_(film)" title="Lost in the Stars (film)">Lost in the Stars</a></b></i>, set in <a href="/wiki/Apartheid" title="Apartheid">apartheid</a>-era <a href="/wiki/South_Africa" title="South Africa">South Africa</a>, was actually shot in <a href="/wiki/Oregon" title="Oregon">Oregon</a>?</li>
 </ul>
-<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
-<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<div class="noprint" style="padding:0.7em 0.9em 0.7em 0.2em; font-weight:bold;"><span style="display:inline-block; width:73%; text-align:left;"><a href="/wiki/Portal:Arts/DYK" title="Portal:Arts/DYK">...Archive/Nominations</a></span><span style="display:inline-block; width:27%; text-align:right;"><a href="/wiki/Wikipedia:Recent_additions" title="Wikipedia:Recent additions">More...</a></span></div>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid #aaaaaa; border-width: 1px 1px 0; background: #444444; color: #f9f9ff; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: #f9f9ff"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Arts/Selected_anniversaries/October&amp;action=edit"><span style="color: #f9f9ff">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#f9f9ff;"><span class="mw-headline" id="In_this_month">In this month</span></h2>
+</div>
+<div style="border: 1px solid #aaaaaa; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div style="float:right;margin-left:0.5em;">
+<p><a href="/wiki/File:Pablo_picasso_1.jpg" class="image" title="Pablo Picasso"><img alt="Pablo Picasso" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pablo_picasso_1.jpg/80px-Pablo_picasso_1.jpg" width="80" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pablo_picasso_1.jpg/121px-Pablo_picasso_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pablo_picasso_1.jpg/161px-Pablo_picasso_1.jpg 2x" data-file-width="199" data-file-height="247" /></a></p>
+</div>
+<ul>
+<li>4 October 1974 – American poet <b><a href="/wiki/Anne_Sexton" title="Anne Sexton">Anne Sexton</a></b> commits suicide at her home in <a href="/wiki/Weston,_Massachusetts" title="Weston, Massachusetts">Weston, Massachusetts</a></li>
+<li>10 October 1881 – London's <b><a href="/wiki/Savoy_Theatre" title="Savoy Theatre">Savoy Theatre</a></b>, built by the impresario <a href="/wiki/Richard_D%27Oyly_Carte" title="Richard D'Oyly Carte">Richard D'Oyly Carte</a> to showcase the <a href="/wiki/Comic_operas" class="mw-redirect" title="Comic operas">comic operas</a> of <a href="/wiki/Gilbert_and_Sullivan" title="Gilbert and Sullivan">Gilbert and Sullivan</a>, opens with a production of <i><a href="/wiki/Patience_(opera)" title="Patience (opera)">Patience</a></i></li>
+<li>11 October 1910 – Italian composer and musicologist <a href="/wiki/Francesco_Balilla_Pratella" title="Francesco Balilla Pratella">Francesco Balilla Pratella</a> completes his <i><b><a href="/wiki/Manifesto_of_Futurist_Musicians" title="Manifesto of Futurist Musicians">Manifesto of Futurist Musicians</a></b></i>, one of the earliest signs of <a href="/wiki/Futurism" title="Futurism">Futurism</a>'s influence in fields outside the visual arts</li>
+<li>17 October 1896 – The first performance of <a href="/wiki/Anton_Chekhov" title="Anton Chekhov">Anton Chekhov</a>'s play <i><b><a href="/wiki/The_Seagull" title="The Seagull">The Seagull</a></b></i> is booed by the audience, after which Chekhov decides to give up writing plays</li>
+<li>25 October 1881 – Spanish painter and sculptor <b><a href="/wiki/Pablo_Picasso" title="Pablo Picasso">Pablo Picasso</a></b> <i>(pictured)</i>, one of the most influential artists of the 20th century, is born in <a href="/wiki/M%C3%A1laga" title="Málaga">Málaga</a></li>
+</ul>
+<div class="noprint" style="text-align:right;margin-right:10px;margin-bottom:4px;font-weight:bold;"><a href="/wiki/Portal:Arts/Selected_anniversaries" title="Portal:Arts/Selected anniversaries">More anniversaries...</a></div>
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid #aaaaaa; border-width: 1px 1px 0; background: #444444; color: #f9f9ff; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: #f9f9ff"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Arts/News&amp;action=edit"><span style="color: #f9f9ff">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#f9f9ff;"><span class="mw-headline" id="News">News</span></h2>
+</div>
+<div style="border: 1px solid #aaaaaa; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div style="float:right;margin-left:0.9em"><a href="https://en.wikinews.org/wiki/Main_Page" title="Read and edit Wikinews"><img alt="Read and edit Wikinews" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/75px-Wikinews-logo.svg.png" width="75" height="41" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/113px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/150px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415" /></a></div>
+<ul>
+<li><a href="/wiki/October_24" title="October 24">October 24</a>: <a href="https://en.wikinews.org/wiki/en:Five_United_States_ex-presidents_raise_relief_funds_at_hurricane_event" class="extiw" title="wikinews:en:Five United States ex-presidents raise relief funds at hurricane event">Five United States ex-presidents raise relief funds at hurricane event</a></li>
+<li><a href="/wiki/October_5" title="October 5">October 5</a>: <a href="https://en.wikinews.org/wiki/en:US_rock_artist_Tom_Petty_dies_at_66" class="extiw" title="wikinews:en:US rock artist Tom Petty dies at 66">US rock artist Tom Petty dies at 66</a></li>
+<li><a href="/wiki/September_27" title="September 27">September 27</a>: <a href="https://en.wikinews.org/wiki/en:British_actor_Tony_Booth_dies_at_85" class="extiw" title="wikinews:en:British actor Tony Booth dies at 85">British actor Tony Booth dies at 85</a></li>
+<li><a href="/wiki/September_26" title="September 26">September 26</a>: <a href="https://en.wikinews.org/wiki/en:First_Star_Trek_series_in_twelve_years,_Discovery,_debuts_on_television" class="extiw" title="wikinews:en:First Star Trek series in twelve years, Discovery, debuts on television">First Star Trek series in twelve years, Discovery, debuts on television</a></li>
+<li><a href="/wiki/September_6" title="September 6">September 6</a>: <a href="https://en.wikinews.org/wiki/en:Tim_Curry,_TV_premiere_screenings,_cosplay_feature_at_Fan_Expo_Canada" class="extiw" title="wikinews:en:Tim Curry, TV premiere screenings, cosplay feature at Fan Expo Canada">Tim Curry, TV premiere screenings, cosplay feature at Fan Expo Canada</a></li>
+</ul>
+<div class="noprint" style="float:right;margin-left:0.9em;font-weight:bold;"><a href="https://en.wikinews.org/wiki/Category:Art" class="extiw" title="wikinews:Category:Art">Arts on Wikinews</a></div>
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="portal-column-right">
+<div style="clear: both; border: solid #aaaaaa; border-width: 1px 1px 0; background: #444444; color: #f9f9ff; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: #f9f9ff"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Arts/Featured_biography/1&amp;action=edit"><span style="color: #f9f9ff">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#f9f9ff;"><span class="mw-headline" id="Featured_biography">Featured biography</span></h2>
+</div>
+<div style="border: 1px solid #aaaaaa; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div style="float:right;margin-left:0.2em"><a href="/wiki/File:Bronwyn_Bancroft_Feb_2010.JPG" class="image" title="Bronwyn Bancroft"><img alt="Bronwyn Bancroft" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Bronwyn_Bancroft_Feb_2010.JPG/120px-Bronwyn_Bancroft_Feb_2010.JPG" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Bronwyn_Bancroft_Feb_2010.JPG/180px-Bronwyn_Bancroft_Feb_2010.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/Bronwyn_Bancroft_Feb_2010.JPG/240px-Bronwyn_Bancroft_Feb_2010.JPG 2x" data-file-width="2592" data-file-height="1944" /></a></div>
+<b><a href="/wiki/Bronwyn_Bancroft" title="Bronwyn Bancroft">Bronwyn Bancroft</a></b> (born 1958) is an <a href="/wiki/Indigenous_Australians" title="Indigenous Australians">Indigenous Australian</a> artist, notable for being the first Australian fashion designer invited to show her work in Paris. Born in <a href="/wiki/Tenterfield,_New_South_Wales" title="Tenterfield, New South Wales">Tenterfield, New South Wales</a>, and trained in <a href="/wiki/Canberra" title="Canberra">Canberra</a> and <a href="/wiki/Sydney" title="Sydney">Sydney</a>, Bancroft worked as a fashion designer, and is an artist, illustrator, and arts administrator. In 1985 Bancroft established a shop called Designer Aboriginals, selling fabrics made by Indigenous artists including herself. She was a founding member of Boomalli Aboriginal Artists Co-operative. Artwork by Bancroft is held by the <a href="/wiki/National_Gallery_of_Australia" title="National Gallery of Australia">National Gallery of Australia</a>, the <a href="/wiki/Art_Gallery_of_New_South_Wales" title="Art Gallery of New South Wales">Art Gallery of New South Wales</a> and the <a href="/wiki/Art_Gallery_of_Western_Australia" title="Art Gallery of Western Australia">Art Gallery of Western Australia</a>. She has provided artwork for over 20&#160;children's books, including <i>Stradbroke Dreaming</i> by writer and activist <a href="/wiki/Oodgeroo_Noonuccal" title="Oodgeroo Noonuccal">Oodgeroo Noonuccal</a> and books by artist and writer <a href="/wiki/Sally_Morgan_(artist)" title="Sally Morgan (artist)">Sally Morgan</a>. She has also received design commissions, including one for the exterior of a sports centre in Sydney. With a long history of involvement in community activism and arts administration, Bancroft has served as a board member for the National Gallery of Australia. Her painting <i>Prevention of AIDS</i> (1992) was used in a campaign to raise awareness of <a href="/wiki/HIV/AIDS" title="HIV/AIDS">HIV/AIDS</a> in Australia. As of 2010, Bancroft sits on the boards of copyright collection agency Viscopy and Tranby Aboriginal College, as well as being on the Artists Board at the <a href="/wiki/Museum_of_Contemporary_Art,_Sydney" class="mw-redirect" title="Museum of Contemporary Art, Sydney">Museum of Contemporary Art, Sydney</a>.
+<div class="noprint" style="padding:0.7em 0.9em 0.7em 0.2em; font-weight:bold;"><span style="display:inline-block; width:73%; text-align:left;"><a href="/wiki/Portal:Arts/Featured_biography" title="Portal:Arts/Featured biography">...Archive/Nominations</a></span><span style="display:inline-block; width:27%; text-align:right;"><a href="/wiki/Bronwyn_Bancroft" title="Bronwyn Bancroft">More...</a></span></div>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid #aaaaaa; border-width: 1px 1px 0; background: #444444; color: #f9f9ff; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: #f9f9ff"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Arts/Featured_audio/5&amp;action=edit"><span style="color: #f9f9ff">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#f9f9ff;"><span class="mw-headline" id="Featured_audio">Featured audio</span></h2>
+</div>
+<div style="border: 1px solid #aaaaaa; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<center>
+<div class="haudio">
+<div style="padding:2px 0;" class="fn"><a href="/wiki/File:Victimae_Paschali_Laudes.ogg" title="File:Victimae Paschali Laudes.ogg">Victimae Paschali Laudes</a></div>
+<div style="padding-right:4px;">
+<div class="mediaContainer" style="width:220px"><audio id="mwe_player_0" controls="" preload="none" style="width:220px" class="kskin" data-durationhint="108.85222222222" data-startoffset="0" data-mwtitle="Victimae_Paschali_Laudes.ogg" data-mwprovider="wikimediacommons">
+<source src="//upload.wikimedia.org/wikipedia/commons/d/d3/Victimae_Paschali_Laudes.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (147 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="146927" /></audio></div>
+</div>
+<div style="padding:2px 0 0 0;" class="description">The <a href="/wiki/11th-century" class="mw-redirect" title="11th-century">11th-century</a> "<a href="/wiki/Victimae_Paschali_Laudes" class="mw-redirect" title="Victimae Paschali Laudes">Victimae Paschali Laudes</a>", traditionally attributed to <a href="/wiki/Wipo_of_Burgundy" title="Wipo of Burgundy">Wipo of Burgundy</a>, is one of the few traditional <a href="/wiki/Latin" title="Latin">Latin</a> "sequences" still used by the <a href="/wiki/Roman_Catholic_Church" class="mw-redirect" title="Roman Catholic Church">Roman Catholic Church</a> today.</div>
+</div>
+</center>
+<div class="noprint" style="padding:0.7em 0.9em 0.7em 0.2em; font-weight:bold;"><span style="display:inline-block; width:73%; text-align:left;"><a href="/wiki/Portal:Arts/Featured_audio" title="Portal:Arts/Featured audio">...Archive/Nominations</a></span><span style="display:inline-block; width:27%; text-align:right;"><a href="/wiki/Victimae_Paschali_Laudes" class="mw-redirect" title="Victimae Paschali Laudes">More...</a></span></div>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid #aaaaaa; border-width: 1px 1px 0; background: #444444; color: #f9f9ff; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: #f9f9ff"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Arts/Categories&amp;action=edit"><span style="color: #f9f9ff">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#f9f9ff;"><span class="mw-headline" id="Categories">Categories</span></h2>
+</div>
+<div style="border: 1px solid #aaaaaa; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div class="floatright"><a href="/wiki/File:C_Puzzle.png" class="image" title="Arts categories"><img alt="Arts categories" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/C_Puzzle.png/42px-C_Puzzle.png" width="42" height="42" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/C_Puzzle.png/63px-C_Puzzle.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/C_Puzzle.png/84px-C_Puzzle.png 2x" data-file-width="150" data-file-height="150" /></a></div>
+<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}">
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Arts" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Arts">Arts</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+</div>
+<hr />
+<div>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
 <tr>
-<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
-<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-<div style="padding:0em 0.25em">
-<ul>
-<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/108172047">WorldCat Identities</a></span></li>
-<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/108172047">108172047</a></span></span></li>
-<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n50015272">n50015272</a></span></span></li>
-<li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000109308253">0000 0001 0930 8253</a></span></span></li>
-<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/170160424">170160424</a></span></span></li>
-<li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/032778007">032778007</a></span></span></li>
-<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb12374122z">cb12374122z</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb12374122z">(data)</a></span></span></li>
-<li><span class="nowrap"><a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">MGP</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=13306">13306</a></span></span></li>
-<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00455212">00455212</a></span></span></li>
-<li><span class="nowrap"><a href="/wiki/Institute_for_Advanced_Technology_in_the_Humanities" title="Institute for Advanced Technology in the Humanities">IATH</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://socialarchive.iath.virginia.edu/ark:/99166/w6d52dft">w6d52dft</a></span></span></li>
-<li><span class="nowrap"><a href="/wiki/DBLP" title="DBLP">DBLP</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://dblp.org/pid/s/GerardSalton">s/GerardSalton</a></span></span></li>
-<li><span class="nowrap"><a href="/wiki/ACM_Digital_Library" class="mw-redirect" title="ACM Digital Library">ACM DL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://dl.acm.org/author_page.cfm?id=81100649307">81100649307</a></span></span></li>
-</ul>
+<td style="text-align: left; vertical-align: top;">
+<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}">
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">►</span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Arts_portal">Arts portal</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+</div>
+<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}">
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Arts_by_culture" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Arts_by_culture">Arts by culture</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+</div>
+<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}">
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">►</span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Arts_by_place">Arts by place</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+</div>
+<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}">
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Arts-related_lists" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Arts-related_lists">Arts-related lists</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+</div>
+<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}">
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Aesthetics" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Aesthetics">Aesthetics</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+</div>
+<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}">
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Arts_genres_by_country_or_nationality" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Arts_genres_by_country_or_nationality">Arts genres by country or nationality</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+</div>
+<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}">
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Arts_awards" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Arts_awards">Arts awards</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+</div>
+<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}">
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Censorship_in_the_arts" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Censorship_in_the_arts">Censorship in the arts</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+</div>
+<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}">
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Crafts" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Crafts">Crafts</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+</div>
+<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}">
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Creative_works" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Creative_works">Creative works</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+</div>
+<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}">
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Arts_districts" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Arts_districts">Arts districts</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+</div>
+<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}">
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Arts_events" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Arts_events">Arts events</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+</div>
+</td>
+<td style="text-align: left; vertical-align: top;">
+<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}">
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Literature" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Literature">Literature</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+</div>
+<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}">
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Arts_occupations" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Arts_occupations">Arts occupations</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+</div>
+<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}">
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Arts_organizations" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Arts_organizations">Arts organizations</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+</div>
+<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}">
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Arts_portals" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Arts_portals">Arts portals</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+</div>
+<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}">
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Performing_arts" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Performing_arts">Performing arts</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+</div>
+<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}">
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Religion_and_the_arts" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Religion_and_the_arts">Religion and the arts</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+</div>
+<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}">
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Arts_venues" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Arts_venues">Arts venues</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+</div>
+<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}">
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Visual_arts" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Visual_arts">Visual arts</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+</div>
+<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}">
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Women_and_the_arts" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Women_and_the_arts">Women and the arts</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+</div>
+<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}">
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Works_about_the_arts" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Works_about_the_arts">Works about the arts</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+</div>
+<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}">
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Wikipedia_books_on_arts" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Wikipedia_books_on_arts">Wikipedia books on arts</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+</div>
+<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}">
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Art_stubs" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Art_stubs">Art stubs</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
 </div>
 </td>
 </tr>
 </table>
 </div>
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid #aaaaaa; border-width: 1px 1px 0; background: #444444; color: #f9f9ff; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: #f9f9ff"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Arts/WikiProjects&amp;action=edit"><span style="color: #f9f9ff">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#f9f9ff;"><span class="mw-headline" id="WikiProjects">WikiProjects</span></h2>
+</div>
+<div style="border: 1px solid #aaaaaa; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<h3 style="font-size: inherit;"><span class="mw-headline" id="Parent_project">Parent project</span></h3>
+<div style="float:right;margin-left:0.9em"><a href="/wiki/File:Community.png" class="image" title="WikiProjects"><img alt="WikiProjects" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Community.png" width="55" height="37" data-file-width="48" data-file-height="32" /></a></div>
+<ul>
+<li><b><a href="/wiki/Wikipedia:WikiProject_Arts" title="Wikipedia:WikiProject Arts">Arts</a></b></li>
+</ul>
+<h3 style="font-size: inherit;"><span class="mw-headline" id="Descendant_projects">Descendant projects</span></h3>
+<div>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="text-align: left; vertical-align: top;">
+<ul>
+<li><a href="/wiki/Wikipedia:WikiProject_Philosophy/Aesthetics" title="Wikipedia:WikiProject Philosophy/Aesthetics">Aesthetics</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Architecture" title="Wikipedia:WikiProject Architecture">Architecture</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Books" title="Wikipedia:WikiProject Books">Books</a>
+<ul>
+<li><a href="/wiki/Wikipedia:WikiProject_Novels" title="Wikipedia:WikiProject Novels">Novels</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikipedia:WikiProject_Collections_Care" title="Wikipedia:WikiProject Collections Care">Collections care</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Dance" title="Wikipedia:WikiProject Dance">Dance</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Films" class="mw-redirect" title="Wikipedia:WikiProject Films">Films</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Horror" title="Wikipedia:WikiProject Horror">Horror</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Literature" title="Wikipedia:WikiProject Literature">Literature</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Magic" title="Wikipedia:WikiProject Magic">Magic</a></li>
+</ul>
+</td>
+<td style="text-align: left; vertical-align: top;">
+<ul>
+<li><a href="/wiki/Wikipedia:WikiProject_Music" title="Wikipedia:WikiProject Music">Music</a>
+<ul>
+<li><a href="/wiki/Wikipedia:WikiProject_Albums" title="Wikipedia:WikiProject Albums">Albums</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Classical_Music" class="mw-redirect" title="Wikipedia:WikiProject Classical Music">Classical music</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Composers" title="Wikipedia:WikiProject Composers">Composers</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Guitar" class="mw-redirect" title="Wikipedia:WikiProject Guitar">Guitar</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Musicians" title="Wikipedia:WikiProject Musicians">Musicians</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Music_Venues" class="mw-redirect" title="Wikipedia:WikiProject Music Venues">Music Venues</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikipedia:WikiProject_Opera" title="Wikipedia:WikiProject Opera">Opera</a>
+<ul>
+<li><a href="/wiki/Wikipedia:WikiProject_Gilbert_and_Sullivan" title="Wikipedia:WikiProject Gilbert and Sullivan">Gilbert and Sullivan</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Richard_Wagner" title="Wikipedia:WikiProject Richard Wagner">Richard Wagner</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikipedia:WikiProject_Poetry" title="Wikipedia:WikiProject Poetry">Poetry</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Television" title="Wikipedia:WikiProject Television">Television</a></li>
+</ul>
+</td>
+<td style="text-align: left; vertical-align: top;">
+<ul>
+<li><a href="/wiki/Wikipedia:WikiProject_Theatre" title="Wikipedia:WikiProject Theatre">Theatre</a>
+<ul>
+<li><a href="/wiki/Wikipedia:WikiProject_Elizabethan_theatre" title="Wikipedia:WikiProject Elizabethan theatre">Elizabethan theatre</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Musical_Theatre" title="Wikipedia:WikiProject Musical Theatre">Musical theatre</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikipedia:WikiProject_Visual_arts" title="Wikipedia:WikiProject Visual arts">Visual arts</a>
+<ul>
+<li><a href="/wiki/Wikipedia:WikiProject_Animation" title="Wikipedia:WikiProject Animation">Animation</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Anime_and_manga" title="Wikipedia:WikiProject Anime and manga">Anime and manga</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Contemporary_Art" class="mw-redirect" title="Wikipedia:WikiProject Contemporary Art">Contemporary art</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Comics" title="Wikipedia:WikiProject Comics">Comics</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Graffiti" title="Wikipedia:WikiProject Graffiti">Graffiti</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Graphic_design" title="Wikipedia:WikiProject Graphic design">Graphic design</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Fashion" title="Wikipedia:WikiProject Fashion">Fashion</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Photography" title="Wikipedia:WikiProject Photography">Photography</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Public_art" class="mw-redirect" title="Wikipedia:WikiProject Public art">Public art</a></li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<div class="noprint" style="text-align: right; font-weight: bold;">What are <a href="/wiki/Wikipedia:WikiProject" title="Wikipedia:WikiProject">WikiProjects</a>?</div>
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div style="clear: both; border: solid #aaaaaa; border-width: 1px 1px 0; background: #444444; color: #f9f9ff; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: #f9f9ff"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Arts/Selected_quote/17&amp;action=edit"><span style="color: #f9f9ff">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#f9f9ff;"><span class="mw-headline" id="Selected_quote">Selected quote</span></h2>
+</div>
+<div style="border: 1px solid #aaaaaa; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div style="text-align: center; padding: 0.25em;">
+<div style="display: inline-block;">
+<div style="float:left;margin-right:1em"><a href="/wiki/File:Burnett,_Carol_(Whitehouse).jpg" class="image" title="Carol Burnett"><img alt="Carol Burnett" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Burnett%2C_Carol_%28Whitehouse%29.jpg/120px-Burnett%2C_Carol_%28Whitehouse%29.jpg" width="120" height="161" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Burnett%2C_Carol_%28Whitehouse%29.jpg/180px-Burnett%2C_Carol_%28Whitehouse%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Burnett%2C_Carol_%28Whitehouse%29.jpg/240px-Burnett%2C_Carol_%28Whitehouse%29.jpg 2x" data-file-width="257" data-file-height="344" /></a></div>
+<table class="cquote" role="presentation" style="margin:auto; border-collapse: collapse; border: none; background-color: transparent; width: auto;">
+<tr>
+<td style="width: 20px; vertical-align: top; border: none; color: #B2B7F2; font-size: 40px; font-family: 'Times New Roman', Times, serif; font-weight: bold; line-height: .6em; text-align: left; padding: 10px 10px;">“</td>
+<td style="vertical-align: top; border: none; padding: 4px 10px;">The audience is never wrong.</td>
+<td style="width: 20px; vertical-align: bottom; border: none; color: #B2B7F2; font-size: 40px; font-family: 'Times New Roman', Times, serif; font-weight: bold; line-height: .6em; text-align: right; padding: 10px 10px;">”</td>
+</tr>
+</table>
+<div style="text-align:right; margin-right:10px">— <b><a href="/wiki/Carol_Burnett" title="Carol Burnett">Carol Burnett</a></b></div>
+</div>
+</div>
+<div class="noprint" style="padding:0.7em 0.9em 0.7em 0.2em; font-weight:bold;"><span style="display:inline-block; width:73%; text-align:left;"><a href="/wiki/Portal:Arts/Selected_quote" title="Portal:Arts/Selected quote">...Archive/Nominations</a></span><span style="display:inline-block; width:27%; text-align:right;"><a href="https://en.wikiquote.org/wiki/Arts" class="extiw" title="wikiquote:Arts">More...</a></span></div>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid #aaaaaa; border-width: 1px 1px 0; background: #444444; color: #f9f9ff; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: #f9f9ff"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Arts/Related_portals&amp;action=edit"><span style="color: #f9f9ff">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#f9f9ff;"><span class="mw-headline" id="Related_portals">Related portals</span></h2>
+</div>
+<div style="border: 1px solid #aaaaaa; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<ul class="related-portals" style="margin: 0; overflow: hidden; list-style: none none;">
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:P_parthenon.svg" class="image"><img alt="P parthenon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/P_parthenon.svg/44px-P_parthenon.svg.png" width="44" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/P_parthenon.svg/67px-P_parthenon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/P_parthenon.svg/89px-P_parthenon.svg.png 2x" data-file-width="400" data-file-height="360" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Architecture" title="Portal:Architecture">Architecture</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:P_culture.svg" class="image"><img alt="P culture.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/P_culture.svg/44px-P_culture.svg.png" width="44" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/P_culture.svg/67px-P_culture.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/P_culture.svg/89px-P_culture.svg.png 2x" data-file-width="400" data-file-height="360" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Culture" title="Portal:Culture">Culture</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Disco-Dancer-4-Remix-by-Merlin2525.svg" class="image"><img alt="Disco-Dancer-4-Remix-by-Merlin2525.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Disco-Dancer-4-Remix-by-Merlin2525.svg/18px-Disco-Dancer-4-Remix-by-Merlin2525.svg.png" width="18" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Disco-Dancer-4-Remix-by-Merlin2525.svg/28px-Disco-Dancer-4-Remix-by-Merlin2525.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Disco-Dancer-4-Remix-by-Merlin2525.svg/37px-Disco-Dancer-4-Remix-by-Merlin2525.svg.png 2x" data-file-width="512" data-file-height="1097" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Dance" title="Portal:Dance">Dance</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Video-x-generic.svg" class="image"><img alt="Video-x-generic.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Video-x-generic.svg/40px-Video-x-generic.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Video-x-generic.svg/60px-Video-x-generic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e7/Video-x-generic.svg/80px-Video-x-generic.svg.png 2x" data-file-width="48" data-file-height="48" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Film" title="Portal:Film">Film</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Books-aj.svg_aj_ashton_01.svg" class="image"><img alt="Books-aj.svg aj ashton 01.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Books-aj.svg_aj_ashton_01.svg/45px-Books-aj.svg_aj_ashton_01.svg.png" width="45" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Books-aj.svg_aj_ashton_01.svg/68px-Books-aj.svg_aj_ashton_01.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Books-aj.svg_aj_ashton_01.svg/90px-Books-aj.svg_aj_ashton_01.svg.png 2x" data-file-width="309" data-file-height="274" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Literature" title="Portal:Literature">Literature</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Audio_a.svg" class="image"><img alt="Audio a.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/65px-Audio_a.svg.png" width="65" height="37" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/98px-Audio_a.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/130px-Audio_a.svg.png 2x" data-file-width="800" data-file-height="460" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Music" title="Portal:Music">Music</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Socrates.png" class="image"><img alt="Socrates.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Socrates.png/26px-Socrates.png" width="26" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Socrates.png/39px-Socrates.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Socrates.png/52px-Socrates.png 2x" data-file-width="326" data-file-height="500" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Philosophy" title="Portal:Philosophy">Philosophy</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Quill_and_ink.svg" class="image"><img alt="Quill and ink.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Quill_and_ink.svg/40px-Quill_and_ink.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Quill_and_ink.svg/60px-Quill_and_ink.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Quill_and_ink.svg/80px-Quill_and_ink.svg.png 2x" data-file-width="152" data-file-height="152" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Poetry" title="Portal:Poetry">Poetry</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Blank_television_set.svg" class="image"><img alt="Blank television set.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Blank_television_set.svg/60px-Blank_television_set.svg.png" width="60" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Blank_television_set.svg/90px-Blank_television_set.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Blank_television_set.svg/120px-Blank_television_set.svg.png 2x" data-file-width="138" data-file-height="92" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Television" title="Portal:Television">Television</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:P_culture.svg" class="image"><img alt="P culture.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/P_culture.svg/44px-P_culture.svg.png" width="44" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/P_culture.svg/67px-P_culture.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/P_culture.svg/89px-P_culture.svg.png 2x" data-file-width="400" data-file-height="360" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Theatre" title="Portal:Theatre">Theatre</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:WPVG_icon_2016.svg" class="image"><img alt="WPVG icon 2016.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/e/e0/WPVG_icon_2016.svg/40px-WPVG_icon_2016.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e0/WPVG_icon_2016.svg/60px-WPVG_icon_2016.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e0/WPVG_icon_2016.svg/80px-WPVG_icon_2016.svg.png 2x" data-file-width="249" data-file-height="249" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Video_games" title="Portal:Video games">Video games</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:WPVA-khamsa.svg" class="image"><img alt="WPVA-khamsa.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WPVA-khamsa.svg/31px-WPVA-khamsa.svg.png" width="31" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WPVA-khamsa.svg/46px-WPVA-khamsa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WPVA-khamsa.svg/62px-WPVA-khamsa.svg.png 2x" data-file-width="124" data-file-height="160" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Visual_arts" title="Portal:Visual arts">Visual arts</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Nuvola_apps_kmessedwords.png" class="image"><img alt="Nuvola apps kmessedwords.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Nuvola_apps_kmessedwords.png/40px-Nuvola_apps_kmessedwords.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Nuvola_apps_kmessedwords.png/60px-Nuvola_apps_kmessedwords.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Nuvola_apps_kmessedwords.png/80px-Nuvola_apps_kmessedwords.png 2x" data-file-width="128" data-file-height="128" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Writing" title="Portal:Writing">Writing</a></b></div>
+</li>
+</ul>
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid #aaaaaa; border-width: 1px 1px 0; background: #444444; color: #f9f9ff; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: #f9f9ff"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Arts/Things_you_can_do&amp;action=edit"><span style="color: #f9f9ff">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#f9f9ff;"><span class="mw-headline" id="Things_you_can_do">Things you can do</span></h2>
+</div>
+<div style="border: 1px solid #aaaaaa; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div style="position:relative; padding:0.75em 0.15em 0.75em 56px; font-size:98%;">
+<div style="position:absolute; left:3px; top:50%; margin-top:-25px;"><a href="/wiki/File:Nuvola_apps_korganizer.svg" class="image" title="Things you can do"><img alt="Things you can do" src="//upload.wikimedia.org/wikipedia/en/thumb/e/e6/Nuvola_apps_korganizer.svg/50px-Nuvola_apps_korganizer.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e6/Nuvola_apps_korganizer.svg/75px-Nuvola_apps_korganizer.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e6/Nuvola_apps_korganizer.svg/100px-Nuvola_apps_korganizer.svg.png 2x" data-file-width="128" data-file-height="128" /></a></div>
+<ul>
+<li>Check the <b><a href="/wiki/Special:RecentChangesLinked/The_arts" title="Special:RecentChangesLinked/The arts">recent changes</a></b> page for improvements, other changes, and vandalism to these articles</li>
+<li><b><a href="/wiki/Wikipedia:Requested_articles" title="Wikipedia:Requested articles">Article requests</a>:</b> <a href="/wiki/Wikipedia:Requested_articles/Arts_and_entertainment" title="Wikipedia:Requested articles/Arts and entertainment">Requests articles (arts and entertainment)</a></li>
+<li><b><a href="/wiki/Wikipedia:WikiProject_Deletion_sorting" title="Wikipedia:WikiProject Deletion sorting">Deletion discussions</a></b>: Listed at <a href="/wiki/Wikipedia:WikiProject_Deletion_sorting/Arts" title="Wikipedia:WikiProject Deletion sorting/Arts">Wikipedia:WikiProject Deletion sorting/Arts</a></li>
+<li><b><a href="/wiki/Wikipedia:Find_or_fix_a_stub" class="mw-redirect" title="Wikipedia:Find or fix a stub">Expand</a>:</b> check <a href="/wiki/Category:Art_stubs" title="Category:Art stubs">Art stubs to expand</a></li>
+<li><b><a href="/wiki/Wikipedia:Notability" title="Wikipedia:Notability">Notability</a>:</b> <a href="/wiki/Wikipedia:WikiProject_Notability/Listing_by_project/Page_5#Visual_arts" title="Wikipedia:WikiProject Notability/Listing by project/Page 5">Articles with notability concerns</a>, listed at <a href="/wiki/Wikipedia:WikiProject_Notability" title="Wikipedia:WikiProject Notability">WikiProject Notability</a></li>
+<li><b><a href="/wiki/Wikipedia:Requested_pictures" title="Wikipedia:Requested pictures">Requested pictures</a>:</b> <a href="/wiki/Category:Wikipedia_requested_photographs_of_arts" title="Category:Wikipedia requested photographs of arts">Arts topics, requested pictures</a></li>
+</ul>
+</div>
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
+</div>
+<div class="noprint">
+<div style="clear: both; border: solid #aaaaaa; border-width: 1px 1px 0; background: #444444; color: #f9f9ff; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: #f9f9ff"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Arts/Wikimedia&amp;action=edit"><span style="color: #f9f9ff">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#f9f9ff;"><span class="mw-headline" id="Associated_Wikimedia">Associated Wikimedia</span></h2>
+</div>
+<div style="border: 1px solid #aaaaaa; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<table role="presentation" class="noprint" align="center" style="clear:both; background: transparent; text-align:center; font-size:91%" cellspacing="3" cellpadding="3" rules="none" border="0">
+<tr style="font-weight:bold;">
+<td><a href="https://en.wikibooks.org/wiki/Special:Search/Arts" class="extiw" title="wikibooks:Special:Search/Arts">Arts on&#160;Wikibooks</a></td>
+<td><a href="https://commons.wikimedia.org/wiki/Special:Search/Category:Arts" class="extiw" title="commons:Special:Search/Category:Arts">Arts on Wikimedia Commons</a></td>
+<td><a href="https://en.wikinews.org/wiki/Special:Search/Arts" class="extiw" title="wikinews:Special:Search/Arts">Arts on&#160;Wikinews</a></td>
+<td><a href="https://en.wikiquote.org/wiki/Special:Search/Arts" class="extiw" title="wikiquote:Special:Search/Arts">Arts on&#160;Wikiquote</a></td>
+<td><a href="https://en.wikisource.org/wiki/Special:Search/Arts" class="extiw" title="wikisource:Special:Search/Arts">Arts on&#160;Wikisource</a></td>
+<td><a href="https://en.wikiversity.org/wiki/Special:Search/Arts" class="extiw" title="wikiversity:Special:Search/Arts">Arts on&#160;Wikiversity</a></td>
+<td><a href="https://en.wiktionary.org/wiki/Special:Search/Arts" class="extiw" title="wiktionary:Special:Search/Arts">Arts on&#160;Wiktionary</a></td>
+</tr>
+<tr>
+<td>Manuals and books</td>
+<td>Images and media</td>
+<td>News</td>
+<td>Quotations</td>
+<td>Texts</td>
+<td>Learning resources</td>
+<td>Definitions</td>
+</tr>
+<tr>
+<td><a href="https://en.wikibooks.org/wiki/Special:Search/Arts"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/30px-Wikibooks-logo.svg.png" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/45px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/60px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></a></td>
+<td><a href="https://commons.wikimedia.org/wiki/Special:Search/Category:Arts"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png" width="20" height="27" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td><a href="https://en.wikinews.org/wiki/Special:Search/Arts"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/45px-Wikinews-logo.svg.png" width="45" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/68px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/90px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415" /></a></td>
+<td><a href="https://en.wikiquote.org/wiki/Special:Search/Arts"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/29px-Wikiquote-logo.svg.png" width="29" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/45px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/59px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a></td>
+<td><a href="https://en.wikisource.org/wiki/Special:Search/Arts"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/30px-Wikisource-logo.svg.png" width="30" height="31" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/45px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/60px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a></td>
+<td><a href="https://en.wikiversity.org/wiki/Special:Search/Arts"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/30px-Wikiversity-logo.svg.png" width="30" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/45px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/60px-Wikiversity-logo.svg.png 2x" data-file-width="1000" data-file-height="800" /></a></td>
+<td><a href="https://en.wiktionary.org/wiki/Special:Search/Arts"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/30px-Wiktionary-logo-v2.svg.png" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/45px-Wiktionary-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/60px-Wiktionary-logo-v2.svg.png 2x" data-file-width="391" data-file-height="391" /></a></td>
+</tr>
+</table>
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="hlist noprint" style="text-align: center; clear:both; padding:0.25em 0 0.5em;">
+<ul>
+<li><b>What are <a href="/wiki/Wikipedia:Portal" title="Wikipedia:Portal">portals</a>?</b></li>
+<li><b><a href="/wiki/Portal:Contents/Portals" title="Portal:Contents/Portals">List of portals</a></b></li>
+</ul>
+</div>
+</div>
 
 
 <!-- 
 NewPP limit report
-Parsed by mw1280
-Cached time: 20170925124139
-Cache expiry: 86400
+Parsed by mw1273
+Cached time: 20171027123813
+Cache expiry: 21600
 Dynamic content: true
-CPU time usage: 0.216 seconds
-Real time usage: 0.277 seconds
-Preprocessor visited node count: 2157/1000000
+CPU time usage: 0.296 seconds
+Real time usage: 0.482 seconds
+Preprocessor visited node count: 2665/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 28040/2097152 bytes
-Template argument size: 2964/2097152 bytes
-Highest expansion depth: 18/40
-Expensive parser function count: 0/500
-Lua time usage: 0.096/10.000 seconds
-Lua memory usage: 3.82 MB/50 MB
+Post‐expand include size: 100257/2097152 bytes
+Template argument size: 7241/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 3/500
+Lua time usage: 0.108/10.000 seconds
+Lua memory usage: 2.16 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  253.324      1 -total
- 44.74%  113.335      1 Template:Infobox_scientist
- 41.70%  105.640      1 Template:Infobox_person
- 37.15%   94.104      2 Template:Infobox
- 19.45%   49.280      1 Template:Reflist
- 12.92%   32.720      2 Template:Cite_book
-  9.44%   23.913      1 Template:ISBN
-  9.33%   23.633      5 Template:Br_separated_entries
-  7.97%   20.197      1 Template:Authority_control
-  7.30%   18.492      3 Template:Cite_journal
+100.00%  351.840      1 -total
+ 33.05%  116.268      6 Template:Random_portal_component
+ 17.63%   62.043      1 Portal:Arts/Related_portals
+ 17.20%   60.500      1 Template:Related_portals2
+ 15.96%   56.171      1 Template:For_loop
+ 12.63%   44.420     13 Template:Portal_image
+ 11.33%   39.863      1 Portal:Arts/Categories
+  6.99%   24.578      1 Template:Featured_portal
+  6.22%   21.877      1 Template:Top_icon
+  5.81%   20.459      1 Template:Shortcut
 -->
 </div>
-<!-- Saved in parser cache with key enwiki:pcache:idhash:509624-0!canonical and timestamp 20170925124139 and revision id 795324931
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1480241-0!canonical and timestamp 20171027123813 and revision id 804877410
  -->
 <noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
-						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Gerard_Salton&amp;oldid=795324931">https://en.wikipedia.org/w/index.php?title=Gerard_Salton&amp;oldid=795324931</a>"					</div>
-				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1927_births" title="Category:1927 births">1927 births</a></li><li><a href="/wiki/Category:1995_deaths" title="Category:1995 deaths">1995 deaths</a></li><li><a href="/wiki/Category:American_computer_scientists" title="Category:American computer scientists">American computer scientists</a></li><li><a href="/wiki/Category:Harvard_University_alumni" title="Category:Harvard University alumni">Harvard University alumni</a></li><li><a href="/wiki/Category:Harvard_University_faculty" title="Category:Harvard University faculty">Harvard University faculty</a></li><li><a href="/wiki/Category:Cornell_University_faculty" title="Category:Cornell University faculty">Cornell University faculty</a></li><li><a href="/wiki/Category:Fellows_of_the_Association_for_Computing_Machinery" title="Category:Fellows of the Association for Computing Machinery">Fellows of the Association for Computing Machinery</a></li><li><a href="/wiki/Category:Guggenheim_Fellows" title="Category:Guggenheim Fellows">Guggenheim Fellows</a></li><li><a href="/wiki/Category:Information_retrieval_researchers" title="Category:Information retrieval researchers">Information retrieval researchers</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SNAC-ID_identifiers" title="Category:Wikipedia articles with SNAC-ID identifiers">Wikipedia articles with SNAC-ID identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_DBLP_identifiers" title="Category:Wikipedia articles with DBLP identifiers">Wikipedia articles with DBLP identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ACM-DL_identifiers" title="Category:Wikipedia articles with ACM-DL identifiers">Wikipedia articles with ACM-DL identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Portal:Arts&amp;oldid=804877410">https://en.wikipedia.org/w/index.php?title=Portal:Arts&amp;oldid=804877410</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Arts_portal" title="Category:Arts portal">Arts portal</a></li><li><a href="/wiki/Category:Arts" title="Category:Arts">Arts</a></li><li><a href="/wiki/Category:Visual_arts" title="Category:Visual arts">Visual arts</a></li><li><a href="/wiki/Category:Performing_arts" title="Category:Performing arts">Performing arts</a></li><li><a href="/wiki/Category:Arts_portals" title="Category:Arts portals">Arts portals</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_move-protected_portals" title="Category:Wikipedia move-protected portals">Wikipedia move-protected portals</a></li><li><a href="/wiki/Category:Featured_portals" title="Category:Featured portals">Featured portals</a></li></ul></div></div>				<div class="visualClear"></div>
 							</div>
 		</div>
 		<div id="mw-navigation">
-			<h2>Navigation menu</h2>
-
-			<div id="mw-head">
-									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
-						<h3 id="p-personal-label">Personal tools</h3>
-						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Gerard+Salton&amp;returntoquery=amp%253Baction%3Dedit" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Gerard+Salton&amp;returntoquery=amp%253Baction%3Dedit" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
-					</div>
-									<div id="left-navigation">
-										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
-						<h3 id="p-namespaces-label">Namespaces</h3>
-						<ul>
-														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Gerard_Salton" title="View the content page [c]" accesskey="c">Article</a></span></li>
-							<li id="ca-talk"><span><a href="/wiki/Talk:Gerard_Salton" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
-						</ul>
-					</div>
-										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
-												<h3 id="p-variants-label">
-							<span>Variants</span>
-						</h3>
-
-						<div class="menu">
-							<ul>
-															</ul>
-						</div>
-					</div>
-									</div>
-				<div id="right-navigation">
-										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
-						<h3 id="p-views-label">Views</h3>
-						<ul>
-														<li id="ca-view" class="selected"><span><a href="/wiki/Gerard_Salton">Read</a></span></li>
-							<li id="ca-edit"><span><a href="/w/index.php?title=Gerard_Salton&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
-							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Gerard_Salton&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
-						</ul>
-					</div>
-										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
-						<h3 id="p-cactions-label"><span>More</span></h3>
-
-						<div class="menu">
-							<ul>
-															</ul>
-						</div>
-					</div>
-										<div id="p-search" role="search">
-						<h3>
-							<label for="searchInput">Search</label>
-						</h3>
-
-						<form action="/w/index.php" id="searchform">
-							<div id="simpleSearch">
-							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
-						</form>
-					</div>
-									</div>
-			</div>
-			<div id="mw-panel">
-				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
-						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
-			<h3 id='p-navigation-label'>Navigation</h3>
-
-			<div class="body">
-									<ul>
-						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
-			<h3 id='p-interaction-label'>Interaction</h3>
-
-			<div class="body">
-									<ul>
-						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
-			<h3 id='p-tb-label'>Tools</h3>
-
-			<div class="body">
-									<ul>
-						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Gerard_Salton" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Gerard_Salton" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Gerard_Salton&amp;oldid=795324931" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Gerard_Salton&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q92880" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Gerard_Salton&amp;id=795324931" title="Information on how to cite this page">Cite this page</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
-			<h3 id='p-coll-print_export-label'>Print/export</h3>
-
-			<div class="body">
-									<ul>
-						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Gerard+Salton">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Gerard+Salton&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DGerard%2BSalton%26returnto%3DGerard%2BSalton%26oldid%3D795324931%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Gerard_Salton&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
-			<h3 id='p-lang-label'>Languages</h3>
-
-			<div class="body">
-									<ul>
-						<li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%AC%D8%B1%D8%A7%D8%B1%D8%AF_%D8%B3%D8%A7%D9%84%D8%AA%D9%88%D9%86" title="جرارد سالتون – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Gerard_Salton" title="Gerard Salton – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Gerard_Salton" title="Gerard Salton – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Gerard_Salton" title="Gerard Salton – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AC%D8%B1%D8%A7%D8%B1%D8%AF_%D8%B3%D8%A7%D9%84%D8%AA%D9%88%D9%86" title="جرارد سالتون – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Gerard_Salton" title="Gerard Salton – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%A0%9C%EB%9D%BC%EB%93%9C_%EC%86%94%ED%8A%BC" title="제라드 솔튼 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Gerard_Salton" title="Gerard Salton – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>					</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q92880#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
-		</div>
-				</div>
-		</div>
-		<div id="footer" role="contentinfo">
-							<ul id="footer-info">
-											<li id="footer-info-lastmod"> This page was last edited on 13 August 2017, at 14:17.</li>
-											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
-additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
-									</ul>
-							<ul id="footer-places">
-											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
-											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
-											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
-											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
-											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
-											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
-											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Gerard_Salton&amp;amp%3Baction=edit&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
-									</ul>
-										<ul id="footer-icons" class="noprint">
-											<li id="footer-copyrightico">
-							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
-											<li id="footer-poweredbyico">
-							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
-									</ul>
-						<div style="clear:both"></div>
-		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.216","walltime":"0.277","ppvisitednodes":{"value":2157,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":28040,"limit":2097152},"templateargumentsize":{"value":2964,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  253.324      1 -total"," 44.74%  113.335      1 Template:Infobox_scientist"," 41.70%  105.640      1 Template:Infobox_person"," 37.15%   94.104      2 Template:Infobox"," 19.45%   49.280      1 Template:Reflist"," 12.92%   32.720      2 Template:Cite_book","  9.44%   23.913      1 Template:ISBN","  9.33%   23.633      5 Template:Br_separated_entries","  7.97%   20.197      1 Template:Authority_control","  7.30%   18.492      3 Template:Cite_journal"]},"scribunto":{"limitreport-timeusage":{"value":"0.096","limit":"10.000"},"limitreport-memusage":{"value":4007384,"limit":52428800}},"cachereport":{"origin":"mw1280","timestamp":"20170925124139","ttl":86400,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":53,"wgHostname":"mw1239"});});</script>
-	</body>
-</html>

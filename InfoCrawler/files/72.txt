@@ -1,53 +1,14 @@
-<!DOCTYPE html>
-<html class="client-nojs" lang="en" dir="ltr">
-<head>
-<meta charset="UTF-8"/>
-<title>Category:Harvard University faculty - Wikipedia</title>
-<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Category","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":14,"wgPageName":"Category:Harvard_University_faculty","wgTitle":"Harvard University faculty","wgCurRevisionId":641875683,"wgRevisionId":641875683,"wgArticleId":4881137,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Faculty by university or college in Massachusetts","Harvard University people"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Category:Harvard_University_faculty","wgRelevantArticleId":4881137,"wgRequestId":"WcSUEApAEKkAAHOReZsAAABP","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q6376057","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.action.view.categoryPage.styles":"ready","ext.categoryTree.css":"ready","mediawiki.helplink":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.tmh.thumbnail.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
-mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
-
-});mw.loader.load(["ext.categoryTree","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","skins.vector.js"]);});</script>
-<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.categoryTree.css%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.action.view.categoryPage.styles%7Cmediawiki.helplink%2CsectionAnchor%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
-<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
-<meta name="ResourceLoaderDynamicStyles" content=""/>
-<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
-<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
-<meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Category:Harvard_University_faculty&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Category:Harvard_University_faculty&amp;action=edit"/>
-<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
-<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
-<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
-<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
-<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Category:Harvard_University_faculty"/>
-<link rel="dns-prefetch" href="//login.wikimedia.org"/>
-<link rel="dns-prefetch" href="//meta.wikimedia.org" />
-<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
-</head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-14 ns-subject page-Category_Harvard_University_faculty rootpage-Category_Harvard_University_faculty skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
-		<div id="mw-head-base" class="noprint"></div>
-		<div id="content" class="mw-body" role="main">
-			<a id="top"></a>
-
-							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
-						<div class="mw-indicators mw-body-content">
-<div id="mw-indicator-mw-helplink" class="mw-indicator"><a href="//www.mediawiki.org/wiki/Special:MyLanguage/Help:Categories" target="_blank" class="mw-helplink">Help</a></div>
-</div>
-			<h1 id="firstHeading" class="firstHeading" lang="en">Category:Harvard University faculty</h1>
-									<div id="bodyContent" class="mw-body-content">
+<div id="bodyContent" class="mw-body-content">
 									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
 								<div id="contentSub"></div>
 												<div id="jump-to-nav" class="mw-jump">
 					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
 				</div>
-				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable relarticle mainarticle">The main article for this <a href="/wiki/Help:Categories" title="Help:Categories">category</a> is <b><a href="/wiki/List_of_Cornell_University_faculty" title="List of Cornell University faculty">List of Cornell University faculty</a></b>.</div>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
 <tr>
 <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
-<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Faculty_of_Harvard_University" class="extiw" title="commons:Category:Faculty of Harvard University">Faculty of Harvard University</a></b></i>.</td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Faculty_of_Cornell_University" class="extiw" title="commons:Category:Faculty of Cornell University">Faculty of Cornell University</a></b></i>.</td>
 </tr>
 </table>
 <div class="toc plainlinks hlist" id="toc" style="clear: left;">
@@ -55,426 +16,274 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <h2><span class="mw-headline" id="Contents">Contents</span></h2>
 </div>
 <ul>
-<li><a class="external text" href="//en.wikipedia.org/wiki/Category:Harvard_University_faculty">Top</a></li>
-<li><a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Harvard_University_faculty&amp;from=0">0–9</a></li>
-<li><a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Harvard_University_faculty&amp;from=A">A</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Harvard_University_faculty&amp;from=B">B</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Harvard_University_faculty&amp;from=C">C</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Harvard_University_faculty&amp;from=D">D</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Harvard_University_faculty&amp;from=E">E</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Harvard_University_faculty&amp;from=F">F</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Harvard_University_faculty&amp;from=G">G</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Harvard_University_faculty&amp;from=H">H</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Harvard_University_faculty&amp;from=I">I</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Harvard_University_faculty&amp;from=J">J</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Harvard_University_faculty&amp;from=K">K</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Harvard_University_faculty&amp;from=L">L</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Harvard_University_faculty&amp;from=M">M</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Harvard_University_faculty&amp;from=N">N</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Harvard_University_faculty&amp;from=O">O</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Harvard_University_faculty&amp;from=P">P</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Harvard_University_faculty&amp;from=Q">Q</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Harvard_University_faculty&amp;from=R">R</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Harvard_University_faculty&amp;from=S">S</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Harvard_University_faculty&amp;from=T">T</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Harvard_University_faculty&amp;from=U">U</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Harvard_University_faculty&amp;from=V">V</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Harvard_University_faculty&amp;from=W">W</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Harvard_University_faculty&amp;from=X">X</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Harvard_University_faculty&amp;from=Y">Y</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Harvard_University_faculty&amp;from=Z">Z</a></li>
+<li><a class="external text" href="//en.wikipedia.org/wiki/Category:Cornell_University_faculty">Top</a></li>
+<li><a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Cornell_University_faculty&amp;from=0">0–9</a></li>
+<li><a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Cornell_University_faculty&amp;from=A">A</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Cornell_University_faculty&amp;from=B">B</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Cornell_University_faculty&amp;from=C">C</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Cornell_University_faculty&amp;from=D">D</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Cornell_University_faculty&amp;from=E">E</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Cornell_University_faculty&amp;from=F">F</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Cornell_University_faculty&amp;from=G">G</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Cornell_University_faculty&amp;from=H">H</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Cornell_University_faculty&amp;from=I">I</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Cornell_University_faculty&amp;from=J">J</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Cornell_University_faculty&amp;from=K">K</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Cornell_University_faculty&amp;from=L">L</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Cornell_University_faculty&amp;from=M">M</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Cornell_University_faculty&amp;from=N">N</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Cornell_University_faculty&amp;from=O">O</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Cornell_University_faculty&amp;from=P">P</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Cornell_University_faculty&amp;from=Q">Q</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Cornell_University_faculty&amp;from=R">R</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Cornell_University_faculty&amp;from=S">S</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Cornell_University_faculty&amp;from=T">T</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Cornell_University_faculty&amp;from=U">U</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Cornell_University_faculty&amp;from=V">V</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Cornell_University_faculty&amp;from=W">W</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Cornell_University_faculty&amp;from=X">X</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Cornell_University_faculty&amp;from=Y">Y</a> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Category:Cornell_University_faculty&amp;from=Z">Z</a></li>
 </ul>
 </div>
 
 
 <!-- 
 NewPP limit report
-Parsed by mw1213
-Cached time: 20170920180620
+Parsed by mw1321
+Cached time: 20171029023959
 Cache expiry: 1900800
 Dynamic content: false
-CPU time usage: 0.036 seconds
-Real time usage: 0.056 seconds
-Preprocessor visited node count: 236/1000000
+CPU time usage: 0.060 seconds
+Real time usage: 0.082 seconds
+Preprocessor visited node count: 242/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 10478/2097152 bytes
+Post‐expand include size: 10862/2097152 bytes
 Template argument size: 378/2097152 bytes
 Highest expansion depth: 9/40
 Expensive parser function count: 0/500
-Lua time usage: 0.004/10.000 seconds
-Lua memory usage: 568 KB/50 MB
+Lua time usage: 0.011/10.000 seconds
+Lua memory usage: 732 KB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%   50.008      1 -total
- 77.57%   38.789      1 Template:Commons_cat
- 41.30%   20.651      1 Template:Commons
- 38.93%   19.469      1 Template:Sister_project
- 33.90%   16.955      1 Template:Side_box
- 22.28%   11.144      1 Template:CategoryTOC
-  7.98%    3.992      1 Template:TOC_top
-  4.50%    2.252      1 MediaWiki:Toc
-  1.91%    0.954      1 Template:TOC_bottom
+100.00%   72.781      1 -total
+ 43.31%   31.523      1 Template:Commons_category
+ 39.57%   28.802      1 Template:Cat_main
+ 16.86%   12.270      1 Template:CategoryTOC
+ 12.42%    9.040      1 Template:Commons
+  9.87%    7.181      1 Template:Sister_project
+  6.47%    4.711      1 Template:Side_box
+  5.74%    4.176      1 Template:TOC_top
+  2.84%    2.069      1 MediaWiki:Toc
+  1.45%    1.052      1 Template:TOC_bottom
 -->
 </div>
-<!-- Saved in parser cache with key enwiki:pcache:idhash:4881137-0!canonical and timestamp 20170920180619 and revision id 641875683
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3922393-0!canonical and timestamp 20171029023959 and revision id 792492291
  -->
 <div class="mw-category-generated" lang="en" dir="ltr"><div id="mw-subcategories">
 <h2>Subcategories</h2>
-<p>This category has the following 12 subcategories, out of 12 total.
-</p><div lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-category"><div class="mw-category-group"><h3>B</h3>
-<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Harvard_Business_School_faculty">Harvard Business School faculty</a>‎ <span title="Contains 0 subcategories, 222 pages, and 0 files" dir="ltr">(222 P)</span></div>
+<p>This category has the following 6 subcategories, out of 6 total.
+</p><div lang="en" dir="ltr" class="mw-content-ltr"><h3>C</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Classical_scholars_of_Cornell_University">Classical scholars of Cornell University</a>‎ <span title="Contains 0 subcategories, 10 pages, and 0 files" dir="ltr">(10 P)</span></div>
 		<div class="CategoryTreeChildren" style="display:none"></div></div>
-		</li></ul></div><div class="mw-category-group"><h3>C</h3>
-<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Classical_scholars_of_Harvard_University">Classical scholars of Harvard University</a>‎ <span title="Contains 0 subcategories, 24 pages, and 0 files" dir="ltr">(24 P)</span></div>
+		</li><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Cornell_University_School_of_Industrial_and_Labor_Relations_faculty">Cornell University School of Industrial and Labor Relations faculty</a>‎ <span title="Contains 0 subcategories, 1 page, and 0 files" dir="ltr">(1 P)</span></div>
 		<div class="CategoryTreeChildren" style="display:none"></div></div>
-		</li></ul></div><div class="mw-category-group"><h3>D</h3>
-<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Harvard_Graduate_School_of_Design_faculty">Harvard Graduate School of Design faculty</a>‎ <span title="Contains 0 subcategories, 47 pages, and 0 files" dir="ltr">(47 P)</span></div>
+		</li></ul><h3>H</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Cornell_University_Department_of_History_faculty">Cornell University Department of History faculty</a>‎ <span title="Contains 0 subcategories, 46 pages, and 0 files" dir="ltr">(46 P)</span></div>
 		<div class="CategoryTreeChildren" style="display:none"></div></div>
-		</li>
-<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Harvard_Divinity_School_faculty">Harvard Divinity School faculty</a>‎ <span title="Contains 0 subcategories, 76 pages, and 0 files" dir="ltr">(76 P)</span></div>
+		</li></ul><h3>J</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Johnson_School_faculty">Johnson School faculty</a>‎ <span title="Contains 0 subcategories, 12 pages, and 0 files" dir="ltr">(12 P)</span></div>
 		<div class="CategoryTreeChildren" style="display:none"></div></div>
-		</li></ul></div><div class="mw-category-group"><h3>E</h3>
-<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Harvard_Graduate_School_of_Education_faculty">Harvard Graduate School of Education faculty</a>‎ <span title="Contains 0 subcategories, 32 pages, and 0 files" dir="ltr">(32 P)</span></div>
+		</li></ul><h3>L</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Cornell_Law_School_faculty">Cornell Law School faculty</a>‎ <span title="Contains 0 subcategories, 14 pages, and 0 files" dir="ltr">(14 P)</span></div>
 		<div class="CategoryTreeChildren" style="display:none"></div></div>
-		</li></ul></div><div class="mw-category-group"><h3>J</h3>
-<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:John_A._Paulson_School_of_Engineering_and_Applied_Sciences_faculty">John A. Paulson School of Engineering and Applied Sciences faculty</a>‎ <span title="Contains 0 subcategories, 8 pages, and 0 files" dir="ltr">(8 P)</span></div>
+		</li></ul><h3>N</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:NewYork%E2%80%93Presbyterian_Hospital_physicians">NewYork–Presbyterian Hospital physicians</a>‎ <span title="Contains 0 subcategories, 8 pages, and 0 files" dir="ltr">(8 P)</span></div>
 		<div class="CategoryTreeChildren" style="display:none"></div></div>
-		</li>
-<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="John_F._Kennedy_School_of_Government_faculty" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:John_F._Kennedy_School_of_Government_faculty">John F. Kennedy School of Government faculty</a>‎ <span title="Contains 1 subcategory, 107 pages, and 0 files" dir="ltr">(1 C, 107 P)</span></div>
-		<div class="CategoryTreeChildren" style="display:none"></div></div>
-		</li></ul></div><div class="mw-category-group"><h3>L</h3>
-<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Harvard_Law_School_faculty" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Harvard_Law_School_faculty">Harvard Law School faculty</a>‎ <span title="Contains 1 subcategory, 214 pages, and 0 files" dir="ltr">(1 C, 214 P)</span></div>
-		<div class="CategoryTreeChildren" style="display:none"></div></div>
-		</li></ul></div><div class="mw-category-group"><h3>M</h3>
-<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Harvard_Medical_School_faculty" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Harvard_Medical_School_faculty">Harvard Medical School faculty</a>‎ <span title="Contains 1 subcategory, 416 pages, and 0 files" dir="ltr">(1 C, 416 P)</span></div>
-		<div class="CategoryTreeChildren" style="display:none"></div></div>
-		</li></ul></div><div class="mw-category-group"><h3>P</h3>
-<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Professorships_at_Harvard_University" data-ct-state="collapsed">►</span> </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Professorships_at_Harvard_University">Professorships at Harvard University</a>‎ <span title="Contains 1 subcategory, 10 pages, and 0 files" dir="ltr">(1 C, 10 P)</span></div>
-		<div class="CategoryTreeChildren" style="display:none"></div></div>
-		</li>
-<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Harvard_School_of_Public_Health_faculty">Harvard School of Public Health faculty</a>‎ <span title="Contains 0 subcategories, 77 pages, and 0 files" dir="ltr">(77 P)</span></div>
-		<div class="CategoryTreeChildren" style="display:none"></div></div>
-		</li></ul></div><div class="mw-category-group"><h3>R</h3>
-<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Radcliffe_College_faculty">Radcliffe College faculty</a>‎ <span title="Contains 0 subcategories, 11 pages, and 0 files" dir="ltr">(11 P)</span></div>
-		<div class="CategoryTreeChildren" style="display:none"></div></div>
-		</li></ul></div></div></div>
+		</li></ul></div>
 </div><div id="mw-pages">
-<h2><span id="Pages_in_category"></span>Pages in category "Harvard University faculty"</h2>
-<p>The following 200 pages are in this category, out of approximately 1,929 total. This list may not reflect recent changes (<a href="/wiki/Wikipedia:FAQ/Categorization#Why_might_a_category_list_not_be_up_to_date.3F" title="Wikipedia:FAQ/Categorization">learn more</a>).
-</p>(previous page) (<a href="/w/index.php?title=Category:Harvard_University_faculty&amp;pagefrom=Brown%2C+Vincent%0AVincent+Brown+%28historian%29#mw-pages" title="Category:Harvard University faculty">next page</a>)<div lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-category"><div class="mw-category-group"><h3>A</h3>
-<ul><li><a href="/wiki/Daniel_Aaron" title="Daniel Aaron">Daniel Aaron</a></li>
-<li><a href="/wiki/Carolyn_Abbate" title="Carolyn Abbate">Carolyn Abbate</a></li>
-<li><a href="/wiki/Ryuichi_Abe" title="Ryuichi Abe">Ryuichi Abe</a></li>
-<li><a href="/wiki/Wande_Abimbola" title="Wande Abimbola">Wande Abimbola</a></li>
+<h2><span id="Pages_in_category"></span>Pages in category "Cornell University faculty"</h2>
+<p>The following 200 pages are in this category, out of approximately 1,052 total. This list may not reflect recent changes (<a href="/wiki/Wikipedia:FAQ/Categorization#Why_might_a_category_list_not_be_up_to_date.3F" title="Wikipedia:FAQ/Categorization">learn more</a>).
+</p>(previous page) (<a href="/w/index.php?title=Category:Cornell_University_faculty&amp;pagefrom=Csaki%2C+Csaba%0ACsaba+Cs%C3%A1ki#mw-pages" title="Category:Cornell University faculty">next page</a>)<div lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-category"><div class="mw-category-group"><h3>&#160;</h3>
+<ul><li><a href="/wiki/List_of_Cornell_University_faculty" title="List of Cornell University faculty">List of Cornell University faculty</a></li>
+<li><a href="/wiki/List_of_deans_of_the_Samuel_Curtis_Johnson_Graduate_School_of_Management" title="List of deans of the Samuel Curtis Johnson Graduate School of Management">List of deans of the Samuel Curtis Johnson Graduate School of Management</a></li></ul></div><div class="mw-category-group"><h3>*</h3>
+<ul><li><a href="/wiki/Template:Cornell_University_faculty_box" title="Template:Cornell University faculty box">Template:Cornell University faculty box</a></li></ul></div><div class="mw-category-group"><h3>A</h3>
+<ul><li><a href="/wiki/Wilbur_Cortez_Abbott" title="Wilbur Cortez Abbott">Wilbur Cortez Abbott</a></li>
+<li><a href="/wiki/John_M._Abowd" title="John M. Abowd">John M. Abowd</a></li>
+<li><a href="/wiki/M._H._Abrams" title="M. H. Abrams">M. H. Abrams</a></li>
 <li><a href="/wiki/Henry_Abramson" title="Henry Abramson">Henry Abramson</a></li>
-<li><a href="/wiki/Dilip_Abreu" title="Dilip Abreu">Dilip Abreu</a></li>
-<li><a href="/wiki/James_S._Ackerman" title="James S. Ackerman">James S. Ackerman</a></li>
-<li><a href="/wiki/William_Adam_(minister)" title="William Adam (minister)">William Adam (minister)</a></li>
-<li><a href="/wiki/Comfort_A._Adams" title="Comfort A. Adams">Comfort A. Adams</a></li>
-<li><a href="/wiki/Henry_Adams" title="Henry Adams">Henry Adams</a></li>
-<li><a href="/wiki/John_Quincy_Adams" title="John Quincy Adams">John Quincy Adams</a></li>
-<li><a href="/wiki/Asma_Afsaruddin" title="Asma Afsaruddin">Asma Afsaruddin</a></li>
+<li><a href="/wiki/Diane_Ackerman" title="Diane Ackerman">Diane Ackerman</a></li>
+<li><a href="/wiki/John_Adair_(anthropologist)" title="John Adair (anthropologist)">John Adair (anthropologist)</a></li>
+<li><a href="/wiki/Arthur_S._Adams" title="Arthur S. Adams">Arthur S. Adams</a></li>
+<li><a href="/wiki/Bristow_Adams" title="Bristow Adams">Bristow Adams</a></li>
+<li><a href="/wiki/Henry_Carter_Adams" title="Henry Carter Adams">Henry Carter Adams</a></li>
+<li><a href="/wiki/Joseph_Quincy_Adams_Jr." title="Joseph Quincy Adams Jr.">Joseph Quincy Adams Jr.</a></li>
 <li><a href="/wiki/Louis_Agassiz" title="Louis Agassiz">Louis Agassiz</a></li>
-<li><a href="/wiki/V._Kofi_Agawu" title="V. Kofi Agawu">V. Kofi Agawu</a></li>
-<li><a href="/wiki/Philippe_Aghion" title="Philippe Aghion">Philippe Aghion</a></li>
-<li><a href="/wiki/Lars_Ahlfors" title="Lars Ahlfors">Lars Ahlfors</a></li>
-<li><a href="/wiki/Ahn_Seong-eun" title="Ahn Seong-eun">Ahn Seong-eun</a></li>
-<li><a href="/wiki/Howard_H._Aiken" title="Howard H. Aiken">Howard H. Aiken</a></li>
-<li><a href="/wiki/Emmanuel_K._Akyeampong" title="Emmanuel K. Akyeampong">Emmanuel K. Akyeampong</a></li>
-<li><a href="/wiki/Pere_Alberch" title="Pere Alberch">Pere Alberch</a></li>
-<li><a href="/wiki/Robert_G._Albion" title="Robert G. Albion">Robert G. Albion</a></li>
-<li><a href="/wiki/Daniel_Albright" title="Daniel Albright">Daniel Albright</a></li>
+<li><a href="/wiki/Ralph_Palmer_Agnew" title="Ralph Palmer Agnew">Ralph Palmer Agnew</a></li>
+<li><a href="/wiki/Anurag_Agrawal" title="Anurag Agrawal">Anurag Agrawal</a></li>
+<li><a href="/wiki/Frederick_Ahl" title="Frederick Ahl">Frederick Ahl</a></li>
+<li><a href="/wiki/Ola_Akinboboye" title="Ola Akinboboye">Ola Akinboboye</a></li>
 <li><a href="/wiki/Rogers_Albritton" title="Rogers Albritton">Rogers Albritton</a></li>
-<li><a href="/wiki/Albert_Alcalay" title="Albert Alcalay">Albert Alcalay</a></li>
-<li><a href="/wiki/Raymond_Macdonald_Alden" title="Raymond Macdonald Alden">Raymond Macdonald Alden</a></li>
-<li><a href="/wiki/Alberto_Alesina" title="Alberto Alesina">Alberto Alesina</a></li>
-<li><a href="/wiki/Elizabeth_Alexander_(poet)" title="Elizabeth Alexander (poet)">Elizabeth Alexander (poet)</a></li>
-<li><a href="/wiki/John_Alford_(professor)" title="John Alford (professor)">John Alford (professor)</a></li>
-<li><a href="/wiki/William_Alfred" title="William Alfred">William Alfred</a></li>
-<li><a href="/wiki/Frederick_Madison_Allen" title="Frederick Madison Allen">Frederick Madison Allen</a></li>
-<li><a href="/wiki/William_Alonso" title="William Alonso">William Alonso</a></li>
-<li><a href="/wiki/Brian_Alters" title="Brian Alters">Brian Alters</a></li>
-<li><a href="/wiki/Dennis_Altman" title="Dennis Altman">Dennis Altman</a></li>
-<li><a href="/wiki/Alexander_Altmann" title="Alexander Altmann">Alexander Altmann</a></li>
-<li><a href="/wiki/Rudolph_Altrocchi" title="Rudolph Altrocchi">Rudolph Altrocchi</a></li>
-<li><a href="/wiki/Victor_Ambros" title="Victor Ambros">Victor Ambros</a></li>
-<li><a href="/wiki/Oakes_Ames_(botanist)" title="Oakes Ames (botanist)">Oakes Ames (botanist)</a></li>
-<li><a href="/wiki/Enrique_Anderson_Imbert" title="Enrique Anderson Imbert">Enrique Anderson Imbert</a></li>
-<li><a href="/wiki/Benjamin_Anderson" title="Benjamin Anderson">Benjamin Anderson</a></li>
-<li><a href="/wiki/Fred_Anderson_(historian)" title="Fred Anderson (historian)">Fred Anderson (historian)</a></li>
-<li><a href="/wiki/Julian_Anderson" title="Julian Anderson">Julian Anderson</a></li>
-<li><a href="/wiki/Lisa_Anderson" title="Lisa Anderson">Lisa Anderson</a></li>
-<li><a href="/wiki/Stephen_R._Anderson" title="Stephen R. Anderson">Stephen R. Anderson</a></li>
-<li><a href="/wiki/Jos%C3%A9_Andr%C3%A9s" title="José Andrés">José Andrés</a></li>
-<li><a href="/wiki/A._Piatt_Andrew" title="A. Piatt Andrew">A. Piatt Andrew</a></li>
-<li><a href="/wiki/Kenneth_Andrews_(sociologist)" title="Kenneth Andrews (sociologist)">Kenneth Andrews (sociologist)</a></li>
-<li><a href="/wiki/Ulrich_von_Andrian" title="Ulrich von Andrian">Ulrich von Andrian</a></li>
-<li><a href="/wiki/Joshua_Angrist" title="Joshua Angrist">Joshua Angrist</a></li>
-<li><a href="/wiki/Stephen_Ansolabehere" title="Stephen Ansolabehere">Stephen Ansolabehere</a></li>
-<li><a href="/wiki/Richard_T._Antoun" title="Richard T. Antoun">Richard T. Antoun</a></li>
-<li><a href="/wiki/Pol_Antr%C3%A0s" title="Pol Antràs">Pol Antràs</a></li>
-<li><a href="/wiki/Masahiko_Aoki" title="Masahiko Aoki">Masahiko Aoki</a></li>
-<li><a href="/wiki/Willi_Apel" title="Willi Apel">Willi Apel</a></li>
-<li><a href="/wiki/Yoni_Appelbaum" title="Yoni Appelbaum">Yoni Appelbaum</a></li>
+<li><a href="/wiki/Arthur_Augustus_Allen" title="Arthur Augustus Allen">Arthur Augustus Allen</a></li>
+<li><a href="/wiki/Glenn_C._Altschuler" title="Glenn C. Altschuler">Glenn C. Altschuler</a></li>
+<li><a href="/wiki/Alan_A._Altshuler" title="Alan A. Altshuler">Alan A. Altshuler</a></li>
+<li><a href="/wiki/Olivier_Ameisen" title="Olivier Ameisen">Olivier Ameisen</a></li>
+<li><a href="/wiki/Amit_Lal" title="Amit Lal">Amit Lal</a></li>
+<li><a href="/wiki/A._R._Ammons" title="A. R. Ammons">A. R. Ammons</a></li>
+<li><a href="/wiki/Benedict_Anderson" title="Benedict Anderson">Benedict Anderson</a></li>
+<li><a href="/wiki/John_L._Anderson" title="John L. Anderson">John L. Anderson</a></li>
+<li><a href="/wiki/Elisha_Andrews" title="Elisha Andrews">Elisha Andrews</a></li>
+<li><a href="/wiki/Christopher_Andronicos" title="Christopher Andronicos">Christopher Andronicos</a></li>
+<li><a href="/wiki/Frank_Angell" title="Frank Angell">Frank Angell</a></li>
+<li><a href="/wiki/William_Arnold_Anthony" title="William Arnold Anthony">William Arnold Anthony</a></li>
 <li><a href="/wiki/Kwame_Anthony_Appiah" title="Kwame Anthony Appiah">Kwame Anthony Appiah</a></li>
-<li><a href="/wiki/Jon_Appleton" title="Jon Appleton">Jon Appleton</a></li>
-<li><a href="/wiki/Bego%C3%B1a_Aretxaga" title="Begoña Aretxaga">Begoña Aretxaga</a></li>
-<li><a href="/wiki/Nima_Arkani-Hamed" title="Nima Arkani-Hamed">Nima Arkani-Hamed</a></li>
-<li><a href="/wiki/Rudolf_Arnheim" title="Rudolf Arnheim">Rudolf Arnheim</a></li>
-<li><a href="/wiki/Ali_S._Asani" title="Ali S. Asani">Ali S. Asani</a></li>
-<li><a href="/wiki/Solomon_Asch" title="Solomon Asch">Solomon Asch</a></li>
-<li><a href="/wiki/William_Ashley_(economic_historian)" title="William Ashley (economic historian)">William Ashley (economic historian)</a></li>
-<li><a href="/wiki/Peter_Shaw_Ashton" title="Peter Shaw Ashton">Peter Shaw Ashton</a></li>
-<li><a href="/wiki/Iulie_Aslaksen" title="Iulie Aslaksen">Iulie Aslaksen</a></li>
-<li><a href="/wiki/Iason_Athanasiadis" title="Iason Athanasiadis">Iason Athanasiadis</a></li>
-<li><a href="/wiki/Susan_Athey" title="Susan Athey">Susan Athey</a></li></ul></div><div class="mw-category-group"><h3>B</h3>
-<ul><li><a href="/wiki/Irving_Babbitt" title="Irving Babbitt">Irving Babbitt</a></li>
-<li><a href="/wiki/Judy_Baca" title="Judy Baca">Judy Baca</a></li>
-<li><a href="/wiki/Bernard_Bailyn" title="Bernard Bailyn">Bernard Bailyn</a></li>
-<li><a href="/wiki/Kenneth_Bainbridge" title="Kenneth Bainbridge">Kenneth Bainbridge</a></li>
-<li><a href="/wiki/Nirupam_Bajpai" title="Nirupam Bajpai">Nirupam Bajpai</a></li>
-<li><a href="/wiki/George_Pierce_Baker" title="George Pierce Baker">George Pierce Baker</a></li>
-<li><a href="/wiki/Howard_Baker_(poet)" title="Howard Baker (poet)">Howard Baker (poet)</a></li>
-<li><a href="/wiki/John_D._Baldeschwieler" title="John D. Baldeschwieler">John D. Baldeschwieler</a></li>
-<li><a href="/wiki/Robert_F._Bales" title="Robert F. Bales">Robert F. Bales</a></li>
-<li><a href="/wiki/Sallie_Baliunas" title="Sallie Baliunas">Sallie Baliunas</a></li>
-<li><a href="/wiki/Edward_Ballantine" title="Edward Ballantine">Edward Ballantine</a></li>
-<li><a href="/wiki/Mahzarin_Banaji" title="Mahzarin Banaji">Mahzarin Banaji</a></li>
-<li><a href="/wiki/Thomas_Banchoff" title="Thomas Banchoff">Thomas Banchoff</a></li>
+<li><a href="/wiki/Neil_Ashcroft" title="Neil Ashcroft">Neil Ashcroft</a></li>
+<li><a href="/wiki/Michael_Ashkin" title="Michael Ashkin">Michael Ashkin</a></li>
+<li><a href="/wiki/George_Francis_Atkinson" title="George Francis Atkinson">George Francis Atkinson</a></li>
+<li><a href="/wiki/Sanford_Soverhill_Atwood" title="Sanford Soverhill Atwood">Sanford Soverhill Atwood</a></li>
+<li><a href="/wiki/Avery_August" title="Avery August">Avery August</a></li>
+<li><a href="/wiki/James_Ax" title="James Ax">James Ax</a></li>
+<li><a href="/wiki/Ian_Axford" title="Ian Axford">Ian Axford</a></li></ul></div><div class="mw-category-group"><h3>B</h3>
+<ul><li><a href="/wiki/%C3%96zalp_Babao%C4%9Flu" title="Özalp Babaoğlu">Özalp Babaoğlu</a></li>
+<li><a href="/wiki/Charles_Babcock" title="Charles Babcock">Charles Babcock</a></li>
+<li><a href="/wiki/Samuel_B._Bacharach" title="Samuel B. Bacharach">Samuel B. Bacharach</a></li>
+<li><a href="/wiki/Robert_Bacher" title="Robert Bacher">Robert Bacher</a></li>
+<li><a href="/wiki/Liberty_Hyde_Bailey" title="Liberty Hyde Bailey">Liberty Hyde Bailey</a></li>
+<li><a href="/wiki/Joel_Baines" title="Joel Baines">Joel Baines</a></li>
+<li><a href="/wiki/N._H._Baker" title="N. H. Baker">N. H. Baker</a></li>
+<li><a href="/wiki/Robert_C._Baker" title="Robert C. Baker">Robert C. Baker</a></li>
 <li><a href="/wiki/Wilder_Dwight_Bancroft" title="Wilder Dwight Bancroft">Wilder Dwight Bancroft</a></li>
-<li><a href="/wiki/Mary_Jo_Bane" title="Mary Jo Bane">Mary Jo Bane</a></li>
-<li><a href="/wiki/Edward_C._Banfield" title="Edward C. Banfield">Edward C. Banfield</a></li>
-<li><a href="/wiki/Rajiv_Banker" title="Rajiv Banker">Rajiv Banker</a></li>
-<li><a href="/wiki/Augustin_Banyaga" title="Augustin Banyaga">Augustin Banyaga</a></li>
-<li><a href="/wiki/Dror_Bar-Natan" title="Dror Bar-Natan">Dror Bar-Natan</a></li>
-<li><a href="/wiki/Yaneer_Bar-Yam" title="Yaneer Bar-Yam">Yaneer Bar-Yam</a></li>
-<li><a href="/wiki/Ofer_Bar-Yosef" title="Ofer Bar-Yosef">Ofer Bar-Yosef</a></li>
-<li><a href="/wiki/Halim_Barakat" title="Halim Barakat">Halim Barakat</a></li>
-<li><a href="/wiki/Stanis%C5%82aw_Bara%C5%84czak" title="Stanisław Barańczak">Stanisław Barańczak</a></li>
-<li><a href="/wiki/Thomas_Barbour" title="Thomas Barbour">Thomas Barbour</a></li>
-<li><a href="/wiki/Elso_Sterrenberg_Barghoorn" title="Elso Sterrenberg Barghoorn">Elso Sterrenberg Barghoorn</a></li>
-<li><a href="/wiki/David_Barnett_(composer)" title="David Barnett (composer)">David Barnett (composer)</a></li>
-<li><a href="/wiki/Robert_Barro" title="Robert Barro">Robert Barro</a></li>
-<li><a href="/wiki/Carl_Georg_Barth" title="Carl Georg Barth">Carl Georg Barth</a></li>
-<li><a href="/wiki/Fredrik_Barth" title="Fredrik Barth">Fredrik Barth</a></li>
-<li><a href="/wiki/Paul_Doughty_Bartlett" title="Paul Doughty Bartlett">Paul Doughty Bartlett</a></li>
-<li><a href="/wiki/Marianne_Bastid-Brugui%C3%A8re" title="Marianne Bastid-Bruguière">Marianne Bastid-Bruguière</a></li>
-<li><a href="/wiki/Walter_Jackson_Bate" title="Walter Jackson Bate">Walter Jackson Bate</a></li>
-<li><a href="/wiki/Robert_Bates_(political_scientist)" title="Robert Bates (political scientist)">Robert Bates (political scientist)</a></li>
-<li><a href="/wiki/John_Batki" title="John Batki">John Batki</a></li>
-<li><a href="/wiki/Judith_Baumel" title="Judith Baumel">Judith Baumel</a></li>
-<li><a href="/wiki/James_Phinney_Baxter_III" title="James Phinney Baxter III">James Phinney Baxter III</a></li>
-<li><a href="/wiki/Fakhri_A._Bazzaz" title="Fakhri A. Bazzaz">Fakhri A. Bazzaz</a></li>
-<li><a href="/wiki/George_Beadle" title="George Beadle">George Beadle</a></li>
-<li><a href="/wiki/Ann_Beattie" title="Ann Beattie">Ann Beattie</a></li>
-<li><a href="/wiki/Paul-Alain_Beaulieu" title="Paul-Alain Beaulieu">Paul-Alain Beaulieu</a></li>
-<li><a href="/wiki/Sven_Beckert" title="Sven Beckert">Sven Beckert</a></li>
-<li><a href="/wiki/Samuel_Beer" title="Samuel Beer">Samuel Beer</a></li>
-<li><a href="/wiki/Frederick_C._Beiser" title="Frederick C. Beiser">Frederick C. Beiser</a></li>
-<li><a href="/wiki/Mark_R._Beissinger" title="Mark R. Beissinger">Mark R. Beissinger</a></li>
-<li><a href="/wiki/Georg_von_B%C3%A9k%C3%A9sy" title="Georg von Békésy">Georg von Békésy</a></li>
-<li><a href="/wiki/Daniel_Bell" title="Daniel Bell">Daniel Bell</a></li>
-<li><a href="/wiki/J._Bowyer_Bell" title="J. Bowyer Bell">J. Bowyer Bell</a></li>
-<li><a href="/wiki/Winthrop_Pickard_Bell" title="Winthrop Pickard Bell">Winthrop Pickard Bell</a></li>
-<li><a href="/wiki/Henry_Adams_Bellows_(businessman)" title="Henry Adams Bellows (businessman)">Henry Adams Bellows (businessman)</a></li>
+<li><a href="/wiki/Harlan_Parker_Banks" title="Harlan Parker Banks">Harlan Parker Banks</a></li>
+<li><a href="/wiki/Barbara_E._Ward" title="Barbara E. Ward">Barbara E. Ward</a></li>
+<li><a href="/wiki/Jack_Barchas" title="Jack Barchas">Jack Barchas</a></li>
+<li><a href="/wiki/Stephen_R._Barley" title="Stephen R. Barley">Stephen R. Barley</a></li>
+<li><a href="/wiki/Jos%C3%A9_Barreiro" title="José Barreiro">José Barreiro</a></li>
+<li><a href="/wiki/Nina_Bassuk" title="Nina Bassuk">Nina Bassuk</a></li>
+<li><a href="/wiki/Kaushik_Basu" title="Kaushik Basu">Kaushik Basu</a></li>
+<li><a href="/wiki/Michael_Baxandall" title="Michael Baxandall">Michael Baxandall</a></li>
+<li><a href="/wiki/Joseph_Beacham" title="Joseph Beacham">Joseph Beacham</a></li>
+<li><a href="/wiki/Rachel_Bean" title="Rachel Bean">Rachel Bean</a></li>
+<li><a href="/wiki/Alexander_Gordon_Bearn" title="Alexander Gordon Bearn">Alexander Gordon Bearn</a></li>
+<li><a href="/wiki/George_Bell_Jr." title="George Bell Jr.">George Bell Jr.</a></li>
+<li><a href="/wiki/James_F._Bell,_III" title="James F. Bell, III">James F. Bell, III</a></li>
 <li><a href="/wiki/Daryl_Bem" title="Daryl Bem">Daryl Bem</a></li>
-<li><a href="/wiki/Seyla_Benhabib" title="Seyla Benhabib">Seyla Benhabib</a></li>
-<li><a href="/wiki/Paul_B%C3%A9nichou" title="Paul Bénichou">Paul Bénichou</a></li>
-<li><a href="/wiki/Larry_Benson" title="Larry Benson">Larry Benson</a></li>
-<li><a href="/wiki/Sacvan_Bercovitch" title="Sacvan Bercovitch">Sacvan Bercovitch</a></li>
-<li><a href="/wiki/Howard_Berg" title="Howard Berg">Howard Berg</a></li>
-<li><a href="/wiki/Abram_Bergson" title="Abram Bergson">Abram Bergson</a></li>
-<li><a href="/wiki/Luciano_Berio" title="Luciano Berio">Luciano Berio</a></li>
-<li><a href="/wiki/Lisa_Berkman" title="Lisa Berkman">Lisa Berkman</a></li>
-<li><a href="/wiki/Peter_Berkowitz" title="Peter Berkowitz">Peter Berkowitz</a></li>
-<li><a href="/wiki/Ernest_Bernbaum" title="Ernest Bernbaum">Ernest Bernbaum</a></li>
-<li><a href="/wiki/Suzanne_Berne" title="Suzanne Berne">Suzanne Berne</a></li>
-<li><a href="/wiki/Brian_Berry" title="Brian Berry">Brian Berry</a></li>
-<li><a href="/wiki/Theodore_C._Bestor" title="Theodore C. Bestor">Theodore C. Bestor</a></li>
-<li><a href="/wiki/Homi_K._Bhabha" title="Homi K. Bhabha">Homi K. Bhabha</a></li>
-<li><a href="/wiki/Alok_Bhargava" title="Alok Bhargava">Alok Bhargava</a></li>
-<li><a href="/wiki/James_Bieri" title="James Bieri">James Bieri</a></li>
-<li><a href="/wiki/Henry_Bryant_Bigelow" title="Henry Bryant Bigelow">Henry Bryant Bigelow</a></li>
-<li><a href="/wiki/Jacob_Bigelow" title="Jacob Bigelow">Jacob Bigelow</a></li>
-<li><a href="/wiki/Marland_P._Billings" title="Marland P. Billings">Marland P. Billings</a></li>
-<li><a href="/wiki/James_H._Billington" title="James H. Billington">James H. Billington</a></li>
-<li><a href="/wiki/Hiram_Bingham_III" title="Hiram Bingham III">Hiram Bingham III</a></li>
-<li><a href="/wiki/Robert_C._Binkley" title="Robert C. Binkley">Robert C. Binkley</a></li>
-<li><a href="/wiki/Laurence_Binyon" title="Laurence Binyon">Laurence Binyon</a></li>
-<li><a href="/wiki/Francis_Birch_(geophysicist)" title="Francis Birch (geophysicist)">Francis Birch (geophysicist)</a></li>
-<li><a href="/wiki/Sven_Birkerts" title="Sven Birkerts">Sven Birkerts</a></li>
-<li><a href="/wiki/Garrett_Birkhoff" title="Garrett Birkhoff">Garrett Birkhoff</a></li>
-<li><a href="/wiki/George_David_Birkhoff" title="George David Birkhoff">George David Birkhoff</a></li>
-<li><a href="/wiki/Elizabeth_Bishop" title="Elizabeth Bishop">Elizabeth Bishop</a></li>
-<li><a href="/wiki/J._Seelye_Bixler" title="J. Seelye Bixler">J. Seelye Bixler</a></li>
-<li><a href="/wiki/John_D._Black" title="John D. Black">John D. Black</a></li>
-<li><a href="/wiki/David_Blackbourn" title="David Blackbourn">David Blackbourn</a></li>
-<li><a href="/wiki/Ann_M._Blair" title="Ann M. Blair">Ann M. Blair</a></li>
-<li><a href="/wiki/Robert_Pierpont_Blake" title="Robert Pierpont Blake">Robert Pierpont Blake</a></li>
-<li><a href="/wiki/Olivier_Blanchard" title="Olivier Blanchard">Olivier Blanchard</a></li>
-<li><a href="/wiki/Raoul_Blanchard" title="Raoul Blanchard">Raoul Blanchard</a></li>
-<li><a href="/wiki/Robert_Blendon" title="Robert Blendon">Robert Blendon</a></li>
-<li><a href="/wiki/Suzanne_Blier" title="Suzanne Blier">Suzanne Blier</a></li>
-<li><a href="/wiki/Herbert_Bloch" title="Herbert Bloch">Herbert Bloch</a></li>
-<li><a href="/wiki/Konrad_Emil_Bloch" title="Konrad Emil Bloch">Konrad Emil Bloch</a></li>
-<li><a href="/wiki/Steven_Block" title="Steven Block">Steven Block</a></li>
-<li><a href="/wiki/Nicolaas_Bloembergen" title="Nicolaas Bloembergen">Nicolaas Bloembergen</a></li>
-<li><a href="/wiki/Morton_W._Bloomfield" title="Morton W. Bloomfield">Morton W. Bloomfield</a></li>
-<li><a href="/wiki/Jeremy_Bloxham" title="Jeremy Bloxham">Jeremy Bloxham</a></li>
-<li><a href="/wiki/Lawrence_D._Bobo" title="Lawrence D. Bobo">Lawrence D. Bobo</a></li>
-<li><a href="/wiki/Maxime_B%C3%B4cher" title="Maxime Bôcher">Maxime Bôcher</a></li>
-<li><a href="/wiki/Jean_Sutherland_Boggs" title="Jean Sutherland Boggs">Jean Sutherland Boggs</a></li>
-<li><a href="/wiki/Yve-Alain_Bois" title="Yve-Alain Bois">Yve-Alain Bois</a></li>
-<li><a href="/wiki/Benjamin_Bolger" title="Benjamin Bolger">Benjamin Bolger</a></li>
-<li><a href="/wiki/Dwight_Bolinger" title="Dwight Bolinger">Dwight Bolinger</a></li>
-<li><a href="/wiki/Harold_Bolitho" title="Harold Bolitho">Harold Bolitho</a></li>
-<li><a href="/wiki/Kirsten_Bomblies" title="Kirsten Bomblies">Kirsten Bomblies</a></li>
-<li><a href="/wiki/Julian_Bond" title="Julian Bond">Julian Bond</a></li>
-<li><a href="/wiki/Floretta_Boonzaier" title="Floretta Boonzaier">Floretta Boonzaier</a></li>
+<li><a href="/wiki/Sandra_Bem" title="Sandra Bem">Sandra Bem</a></li>
+<li><a href="/wiki/Yosef_Ben-Jochannan" title="Yosef Ben-Jochannan">Yosef Ben-Jochannan</a></li>
+<li><a href="/wiki/Lourdes_Bener%C3%ADa" title="Lourdes Benería">Lourdes Benería</a></li>
+<li><a href="/wiki/Dorothea_Bennett" title="Dorothea Bennett">Dorothea Bennett</a></li>
+<li><a href="/wiki/Richard_Bensel" title="Richard Bensel">Richard Bensel</a></li>
+<li><a href="/wiki/I._Madison_Bentley" title="I. Madison Bentley">I. Madison Bentley</a></li>
+<li><a href="/wiki/Mabel_Berezin" title="Mabel Berezin">Mabel Berezin</a></li>
+<li><a href="/wiki/Rebecca_Berg_(writer)" title="Rebecca Berg (writer)">Rebecca Berg (writer)</a></li>
+<li><a href="/wiki/Toby_Berger" title="Toby Berger">Toby Berger</a></li>
+<li><a href="/wiki/Thomas_G._Bergin" title="Thomas G. Bergin">Thomas G. Bergin</a></li>
+<li><a href="/wiki/Hans_Bethe" title="Hans Bethe">Hans Bethe</a></li>
+<li><a href="/wiki/Louis_Billera" title="Louis Billera">Louis Billera</a></li>
+<li><a href="/wiki/Malcolm_Bilson" title="Malcolm Bilson">Malcolm Bilson</a></li>
+<li><a href="/wiki/Ken_Birman" title="Ken Birman">Ken Birman</a></li>
+<li><a href="/wiki/Morris_Bishop" title="Morris Bishop">Morris Bishop</a></li>
+<li><a href="/wiki/Ira_Black" title="Ira Black">Ira Black</a></li>
+<li><a href="/wiki/Max_Black" title="Max Black">Max Black</a></li>
+<li><a href="/wiki/Anne_Blackburn_(academic)" title="Anne Blackburn (academic)">Anne Blackburn (academic)</a></li>
+<li><a href="/wiki/Richard_Blahut" title="Richard Blahut">Richard Blahut</a></li>
+<li><a href="/wiki/Eli_Whitney_Blake_Jr." title="Eli Whitney Blake Jr.">Eli Whitney Blake Jr.</a></li>
+<li><a href="/wiki/G._Robert_Blakey" title="G. Robert Blakey">G. Robert Blakey</a></li>
+<li><a href="/wiki/Robert_G._Bland" title="Robert G. Bland">Robert G. Bland</a></li>
+<li><a href="/wiki/Sarah_Gibson_Blanding" title="Sarah Gibson Blanding">Sarah Gibson Blanding</a></li>
+<li><a href="/wiki/John_Paul_Blass" title="John Paul Blass">John Paul Blass</a></li>
+<li><a href="/wiki/Francine_D._Blau" title="Francine D. Blau">Francine D. Blau</a></li>
+<li><a href="/wiki/Allan_Bloom" title="Allan Bloom">Allan Bloom</a></li>
+<li><a href="/wiki/Mia_Bloom" title="Mia Bloom">Mia Bloom</a></li>
+<li><a href="/wiki/Lawrence_E._Blume" title="Lawrence E. Blume">Lawrence E. Blume</a></li>
+<li><a href="/wiki/Oheneba_Boachie-Adjei" title="Oheneba Boachie-Adjei">Oheneba Boachie-Adjei</a></li>
+<li><a href="/wiki/Helen_Boatwright" title="Helen Boatwright">Helen Boatwright</a></li>
+<li><a href="/wiki/Eberhard_Bodenschatz" title="Eberhard Bodenschatz">Eberhard Bodenschatz</a></li>
+<li><a href="/wiki/Nicholas_Bodman" title="Nicholas Bodman">Nicholas Bodman</a></li>
+<li><a href="/wiki/Tobias_de_Boer" title="Tobias de Boer">Tobias de Boer</a></li>
+<li><a href="/wiki/Adam_Bogdanove" title="Adam Bogdanove">Adam Bogdanove</a></li>
+<li><a href="/wiki/Bruno_A._Boley" title="Bruno A. Boley">Bruno A. Boley</a></li>
+<li><a href="/wiki/John_A._Boockvar" title="John A. Boockvar">John A. Boockvar</a></li>
+<li><a href="/wiki/Henry_G._Booker" title="Henry G. Booker">Henry G. Booker</a></li>
+<li><a href="/wiki/David_Borden" title="David Borden">David Borden</a></li>
 <li><a href="/wiki/Edwin_Boring" title="Edwin Boring">Edwin Boring</a></li>
-<li><a href="/wiki/Axel_B%C3%B6rsch-Supan" title="Axel Börsch-Supan">Axel Börsch-Supan</a></li>
-<li><a href="/wiki/Sugata_Bose" title="Sugata Bose">Sugata Bose</a></li>
-<li><a href="/wiki/Michael_Boskin" title="Michael Boskin">Michael Boskin</a></li>
-<li><a href="/wiki/Raoul_Bott" title="Raoul Bott">Raoul Bott</a></li>
-<li><a href="/wiki/Charles_L._Bouton" title="Charles L. Bouton">Charles L. Bouton</a></li>
-<li><a href="/wiki/Charles_Pickering_Bowditch" title="Charles Pickering Bowditch">Charles Pickering Bowditch</a></li>
-<li><a href="/wiki/Francis_Bowen" title="Francis Bowen">Francis Bowen</a></li>
-<li><a href="/wiki/Maurice_Bowra" title="Maurice Bowra">Maurice Bowra</a></li>
-<li><a href="/wiki/Daniel_Boyarin" title="Daniel Boyarin">Daniel Boyarin</a></li>
+<li><a href="/wiki/Amitava_Bose" title="Amitava Bose">Amitava Bose</a></li>
+<li><a href="/wiki/George_Bosl" title="George Bosl">George Bosl</a></li>
+<li><a href="/wiki/Bruno_Bosteels" title="Bruno Bosteels">Bruno Bosteels</a></li>
+<li><a href="/wiki/Cynthia_Grant_Bowman" title="Cynthia Grant Bowman">Cynthia Grant Bowman</a></li>
+<li><a href="/wiki/Jonathan_Boyarin" title="Jonathan Boyarin">Jonathan Boyarin</a></li>
 <li><a href="/wiki/Richard_Boyd" title="Richard Boyd">Richard Boyd</a></li>
-<li><a href="/wiki/Svetlana_Boym" title="Svetlana Boym">Svetlana Boym</a></li>
-<li><a href="/wiki/Scott_Bradner" title="Scott Bradner">Scott Bradner</a></li>
-<li><a href="/wiki/Allan_M._Brandt" title="Allan M. Brandt">Allan M. Brandt</a></li>
-<li><a href="/wiki/Percy_Williams_Bridgman" title="Percy Williams Bridgman">Percy Williams Bridgman</a></li>
-<li><a href="/wiki/LeBaron_Russell_Briggs" title="LeBaron Russell Briggs">LeBaron Russell Briggs</a></li>
-<li><a href="/wiki/Winslow_Briggs" title="Winslow Briggs">Winslow Briggs</a></li>
-<li><a href="/wiki/L%C3%A9on_Brillouin" title="Léon Brillouin">Léon Brillouin</a></li>
-<li><a href="/wiki/Andrew_Brimmer" title="Andrew Brimmer">Andrew Brimmer</a></li>
-<li><a href="/wiki/Reinhold_Brinkmann" title="Reinhold Brinkmann">Reinhold Brinkmann</a></li>
-<li><a href="/wiki/Crane_Brinton" title="Crane Brinton">Crane Brinton</a></li>
-<li><a href="/wiki/Roslyn_Brogue" title="Roslyn Brogue">Roslyn Brogue</a></li>
-<li><a href="/wiki/Alvin_Bronstein" title="Alvin Bronstein">Alvin Bronstein</a></li>
-<li><a href="/wiki/Harvey_Brooks_(physicist)" title="Harvey Brooks (physicist)">Harvey Brooks (physicist)</a></li>
-<li><a href="/wiki/Charles-%C3%89douard_Brown-S%C3%A9quard" title="Charles-Édouard Brown-Séquard">Charles-Édouard Brown-Séquard</a></li>
-<li><a href="/wiki/Alan_A._Brown" title="Alan A. Brown">Alan A. Brown</a></li>
-<li><a href="/wiki/Jeffrey_Brown_(professor)" title="Jeffrey Brown (professor)">Jeffrey Brown (professor)</a></li>
-<li><a href="/wiki/Letitia_Woods_Brown" title="Letitia Woods Brown">Letitia Woods Brown</a></li>
-<li><a href="/wiki/Myles_A._Brown" title="Myles A. Brown">Myles A. Brown</a></li>
-<li><a href="/wiki/Philip_Marshall_Brown" title="Philip Marshall Brown">Philip Marshall Brown</a></li>
-<li><a href="/wiki/Roger_Brown_(psychologist)" title="Roger Brown (psychologist)">Roger Brown (psychologist)</a></li></ul></div></div></div>(previous page) (<a href="/w/index.php?title=Category:Harvard_University_faculty&amp;pagefrom=Brown%2C+Vincent%0AVincent+Brown+%28historian%29#mw-pages" title="Category:Harvard University faculty">next page</a>)
+<li><a href="/wiki/George_Boyer" title="George Boyer">George Boyer</a></li>
+<li><a href="/wiki/Hjalmar_Hjorth_Boyesen" title="Hjalmar Hjorth Boyesen">Hjalmar Hjorth Boyesen</a></li>
+<li><a href="/wiki/Edward_Boyse" title="Edward Boyse">Edward Boyse</a></li>
+<li><a href="/wiki/Ross_Brann" title="Ross Brann">Ross Brann</a></li>
+<li><a href="/wiki/Karen_Brazell" title="Karen Brazell">Karen Brazell</a></li>
+<li><a href="/wiki/Anthony_P._Bretscher" title="Anthony P. Bretscher">Anthony P. Bretscher</a></li>
+<li><a href="/wiki/James_Bright" title="James Bright">James Bright</a></li>
+<li><a href="/wiki/Marcel_R.M._van_den_Brink" title="Marcel R.M. van den Brink">Marcel R.M. van den Brink</a></li>
+<li><a href="/wiki/Charles_Francis_Brittain" title="Charles Francis Brittain">Charles Francis Brittain</a></li>
+<li><a href="/wiki/Harold_Brodkey" title="Harold Brodkey">Harold Brodkey</a></li>
+<li><a href="/wiki/Kate_Bronfenbrenner" title="Kate Bronfenbrenner">Kate Bronfenbrenner</a></li>
+<li><a href="/wiki/Urie_Bronfenbrenner" title="Urie Bronfenbrenner">Urie Bronfenbrenner</a></li>
+<li><a href="/wiki/Kenneth_Brown_(mathematician)" title="Kenneth Brown (mathematician)">Kenneth Brown (mathematician)</a></li>
+<li><a href="/wiki/Lawrence_D._Brown" title="Lawrence D. Brown">Lawrence D. Brown</a></li>
+<li><a href="/wiki/Wayles_Browne" title="Wayles Browne">Wayles Browne</a></li>
+<li><a href="/wiki/Thomas_R._Bruce" title="Thomas R. Bruce">Thomas R. Bruce</a></li>
+<li><a href="/wiki/Thomas_Bruice" title="Thomas Bruice">Thomas Bruice</a></li>
+<li><a href="/wiki/Joan_Jacobs_Brumberg" title="Joan Jacobs Brumberg">Joan Jacobs Brumberg</a></li>
+<li><a href="/wiki/Merritt_Bucholz" title="Merritt Bucholz">Merritt Bucholz</a></li>
+<li><a href="/wiki/Charles_J._Bullock" title="Charles J. Bullock">Charles J. Bullock</a></li>
+<li><a href="/wiki/Walter_H._Burkholder" title="Walter H. Burkholder">Walter H. Burkholder</a></li>
+<li><a href="/wiki/Joseph_A._Burns" title="Joseph A. Burns">Joseph A. Burns</a></li>
+<li><a href="/wiki/George_Lincoln_Burr" title="George Lincoln Burr">George Lincoln Burr</a></li>
+<li><a href="/wiki/Edwin_Arthur_Burtt" title="Edwin Arthur Burtt">Edwin Arthur Burtt</a></li>
+<li><a href="/wiki/Frederick_H._Buttel" title="Frederick H. Buttel">Frederick H. Buttel</a></li></ul></div><div class="mw-category-group"><h3>C</h3>
+<ul><li><a href="/wiki/George_Chapman_Caldwell" title="George Chapman Caldwell">George Chapman Caldwell</a></li>
+<li><a href="/wiki/Donald_B._Campbell" title="Donald B. Campbell">Donald B. Campbell</a></li>
+<li><a href="/wiki/Neil_Campbell_(scientist)" title="Neil Campbell (scientist)">Neil Campbell (scientist)</a></li>
+<li><a href="/wiki/T._Colin_Campbell" title="T. Colin Campbell">T. Colin Campbell</a></li>
+<li><a href="/wiki/Herbert_Carlin" title="Herbert Carlin">Herbert Carlin</a></li>
+<li><a href="/wiki/Rolla_C._Carpenter" title="Rolla C. Carpenter">Rolla C. Carpenter</a></li>
+<li><a href="/wiki/Mario_Carpo" title="Mario Carpo">Mario Carpo</a></li>
+<li><a href="/wiki/H._G._Carrillo" title="H. G. Carrillo">H. G. Carrillo</a></li>
+<li><a href="/wiki/Peter_A._Carruthers" title="Peter A. Carruthers">Peter A. Carruthers</a></li>
+<li><a href="/wiki/Elliott_Carter" title="Elliott Carter">Elliott Carter</a></li>
+<li><a href="/wiki/Lisle_C._Carter" title="Lisle C. Carter">Lisle C. Carter</a></li>
+<li><a href="/wiki/Cathy_Caruth" title="Cathy Caruth">Cathy Caruth</a></li>
+<li><a href="/wiki/Lourdes_Casanova" title="Lourdes Casanova">Lourdes Casanova</a></li>
+<li><a href="/wiki/George_Casella" title="George Casella">George Casella</a></li>
+<li><a href="/wiki/Carlos_Castillo-Chavez" title="Carlos Castillo-Chavez">Carlos Castillo-Chavez</a></li>
+<li><a href="/wiki/Stephen_J._Ceci" title="Stephen J. Ceci">Stephen J. Ceci</a></li>
+<li><a href="/wiki/Daniel_Henry_Chamberlain" title="Daniel Henry Chamberlain">Daniel Henry Chamberlain</a></li>
+<li><a href="/wiki/David_P._Chandler" title="David P. Chandler">David P. Chandler</a></li>
+<li><a href="/wiki/Robert_F._Chandler" title="Robert F. Chandler">Robert F. Chandler</a></li>
+<li><a href="/wiki/William_Henry_Chandler_(botanist)" title="William Henry Chandler (botanist)">William Henry Chandler (botanist)</a></li>
+<li><a href="/wiki/Yuen_Ren_Chao" title="Yuen Ren Chao">Yuen Ren Chao</a></li>
+<li><a href="/wiki/Eliot_Chapple" title="Eliot Chapple">Eliot Chapple</a></li>
+<li><a href="/wiki/Peter_Chelsom" title="Peter Chelsom">Peter Chelsom</a></li>
+<li><a href="/wiki/Tsuhan_Chen" title="Tsuhan Chen">Tsuhan Chen</a></li>
+<li><a href="/wiki/Frank_A._Chervenak" title="Frank A. Chervenak">Frank A. Chervenak</a></li>
+<li><a href="/wiki/Gennaro_Chierchia" title="Gennaro Chierchia">Gennaro Chierchia</a></li>
+<li><a href="/wiki/Kasturi_Lal_Chopra" title="Kasturi Lal Chopra">Kasturi Lal Chopra</a></li>
+<li><a href="/wiki/Morten_H._Christiansen" title="Morten H. Christiansen">Morten H. Christiansen</a></li>
+<li><a href="/wiki/Chung_Kai-lai" title="Chung Kai-lai">Chung Kai-lai</a></li>
+<li><a href="/wiki/Wendy_Chung" title="Wendy Chung">Wendy Chung</a></li>
+<li><a href="/wiki/H%C3%A9l%C3%A8ne_Cixous" title="Hélène Cixous">Hélène Cixous</a></li>
+<li><a href="/wiki/Andrew_G._Clark" title="Andrew G. Clark">Andrew G. Clark</a></li>
+<li><a href="/wiki/David_Delano_Clark" title="David Delano Clark">David Delano Clark</a></li>
+<li><a href="/wiki/Paul_Clark_(educator)" title="Paul Clark (educator)">Paul Clark (educator)</a></li>
+<li><a href="/wiki/Frank_Wigglesworth_Clarke" title="Frank Wigglesworth Clarke">Frank Wigglesworth Clarke</a></li>
+<li><a href="/wiki/Gilmore_David_Clarke" title="Gilmore David Clarke">Gilmore David Clarke</a></li>
+<li><a href="/wiki/John_Cleese" title="John Cleese">John Cleese</a></li>
+<li><a href="/wiki/Nick_Clements" title="Nick Clements">Nick Clements</a></li>
+<li><a href="/wiki/Sherman_Cochran" title="Sherman Cochran">Sherman Cochran</a></li>
+<li><a href="/wiki/Jacques_Cohen" title="Jacques Cohen">Jacques Cohen</a></li>
+<li><a href="/wiki/Morris_Raphael_Cohen" title="Morris Raphael Cohen">Morris Raphael Cohen</a></li>
+<li><a href="/wiki/Michael_J._Colacurcio" title="Michael J. Colacurcio">Michael J. Colacurcio</a></li>
+<li><a href="/wiki/D._Jackson_Coleman" title="D. Jackson Coleman">D. Jackson Coleman</a></li>
+<li><a href="/wiki/Charles_Coles" title="Charles Coles">Charles Coles</a></li>
+<li><a href="/wiki/Richard_A._Compton" title="Richard A. Compton">Richard A. Compton</a></li>
+<li><a href="/wiki/Anna_Botsford_Comstock" title="Anna Botsford Comstock">Anna Botsford Comstock</a></li>
+<li><a href="/wiki/John_Henry_Comstock" title="John Henry Comstock">John Henry Comstock</a></li>
+<li><a href="/wiki/Theodore_B._Comstock" title="Theodore B. Comstock">Theodore B. Comstock</a></li>
+<li><a href="/wiki/Robert_Connelly" title="Robert Connelly">Robert Connelly</a></li>
+<li><a href="/wiki/Robert_Lee_Constable" title="Robert Lee Constable">Robert Lee Constable</a></li>
+<li><a href="/wiki/David_Conte" title="David Conte">David Conte</a></li>
+<li><a href="/wiki/Alice_Cook_(professor)" title="Alice Cook (professor)">Alice Cook (professor)</a></li>
+<li><a href="/wiki/William_J._Cook" title="William J. Cook">William J. Cook</a></li>
+<li><a href="/wiki/Arnold_Cooper" title="Arnold Cooper">Arnold Cooper</a></li>
+<li><a href="/wiki/Morris_Copeland" title="Morris Copeland">Morris Copeland</a></li>
+<li><a href="/wiki/Hiram_Corson" title="Hiram Corson">Hiram Corson</a></li>
+<li><a href="/wiki/Frederick_Vernon_Coville" title="Frederick Vernon Coville">Frederick Vernon Coville</a></li>
+<li><a href="/wiki/J_Milton_Cowan" title="J Milton Cowan">J Milton Cowan</a></li>
+<li><a href="/wiki/Edward_G._Cox" title="Edward G. Cox">Edward G. Cox</a></li>
+<li><a href="/wiki/James_Crafts" title="James Crafts">James Crafts</a></li>
+<li><a href="/wiki/Harold_Craighead" title="Harold Craighead">Harold Craighead</a></li>
+<li><a href="/wiki/Edmund_Cranch" title="Edmund Cranch">Edmund Cranch</a></li>
+<li><a href="/wiki/Thomas_Frederick_Crane" title="Thomas Frederick Crane">Thomas Frederick Crane</a></li>
+<li><a href="/wiki/Harriet_Creighton" title="Harriet Creighton">Harriet Creighton</a></li>
+<li><a href="/wiki/James_Edwin_Creighton" title="James Edwin Creighton">James Edwin Creighton</a></li>
+<li><a href="/wiki/Cyrus_R._Crosby" title="Cyrus R. Crosby">Cyrus R. Crosby</a></li>
+<li><a href="/wiki/K._Patricia_Cross" title="K. Patricia Cross">K. Patricia Cross</a></li>
+<li><a href="/wiki/William_E._Cross_Jr." title="William E. Cross Jr.">William E. Cross Jr.</a></li></ul></div></div></div>(previous page) (<a href="/w/index.php?title=Category:Cornell_University_faculty&amp;pagefrom=Csaki%2C+Csaba%0ACsaba+Cs%C3%A1ki#mw-pages" title="Category:Cornell University faculty">next page</a>)
 </div></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
-						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Category:Harvard_University_faculty&amp;oldid=641875683">https://en.wikipedia.org/w/index.php?title=Category:Harvard_University_faculty&amp;oldid=641875683</a>"					</div>
-				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Faculty_by_university_or_college_in_Massachusetts" title="Category:Faculty by university or college in Massachusetts">Faculty by university or college in Massachusetts</a></li><li><a href="/wiki/Category:Harvard_University_people" title="Category:Harvard University people">Harvard University people</a></li></ul></div></div>				<div class="visualClear"></div>
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Category:Cornell_University_faculty&amp;oldid=792492291">https://en.wikipedia.org/w/index.php?title=Category:Cornell_University_faculty&amp;oldid=792492291</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cornell_University_people" title="Category:Cornell University people">Cornell University people</a></li><li><a href="/wiki/Category:Faculty_by_university_or_college_in_New_York_(state)" title="Category:Faculty by university or college in New York (state)">Faculty by university or college in New York (state)</a></li></ul></div></div>				<div class="visualClear"></div>
 							</div>
 		</div>
 		<div id="mw-navigation">
-			<h2>Navigation menu</h2>
-
-			<div id="mw-head">
-									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
-						<h3 id="p-personal-label">Personal tools</h3>
-						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Category%3AHarvard+University+faculty" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Category%3AHarvard+University+faculty" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
-					</div>
-									<div id="left-navigation">
-										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
-						<h3 id="p-namespaces-label">Namespaces</h3>
-						<ul>
-														<li id="ca-nstab-category" class="selected"><span><a href="/wiki/Category:Harvard_University_faculty" title="View the category page [c]" accesskey="c">Category</a></span></li>
-							<li id="ca-talk"><span><a href="/wiki/Category_talk:Harvard_University_faculty" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
-						</ul>
-					</div>
-										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
-												<h3 id="p-variants-label">
-							<span>Variants</span>
-						</h3>
-
-						<div class="menu">
-							<ul>
-															</ul>
-						</div>
-					</div>
-									</div>
-				<div id="right-navigation">
-										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
-						<h3 id="p-views-label">Views</h3>
-						<ul>
-														<li id="ca-view" class="selected"><span><a href="/wiki/Category:Harvard_University_faculty">Read</a></span></li>
-							<li id="ca-edit"><span><a href="/w/index.php?title=Category:Harvard_University_faculty&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
-							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Category:Harvard_University_faculty&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
-						</ul>
-					</div>
-										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
-						<h3 id="p-cactions-label"><span>More</span></h3>
-
-						<div class="menu">
-							<ul>
-															</ul>
-						</div>
-					</div>
-										<div id="p-search" role="search">
-						<h3>
-							<label for="searchInput">Search</label>
-						</h3>
-
-						<form action="/w/index.php" id="searchform">
-							<div id="simpleSearch">
-							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
-						</form>
-					</div>
-									</div>
-			</div>
-			<div id="mw-panel">
-				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
-						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
-			<h3 id='p-navigation-label'>Navigation</h3>
-
-			<div class="body">
-									<ul>
-						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
-			<h3 id='p-interaction-label'>Interaction</h3>
-
-			<div class="body">
-									<ul>
-						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
-			<h3 id='p-tb-label'>Tools</h3>
-
-			<div class="body">
-									<ul>
-						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Category:Harvard_University_faculty" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Category:Harvard_University_faculty" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Category:Harvard_University_faculty&amp;oldid=641875683" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Category:Harvard_University_faculty&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6376057" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
-			<h3 id='p-coll-print_export-label'>Print/export</h3>
-
-			<div class="body">
-									<ul>
-						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Category%3AHarvard+University+faculty">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Category%3AHarvard+University+faculty&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DCategory%253AHarvard%2BUniversity%2Bfaculty%26returnto%3DCategory%253AHarvard%2BUniversity%2Bfaculty%26oldid%3D641875683%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Category:Harvard_University_faculty&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
-			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
-
-			<div class="body">
-									<ul>
-						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Faculty_of_Harvard_University" hreflang="en">Wikimedia Commons</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
-			<h3 id='p-lang-label'>Languages</h3>
-
-			<div class="body">
-									<ul>
-						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81:%D9%87%D9%8A%D8%A6%D8%A9_%D8%AA%D8%AF%D8%B1%D9%8A%D8%B3_%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D9%87%D8%A7%D8%B1%D9%81%D8%A7%D8%B1%D8%AF" title="تصنيف:هيئة تدريس جامعة هارفارد – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A6%AF%E0%A6%BC%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A7%80:%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A1_%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0_%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%95" title="বিষয়শ্রেণী:হার্ভার্ড বিশ্ববিদ্যালয়ের শিক্ষক – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D1%8D%D0%B3%D0%BE%D1%80%D1%8B%D1%8F:%D0%92%D1%8B%D0%BA%D0%BB%D0%B0%D0%B4%D1%87%D1%8B%D0%BA%D1%96_%D0%93%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%B4%D1%81%D0%BA%D0%B0%D0%B3%D0%B0_%D1%9E%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D1%96%D1%82%D1%8D%D1%82%D0%B0" title="Катэгорыя:Выкладчыкі Гарвардскага ўніверсітэта – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_%D0%B2_%D0%A5%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%B4%D1%81%D0%BA%D0%B8%D1%8F_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Категория:Преподаватели в Харвардския университет – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Categoria:Professors_de_la_Universitat_Harvard" title="Categoria:Professors de la Universitat Harvard – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Categori:Academyddion_Prifysgol_Harvard" title="Categori:Academyddion Prifysgol Harvard – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Kategori:Ansatte_ved_Harvard_University" title="Kategori:Ansatte ved Harvard University – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Kategorie:Hochschullehrer_(Harvard_University)" title="Kategorie:Hochschullehrer (Harvard University) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Categor%C3%ADa:Profesores_de_la_Universidad_de_Harvard" title="Categoría:Profesores de la Universidad de Harvard – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B1%D8%AF%D9%87:%D8%A7%D8%B3%D8%AA%D8%A7%D8%AF%D8%A7%D9%86_%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%D9%87%D8%A7%D8%B1%D9%88%D8%A7%D8%B1%D8%AF" title="رده:استادان دانشگاه هاروارد – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Professeur_%C3%A0_l%27universit%C3%A9_Harvard" title="Catégorie:Professeur à l'université Harvard – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Categor%C3%ADa:Profesores_da_Universidade_Harvard" title="Categoría:Profesores da Universidade Harvard – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%B6%84%EB%A5%98:%ED%95%98%EB%B2%84%EB%93%9C_%EB%8C%80%ED%95%99%EA%B5%90_%EA%B5%90%EC%88%98" title="분류:하버드 대학교 교수 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Categoria:Professori_dell%27Universit%C3%A0_di_Harvard" title="Categoria:Professori dell'Università di Harvard – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%A1%D7%92%D7%9C_%D7%90%D7%95%D7%A0%D7%99%D7%91%D7%A8%D7%A1%D7%99%D7%98%D7%AA_%D7%94%D7%A8%D7%95%D7%95%D7%90%D7%A8%D7%93" title="קטגוריה:סגל אוניברסיטת הרווארד – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Categoria:Professores_Universitatis_Harvardianae" title="Categoria:Professores Universitatis Harvardianae – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B5%E0%B5%BC%E0%B4%97%E0%B5%8D%E0%B4%97%E0%B4%82:%E0%B4%B9%E0%B4%BE%E0%B5%BC%E0%B4%B5%E0%B4%BE%E0%B5%BC%E0%B4%A1%E0%B5%8D_%E0%B4%B8%E0%B5%BC%E0%B4%B5%E0%B4%95%E0%B4%B2%E0%B4%BE%E0%B4%B6%E0%B4%BE%E0%B4%B2%E0%B4%BE_%E0%B4%85%E0%B4%A6%E0%B5%8D%E0%B4%A7%E0%B5%8D%E0%B4%AF%E0%B4%BE%E0%B4%AA%E0%B4%95%E0%B5%BC" title="വർഗ്ഗം:ഹാർവാർഡ് സർവകലാശാലാ അദ്ധ്യാപകർ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Category:%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC%E3%83%89%E5%A4%A7%E5%AD%A6%E3%81%AE%E6%95%99%E5%93%A1" title="Category:ハーバード大学の教員 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Kategori:Vitenskapelig_ansatte_ved_Harvard_University" title="Kategori:Vitenskapelig ansatte ved Harvard University – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Categoria:Professores_da_Universidade_Harvard" title="Categoria:Professores da Universidade Harvard – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_%D0%93%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%B4%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%B0" title="Категория:Преподаватели Гарвардского университета – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Category:Harvard_Varsity_faculty" title="Category:Harvard Varsity faculty – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Kateg%C3%B3ria:Vyu%C4%8Duj%C3%BAci_Harvard_university" title="Kategória:Vyučujúci Harvard university – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Kategorija:Predavatelji_na_Univerzi_Harvard" title="Kategorija:Predavatelji na Univerzi Harvard – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Kategori:Personer_verksamma_vid_Harvard_University" title="Kategori:Personer verksamma vid Harvard University – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Kategori:Harvard_%C3%9Cniversitesi_%C3%B6%C4%9Fretim_%C3%BCyeleri" title="Kategori:Harvard Üniversitesi öğretim üyeleri – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%92%D0%B8%D0%BA%D0%BB%D0%B0%D0%B4%D0%B0%D1%87%D1%96_%D0%93%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%B4%D1%81%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE_%D1%83%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D1%83" title="Категорія:Викладачі Гарвардського університету – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Category:%E5%93%88%E4%BD%9B%E5%A4%A7%E5%AD%B8%E6%95%99%E5%B8%AB" title="Category:哈佛大學教師 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6376057#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
-		</div>
-				</div>
-		</div>
-		<div id="footer" role="contentinfo">
-							<ul id="footer-info">
-											<li id="footer-info-lastmod"> This page was last edited on 10 January 2015, at 14:52.</li>
-											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
-additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
-									</ul>
-							<ul id="footer-places">
-											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
-											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
-											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
-											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
-											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
-											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
-											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Category:Harvard_University_faculty&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
-									</ul>
-										<ul id="footer-icons" class="noprint">
-											<li id="footer-copyrightico">
-							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
-											<li id="footer-poweredbyico">
-							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
-									</ul>
-						<div style="clear:both"></div>
-		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.036","walltime":"0.056","ppvisitednodes":{"value":236,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":10478,"limit":2097152},"templateargumentsize":{"value":378,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%   50.008      1 -total"," 77.57%   38.789      1 Template:Commons_cat"," 41.30%   20.651      1 Template:Commons"," 38.93%   19.469      1 Template:Sister_project"," 33.90%   16.955      1 Template:Side_box"," 22.28%   11.144      1 Template:CategoryTOC","  7.98%    3.992      1 Template:TOC_top","  4.50%    2.252      1 MediaWiki:Toc","  1.91%    0.954      1 Template:TOC_bottom"]},"scribunto":{"limitreport-timeusage":{"value":"0.004","limit":"10.000"},"limitreport-memusage":{"value":581633,"limit":52428800}},"cachereport":{"origin":"mw1213","timestamp":"20170920180620","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":140,"wgHostname":"mw1214"});});</script>
-	</body>
-</html>

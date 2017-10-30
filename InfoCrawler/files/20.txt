@@ -1,45 +1,4 @@
-<!DOCTYPE html>
-<html class="client-nojs" lang="en" dir="ltr">
-<head>
-<meta charset="UTF-8"/>
-<title>Wikipedia, the free encyclopedia</title>
-<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Main_Page","wgTitle":"Main Page","wgCurRevisionId":798174323,"wgRevisionId":798174323,"wgArticleId":15580374,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Main_Page","wgRelevantArticleId":15580374,"wgRequestId":"Wcnb@ApAME0AAEcomdkAAABK","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
-mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
-
-});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
-<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
-<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
-<meta name="ResourceLoaderDynamicStyles" content=""/>
-<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
-<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
-<meta name="referrer" content="origin-when-cross-origin"/>
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Enicurus_leschenaultii_-_1825-1834_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ16300131.tif/lossy-page1-1200px-Enicurus_leschenaultii_-_1825-1834_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ16300131.tif.jpg"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Main_Page"/>
-<link rel="alternate" type="application/atom+xml" title="Wikipedia picture of the day feed" href="/w/api.php?action=featuredfeed&amp;feed=potd&amp;feedformat=atom"/>
-<link rel="alternate" type="application/atom+xml" title="Wikipedia featured articles feed" href="/w/api.php?action=featuredfeed&amp;feed=featured&amp;feedformat=atom"/>
-<link rel="alternate" type="application/atom+xml" title="Wikipedia &quot;On this day...&quot; feed" href="/w/api.php?action=featuredfeed&amp;feed=onthisday&amp;feedformat=atom"/>
-<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
-<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
-<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
-<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
-<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Main_Page"/>
-<link rel="dns-prefetch" href="//login.wikimedia.org"/>
-<link rel="dns-prefetch" href="//meta.wikimedia.org" />
-<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
-</head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Main_Page rootpage-Main_Page skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
-		<div id="mw-head-base" class="noprint"></div>
-		<div id="content" class="mw-body" role="main">
-			<a id="top"></a>
-
-							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
-						<div class="mw-indicators mw-body-content">
-</div>
-			<h1 id="firstHeading" class="firstHeading" lang="en">Main Page</h1>
-									<div id="bodyContent" class="mw-body-content">
+<div id="bodyContent" class="mw-body-content">
 									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
 								<div id="contentSub"></div>
 												<div id="jump-to-nav" class="mw-jump">
@@ -49,7 +8,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <div style="margin:0.4em; width:22em; text-align:center;">
 <div style="font-size:162%; padding:.1em;">Welcome to <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>,</div>
 <div style="font-size:95%;">the <a href="/wiki/Free_content" title="Free content">free</a> <a href="/wiki/Encyclopedia" title="Encyclopedia">encyclopedia</a> that <a href="/wiki/Wikipedia:Introduction" title="Wikipedia:Introduction">anyone can edit</a>.</div>
-<div id="articlecount" style="font-size:85%;"><a href="/wiki/Special:Statistics" title="Special:Statistics">5,483,397</a> articles in <a href="/wiki/English_language" title="English language">English</a></div>
+<div id="articlecount" style="font-size:85%;"><a href="/wiki/Special:Statistics" title="Special:Statistics">5,501,425</a> articles in <a href="/wiki/English_language" title="English language">English</a></div>
 </div>
 <ul style="position:absolute; right:-1em; top:50%; margin-top:-2.4em; width:38%; min-width:25em; font-size:95%;">
 <li style="position:absolute; left:0; top:0;"><a href="/wiki/Portal:Arts" title="Portal:Arts">Arts</a></li>
@@ -69,21 +28,21 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <h2 id="mp-tfa-h2" style="margin:0.5em; background:#cef2e0; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; color:#000; padding:0.2em 0.4em;"><span id="From_today's_featured_article"></span><span class="mw-headline" id="From_today.27s_featured_article">From today's featured article</span></h2>
 <div id="mp-tfa" style="padding:0.1em 0.6em;">
 <div id="mp-tfa-img" style="float: left; margin: 0.5em 0.9em 0.4em 0em;">
-<div class="thumbinner mp-thumb" style="background: transparent; border: none; padding: 0; max-width: 100px;"><a href="/wiki/File:St_Botolph,_Quarrington_-_geograph.org.uk_-_105619.jpg" class="image" title="St Botolph's Church"><img alt="St Botolph's Church" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/St_Botolph%2C_Quarrington_-_geograph.org.uk_-_105619.jpg/100px-St_Botolph%2C_Quarrington_-_geograph.org.uk_-_105619.jpg" width="100" height="133" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/St_Botolph%2C_Quarrington_-_geograph.org.uk_-_105619.jpg/150px-St_Botolph%2C_Quarrington_-_geograph.org.uk_-_105619.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/St_Botolph%2C_Quarrington_-_geograph.org.uk_-_105619.jpg/200px-St_Botolph%2C_Quarrington_-_geograph.org.uk_-_105619.jpg 2x" data-file-width="480" data-file-height="640" /></a></div>
+<div class="thumbinner mp-thumb" style="background: transparent; border: none; padding: 0; max-width: 102px;"><a href="/wiki/File:Dave_Gallaher_(cropped).jpg" class="image" title="Dave Gallaher in 1905"><img alt="Dave Gallaher in 1905" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Dave_Gallaher_%28cropped%29.jpg/100px-Dave_Gallaher_%28cropped%29.jpg" width="100" height="125" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Dave_Gallaher_%28cropped%29.jpg/150px-Dave_Gallaher_%28cropped%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Dave_Gallaher_%28cropped%29.jpg/200px-Dave_Gallaher_%28cropped%29.jpg 2x" data-file-width="1200" data-file-height="1500" /></a></div>
 </div>
-<p><b><a href="/wiki/St_Botolph%27s_Church,_Quarrington" title="St Botolph's Church, Quarrington">St Botolph's Church</a></b> is an <a href="/wiki/Church_of_England" title="Church of England">Anglican</a> place of worship in the village of <a href="/wiki/Quarrington,_Lincolnshire" title="Quarrington, Lincolnshire">Quarrington</a>, part of the <a href="/wiki/Civil_parish" title="Civil parish">civil parish</a> of <a href="/wiki/Sleaford" title="Sleaford">Sleaford</a> in <a href="/wiki/Lincolnshire" title="Lincolnshire">Lincolnshire</a>, England. By the time <i><a href="/wiki/Domesday_Book" title="Domesday Book">Domesday Book</a></i> was compiled in 1086, a church in Quarrington was part of <a href="/wiki/Ramsey_Abbey" title="Ramsey Abbey">Ramsey Abbey</a>'s <a href="/wiki/Fief" title="Fief">fee</a>, and around 1165 it was granted to <a href="/wiki/Haverholme_Priory" title="Haverholme Priory">Haverholme Priory</a>. The <a href="/wiki/Advowson" title="Advowson">right to present the rector</a> was claimed by the Abbey in the 13th century, by the <a href="/wiki/Bishop_of_Lincoln" title="Bishop of Lincoln">Bishop of Lincoln</a> in the early 16th century, and by Robert Carre and his descendants after Carre acquired a manor at Quarrington. The oldest parts of the current building date to the 13th century, although substantial rebuilding took place over the following century. Renovations followed and the local architect Charles Kirk the Younger carried out <a href="/wiki/Victorian_restoration" title="Victorian restoration">restoration</a> work in 1862 and 1863, when he added a <a href="/wiki/Chancel" title="Chancel">chancel</a> in his parents' memory. The church consists of a tower and spire with a <a href="/wiki/Nave" title="Nave">nave</a> and north aisle spanning eastwards to the chancel. With capacity for 124 people, the church serves the <a href="/wiki/Ecclesiastic_parish" class="mw-redirect" title="Ecclesiastic parish">ecclesiastic parish</a> of Quarrington with Old Sleaford. Recognised for its age and <a href="/wiki/Tracery" title="Tracery">tracery</a>, the church has been designated a grade II* <a href="/wiki/Listed_building" title="Listed building">listed building</a>. (<a href="/wiki/St_Botolph%27s_Church,_Quarrington" title="St Botolph's Church, Quarrington"><b>Full&#160;article...</b></a>)</p>
+<p><b><a href="/wiki/Dave_Gallaher" title="Dave Gallaher">Dave Gallaher</a></b> (30 October 1873 – 4 October 1917) was a New Zealand <a href="/wiki/Rugby_union" title="Rugby union">rugby union</a> footballer and the captain of the 1905–06 <a href="/wiki/The_Original_All_Blacks" title="The Original All Blacks">Original All Blacks</a>. They were the first <a href="/wiki/New_Zealand_national_rugby_union_team" title="New Zealand national rugby union team">representative New Zealand team</a> to tour the British Isles, winning 34 out of 35 matches on their world tour. With his vice-captain <a href="/wiki/Billy_Stead" title="Billy Stead">Billy Stead</a>, Gallaher co-wrote the classic rugby text <i>The Complete Rugby Footballer</i>. Retiring as a player after the tour, he took up coaching, and was a <a href="/wiki/Glossary_of_rugby_union_terms#Selector" title="Glossary of rugby union terms">selector</a> for both <a href="/wiki/Auckland_rugby_union_team" title="Auckland rugby union team">Auckland</a> and New Zealand for most of the following decade. The Originals helped to cement rugby as New Zealand's national sport, but Gallaher's role as <a href="/wiki/Thomas_Ellison#Wing-forward" title="Thomas Ellison">wing-forward</a> contributed to decades of strain between the rugby authorities of New Zealand and the <a href="/wiki/Home_Nations" title="Home Nations">Home Nations</a>, and the <a href="/wiki/World_Rugby" title="World Rugby">International Rugby Football Board</a> effectively outlawed the position in 1931. During the <a href="/wiki/World_War_I" title="World War I">First World War</a>, Gallaher was killed at the <a href="/wiki/Battle_of_Passchendaele" title="Battle of Passchendaele">Battle of Passchendaele</a> in Belgium. He has been inducted into the <a href="/wiki/World_Rugby_Hall_of_Fame" title="World Rugby Hall of Fame">World Rugby Hall of Fame</a> and <a href="/wiki/New_Zealand_Sports_Hall_of_Fame" title="New Zealand Sports Hall of Fame">New Zealand Sports Hall of Fame</a>. The <a href="/wiki/Gallaher_Shield" title="Gallaher Shield">Gallaher Shield</a> is awarded annually to the winner of Auckland's club championship, and the <a href="/wiki/Dave_Gallaher_Trophy" title="Dave Gallaher Trophy">Dave Gallaher Trophy</a> is contested between the national teams of <a href="/wiki/France_national_rugby_union_team" title="France national rugby union team">France</a> and New Zealand. (<a href="/wiki/Dave_Gallaher" title="Dave Gallaher"><b>Full&#160;article...</b></a>)</p>
 <div class="tfa-recent" style="text-align: right;">Recently featured:
 <div class="hlist inline">
 <ul>
-<li><a href="/wiki/Catherine_Zeta-Jones" title="Catherine Zeta-Jones">Catherine Zeta-Jones</a></li>
-<li><a href="/wiki/Downtown_Seattle_Transit_Tunnel" title="Downtown Seattle Transit Tunnel">Downtown Seattle Transit Tunnel</a></li>
-<li><a href="/wiki/Literary_Hall" title="Literary Hall">Literary Hall</a></li>
+<li><a href="/wiki/Paul_Palaiologos_Tagaris" title="Paul Palaiologos Tagaris">Paul Palaiologos Tagaris</a></li>
+<li><a href="/wiki/O._G._S._Crawford" title="O. G. S. Crawford">O. G. S. Crawford</a></li>
+<li><a href="/wiki/Battle_of_the_Santa_Cruz_Islands" title="Battle of the Santa Cruz Islands">Battle of the Santa Cruz Islands</a></li>
 </ul>
 </div>
 </div>
 <div class="tfa-footer hlist noprint" style="text-align: right;">
 <ul>
-<li><b><a href="/wiki/Wikipedia:Today%27s_featured_article/September_2017" title="Wikipedia:Today's featured article/September 2017">Archive</a></b></li>
+<li><b><a href="/wiki/Wikipedia:Today%27s_featured_article/October_2017" title="Wikipedia:Today's featured article/October 2017">Archive</a></b></li>
 <li><b><a href="https://lists.wikimedia.org/mailman/listinfo/daily-article-l" class="extiw" title="mail:daily-article-l">By email</a></b></li>
 <li><b><a href="/wiki/Wikipedia:Featured_articles" title="Wikipedia:Featured articles">More featured articles</a></b></li>
 </ul>
@@ -92,19 +51,19 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <h2 id="mp-dyk-h2" style="clear:both; margin:0.5em; background:#cef2e0; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; color:#000; padding:0.2em 0.4em;"><span class="mw-headline" id="Did_you_know...">Did you know...</span></h2>
 <div id="mp-dyk" style="padding:0.1em 0.6em 0.5em;">
 <div style="float:right; margin-left:0.5em;" id="mp-dyk-img">
-<div class="thumbinner mp-thumb" style="background: transparent; border: none; padding: 0; max-width: 120px;"><a href="/wiki/File:Enicurus_leschenaultii_-_1825-1834_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ16300131.tif" class="image" title="White-crowned forktail"><img alt="White-crowned forktail" src="//upload.wikimedia.org/wikipedia/en/thumb/c/ca/Enicurus_leschenaultii_-_1825-1834_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ16300131.tif/lossy-page1-99px-Enicurus_leschenaultii_-_1825-1834_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ16300131.tif.jpg" width="99" height="133" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/ca/Enicurus_leschenaultii_-_1825-1834_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ16300131.tif/lossy-page1-149px-Enicurus_leschenaultii_-_1825-1834_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ16300131.tif.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/ca/Enicurus_leschenaultii_-_1825-1834_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ16300131.tif/lossy-page1-198px-Enicurus_leschenaultii_-_1825-1834_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ16300131.tif.jpg 2x" data-file-width="2910" data-file-height="3902" /></a>
-<div class="thumbcaption" style="padding: 0.25em 0; word-wrap: break-word;">White-crowned forktail</div>
+<div class="thumbinner mp-thumb" style="background: transparent; border: none; padding: 0; max-width: 120px;"><a href="/wiki/File:Onesimus_Ustonson_1772_invoice_and_receipt_(cropped).jpg" class="image" title="Ustonson invoice"><img alt="Ustonson invoice" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Onesimus_Ustonson_1772_invoice_and_receipt_%28cropped%29.jpg/120px-Onesimus_Ustonson_1772_invoice_and_receipt_%28cropped%29.jpg" width="120" height="123" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Onesimus_Ustonson_1772_invoice_and_receipt_%28cropped%29.jpg/180px-Onesimus_Ustonson_1772_invoice_and_receipt_%28cropped%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Onesimus_Ustonson_1772_invoice_and_receipt_%28cropped%29.jpg/240px-Onesimus_Ustonson_1772_invoice_and_receipt_%28cropped%29.jpg 2x" data-file-width="1804" data-file-height="1846" /></a>
+<div class="thumbcaption" style="padding: 0.25em 0; word-wrap: break-word;">Ustonson invoice</div>
 </div>
 </div>
 <ul>
-<li>... that <b><a href="/wiki/White-crowned_forktail" title="White-crowned forktail">white-crowned forktails</a></b> <i>(example pictured)</i> breed between mountaintops in <a href="/wiki/Borneo" title="Borneo">Borneo</a>, but not with individuals of the same species in adjacent lowlands?</li>
-<li>... that <b><a href="/wiki/Alex_Virot" title="Alex Virot">Alex Virot</a></b> is the only journalist to have died whilst covering the <a href="/wiki/Tour_de_France" title="Tour de France">Tour de France</a>?</li>
-<li>... that the dark, organic setting of the graphic adventure video game <i><b><a href="/wiki/Oxenfree" title="Oxenfree">Oxenfree</a></b></i> was designed to contrast with its bright, geometric, supernatural elements?</li>
-<li>... that two years after <b><a href="/wiki/Henry_Ferrers,_4th_Baron_Ferrers_of_Groby" title="Henry Ferrers, 4th Baron Ferrers of Groby">Henry Ferrers, 4th Baron Ferrers of Groby</a></b>, fought alongside <a href="/wiki/Richard_II_of_England" title="Richard II of England">King Richard II</a> in the 1385 invasion of Scotland, the king and queen stayed the night in Ferrers' castle?</li>
-<li>... that <b><a href="/wiki/Xafecopy_Trojan" title="Xafecopy Trojan">Xafecopy Trojan</a></b> attacked at least 4,800 <a href="/wiki/Android_(operating_system)" title="Android (operating system)">Android</a> users in just a month?</li>
-<li>... that in 1948, <b><a href="/wiki/Oreste_Pucciani" title="Oreste Pucciani">Oreste Pucciani</a></b>, champion of the "<a href="/wiki/Direct_method_(education)" title="Direct method (education)">direct method</a>" of language teaching, banned English from his classroom at <a href="/wiki/University_of_California,_Los_Angeles" title="University of California, Los Angeles">UCLA</a>?</li>
-<li>... that British Prime Minister <a href="/wiki/Harold_Macmillan" title="Harold Macmillan">Harold Macmillan</a> described the <b><a href="/wiki/1958_US%E2%80%93UK_Mutual_Defence_Agreement" title="1958 US–UK Mutual Defence Agreement">1958 US–UK Mutual Defence Agreement</a></b> as the "great prize"?</li>
-<li>... that astronomer <b><a href="/wiki/Alan_Duffy_(astronomer)" title="Alan Duffy (astronomer)">Alan Duffy</a></b> is constructing a <a href="/wiki/Dark_matter" title="Dark matter">dark matter</a> detector 1 kilometre (0.62&#160;mi) underground in a gold mine?</li>
+<li>... that <b><a href="/wiki/Onesimus_Ustonson" title="Onesimus Ustonson">Onesimus Ustonson</a></b> <i>(invoice pictured)</i> supplied fishing tackle to the naturalist <a href="/wiki/Joseph_Banks" title="Joseph Banks">Joseph Banks</a> for the <a href="/wiki/Second_voyage_of_James_Cook" title="Second voyage of James Cook">second voyage of James Cook</a>?</li>
+<li>... that the <b><a href="/wiki/Ethiopian_hare" title="Ethiopian hare">Ethiopian hare</a></b> is endemic to Africa, and is found in the <a href="/wiki/Afromontane" title="Afromontane">Afromontane Biozone</a> of Ethiopia and the borders of the <a href="/wiki/Sudanian_Savanna" title="Sudanian Savanna">Sudanian Savanna Biozone</a>?</li>
+<li>... that during the <a href="/wiki/Dubin_Inquiry" class="mw-redirect" title="Dubin Inquiry">Dubin Inquiry</a>, lead counsel <b><a href="/wiki/Robert_P._Armstrong" title="Robert P. Armstrong">Robert P. Armstrong</a></b> questioned Canadian sprinter <a href="/wiki/Ben_Johnson_(sprinter)" title="Ben Johnson (sprinter)">Ben Johnson</a> about his <a href="/wiki/Anabolic_steroid" title="Anabolic steroid">anabolic steroid</a> use?</li>
+<li>... that officers from the <a href="/wiki/Albuquerque_Police_Department" title="Albuquerque Police Department">Albuquerque Police Department</a> lied to the <i><a href="/wiki/Albuquerque_Journal" title="Albuquerque Journal">Albuquerque Journal</a></i> when providing details regarding the <b><a href="/wiki/Death_of_Victoria_Martens" title="Death of Victoria Martens">death of Victoria Martens</a></b>?</li>
+<li>... that a <b><a href="/wiki/GRIM_test" title="GRIM test">GRIM test</a></b> on a sample of published psychology articles revealed that over half contained at least one mathematically impossible result?</li>
+<li>... that <b><a href="/wiki/Catie_Munnings" title="Catie Munnings">Catie Munnings</a></b>, winner of the <a href="/wiki/2016_European_Rally_Championship" title="2016 European Rally Championship">2016 FIA European Rally Championship Ladies' Trophy</a>, was the first British driver to win a European rally title in 49 years?</li>
+<li>... that the <b><a href="/wiki/Musca_sorbens" title="Musca sorbens">bazaar fly</a></b> is a vector for <a href="/wiki/Trachoma" title="Trachoma">trachoma</a>, the leading global cause of preventable <a href="/wiki/Blindness" class="mw-redirect" title="Blindness">blindness</a>?</li>
+<li>... that instead of giving the <a href="/wiki/List_of_Keys_to_the_City_in_Canada#Calgary" title="List of Keys to the City in Canada">keys to the city</a> to visiting dignitaries, the mayor of <a href="/wiki/Calgary" title="Calgary">Calgary</a> "<b><a href="/wiki/Calgary_White_Hat" title="Calgary White Hat">white hats</a></b>" them?</li>
 </ul>
 <div class="dyk-footer hlist noprint" style="margin-top: 0.5em; text-align: right;">
 <ul>
@@ -113,6 +72,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <li><b><a href="/wiki/Template_talk:Did_you_know" title="Template talk:Did you know">Nominate an article</a></b></li>
 </ul>
 </div>
+<p><br /></p>
 </div>
 </td>
 <td style="border:1px solid transparent;"></td>
@@ -120,32 +80,26 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 <h2 id="mp-itn-h2" style="margin:0.5em; background:#cedff2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; color:#000; padding:0.2em 0.4em;"><span class="mw-headline" id="In_the_news">In the news</span></h2>
 <div id="mp-itn" style="padding:0.1em 0.6em;">
 <div role="figure" class="itn-img" style="float: right; margin-left: 0.5em;">
-<div class="thumbinner mp-thumb" style="background: transparent; border: none; padding: 0; max-width: px;"><a href="/wiki/File:Angela_Merkel_June_2017.jpg" class="image" title="German Chancellor Angela Merkel"><img alt="German Chancellor Angela Merkel" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Angela_Merkel_June_2017.jpg/97px-Angela_Merkel_June_2017.jpg" width="97" height="134" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Angela_Merkel_June_2017.jpg/145px-Angela_Merkel_June_2017.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Angela_Merkel_June_2017.jpg/194px-Angela_Merkel_June_2017.jpg 2x" data-file-width="1080" data-file-height="1491" /></a>
-<div class="thumbcaption" style="padding: 0.25em 0; word-wrap: break-word;">German Chancellor<br />
-Angela Merkel</div>
+<div class="thumbinner mp-thumb" style="background: transparent; border: none; padding: 0; max-width: 100px;"><a href="/wiki/File:Xi_Jinping_2016.jpg" class="image" title="Xi Jinping in 2016"><img alt="Xi Jinping in 2016" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Xi_Jinping_2016.jpg/100px-Xi_Jinping_2016.jpg" width="100" height="133" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Xi_Jinping_2016.jpg/150px-Xi_Jinping_2016.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Xi_Jinping_2016.jpg/200px-Xi_Jinping_2016.jpg 2x" data-file-width="648" data-file-height="864" /></a>
+<div class="thumbcaption" style="padding: 0.25em 0; word-wrap: break-word;">Xi Jinping</div>
 </div>
 </div>
 <ul>
-<li>The <a href="/wiki/CDU/CSU" title="CDU/CSU">CDU/CSU</a>, led by <a href="/wiki/Angela_Merkel" title="Angela Merkel">Angela Merkel</a> <i>(pictured)</i>, wins the most seats in the <b><a href="/wiki/German_federal_election,_2017" title="German federal election, 2017">German federal election</a></b>.</li>
-<li>The <a href="/wiki/National_Party_(New_Zealand)" class="mw-redirect" title="National Party (New Zealand)">National Party</a>, led by <a href="/wiki/Bill_English" title="Bill English">Bill English</a>, wins the most seats in the <b><a href="/wiki/New_Zealand_general_election,_2017" title="New Zealand general election, 2017">New Zealand general election</a></b>.</li>
-<li><b><a href="/wiki/2017_Central_Mexico_earthquake" title="2017 Central Mexico earthquake">A magnitude 7.1 earthquake</a></b> strikes central Mexico, killing more than three hundred people.</li>
-<li><b><a href="/wiki/Hurricane_Maria" title="Hurricane Maria">Hurricane Maria</a></b> crosses the <a href="/wiki/Antilles" title="Antilles">Antilles</a> as a <a href="/wiki/Saffir%E2%80%93Simpson_scale#Category_5" title="Saffir–Simpson scale">Category 5</a> hurricane, causing widespread destruction and at least 37 deaths.</li>
-<li>In U.S. television, <i><a href="/wiki/The_Handmaid%27s_Tale_(TV_series)" title="The Handmaid's Tale (TV series)">The Handmaid's Tale</a></i> wins <a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Drama_Series" title="Primetime Emmy Award for Outstanding Drama Series">Best Drama</a> and <i><a href="/wiki/Veep" title="Veep">Veep</a></i> wins <a href="/wiki/Primetime_Emmy_Award_for_Outstanding_Comedy_Series" title="Primetime Emmy Award for Outstanding Comedy Series">Best Comedy</a> at the <b><a href="/wiki/69th_Primetime_Emmy_Awards" title="69th Primetime Emmy Awards">Primetime Emmy Awards</a></b>.</li>
+<li><b><a href="/wiki/Catalan_Republic_(2017)" title="Catalan Republic (2017)">Catalonia</a></b> issues a <a href="/wiki/Declaration_of_Independence_of_Catalonia" title="Declaration of Independence of Catalonia">unilateral declaration of independence</a> from <a href="/wiki/Spain" title="Spain">Spain</a>, whose government <a href="/wiki/2017_Spanish_constitutional_crisis" title="2017 Spanish constitutional crisis">imposes direct rule under Article 155 of its constitution</a>.</li>
+<li>President <a href="/wiki/Nursultan_Nazarbayev" title="Nursultan Nazarbayev">Nursultan Nazarbayev</a> of Kazakhstan announces that the <b><a href="/wiki/Kazakh_language" title="Kazakh language">Kazakh language</a></b> will begin using <a href="/wiki/Kazakh_alphabets#Latin_script" title="Kazakh alphabets">a Latin script</a>, rather than the current <a href="/wiki/Kazakh_alphabets#Cyrillic_script" title="Kazakh alphabets">Cyrillic script</a>.</li>
+<li>The <a href="/wiki/High_Court_of_Australia" title="High Court of Australia">High Court of Australia</a> finds that five parliamentarians are <b><a href="/wiki/2017_Australian_parliamentary_eligibility_crisis" title="2017 Australian parliamentary eligibility crisis">ineligible to serve</a></b>.</li>
+<li>Venezuela's democratic opposition win the <b><a href="/wiki/Sakharov_Prize" title="Sakharov Prize">Sakharov Prize</a></b>.</li>
+<li>At the <b><a href="/wiki/19th_National_Congress_of_the_Communist_Party_of_China" title="19th National Congress of the Communist Party of China">National Congress</a></b> of the <a href="/wiki/Communist_Party_of_China" title="Communist Party of China">Communist Party of China</a>, <a href="/wiki/Xi_Jinping" title="Xi Jinping">Xi Jinping</a> <i>(pictured)</i> assumes his second term as <a href="/wiki/General_Secretary_of_the_Communist_Party_of_China" title="General Secretary of the Communist Party of China">General Secretary</a>, and the political theory <a href="/wiki/Xi_Jinping_Thought" title="Xi Jinping Thought">Xi Jinping Thought</a> is written into the <a href="/wiki/Constitution_of_the_Communist_Party_of_China" title="Constitution of the Communist Party of China">party's constitution</a>.</li>
 </ul>
 <div class="itn-footer" style="margin-top: 0.5em;">
-<div><b><a href="/wiki/Portal:Current_events" title="Portal:Current events">Ongoing</a></b>:
-<div class="hlist inline">
-<ul>
-<li><a href="/wiki/Northern_Rakhine_State_clashes" title="Northern Rakhine State clashes">Northern Rakhine State clashes</a></li>
-</ul>
-</div>
-</div>
+<div><b><a href="/wiki/Portal:Current_events" title="Portal:Current events">Other recent events</a></b></div>
 <div><b><a href="/wiki/Deaths_in_2017" title="Deaths in 2017">Recent deaths</a></b>:
 <div class="hlist inline">
 <ul>
-<li><a href="/wiki/Liliane_Bettencourt" title="Liliane Bettencourt">Liliane Bettencourt</a></li>
-<li><a href="/wiki/David_Shepherd_(artist)" title="David Shepherd (artist)">David Shepherd</a></li>
-<li><a href="/wiki/Afzal_Ahsan_Randhawa" title="Afzal Ahsan Randhawa">Afzal Ahsan Randhawa</a></li>
+<li><a href="/wiki/Ninian_Stephen" title="Ninian Stephen">Ninian Stephen</a></li>
+<li><a href="/wiki/Pinito_del_Oro" title="Pinito del Oro">Pinito del Oro</a></li>
+<li><a href="/wiki/Fats_Domino" title="Fats Domino">Fats Domino</a></li>
+<li><a href="/wiki/Glenn_Barr" title="Glenn Barr">Glenn Barr</a></li>
 </ul>
 </div>
 </div>
@@ -153,32 +107,32 @@ Angela Merkel</div>
 </div>
 <h2 id="mp-otd-h2" style="clear:both; margin:0.5em; background:#cedff2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; color:#000; padding:0.2em 0.4em;"><span class="mw-headline" id="On_this_day...">On this day...</span></h2>
 <div id="mp-otd" style="padding:0.1em 0.6em 0.5em;">
-<p><b><a href="/wiki/September_26" title="September 26">September 26</a></b>: <b><a href="/wiki/Flag_of_Ecuador" title="Flag of Ecuador">Day of the National Flag</a></b> in Ecuador (<a href="/wiki/1860" title="1860">1860</a>)</p>
+<p><b><a href="/wiki/October_30" title="October 30">October 30</a></b>: <b><a href="/wiki/Mischief_Night" title="Mischief Night">Mischief Night</a></b> in some areas of the United States</p>
 <div style="float:right;margin-left:0.5em;" id="mp-otd-img">
-<div class="thumbinner mp-thumb" style="background: transparent; border: none; padding: 0; max-width: 120px;"><a href="/wiki/File:Francis-drake-galleon-southwark-london-uk.jpg" class="image" title="Golden Hind replica"><img alt="Golden Hind replica" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Francis-drake-galleon-southwark-london-uk.jpg/120px-Francis-drake-galleon-southwark-london-uk.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Francis-drake-galleon-southwark-london-uk.jpg/180px-Francis-drake-galleon-southwark-london-uk.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Francis-drake-galleon-southwark-london-uk.jpg/240px-Francis-drake-galleon-southwark-london-uk.jpg 2x" data-file-width="2816" data-file-height="2112" /></a>
-<div class="thumbcaption" style="padding: 0.25em 0; word-wrap: break-word;"><i>Golden Hind</i> replica</div>
+<div class="thumbinner mp-thumb" style="background: transparent; border: none; padding: 0; max-width: 100px;"><a href="/wiki/File:Alfonsin_1983.jpg" class="image" title="Raúl Alfonsín"><img alt="Raúl Alfonsín" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Alfonsin_1983.jpg/100px-Alfonsin_1983.jpg" width="100" height="133" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Alfonsin_1983.jpg/150px-Alfonsin_1983.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/40/Alfonsin_1983.jpg/200px-Alfonsin_1983.jpg 2x" data-file-width="288" data-file-height="383" /></a>
+<div class="thumbcaption" style="padding: 0.25em 0; word-wrap: break-word;">Raúl Alfonsín</div>
 </div>
 </div>
 <ul>
-<li><a href="/wiki/1493" title="1493">1493</a> – <a href="/wiki/Pope_Alexander_VI" title="Pope Alexander VI">Pope Alexander VI</a> issued the <a href="/wiki/Papal_bull" title="Papal bull">papal bull</a> <i><b><a href="/wiki/Dudum_siquidem" title="Dudum siquidem">Dudum siquidem</a></b></i>, the last of the <a href="/wiki/Bulls_of_Donation" title="Bulls of Donation">Bulls of Donation</a>, marking the beginning of the <a href="/wiki/Spanish_colonization_of_the_Americas" title="Spanish colonization of the Americas">Spanish colonization of the Americas</a>.</li>
-<li><a href="/wiki/1580" title="1580">1580</a> – The <i><b><a href="/wiki/Golden_Hind" title="Golden Hind">Golden Hind</a></b></i> <i>(replica pictured)</i> sailed into <a href="/wiki/Plymouth" title="Plymouth">Plymouth</a>, England, as explorer <a href="/wiki/Francis_Drake" title="Francis Drake">Francis Drake</a> completed his <a href="/wiki/Circumnavigation" title="Circumnavigation">circumnavigation</a> of the globe.</li>
-<li><a href="/wiki/1917" title="1917">1917</a> – <a href="/wiki/World_War_I" title="World War I">World War I</a>: The <b><a href="/wiki/Battle_of_Polygon_Wood" title="Battle of Polygon Wood">Battle of Polygon Wood</a></b>, part of the <a href="/wiki/Battle_of_Passchendaele" title="Battle of Passchendaele">Battle of Passchendaele</a>, began near <a href="/wiki/Ypres" title="Ypres">Ypres</a>, Belgium.</li>
-<li><a href="/wiki/1942" title="1942">1942</a> – <a href="/wiki/The_Holocaust" title="The Holocaust">The Holocaust</a>: Nazi official <b><a href="/wiki/August_Frank" title="August Frank">August Frank</a></b> issued <a href="/wiki/August_Frank_memorandum" title="August Frank memorandum">a memorandum</a> setting out how the belongings of murdered Jews were to be disposed of.</li>
-<li><a href="/wiki/2010" title="2010">2010</a> – Scottish aid worker <b><a href="/wiki/Death_of_Linda_Norgrove" title="Death of Linda Norgrove">Linda Norgrove</a></b> and three Afghan colleagues were kidnapped by members of the <a href="/wiki/Taliban" title="Taliban">Taliban</a> in the <a href="/wiki/Kunar_Province" title="Kunar Province">Kunar Province</a> of eastern Afghanistan.</li>
+<li><a href="/wiki/1806" title="1806">1806</a> – <a href="/wiki/War_of_the_Fourth_Coalition" title="War of the Fourth Coalition">War of the Fourth Coalition</a>: Believing they were massively outnumbered, the 5,300-man German garrison at Stettin, Prussia (now <a href="/wiki/Szczecin" title="Szczecin">Szczecin, Poland</a>), <b><a href="/wiki/Capitulation_of_Stettin" title="Capitulation of Stettin">surrendered</a></b> to a much smaller French force without a fight.</li>
+<li><a href="/wiki/1888" title="1888">1888</a> – King <a href="/wiki/Lobengula" title="Lobengula">Lobengula</a> of <a href="/wiki/Matabeleland" title="Matabeleland">Matabeleland</a> granted the <b><a href="/wiki/Rudd_Concession" title="Rudd Concession">Rudd Concession</a></b> to agents of <a href="/wiki/Cecil_Rhodes" title="Cecil Rhodes">Cecil Rhodes</a>, setting in motion the creation of the <a href="/wiki/British_South_Africa_Company" title="British South Africa Company">British South Africa Company</a>.</li>
+<li><a href="/wiki/1918" title="1918">1918</a> – The <b><a href="/wiki/Armistice_of_Mudros" title="Armistice of Mudros">Armistice of Mudros</a></b> was signed in <a href="/wiki/Moudros" title="Moudros">Moudros</a> in the <a href="/wiki/Lesbos_Prefecture" title="Lesbos Prefecture">Lesbos Prefecture</a>, Greece, ending the hostilities in the <a href="/wiki/Middle-Eastern_theatre_of_World_War_I" title="Middle-Eastern theatre of World War I">Middle-Eastern theatre of World War&#160;I</a>, and paving the way for the <a href="/wiki/Occupation_of_Constantinople" title="Occupation of Constantinople">occupation of Constantinople</a> and the subsequent <a href="/wiki/Partition_of_the_Ottoman_Empire" title="Partition of the Ottoman Empire">partitioning of the Ottoman Empire</a>.</li>
+<li><a href="/wiki/1961" title="1961">1961</a> – The Soviet hydrogen bomb <b><a href="/wiki/Tsar_Bomba" title="Tsar Bomba">Tsar Bomba</a></b>, the largest <a href="/wiki/Nuclear_weapon" title="Nuclear weapon">nuclear weapon</a> ever detonated, was set off over <a href="/wiki/Novaya_Zemlya" title="Novaya Zemlya">Novaya Zemlya Island</a> in the Arctic Ocean as a test.</li>
+<li><a href="/wiki/1983" title="1983">1983</a> – As the <a href="/wiki/National_Reorganization_Process" title="National Reorganization Process">military dictatorship</a> came to an end, Argentina's <b><a href="/wiki/Argentine_general_election,_1983" title="Argentine general election, 1983">first democratic election</a></b> in a decade resulted in <a href="/wiki/Ra%C3%BAl_Alfons%C3%ADn" title="Raúl Alfonsín">Raúl Alfonsín</a> <i>(pictured)</i> being elected <a href="/wiki/President_of_Argentina" title="President of Argentina">President of Argentina</a>.</li>
 </ul>
-<p><b><a href="/wiki/Fujiwara_no_Teika" title="Fujiwara no Teika">Fujiwara no Teika</a></b> (d.&#160;1241)&#160;<b>·</b>  <b><a href="/wiki/Mary_Russell,_Duchess_of_Bedford" title="Mary Russell, Duchess of Bedford">Mary Russell, Duchess of Bedford</a></b> (b.&#160;1865)&#160;<b>·</b>  <b><a href="/wiki/Lynn_Anderson" title="Lynn Anderson">Lynn Anderson</a></b> (b.&#160;1947)</p>
+<p><b><a href="/wiki/Hieronymus_van_Beverningh" title="Hieronymus van Beverningh">Hieronymus van Beverningh</a></b> (d.&#160;1690)&#160;<b>·</b>  <b><a href="/wiki/Adelaide_Anne_Procter" title="Adelaide Anne Procter">Adelaide Anne Procter</a></b> (b.&#160;1825)&#160;<b>·</b>  <b><a href="/wiki/Hilja_Riipinen" title="Hilja Riipinen">Hilja Riipinen</a></b> (b.&#160;1883)</p>
 <div style="margin-top: 0.5em;">More anniversaries:
 <div class="hlist inline nowraplinks">
 <ul>
-<li><a href="/wiki/September_25" title="September 25">September 25</a></li>
-<li><b><a href="/wiki/September_26" title="September 26">September 26</a></b></li>
-<li><a href="/wiki/September_27" title="September 27">September 27</a></li>
+<li><a href="/wiki/October_29" title="October 29">October 29</a></li>
+<li><b><a href="/wiki/October_30" title="October 30">October 30</a></b></li>
+<li><a href="/wiki/October_31" title="October 31">October 31</a></li>
 </ul>
 </div>
 </div>
 <div class="otd-footer hlist noprint" style="text-align: right;">
 <ul>
-<li><b><a href="/wiki/Wikipedia:Selected_anniversaries/September" title="Wikipedia:Selected anniversaries/September">Archive</a></b></li>
+<li><b><a href="/wiki/Wikipedia:Selected_anniversaries/October" title="Wikipedia:Selected anniversaries/October">Archive</a></b></li>
 <li><b><a href="https://lists.wikimedia.org/mailman/listinfo/daily-article-l" class="extiw" title="mail:daily-article-l">By email</a></b></li>
 <li><b><a href="/wiki/List_of_historical_anniversaries" title="List of historical anniversaries">List of historical anniversaries</a></b></li>
 </ul>
@@ -187,29 +141,56 @@ Angela Merkel</div>
 </td>
 </tr>
 </table>
+<div id="mp-middle" class="MainPageBG" style="margin-top:4px; border:1px solid #f2cedd; background:#fff5fa; overflow:auto;">
+<div id="mp-center">
+<h2 id="mp-tfl-h2" style="margin:0.5em; background:#f2cedd; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #bfa3af; color:#000; padding:0.2em 0.4em"><span id="From_today's_featured_list"></span><span class="mw-headline" id="From_today.27s_featured_list">From today's featured list</span></h2>
+<div id="mp-tfl" style="padding:0.3em 0.7em;">
+<div id="mp-tfl-img" style="float:right;margin:0.5em 0 0.4em 0.9em;">
+<div class="thumbinner mp-thumb" style="background: transparent; border: none; padding: 0; max-width: 125px;"><a href="/wiki/File:West_Virginia_counties_map.png" class="image" title="West Virginia counties"><img alt="West Virginia counties" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/West_Virginia_counties_map.png/125px-West_Virginia_counties_map.png" width="125" height="112" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/West_Virginia_counties_map.png/188px-West_Virginia_counties_map.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b2/West_Virginia_counties_map.png/250px-West_Virginia_counties_map.png 2x" data-file-width="865" data-file-height="778" /></a>
+<div class="thumbcaption" style="padding: 0.25em 0; word-wrap: break-word;">West Virginia counties</div>
+</div>
+</div>
+<p>The <b><a href="/wiki/List_of_counties_in_West_Virginia" title="List of counties in West Virginia">U.S. state of West Virginia has 55 counties</a></b>. Fifty of them existed at the time of the <a href="/wiki/Wheeling_Convention" title="Wheeling Convention">Wheeling Convention</a> in 1861, before which <a href="/wiki/West_Virginia" title="West Virginia">West Virginia</a> was part of the Commonwealth of <a href="/wiki/Virginia" title="Virginia">Virginia</a>. The remaining five (<a href="/wiki/Grant_County,_West_Virginia" title="Grant County, West Virginia">Grant</a>, <a href="/wiki/Mineral_County,_West_Virginia" title="Mineral County, West Virginia">Mineral</a>, <a href="/wiki/Lincoln_County,_West_Virginia" title="Lincoln County, West Virginia">Lincoln</a>, <a href="/wiki/Summers_County,_West_Virginia" title="Summers County, West Virginia">Summers</a> and <a href="/wiki/Mingo_County,_West_Virginia" title="Mingo County, West Virginia">Mingo</a>) were formed within the state after its admission to the United States on June 20, 1863. The <a href="/wiki/Constitution_of_West_Virginia" title="Constitution of West Virginia">West Virginia Constitution</a> was ratified in 1872, replacing the state constitution created in 1863 when West Virginia became a state. Article 9, Section 8, of the West Virginia Constitution permits the creation of additional <a href="/wiki/County_(United_States)" title="County (United States)">counties</a> if a majority of citizens in the proposed new county vote for its creation and the new county has a minimum area of 400 square miles (1,036&#160;km<sup>2</sup>) and a population of at least 6,000. Creation of a new county is prohibited if it would bring another county below these thresholds. Randolph County is the largest by area at 1,040 square miles (2,694&#160;km<sup>2</sup>), and <a href="/wiki/Hancock_County,_West_Virginia" title="Hancock County, West Virginia">Hancock County</a> is the smallest at 83 square miles (215&#160;km<sup>2</sup>). (<b><a href="/wiki/List_of_counties_in_West_Virginia" title="List of counties in West Virginia">Full&#160;list...</a></b>)</p>
+<div class="tfl-recent" style="text-align: right;">Recently featured:
+<div class="hlist inline">
+<ul>
+<li><a href="/wiki/Glossary_of_bird_terms" title="Glossary of bird terms">Glossary of bird terms</a></li>
+<li><a href="/wiki/500_home_run_club" title="500 home run club">500 home run club</a></li>
+<li><a href="/wiki/Manisha_Koirala_filmography" title="Manisha Koirala filmography">Manisha Koirala filmography</a></li>
+</ul>
+</div>
+</div>
+<div class="tfl-footer hlist noprint" style="text-align: right;">
+<ul>
+<li><b><a href="/wiki/Wikipedia:Today%27s_featured_list/October_2017" title="Wikipedia:Today's featured list/October 2017">Archive</a></b></li>
+<li><b><a href="/wiki/Wikipedia:Featured_lists" title="Wikipedia:Featured lists">More featured lists</a></b></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
 <div id="mp-lower" class="MainPageBG" style="margin-top:4px; border:1px solid #ddcef2; background:#faf5ff; overflow:auto;">
 <div id="mp-bottom">
 <h2 id="mp-tfp-h2" style="margin:0.5em; background:#ddcef2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #afa3bf; color:#000; padding:0.2em 0.4em"><span id="Today's_featured_picture"></span><span class="mw-headline" id="Today.27s_featured_picture">Today's featured picture</span></h2>
 <div id="mp-tfp" style="margin:0.1em 0.4em 0.6em;">
 <table role="presentation" style="margin:0 3px 3px; width:100%; text-align:left; background-color:transparent; border-collapse: collapse;">
 <tr>
-<td style="padding:0 0.9em 0 0;"><a href="/wiki/File:The_Miracle_at_the_Grave_of_Elisha_by_Jan_Nagel_(d_1602).jpg" class="image" title="Elisha"><img alt="Elisha" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Miracle_at_the_Grave_of_Elisha_by_Jan_Nagel_%28d_1602%29.jpg/300px-The_Miracle_at_the_Grave_of_Elisha_by_Jan_Nagel_%28d_1602%29.jpg" width="300" height="349" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Miracle_at_the_Grave_of_Elisha_by_Jan_Nagel_%28d_1602%29.jpg/450px-The_Miracle_at_the_Grave_of_Elisha_by_Jan_Nagel_%28d_1602%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Miracle_at_the_Grave_of_Elisha_by_Jan_Nagel_%28d_1602%29.jpg/600px-The_Miracle_at_the_Grave_of_Elisha_by_Jan_Nagel_%28d_1602%29.jpg 2x" data-file-width="2362" data-file-height="2750" /></a></td>
+<td style="padding:0 0.9em 0 0;"><a href="/wiki/File:Autumn_leaf_(Doleschallia_bisaltide)_Bali_I.jpg" class="image" title="Autumn leaf butterfly"><img alt="Autumn leaf butterfly" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Autumn_leaf_%28Doleschallia_bisaltide%29_Bali_I.jpg/380px-Autumn_leaf_%28Doleschallia_bisaltide%29_Bali_I.jpg" width="380" height="253" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Autumn_leaf_%28Doleschallia_bisaltide%29_Bali_I.jpg/570px-Autumn_leaf_%28Doleschallia_bisaltide%29_Bali_I.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Autumn_leaf_%28Doleschallia_bisaltide%29_Bali_I.jpg/760px-Autumn_leaf_%28Doleschallia_bisaltide%29_Bali_I.jpg 2x" data-file-width="4996" data-file-height="3330" /></a></td>
 <td style="padding:0 6px 0 0">
-<p><b><a href="/wiki/Elisha" title="Elisha">Elisha</a></b> was a <a href="/wiki/Hebrew" class="mw-redirect" title="Hebrew">Hebrew</a> <a href="/wiki/Prophet" title="Prophet">prophet</a> and a <a href="/wiki/Thaumaturgy" title="Thaumaturgy">wonder-worker</a> who is venerated in <a href="/wiki/Judaism" title="Judaism">Judaism</a>, <a href="/wiki/Christianity" title="Christianity">Christianity</a>, and <a href="/wiki/Islam" title="Islam">Islam</a>. According to the <a href="/wiki/Books_of_Kings" title="Books of Kings">Books of Kings</a>, he was anointed the successor of <a href="/wiki/Elijah" title="Elijah">Elijah</a> and served as the "prophet in Israel" for more than six decades. During this time, many miracles were attributed to him.</p>
-<p>Shown here is <i>The Miracle at the Grave of Elisha</i>, an oil painting on panel which was completed by the Dutch painter <a href="/wiki/Jan_Nagel_(painter)" title="Jan Nagel (painter)">Jan Nagel</a> in 1596. It depicts part of the <a href="/wiki/Bible" title="Bible">Biblical</a> account of Elisha, a <a href="/wiki/Miracle" title="Miracle">miracle</a> that occurred after his death. Following 2&#160;Kings&#160;13:21, the painting shows a dead man who was "revived, and stood up on his feet" after touching Elisha's interred bones.</p>
-<p><small>Painting: <a href="/wiki/Jan_Nagel_(painter)" title="Jan Nagel (painter)">Jan Nagel</a></small></p>
+<p><i><b><a href="/wiki/Doleschallia_bisaltide" title="Doleschallia bisaltide">Doleschallia bisaltide</a></b></i>, also known as the leaf wing, is a species of butterfly found in South Asia, Southeast Asia, and Australasia. The butterfly mimics the shape and colour of an autumnal leaf, giving it its common name "autumn leaf". This specimen was photographed in <a href="/wiki/Bali" title="Bali">Bali</a>, Indonesia.</p>
+<p><small>Photograph: <a href="/wiki/User:Charlesjsharp" title="User:Charlesjsharp">Charles J. Sharp</a></small></p>
 <div class="potd-recent" style="text-align:right;">Recently featured:
 <div class="hlist inline">
 <ul>
-<li><a href="/wiki/Template:POTD/2017-09-25" title="Template:POTD/2017-09-25">William Faulkner</a></li>
-<li><a href="/wiki/Template:POTD/2017-09-24" title="Template:POTD/2017-09-24">Female cheetah</a></li>
-<li><a href="/wiki/Template:POTD/2017-09-23" title="Template:POTD/2017-09-23"><i>Breakfast Time</i></a></li>
+<li><a href="/wiki/Template:POTD/2017-10-29" title="Template:POTD/2017-10-29"><i>Northeaster</i></a></li>
+<li><a href="/wiki/Template:POTD/2017-10-28" title="Template:POTD/2017-10-28">Cygnus CRS Orb-3 explosion</a></li>
+<li><a href="/wiki/Template:POTD/2017-10-27" title="Template:POTD/2017-10-27"><i>Ramaria gracilis</i></a></li>
 </ul>
 </div>
 </div>
 <div class="potd-footer hlist noprint" style="text-align:right;">
 <ul>
-<li><b><a href="/wiki/Wikipedia:Picture_of_the_day/September_2017" title="Wikipedia:Picture of the day/September 2017">Archive</a></b></li>
+<li><b><a href="/wiki/Wikipedia:Picture_of_the_day/October_2017" title="Wikipedia:Picture of the day/October 2017">Archive</a></b></li>
 <li><b><a href="/wiki/Wikipedia:Featured_pictures" title="Wikipedia:Featured pictures">More featured pictures</a></b></li>
 </ul>
 </div>
@@ -283,7 +264,7 @@ Dictionary and thesaurus</td>
 <div id="mp-lang">
 <h2><span class="mw-headline" id="Wikipedia_languages">Wikipedia languages</span></h2>
 <div id="lang" class="nowraplinks nourlexpansion plainlinks">
-<p>This Wikipedia is written in <a href="/wiki/English_language" title="English language">English</a>. Started in 2001<span style="display:none">&#160;(<span class="bday dtstart published updated">2001</span>)</span>, it currently contains <a href="/wiki/Special:Statistics" title="Special:Statistics">5,483,397</a> articles.  Many other Wikipedias are available; some of the largest are listed below.</p>
+<p>This Wikipedia is written in <a href="/wiki/English_language" title="English language">English</a>. Started in 2001<span style="display:none">&#160;(<span class="bday dtstart published updated">2001</span>)</span>, it currently contains <a href="/wiki/Special:Statistics" title="Special:Statistics">5,501,425</a> articles.  Many other Wikipedias are available; some of the largest are listed below.</p>
 <ul>
 <li id="lang-3">More than 1,000,000 articles:
 <div class="hlist inline">
@@ -355,36 +336,36 @@ Dictionary and thesaurus</td>
 
 <!-- 
 NewPP limit report
-Parsed by mw1213
-Cached time: 20170926044741
+Parsed by mw1225
+Cached time: 20171030000138
 Cache expiry: 3600
 Dynamic content: true
-CPU time usage: 0.244 seconds
-Real time usage: 0.325 seconds
-Preprocessor visited node count: 2977/1000000
+CPU time usage: 0.284 seconds
+Real time usage: 0.376 seconds
+Preprocessor visited node count: 3179/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 101283/2097152 bytes
-Template argument size: 4082/2097152 bytes
+Post‐expand include size: 107485/2097152 bytes
+Template argument size: 5186/2097152 bytes
 Highest expansion depth: 14/40
-Expensive parser function count: 5/500
-Lua time usage: 0.072/10.000 seconds
-Lua memory usage: 4.01 MB/50 MB
+Expensive parser function count: 6/500
+Lua time usage: 0.086/10.000 seconds
+Lua memory usage: 3.18 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  251.264      1 -total
- 37.84%   95.079      1 Wikipedia:Main_Page/Tomorrow
- 32.07%   80.589      6 Template:Main_page_image
- 17.80%   44.714      1 Wikipedia:Today's_featured_article/September_26,_2017
- 17.44%   43.823      2 Template:Wikipedia_languages
- 16.51%   41.485      1 Template:Did_you_know
- 16.09%   40.430      1 Template:Did_you_know/Queue/4
- 15.57%   39.121      1 User:DYKUpdateBot/REMOVE_THIS_LINE
- 14.85%   37.307      6 Template:Str_number/trim
- 13.11%   32.934     88 Template:Wikipedia_languages/core
+100.00%  263.468      1 -total
+ 39.58%  104.271      8 Template:Main_page_image
+ 38.27%  100.838      1 Wikipedia:Main_Page/Tomorrow
+ 17.94%   47.255      1 Wikipedia:Today's_featured_list/October_30,_2017
+ 17.49%   46.079      1 Template:Did_you_know/Queue/2
+ 17.44%   45.937      1 Template:TFLcontent
+ 16.48%   43.416      1 Wikipedia:Today's_featured_article/October_30,_2017
+ 16.39%   43.185      8 Template:Str_number/trim
+ 13.63%   35.902      2 Template:Wikipedia_languages
+ 13.48%   35.522     23 Template:If_empty
 -->
 </div>
-<!-- Saved in parser cache with key enwiki:pcache:idhash:15580374-0!canonical and timestamp 20170926044741 and revision id 798174323
+<!-- Saved in parser cache with key enwiki:pcache:idhash:15580374-0!canonical and timestamp 20171030000137 and revision id 798174323
  -->
 <noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
 						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Main_Page&amp;oldid=798174323">https://en.wikipedia.org/w/index.php?title=Main_Page&amp;oldid=798174323</a>"					</div>
@@ -392,137 +373,3 @@ Transclusion expansion time report (%,ms,calls,template)
 							</div>
 		</div>
 		<div id="mw-navigation">
-			<h2>Navigation menu</h2>
-
-			<div id="mw-head">
-									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
-						<h3 id="p-personal-label">Personal tools</h3>
-						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Main+Page" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Main+Page" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
-					</div>
-									<div id="left-navigation">
-										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
-						<h3 id="p-namespaces-label">Namespaces</h3>
-						<ul>
-														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Main_Page" title="View the content page [c]" accesskey="c">Main Page</a></span></li>
-							<li id="ca-talk"><span><a href="/wiki/Talk:Main_Page" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
-						</ul>
-					</div>
-										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
-												<h3 id="p-variants-label">
-							<span>Variants</span>
-						</h3>
-
-						<div class="menu">
-							<ul>
-															</ul>
-						</div>
-					</div>
-									</div>
-				<div id="right-navigation">
-										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
-						<h3 id="p-views-label">Views</h3>
-						<ul>
-														<li id="ca-view" class="selected"><span><a href="/wiki/Main_Page">Read</a></span></li>
-							<li id="ca-viewsource"><span><a href="/w/index.php?title=Main_Page&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
-							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Main_Page&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
-						</ul>
-					</div>
-										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
-						<h3 id="p-cactions-label"><span>More</span></h3>
-
-						<div class="menu">
-							<ul>
-															</ul>
-						</div>
-					</div>
-										<div id="p-search" role="search">
-						<h3>
-							<label for="searchInput">Search</label>
-						</h3>
-
-						<form action="/w/index.php" id="searchform">
-							<div id="simpleSearch">
-							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
-						</form>
-					</div>
-									</div>
-			</div>
-			<div id="mw-panel">
-				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
-						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
-			<h3 id='p-navigation-label'>Navigation</h3>
-
-			<div class="body">
-									<ul>
-						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
-			<h3 id='p-interaction-label'>Interaction</h3>
-
-			<div class="body">
-									<ul>
-						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
-			<h3 id='p-tb-label'>Tools</h3>
-
-			<div class="body">
-									<ul>
-						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Main_Page" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Main_Page" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Main_Page&amp;oldid=798174323" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Main_Page&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5296" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Main_Page&amp;id=798174323" title="Information on how to cite this page">Cite this page</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
-			<h3 id='p-coll-print_export-label'>Print/export</h3>
-
-			<div class="body">
-									<ul>
-						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Main+Page">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Main+Page&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DMain%2BPage%26returnto%3DMain%2BPage%26oldid%3D798174323%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Main_Page&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
-			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
-
-			<div class="body">
-									<ul>
-						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-mediawiki"><a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en">MediaWiki</a></li><li class="wb-otherproject-link wb-otherproject-meta"><a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en">Meta-Wiki</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en">Wikispecies</a></li><li class="wb-otherproject-link wb-otherproject-wikibooks"><a href="https://en.wikibooks.org/wiki/Main_Page" hreflang="en">Wikibooks</a></li><li class="wb-otherproject-link wb-otherproject-wikidata"><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en">Wikidata</a></li><li class="wb-otherproject-link wb-otherproject-wikinews"><a href="https://en.wikinews.org/wiki/Main_Page" hreflang="en">Wikinews</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/Main_Page" hreflang="en">Wikiquote</a></li><li class="wb-otherproject-link wb-otherproject-wikisource"><a href="https://en.wikisource.org/wiki/Main_Page" hreflang="en">Wikisource</a></li><li class="wb-otherproject-link wb-otherproject-wikiversity"><a href="https://en.wikiversity.org/wiki/Wikiversity:Main_Page" hreflang="en">Wikiversity</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://en.wikivoyage.org/wiki/Main_Page" hreflang="en">Wikivoyage</a></li><li class="wb-otherproject-link wb-otherproject-wiktionary"><a href="https://en.wiktionary.org/wiki/Wiktionary:Main_Page" hreflang="en">Wiktionary</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
-			<h3 id='p-lang-label'>Languages</h3>
-
-			<div class="body">
-									<ul>
-						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/" title="Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/" title="Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/" title="Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/" title="Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/" title="Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/" title="Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/" title="German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/" title="Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/" title="Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/" title="Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/" title="Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/" title="Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/" title="Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/" title="French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/" title="Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/" title="Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/" title="Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/" title="Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/" title="Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/" title="Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/" title="Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/" title="Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/" title="Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/" title="Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/" title="Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/" title="Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/" title="Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/" title="Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/" title="Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/" title="Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/" title="Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/" title="Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/" title="Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/" title="Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/" title="Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/" title="Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/" title="Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/" title="Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/" title="Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/" title="Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/" title="Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/" title="Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/" title="Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/" title="Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/" title="Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
-							</div>
-		</div>
-				</div>
-		</div>
-		<div id="footer" role="contentinfo">
-							<ul id="footer-info">
-											<li id="footer-info-lastmod"> This page was last edited on 31 August 2017, at 11:44.</li>
-											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
-additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
-									</ul>
-							<ul id="footer-places">
-											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
-											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
-											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
-											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
-											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
-											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
-											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Main_Page&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
-									</ul>
-										<ul id="footer-icons" class="noprint">
-											<li id="footer-copyrightico">
-							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
-											<li id="footer-poweredbyico">
-							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
-									</ul>
-						<div style="clear:both"></div>
-		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.244","walltime":"0.325","ppvisitednodes":{"value":2977,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":101283,"limit":2097152},"templateargumentsize":{"value":4082,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  251.264      1 -total"," 37.84%   95.079      1 Wikipedia:Main_Page/Tomorrow"," 32.07%   80.589      6 Template:Main_page_image"," 17.80%   44.714      1 Wikipedia:Today's_featured_article/September_26,_2017"," 17.44%   43.823      2 Template:Wikipedia_languages"," 16.51%   41.485      1 Template:Did_you_know"," 16.09%   40.430      1 Template:Did_you_know/Queue/4"," 15.57%   39.121      1 User:DYKUpdateBot/REMOVE_THIS_LINE"," 14.85%   37.307      6 Template:Str_number/trim"," 13.11%   32.934     88 Template:Wikipedia_languages/core"]},"scribunto":{"limitreport-timeusage":{"value":"0.072","limit":"10.000"},"limitreport-memusage":{"value":4200293,"limit":52428800}},"cachereport":{"origin":"mw1213","timestamp":"20170926044741","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":59,"wgHostname":"mw1242"});});</script>
-	</body>
-</html>

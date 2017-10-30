@@ -1,485 +1,791 @@
-<!DOCTYPE html>
-<html class="client-nojs" lang="en" dir="ltr">
-<head>
-<meta charset="UTF-8"/>
-<title>Portal:Contents - Wikipedia</title>
-<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Portal","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":100,"wgPageName":"Portal:Contents","wgTitle":"Contents","wgCurRevisionId":802379209,"wgRevisionId":802379209,"wgArticleId":40273,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia semi-protected portals","Wikipedia move-protected portals","Wikipedia directories","Contents","Content portals"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Portal:Contents","wgRelevantArticleId":40273,"wgRequestId":"WcljxgpAMFIAAEQ9y5IAAABG","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["sysop"],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q4395506","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.ui.button":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
-mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
-
-});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
-<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
-<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
-<meta name="ResourceLoaderDynamicStyles" content=""/>
-<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
-<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.30.0-wmf.19"/>
-<meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
-<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
-<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
-<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
-<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Portal:Contents"/>
-<link rel="dns-prefetch" href="//login.wikimedia.org"/>
-<link rel="dns-prefetch" href="//meta.wikimedia.org" />
-<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
-</head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-100 ns-subject page-Portal_Contents rootpage-Portal_Contents skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
-		<div id="mw-head-base" class="noprint"></div>
-		<div id="content" class="mw-body" role="main">
-			<a id="top"></a>
-
-							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
-						<div class="mw-indicators mw-body-content">
-<div id="mw-indicator-pp-default" class="mw-indicator"><a href="/wiki/Wikipedia:Protection_policy#semi" title="This page is semi-protected."><img alt="Page semi-protected" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/30px-Padlock-silver.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/40px-Padlock-silver.svg.png 2x" data-file-width="128" data-file-height="128" /></a></div>
-</div>
-			<h1 id="firstHeading" class="firstHeading" lang="en">Portal:Contents</h1>
-									<div id="bodyContent" class="mw-body-content">
+<div id="bodyContent" class="mw-body-content">
 									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
 								<div id="contentSub"></div>
 												<div id="jump-to-nav" class="mw-jump">
 					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
 				</div>
-				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
-<p><span class="plainlinks"><a class="mw-selflink selflink"><span class="mw-ui-button mw-ui-constructive" role="button" style="background-color:#2962CB;padding:0 0.5em;">Contents</span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Overviews" title="Portal:Contents/Overviews"><span class="mw-ui-button mw-ui-constructive" role="button" style="padding:0 0.5em;">Overview</span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Outlines" title="Portal:Contents/Outlines"><span class="mw-ui-button mw-ui-constructive" role="button" style="padding:0 0.5em;">Outlines</span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Lists" title="Portal:Contents/Lists"><span class="mw-ui-button mw-ui-constructive" role="button" style="padding:0 0.5em;">Lists</span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Portals" title="Portal:Contents/Portals"><span class="mw-ui-button mw-ui-constructive" role="button" style="padding:0 0.5em;">Portals</span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Glossaries" title="Portal:Contents/Glossaries"><span class="mw-ui-button mw-ui-constructive" role="button" style="padding:0 0.5em;">Glossaries</span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Categories" title="Portal:Contents/Categories"><span class="mw-ui-button mw-ui-constructive" role="button" style="padding:0 0.5em;">Categories</span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Indices" title="Portal:Contents/Indices"><span class="mw-ui-button mw-ui-constructive" role="button" style="padding:0 0.5em;">Indices</span></a></span></p>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div id="portals-browsebar" class="hlist noprint" style="text-align: center;">
+<dl>
+<dt><a href="/wiki/Portal:Contents/Portals" title="Portal:Contents/Portals">Topics</a></dt>
+<dd><a href="/wiki/Portal:Contents/Portals#Culture_and_the_arts" title="Portal:Contents/Portals">Culture</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Geography_and_places" title="Portal:Contents/Portals">Geography</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Health_and_fitness" title="Portal:Contents/Portals">Health</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#History_and_events" title="Portal:Contents/Portals">History</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Mathematics_and_logic" title="Portal:Contents/Portals">Mathematics</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Natural_and_physical_sciences" title="Portal:Contents/Portals">Nature</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#People_and_self" title="Portal:Contents/Portals">People</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Philosophy_and_thinking" title="Portal:Contents/Portals">Philosophy</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Religion_and_belief_systems" title="Portal:Contents/Portals">Religion</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Society_and_social_sciences" title="Portal:Contents/Portals">Society</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Technology_and_applied_sciences" title="Portal:Contents/Portals">Technology</a></dd>
+</dl>
 </div>
-<div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
-<p><small><span class="plainlinks"><a href="/wiki/Portal:Contents/Reference" title="Portal:Contents/Reference"><span class="mw-ui-button mw-ui-progressive" role="button" style="padding:0 0.5em;">Reference</span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Culture_and_the_arts" title="Portal:Contents/Culture and the arts"><span class="mw-ui-button mw-ui-progressive" role="button" style="padding:0 0.5em;">Culture</span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Geography_and_places" title="Portal:Contents/Geography and places"><span class="mw-ui-button mw-ui-progressive" role="button" style="padding:0 0.5em;">Geography</span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Health_and_fitness" title="Portal:Contents/Health and fitness"><span class="mw-ui-button mw-ui-progressive" role="button" style="padding:0 0.5em;">Health</span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/History_and_events" title="Portal:Contents/History and events"><span class="mw-ui-button mw-ui-progressive" role="button" style="padding:0 0.5em;">History</span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Mathematics_and_logic" title="Portal:Contents/Mathematics and logic"><span class="mw-ui-button mw-ui-progressive" role="button" style="padding:0 0.5em;">Mathematics</span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Natural_and_physical_sciences" title="Portal:Contents/Natural and physical sciences"><span class="mw-ui-button mw-ui-progressive" role="button" style="padding:0 0.5em;">Nature</span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/People_and_self" title="Portal:Contents/People and self"><span class="mw-ui-button mw-ui-progressive" role="button" style="padding:0 0.5em;">People</span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Philosophy_and_thinking" title="Portal:Contents/Philosophy and thinking"><span class="mw-ui-button mw-ui-progressive" role="button" style="padding:0 0.5em;">Philosophy</span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Religion_and_belief_systems" title="Portal:Contents/Religion and belief systems"><span class="mw-ui-button mw-ui-progressive" role="button" style="padding:0 0.5em;">Religion</span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Society_and_social_sciences" title="Portal:Contents/Society and social sciences"><span class="mw-ui-button mw-ui-progressive" role="button" style="padding:0 0.5em;">Society</span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Technology_and_applied_sciences" title="Portal:Contents/Technology and applied sciences"><span class="mw-ui-button mw-ui-progressive" role="button" style="padding:0 0.5em;">Technology</span></a></span></small></p>
+<hr />
+<div id="sociology_browsebar" class="noprint" style="margin-top:-3px; margin-bottom:0.2em; text-align:center; font-size:95%;">
+<p><a href="/wiki/Portal:Society" title="Portal:Society">Society portals</a>: <a href="/wiki/Portal:Arts" title="Portal:Arts">Arts</a>&#160;<b>·</b>  <a href="/wiki/Portal:Anthropology" title="Portal:Anthropology">Anthropology</a>&#160;<b>·</b>  <a href="/wiki/Portal:Community" title="Portal:Community">Community</a>&#160;<b>·</b>  <a href="/wiki/Portal:Culture" title="Portal:Culture">Culture</a>&#160;<b>·</b>  <a href="/wiki/Portal:Business_and_economics" title="Portal:Business and economics">Economics</a>&#160;<b>·</b>  <a href="/wiki/Portal:Education" title="Portal:Education">Education</a>&#160;<b>·</b>  <a class="mw-selflink selflink">Geography</a>&#160;<b>·</b>  <a href="/wiki/Portal:Gender_studies" title="Portal:Gender studies">Gender studies</a>&#160;<b>·</b>  <a href="/wiki/Portal:Globalization" title="Portal:Globalization">Globalization</a>&#160;<b>·</b>  <a href="/wiki/Portal:History" title="Portal:History">History</a>&#160;<b>·</b>  <a href="/wiki/Portal:Human_rights" title="Portal:Human rights">Human rights</a>&#160;<b>·</b>  <a href="/wiki/Portal:Internet" title="Portal:Internet">Internet</a>&#160;<b>·</b>  <a href="/wiki/Portal:Law" title="Portal:Law">Law</a>&#160;<b>·</b>  <a href="/wiki/Portal:Philosophy" title="Portal:Philosophy">Philosophy</a>&#160;<b>·</b>  <a href="/wiki/Portal:Social_movements" title="Portal:Social movements">Social movements</a>&#160;<b>·</b>  <a href="/wiki/Portal:Social_sciences" title="Portal:Social sciences">Social sciences</a>&#160;<b>·</b>  <a href="/wiki/Portal:Social_welfare_and_social_work" title="Portal:Social welfare and social work">Social welfare and social work</a>&#160;<b>·</b>  <a href="/wiki/Portal:Sociology" title="Portal:Sociology">Sociology</a></p>
 </div>
-<table id="portal" cellspacing="0" cellpadding="0" width="100%" style="border:1px solid #B8C7D9; padding:0px;">
+<div style="float:right;"><a href="/wiki/Special:Nearby" title="Special:Nearby">Places near you</a></div>
+<table width="100%" cellpadding="5" cellspacing="6" style="background:white; text-align: justify; border-style:ridge; border-width:4px; border-color:#FABD23">
 <tr>
-<td colspan="2" style="background:#CEDFF2; text-align:center; padding:1px; border-bottom:1px #B8C7D9 solid;">
-<div style="font-size:21px; font-family: serif; font-weight:bold; text-align:center; padding-top:7px; padding-bottom:7px;">Explore Wikipedia's Contents</div>
-</td>
+<td width="55%" style="vertical-align:top;padding: 0; margin:0;">
+<div style="float:right; width:100%">
+<div style="clear: both; border: solid #FABD23; border-width: 1px 1px 0; background: #FFE996; color: green; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: green"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Geography/Intro&amp;action=edit"><span style="color: green">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:green;"><span class="mw-headline" id="The_Geography_Portal"><big>The Geography Portal</big></span></h2>
+</div>
+<div style="border: 1px solid #FABD23; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<p><br /></p>
+<div style="float:right;margin-left:1em">
+<center><a href="/wiki/Human_geography" title="Human geography">Human geography</a></center>
+<p><a href="/wiki/File:Snow-cholera-map-1.jpg" class="image" title="Original map by John Snow showing the clusters of cholera cases in the London epidemic of 1854"><img alt="Original map by John Snow showing the clusters of cholera cases in the London epidemic of 1854" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Snow-cholera-map-1.jpg/200px-Snow-cholera-map-1.jpg" width="200" height="187" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Snow-cholera-map-1.jpg/300px-Snow-cholera-map-1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Snow-cholera-map-1.jpg/400px-Snow-cholera-map-1.jpg 2x" data-file-width="3045" data-file-height="2840" /></a><br /></p>
+</div>
+<p><b><a href="/wiki/Geography" title="Geography">Geography</a></b> is the <a href="/wiki/Science" title="Science">science</a> that studies the lands, the features, the inhabitants, and the phenomena of the <a href="/wiki/Earth" title="Earth">Earth</a>. A literal translation would be "to describe or write about the Earth". The first person to use the word "geography" was <a href="/wiki/Eratosthenes" title="Eratosthenes">Eratosthenes</a> (276–194 BC). Four historical traditions in geographical research are the <a href="/wiki/Spatial_analysis" title="Spatial analysis">spatial analysis</a> of the natural and the <a href="/wiki/Human" title="Human">human</a> phenomena (geography as the study of distribution), the <a href="/wiki/Area_studies" title="Area studies">area studies</a> (places and regions), the study of the human-land relationship, and research in the <a href="/wiki/Earth_science" title="Earth science">Earth sciences</a>. Modern geography is an all-encompassing discipline that foremost seeks to understand the Earth and all of its human and natural complexities—not merely where objects are, but how they have changed and come to be. Geography has been called "the world discipline" and "the bridge between the human and the <a href="/wiki/Physical_science" class="mw-redirect" title="Physical science">physical science</a>". Geography is divided into two main branches: <a href="/wiki/Human_geography" title="Human geography">human geography</a> and <a href="/wiki/Physical_geography" title="Physical geography">physical geography</a>.</p>
+<table width="100%" border="0" style="padding: 0; margin:0; background:transparent;">
+<tr>
+<td style="text-align:right;margin-right:10px;margin-bottom:-4px;"><b><a href="/wiki/Geography" title="Geography">More about geography…</a></b></td>
 </tr>
+</table>
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div style="text-align:center; margin:0.25em auto 0.75em"><span class="noprint plainlinks purgelink"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Geography&amp;action=purge"><span title="Purge this page"><b>View new selections below</b> (purge)</span></a></span></div>
+<div class="portal-column-left">
+<div style="clear: both; border: solid #FABD23; border-width: 1px 1px 0; background: #FFE996; color: green; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: green"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Geography/Featured_article/21&amp;action=edit"><span style="color: green">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:green;"><span class="mw-headline" id="Featured_article">Featured article</span></h2>
+</div>
+<div style="border: 1px solid #FABD23; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div style="float:left;margin-right:1em"><a href="/wiki/File:Pulteney_Bridge,_daytime,_from_weir.jpg" class="image" title="Bath, Somerset"><img alt="Bath, Somerset" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Pulteney_Bridge%2C_daytime%2C_from_weir.jpg/120px-Pulteney_Bridge%2C_daytime%2C_from_weir.jpg" width="120" height="88" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Pulteney_Bridge%2C_daytime%2C_from_weir.jpg/180px-Pulteney_Bridge%2C_daytime%2C_from_weir.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Pulteney_Bridge%2C_daytime%2C_from_weir.jpg/240px-Pulteney_Bridge%2C_daytime%2C_from_weir.jpg 2x" data-file-width="815" data-file-height="598" /></a></div>
+<b><a href="/wiki/Bath,_Somerset" title="Bath, Somerset">Bath</a></b> is a <a href="/wiki/City" title="City">city</a> in south-west <a href="/wiki/England" title="England">England</a>, most famous for its baths fed by three <a href="/wiki/Hot_spring" title="Hot spring">hot springs</a>. The city was first recorded as a <a href="/wiki/Roman_Britain" title="Roman Britain">Roman</a> <a href="/wiki/Spa" title="Spa">spa</a>, though tradition suggests an earlier foundation. The waters from its spring were considered to be a cure for many afflictions. From <a href="/wiki/Elizabethan" class="mw-redirect" title="Elizabethan">Elizabethan</a> to <a href="/wiki/Georgian_era" title="Georgian era">Georgian</a> times it was a resort city for the wealthy. As a result of its popularity during the latter period, the city contains many fine examples of <a href="/wiki/Georgian_architecture" title="Georgian architecture">Georgian architecture</a>, particularly <a href="/wiki/The_Royal_Crescent" class="mw-redirect" title="The Royal Crescent">The Royal Crescent</a>. The city has a population of over 90,000 and is a <a href="/wiki/World_Heritage_Site" title="World Heritage Site">World Heritage Site</a>.
+<table class="noprint" width="100%" border="0" style="padding: 0; margin: 0; background-color:transparent">
 <tr>
-<td style="vertical-align:top;padding:8px 8px 0px 8px; background:#F5FAFF;">
-<div style="position:relative;top:-3em"><span id="WP:START"></span><span id="WP:EXPLORE"></span></div>
-<div class="shortcutbox plainlist noprint" role="note" style="float:right;border:1px solid #aaa;background:#fff;margin:.3em .3em .3em 1em;padding:.4em .6em;text-align:center;font-size:smaller;line-height:2em;font-weight:bold"><a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcuts</a>:
-<ul>
-<li><span class="plainlinks"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Wikipedia:START&amp;redirect=no">WP:START</a></span></li>
-<li><span class="plainlinks"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Wikipedia:EXPLORE&amp;redirect=no">WP:EXPLORE</a></span></li>
-</ul>
+<td>
+<div style="text-align:left;"><b><a href="/wiki/Portal:Geography/Featured_article" title="Portal:Geography/Featured article">...Archive/Nominations</a></b></div>
+</td>
+<td>
+<div style="text-align:right;margin-right:10px;margin-bottom:4px;">
+<p><b><a href="/wiki/Bath,_Somerset" title="Bath, Somerset">More...</a></b></p>
 </div>
-<div style="clear: right; margin-bottom: .5em; float: right; padding: .5em 0 .8em 1.4em; background: none; width: auto;" class="toclimit-2">
-<div id="toc" class="toc">
-<div class="toctitle">
-<h2>Contents</h2>
-</div>
-<ul>
-<li class="toclevel-1 tocsection-1"><a href="#Curated_article_collections"><span class="tocnumber">1</span> <span class="toctext">Curated article collections</span></a>
-<ul>
-<li class="toclevel-2 tocsection-2"><a href="#Overview_articles"><span class="tocnumber">1.1</span> <span class="toctext">Overview articles</span></a></li>
-<li class="toclevel-2 tocsection-3"><a href="#Outline_pages"><span class="tocnumber">1.2</span> <span class="toctext">Outline pages</span></a></li>
-<li class="toclevel-2 tocsection-4"><a href="#Third-party_classification_systems"><span class="tocnumber">1.3</span> <span class="toctext">Third-party classification systems</span></a></li>
-<li class="toclevel-2 tocsection-5"><a href="#Vital_articles"><span class="tocnumber">1.4</span> <span class="toctext">Vital articles</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-6"><a href="#Reference_collections"><span class="tocnumber">2</span> <span class="toctext">Reference collections</span></a>
-<ul>
-<li class="toclevel-2 tocsection-7"><a href="#List_pages"><span class="tocnumber">2.1</span> <span class="toctext">List pages</span></a></li>
-<li class="toclevel-2 tocsection-8"><a href="#Timelines"><span class="tocnumber">2.2</span> <span class="toctext">Timelines</span></a></li>
-<li class="toclevel-2 tocsection-9"><a href="#Glossaries"><span class="tocnumber">2.3</span> <span class="toctext">Glossaries</span></a></li>
-<li class="toclevel-2 tocsection-10"><a href="#Bibliographies"><span class="tocnumber">2.4</span> <span class="toctext">Bibliographies</span></a></li>
-<li class="toclevel-2 tocsection-11"><a href="#Category:Discographies"><span class="tocnumber">2.5</span> <span class="toctext">Category:Discographies</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-12"><a href="#Special_format_collections"><span class="tocnumber">3</span> <span class="toctext">Special format collections</span></a>
-<ul>
-<li class="toclevel-2 tocsection-13"><a href="#Portals"><span class="tocnumber">3.1</span> <span class="toctext">Portals</span></a></li>
-<li class="toclevel-2 tocsection-14"><a href="#Wikipedia_books"><span class="tocnumber">3.2</span> <span class="toctext">Wikipedia books</span></a></li>
-<li class="toclevel-2 tocsection-15"><a href="#Spoken_articles"><span class="tocnumber">3.3</span> <span class="toctext">Spoken articles</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-16"><a href="#Collections_of_articles"><span class="tocnumber">4</span> <span class="toctext">Collections of articles</span></a>
-<ul>
-<li class="toclevel-2 tocsection-17"><a href="#Category_system"><span class="tocnumber">4.1</span> <span class="toctext">Category system</span></a></li>
-<li class="toclevel-2 tocsection-18"><a href="#Alphabetical_lists_of_articles"><span class="tocnumber">4.2</span> <span class="toctext">Alphabetical lists of articles</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-19"><a href="#Collections_of_articles_by_quality_or_popularity"><span class="tocnumber">5</span> <span class="toctext">Collections of articles by quality or popularity</span></a>
-<ul>
-<li class="toclevel-2 tocsection-20"><a href="#Featured_content"><span class="tocnumber">5.1</span> <span class="toctext">Featured content</span></a></li>
-<li class="toclevel-2 tocsection-21"><a href="#Most_popular_articles"><span class="tocnumber">5.2</span> <span class="toctext">Most popular articles</span></a></li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-<p>There are two ways to look things up in Wikipedia: by searching or by browsing.</p>
-<ul>
-<li>If you know the name of an article for which you are looking, simply type it into Wikipedia's <a href="/wiki/Help:Searching" title="Help:Searching">search</a> box.</li>
-</ul>
-<ul>
-<li>If you would like to look around the encyclopedia to see what is on it, use Wikipedia's <b>Contents</b> pages. Lists and <a href="/wiki/Index_(publishing)" title="Index (publishing)">indices</a> are examples of contents for a published work, and Wikipedia has <a href="#Wikipedia.27s_indices">many of each</a>, including a <a href="/wiki/Portal:Contents/Quick_index" class="mw-redirect" title="Portal:Contents/Quick index">complete alphabetical index</a> and <a href="#Categorical_indices">indices by category</a>.<br />
-Links to all of Wikipedia's main contents pages are presented below, and they in turn link to the more specific pages.</li>
-</ul>
-<h2><span class="mw-headline" id="Curated_article_collections">Curated article collections</span></h2>
-<h3><span class="mw-headline" id="Overview_articles">Overview articles</span></h3>
-<p>Overview articles summarize in prose a broad topic like <a href="/wiki/Biology" title="Biology">biology</a>, and also have illustrations and links to subtopics like <a href="/wiki/Cell_biology" title="Cell biology">cell biology</a>, biographies like <a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Carl Linnaeus</a>, and other related articles like <a href="/wiki/Human_Genome_Project" title="Human Genome Project">Human Genome Project</a>.</p>
-<ul>
-<li><a href="/wiki/Portal:Contents/Overviews" title="Portal:Contents/Overviews">Portal:Contents/Overviews</a> lists overview articles from covered areas of knowledge in a single page.</li>
-</ul>
-<h3><span class="mw-headline" id="Outline_pages">Outline pages</span></h3>
-<p>Outline pages have trees of article links in an <a href="/wiki/Outline_(list)" title="Outline (list)">outline format</a>. They show how important subtopics relate to each other, and can be useful as a more condensed, non-prose alternative to overview articles.</p>
-<ul>
-<li><a href="/wiki/Portal:Contents/Outlines" title="Portal:Contents/Outlines">Portal:Contents/Outlines</a> is a comprehensive list of "Outline of __" pages, organized by subject</li>
-<li><a href="/wiki/Outline_of_academic_disciplines" title="Outline of academic disciplines">Outline of academic disciplines</a> covers subjects studied in college or university, and links directly to prose overview articles</li>
-</ul>
-<h3><span class="mw-headline" id="Third-party_classification_systems">Third-party classification systems</span></h3>
-<p>Various third-party classification systems have been mapped to Wikipedia articles, which can be accessed from these pages:</p>
-<ul>
-<li><a href="/wiki/List_of_Dewey_Decimal_classes" title="List of Dewey Decimal classes">List of Dewey Decimal classes</a></li>
-<li><a href="/wiki/Library_of_Congress_Classification" title="Library of Congress Classification">Library of Congress Classification</a></li>
-<li><a href="/wiki/Wikipedia:Outline_of_Roget%27s_Thesaurus" title="Wikipedia:Outline of Roget's Thesaurus">Wikipedia:Outline of Roget's Thesaurus</a></li>
-</ul>
-<h3><span class="mw-headline" id="Vital_articles">Vital articles</span></h3>
-<div role="note" class="hatnote navigation-not-searchable">Main page: <a href="/wiki/Wikipedia:Vital_articles" title="Wikipedia:Vital articles">Wikipedia:Vital articles</a></div>
-<p>Vital articles are lists of subjects for which Wikipedia should have corresponding high-quality articles. They serve as <a href="/wiki/Special:RecentChangesLinked/Wikipedia:Vital_articles" title="Special:RecentChangesLinked/Wikipedia:Vital articles">centralized watchlists</a> to track the status of Wikipedia's most important articles.</p>
-<ul>
-<li><a href="/wiki/Wikipedia:Vital_articles/Level/1" title="Wikipedia:Vital articles/Level/1">Vital articles level 1</a> – 10 most important articles</li>
-<li><a href="/wiki/Wikipedia:Vital_articles/Level/2" title="Wikipedia:Vital articles/Level/2">Vital articles level 2</a> – 100 most important articles</li>
-<li><a href="/wiki/Wikipedia:Vital_articles" title="Wikipedia:Vital articles">Vital articles level 3</a> – 1,000 most important articles</li>
-<li><a href="/wiki/Wikipedia:Vital_articles/Expanded" title="Wikipedia:Vital articles/Expanded">Vital articles level 4</a> – 10,000 most important articles</li>
-</ul>
-<h2><span class="mw-headline" id="Reference_collections">Reference collections</span></h2>
-<p>Wikipedia has several types of pages which provide content in a non-prose form, for reference purposes.</p>
-<h3><span class="mw-headline" id="List_pages">List pages</span></h3>
-<p>List pages enumerate items of a particular type, such as the <a href="/wiki/List_of_sovereign_states" title="List of sovereign states">List of sovereign states</a> or <a href="/wiki/List_of_South_Africans" title="List of South Africans">List of South Africans</a>. Wikipedia has "lists of lists" when there are too many items to fit on a single page, when the items can sorted in different ways, or as a way of navigating lists on a topic (for example <a href="/wiki/Lists_of_countries_and_territories" title="Lists of countries and territories">Lists of countries and territories</a> or <a href="/wiki/Lists_of_people" title="Lists of people">Lists of people</a>). There are several ways to find lists:</p>
-<ul>
-<li><a href="/wiki/Portal:Contents/Lists" title="Portal:Contents/Lists">Portal:Contents/Lists</a> – A limited single-page collection of lists and lists of lists</li>
-<li><a href="/wiki/List_of_lists_of_lists" title="List of lists of lists">List of lists of lists</a> – A broad single-page collection of lists of lists</li>
-<li><a href="/wiki/Category:Lists" title="Category:Lists">Category:Lists</a> – Browse lists comprehensively via the multi-page Wikipedia category system</li>
-</ul>
-<h3><span class="mw-headline" id="Timelines">Timelines</span></h3>
-<p>Timelines list events chronologically, sometimes including links to articles with more detail. There are several ways to find timelines:</p>
-<ul>
-<li><a href="/wiki/List_of_timelines" title="List of timelines">List of timelines</a> has a long single-page collection</li>
-<li><a href="/wiki/Category:Timelines" title="Category:Timelines">Category:Timelines</a> has a comprehensive multi-page collection via the Wikipedia category system</li>
-</ul>
-<p>Of particular interest may be:</p>
-<ul>
-<li><a href="/wiki/List_of_centuries" title="List of centuries">List of centuries</a></li>
-<li><a href="/wiki/List_of_decades" title="List of decades">List of decades</a></li>
-<li><a href="/wiki/List_of_historical_anniversaries" title="List of historical anniversaries">List of historical anniversaries</a>—e.g. events on January 1 of any year</li>
-<li><a href="/wiki/2017" title="2017">2017</a>—major events this year</li>
-<li><a href="/wiki/Portal:Current_events" title="Portal:Current events">Portal:Current events</a>—featured current events and related project activities</li>
-<li><a href="/wiki/Deaths_in_2017" title="Deaths in 2017">Deaths in 2017</a>—lists notable people who died this year</li>
-<li><a href="/wiki/Category:Graphical_timelines" title="Category:Graphical timelines">Category:Graphical timelines</a>—graphical timelines in the category and subcategories, arranged alphabetically</li>
-</ul>
-<h3><span class="mw-headline" id="Glossaries">Glossaries</span></h3>
-<p>Glossaries are lists of terms with definitions. Wikipedia includes hundreds of alphabetical glossaries; they can be found two ways:</p>
-<ul>
-<li><a href="/wiki/Portal:Contents/Glossaries" title="Portal:Contents/Glossaries">Portal:Contents/Glossaries</a> – A single-page list of glossaries</li>
-<li><a href="/wiki/Category:Wikipedia_glossaries" title="Category:Wikipedia glossaries">Category:Wikipedia glossaries</a> – Browse glossaries comprehensively via the Wikipedia category system</li>
-</ul>
-<h3><span class="mw-headline" id="Bibliographies">Bibliographies</span></h3>
-<p>Bibliographies list sources on a given topic, for verification or further reading outside Wikipedia:</p>
-<ul>
-<li><a href="/wiki/Category:Wikipedia_bibliographies" title="Category:Wikipedia bibliographies">Category:Wikipedia bibliographies</a> has a complete multi-page listing</li>
-</ul>
-<h3><span class="mw-headline" id="Category:Discographies">Category:Discographies</span></h3>
-<p>Discographies catalog the sound recordings of individual artists or groups.</p>
-<ul>
-<li><a href="/wiki/Category:Discographies" title="Category:Discographies">Category:Discographies</a> has a complete multi-page listing</li>
-</ul>
-<h2><span class="mw-headline" id="Special_format_collections">Special format collections</span></h2>
-<h3><span class="mw-headline" id="Portals">Portals</span></h3>
-<p>Portals include featured articles, images, news, categories, excerpts of key articles, links to related portals, and to-do lists for editors. There are two ways to find portals:</p>
-<ul>
-<li><a href="/wiki/Portal:Contents/Portals" title="Portal:Contents/Portals">Portal:Contents/Portals</a> – A single-page list of portals</li>
-<li><a href="/wiki/Category:Portals" title="Category:Portals">Category:Portals</a> – Browse portals comprehensively via the Wikipedia category system</li>
-</ul>
-<h3><span class="mw-headline" id="Wikipedia_books">Wikipedia books</span></h3>
-<p><a href="/wiki/Wikipedia:Books" title="Wikipedia:Books">Wikipedia books</a> are collections of Wikipedia articles that can be viewed, downloaded, or printed into a book. They provide a roadmap for a course of study in a particular subject.</p>
-<ul>
-<li><a href="/wiki/Category:Wikipedia_books_(community_books)" title="Category:Wikipedia books (community books)">Category:Wikipedia books (community books)</a>—an alphabetical list of the books</li>
-<li><a href="/wiki/Category:Wikipedia_books" title="Category:Wikipedia books">Category:Wikipedia books</a>—a list of the books, categorized by topic</li>
-</ul>
-<h3><span class="mw-headline" id="Spoken_articles">Spoken articles</span></h3>
-<p>Growing collections of Wikipedia articles are starting to become available as spoken word recordings as well.</p>
-<ul>
-<li><a href="/wiki/Category:Spoken_articles" title="Category:Spoken articles">Category:Spoken articles</a>—an organized list of all spoken articles</li>
-<li><a href="/wiki/Wikipedia:Spoken_articles" title="Wikipedia:Spoken articles">Wikipedia:Spoken articles</a>—some general information about the spoken article technology</li>
-</ul>
-<h2><span class="mw-headline" id="Collections_of_articles">Collections of articles</span></h2>
-<h3><span class="mw-headline" id="Category_system">Category system</span></h3>
-<p>Wikipedia's <a href="/wiki/Wikipedia:Categorization" title="Wikipedia:Categorization">collection of category pages</a> is a classified index system. It is automatically generated from category tags at the bottoms of articles and most other pages. Nearly all of the articles available so far on the website can be found through these subject indexes.</p>
-<p>If you are simply looking to browse articles by topic, there are three top-level pages to choose from:</p>
-<ul>
-<li><a href="/wiki/Category:Main_topic_classifications" title="Category:Main topic classifications">Category:Main topic classifications</a>—probably what you are looking for: Arts, History, Technology, etc.</li>
-<li><a href="/wiki/Portal:Contents/Categories" title="Portal:Contents/Categories">Portal:Contents/Categories</a>—a hand-crafted list of first- and second-level topic categories</li>
-</ul>
-<p>For biographies, see <a href="/wiki/Category:People" title="Category:People">Category:People</a>.</p>
-<p><a href="/wiki/Category:Contents" title="Category:Contents">Category:Contents</a> is technically at the top of the category hierarchy, but contains many categories useful to editors but not readers. <a href="/wiki/Special:Categories" title="Special:Categories">Special:Categories</a> lists every category alphabetically.</p>
-<h3><span class="mw-headline" id="Alphabetical_lists_of_articles">Alphabetical lists of articles</span></h3>
-<p>Wikipedia's alphabetical article indexes</p>
-<ul>
-<li><a href="/wiki/Special:AllPages" title="Special:AllPages">Special:Allpages</a> lists all of the current pages in Wikipedia.</li>
-<li><a href="/wiki/Portal:Contents/A%E2%80%93Z_index" title="Portal:Contents/A–Z index">Portal:Contents/A–Z index</a> provides an easy way to skip to a particular part of the alphabet in the list of all articles.</li>
-<li>Lists of alphabetical indexes
-<ul>
-<li><a href="/wiki/Category:Wikipedia_indexes" title="Category:Wikipedia indexes">Category:Wikipedia indexes</a>—alphabetical list of topic indexes</li>
-<li><a href="/wiki/Portal:Contents/Indices" title="Portal:Contents/Indices">Portal:Contents/Indices</a>—indexes sorted by topic area</li>
-</ul>
-</li>
-</ul>
-<h2><span class="mw-headline" id="Collections_of_articles_by_quality_or_popularity">Collections of articles by quality or popularity</span></h2>
-<h3><span class="mw-headline" id="Featured_content">Featured content</span></h3>
-<p><a href="/wiki/Portal:Featured_content" title="Portal:Featured content">Featured content</a> is the best Wikipedia has to offer, via vigorous <a href="/wiki/Wikipedia:Peer_review" title="Wikipedia:Peer review">peer review</a>. Presented by type:</p>
-<ul>
-<li><a href="/wiki/Wikipedia:Featured_articles" title="Wikipedia:Featured articles">Featured articles</a>&#160;<b>·</b> <a href="/wiki/Wikipedia:Featured_lists" title="Wikipedia:Featured lists">Featured lists</a>&#160;<b>·</b>  <a href="/wiki/Wikipedia:Featured_pictures" title="Wikipedia:Featured pictures">Featured pictures</a>&#160;<b>·</b>  <a href="/wiki/Portal:Featured_portals" class="mw-redirect" title="Portal:Featured portals">Featured portals</a>&#160;<b>·</b>  <a href="/wiki/Wikipedia:Featured_topics" title="Wikipedia:Featured topics">Featured topics</a></li>
-</ul>
-<h3><span class="mw-headline" id="Most_popular_articles">Most popular articles</span></h3>
-<ul>
-<li><a href="/wiki/Wikipedia:Top_5000_pages" class="mw-redirect" title="Wikipedia:Top 5000 pages">Wikipedia:Top 5000 pages</a> (of the last week)</li>
-</ul>
 </td>
 </tr>
 </table>
-<div role="navigation" aria-labelledby="contents-footer-label" id="contents-footer" class="hlist plainlinks selfreference noprint" style="font-size:88%; margin-top:5px; border:1px solid #B8C7D9; background-color:#E6F2FF; padding:1em; text-align:center">
-<div id="contents-footer-label" style="font-size:140%"><a class="mw-selflink selflink">Content listings</a></div>
-<div style="font-size:105%; font-weight:bold">Types</div>
-<div>
-<ul>
-<li><a href="/wiki/Portal:Contents/Overviews" title="Portal:Contents/Overviews">Overviews</a></li>
-<li><a href="/wiki/Portal:Featured_content" title="Portal:Featured content">Featured content</a></li>
-<li><a href="/wiki/Portal:Contents/Outlines" title="Portal:Contents/Outlines">Outlines</a></li>
-<li><a href="/wiki/Portal:Contents/Lists" title="Portal:Contents/Lists">Lists</a></li>
-<li><a href="/wiki/Portal:Contents/Portals" title="Portal:Contents/Portals">Portals</a></li>
-<li><a href="/wiki/Portal:Contents/Glossaries" title="Portal:Contents/Glossaries">Glossaries</a></li>
-<li><a href="/wiki/Portal:Contents/Categories" title="Portal:Contents/Categories">Categories</a></li>
-<li><a href="/wiki/Portal:Contents/Indices" title="Portal:Contents/Indices">Indices</a></li>
-</ul>
+<div style="clear:both;"></div>
 </div>
-<div>
-<div style="font-size:105%; font-weight:bold">Topics</div>
-<ul>
-<li><a href="/wiki/Portal:Current_events" title="Portal:Current events">Current events</a></li>
-<li><a href="/wiki/Portal:Contents/Reference" title="Portal:Contents/Reference">Reference</a></li>
-<li><a href="/wiki/Portal:Contents/Culture_and_the_arts" title="Portal:Contents/Culture and the arts">Culture</a></li>
-<li><a href="/wiki/Portal:Contents/Geography_and_places" title="Portal:Contents/Geography and places">Geography</a></li>
-<li><a href="/wiki/Portal:Contents/Health_and_fitness" title="Portal:Contents/Health and fitness">Health</a></li>
-<li><a href="/wiki/Portal:Contents/History_and_events" title="Portal:Contents/History and events">History</a></li>
-<li><a href="/wiki/Portal:Contents/Mathematics_and_logic" title="Portal:Contents/Mathematics and logic">Mathematics</a></li>
-<li><a href="/wiki/Portal:Contents/Natural_and_physical_sciences" title="Portal:Contents/Natural and physical sciences">Nature</a></li>
-<li><a href="/wiki/Portal:Contents/People_and_self" title="Portal:Contents/People and self">People</a></li>
-<li><a href="/wiki/Portal:Contents/Philosophy_and_thinking" title="Portal:Contents/Philosophy and thinking">Philosophy</a></li>
-<li><a href="/wiki/Portal:Contents/Religion_and_belief_systems" title="Portal:Contents/Religion and belief systems">Religion</a></li>
-<li><a href="/wiki/Portal:Contents/Society_and_social_sciences" title="Portal:Contents/Society and social sciences">Society</a></li>
-<li><a href="/wiki/Portal:Contents/Technology_and_applied_sciences" title="Portal:Contents/Technology and applied sciences">Technology</a></li>
-</ul>
+<div style="clear: both; border: solid #FABD23; border-width: 1px 1px 0; background: #FFE996; color: green; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: green"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Geography/Selected_anniversaries/October&amp;action=edit"><span style="color: green">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:green;"><span class="mw-headline" id="In_this_month">In this month</span></h2>
 </div>
-<div>
-<div style="font-size:105%; font-weight:bold">Places, people and times</div>
+<div style="border: 1px solid #FABD23; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div style="float:right;margin-left:0.5em;">
+<p><a href="/wiki/File:David_Harvey2.jpg" class="image" title="David Harvey"><img alt="David Harvey" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/David_Harvey2.jpg/100px-David_Harvey2.jpg" width="100" height="73" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/David_Harvey2.jpg/150px-David_Harvey2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/David_Harvey2.jpg/200px-David_Harvey2.jpg 2x" data-file-width="1191" data-file-height="871" /></a></p>
+</div>
 <ul>
-<li><a href="/wiki/Outline_of_academic_disciplines" title="Outline of academic disciplines">Academic disciplines</a></li>
-<li><a href="/wiki/List_of_historical_anniversaries" title="List of historical anniversaries">Anniversaries</a>
-<ul>
-<li><span style="font-size:90%"><a href="/wiki/September_25" title="September 25">today</a></span></li>
+<li>9 October 1851 – Work began on the constitution of the <b><a href="/wiki/American_Geographical_Society" title="American Geographical Society">American Geographical Society</a></b>, at a meeting held in the Geographical and Statistical Library in New York City</li>
+<li>15 October 2011 – Beginning of broadcasting of <b><a href="/wiki/National_Geographic_Farsi" title="National Geographic Farsi">National Geographic Farsi</a></b></li>
+<li>31 October 1693 – Formation of township which later became city of <b><a href="/wiki/Perth_Amboy,_New_Jersey" title="Perth Amboy, New Jersey">Perth Amboy, New Jersey</a></b></li>
+<li>31 October 1935 – Birth of <a href="/wiki/Geography" title="Geography">geography</a> and <a href="/wiki/Anthropology" title="Anthropology">anthropology</a> professor <b><a href="/wiki/David_Harvey_(geographer)" class="mw-redirect" title="David Harvey (geographer)">David Harvey</a></b> <i>(pictured)</i>, in <a href="/wiki/Gillingham,_Kent" title="Gillingham, Kent">Gillingham, Kent</a>, <a href="/wiki/South_East_England" title="South East England">South East England</a></li>
 </ul>
+<div style="text-align:right;margin-right:10px;margin-bottom:4px;"><b><a href="/wiki/Portal:Geography/Selected_anniversaries" title="Portal:Geography/Selected anniversaries">More anniversaries...</a></b></div>
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid #FABD23; border-width: 1px 1px 0; background: #FFE996; color: green; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: green"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Geography/DYK/2&amp;action=edit"><span style="color: green">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:green;"><span class="mw-headline" id="Did_you_know...">Did you know...</span></h2>
+</div>
+<div style="border: 1px solid #FABD23; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div style="float:right;margin-left:0.5em;">
+<p><a href="/wiki/File:AKMap-doton-RaspberryIsland.png" class="image" title="Raspberry Island"><img alt="Raspberry Island" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/AKMap-doton-RaspberryIsland.png/100px-AKMap-doton-RaspberryIsland.png" width="100" height="62" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/AKMap-doton-RaspberryIsland.png/150px-AKMap-doton-RaspberryIsland.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/AKMap-doton-RaspberryIsland.png/200px-AKMap-doton-RaspberryIsland.png 2x" data-file-width="300" data-file-height="186" /></a></p>
+</div>
+<ul>
+<li>...that <b><a href="/wiki/Raspberry_Island_(Alaska)" title="Raspberry Island (Alaska)">Raspberry Island</a></b> <i>(pictured)</i> in the <a href="/wiki/Gulf_of_Alaska" title="Gulf of Alaska">Gulf of Alaska</a> boasts some of the largest <a href="/wiki/Roosevelt_elk" title="Roosevelt elk">Roosevelt elk</a> ever recorded?</li>
+<li>... that <a href="/wiki/Georgia_(country)" title="Georgia (country)">Georgian</a> <a href="/wiki/Daba_(settlement)" title="Daba (settlement)"><i>daba</i></a> <b><a href="/wiki/Manglisi" title="Manglisi">Manglisi</a></b> has been a mountain resort area for the people of <a href="/wiki/Tbilisi" title="Tbilisi">Tbilisi</a> since the 19th century?</li>
+<li>...that only three of the <b><a href="/wiki/List_of_islands_of_the_United_States_by_area" title="List of islands of the United States by area">largest islands of the United States</a></b>&#160;– the <a href="/wiki/Hawaii_(island)" title="Hawaii (island)">Big Island</a> of <a href="/wiki/Hawaii" title="Hawaii">Hawaii</a>, <a href="/wiki/Kodiak_Island" title="Kodiak Island">Kodiak Island</a>, and <a href="/wiki/Geography_of_Puerto_Rico" title="Geography of Puerto Rico">Puerto Rico</a>&#160;– are greater than 3,000 <a href="/wiki/Square_mile" title="Square mile">square miles</a> (8,000 <a href="/wiki/Square_kilometre" title="Square kilometre">km²</a>) in size?</li>
+</ul>
+<table class="noprint" width="100%" border="0" style="padding: 0; margin: 0; background-color:transparent">
+<tr>
+<td>
+<div style="text-align:left;margin-bottom:0px;"><b><a href="/wiki/Portal:Geography/DYK" title="Portal:Geography/DYK">...Archive/Nominations</a></b></div>
+</td>
+<td>
+<div style="text-align:right;margin-right:10px;margin-bottom:0px;">
+<p><b><a href="/wiki/Wikipedia:Recent_additions" title="Wikipedia:Recent additions">More...</a></b></p>
+</div>
+</td>
+</tr>
+</table>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid #FABD23; border-width: 1px 1px 0; background: #FFE996; color: green; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: green"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Geography/Things_you_can_do&amp;action=edit"><span style="color: green">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:green;"><span class="mw-headline" id="Things_you_can_do">Things you can do</span></h2>
+</div>
+<div style="border: 1px solid #FABD23; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<p><br /></p>
+<table style="background:none;width:auto;">
+<tr>
+<td style="vertical-align:top;"><a href="/wiki/File:Nuvola_apps_korganizer.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/e/e6/Nuvola_apps_korganizer.svg/50px-Nuvola_apps_korganizer.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e6/Nuvola_apps_korganizer.svg/75px-Nuvola_apps_korganizer.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e6/Nuvola_apps_korganizer.svg/100px-Nuvola_apps_korganizer.svg.png 2x" data-file-width="128" data-file-height="128" /></a><br />
+<div style="width: 55px; height: 0px;"></div>
+</td>
+<td>
+<div style="position: relative; left: 0px; margin-right: 0px; z-index: 15;">Here are some <b><a href="/wiki/Wikipedia:Community_portal/Opentask" title="Wikipedia:Community portal/Opentask">tasks awaiting attention</a>:</b>
+<ul style="font-size: 100%; margin: 0px; padding: 0.3em 0px 0.3em 25px;">
+<li><b><i><a href="/wiki/Wikipedia:Requested_articles" title="Wikipedia:Requested articles">Article requests</a></i> :</b> See <a href="/wiki/Wikipedia:Requested_articles/Social_sciences/Geography,_cities,_regions_and_named_places" title="Wikipedia:Requested articles/Social sciences/Geography, cities, regions and named places"><b>Requested articles/Social sciences/Geography, cities, regions and named places</b></a> and <a href="/wiki/User:Skysmith/Missing_articles_about_Locations" title="User:Skysmith/Missing articles about Locations"><b>Missing articles about Locations</b></a></li>
+<li><b><i><a href="/wiki/Wikipedia:Version_1.0_Editorial_Team/Assessment" class="mw-redirect" title="Wikipedia:Version 1.0 Editorial Team/Assessment">Assess</a></i> :</b> Tag related article talk pages with <code>{{<a href="/wiki/Template:WikiProject_Geography" title="Template:WikiProject Geography">WikiProject Geography</a>}}</code>. To help assess the quality and importance of geography articles, please see: <a href="/wiki/Category:Unassessed_geography_articles" title="Category:Unassessed geography articles"><b>Unassessed geography articles</b></a> and <a href="/wiki/Category:Unknown-importance_geography_articles" title="Category:Unknown-importance geography articles"><b>Unknown-importance geography articles</b></a>.</li>
+<li><b><i><a href="/wiki/Wikipedia:Cleanup" title="Wikipedia:Cleanup">Cleanup</a></i> :</b> See <a href="/wiki/Category:Geography_articles_needing_attention" title="Category:Geography articles needing attention"><b>Geography articles needing attention</b></a>
+<dl>
+<dd><a href="/wiki/Geography" title="Geography">Geography</a></dd>
+<dd><a href="/wiki/Geographic_information_system" title="Geographic information system">Geographic information system</a></dd>
+<dd><a href="/wiki/Geography_of_China" title="Geography of China">Geography of China</a></dd>
+<dd><a href="/wiki/Geostatistics" title="Geostatistics">Geostatistics</a></dd>
+<dd><a href="/wiki/History_of_geography" title="History of geography">History of geography</a></dd>
+<dd><a href="/wiki/Holarctic" title="Holarctic">Holarctic</a></dd>
+<dd><a href="/wiki/Kriging" title="Kriging">Kriging</a></dd>
+<dd><a href="/wiki/Philosophy_of_geography" title="Philosophy of geography">Philosophy of geography</a></dd>
+<dd><a href="/wiki/Urbanism" title="Urbanism">Urbanism</a></dd>
+<dd><a href="/wiki/Valley" title="Valley">Valley</a></dd>
+</dl>
 </li>
-<li><a href="/wiki/Lists_of_countries_and_territories" title="Lists of countries and territories">Countries and territories</a></li>
-<li><a href="/wiki/Lists_of_people" title="Lists of people">People</a>
-<ul>
-<li><span style="font-size:90%"><a href="/wiki/Deaths_in_2017" title="Deaths in 2017">deaths this year</a></span></li>
-</ul>
+<li><b><i><a href="/wiki/Wikipedia:How_to_copy-edit" class="mw-redirect" title="Wikipedia:How to copy-edit">Copyedit</a></i> :</b> <a href="/wiki/Geographical_feature" title="Geographical feature">Geographical feature</a>
+<dl>
+<dd><a href="/wiki/Glossary_of_geography_terms" title="Glossary of geography terms">Glossary of geography terms</a></dd>
+<dd><a href="/wiki/List_of_world_map_changes" class="mw-redirect" title="List of world map changes">List of world map changes</a></dd>
+<dd><a href="/wiki/Regions_of_North_America" class="mw-redirect" title="Regions of North America">Regions of North America</a> <i>(See <a href="/wiki/Regions_of_Africa" class="mw-redirect" title="Regions of Africa">Regions of Africa</a>)</i></dd>
+<dd><a href="/wiki/Regions_of_Oceania" class="mw-redirect" title="Regions of Oceania">Regions of Oceania</a></dd>
+<dd><a href="/wiki/Regions_of_South_America" class="mw-redirect" title="Regions of South America">Regions of South America</a></dd>
+<dd><a href="/wiki/Demographics_of_Asia" title="Demographics of Asia">Demographics of Asia</a> <i>(See <a href="/wiki/Demographics_of_Africa" title="Demographics of Africa">Demographics of Africa</a>)</i></dd>
+<dd><a href="/wiki/Demographics_of_Oceania" title="Demographics of Oceania">Demographics of Oceania</a></dd>
+<dd><a href="/wiki/Cycle_of_erosion" title="Cycle of erosion">Cycle of erosion</a></dd>
+<dd><a href="/wiki/Outer_Continental_Shelf" title="Outer Continental Shelf">Outer Continental Shelf</a></dd>
+<dd><a href="/wiki/Tied_island" title="Tied island">Tied island</a></dd>
+</dl>
 </li>
-<li><a href="/wiki/List_of_timelines" title="List of timelines">Timelines</a>
-<ul>
-<li><span style="font-size:90%"><a href="/wiki/List_of_centuries" title="List of centuries">centuries</a></span></li>
-<li><span style="font-size:90%"><a href="/wiki/List_of_decades" title="List of decades">decades</a></span></li>
+<li><b><i><a href="/wiki/Wikipedia:WikiProject_Deletion_sorting" title="Wikipedia:WikiProject Deletion sorting">Deletion sorting</a></i> :</b> Listed at <a href="/wiki/Wikipedia:WikiProject_Deletion_sorting/Compact#Geographic" title="Wikipedia:WikiProject Deletion sorting/Compact"><b>Geographic related deletion discussions</b></a></li>
+<li><b><i><a href="/wiki/Wikipedia:Writing_better_articles" title="Wikipedia:Writing better articles">Expand</a></i> :</b> <i><b>TOP PRIORITY:</b></i> expand articles in <a href="/wiki/Outline_of_geography" title="Outline of geography">Outline of geography</a> and <a href="/wiki/Category:Outlines_of_regions" title="Category:Outlines of regions">Outlines of regions</a> (one for each country and region) - these are general reference companions to the main articles on each country. Are your favorite countries covered yet? The lists completed enough to be transferred to article space can be found at <a href="/wiki/Portal:Contents/Geography_and_places" title="Portal:Contents/Geography and places">Portal:Contents/Geography and places</a>.
+<dl>
+<dd><a href="/wiki/Index_of_geography_articles" title="Index of geography articles">Index of geography articles</a> (replace redirect with an article index, see <a href="/wiki/Index_of_psychology_articles" title="Index of psychology articles">Index of psychology articles</a> as an example)</dd>
+<dd><a href="/wiki/List_of_geographers" title="List of geographers">List of geographers</a></dd>
+<dd><a href="/wiki/Visual_geography" title="Visual geography">Visual geography</a></dd>
+</dl>
+</li>
+<li><b><i><a href="/wiki/Wikipedia:WikiProject_Geographical_coordinates" title="Wikipedia:WikiProject Geographical coordinates">Geographical coordinates</a></i> :</b> See <a href="/wiki/Category:Articles_missing_geocoordinate_data_by_country" title="Category:Articles missing geocoordinate data by country"><b>Articles missing geocoordinate data by country</b></a></li>
+<li><b><i><a href="/wiki/Wikipedia:Manual_of_Style_(infoboxes)" class="mw-redirect" title="Wikipedia:Manual of Style (infoboxes)">Infobox</a></i> :</b> See <a href="/wiki/Category:Geography_articles_needing_infoboxes" title="Category:Geography articles needing infoboxes"><b>Geography articles needing infoboxes</b></a></li>
+<li><b><i><a href="/wiki/Wikipedia:WikiProject_Maps" title="Wikipedia:WikiProject Maps">Map</a></i> :</b> See <a href="/wiki/Category:Wikipedia_requested_maps" title="Category:Wikipedia requested maps"><b>Wikipedia requested maps</b></a></li>
+<li><b><i><a href="/wiki/Wikipedia:Notability" title="Wikipedia:Notability">Notability</a></i> :</b> See <a href="/wiki/Category:Geography_articles_with_topics_of_unclear_notability" title="Category:Geography articles with topics of unclear notability"><b>Geography articles with topics of unclear notability</b></a></li>
+<li><b><i><a href="/wiki/Wikipedia:Requested_pictures" title="Wikipedia:Requested pictures">Photo</a></i> :</b> See <a href="/wiki/Category:Wikipedia_requested_photographs_of_places" title="Category:Wikipedia requested photographs of places"><b>Wikipedia requested photographs of places</b></a></li>
+<li><b><i><a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">Stubs</a></i> :</b> See <a href="/wiki/Category:Geography_stubs" title="Category:Geography stubs"><b>Geography stubs</b></a></li>
 </ul>
+</div>
+</td>
+</tr>
+</table>
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="portal-column-right">
+<div style="clear: both; border: solid #FABD23; border-width: 1px 1px 0; background: #FFE996; color: green; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: green"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Geography/Featured_biography/10&amp;action=edit"><span style="color: green">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:green;"><span class="mw-headline" id="Featured_biography">Featured biography</span></h2>
+</div>
+<div style="border: 1px solid #FABD23; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div style="float:right;margin-left:0.2em"><a href="/wiki/File:Lord_Stanley_by_Hugh_Cecil.jpg" class="image" title="Albert Stanley, 1st Baron Ashfield"><img alt="Albert Stanley, 1st Baron Ashfield" src="//upload.wikimedia.org/wikipedia/en/thumb/5/54/Lord_Stanley_by_Hugh_Cecil.jpg/120px-Lord_Stanley_by_Hugh_Cecil.jpg" width="120" height="162" srcset="//upload.wikimedia.org/wikipedia/en/thumb/5/54/Lord_Stanley_by_Hugh_Cecil.jpg/180px-Lord_Stanley_by_Hugh_Cecil.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/5/54/Lord_Stanley_by_Hugh_Cecil.jpg/240px-Lord_Stanley_by_Hugh_Cecil.jpg 2x" data-file-width="332" data-file-height="448" /></a></div>
+<b><a href="/wiki/Albert_Stanley,_1st_Baron_Ashfield" title="Albert Stanley, 1st Baron Ashfield">Albert Stanley, 1st Baron Ashfield</a></b> was managing director, then chairman of the <a href="/wiki/Underground_Electric_Railways_Company_of_London" title="Underground Electric Railways Company of London">Underground Electric Railways Company of London</a> (UERL) from 1910 to 1933 and chairman of the <a href="/wiki/London_Passenger_Transport_Board" title="London Passenger Transport Board">London Passenger Transport Board</a> (LPTB) from 1933 to 1947. At a young age, he held senior positions in the developing tramway systems of Detroit and New Jersey. In 1907, his management skills led to his recruitment by the UERL, which was struggling through a financial crisis. He quickly integrated the company's management and used advertising and public relations to improve profits. As managing director of the UERL from 1910, he led the take-over of competing underground railway companies and bus and tram operations to form an integrated transport operation known as the Combine. He was <a href="/wiki/Member_of_Parliament" class="mw-redirect" title="Member of Parliament">Member of Parliament</a> for <a href="/wiki/Ashton-under-Lyne_(UK_Parliament_constituency)" title="Ashton-under-Lyne (UK Parliament constituency)">Ashton-under-Lyne</a> from <span class="nowrap">December 1916</span> to <span class="nowrap">January 1920</span> and was <a href="/wiki/Secretary_of_State_for_Trade_and_Industry" class="mw-redirect" title="Secretary of State for Trade and Industry">President of the Board of Trade</a> between <span class="nowrap">December 1916</span> and <span class="nowrap">May 1919</span>. He returned to the UERL and then chaired it and its successor the LPTB during the organisation's greatest period of expansion between the two World Wars, making it a world-respected organisation considered an exemplar of the best form of public administration.
+<table class="noprint" width="100%" border="0" style="padding: 0; margin: 0; background-color:transparent">
+<tr>
+<td>
+<div style="text-align:left;"><b><a href="/wiki/Portal:Geography/Featured_biography" title="Portal:Geography/Featured biography">...Archive/Nominations</a></b></div>
+</td>
+<td>
+<div style="text-align:right;margin-right:10px;margin-bottom:4px;">
+<p><b><a href="/wiki/Albert_Stanley,_1st_Baron_Ashfield" title="Albert Stanley, 1st Baron Ashfield">More...</a></b></p>
+</div>
+</td>
+</tr>
+</table>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid #FABD23; border-width: 1px 1px 0; background: #FFE996; color: green; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: green"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Geography/Categories&amp;action=edit"><span style="color: green">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:green;"><span class="mw-headline" id="Categories">Categories</span></h2>
+</div>
+<div style="border: 1px solid #FABD23; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div class="floatright"><a href="/wiki/File:C_Puzzle.png" class="image" title="Geography categories"><img alt="Geography categories" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/C_Puzzle.png/42px-C_Puzzle.png" width="42" height="42" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/C_Puzzle.png/63px-C_Puzzle.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/C_Puzzle.png/84px-C_Puzzle.png 2x" data-file-width="150" data-file-height="150" /></a></div>
+<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false}">
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Geography" data-ct-loaded="1" data-ct-state="expanded">▼</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Geography">Geography</a></div>
+<div class="CategoryTreeChildren" style="display:block">
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Geography_by_place" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Geography_by_place">Geography by place</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Geography-related_lists" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Geography-related_lists">Geography-related lists</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Geography_awards_and_competitions" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Geography_awards_and_competitions">Geography awards and competitions</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Branches_of_geography" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Branches_of_geography">Branches of geography</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Geographic_classifications" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Geographic_classifications">Geographic classifications</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">►</span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Geography_conferences">Geography conferences</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Geography_education" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Geography_education">Geography education</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Environmental_studies" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Environmental_studies">Environmental studies</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Exploration" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Exploration">Exploration</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Geocodes" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Geocodes">Geocodes</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Geographers" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Geographers">Geographers</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Geographic_data_and_information" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Geographic_data_and_information">Geographic data and information</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Geographical_zones" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Geographical_zones">Geographical zones</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="History_of_geography" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:History_of_geography">History of geography</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">►</span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Land_systems">Land systems</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Landscape" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Landscape">Landscape</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Navigation" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Navigation">Navigation</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Geography_organizations" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Geography_organizations">Geography organizations</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Places" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Places">Places</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Geographical_regions" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Geographical_regions">Geographical regions</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Surveying" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Surveying">Surveying</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Geographical_technology" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Geographical_technology">Geographical technology</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Geography_terminology" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Geography_terminology">Geography terminology</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Works_about_geography" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Works_about_geography">Works about geography</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Geographic_images" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Geographic_images">Geographic images</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Geography_stubs" data-ct-state="collapsed">►</span></span> <a class="CategoryTreeLabel  CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Category:Geography_stubs">Geography stubs</a></div>
+<div class="CategoryTreeChildren" style="display:none"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid #FABD23; border-width: 1px 1px 0; background: #FFE996; color: green; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: green"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Geography/WikiProjects&amp;action=edit"><span style="color: green">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:green;"><span class="mw-headline" id="WikiProjects">WikiProjects</span></h2>
+</div>
+<div style="border: 1px solid #FABD23; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div style="float: right; margin-left: 0.9em"><a href="/wiki/File:Community.png" class="image" title="WikiProjects"><img alt="WikiProjects" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Community.png" width="55" height="37" data-file-width="48" data-file-height="32" /></a></div>
+<dl>
+<dt>Parent project</dt>
+</dl>
+<ul>
+<li><a href="/wiki/Wikipedia:WikiProject_Geography" title="Wikipedia:WikiProject Geography">WikiProject Geography</a></li>
+</ul>
+<dl>
+<dt>Descendant projects</dt>
+</dl>
+<div class="hlist nowraplinks">
+<ul>
+<li><a href="/wiki/Wikipedia:WikiProject_Caves" title="Wikipedia:WikiProject Caves">Caves</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Cities" title="Wikipedia:WikiProject Cities">Cities</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Countries" title="Wikipedia:WikiProject Countries">Countries</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Country_subdivisions" title="Wikipedia:WikiProject Country subdivisions">Country subdivisions</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Demographics" title="Wikipedia:WikiProject Demographics">Demographics</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Deserts" title="Wikipedia:WikiProject Deserts">Deserts</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Former_countries" title="Wikipedia:WikiProject Former countries">Former countries</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Geographical_coordinates" title="Wikipedia:WikiProject Geographical coordinates">Geographical coordinates</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Glaciers" title="Wikipedia:WikiProject Glaciers">Glaciers</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Islands" title="Wikipedia:WikiProject Islands">Islands</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Lakes" title="Wikipedia:WikiProject Lakes">Lakes</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Maps" title="Wikipedia:WikiProject Maps">Maps</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Mountains" title="Wikipedia:WikiProject Mountains">Mountains</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Protected_areas" title="Wikipedia:WikiProject Protected areas">Protected areas</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Rivers" title="Wikipedia:WikiProject Rivers">Rivers</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Former_countries/Subdivisions_bureau" title="Wikipedia:WikiProject Former countries/Subdivisions bureau">Subdivisions of former countries</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Tropical_cyclones" title="Wikipedia:WikiProject Tropical cyclones">Tropical cyclones</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Urban_studies_and_planning" title="Wikipedia:WikiProject Urban studies and planning">Urban studies and planning</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Volcanoes" title="Wikipedia:WikiProject Volcanoes">Volcanoes</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Waterfalls" title="Wikipedia:WikiProject Waterfalls">Waterfalls</a></li>
+</ul>
+</div>
+<dl>
+<dt>Related projects</dt>
+</dl>
+<ul>
+<li><a href="/wiki/Wikipedia:WikiProject_Globalization" title="Wikipedia:WikiProject Globalization">WikiProject Globalization</a></li>
+</ul>
+<div align="right"><b>What are <a href="/wiki/Wikipedia:WikiProject" title="Wikipedia:WikiProject">WikiProjects</a>?</b></div>
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div style="float:right; width:100%">
+<div style="clear: both; border: solid #FABD23; border-width: 1px 1px 0; background: #FFE996; color: green; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: green"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Geography/Featured_picture/10&amp;action=edit"><span style="color: green">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:green;"><span class="mw-headline" id="Featured_picture">Featured picture</span></h2>
+</div>
+<div style="border: 1px solid #FABD23; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Sarychev_Volcano_edit.jpg" class="image" title="Matua (island)"><img alt="Matua (island)" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sarychev_Volcano_edit.jpg/400px-Sarychev_Volcano_edit.jpg" width="400" height="323" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sarychev_Volcano_edit.jpg/600px-Sarychev_Volcano_edit.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sarychev_Volcano_edit.jpg/800px-Sarychev_Volcano_edit.jpg 2x" data-file-width="2734" data-file-height="2208" /></a></div>
+</div>
+<table class="noprint" width="100%" border="0" style="padding: 0; margin: 0; background-color:transparent">
+<tr>
+<td width="33%">
+<center><small>Credit: <a href="/wiki/NASA" title="NASA">NASA</a></small></center>
+</td>
+</tr>
+</table>
+<p>A view from space of an <a href="/wiki/Explosive_eruption" title="Explosive eruption">explosive eruption</a> of <a href="/wiki/Sarychev_Peak" title="Sarychev Peak">Sarychev Peak</a> on <span class="nowrap">June 12</span>, 2009. The <a href="/wiki/Volcano" title="Volcano">volcano</a> is the central peak of <b><a href="/wiki/Matua_(island)" title="Matua (island)">Matua</a></b>, an uninhabited island in the <a href="/wiki/Kuril_Islands" title="Kuril Islands">Kuril archipelago</a> in the <a href="/wiki/Sea_of_Okhotsk" title="Sea of Okhotsk">Sea of Okhotsk</a> east of Russia and north of Japan. During World War&#160;II, the <a href="/wiki/Imperial_Japanese_Army" title="Imperial Japanese Army">Imperial Japanese Army</a> had an airfield on the island, which was taken over by the <a href="/wiki/Soviet_Border_Troops" title="Soviet Border Troops">Soviet Border Troops</a> after the war and abandoned in 1999.</p>
+<table class="noprint" width="100%" border="0" style="padding: 0; margin: 0; background-color:transparent">
+<tr>
+<td width="33%">
+<div style="text-align:left;"><b><a href="/wiki/Portal:Geography/Featured_picture" title="Portal:Geography/Featured picture">...Archive/Nominations</a></b></div>
+</td>
+<td>
+<div style="text-align:right;margin-right:10px;margin-bottom:4px;">
+<p><b><a href="/wiki/Matua_(island)" title="Matua (island)">More...</a></b></p>
+</div>
+</td>
+</tr>
+</table>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid #FABD23; border-width: 1px 1px 0; background: #FFE996; color: green; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: green"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Geography/Selected_quote/9&amp;action=edit"><span style="color: green">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:green;"><span class="mw-headline" id="Selected_quote">Selected quote</span></h2>
+</div>
+<div style="border: 1px solid #FABD23; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<center>
+<table class="noprint" border="0" style="text-align:left; padding: 0; margin: 0; background-color:transparent">
+<tr>
+<td>
+<div style="float:left;margin-right:1em"><a href="/wiki/File:William_bryant.jpg" class="image" title="William Cullen Bryant"><img alt="William Cullen Bryant" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/William_bryant.jpg/120px-William_bryant.jpg" width="120" height="156" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/William_bryant.jpg/180px-William_bryant.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/William_bryant.jpg/240px-William_bryant.jpg 2x" data-file-width="1086" data-file-height="1409" /></a></div>
+<table class="cquote" role="presentation" style="margin:auto; border-collapse: collapse; border: none; background-color: transparent; width: auto;">
+<tr>
+<td style="width: 20px; vertical-align: top; border: none; color: #B2B7F2; font-size: 40px; font-family: 'Times New Roman', Times, serif; font-weight: bold; line-height: .6em; text-align: left; padding: 10px 10px;">“</td>
+<td style="vertical-align: top; border: none; padding: 4px 10px;">That make the meadows green; and, poured round all, / Old Ocean's gray and melancholy waste,— / Are but the solemn decorations all / Of the great tomb of man.</td>
+<td style="width: 20px; vertical-align: bottom; border: none; color: #B2B7F2; font-size: 40px; font-family: 'Times New Roman', Times, serif; font-weight: bold; line-height: .6em; text-align: right; padding: 10px 10px;">”</td>
+</tr>
+</table>
+<div style="text-align:right; margin-right:10px">— <b><a href="/wiki/William_Cullen_Bryant" title="William Cullen Bryant">William Cullen Bryant</a></b>, "<a href="/wiki/Thanatopsis" title="Thanatopsis">Thanatopsis</a>" (1817)</div>
+</td>
+</tr>
+</table>
+</center>
+<table class="noprint" width="100%" border="0" style="padding: 0; margin: 0; background-color:transparent">
+<tr>
+<td>
+<div style="text-align:left;margin-bottom:0px;"><b><a href="/wiki/Portal:Geography/Selected_quote" title="Portal:Geography/Selected quote">...Archive/Nominations</a></b></div>
+</td>
+<td>
+<div style="text-align:right;margin-right:10px;margin-bottom:0px;"><b><a href="https://en.wikiquote.org/wiki/Geography" class="extiw" title="wikiquote:Geography">More...</a></b></div>
+</td>
+</tr>
+</table>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid #FABD23; border-width: 1px 1px 0; background: #FFE996; color: green; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: green"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Geography/Articles&amp;action=edit"><span style="color: green">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:green;"><span class="mw-headline" id="Articles">Articles</span></h2>
+</div>
+<div style="border: 1px solid #FABD23; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<table align="center" cellspacing="0" cellpadding="5" style="background-color:transparent;padding:2px;line-height:1.5em;">
+<tr align="center">
+<td width="33%"><a href="/wiki/Antarctica" title="Antarctica"><img alt="Antarctica (orthographic projection).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Antarctica_%28orthographic_projection%29.svg/28px-Antarctica_%28orthographic_projection%29.svg.png" width="28" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Antarctica_%28orthographic_projection%29.svg/42px-Antarctica_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Antarctica_%28orthographic_projection%29.svg/56px-Antarctica_%28orthographic_projection%29.svg.png 2x" data-file-width="537" data-file-height="536" /></a><br />
+<a href="/wiki/Antarctica" title="Antarctica">Antarctica</a></td>
+<td width="34%"><a href="/wiki/Afro-Eurasia" title="Afro-Eurasia"><img alt="Afro-Eurasia (orthographic projection).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Afro-Eurasia_%28orthographic_projection%29.svg/30px-Afro-Eurasia_%28orthographic_projection%29.svg.png" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Afro-Eurasia_%28orthographic_projection%29.svg/45px-Afro-Eurasia_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Afro-Eurasia_%28orthographic_projection%29.svg/60px-Afro-Eurasia_%28orthographic_projection%29.svg.png 2x" data-file-width="550" data-file-height="550" /></a><br />
+<a href="/wiki/Afro-Eurasia" title="Afro-Eurasia">Afro-Eurasia</a></td>
+<td width="33%"><a href="/wiki/Americas" title="Americas"><img alt="Americas (orthographic projection).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Americas_%28orthographic_projection%29.svg/30px-Americas_%28orthographic_projection%29.svg.png" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Americas_%28orthographic_projection%29.svg/45px-Americas_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Americas_%28orthographic_projection%29.svg/60px-Americas_%28orthographic_projection%29.svg.png 2x" data-file-width="550" data-file-height="550" /></a><br />
+<a href="/wiki/Americas" title="Americas">Americas</a></td>
+</tr>
+<tr align="center">
+<td width="33%"><a href="/wiki/Australia" title="Australia"><img alt="Australia (orthographic projection).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Australia_%28orthographic_projection%29.svg/30px-Australia_%28orthographic_projection%29.svg.png" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Australia_%28orthographic_projection%29.svg/45px-Australia_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Australia_%28orthographic_projection%29.svg/60px-Australia_%28orthographic_projection%29.svg.png 2x" data-file-width="541" data-file-height="541" /></a><br />
+<a href="/wiki/Australia" title="Australia">Australia</a></td>
+<td width="34%"><a href="/wiki/Africa" title="Africa"><img alt="Africa (orthographic projection).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Africa_%28orthographic_projection%29.svg/30px-Africa_%28orthographic_projection%29.svg.png" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Africa_%28orthographic_projection%29.svg/45px-Africa_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/Africa_%28orthographic_projection%29.svg/60px-Africa_%28orthographic_projection%29.svg.png 2x" data-file-width="550" data-file-height="550" /></a><br />
+<a href="/wiki/Africa" title="Africa">Africa</a></td>
+<td width="33%"><a href="/wiki/Eurasia" title="Eurasia"><img alt="Eurasia (orthographic projection).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Eurasia_%28orthographic_projection%29.svg/30px-Eurasia_%28orthographic_projection%29.svg.png" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Eurasia_%28orthographic_projection%29.svg/45px-Eurasia_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/30/Eurasia_%28orthographic_projection%29.svg/60px-Eurasia_%28orthographic_projection%29.svg.png 2x" data-file-width="550" data-file-height="550" /></a><br />
+<a href="/wiki/Eurasia" title="Eurasia">Eurasia</a></td>
+</tr>
+<tr align="center">
+<td width="33%"><a href="/wiki/North_America" title="North America"><img alt="North America (orthographic projection).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/North_America_%28orthographic_projection%29.svg/30px-North_America_%28orthographic_projection%29.svg.png" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/North_America_%28orthographic_projection%29.svg/45px-North_America_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/North_America_%28orthographic_projection%29.svg/60px-North_America_%28orthographic_projection%29.svg.png 2x" data-file-width="550" data-file-height="550" /></a><br />
+<a href="/wiki/North_America" title="North America">North America</a></td>
+<td width="34%"><a href="/wiki/Oceania" title="Oceania"><img alt="Oceania (orthographic projection).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Oceania_%28orthographic_projection%29.svg/30px-Oceania_%28orthographic_projection%29.svg.png" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Oceania_%28orthographic_projection%29.svg/45px-Oceania_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Oceania_%28orthographic_projection%29.svg/60px-Oceania_%28orthographic_projection%29.svg.png 2x" data-file-width="541" data-file-height="541" /></a><br />
+<a href="/wiki/Oceania" title="Oceania">Oceania</a></td>
+<td width="33%"><a href="/wiki/Europe" title="Europe"><img alt="Europe (orthographic projection).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/30px-Europe_%28orthographic_projection%29.svg.png" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/45px-Europe_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Europe_%28orthographic_projection%29.svg/60px-Europe_%28orthographic_projection%29.svg.png 2x" data-file-width="541" data-file-height="541" /></a><br />
+<a href="/wiki/Europe" title="Europe">Europe</a></td>
+</tr>
+<tr align="center">
+<td width="33%"><a href="/wiki/Asia" title="Asia"><img alt="Asia (orthographic projection).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Asia_%28orthographic_projection%29.svg/30px-Asia_%28orthographic_projection%29.svg.png" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Asia_%28orthographic_projection%29.svg/45px-Asia_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Asia_%28orthographic_projection%29.svg/60px-Asia_%28orthographic_projection%29.svg.png 2x" data-file-width="541" data-file-height="541" /></a><br />
+<a href="/wiki/Asia" title="Asia">Asia</a></td>
+<td width="34%"><a href="/wiki/South_America" title="South America"><img alt="South America (orthographic projection).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/South_America_%28orthographic_projection%29.svg/30px-South_America_%28orthographic_projection%29.svg.png" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/South_America_%28orthographic_projection%29.svg/45px-South_America_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/South_America_%28orthographic_projection%29.svg/60px-South_America_%28orthographic_projection%29.svg.png 2x" data-file-width="541" data-file-height="541" /></a><br />
+<a href="/wiki/South_America" title="South America">South America</a></td>
+<td width="33%"><a href="/wiki/Supercontinent" title="Supercontinent">Supercontinents</a>:<br />
+<a href="/wiki/Gondwana" title="Gondwana">Gondwana</a>&#160;• <a href="/wiki/Laurasia" title="Laurasia">Laurasia</a>&#160;• <a href="/wiki/Pangaea" title="Pangaea">Pangaea</a>&#160;• <a href="/wiki/Rodinia" title="Rodinia">Rodinia</a></td>
+</tr>
+</table>
+<p><br /></p>
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid #FABD23; border-width: 1px 1px 0; background: #FFE996; color: green; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: green"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Geography/Subportals&amp;action=edit"><span style="color: green">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:green;"><span class="mw-headline" id="Subportals">Subportals</span></h2>
+</div>
+<div style="border: 1px solid #FABD23; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<center>
+<ul class="related-portals" style="margin: 0; overflow: hidden; list-style: none none;">
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Africa-locator.jpg" class="image"><img alt="Africa-locator.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Africa-locator.jpg/38px-Africa-locator.jpg" width="38" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Africa-locator.jpg/57px-Africa-locator.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Africa-locator.jpg/76px-Africa-locator.jpg 2x" data-file-width="209" data-file-height="219" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Africa" title="Portal:Africa">Africa</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:ContinentAntarctica.svg" class="image"><img alt="ContinentAntarctica.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/ContinentAntarctica.svg/52px-ContinentAntarctica.svg.png" width="52" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/ContinentAntarctica.svg/79px-ContinentAntarctica.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/ContinentAntarctica.svg/105px-ContinentAntarctica.svg.png 2x" data-file-width="234" data-file-height="179" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Antarctica" title="Portal:Antarctica">Antarctica</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Ibca_gebco_comp_cover.jpg" class="image"><img alt="Ibca gebco comp cover.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ibca_gebco_comp_cover.jpg/40px-Ibca_gebco_comp_cover.jpg" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ibca_gebco_comp_cover.jpg/60px-Ibca_gebco_comp_cover.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ibca_gebco_comp_cover.jpg/80px-Ibca_gebco_comp_cover.jpg 2x" data-file-width="1024" data-file-height="1024" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Arctic" title="Portal:Arctic">Arctic</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Asia_(orthographic_projection).svg" class="image"><img alt="Asia (orthographic projection).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Asia_%28orthographic_projection%29.svg/40px-Asia_%28orthographic_projection%29.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Asia_%28orthographic_projection%29.svg/60px-Asia_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Asia_%28orthographic_projection%29.svg/80px-Asia_%28orthographic_projection%29.svg.png 2x" data-file-width="541" data-file-height="541" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Asia" title="Portal:Asia">Asia</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Caribbean_map_blank.png" class="image"><img alt="Caribbean map blank.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Caribbean_map_blank.png/43px-Caribbean_map_blank.png" width="43" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Caribbean_map_blank.png/64px-Caribbean_map_blank.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Caribbean_map_blank.png/86px-Caribbean_map_blank.png 2x" data-file-width="2700" data-file-height="2518" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Caribbean" title="Portal:Caribbean">Caribbean</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Age_of_Consent_-_Central_America.svg" class="image"><img alt="Age of Consent - Central America.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Age_of_Consent_-_Central_America.svg/47px-Age_of_Consent_-_Central_America.svg.png" width="47" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Age_of_Consent_-_Central_America.svg/71px-Age_of_Consent_-_Central_America.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Age_of_Consent_-_Central_America.svg/95px-Age_of_Consent_-_Central_America.svg.png 2x" data-file-width="425" data-file-height="360" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Central_America" class="mw-redirect" title="Portal:Central America">Central America</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Europe_green_light.png" class="image"><img alt="Europe green light.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Europe_green_light.png/46px-Europe_green_light.png" width="46" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Europe_green_light.png/69px-Europe_green_light.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Europe_green_light.png/92px-Europe_green_light.png 2x" data-file-width="260" data-file-height="226" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Europe" title="Portal:Europe">Europe</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Flag_of_Europe.svg" class="image"><img alt="Flag of Europe.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/60px-Flag_of_Europe.svg.png" width="60" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/90px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/120px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:European_Union" title="Portal:European Union">European Union</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Ic%C3%B4ne_Ile.svg" class="image"><img alt="Icône Ile.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ic%C3%B4ne_Ile.svg/40px-Ic%C3%B4ne_Ile.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ic%C3%B4ne_Ile.svg/60px-Ic%C3%B4ne_Ile.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ic%C3%B4ne_Ile.svg/80px-Ic%C3%B4ne_Ile.svg.png 2x" data-file-width="200" data-file-height="200" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Islands" title="Portal:Islands">Islands</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Map-Latin_America_and_Caribbean.png" class="image"><img alt="Map-Latin America and Caribbean.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Map-Latin_America_and_Caribbean.png/35px-Map-Latin_America_and_Caribbean.png" width="35" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Map-Latin_America_and_Caribbean.png/52px-Map-Latin_America_and_Caribbean.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Map-Latin_America_and_Caribbean.png/69px-Map-Latin_America_and_Caribbean.png 2x" data-file-width="390" data-file-height="450" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Latin_America" title="Portal:Latin America">Latin America</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Mediterranean_Relief.jpg" class="image"><img alt="Mediterranean Relief.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Mediterranean_Relief.jpg/65px-Mediterranean_Relief.jpg" width="65" height="36" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Mediterranean_Relief.jpg/98px-Mediterranean_Relief.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Mediterranean_Relief.jpg/130px-Mediterranean_Relief.jpg 2x" data-file-width="1308" data-file-height="733" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Mediterranean" title="Portal:Mediterranean">Mediterranean</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:MiddleEast_blacky.svg" class="image"><img alt="MiddleEast blacky.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/MiddleEast_blacky.svg/44px-MiddleEast_blacky.svg.png" width="44" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/MiddleEast_blacky.svg/66px-MiddleEast_blacky.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/MiddleEast_blacky.svg/89px-MiddleEast_blacky.svg.png 2x" data-file-width="1551" data-file-height="1402" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Middle_East" title="Portal:Middle East">Middle East</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:North_America_368x348.png" class="image"><img alt="North America 368x348.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/North_America_368x348.png/42px-North_America_368x348.png" width="42" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/North_America_368x348.png/63px-North_America_368x348.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/North_America_368x348.png/85px-North_America_368x348.png 2x" data-file-width="368" data-file-height="348" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:North_America" title="Portal:North America">North America</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:%E5%A4%A7%E6%B4%8B.png" class="image"><img alt="大洋.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/%E5%A4%A7%E6%B4%8B.png/49px-%E5%A4%A7%E6%B4%8B.png" width="49" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/%E5%A4%A7%E6%B4%8B.png/74px-%E5%A4%A7%E6%B4%8B.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/%E5%A4%A7%E6%B4%8B.png/98px-%E5%A4%A7%E6%B4%8B.png 2x" data-file-width="756" data-file-height="617" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Oceania" title="Portal:Oceania">Oceania</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Rotating_earth_(Very_small).gif" class="image"><img alt="Rotating earth (Very small).gif" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Rotating_earth_%28Very_small%29.gif/40px-Rotating_earth_%28Very_small%29.gif" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/b/ba/Rotating_earth_%28Very_small%29.gif 1.5x" data-file-width="60" data-file-height="60" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Oceans" class="mw-redirect" title="Portal:Oceans">Oceans</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:South_America.png" class="image"><img alt="South America.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/South_America.png/25px-South_America.png" width="25" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/South_America.png/38px-South_America.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/South_America.png/51px-South_America.png 2x" data-file-width="195" data-file-height="306" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:South_America" class="mw-redirect" title="Portal:South America">South America</a></b></div>
 </li>
 </ul>
+</center>
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
 </div>
-<div style="font-size:105%; font-weight:bold">Indices</div>
-<div>
+<div style="clear: both; border: solid #FABD23; border-width: 1px 1px 0; background: #FFE996; color: green; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: green"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Geography/Related_portals&amp;action=edit"><span style="color: green">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:green;"><span class="mw-headline" id="Related_portals">Related portals</span></h2>
+</div>
+<div style="border: 1px solid #FABD23; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<ul class="related-portals" style="margin: 0; overflow: hidden; list-style: none none;">
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:World_map_green.png" class="image"><img alt="World map green.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/World_map_green.png/65px-World_map_green.png" width="65" height="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/World_map_green.png/98px-World_map_green.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/95/World_map_green.png/130px-World_map_green.png 2x" data-file-width="4312" data-file-height="2128" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Atlas" title="Portal:Atlas">Atlas</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Cumulus_clouds_in_fair_weather.jpeg" class="image"><img alt="Cumulus clouds in fair weather.jpeg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cumulus_clouds_in_fair_weather.jpeg/53px-Cumulus_clouds_in_fair_weather.jpeg" width="53" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cumulus_clouds_in_fair_weather.jpeg/80px-Cumulus_clouds_in_fair_weather.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cumulus_clouds_in_fair_weather.jpeg/107px-Cumulus_clouds_in_fair_weather.jpeg 2x" data-file-width="800" data-file-height="600" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Atmosphere" class="mw-redirect" title="Portal:Atmosphere">Atmosphere</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Cumulus_clouds_in_fair_weather.jpeg" class="image"><img alt="Cumulus clouds in fair weather.jpeg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cumulus_clouds_in_fair_weather.jpeg/53px-Cumulus_clouds_in_fair_weather.jpeg" width="53" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cumulus_clouds_in_fair_weather.jpeg/80px-Cumulus_clouds_in_fair_weather.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cumulus_clouds_in_fair_weather.jpeg/107px-Cumulus_clouds_in_fair_weather.jpeg 2x" data-file-width="800" data-file-height="600" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Atmospheric_sciences" title="Portal:Atmospheric sciences">Atmospheric sciences</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:SanFranHouses06.JPG" class="image"><img alt="SanFranHouses06.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/SanFranHouses06.JPG/52px-SanFranHouses06.JPG" width="52" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/SanFranHouses06.JPG/78px-SanFranHouses06.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/SanFranHouses06.JPG/104px-SanFranHouses06.JPG 2x" data-file-width="430" data-file-height="330" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Disasters" title="Portal:Disasters">Disasters</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:The_Earth_seen_from_Apollo_17_with_transparent_background.png" class="image"><img alt="The Earth seen from Apollo 17 with transparent background.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png/40px-The_Earth_seen_from_Apollo_17_with_transparent_background.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png/60px-The_Earth_seen_from_Apollo_17_with_transparent_background.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png/80px-The_Earth_seen_from_Apollo_17_with_transparent_background.png 2x" data-file-width="2790" data-file-height="2776" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Earth_sciences" title="Portal:Earth sciences">Earth sciences</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Good_Friday_Earthquake_at_Turnagain_Arm.jpg" class="image"><img alt="Good Friday Earthquake at Turnagain Arm.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Good_Friday_Earthquake_at_Turnagain_Arm.jpg/56px-Good_Friday_Earthquake_at_Turnagain_Arm.jpg" width="56" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Good_Friday_Earthquake_at_Turnagain_Arm.jpg/84px-Good_Friday_Earthquake_at_Turnagain_Arm.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Good_Friday_Earthquake_at_Turnagain_Arm.jpg/112px-Good_Friday_Earthquake_at_Turnagain_Arm.jpg 2x" data-file-width="1488" data-file-height="1064" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Earthquakes" title="Portal:Earthquakes">Earthquakes</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="Crystal energy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/42px-Crystal_energy.svg.png" width="42" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/63px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/84px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Aegopodium_podagraria1_ies.jpg" class="image"><img alt="Aegopodium podagraria1 ies.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/46px-Aegopodium_podagraria1_ies.jpg" width="46" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/69px-Aegopodium_podagraria1_ies.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/91px-Aegopodium_podagraria1_ies.jpg 2x" data-file-width="800" data-file-height="700" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Environment" title="Portal:Environment">Environment</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Global_Warming_Map.jpg" class="image"><img alt="Global Warming Map.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Global_Warming_Map.jpg/54px-Global_Warming_Map.jpg" width="54" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Global_Warming_Map.jpg/81px-Global_Warming_Map.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Global_Warming_Map.jpg/108px-Global_Warming_Map.jpg 2x" data-file-width="800" data-file-height="596" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Global_warming" title="Portal:Global warming">Global warming</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Ic%C3%B4ne_Ile.svg" class="image"><img alt="Icône Ile.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ic%C3%B4ne_Ile.svg/40px-Ic%C3%B4ne_Ile.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ic%C3%B4ne_Ile.svg/60px-Ic%C3%B4ne_Ile.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ic%C3%B4ne_Ile.svg/80px-Ic%C3%B4ne_Ile.svg.png 2x" data-file-width="200" data-file-height="200" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Islands" title="Portal:Islands">Islands</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:The_Matterhorn_as_seen_from_Zermatt.png" class="image"><img alt="The Matterhorn as seen from Zermatt.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/The_Matterhorn_as_seen_from_Zermatt.png/40px-The_Matterhorn_as_seen_from_Zermatt.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/The_Matterhorn_as_seen_from_Zermatt.png/60px-The_Matterhorn_as_seen_from_Zermatt.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e4/The_Matterhorn_as_seen_from_Zermatt.png/80px-The_Matterhorn_as_seen_from_Zermatt.png 2x" data-file-width="1000" data-file-height="994" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Mountains" title="Portal:Mountains">Mountains</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg" class="image"><img alt="Stylised atom with three Bohr model orbits and stylised nucleus.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg/35px-Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg.png" width="35" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg/53px-Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg/70px-Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg.png 2x" data-file-width="266" data-file-height="303" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Physics" title="Portal:Physics">Physics</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Plato-raphael.jpg" class="image"><img alt="Plato-raphael.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Plato-raphael.jpg/38px-Plato-raphael.jpg" width="38" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Plato-raphael.jpg/56px-Plato-raphael.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Plato-raphael.jpg/75px-Plato-raphael.jpg 2x" data-file-width="246" data-file-height="262" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Political_science" title="Portal:Political science">Political science</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Nuvola_apps_kalzium.svg" class="image"><img alt="Nuvola apps kalzium.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nuvola_apps_kalzium.svg/40px-Nuvola_apps_kalzium.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nuvola_apps_kalzium.svg/60px-Nuvola_apps_kalzium.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nuvola_apps_kalzium.svg/80px-Nuvola_apps_kalzium.svg.png 2x" data-file-width="128" data-file-height="128" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Science" title="Portal:Science">Science</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Seamount.svg" class="image"><img alt="Seamount.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/2/27/Seamount.svg/35px-Seamount.svg.png" width="35" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/2/27/Seamount.svg/53px-Seamount.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/2/27/Seamount.svg/71px-Seamount.svg.png 2x" data-file-width="597" data-file-height="674" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Seamounts" title="Portal:Seamounts">Seamounts</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Logo_sociology.svg" class="image"><img alt="Logo sociology.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Logo_sociology.svg/40px-Logo_sociology.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Logo_sociology.svg/60px-Logo_sociology.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Logo_sociology.svg/80px-Logo_sociology.svg.png 2x" data-file-width="616" data-file-height="616" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Sociology" title="Portal:Sociology">Sociology</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Sustainable_development.svg" class="image"><img alt="Sustainable development.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/63px-Sustainable_development.svg.png" width="63" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/94px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/126px-Sustainable_development.svg.png 2x" data-file-width="800" data-file-height="510" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG" class="image"><img alt="Cyclone Catarina from the ISS on March 26 2004.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG/61px-Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG" width="61" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG/91px-Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG/121px-Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG 2x" data-file-width="3032" data-file-height="2004" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Tropical_cyclones" title="Portal:Tropical cyclones">Tropical cyclones</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Spaccato_vulcano.svg" class="image"><img alt="Spaccato vulcano.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Spaccato_vulcano.svg/43px-Spaccato_vulcano.svg.png" width="43" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Spaccato_vulcano.svg/64px-Spaccato_vulcano.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Spaccato_vulcano.svg/85px-Spaccato_vulcano.svg.png 2x" data-file-width="640" data-file-height="600" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Volcanoes" title="Portal:Volcanoes">Volcanoes</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Drinking_water.jpg" class="image"><img alt="Drinking water.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Drinking_water.jpg/26px-Drinking_water.jpg" width="26" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Drinking_water.jpg/40px-Drinking_water.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Drinking_water.jpg/53px-Drinking_water.jpg 2x" data-file-width="300" data-file-height="450" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Water" title="Portal:Water">Water</a></b></div>
+</li>
+<li style="margin:0;text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Cumulus_clouds_in_fair_weather.jpeg" class="image"><img alt="Cumulus clouds in fair weather.jpeg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cumulus_clouds_in_fair_weather.jpeg/53px-Cumulus_clouds_in_fair_weather.jpeg" width="53" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cumulus_clouds_in_fair_weather.jpeg/80px-Cumulus_clouds_in_fair_weather.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cumulus_clouds_in_fair_weather.jpeg/107px-Cumulus_clouds_in_fair_weather.jpeg 2x" data-file-width="800" data-file-height="600" /></a></div>
+<div style="padding:8px"><b><a href="/wiki/Portal:Weather" title="Portal:Weather">Weather</a></b></div>
+</li>
+</ul>
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid #FABD23; border-width: 1px 1px 0; background: #FFE996; color: green; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: green"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Geography/Wikimedia&amp;action=edit"><span style="color: green">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:green;"><span class="mw-headline" id="Associated_Wikimedia">Associated Wikimedia</span></h2>
+</div>
+<div style="border: 1px solid #FABD23; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div class="noprint" style="text-align:center;">
+<div style="display:inline-block;margin:0 0 0.75em 0">
+<p style="margin:0">The following <a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">Wikimedia Foundation</a> sister projects provide more on this subject:</p>
+<div style="float:left; margin:0 3px 3px 3px; font-size:91%;">
+<p><b><a href="https://en.wikibooks.org/wiki/Special:Search/Geography" class="extiw" title="wikibooks:Special:Search/Geography">Wikibooks</a></b><br />
+Books<br /></p>
+<div class="center">
+<div class="floatnone"><a href="https://en.wikibooks.org/wiki/Special:Search/Geography"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/25px-Wikibooks-logo.svg.png" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/38px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/50px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></a></div>
+</div>
+</div>
+<div style="float:left; margin:0 3px 3px 3px; font-size:91%;">
+<p><b><a href="https://commons.wikimedia.org/wiki/Special:Search/Category:Geography" class="extiw" title="commons:Special:Search/Category:Geography">Commons</a></b><br />
+Media<br /></p>
+<div class="center">
+<div class="floatnone"><a href="https://commons.wikimedia.org/wiki/Special:Search/Category:Geography"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png" width="18" height="25" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/28px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/37px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></div>
+</div>
+</div>
+<div style="float:left; margin:0 3px 3px 3px; font-size:91%;">
+<p><b><a href="https://en.wikinews.org/wiki/Special:Search/Geography" class="extiw" title="wikinews:Special:Search/Geography">Wikinews</a></b>&#160;<br />
+News<br /></p>
+<div class="center">
+<div class="floatnone"><a href="https://en.wikinews.org/wiki/Special:Search/Geography"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/46px-Wikinews-logo.svg.png" width="46" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/70px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/92px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415" /></a></div>
+</div>
+</div>
+<div style="float:left; margin:0 3px 3px 3px; font-size:91%;">
+<p><b><a href="https://en.wikiquote.org/wiki/Special:Search/Geography" class="extiw" title="wikiquote:Special:Search/Geography">Wikiquote</a></b>&#160;<br />
+Quotations<br /></p>
+<div class="center">
+<div class="floatnone"><a href="https://en.wikiquote.org/wiki/Special:Search/Geography"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/21px-Wikiquote-logo.svg.png" width="21" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/32px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/42px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a></div>
+</div>
+</div>
+<div style="float:left; margin:0 3px 3px 3px; font-size:91%;">
+<p><b><a href="https://en.wikisource.org/wiki/Special:Search/Geography" class="extiw" title="wikisource:Special:Search/Geography">Wikisource</a></b>&#160;<br />
+Texts<br /></p>
+<div class="center">
+<div class="floatnone"><a href="https://en.wikisource.org/wiki/Special:Search/Geography"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png" width="24" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/36px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/48px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a></div>
+</div>
+</div>
+<div style="float:left; margin:0 3px 3px 3px; font-size:91%;">
+<p><b><a href="https://en.wikiversity.org/wiki/Special:Search/Geography" class="extiw" title="wikiversity:Special:Search/Geography">Wikiversity</a></b><br />
+Learning resources<br /></p>
+<div class="center">
+<div class="floatnone"><a href="https://en.wikiversity.org/wiki/Special:Search/Geography"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/31px-Wikiversity-logo.svg.png" width="31" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/48px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/63px-Wikiversity-logo.svg.png 2x" data-file-width="1000" data-file-height="800" /></a></div>
+</div>
+</div>
+<div style="float:left; margin:0 3px 3px 3px; font-size:91%;">
+<p><b><a href="https://en.wikivoyage.org/wiki/Special:Search/Geography" class="extiw" title="wikivoyage:Special:Search/Geography">Wikivoyage</a></b>&#160;<br />
+Travel guides<br /></p>
+<div class="center">
+<div class="floatnone"><a href="https://en.wikivoyage.org/wiki/Special:Search/Geography"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/25px-Wikivoyage-Logo-v3-icon.svg.png" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/38px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/50px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></a></div>
+</div>
+</div>
+<div style="float:left; margin:0 3px 3px 3px; font-size:91%;">
+<p><b><a href="https://en.wiktionary.org/wiki/Special:Search/Geography" class="extiw" title="wiktionary:Special:Search/Geography">Wiktionary</a></b>&#160;<br />
+Definitions<br /></p>
+<div class="center">
+<div class="floatnone"><a href="https://en.wiktionary.org/wiki/Special:Search/Geography"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/25px-Wiktionary-logo-v2.svg.png" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/38px-Wiktionary-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/50px-Wiktionary-logo-v2.svg.png 2x" data-file-width="391" data-file-height="391" /></a></div>
+</div>
+</div>
+<div style="float:left; margin:0 3px 3px 3px; font-size:91%;">
+<p><b><a href="https://www.wikidata.org/wiki/Special:Search/Geography" class="extiw" title="wikidata:Special:Search/Geography">Wikidata</a></b>&#160;<br />
+Database<br /></p>
+<div class="center">
+<div class="floatnone"><a href="https://www.wikidata.org/wiki/Special:Search/Geography"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/45px-Wikidata-logo.svg.png" width="45" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/68px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/89px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a></div>
+</div>
+</div>
+<div style="float:left; margin:0 3px 3px 3px; font-size:91%;">
+<p><b><a href="https://species.wikimedia.org/wiki/Special:Search/Geography" class="extiw" title="wikispecies:Special:Search/Geography">Wikispecies</a></b>&#160;<br />
+Species<br /></p>
+<div class="center">
+<div class="floatnone"><a href="https://species.wikimedia.org/wiki/Special:Search/Geography"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/21px-Wikispecies-logo.svg.png" width="21" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/32px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/43px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103" /></a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+</td>
+</tr>
+</table>
+<div class="hlist noprint" style="text-align: center; clear:both; padding:0.25em 0 0.5em;">
 <ul>
-<li><a href="/wiki/Portal:Contents/A%E2%80%93Z_index" title="Portal:Contents/A–Z index">A–Z index</a></li>
-<li><a href="/wiki/Portal:Contents/Categories" title="Portal:Contents/Categories">Categories</a></li>
-<li><a href="/wiki/List_of_Dewey_Decimal_classes" title="List of Dewey Decimal classes">Dewey Decimal classes</a></li>
-<li><a href="/wiki/Library_of_Congress_Classification" title="Library of Congress Classification">Library of Congress Classification</a></li>
-<li><a href="/wiki/Wikipedia:Outline_of_Roget%27s_Thesaurus" title="Wikipedia:Outline of Roget's Thesaurus">Roget's Thesaurus</a></li>
-<li><a href="/wiki/Wikipedia:Spoken_articles" title="Wikipedia:Spoken articles">Spoken articles</a></li>
-<li><a href="/wiki/Wikipedia:Books" title="Wikipedia:Books">Wikipedia books</a></li>
+<li><b>What are <a href="/wiki/Wikipedia:Portal" title="Wikipedia:Portal">portals</a>?</b></li>
+<li><b><a href="/wiki/Portal:Contents/Portals" title="Portal:Contents/Portals">List of portals</a></b></li>
 </ul>
 </div>
-</div>
+<p><br /></p>
 
 
 <!-- 
 NewPP limit report
-Parsed by mw1269
-Cached time: 20170925201422
-Cache expiry: 3600
+Parsed by mw1243
+Cached time: 20171024034709
+Cache expiry: 21600
 Dynamic content: true
-CPU time usage: 0.112 seconds
-Real time usage: 0.152 seconds
-Preprocessor visited node count: 529/1000000
+CPU time usage: 0.272 seconds
+Real time usage: 0.477 seconds
+Preprocessor visited node count: 3343/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 24638/2097152 bytes
-Template argument size: 12498/2097152 bytes
-Highest expansion depth: 7/40
-Expensive parser function count: 5/500
-Lua time usage: 0.055/10.000 seconds
-Lua memory usage: 1.84 MB/50 MB
+Post‐expand include size: 137240/2097152 bytes
+Template argument size: 15936/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 3/500
+Lua time usage: 0.110/10.000 seconds
+Lua memory usage: 3.59 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  121.189      1 -total
- 42.69%   51.731      1 Template:Pp-semi-indef
- 31.01%   37.582      1 Portal:Contents/TOC_navbar
- 27.18%   32.938      2 Template:Center
- 23.17%   28.085     20 Template:Clickable_button_2
- 14.70%   17.814      1 Template:Small
- 13.66%   16.550      1 Template:Contents_pages_(header_bar)
- 11.56%   14.015      1 Template:Shortcut
-  7.02%    8.505      1 Template:Main
-  3.31%    4.015      1 Template:Pp-move-indef
+100.00%  309.639      1 -total
+ 30.95%   95.841      2 Template:Related_portals2
+ 29.65%   91.813      2 Template:For_loop
+ 23.53%   72.873     37 Template:Portal_image
+ 19.04%   58.949      1 Portal:Geography/Subportals
+ 15.64%   48.435      5 Template:Random_portal_component
+ 13.11%   40.581      1 Template:Pp-vandalism
+ 12.72%   39.376      1 Portal:Geography/Related_portals
+ 11.41%   35.333      1 Portal:Geography/Intro
+ 10.96%   33.942      1 Portal:Geography/Intro/Image
 -->
 </div>
-<!-- Saved in parser cache with key enwiki:pcache:idhash:40273-0!canonical and timestamp 20170925201422 and revision id 802379209
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1941456-0!canonical and timestamp 20171024034708 and revision id 709404983
  -->
 <noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
-						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Portal:Contents&amp;oldid=802379209">https://en.wikipedia.org/w/index.php?title=Portal:Contents&amp;oldid=802379209</a>"					</div>
-				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Wikipedia_directories" title="Category:Wikipedia directories">Wikipedia directories</a></li><li><a href="/wiki/Category:Contents" title="Category:Contents">Contents</a></li><li><a href="/wiki/Category:Content_portals" title="Category:Content portals">Content portals</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_semi-protected_portals" title="Category:Wikipedia semi-protected portals">Wikipedia semi-protected portals</a></li><li><a href="/wiki/Category:Wikipedia_move-protected_portals" title="Category:Wikipedia move-protected portals">Wikipedia move-protected portals</a></li></ul></div></div>				<div class="visualClear"></div>
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Portal:Geography&amp;oldid=709404983">https://en.wikipedia.org/w/index.php?title=Portal:Geography&amp;oldid=709404983</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Geography" title="Category:Geography">Geography</a></li><li><a href="/wiki/Category:Geography_portals" title="Category:Geography portals">Geography portals</a></li><li><a href="/wiki/Category:Geography_portal" title="Category:Geography portal">Geography portal</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_semi-protected_portals" title="Category:Wikipedia semi-protected portals">Wikipedia semi-protected portals</a></li><li><a href="/wiki/Category:Wikipedia_move-protected_portals" title="Category:Wikipedia move-protected portals">Wikipedia move-protected portals</a></li><li><a href="/wiki/Category:Featured_portals" title="Category:Featured portals">Featured portals</a></li></ul></div></div>				<div class="visualClear"></div>
 							</div>
 		</div>
 		<div id="mw-navigation">
-			<h2>Navigation menu</h2>
-
-			<div id="mw-head">
-									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
-						<h3 id="p-personal-label">Personal tools</h3>
-						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Portal%3AContents" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Portal%3AContents" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
-					</div>
-									<div id="left-navigation">
-										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
-						<h3 id="p-namespaces-label">Namespaces</h3>
-						<ul>
-														<li id="ca-nstab-portal" class="selected"><span><a href="/wiki/Portal:Contents">Portal</a></span></li>
-							<li id="ca-talk"><span><a href="/wiki/Portal_talk:Contents" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
-						</ul>
-					</div>
-										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
-												<h3 id="p-variants-label">
-							<span>Variants</span>
-						</h3>
-
-						<div class="menu">
-							<ul>
-															</ul>
-						</div>
-					</div>
-									</div>
-				<div id="right-navigation">
-										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
-						<h3 id="p-views-label">Views</h3>
-						<ul>
-														<li id="ca-view" class="selected"><span><a href="/wiki/Portal:Contents">Read</a></span></li>
-							<li id="ca-viewsource"><span><a href="/w/index.php?title=Portal:Contents&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
-							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Portal:Contents&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
-						</ul>
-					</div>
-										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
-						<h3 id="p-cactions-label"><span>More</span></h3>
-
-						<div class="menu">
-							<ul>
-															</ul>
-						</div>
-					</div>
-										<div id="p-search" role="search">
-						<h3>
-							<label for="searchInput">Search</label>
-						</h3>
-
-						<form action="/w/index.php" id="searchform">
-							<div id="simpleSearch">
-							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
-						</form>
-					</div>
-									</div>
-			</div>
-			<div id="mw-panel">
-				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
-						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
-			<h3 id='p-navigation-label'>Navigation</h3>
-
-			<div class="body">
-									<ul>
-						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
-			<h3 id='p-interaction-label'>Interaction</h3>
-
-			<div class="body">
-									<ul>
-						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
-			<h3 id='p-tb-label'>Tools</h3>
-
-			<div class="body">
-									<ul>
-						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Portal:Contents" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Portal:Contents" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Portal:Contents&amp;oldid=802379209" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Portal:Contents&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4395506" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
-			<h3 id='p-coll-print_export-label'>Print/export</h3>
-
-			<div class="body">
-									<ul>
-						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Portal%3AContents">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Portal%3AContents&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DPortal%253AContents%26returnto%3DPortal%253AContents%26oldid%3D802379209%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Portal:Contents&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
-			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
-
-			<div class="body">
-									<ul>
-						<li class="wb-otherproject-link wb-otherproject-wikiversity"><a href="https://en.wikiversity.org/wiki/Wikiversity:Browse" hreflang="en">Wikiversity</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
-			<h3 id='p-lang-label'>Languages</h3>
-
-			<div class="body">
-									<ul>
-						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Portaal:Inhoudsopgawe/Kategorie%C3%AB" title="Portaal:Inhoudsopgawe/Kategorieë – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D9%85%D8%AD%D8%AA%D9%88%D9%8A%D8%A7%D8%AA" title="بوابة:محتويات – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-as"><a href="https://as.wikipedia.org/wiki/%E0%A7%B1%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A6%9A%27%E0%A7%B0%E0%A6%BE:%E0%A6%AA%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%80" title="ৱিকিচ'ৰা:পঞ্জী – Assamese" lang="as" hreflang="as" class="interlanguage-link-target">অসমীয়া</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B0:%E0%A6%B8%E0%A7%82%E0%A6%9A%E0%A6%BF%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0" title="প্রবেশদ্বার:সূচিপত্র – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE:%E0%A4%AC%E0%A4%BF%E0%A4%B8%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80" title="विकिपीडिया:बिसयसूची – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li><li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8_%C4%83%D1%88%D0%BB%C4%83%D1%85%C4%95" title="Википеди:Википеди ăшлăхĕ – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Wikipedia:Talaan_sa_sulod" title="Wikipedia:Talaan sa sulod – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Wikipedia:Contenidos" title="Wikipedia:Contenidos – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DA%AF%D8%A7%D9%87:%D8%AF%D8%B1%D9%88%D9%86%D9%85%D8%A7%DB%8C%D9%87" title="درگاه:درونمایه – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%8F%AC%ED%84%B8:%EB%AA%A9%EC%B0%A8" title="포털:목차 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A5%87%E0%A4%B6%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0:%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80" title="प्रवेशद्वार:सामग्री – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%B0%D0%BD%D0%B0%D1%82%D1%82%D0%B0%D1%80" title="Уикипедия:Санаттар – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Portal:Naverok" title="Portal:Naverok – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Wikip%C3%A9dia:Tartalom" title="Wikipédia:Tartalom – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Wikipedia:Tinjau" title="Wikipedia:Tinjau – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/Portal:%E1%80%99%E1%80%AC%E1%80%90%E1%80%AD%E1%80%80%E1%80%AC" title="Portal:မာတိကာ – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Portaal:Navigatie" title="Portaal:Navigatie – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-km"><a href="https://km.wikipedia.org/wiki/Portal:Contents" title="Portal:Contents – Khmer" lang="km" hreflang="km" class="interlanguage-link-target">ភាសាខ្មែរ</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Portal:Kategorie_G%C5%82%C3%B3wne" title="Portal:Kategorie Główne – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Portal:Conte%C3%BAdo" title="Portal:Conteúdo – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B8" title="Википедия:Содержание Википедии – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Portal:P%C3%ABrmbajtja" title="Portal:Përmbajtja – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B6%AF%E0%B7%8A%E0%B7%80%E0%B7%8F%E0%B6%BB%E0%B6%BA:%E0%B6%B4%E0%B6%A7%E0%B7%94%E0%B6%B1" title="ද්වාරය:පටුන – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%A1%D0%B0%D0%B4%D1%80%D0%B6%D0%B0%D1%98" title="Википедија:Садржај – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Wikipedia:Selaa_luokittain" title="Wikipedia:Selaa luokittain – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Wikipedia:Tingnan_ang_buod" title="Wikipedia:Tingnan ang buod – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%B2%E0%AF%88%E0%AE%B5%E0%AE%BE%E0%AE%9A%E0%AE%B2%E0%AF%8D:%E0%AE%89%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AE%9F%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D" title="வலைவாசல்:உள்ளடக்கங்கள் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%AD%D1%87%D1%82%D3%99%D0%BB%D0%B5%D0%BA" title="Википедия:Эчтәлек – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%B5%E0%B1%87%E0%B0%A6%E0%B0%BF%E0%B0%95:%E0%B0%B5%E0%B0%BF%E0%B0%B7%E0%B0%AF%E0%B0%BE%E0%B0%B2%E0%B1%81" title="వేదిక:విషయాలు – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%84%E0%B9%89%E0%B8%99%E0%B8%94%E0%B8%B9" title="วิกิพีเดีย:ค้นดู – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%BC%D1%96%D1%81%D1%82" title="Портал:Вміст – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ts"><a href="https://ts.wikipedia.org/wiki/Portal:Contents" title="Portal:Contents – Tsonga" lang="ts" hreflang="ts" class="interlanguage-link-target">Xitsonga</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/Portal:%E7%9B%AE%E9%8C%84" title="Portal:目錄 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Portal:%E7%9B%AE%E5%BD%95" title="Portal:目录 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4395506#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
-		</div>
-				</div>
-		</div>
-		<div id="footer" role="contentinfo">
-							<ul id="footer-info">
-											<li id="footer-info-lastmod"> This page was last edited on 25 September 2017, at 20:14.</li>
-											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
-additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
-									</ul>
-							<ul id="footer-places">
-											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
-											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
-											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
-											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
-											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
-											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
-											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Portal:Contents&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
-									</ul>
-										<ul id="footer-icons" class="noprint">
-											<li id="footer-copyrightico">
-							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
-											<li id="footer-poweredbyico">
-							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
-									</ul>
-						<div style="clear:both"></div>
-		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.112","walltime":"0.152","ppvisitednodes":{"value":529,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":24638,"limit":2097152},"templateargumentsize":{"value":12498,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  121.189      1 -total"," 42.69%   51.731      1 Template:Pp-semi-indef"," 31.01%   37.582      1 Portal:Contents/TOC_navbar"," 27.18%   32.938      2 Template:Center"," 23.17%   28.085     20 Template:Clickable_button_2"," 14.70%   17.814      1 Template:Small"," 13.66%   16.550      1 Template:Contents_pages_(header_bar)"," 11.56%   14.015      1 Template:Shortcut","  7.02%    8.505      1 Template:Main","  3.31%    4.015      1 Template:Pp-move-indef"]},"scribunto":{"limitreport-timeusage":{"value":"0.055","limit":"10.000"},"limitreport-memusage":{"value":1927377,"limit":52428800}},"cachereport":{"origin":"mw1269","timestamp":"20170925201422","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":61,"wgHostname":"mw1247"});});</script>
-	</body>
-</html>

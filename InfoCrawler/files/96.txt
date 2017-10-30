@@ -1,916 +1,284 @@
-<!DOCTYPE html>
-<html class="client-nojs" lang="en" dir="ltr">
-<head>
-<meta charset="UTF-8"/>
-<title>Ali ibn Sahl Rabban al-Tabari - Wikipedia</title>
-<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ali_ibn_Sahl_Rabban_al-Tabari","wgTitle":"Ali ibn Sahl Rabban al-Tabari","wgCurRevisionId":799608415,"wgRevisionId":799608415,"wgArticleId":506138,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using citations with accessdate and no URL","CS1 maint: Extra text: authors list","Articles containing Persian-language text","All articles with unsourced statements","Articles with unsourced statements from May 2011","CS1 errors: dates","Use dmy dates from May 2011","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","838 births","870 deaths","Medieval Persian physicians","Converts to Islam from Christianity","Converts to Islam from Zoroastrianism","9th-century physicians","Physicians of medieval Islam","People from Amol","Persian philosophers","Iranian psychologists","9th-century Iranian people","People of the Abbasid Caliphate"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ali_ibn_Sahl_Rabban_al-Tabari","wgRelevantArticleId":506138,"wgRequestId":"WcNHQgpAMFMAAAq0t9IAAAAM","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1393417","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preload","preloadparams","preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
-mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
-
-});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
-<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
-<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
-<meta name="ResourceLoaderDynamicStyles" content=""/>
-<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
-<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.30.0-wmf.18"/>
-<meta name="referrer" content="origin-when-cross-origin"/>
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/0/0a/Ibnr-tabari.jpg"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ali_ibn_Sahl_Rabban_al-Tabari"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ali_ibn_Sahl_Rabban_al-Tabari&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Ali_ibn_Sahl_Rabban_al-Tabari&amp;action=edit"/>
-<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
-<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
-<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
-<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
-<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Ali_ibn_Sahl_Rabban_al-Tabari"/>
-<link rel="dns-prefetch" href="//login.wikimedia.org"/>
-<link rel="dns-prefetch" href="//meta.wikimedia.org" />
-<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
-</head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Ali_ibn_Sahl_Rabban_al-Tabari rootpage-Ali_ibn_Sahl_Rabban_al-Tabari skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
-		<div id="mw-head-base" class="noprint"></div>
-		<div id="content" class="mw-body" role="main">
-			<a id="top"></a>
-
-							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
-						<div class="mw-indicators mw-body-content">
-</div>
-			<h1 id="firstHeading" class="firstHeading" lang="en">Ali ibn Sahl Rabban al-Tabari</h1>
-									<div id="bodyContent" class="mw-body-content">
+<div id="bodyContent" class="mw-body-content">
 									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
 								<div id="contentSub"></div>
 												<div id="jump-to-nav" class="mw-jump">
 					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
 				</div>
-				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="thumb tright">
-<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Ibnr-tabari.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ibnr-tabari.jpg/220px-Ibnr-tabari.jpg" width="220" height="213" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ibnr-tabari.jpg/330px-Ibnr-tabari.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ibnr-tabari.jpg/440px-Ibnr-tabari.jpg 2x" data-file-width="590" data-file-height="572" /></a>
-<div class="thumbcaption">
-<div class="magnify"><a href="/wiki/File:Ibnr-tabari.jpg" class="internal" title="Enlarge"></a></div>
-Statue Rabban Tabari</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div id="portals-browsebar" class="hlist noprint" style="text-align: center;">
+<dl>
+<dt><a href="/wiki/Portal:Contents/Portals" title="Portal:Contents/Portals">Topics</a></dt>
+<dd><a href="/wiki/Portal:Contents/Portals#Culture_and_the_arts" title="Portal:Contents/Portals">Culture</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Geography_and_places" title="Portal:Contents/Portals">Geography</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Health_and_fitness" title="Portal:Contents/Portals">Health</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#History_and_events" title="Portal:Contents/Portals">History</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Mathematics_and_logic" title="Portal:Contents/Portals">Mathematics</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Natural_and_physical_sciences" title="Portal:Contents/Portals">Nature</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#People_and_self" title="Portal:Contents/Portals">People</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Philosophy_and_thinking" title="Portal:Contents/Portals">Philosophy</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Religion_and_belief_systems" title="Portal:Contents/Portals">Religion</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Society_and_social_sciences" title="Portal:Contents/Portals">Society</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Technology_and_applied_sciences" title="Portal:Contents/Portals">Technology</a></dd>
+</dl>
+</div>
+<hr class="noprint" />
+<div id="science_portalbar" class="noprint" style="font-size:91%;margin-top:1px;text-align:center;margin-bottom:0.2em;"><span style="position: relative; top: 0.15em;"><span style="position:relative; bottom:1px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nuvola_apps_kalzium.svg/20px-Nuvola_apps_kalzium.svg.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nuvola_apps_kalzium.svg/30px-Nuvola_apps_kalzium.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nuvola_apps_kalzium.svg/40px-Nuvola_apps_kalzium.svg.png 2x" data-file-width="128" data-file-height="128" /></span><b><a class="mw-selflink selflink">Science</a></b></span><br />
+<span class="nowrap"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Astrolabe-Persian-18C.jpg/20px-Astrolabe-Persian-18C.jpg" width="20" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Astrolabe-Persian-18C.jpg/30px-Astrolabe-Persian-18C.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/Astrolabe-Persian-18C.jpg/40px-Astrolabe-Persian-18C.jpg 2x" data-file-width="1061" data-file-height="972" /> <a href="/wiki/Portal:History_of_science" title="Portal:History of science">History of science</a></span> <span class="nowrap">&#160;&#160;</span><span class="nowrap"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/P_philosophy.png/20px-P_philosophy.png" width="20" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/P_philosophy.png/30px-P_philosophy.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/P_philosophy.png/40px-P_philosophy.png 2x" data-file-width="77" data-file-height="68" /> <a href="/wiki/Portal:Philosophy_of_science" title="Portal:Philosophy of science">Philosophy of science</a></span> <span class="nowrap">&#160;&#160;</span><span class="nowrap"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Complex_adaptive_system.svg/20px-Complex_adaptive_system.svg.png" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Complex_adaptive_system.svg/30px-Complex_adaptive_system.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Complex_adaptive_system.svg/40px-Complex_adaptive_system.svg.png 2x" data-file-width="700" data-file-height="500" /> <a href="/wiki/Portal:Systems_science" title="Portal:Systems science">Systems science</a></span> <span class="nowrap">&#160;&#160;</span><span class="nowrap"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Nuvola_apps_edu_mathematics-p.svg/20px-Nuvola_apps_edu_mathematics-p.svg.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Nuvola_apps_edu_mathematics-p.svg/30px-Nuvola_apps_edu_mathematics-p.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Nuvola_apps_edu_mathematics-p.svg/40px-Nuvola_apps_edu_mathematics-p.svg.png 2x" data-file-width="128" data-file-height="128" /> <a href="/wiki/Portal:Mathematics" title="Portal:Mathematics">Mathematics</a></span> <span class="nowrap">&#160;&#160;</span><span class="nowrap"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/EscherichiaColi_NIAID.jpg/20px-EscherichiaColi_NIAID.jpg" width="20" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/EscherichiaColi_NIAID.jpg/30px-EscherichiaColi_NIAID.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/EscherichiaColi_NIAID.jpg/40px-EscherichiaColi_NIAID.jpg 2x" data-file-width="1024" data-file-height="861" /> <a href="/wiki/Portal:Biology" title="Portal:Biology">Biology</a></span> <span class="nowrap">&#160;&#160;</span><span class="nowrap"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nuvola_apps_edu_science.svg/20px-Nuvola_apps_edu_science.svg.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nuvola_apps_edu_science.svg/30px-Nuvola_apps_edu_science.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nuvola_apps_edu_science.svg/40px-Nuvola_apps_edu_science.svg.png 2x" data-file-width="128" data-file-height="128" /> <a href="/wiki/Portal:Chemistry" title="Portal:Chemistry">Chemistry</a></span> <span class="nowrap">&#160;&#160;</span><span class="nowrap"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg/20px-Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg.png" width="20" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg/30px-Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg/40px-Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg.png 2x" data-file-width="266" data-file-height="303" /> <a href="/wiki/Portal:Physics" title="Portal:Physics">Physics</a></span> <span class="nowrap">&#160;&#160;</span><span class="nowrap"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Gnome-globe.svg/20px-Gnome-globe.svg.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Gnome-globe.svg/30px-Gnome-globe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Gnome-globe.svg/40px-Gnome-globe.svg.png 2x" data-file-width="48" data-file-height="48" /> <a href="/wiki/Portal:Earth_sciences" title="Portal:Earth sciences">Earth sciences</a></span> <span class="nowrap">&#160;&#160;</span><span class="nowrap"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Nuvola_apps_display.png/20px-Nuvola_apps_display.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Nuvola_apps_display.png/30px-Nuvola_apps_display.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Nuvola_apps_display.png/40px-Nuvola_apps_display.png 2x" data-file-width="128" data-file-height="128" /> <a href="/wiki/Portal:Technology" title="Portal:Technology">Technology</a></span> <span class="nowrap">&#160;&#160;</span></div>
+<p><br /></p>
+<table role="presentation" style="width: 100%; border-spacing: 0; text-align: center;">
+<tr>
+<td style="width:23.5%; padding:0 .3em; background-color: white; border:solid 1px #069; border-bottom: 0; font-weight:bold;"><a class="mw-selflink selflink">Main page</a></td>
+<td style="width:2%; border-bottom:1px solid #069">&#160;</td>
+<td style="width:23.5%; padding:0 .3em; background-color:#CEDCF2; border:solid 1px #069;"><a href="/wiki/Portal:Science/Categories_and_Main_topics" title="Portal:Science/Categories and Main topics">Categories &amp; Main topics</a></td>
+<td style="width:2%; border-bottom:1px solid #069">&#160;</td>
+<td style="width:23.5%; padding:0 .3em; background-color:#CEDCF2; border:solid 1px #069;"><a href="/wiki/Portal:Science/Portals_and_WikiProjects" title="Portal:Science/Portals and WikiProjects">Related portals &amp; WikiProjects</a></td>
+<td style="width:2%; border-bottom:1px solid #069">&#160;</td>
+<td style="width:23.5%; padding:0 .3em; background-color:#CEDCF2; border:solid 1px #069;"><a href="/wiki/Portal:Science/Things_you_can_do" title="Portal:Science/Things you can do">Things you can do</a></td>
+</tr>
+</table>
+<div style="position: relative; border: 1px solid #069; border-top: 0px; background: white; color: black; padding: .3em 2.5em 1em; margin-bottom: 10px;"><span class="plainlinks noprint" style="position:absolute; right:1.45em; font-size:80%;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Science/Intro&amp;action=edit"><span style="color: #069;">edit</span></a></span>
+<h2 style="margin: 0; border: 0; font-size: 120%; line-height: inherit; color: #069; text-align: center; font-family: inherit; font-weight: bold;"><span class="mw-headline" id="The_Science_Portal">The Science Portal</span></h2>
+<div role="note" class="hatnote navigation-not-searchable">For a topic outline of science, see <a href="/wiki/Outline_of_science" title="Outline of science">Outline of science</a>.</div>
+<div style="float:right;margin-left:1em">
+<center><a href="/wiki/French_Academy_of_Sciences" title="French Academy of Sciences">French Academy of Sciences</a></center>
+<p><a href="/wiki/File:Colbert_Presenting_the_Members_of_the_Royal_Academy_of_Sciences_to_Louis_XIV_in_1667.PNG" class="image" title="French Academy of Sciences"><img alt="French Academy of Sciences" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Colbert_Presenting_the_Members_of_the_Royal_Academy_of_Sciences_to_Louis_XIV_in_1667.PNG/200px-Colbert_Presenting_the_Members_of_the_Royal_Academy_of_Sciences_to_Louis_XIV_in_1667.PNG" width="200" height="115" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Colbert_Presenting_the_Members_of_the_Royal_Academy_of_Sciences_to_Louis_XIV_in_1667.PNG/300px-Colbert_Presenting_the_Members_of_the_Royal_Academy_of_Sciences_to_Louis_XIV_in_1667.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Colbert_Presenting_the_Members_of_the_Royal_Academy_of_Sciences_to_Louis_XIV_in_1667.PNG/400px-Colbert_Presenting_the_Members_of_the_Royal_Academy_of_Sciences_to_Louis_XIV_in_1667.PNG 2x" data-file-width="6070" data-file-height="3483" /></a><br /></p>
+</div>
+<p><b><a href="/wiki/Science" title="Science">Science</a></b> is the methodical study of nature including testable <a href="/wiki/Scientific_theory" title="Scientific theory">explanations</a> and <a href="/wiki/Predictability" title="Predictability">predictions</a>. From <a href="/wiki/Classical_antiquity" title="Classical antiquity">classical antiquity</a> through the 19th century, science as a type of knowledge was more closely linked to <a href="/wiki/Philosophy" title="Philosophy">philosophy</a> than it is now and, in fact, in the <a href="/wiki/Western_world" title="Western world">Western world</a>, the term "<a href="/wiki/Natural_philosophy" title="Natural philosophy">natural philosophy</a>" encompassed fields of study that are today associated with science, such as <a href="/wiki/Astronomy" title="Astronomy">astronomy</a>, medicine, and <a href="/wiki/Physics" title="Physics">physics</a>. However, during the <a href="/wiki/Islamic_Golden_Age" title="Islamic Golden Age">Islamic Golden Age</a> foundations for the <a href="/wiki/Scientific_method" title="Scientific method">scientific method</a> were laid by <a href="/wiki/Ibn_al-Haytham" title="Ibn al-Haytham">Ibn al-Haytham</a> in his <i><a href="/wiki/Book_of_Optics" title="Book of Optics">Book of Optics</a></i>. While the classification of the material world by the ancient <a href="/wiki/Mah%C4%81bh%C5%ABta" title="Mahābhūta">Indians</a> and <a href="/wiki/Ancient_Greece#Science_and_technology" title="Ancient Greece">Greeks</a> into <a href="/wiki/Classical_elements" class="mw-redirect" title="Classical elements">air, earth, fire and water</a> was more philosophical, medieval <a href="/wiki/Science_in_the_medieval_Islamic_world#Notable_scientists" title="Science in the medieval Islamic world">Middle Easterns</a> used <a href="/wiki/Islamic_Golden_Age#Scientific_method" title="Islamic Golden Age">practical, experimental observation</a> to classify materials.</p>
+<p>Today, the ever-evolving term "science" refers to the pursuit of knowledge, not the knowledge itself. It is often synonymous with "natural and physical science" and often restricted to those branches of study relating to the phenomena of the material universe and their laws. Although the term implies exclusion of pure mathematics, many university faculties include Mathematics Departments within their Faculty of Science. The dominant sense in ordinary use has a narrower use for the term "science." It developed as a part of science becoming a distinct enterprise of defining the "<a href="/wiki/Laws_of_nature" class="mw-redirect mw-disambig" title="Laws of nature">laws of nature</a>"; early examples include <a href="/wiki/Kepler" class="mw-redirect" title="Kepler">Kepler</a>'s <a href="/wiki/Kepler%27s_laws_of_planetary_motion" title="Kepler's laws of planetary motion">laws</a>, <a href="/wiki/Galileo" class="mw-redirect" title="Galileo">Galileo</a>'s <a href="/wiki/Law_of_falling_bodies" class="mw-redirect" title="Law of falling bodies">laws</a>, and <a href="/wiki/Isaac_Newton" title="Isaac Newton">Newton</a>'s <a href="/wiki/Newton%27s_laws_of_motion" title="Newton's laws of motion">laws of motion</a>. In this period it became more common to refer to natural philosophy as "natural science." Over the course of the 19th century, the word "science" became increasingly associated with the <a href="/wiki/Scientific_method" title="Scientific method">disciplined study</a> of the natural world, including <a href="/wiki/Physics" title="Physics">physics</a>, <a href="/wiki/Chemistry" title="Chemistry">chemistry</a>, <a href="/wiki/Geology" title="Geology">geology</a> and <a href="/wiki/Biology" title="Biology">biology</a>. This sometimes left the study of human thought and society in a linguistic limbo, which was resolved by classifying these areas of academic study as <a href="/wiki/Social_science" title="Social science">social science</a>. For example, psychology evolved from philosophy, and has grown into an area of study.</p>
+<p>Currently, there are both "hard" (e.g. biological psychology) and "soft" science (e.g. social psychology) fields within the discipline. As a result, and as is consistent with the unfolding of the study of knowledge and development of methods to establish facts, each area of psychology employs a scientific method. Reflecting the evolution of the development of knowledge and established facts and the use of the scientific method, Psychology Departments in universities are found within: Faculty of Arts and Science, Faculty of Arts, and a Faculty of Science. Similarly, several other major areas of disciplined study and knowledge exist today under the general rubric of "science", such as <a href="/wiki/Formal_science" title="Formal science">formal science</a> and <a href="/wiki/Applied_science" title="Applied science">applied science</a>.</p>
+<div class="noprint" style="clear:both; margin:0.2em; text-align:right; font-weight:bold;"><a href="/wiki/Science" title="Science">More about Science...</a></div>
+<div style="margin:-.8em 0">
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
 </div>
 </div>
-<p><b>Abu al-Hasan Ali ibn Sahl Rabban al-Tabari</b> (<a href="/wiki/Persian_language" title="Persian language">Persian</a>: <span lang="fa" dir="rtl" xml:lang="fa">علی ابن سهل ربان طبری</span> ‎‎) (c. 838 – c. 870 <a href="/wiki/Common_Era" title="Common Era">CE</a>; also given as 810–855<sup id="cite_ref-Prioreschi2001_1-0" class="reference"><a href="#cite_note-Prioreschi2001-1">[1]</a></sup> or 808–864<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> also 783–858<sup id="cite_ref-Selin1997_3-0" class="reference"><a href="#cite_note-Selin1997-3">[3]</a></sup>), was a <a href="/wiki/Persian_people" title="Persian people">Persian</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> <a href="/wiki/Muslim" title="Muslim">Muslim</a> <a href="/wiki/Hakim_(title)" title="Hakim (title)">hakim</a>, <a href="/wiki/Ulema" class="mw-redirect" title="Ulema">scholar</a>, <a href="/wiki/Islamic_medicine" class="mw-redirect" title="Islamic medicine">physician</a> and <a href="/wiki/Psychology_in_medieval_Islam" title="Psychology in medieval Islam">psychologist</a>, who produced one of the first <a href="/wiki/Encyclopedia" title="Encyclopedia">encyclopedia</a> of <a href="/wiki/Medicine" title="Medicine">medicine</a>. His stature, however, was eclipsed by his more famous pupil, <a href="/wiki/Muhammad_ibn_Zakar%C4%ABya_R%C4%81zi" class="mw-redirect" title="Muhammad ibn Zakarīya Rāzi">Muhammad ibn Zakarīya Rāzi</a> ("Rhazes").</p>
-<p></p>
-<div id="toc" class="toc">
-<div class="toctitle">
-<h2>Contents</h2>
+<div style="text-align:center; margin:0.25em auto 0.75em"><span class="noprint plainlinks purgelink"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Science&amp;action=purge"><span title="Purge this page"><b>View new selections below</b> (purge)</span></a></span></div>
+<div class="portal-column-left-wide">
+<div style="clear: both; border: solid #069; border-width: 1px 1px 0; background: #f2f7ff; color: #069; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: #069"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Science/Featured_article/19&amp;action=edit"><span style="color: #069">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#069;"><span class="mw-headline" id="Selected_article"><i>Selected article</i></span></h2>
 </div>
-<ul>
-<li class="toclevel-1 tocsection-1"><a href="#Life"><span class="tocnumber">1</span> <span class="toctext">Life</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#His_works"><span class="tocnumber">2</span> <span class="toctext">His works</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#Firdous_al-Hikmah"><span class="tocnumber">3</span> <span class="toctext"><i>Firdous al-Hikmah</i></span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="#Quotes"><span class="tocnumber">4</span> <span class="toctext"><i>Quotes</i></span></a></li>
-<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
-<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-7"><a href="#Sources"><span class="tocnumber">7</span> <span class="toctext">Sources</span></a></li>
-<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
-</ul>
+<div style="border: 1px solid #069; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div style="float:left;margin-right:1em"><a href="/wiki/File:Plates_tect2_en.svg" class="image" title="The tectonic plates of the world were mapped in the second half of the 20th century."><img alt="The tectonic plates of the world were mapped in the second half of the 20th century." src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plates_tect2_en.svg/250px-Plates_tect2_en.svg.png" width="250" height="171" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plates_tect2_en.svg/375px-Plates_tect2_en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plates_tect2_en.svg/500px-Plates_tect2_en.svg.png 2x" data-file-width="4167" data-file-height="2844" /></a></div>
+<b><a href="/wiki/Plate_tectonics" title="Plate tectonics">Plate tectonics</a></b> (from <a href="/wiki/Greek_language" title="Greek language">Greek</a> τέκτων, <i>tektōn</i> "builder" or "mason") is a <a href="/wiki/Theory" title="Theory">theory</a> of <a href="/wiki/Geology" title="Geology">geology</a> which was developed to explain the observed evidence for large scale motions within the Earth's <a href="/wiki/Crust_(geology)" title="Crust (geology)">crust</a>. The theory encompassed and superseded the older theory of <a href="/wiki/Continental_drift" title="Continental drift">continental drift</a> from the first half of the 20th century and the concept of <a href="/wiki/Sea_floor_spreading" class="mw-redirect" title="Sea floor spreading">sea floor spreading</a> developed during the 1960s.
+<p>The outermost part of the <a href="/wiki/Earth" title="Earth">Earth</a>'s interior is made up of two layers: above is the <a href="/wiki/Lithosphere" title="Lithosphere">lithosphere</a>, comprising the <a href="/wiki/Crust_(geology)" title="Crust (geology)">crust</a> and the rigid uppermost part of the <a href="/wiki/Earth%27s_mantle" class="mw-redirect" title="Earth's mantle">mantle</a>. Below the lithosphere lies the <a href="/wiki/Asthenosphere" title="Asthenosphere">asthenosphere</a>, which is a more viscous zone of the mantle. Although solid, the asthenosphere has very low shear strength and can flow like a liquid on geological time scales. The deeper mantle below the asthenosphere is more rigid again.</p>
+<table class="noprint" width="100%" border="0" style="padding: 0; margin: 0; background-color:transparent">
+<tr>
+<td>
+<div style="text-align:left;"><b><a href="/wiki/Portal:Science/Featured_article" title="Portal:Science/Featured article">...Archive/Nominations</a></b></div>
+</td>
+<td>
+<div style="text-align:right;margin-right:10px;margin-bottom:4px;">
+<p><b><a href="/wiki/Plate_tectonics" title="Plate tectonics">Read more...</a></b></p>
 </div>
-<p></p>
-<h2><span class="mw-headline" id="Life">Life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ali_ibn_Sahl_Rabban_al-Tabari&amp;action=edit&amp;section=1" title="Edit section: Life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>Ali came from a <a href="/wiki/Persian_people" title="Persian people">Persian</a><sup id="cite_ref-Frye1975_6-0" class="reference"><a href="#cite_note-Frye1975-6">[6]</a></sup> or <a href="/wiki/Syriac_Christians" class="mw-redirect" title="Syriac Christians">Syriac</a><sup id="cite_ref-Selin1997_3-1" class="reference"><a href="#cite_note-Selin1997-3">[3]</a></sup> family of <a href="/wiki/Merv" title="Merv">Merv</a> but moved to <a href="/wiki/Tabaristan" title="Tabaristan">Tabaristan</a> (hence <i>al-Tabari</i> – "from Tabaristan"). Hossein Nasr states that he was a convert from <a href="/wiki/Zoroastrianism" title="Zoroastrianism">Zoroastrianism</a>,<sup id="cite_ref-Frye1975_6-1" class="reference"><a href="#cite_note-Frye1975-6">[6]</a></sup> however Sami K. Hamarneh states he was a convert from <a href="/wiki/Christianity" title="Christianity">Christianity</a>.<sup id="cite_ref-Selin1997_3-2" class="reference"><a href="#cite_note-Selin1997-3">[3]</a></sup> His father <a href="/wiki/Sahl_ibn_Bishr" title="Sahl ibn Bishr">Sahl ibn Bishr</a> was a state official, highly educated and well respected member of the Syriac community.<sup id="cite_ref-Selin1997_3-3" class="reference"><a href="#cite_note-Selin1997-3">[3]</a></sup></p>
-<p>The <a href="/wiki/Abbassid" class="mw-redirect" title="Abbassid">Abbassid</a> caliph <a href="/wiki/Al-Mu%27tasim" title="Al-Mu'tasim">Al-Mu'tasim</a> (833–842) took him into the service of the court, which he continued under <a href="/wiki/Al-Mutawakkil" title="Al-Mutawakkil">Al-Mutawakkil</a> (847–861). Ali ibn Sahl was fluent in <a href="/wiki/Syriac_language" title="Syriac language">Syriac</a> and <a href="/wiki/Greek_language" title="Greek language">Greek</a>, the two sources for the medical tradition of <a href="/wiki/Ancient_history" title="Ancient history">antiquity</a>, and versed in fine calligraphy.</p>
-<h2><span class="mw-headline" id="His_works">His works</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ali_ibn_Sahl_Rabban_al-Tabari&amp;action=edit&amp;section=2" title="Edit section: His works">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ol>
-<li>His <i>Firdous al-Hikmah</i> (<i>"Paradise of Wisdom"</i>), which he wrote in <a href="/wiki/Arabic_language" class="mw-redirect" title="Arabic language">Arabic</a> called also <i>Al-Kunnash</i> was a system of medicine in seven parts. He also translated it into Syriac, to give it wider usefulness.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2011)">citation needed</span></a></i>]</sup> The information in <i>Firdous al-Hikmah</i> has never entered common circulation in the West because it was not edited until the 20th century, when Mohammed Zubair Siddiqui assembled an edition using the five surviving partial manuscripts. There is still no English translation. A German translation by <a href="/w/index.php?title=Alfred_Siggel&amp;action=edit&amp;redlink=1" class="new" title="Alfred Siggel (page does not exist)">Alfred Siggel</a> of the chapters on Indian medicine was published in 1951.<sup id="cite_ref-siggel_7-0" class="reference"><a href="#cite_note-siggel-7">[7]</a></sup></li>
-<li><i>Tuhfat al-Muluk</i> (<i>"The King's Present"</i>)</li>
-<li>a work on the proper use of food, drink, and medicines.</li>
-<li><i>Hafzh al-Sihhah</i> (<i>"The Proper Care of Health"</i>), following Greek and Indian authorities.</li>
-<li><i>Kitab al-Ruqa</i> (<i>"Book of Magic or Amulets"</i>)</li>
-<li><i>Kitab fi al-hijamah</i> (<i>"Treatise on Cupping"</i>)</li>
-<li><i>Kitab fi Tartib al-'Ardhiyah</i> (<i>"Treatise on the Preparation of Food"</i>)</li>
-</ol>
-<h2><span class="mw-headline" id="Firdous_al-Hikmah"><i>Firdous al-Hikmah</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ali_ibn_Sahl_Rabban_al-Tabari&amp;action=edit&amp;section=3" title="Edit section: Firdous al-Hikmah">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p><i>Firdous al-Hikmah</i> is one of the oldest encyclopedias of <a href="/wiki/Islamic_medicine" class="mw-redirect" title="Islamic medicine">Islamic medicine</a>, based on Syriac translations of Greek sources (Hippocrates, Galen Dioscorides, and others).It is divided into 7 sections and 30 parts, with 360 chapters in total.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-Browne2011_10-0" class="reference"><a href="#cite_note-Browne2011-10">[10]</a></sup></p>
+</td>
+</tr>
+</table>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid #069; border-width: 1px 1px 0; background: #f2f7ff; color: #069; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: #069"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Science/Featured_picture/11&amp;action=edit"><span style="color: #069">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#069;"><span class="mw-headline" id="Selected_picture"><i>Selected picture</i></span></h2>
+</div>
+<div style="border: 1px solid #069; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Rust_and_dirt.jpg" class="image" title="Rust and dirt on a baking plate."><img alt="Rust and dirt on a baking plate." src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Rust_and_dirt.jpg/325px-Rust_and_dirt.jpg" width="325" height="257" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Rust_and_dirt.jpg/488px-Rust_and_dirt.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Rust_and_dirt.jpg/650px-Rust_and_dirt.jpg 2x" data-file-width="1904" data-file-height="1504" /></a></div>
+</div>
+<table class="noprint" width="100%" border="0" style="padding: 0; margin: 0; background-color:transparent">
+<tr>
+<td width="33%">
+<center><small>Credit: <a href="/wiki/User:Roger_McLassus" class="mw-redirect" title="User:Roger McLassus">Roger McLassus</a></small></center>
+</td>
+</tr>
+</table>
+<p><b><a href="/wiki/Rust" title="Rust">Rust</a></b> is the chemical substance formed when <a href="/wiki/Iron" title="Iron">iron</a> compounds <a href="/wiki/Corrode" class="mw-redirect" title="Corrode">corrode</a> in the presence of <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> and <a href="/wiki/Water" title="Water">water</a>. It is a mixture of iron <a href="/wiki/Oxides" class="mw-redirect" title="Oxides">oxides</a> and <a href="/wiki/Hydroxides" class="mw-redirect" title="Hydroxides">hydroxides</a>. Rusting is a common term for corrosion, and usually corrosion of steel. Iron is found naturally in the ore <a href="/wiki/Haematite" class="mw-redirect" title="Haematite">haematite</a> as iron oxide, and metallic iron tends to return to a similar state when exposed to air, (<a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a>, <a href="/wiki/Oxygen" title="Oxygen">oxygen</a>, <a href="/wiki/Nitrogen" title="Nitrogen">nitrogen</a>, etc.) and <a href="/wiki/Water" title="Water">water</a>. This corrosion is due to the oxidation reaction when iron metal returns to an energetically favourable state. Energy is given off when rust forms. The process of rusting can be summarized as three basic stages: The formation of iron(II) ions from the metal; the formation of hydroxide ions; and their reaction together, with the addition of oxygen, to create rust.</p>
+<table class="noprint" width="100%" border="0" style="padding: 0; margin: 0; background-color:transparent">
+<tr>
+<td width="33%">
+<div style="text-align:left;"><b><a href="/wiki/Portal:Science/Featured_picture" title="Portal:Science/Featured picture">...Archive/Nominations</a></b></div>
+</td>
+<td>
+<div style="text-align:right;margin-right:10px;margin-bottom:4px;">
+<p><b><a href="/wiki/Rust" title="Rust">Read more...</a></b></p>
+</div>
+</td>
+</tr>
+</table>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="portal-column-right-narrow">
+<div style="clear: both; border: solid #069; border-width: 1px 1px 0; background: #f2f7ff; color: #069; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: #069"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Science/Featured_biography/22&amp;action=edit"><span style="color: #069">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#069;"><span class="mw-headline" id="Selected_biography"><i>Selected biography</i></span></h2>
+</div>
+<div style="border: 1px solid #069; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div style="float:right;margin-left:0.9em"><a href="/wiki/File:Leonardo_da_Vinci_-_presumed_self-portrait_-_WGA12798.jpg" class="image" title="Leonardo da Vinci"><img alt="Leonardo da Vinci" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Leonardo_da_Vinci_-_presumed_self-portrait_-_WGA12798.jpg/200px-Leonardo_da_Vinci_-_presumed_self-portrait_-_WGA12798.jpg" width="200" height="312" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Leonardo_da_Vinci_-_presumed_self-portrait_-_WGA12798.jpg/300px-Leonardo_da_Vinci_-_presumed_self-portrait_-_WGA12798.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Leonardo_da_Vinci_-_presumed_self-portrait_-_WGA12798.jpg/400px-Leonardo_da_Vinci_-_presumed_self-portrait_-_WGA12798.jpg 2x" data-file-width="740" data-file-height="1153" /></a></div>
+<b><a href="/wiki/Leonardo_di_ser_Piero_da_Vinci" class="mw-redirect" title="Leonardo di ser Piero da Vinci">Leonardo di ser Piero da Vinci</a></b> (<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap"><a href="/wiki/File:It-Leonardo_di_ser_Piero_da_Vinci.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a>&#160;</span><a href="//upload.wikimedia.org/wikipedia/commons/8/89/It-Leonardo_di_ser_Piero_da_Vinci.ogg" class="internal" title="It-Leonardo di ser Piero da Vinci.ogg">pronunciation</a></span>&#160;<small class="metadata audiolinkinfo" style="cursor:help;">(<a href="/wiki/Wikipedia:Media_help" title="Wikipedia:Media help"><span style="cursor:help;">help</span></a>·<a href="/wiki/File:It-Leonardo_di_ser_Piero_da_Vinci.ogg" title="File:It-Leonardo di ser Piero da Vinci.ogg"><span style="cursor:help;">info</span></a>)</small></span>), April 15, 1452 – May 2, 1519) was an <a href="/wiki/Italy" title="Italy">Italian</a> <a href="/wiki/Polymath" title="Polymath">polymath</a>, having been a scientist, <a href="/wiki/Mathematician" title="Mathematician">mathematician</a>, <a href="/wiki/Engineer" title="Engineer">engineer</a>, <a href="/wiki/Inventor" title="Inventor">inventor</a>, <a href="/wiki/Anatomist" class="mw-redirect" title="Anatomist">anatomist</a>, <a href="/wiki/Painting" title="Painting">painter</a>, <a href="/wiki/Sculptor" class="mw-redirect" title="Sculptor">sculptor</a>, <a href="/wiki/Architect" title="Architect">architect</a>, <a href="/wiki/Botanist" class="mw-redirect" title="Botanist">botanist</a>, <a href="/wiki/Musician" title="Musician">musician</a> and <a href="/wiki/Writer" title="Writer">writer</a>. Born as the illegitimate son of a notary, Piero da Vinci, and a peasant girl, Caterina, at <a href="/wiki/Vinci,_Italy" class="mw-redirect" title="Vinci, Italy">Vinci</a> in the region of <a href="/wiki/Florence" title="Florence">Florence</a>, Leonardo was educated in the studio of the renowned Florentine painter, <a href="/wiki/Verrocchio" class="mw-redirect" title="Verrocchio">Verrocchio</a>. Much of his earlier working life was spent in the service of <a href="/wiki/Ludovico_il_Moro" class="mw-redirect" title="Ludovico il Moro">Ludovico il Moro</a> in <a href="/wiki/Milan" title="Milan">Milan</a>. He later worked in <a href="/wiki/Rome" title="Rome">Rome</a>, <a href="/wiki/Bologna" title="Bologna">Bologna</a> and <a href="/wiki/Venice" title="Venice">Venice</a>, spending his final years in France at the home given to him by King <a href="/wiki/Fran%C3%A7ois_I_of_France" class="mw-redirect" title="François I of France">François I</a>.
+<p>Leonardo has often been described as the <a href="/wiki/Archetype" title="Archetype">archetype</a> of the "<a href="/wiki/Polymath" title="Polymath">Renaissance man</a>", a man whose seemingly infinite curiosity was equalled only by his powers of invention.<sup id="cite_ref-HG_1-0" class="reference"><a href="#cite_note-HG-1">[1]</a></sup> He is widely considered to be one of the greatest <a href="/wiki/Painting" title="Painting">painters</a> of all time and perhaps the most diversely talented person ever to have lived.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p>It is primarily as a painter that Leonardo was and is renowned. Two of his works, the <i><a href="/wiki/Mona_Lisa" title="Mona Lisa">Mona Lisa</a></i> and <i><a href="/wiki/The_Last_Supper_(Leonardo)" class="mw-redirect" title="The Last Supper (Leonardo)">The Last Supper</a></i> occupy unique positions as the most famous, most reproduced and most parodied portrait and religious painting of all time, their fame approached only by <a href="/wiki/Michelangelo" title="Michelangelo">Michelangelo</a>'s <i><a href="/wiki/Creation_of_Adam" class="mw-redirect" title="Creation of Adam">Creation of Adam</a></i>.<sup id="cite_ref-HG_1-1" class="reference"><a href="#cite_note-HG-1">[1]</a></sup> Leonardo's drawing of the <i><a href="/wiki/Vitruvian_Man" title="Vitruvian Man">Vitruvian Man</a></i> is also iconic. Perhaps fifteen of his paintings survive, the small number due to his constant, and frequently disastrous, experimentation with new techniques, and his chronic procrastination.<sup class="reference" id="ref_bnone"><a href="#endnote_bnone">[b]</a></sup> Nevertheless, these few works together with his notebooks, which contain drawings, scientific diagrams, and his thoughts on the nature of painting, comprise a contribution to later generations of artists only rivalled by that of his contemporary, <a href="/wiki/Michelangelo" title="Michelangelo">Michelangelo</a>.</p>
+<table class="noprint" width="100%" border="0" style="padding: 0; margin: 0; background-color:transparent">
+<tr>
+<td>
+<div style="text-align:left;"><b><a href="/wiki/Portal:Science/Featured_biography" title="Portal:Science/Featured biography">...Archive/Nominations</a></b></div>
+</td>
+<td>
+<div style="text-align:right;margin-right:10px;margin-bottom:4px;">
+<p><b><a href="/wiki/Leonardo_da_Vinci" title="Leonardo da Vinci">Read more...</a></b></p>
+</div>
+</td>
+</tr>
+</table>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid #069; border-width: 1px 1px 0; background: #f2f7ff; color: #069; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: #069"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Science/Did_you_know&amp;action=edit"><span style="color: #069">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#069;"><span class="mw-headline" id="Did_you_know..."><i>Did you know...</i></span></h2>
+</div>
+<div style="border: 1px solid #069; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<p><span style="float:right;margin-left:1em"><a href="/wiki/File:LombergA1024.jpg" class="image" title="by Jon Lomberg"><img alt="by Jon Lomberg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/LombergA1024.jpg/100px-LombergA1024.jpg" width="100" height="76" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/LombergA1024.jpg/150px-LombergA1024.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/LombergA1024.jpg/200px-LombergA1024.jpg 2x" data-file-width="1596" data-file-height="1206" /></a></span></p>
 <ul>
-<li>Part I. general philosophical ideas, the categories, natures, elements, metamorphosis, genesis and decay.subdivided into I2 chapters, treats of general philosophical ideas, mostly following <a href="/wiki/Aristotle" title="Aristotle">Aristotle</a>.
+<li>...that <a href="/wiki/Space_art" title="Space art">space artist</a> <b><a href="/wiki/Jon_Lomberg" title="Jon Lomberg">Jon Lomberg</a></b> <i>(artwork pictured)</i> was <a href="/wiki/Carl_Sagan" title="Carl Sagan">Carl Sagan</a>'s principal artistic collaborator on many projects such as <i><a href="/wiki/Cosmos_(book)" class="mw-redirect" title="Cosmos (book)">Cosmos</a></i> and the <a href="/wiki/Voyager_Golden_Record" title="Voyager Golden Record">Voyager Golden Record</a>?</li>
+</ul>
 <ul>
-<li>On the Name of the Book and its Composition. The author mentions among his sources <a href="/wiki/Hippocrates" title="Hippocrates">Hippocrates</a>, <a href="/wiki/Galen" title="Galen">Galen</a> and <a href="/wiki/Aristotle" title="Aristotle">Aristotle</a> <a href="/wiki/Hunayn_ibn_Ishaq" title="Hunayn ibn Ishaq">Hunayn ibn Ishaq</a></li>
-<li>On Matter Shape, Quantity and Quality</li>
-<li>On simple and compound Temperaments</li>
-<li>On the Antagonism of these Temperaments and the Refutation of the Opinion of those who allege that the Air is cold (of temper.). diagram of the four temperaments and their antagonistic action.</li>
-<li>On the Genesis of Temperaments one from another.</li>
-<li>On Metamorphosis <a href="/wiki/Plato" title="Plato">Plato</a> is quoted.</li>
-<li>On Genesis and Decay.</li>
-<li>On Activity and Passivity</li>
-<li>On the Genesis of Things from the Elements, the Action of the Celestial Sphere and the Luminous Bodies therein.</li>
-<li>On the Effects of the Action of the Elements on the Air and subterranean Conditions</li>
-<li>On shooting Stars and the Colors which are generated in the Air. (rainbows)</li>
+<li>...that <a href="/wiki/NASA" title="NASA">NASA</a> <a href="/wiki/Astronaut" title="Astronaut">astronaut</a> <b><a href="/wiki/Stephen_Robinson" title="Stephen Robinson">Stephen Robinson</a></b> has logged <a href="/wiki/Spaceflight_records#Total_time_in_space" class="mw-redirect" title="Spaceflight records">497 hours in space</a>?</li>
 </ul>
-</li>
-<li>Part II embryology, pregnancy, the functions and morphology of different organs, ages and seasons, psychology, the external and internal senses, the temperaments and emotions, personal idiosyncrasies, nervous affections, tetanus, torpor, palpitation, nightmare, the evil eye, hygiene and dietetics.
 <ul>
-<li>Book I</li>
-<li>Book II</li>
-<li>Book III</li>
-<li>Book IV</li>
-<li>Book V</li>
+<li>...that <a href="/wiki/Othniel_Charles_Marsh" title="Othniel Charles Marsh">Othniel Charles Marsh</a> named two species of the <a href="/wiki/Dinosaur" title="Dinosaur">dinosaur</a> <i><b><a href="/wiki/Coelurus" title="Coelurus">Coelurus</a></b></i> from the same <a href="/wiki/Quarry" title="Quarry">quarry</a>, not knowing that the bones belonged to the same skeleton?</li>
 </ul>
-</li>
-<li>Part III. Treats of nutrition and dietetics. 3 chapters</li>
-<li>Part IV. (The longest,107 out of 276 folios and 152 chapters. Each chapter is short, often less than one page and seldom more than two. There is little beyond the signs and symptoms of each disease and the treatment recommended there are no references to actual cases, or clinical notes. ) general and special pathology, from the head to the feet, and concludes with an account of the number of muscles, nerves and veins, and dissertations on phlebotomy, the pulse and urinoscopy.
 <ul>
-<li>Book 1 (9 chapters) on general pathology, the signs and symptoms of internal disorders, and the principles of therapeutics.</li>
-<li>Book 2 (14 chapters) on diseases and injuries of the head; and diseases of the brain, including epilepsy, various kinds of headache, tinnitus, vertigo, amnesia, and nightmare.</li>
-<li>Book 3 (12 chapters) on diseases of the eyes and eyelids, the ear and the nose (including epistaxis and catarrh), the face, mouth and teeth.</li>
-<li>Book 4(7 chapters) on nervous diseases, including spasm, tetanus, paralysis, facial palsy, etc.</li>
-<li>Book 5 (7 chapters) on diseases of the throat, chest and vocal organs, including asthma.</li>
-<li>Book 6 (6 chapters) on diseases of the stomach, including hiccough.</li>
-<li>Book 7 (5 chapters) on diseases of the liver, including dropsy.</li>
-<li>Book 8(14 chapters) on diseases of the heart, lungs, gall-bladder and spleen.</li>
-<li>BooK (19 chapters) on diseases of the intestines (especially colic), and of the urinary and genital organs.</li>
-<li>Book10 (26 chapters) on fevers, ephemeral, hectic, continuous, tertian, quartan and semi-quartan&#160;; on pleurisy, erysipelas, and smallpox&#160;; on crises, prognosis, favorable and unfavorable symptoms, and the signs of death.</li>
-<li>Book 11(13 chapters) on rheumatism, gout, sciatica, leprosy, elephantiasis, scrofula, lupus, cancer, tumours, gangrene, wounds and bruises, shock, and plague. The last four chapters deal with anatomical matters, including the numbers of the muscles, nerves and blood-vessels.</li>
-<li>Book 12 (20 chapters) on phlebotomy, cupping, baths and the indications of the pulse and urine.</li>
+<li>...that the <a href="/wiki/Type_specimen" class="mw-redirect" title="Type specimen">type specimen</a> of <i><b><a href="/wiki/Dromicosuchus" title="Dromicosuchus">Dromicosuchus</a></b></i> had damage to its jaw and neck that may have been inflicted by the teeth of the large <a href="/wiki/Rauisuchia" title="Rauisuchia">carnivore</a> it was found underneath?</li>
 </ul>
-</li>
-<li>Part V. of tastes, scents and colors. 1 book, 9 chapters</li>
-<li>Part VI materia medica and toxicology.</li>
-<li>Part VII. climate, waters and seasons in their relation to health, outlines of cosmography and astronomy, and the utility of the science of medicine: and a summary of Indian Medicine in 36 chapters.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></li>
-</ul>
-<h2><span class="mw-headline" id="Quotes"><i>Quotes</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ali_ibn_Sahl_Rabban_al-Tabari&amp;action=edit&amp;section=4" title="Edit section: Quotes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>On the <a href="/wiki/Quran" title="Quran">Quran</a> he said: "When I was a Christian I used to say, as did an uncle of mine who was one of the learned and eloquent men, that eloquence is not one of the signs of prophethood because it is common to all the peoples; but when I discarded (blind) imitation and (old) customs and gave up adhering to (mere) habit and training and reflected upon the meanings of the Qur'an I came to know that what the followers of the Qur'an claimed for it was true. The fact is that I have not found any book, be it by an Arab or a Persian, an Indian or a Greek, right from the beginning of the world up to now, which contains at the same time praises of God, belief in the prophets and apostles, exhortations to good, everlasting deeds, command to do good and prohibition against doing evil, inspiration to the desire of paradise and to avoidance of hell-fire as this Qur'an does. So when a person brings to us a book of such qualities, which inspires such reverence and sweetness in the hearts and which has achieved such an overlasting success and he is (at the same time) an illiterate person who did never learnt the art of writing or rhetoric, that book is without any doubt one of the signs of his Prophethood."<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ali_ibn_Sahl_Rabban_al-Tabari&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul>
-<li><a href="/wiki/List_of_Islamic_studies_scholars" title="List of Islamic studies scholars">List of Islamic studies scholars</a></li>
-<li><a href="/wiki/List_of_Iranian_scientists_and_scholars" class="mw-redirect" title="List of Iranian scientists and scholars">List of Iranian scientists and scholars</a></li>
+<li>...that the <a href="/wiki/Scientific_name" class="mw-redirect" title="Scientific name">scientific name</a> of the common Australian garden <a href="/wiki/Fungus" title="Fungus">fungus</a> <i><b><a href="/wiki/Asero%C3%AB_rubra" class="mw-redirect" title="Aseroë rubra">Aseroë rubra</a></b></i> means 'red disgusting juice'?</li>
 </ul>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ali_ibn_Sahl_Rabban_al-Tabari&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="reflist" style="list-style-type: decimal;">
-<div class="mw-references-wrap mw-references-columns">
+<table class="noprint" width="100%" border="0" style="padding: 0; margin: 0; background-color:transparent">
+<tr>
+<td>
+<div style="text-align:left;margin-bottom:0px;"><b><a href="/wiki/Portal:Science/Did_you_know" title="Portal:Science/Did you know">...Archive/Nominations</a></b></div>
+</td>
+<td>
+<div style="text-align:right;margin-right:10px;margin-bottom:0px;">
+<p><b><a href="/wiki/Wikipedia:Recent_additions" title="Wikipedia:Recent additions">Read more...</a></b></p>
+</div>
+</td>
+</tr>
+</table>
+<div style="margin:-.8em 0">
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+</div>
+<div class="noprint">
+<div style="clear: both; border: solid #069; border-width: 1px 1px 0; background: #f2f7ff; color: #069; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks noprint" style="float:right;margin-bottom:.1em;font-size:80%; color: #069"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Science/Wikimedia&amp;action=edit"><span style="color: #069">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#069;"><span class="mw-headline" id="Associated_Wikimedia"><i>Associated Wikimedia</i></span></h2>
+</div>
+<div style="border: 1px solid #069; border-top-width: 1px; vertical-align: top;background: white;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<table class="noprint" align="center" style="clear:both; background: transparent; text-align:center; font-size:91%" cellspacing="3" cellpadding="3" rules="none" border="0">
+<tr>
+<td><b><a href="https://en.wikinews.org/wiki/Portal:Science" class="extiw" title="n:Portal:Science">Science portal on Wikinews</a></b> &#160; &#160;</td>
+<td><b><a href="https://en.wikiquote.org/wiki/Science" class="extiw" title="q:Science">Science on Wikiquote</a></b> &#160; &#160;</td>
+<td><b><a href="https://en.wikibooks.org/wiki/Subject:Science" class="extiw" title="b:Subject:Science">Science subject on Wikibooks</a></b> &#160; &#160;</td>
+<td><b><a href="https://en.wikisource.org/wiki/Portal:Science" class="extiw" title="s:Portal:Science">Science portal on Wikisource</a></b> &#160; &#160;</td>
+<td><b><a href="https://commons.wikimedia.org/wiki/Category:Science" class="extiw" title="commons:Category:Science">Science category on Wikicommons</a></b> &#160; &#160;</td>
+<td><b><a href="https://en.wiktionary.org/wiki/Category:Sciences" class="extiw" title="wikt:Category:Sciences">Science category on Wiktionary</a></b> &#160; &#160;</td>
+<td><b><a href="https://en.wikiversity.org/wiki/Wikiversity:Schools" class="extiw" title="v:Wikiversity:Schools">Wikiversity School of Science</a></b></td>
+</tr>
+<tr>
+<td>News</td>
+<td>Quotations</td>
+<td>Manuals</td>
+<td>Texts</td>
+<td>Images</td>
+<td>Definitions</td>
+<td>Learning</td>
+</tr>
+<tr>
+<td>
+<center><a href="https://en.wikinews.org/wiki/Portal:Science" title="n:Portal:Science"><img alt="Wikinews-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/40px-Wikinews-logo.svg.png" width="40" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/60px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/80px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415" /></a></center>
+</td>
+<td>
+<center><a href="https://en.wikiquote.org/wiki/Science" title="q:Science"><img alt="Wikiquote-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/25px-Wikiquote-logo.svg.png" width="25" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/38px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/50px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a></center>
+</td>
+<td>
+<center><a href="https://en.wikibooks.org/wiki/Subject:Science" title="b:Subject:Science"><img alt="Wikibooks-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/25px-Wikibooks-logo.svg.png" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/38px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/50px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></a></center>
+</td>
+<td>
+<center><a href="https://en.wikiquote.org/wiki/Portal:Science" title="q:Portal:Science"><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/25px-Wikisource-logo.svg.png" width="25" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/50px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a></center>
+</td>
+<td>
+<center><a href="https://commons.wikimedia.org/wiki/Category:Science" title="commons:Category:Science"><img alt="Commons-logo.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png" width="20" height="27" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></center>
+</td>
+<td>
+<center><a href="https://en.wiktionary.org/wiki/Category:Sciences" title="wikt:Category:Sciences"><img alt="Wiktionary-logo-v2.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/25px-Wiktionary-logo-v2.svg.png" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/38px-Wiktionary-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/50px-Wiktionary-logo-v2.svg.png 2x" data-file-width="391" data-file-height="391" /></a></center>
+</td>
+<td>
+<center><a href="https://en.wikiversity.org/wiki/Wikiversity:Schools" title="v:Wikiversity:Schools"><img alt="Wikiversity-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/20px-Wikiversity-logo.svg.png" width="20" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/30px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/40px-Wikiversity-logo.svg.png 2x" data-file-width="1000" data-file-height="800" /></a></center>
+</td>
+</tr>
+</table>
+<div style="margin:-.8em 0">
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+</div>
+<div role="navigation" aria-labelledby="portals-label" class="noprint" style="text-align: center; font-weight: bold;">
+<div role="heading" id="portals-label" style="font-size: 110%;">Wikipedia's Portals</div>
+<div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
+<p><span class="plainlinks"><a href="/wiki/Portal:Contents/Portals" title="Portal:Contents/Portals"><span class="mw-ui-button"><span style="color:darkblue;"><b>All Portals</b></span></span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Overviews" title="Portal:Contents/Overviews"><span class="mw-ui-button"><span style="color:darkblue;"><b>Overview</b></span></span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Glossaries" title="Portal:Contents/Glossaries"><span class="mw-ui-button"><span style="color:darkblue;"><b>Glossaries</b></span></span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Indexes" class="mw-redirect" title="Portal:Contents/Indexes"><span class="mw-ui-button"><span style="color:darkblue;"><b>Indices</b></span></span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Lists" title="Portal:Contents/Lists"><span class="mw-ui-button"><span style="color:darkblue;"><b>Lists</b></span></span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Outlines" title="Portal:Contents/Outlines"><span class="mw-ui-button"><span style="color:darkblue;"><b>Outlines</b></span></span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Categories" title="Portal:Contents/Categories"><span class="mw-ui-button"><span style="color:darkblue;"><b>Categories</b></span></span></a></span></p>
+</div>
+<div style="font-size: 73%;">
+<p><span class="plainlinks"><a href="/wiki/Portal:Contents/Reference" title="Portal:Contents/Reference"><span class="mw-ui-button"><span style="color:darkblue;">Reference</span></span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Culture_and_the_arts" title="Portal:Contents/Culture and the arts"><span class="mw-ui-button"><span style="color:darkblue;">Culture</span></span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Geography_and_places" title="Portal:Contents/Geography and places"><span class="mw-ui-button"><span style="color:darkblue;">Geography</span></span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Health_and_fitness" title="Portal:Contents/Health and fitness"><span class="mw-ui-button"><span style="color:darkblue;">Health</span></span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/History_and_events" title="Portal:Contents/History and events"><span class="mw-ui-button"><span style="color:darkblue;">History</span></span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Mathematics_and_logic" title="Portal:Contents/Mathematics and logic"><span class="mw-ui-button"><span style="color:darkblue;">Mathematics</span></span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Natural_and_physical_sciences" title="Portal:Contents/Natural and physical sciences"><span class="mw-ui-button"><span style="color:darkblue;">Nature</span></span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/People_and_self" title="Portal:Contents/People and self"><span class="mw-ui-button"><span style="color:darkblue;">People</span></span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Philosophy_and_thinking" title="Portal:Contents/Philosophy and thinking"><span class="mw-ui-button"><span style="color:darkblue;">Philosophy</span></span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Religion_and_belief_systems" title="Portal:Contents/Religion and belief systems"><span class="mw-ui-button"><span style="color:darkblue;">Religion</span></span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Society_and_social_sciences" title="Portal:Contents/Society and social sciences"><span class="mw-ui-button"><span style="color:darkblue;">Society</span></span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Technology_and_applied_sciences" title="Portal:Contents/Technology and applied sciences"><span class="mw-ui-button"><span style="color:darkblue;">Technology</span></span></a></span></p>
+</div>
+<div class="noprint" style="clear:both;text-align:center;font-weight:bold;"><a href="/wiki/Wikipedia:Portal" title="Wikipedia:Portal">About portals</a></div>
+</div>
+<p><i class="noprint plainlinks"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Science&amp;action=purge"><small>Purge server cache</small></a></i></p>
+<div class="mw-references-wrap">
 <ol class="references">
-<li id="cite_note-Prioreschi2001-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Prioreschi2001_1-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Prioreschi, Plinio (1 January 2001). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=q0IIpnov0BsC&amp;pg=PA222"><i>A History of Medicine: Byzantine and Islamic medicine</i></a>. Horatius Press. p.&#160;223. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781888456042" title="Special:BookSources/9781888456042">9781888456042</a><span class="reference-accessdate">. Retrieved <span class="nowrap">14 December</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAli+ibn+Sahl+Rabban+al-Tabari&amp;rft.aufirst=Plinio&amp;rft.aulast=Prioreschi&amp;rft.btitle=A+History+of+Medicine%3A+Byzantine+and+Islamic+medicine&amp;rft.date=2001-01-01&amp;rft.genre=book&amp;rft.isbn=9781888456042&amp;rft.pages=223&amp;rft.pub=Horatius+Press&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dq0IIpnov0BsC%26pg%3DPA222&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.iranicaonline.org/articles/greece-x">"GREECE x. GREEK MEDICINE IN PERSIA – Encyclopaedia Iranica"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">14 December</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAli+ibn+Sahl+Rabban+al-Tabari&amp;rft.btitle=GREECE+x.+GREEK+MEDICINE+IN+PERSIA+%E2%80%93+Encyclopaedia+Iranica&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.iranicaonline.org%2Farticles%2Fgreece-x&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
-<li id="cite_note-Selin1997-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Selin1997_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Selin1997_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Selin1997_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Selin1997_3-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Selin, Helaine (31 July 1997). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=raKRY3KQspsC&amp;pg=PA930"><i>Encyclopaedia of the history of science, technology, and medicine in non-western cultures</i></a>. Springer. pp.&#160;930–. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7923-4066-9" title="Special:BookSources/978-0-7923-4066-9">978-0-7923-4066-9</a><span class="reference-accessdate">. Retrieved <span class="nowrap">18 May</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAli+ibn+Sahl+Rabban+al-Tabari&amp;rft.aufirst=Helaine&amp;rft.aulast=Selin&amp;rft.btitle=Encyclopaedia+of+the+history+of+science%2C+technology%2C+and+medicine+in+non-western+cultures&amp;rft.date=1997-07-31&amp;rft.genre=book&amp;rft.isbn=978-0-7923-4066-9&amp;rft.pages=930-&amp;rft.pub=Springer&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DraKRY3KQspsC%26pg%3DPA930&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Frye, ed. by R.N. (1975). <i>The Cambridge history of Iran.</i> (Repr. ed.). London: Cambridge U.P. p.&#160;415-416. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-521-20093-6" title="Special:BookSources/978-0-521-20093-6">978-0-521-20093-6</a>. <q>The greatest of these figures, who ushered in the golden age of Islamic medicine and who are discussed separately by E. G. Browne in his Arabian Medicine, are four Persian physicians: 'All b. Rabban al-Tabarl, Muhammad b. Zakariyya' al-Razl, 'All b. al-'Abbas al-Majusi and Ibn Sina.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAli+ibn+Sahl+Rabban+al-Tabari&amp;rft.aufirst=ed.+by+R.N.&amp;rft.aulast=Frye&amp;rft.btitle=The+Cambridge+history+of+Iran.&amp;rft.date=1975&amp;rft.edition=Repr.&amp;rft.genre=book&amp;rft.isbn=978-0-521-20093-6&amp;rft.pages=415-416&amp;rft.place=London&amp;rft.pub=Cambridge+U.P.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="display:none;font-size:100%" class="error citation-comment"><code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> requires <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#accessdate_missing_url" title="Help:CS1 errors">help</a>)</span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Extra text: authors list (<a href="/wiki/Category:CS1_maint:_Extra_text:_authors_list" title="Category:CS1 maint: Extra text: authors list">link</a>)</span></span></li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Selin, Helaine (2008). <i>Encyclopaedia of the history of science, technology, and medicine in non-western cultures</i>. Berlin New York: Springer. p.&#160;2179. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781402049606" title="Special:BookSources/9781402049606">9781402049606</a>. <q>The work is quoted in the Firdaws al-Hikma or “Paradise of Wisdom” composed in AD 850 by the Persian physician ’Alī Ibn Sahl Rabban at-Tabarī who gives a very complete summary of the āyurvedic doctrines.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAli+ibn+Sahl+Rabban+al-Tabari&amp;rft.aufirst=Helaine&amp;rft.aulast=Selin&amp;rft.btitle=Encyclopaedia+of+the+history+of+science%2C+technology%2C+and+medicine+in+non-western+cultures&amp;rft.date=2008&amp;rft.genre=book&amp;rft.isbn=9781402049606&amp;rft.pages=2179&amp;rft.place=Berlin+New+York&amp;rft.pub=Springer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="display:none;font-size:100%" class="error citation-comment"><code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> requires <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#accessdate_missing_url" title="Help:CS1 errors">help</a>)</span></span></li>
-<li id="cite_note-Frye1975-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Frye1975_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Frye1975_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Frye, Richard Nelson (27 June 1975). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=hvx9jq_2L3EC"><i>The Cambridge History of Iran: The period from the Arab invasion to the Saljuqs</i></a>. Cambridge University Press. pp.&#160;415–416. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-521-20093-6" title="Special:BookSources/978-0-521-20093-6">978-0-521-20093-6</a><span class="reference-accessdate">. Retrieved <span class="nowrap">23 May</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAli+ibn+Sahl+Rabban+al-Tabari&amp;rft.aufirst=Richard+Nelson&amp;rft.aulast=Frye&amp;rft.btitle=The+Cambridge+History+of+Iran%3A+The+period+from+the+Arab+invasion+to+the+Saljuqs&amp;rft.date=1975-06-27&amp;rft.genre=book&amp;rft.isbn=978-0-521-20093-6&amp;rft.pages=415-416&amp;rft.pub=Cambridge+University+Press&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dhvx9jq_2L3EC&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
-<li id="cite_note-siggel-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-siggel_7-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Siggel, Alfred (1951). <i>Die indischen Bücher aus dem Paradies der Weisheit über die Medizin des' Alī ibn Sahl Rabban al-Ṭabarī. Übersetzt und erläutert</i>. Wiesbaden: Akademie der Wissenschaften und der Literatur.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAli+ibn+Sahl+Rabban+al-Tabari&amp;rft.aufirst=Alfred&amp;rft.aulast=Siggel&amp;rft.btitle=Die+indischen+B%C3%BCcher+aus+dem+Paradies+der+Weisheit+%C3%BCber+die+Medizin+des%27+Al%C4%AB+ibn+Sahl+Rabban+al-%E1%B9%ACabar%C4%AB.+%C3%9Cbersetzt+und+erl%C3%A4utert&amp;rft.date=1951&amp;rft.genre=book&amp;rft.place=Wiesbaden&amp;rft.pub=Akademie+der+Wissenschaften+und+der+Literatur&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
-<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">`Alî at-Tabarî's ``Paradise of Wisdom<i>, one of the oldest Arabic Compendiums of Medicine Max Meyerho Isis, Vol. 16, No. 1 (Jul., 1931), pp. 6-54 Published by: The University of Chicago Press on behalf of The History of Science Society Article Stable URL: <a rel="nofollow" class="external free" href="https://www.jstor.org/stable/224348">https://www.jstor.org/stable/224348</a></i></span></li>
-<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.scribd.com/doc/154782076/Meyerhof-Ali-Tabari-Paradise-Wisdom">"Meyerhof Ali Tabari Paradise Wisdom"</a>. <i><a href="/wiki/Scribd" title="Scribd">Scribd</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">16 September</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAli+ibn+Sahl+Rabban+al-Tabari&amp;rft.atitle=Meyerhof+Ali+Tabari+Paradise+Wisdom&amp;rft.genre=unknown&amp;rft.jtitle=Scribd&amp;rft_id=https%3A%2F%2Fwww.scribd.com%2Fdoc%2F154782076%2FMeyerhof-Ali-Tabari-Paradise-Wisdom&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
-<li id="cite_note-Browne2011-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Browne2011_10-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Browne, E. G. (2011-05-15). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=H_O1HiEHdZsC&amp;pg=PA38"><i>Arabian Medicine: The FitzPatrick Lectures Delivered at the College of Physicians in November 1919 and November 1920</i></a>. Cambridge University Press. pp.&#160;38–. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781108013970" title="Special:BookSources/9781108013970">9781108013970</a><span class="reference-accessdate">. Retrieved <span class="nowrap">16 September</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAli+ibn+Sahl+Rabban+al-Tabari&amp;rft.aufirst=E.+G.&amp;rft.aulast=Browne&amp;rft.btitle=Arabian+Medicine%3A+The+FitzPatrick+Lectures+Delivered+at+the+College+of+Physicians+in+November+1919+and+November+1920&amp;rft.date=2011-05-15&amp;rft.genre=book&amp;rft.isbn=9781108013970&amp;rft.pages=38-&amp;rft.pub=Cambridge+University+Press&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DH_O1HiEHdZsC%26pg%3DPA38&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
-<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Alî at-Tabarî's ``Paradise of Wisdom<i>, one of the oldest Arabic Compendiums of Medicine Author(s): Max Meyerhof Source: Isis, Vol. 16, No. 1 (Jul., 1931), pp. 6-54 Published by: The University of Chicago Press on behalf of The History of Science Society Stable URL: <a rel="nofollow" class="external free" href="https://www.jstor.org/stable/224348">https://www.jstor.org/stable/224348</a> . Accessed: 04/10/2014 21:57|He extracted his summary from the books of CHARAKA (Arabic: Jarak), SUSHRUTA (Arabic: Susrud), the Nidana (Arabic: Niddin), and the Ashtafigahradaya (Arabic Ashtdnqahrada).</i></span></li>
-<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.islamic-awareness.org/Quran/Miracle/ijaz1.html#Rab">http://www.islamic-awareness.org/Quran/Miracle/ijaz1.html#Rab</a></span></li>
-<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Abdul Aleem, "I'jaz ul Qur'an", Islamic Culture, Op. Cit., pp. 222–223</span></li>
+<li id="cite_note-HG-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-HG_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-HG_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFGardner1970" class="citation">Gardner, Helen (1970), <i>Art through the Ages</i>, Harcourt, Brace and World</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APortal%3AScience&amp;rft.aufirst=Helen&amp;rft.aulast=Gardner&amp;rft.btitle=Art+through+the+Ages&amp;rft.date=1970&amp;rft.genre=book&amp;rft.pub=Harcourt%2C+Brace+and+World&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Vasari, Boltraffio, Castiglione, "Anonimo" Gaddiano, Berensen, Taine, Fuseli, Rio, Bortolon, etc. See specific quotations under heading "Leonardo, the legend".</span></li>
 </ol>
-</div>
-</div>
-<h2><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ali_ibn_Sahl_Rabban_al-Tabari&amp;action=edit&amp;section=7" title="Edit section: Sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul>
-<li>H. Suter: Die Mathematiker und Astronomen der Araber (l0, 1900)</li>
-<li>M. Steinschneider: Die arabische Literatur der Juden (23–34, Frankfurt, 1902).</li>
-<li><a href="/wiki/Edward_Granville_Browne" title="Edward Granville Browne">Edward G. Browne</a>, Islamic Medicine: Fitzpatrick Lectures Delivered at the Royal College of Physicians in 1919-1920 2002, p.&#160;37–38, <a href="/wiki/International_Standard_Book_Number_(identifier)" class="mw-redirect" title="International Standard Book Number (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/81-87570-19-9" title="Special:BookSources/81-87570-19-9">81-87570-19-9</a></li>
-<li><cite class="citation book">Tibi, Selma (2006). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=nlEGNe7G_cUC&amp;pg=PA313"><i>The Medicinal Use of Opium in Ninth-Century Baghdad</i></a>. BRILL. pp.&#160;68–90. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9789004146969" title="Special:BookSources/9789004146969">9789004146969</a><span class="reference-accessdate">. Retrieved <span class="nowrap">30 September</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAli+ibn+Sahl+Rabban+al-Tabari&amp;rft.aufirst=Selma&amp;rft.aulast=Tibi&amp;rft.btitle=The+Medicinal+Use+of+Opium+in+Ninth-Century+Baghdad&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=9789004146969&amp;rft.pages=68-90&amp;rft.pub=BRILL&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DnlEGNe7G_cUC%26pg%3DPA313&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
-<li><cite class="citation book">Ṭabarī, ʻAlī ibn Sahl Rabbān (1922). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=ysQwAQAAMAAJ"><i>The Book of Religion and Empire: a Semi-official Defence and Exposition of Islam Written by Order at the Court and with the Assistance of the Caliph Mutawakkil (A.D. 847-861)</i></a>. University Press<span class="reference-accessdate">. Retrieved <span class="nowrap">5 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAli+ibn+Sahl+Rabban+al-Tabari&amp;rft.aufirst=%CA%BBAl%C4%AB+ibn+Sahl+Rabb%C4%81n&amp;rft.aulast=%E1%B9%ACabar%C4%AB&amp;rft.btitle=The+Book+of+Religion+and+Empire%3A+a+Semi-official+Defence+and+Exposition+of+Islam+Written+by+Order+at+the+Court+and+with+the+Assistance+of+the+Caliph+Mutawakkil+%28A.D.+847-861%29&amp;rft.date=1922&amp;rft.genre=book&amp;rft.pub=University+Press&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DysQwAQAAMAAJ&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
-<li><cite class="citation book">Ṭabarī, ʻAlī ibn Sahl Rabbān; Siddiqi, Muḥammad Zubair (1975*). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=9GpFAAAAYAAJ"><i>فردوس الحكمة في الطب</i></a>. مكتبة المتنبي،<span class="reference-accessdate">. Retrieved <span class="nowrap">5 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAli+ibn+Sahl+Rabban+al-Tabari&amp;rft.au=Siddiqi%2C+Mu%E1%B8%A5ammad+Zubair&amp;rft.aufirst=%CA%BBAl%C4%AB+ibn+Sahl+Rabb%C4%81n&amp;rft.aulast=%E1%B9%ACabar%C4%AB&amp;rft.btitle=%D9%81%D8%B1%D8%AF%D9%88%D8%B3+%D8%A7%D9%84%D8%AD%D9%83%D9%85%D8%A9+%D9%81%D9%8A+%D8%A7%D9%84%D8%B7%D8%A8&amp;rft.genre=book&amp;rft.pub=%D9%85%D9%83%D8%AA%D8%A8%D8%A9+%D8%A7%D9%84%D9%85%D8%AA%D9%86%D8%A8%D9%8A%D8%8C&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D9GpFAAAAYAAJ&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">Check date values in: <code style="color:inherit; border:inherit; padding:inherit;">|date=</code> (<a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">help</a>)</span></li>
-</ul>
-<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ali_ibn_Sahl_Rabban_al-Tabari&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul>
-<li><a rel="nofollow" class="external free" href="http://www.unhas.ac.id/rhiza/arsip/saintis/tabari.html">http://www.unhas.ac.id/rhiza/arsip/saintis/tabari.html</a></li>
-</ul>
-<div role="navigation" class="navbox" aria-labelledby="Medicine_in_the_medieval_Islamic_world" style="padding:3px">
-<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
-<tr>
-<th scope="col" class="navbox-title" colspan="2">
-<div class="plainlinks hlist navbar mini">
-<ul>
-<li class="nv-view"><a href="/wiki/Template:Islamic_medicine" title="Template:Islamic medicine"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
-<li class="nv-talk"><a href="/wiki/Template_talk:Islamic_medicine" title="Template talk:Islamic medicine"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
-<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Islamic_medicine&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
-</ul>
-</div>
-<div id="Medicine_in_the_medieval_Islamic_world" style="font-size:114%;margin:0 4em"><a href="/wiki/Medicine_in_the_medieval_Islamic_world" title="Medicine in the medieval Islamic world">Medicine in the medieval Islamic world</a></div>
-</th>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Physicians_of_medieval_Islam" title="Category:Physicians of medieval Islam">Physicians</a></th>
-<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-<div style="padding:0em 0.25em"></div>
-<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
-<tr>
-<th scope="row" class="navbox-group" style="width:1%">7th century</th>
-<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Al-Harith_ibn_Kalada" title="Al-Harith ibn Kalada">Al-Harith ibn Kalada</a> and <a href="/wiki/Nafi_ibn_al-Harith" title="Nafi ibn al-Harith">his son</a></li>
-<li><a href="/wiki/Abu_Hafsa_Yazid" title="Abu Hafsa Yazid">Abu Hafsa Yazid</a></li>
-<li><a href="/wiki/Bukhtishu" title="Bukhtishu">Bukhtishu</a></li>
-<li><a href="/wiki/Masarjawaih" title="Masarjawaih">Masarjawaih</a></li>
-<li><a href="/wiki/Ibn_Abi_Ramtha_al-Tamimi" title="Ibn Abi Ramtha al-Tamimi">Ibn Abi Ramtha al-Tamimi</a></li>
-<li><a href="/wiki/Rufaida_Al-Aslamia" title="Rufaida Al-Aslamia">Rufaida Al-Aslamia</a></li>
-<li><a href="/wiki/Ibn_Uthal" title="Ibn Uthal">Ibn Uthal</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style="width:1%">8th century</th>
-<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Bukhtishu" title="Bukhtishu">Bukhtishu family</a></li>
-<li><a href="/wiki/Ja%27far_al-Sadiq" title="Ja'far al-Sadiq">Ja'far al-Sadiq</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style="width:1%">9th century</th>
-<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Ali_al-Ridha" title="Ali al-Ridha">Ali al-Ridha</a></li>
-<li><a href="/wiki/Albubather" title="Albubather">Albubather</a></li>
-<li><a href="/wiki/Bukhtishu" title="Bukhtishu">Bukhtishu family</a></li>
-<li><a href="/wiki/Jabril_ibn_Bukhtishu" title="Jabril ibn Bukhtishu">Jabril ibn Bukhtishu</a></li>
-<li><a href="/wiki/J%C4%81bir_ibn_Hayy%C4%81n" class="mw-redirect" title="Jābir ibn Hayyān">Jābir ibn Hayyān</a></li>
-<li><a href="/wiki/Hunayn_ibn_Ishaq" title="Hunayn ibn Ishaq">Hunayn ibn Ishaq</a> and <a href="/wiki/Ishaq_ibn_Hunayn" title="Ishaq ibn Hunayn">his son</a></li>
-<li><a href="/wiki/Yahya_ibn_Sarafyun" title="Yahya ibn Sarafyun">Yahya ibn Sarafyun</a></li>
-<li><a href="/wiki/Al-Kindi" title="Al-Kindi">Al-Kindi</a></li>
-<li><a href="/wiki/Masawaiyh" title="Masawaiyh">Masawaiyh</a></li>
-<li><a href="/wiki/Shapur_ibn_Sahl" title="Shapur ibn Sahl">Shapur ibn Sahl</a></li>
-<li><a class="mw-selflink selflink">Ali ibn Sahl Rabban al-Tabari</a></li>
-<li><a href="/wiki/Al-Ruhawi" class="mw-redirect" title="Al-Ruhawi">Al-Ruhawi</a></li>
-<li><a href="/wiki/Yuhanna_ibn_Bukhtishu" title="Yuhanna ibn Bukhtishu">Yuhanna ibn Bukhtishu</a></li>
-<li><a href="/wiki/Salmawaih_ibn_Bunan" title="Salmawaih ibn Bunan">Salmawaih ibn Bunan</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style="width:1%">10th century</th>
-<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Qusta_ibn_Luqa" title="Qusta ibn Luqa">Qusta ibn Luqa</a></li>
-<li><a href="/wiki/Abu_ul-Ala_Shirazi" title="Abu ul-Ala Shirazi">Abu ul-Ala Shirazi</a></li>
-<li><a href="/wiki/Abul_Hasan_al-Tabari" title="Abul Hasan al-Tabari">Abul Hasan al-Tabari</a></li>
-<li><a href="/wiki/Al-Natili" title="Al-Natili">Al-Natili</a></li>
-<li><a href="/wiki/Qumri" title="Qumri">Qumri</a></li>
-<li><a href="/wiki/Abu_Zayd_al-Balkhi" title="Abu Zayd al-Balkhi">Abu Zayd al-Balkhi</a></li>
-<li><a href="/wiki/Isaac_Israeli_ben_Solomon" title="Isaac Israeli ben Solomon">Isaac Israeli ben Solomon</a></li>
-<li><a href="/wiki/%27Ali_ibn_al-%27Abbas_al-Majusi" title="'Ali ibn al-'Abbas al-Majusi">'Ali ibn al-'Abbas al-Majusi</a></li>
-<li><a href="/wiki/Abu_Sahl_%27Isa_ibn_Yahya_al-Masihi" title="Abu Sahl 'Isa ibn Yahya al-Masihi">Abu Sahl 'Isa ibn Yahya al-Masihi</a></li>
-<li><a href="/wiki/Muvaffak" title="Muvaffak">Muvaffak</a></li>
-<li><a href="/wiki/Muhammad_ibn_Zakariya_al-Razi" title="Muhammad ibn Zakariya al-Razi">Muhammad ibn Zakariya al-Razi</a></li>
-<li><a href="/wiki/Ibn_Juljul" title="Ibn Juljul">Ibn Juljul</a></li>
-<li><a href="/wiki/Al-Tamimi,_the_physician" title="Al-Tamimi, the physician">Al-Tamimi, the physician</a></li>
-<li><a href="/wiki/Abu_al-Qasim_al-Zahrawi" class="mw-redirect" title="Abu al-Qasim al-Zahrawi">Abu al-Qasim al-Zahrawi</a></li>
-<li><a href="/wiki/Ibn_al-Jazzar" title="Ibn al-Jazzar">Ibn al-Jazzar</a></li>
-<li><a href="/wiki/Al-Ka%C5%9Dkar%C4%AB" title="Al-Kaŝkarī">Al-Kaŝkarī</a></li>
-<li><a href="/wiki/Ibn_Abi_al-Ash%CA%BFath" title="Ibn Abi al-Ashʿath">Ibn Abi al-Ashʿath</a></li>
-<li><a href="/wiki/Patriarch_Eutychius_of_Alexandria" class="mw-redirect" title="Patriarch Eutychius of Alexandria">Ibn al-Batriq</a></li>
-<li><a href="/wiki/Ibrahim_ibn_Baks" title="Ibrahim ibn Baks">Ibrahim ibn Baks</a></li>
-<li><a href="/wiki/Abu_al-Qasim_Muqane%27i" title="Abu al-Qasim Muqane'i">Abu al-Qasim Muqane'i</a></li>
-<li><a href="/wiki/Abu_Bakr_Rabee_Ibn_Ahmad_Al-Akhawyni_Bokhari" title="Abu Bakr Rabee Ibn Ahmad Al-Akhawyni Bokhari">Abu Bakr Rabee Ibn Ahmad Al-Akhawyni Bokhari</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style="width:1%">11th century</th>
-<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Abu_%27Ubayd_al-Juzjani" title="Abu 'Ubayd al-Juzjani">Abu 'Ubayd al-Juzjani</a></li>
-<li><a href="/wiki/Ibn_al-Haytham" title="Ibn al-Haytham">Ibn al-Haytham</a></li>
-<li><a href="/wiki/Al-Biruni" title="Al-Biruni">Al-Biruni</a></li>
-<li><a href="/wiki/Ali_ibn_Ridwan" title="Ali ibn Ridwan">Ali ibn Ridwan</a></li>
-<li><a href="/wiki/Avicenna" title="Avicenna">Avicenna</a></li>
-<li><a href="/wiki/Ephraim_ibn_al-Za%27faran" title="Ephraim ibn al-Za'faran">Ephraim ibn al-Za'faran</a></li>
-<li><a href="/wiki/Ibn_al-Wafid" title="Ibn al-Wafid">Ibn al-Wafid</a></li>
-<li><a href="/wiki/Abdollah_ibn_Bukhtishu" title="Abdollah ibn Bukhtishu">Abdollah ibn Bukhtishu</a></li>
-<li><a href="/wiki/Ibn_Butlan" title="Ibn Butlan">Ibn Butlan</a></li>
-<li><a href="/wiki/Ibn_al-Kattani" title="Ibn al-Kattani">Ibn al-Kattani</a></li>
-<li><a href="/wiki/Ibn_Jazla" title="Ibn Jazla">Ibn Jazla</a></li>
-<li><a href="/wiki/Masawaih_al-Mardini" title="Masawaih al-Mardini">Masawaih al-Mardini</a></li>
-<li><a href="/wiki/Ali_ibn_Yusuf_al-Ilaqi" title="Ali ibn Yusuf al-Ilaqi">Ali ibn Yusuf al-Ilaqi</a></li>
-<li><a href="/wiki/Ibn_Al-Thahabi" title="Ibn Al-Thahabi">Ibn Al-Thahabi</a></li>
-<li><a href="/wiki/Ibn_Abi_Sadiq" title="Ibn Abi Sadiq">Ibn Abi Sadiq</a></li>
-<li><a href="/wiki/Ali_ibn_Isa_al-Kahhal" title="Ali ibn Isa al-Kahhal">Ali ibn Isa al-Kahhal</a></li>
-<li><a href="/wiki/Ibn_Hindu" title="Ibn Hindu">Ibn Hindu</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style="width:1%">12th century</th>
-<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Abu_al-Bayan_ibn_al-Mudawwar" title="Abu al-Bayan ibn al-Mudawwar">Abu al-Bayan ibn al-Mudawwar</a></li>
-<li><a href="/wiki/Ahmad_ibn_Farrokh" title="Ahmad ibn Farrokh">Ahmad ibn Farrokh</a></li>
-<li><a href="/wiki/Ibn_Hubal" title="Ibn Hubal">Ibn Hubal</a></li>
-<li><a href="/wiki/Zayn_al-Din_Gorgani" title="Zayn al-Din Gorgani">Zayn al-Din Gorgani</a></li>
-<li><a href="/wiki/Maimonides" title="Maimonides">Maimonides</a></li>
-<li><a href="/wiki/Serapion_the_Younger" title="Serapion the Younger">Serapion the Younger</a></li>
-<li><a href="/wiki/Ibn_Zuhr" title="Ibn Zuhr">Ibn Zuhr</a></li>
-<li><a href="/wiki/Ya%27qub_ibn_Ishaq_al-Israili" title="Ya'qub ibn Ishaq al-Israili">Ya'qub ibn Ishaq al-Israili</a></li>
-<li><a href="/wiki/Abu_Jafar_ibn_Harun_al-Turjali" title="Abu Jafar ibn Harun al-Turjali">Abu Jafar ibn Harun al-Turjali</a></li>
-<li><a href="/wiki/Averroes" title="Averroes">Averroes</a></li>
-<li><a href="/wiki/Ibn_Tufail" title="Ibn Tufail">Ibn Tufail</a></li>
-<li><a href="/wiki/Muhammad_ibn_Aslam_Al-Ghafiqi" title="Muhammad ibn Aslam Al-Ghafiqi">Al-Ghafiqi</a></li>
-<li><a href="/wiki/Abu_al-Majd_ibn_Abi_al-Hakam" title="Abu al-Majd ibn Abi al-Hakam">Ibn Abi al-Hakam</a></li>
-<li><a href="/wiki/Abu%27l-Barak%C4%81t_al-Baghd%C4%81d%C4%AB" title="Abu'l-Barakāt al-Baghdādī">Abu'l-Barakāt al-Baghdādī</a></li>
-<li><a href="/wiki/Al-Samawal_al-Maghribi" title="Al-Samawal al-Maghribi">Al-Samawal al-Maghribi</a></li>
-<li><a href="/wiki/Ibn_al-Tilm%C4%ABdh" title="Ibn al-Tilmīdh">Ibn al-Tilmīdh</a></li>
-<li><a href="/wiki/Ibn_Jumay%E2%80%98" title="Ibn Jumay‘">Ibn Jumay‘</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style="width:1%">13th century</th>
-<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Sa%27ad_al-Dawla" title="Sa'ad al-Dawla">Sa'ad al-Dawla</a></li>
-<li><a href="/wiki/Al-Shahrazuri" title="Al-Shahrazuri">Al-Shahrazuri</a></li>
-<li><a href="/wiki/Rashidun_al-Suri" title="Rashidun al-Suri">Rashidun al-Suri</a></li>
-<li><a href="/wiki/Amin_al-Din_Rashid_al-Din_Vatvat" title="Amin al-Din Rashid al-Din Vatvat">Amin al-Din Rashid al-Din Vatvat</a></li>
-<li><a href="/wiki/Abraham_ben_Moses_ben_Maimon" title="Abraham ben Moses ben Maimon">Abraham ben Moses ben Maimon</a></li>
-<li><a href="/wiki/Da%27ud_Abu_al-Fadl" title="Da'ud Abu al-Fadl">Da'ud Abu al-Fadl</a></li>
-<li><a href="/wiki/Al-Dakhwar" title="Al-Dakhwar">Al-Dakhwar</a></li>
-<li><a href="/wiki/Ibn_Abi_Usaibia" title="Ibn Abi Usaibia">Ibn Abi Usaibia</a></li>
-<li><a href="/wiki/Joseph_ben_Judah_of_Ceuta" title="Joseph ben Judah of Ceuta">Joseph ben Judah of Ceuta</a></li>
-<li><a href="/wiki/Abd_al-Latif_al-Baghdadi_(medieval_writer)" class="mw-redirect" title="Abd al-Latif al-Baghdadi (medieval writer)">Abd al-Latif al-Baghdadi (medieval writer)</a></li>
-<li><a href="/wiki/Ibn_al-Nafis" title="Ibn al-Nafis">Ibn al-Nafis</a></li>
-<li><a href="/wiki/Zakariya_al-Qazwini" title="Zakariya al-Qazwini">Zakariya al-Qazwini</a></li>
-<li><a href="/wiki/Najib_ad-Din-e-Samarqandi" class="mw-redirect" title="Najib ad-Din-e-Samarqandi">Najib ad-Din-e-Samarqandi</a></li>
-<li><a href="/wiki/Qutb_al-Din_al-Shirazi" title="Qutb al-Din al-Shirazi">Qutb al-Din al-Shirazi</a></li>
-<li><a href="/wiki/Ibn_al-Quff" title="Ibn al-Quff">Ibn al-Quff</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style="width:1%">14th century</th>
-<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Muhammad_ibn_Mahmud_Amuli" title="Muhammad ibn Mahmud Amuli">Muhammad ibn Mahmud Amuli</a></li>
-<li><a href="/wiki/Al-Nagawri" title="Al-Nagawri">Al-Nagawri</a></li>
-<li><a href="/wiki/Aqsara%27i" title="Aqsara'i">Aqsara'i</a></li>
-<li><a href="/wiki/Zayn-e-Attar" title="Zayn-e-Attar">Zayn-e-Attar</a></li>
-<li><a href="/wiki/Mansur_ibn_Ilyas" title="Mansur ibn Ilyas">Mansur ibn Ilyas</a></li>
-<li><a href="/wiki/Jaghmini" title="Jaghmini">Jaghmini</a></li>
-<li><a href="/wiki/Mas%E2%80%98ud_ibn_Muhammad_Sijzi" title="Mas‘ud ibn Muhammad Sijzi">Mas‘ud ibn Muhammad Sijzi</a></li>
-<li><a href="/wiki/Najm_al-Din_Mahmud_ibn_Ilyas_al-Shirazi" title="Najm al-Din Mahmud ibn Ilyas al-Shirazi">Najm al-Din Mahmud ibn Ilyas al-Shirazi</a></li>
-<li><a href="/wiki/Nakhshabi" title="Nakhshabi">Nakhshabi</a></li>
-<li><a href="/wiki/Sadid_al-Din_al-Kazaruni" title="Sadid al-Din al-Kazaruni">Sadid al-Din al-Kazaruni</a></li>
-<li><a href="/wiki/Yusuf_ibn_Ismail_al-Kutubi" title="Yusuf ibn Ismail al-Kutubi">Yusuf ibn Ismail al-Kutubi</a></li>
-<li><a href="/wiki/Ibn_al-Khatib" title="Ibn al-Khatib">Ibn al-Khatib</a></li>
-<li><a href="/wiki/Rashid-al-Din_Hamadani" title="Rashid-al-Din Hamadani">Rashid-al-Din Hamadani</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style="width:1%">15th century</th>
-<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Abu_Sa%27id_al-Afif" title="Abu Sa'id al-Afif">Abu Sa'id al-Afif</a></li>
-<li><a href="/wiki/Muhammad_Ali_Astarabadi" title="Muhammad Ali Astarabadi">Muhammad Ali Astarabadi</a></li>
-<li><a href="/wiki/Husayni_Isfahani" title="Husayni Isfahani">Husayni Isfahani</a></li>
-<li><a href="/wiki/Burhan-ud-din_Kermani" title="Burhan-ud-din Kermani">Burhan-ud-din Kermani</a></li>
-<li><a href="/wiki/%C5%9Eerafeddin_Sabuncuo%C4%9Flu" title="Şerafeddin Sabuncuoğlu">Şerafeddin Sabuncuoğlu</a></li>
-<li><a href="/wiki/Muhammad_ibn_Yusuf_al-Harawi" title="Muhammad ibn Yusuf al-Harawi">Muhammad ibn Yusuf al-Harawi</a></li>
-<li><a href="/wiki/Nurbakhshi" title="Nurbakhshi">Nurbakhshi</a></li>
-<li><a href="/wiki/Shaykh_Muhammad_ibn_Thaleb" title="Shaykh Muhammad ibn Thaleb">Shaykh Muhammad ibn Thaleb</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style="width:1%">16th century</th>
-<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Hakim-e-Gilani" title="Hakim-e-Gilani">Hakim-e-Gilani</a></li>
-<li><a href="/wiki/Abul_Qasim_ibn_Mohammed_al-Ghassani" title="Abul Qasim ibn Mohammed al-Ghassani">Abul Qasim ibn Mohammed al-Ghassani</a></li>
-<li><a href="/wiki/Taqi_ad-Din_Muhammad_ibn_Ma%27ruf" title="Taqi ad-Din Muhammad ibn Ma'ruf">Taqi ad-Din Muhammad ibn Ma'ruf</a></li>
-<li><a href="/wiki/Dawud_al-Antaki" title="Dawud al-Antaki">Dawud al-Antaki</a></li>
-<li><a href="/wiki/Sultan_Ali_Khorasani" title="Sultan Ali Khorasani">Sultan Ali Khorasani</a></li>
-</ul>
-</div>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style="width:1%">Concepts</th>
-<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Psychology_in_medieval_Islam" title="Psychology in medieval Islam">Psychology</a></li>
-<li><a href="/wiki/Ophthalmology_in_medieval_Islam" title="Ophthalmology in medieval Islam">Ophthalmology</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Medical_works_of_medieval_Islam" title="Category:Medical works of medieval Islam">Works</a></th>
-<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-<div style="padding:0em 0.25em">
-<ul>
-<li><i><a href="/wiki/Al-Risalah_al-Dhahabiah" title="Al-Risalah al-Dhahabiah">Al-Risalah al-Dhahabiah</a></i></li>
-<li><i><a href="/wiki/The_Canon_of_Medicine" title="The Canon of Medicine">The Canon of Medicine</a></i></li>
-<li><a href="/wiki/Anatomy_Charts_of_the_Arabs" title="Anatomy Charts of the Arabs">Anatomy Charts of the Arabs</a></li>
-<li><i><a href="/wiki/The_Book_of_Healing" title="The Book of Healing">The Book of Healing</a></i></li>
-<li><i><a href="/wiki/Book_of_the_Ten_Treatises_of_the_Eye" title="Book of the Ten Treatises of the Eye">Book of the Ten Treatises of the Eye</a></i></li>
-<li><i><a href="/wiki/De_Gradibus" title="De Gradibus">De Gradibus</a></i></li>
-<li><i><a href="/wiki/Al-Tasrif" title="Al-Tasrif">Al-Tasrif</a></i></li>
-<li><i><a href="/wiki/Zakhireye_Khwarazmshahi" title="Zakhireye Khwarazmshahi">Zakhireye Khwarazmshahi</a></i></li>
-<li><i><a href="/wiki/Adab_al-Tabib" title="Adab al-Tabib">Adab al-Tabib</a></i></li>
-<li><i><a href="/wiki/Kamel_al-Sanaat_al-Tibbyya" class="mw-redirect" title="Kamel al-Sanaat al-Tibbyya">Kamel al-Sanaat al-Tibbyya</a></i></li>
-<li><i><a href="/wiki/Al-Hawi" class="mw-redirect" title="Al-Hawi">Al-Hawi</a></i></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style="width:1%">Centers</th>
-<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Bimaristan" title="Bimaristan">Bimaristan</a></li>
-<li><a href="/wiki/Nur_al-Din_Bimaristan" title="Nur al-Din Bimaristan">Nur al-Din Bimaristan</a></li>
-<li><a href="/wiki/Al-%27Adudi_Hospital" title="Al-'Adudi Hospital">Al-'Adudi</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style="width:1%">Influences</th>
-<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Ancient_Greek_medicine" title="Ancient Greek medicine">Ancient Greek medicine</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style="width:1%">Influenced</th>
-<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Medical_Renaissance" title="Medical Renaissance">Medical Renaissance</a></li>
-<li><a href="/wiki/Ibn_Sina_Academy_of_Medieval_Medicine_and_Sciences" title="Ibn Sina Academy of Medieval Medicine and Sciences">Ibn Sina Academy of Medieval Medicine and Sciences</a></li>
-</ul>
-</div>
-</td>
-</tr>
-</table>
-</div>
-<div role="navigation" class="navbox" aria-labelledby="Islamic_philosophy" style="padding:3px">
-<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
-<tr>
-<th scope="col" class="navbox-title" colspan="2">
-<div class="plainlinks hlist navbar mini">
-<ul>
-<li class="nv-view"><a href="/wiki/Template:Islamic_philosophy" title="Template:Islamic philosophy"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
-<li class="nv-talk"><a href="/wiki/Template_talk:Islamic_philosophy" title="Template talk:Islamic philosophy"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
-<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Islamic_philosophy&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
-</ul>
-</div>
-<div id="Islamic_philosophy" style="font-size:114%;margin:0 4em"><a href="/wiki/Islamic_philosophy" title="Islamic philosophy">Islamic philosophy</a></div>
-</th>
-</tr>
-<tr>
-<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
-<div style="padding:0em 0.25em"></div>
-<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
-<tr>
-<th scope="row" class="navbox-group" style="width:1%">Fields</th>
-<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Alchemy_and_chemistry_in_medieval_Islam" title="Alchemy and chemistry in medieval Islam">Alchemy</a></li>
-<li><a href="/wiki/Schools_of_Islamic_theology" title="Schools of Islamic theology"><i>Aqidah</i> <span style="font-size:90%;">(theology)</span></a></li>
-<li><a href="/wiki/%27Aql" title="'Aql">'<i>Aql</i> <span style="font-size:90%;">(intellect)</span></a></li>
-<li><a href="/wiki/Cosmology_in_medieval_Islam" title="Cosmology in medieval Islam">Cosmology</a>
-<ul>
-<li><a href="/wiki/Astrology_in_medieval_Islam" title="Astrology in medieval Islam">astrology</a></li>
-<li><a href="/wiki/Astronomy_in_the_medieval_Islamic_world" title="Astronomy in the medieval Islamic world">medieval astronomy</a></li>
-</ul>
-</li>
-<li><a href="/wiki/Islamic_eschatology" title="Islamic eschatology">Eschatology</a></li>
-<li><a href="/wiki/Islamic_ethics" title="Islamic ethics">Ethics</a></li>
-<li><a href="/wiki/Ilm_al-Kalam" class="mw-redirect" title="Ilm al-Kalam"><i>Kalam</i> <span style="font-size:90%;">(dialectic)</span></a></li>
-<li><a href="/wiki/Fiqh" title="Fiqh"><i>Fiqh</i> <span style="font-size:90%;">(jurisprudence)</span></a></li>
-<li><a href="/wiki/Logic_in_Islamic_philosophy" title="Logic in Islamic philosophy">Logic</a></li>
-<li><a href="/wiki/Islamic_metaphysics" class="mw-redirect" title="Islamic metaphysics">Metaphysics</a></li>
-<li><a href="/wiki/Physics_in_the_medieval_Islamic_world" title="Physics in the medieval Islamic world">Natural philosophy <span style="font-size:90%;">(physics)</span></a></li>
-<li><a href="/wiki/Peace_in_Islamic_philosophy" title="Peace in Islamic philosophy">Peace</a></li>
-<li><a href="/wiki/Madrasa" title="Madrasa"><i>Madrasah</i> <span style="font-size:90%;">(education)</span></a></li>
-<li><a href="/wiki/Science_in_the_medieval_Islamic_world" title="Science in the medieval Islamic world">Medieval science</a></li>
-<li><a href="/wiki/Psychology_in_medieval_Islam" title="Psychology in medieval Islam">Medieval psychology</a></li>
-<li><a href="/wiki/Sufism" title="Sufism">Sufism <span style="font-size:90%;">(mysticism)</span></a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Islamic_philosophy" title="Islamic philosophy">Schools</a></th>
-<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Early_Islamic_philosophy" title="Early Islamic philosophy">Early</a></li>
-<li><a href="/wiki/Al-Farabi" title="Al-Farabi">Farabism</a></li>
-<li><a href="/wiki/Avicennism" title="Avicennism">Avicennism</a></li>
-<li><a href="/wiki/Averroism" title="Averroism">Averroism</a></li>
-<li><a href="/wiki/Illuminationism" title="Illuminationism">Illuminationism</a></li>
-<li><a href="/wiki/Sufi_philosophy" title="Sufi philosophy">Sufi</a>
-<ul>
-<li><a href="/wiki/Sufi_cosmology" title="Sufi cosmology">cosmology</a></li>
-<li><a href="/wiki/Sufi_metaphysics" title="Sufi metaphysics">metaphysics</a></li>
-</ul>
-</li>
-<li><a href="/wiki/Transcendent_theosophy" title="Transcendent theosophy">Transcendent theosophy</a></li>
-<li><a href="/wiki/Traditionalist_School" title="Traditionalist School">Traditionalist</a></li>
-<li><a href="/wiki/Contemporary_Islamic_philosophy" title="Contemporary Islamic philosophy">Contemporary</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style="width:1%">Concepts</th>
-<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;font-style:italic;">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Asabiyyah" title="Asabiyyah">ʻAṣabīya</a></li>
-<li><a href="/wiki/Haal" title="Haal">Ḥāl</a></li>
-<li><a href="/wiki/I%27jaz" title="I'jaz">Iʻjaz</a></li>
-<li><a href="/wiki/Ijtihad" title="Ijtihad">ʼIjtihād</a></li>
-<li><a href="/wiki/Ilm_(Arabic)" title="Ilm (Arabic)">ʻlm</a></li>
-<li><a href="/wiki/Irfan" title="Irfan">ʻIrfān</a></li>
-<li><a href="/wiki/Ijma" title="Ijma">Ijmāʿ</a></li>
-<li><a href="/wiki/Maslaha" title="Maslaha">Maslaha</a></li>
-<li><a href="/wiki/Nafs" title="Nafs">Nafs</a></li>
-<li><a href="/wiki/Predestination_in_Islam" title="Predestination in Islam">Qadar</a></li>
-<li><a href="/wiki/Qalb" title="Qalb">Qalb</a></li>
-<li><a href="/wiki/Qiyas" title="Qiyas">Qiyās</a></li>
-<li><a href="/wiki/Shura" title="Shura">Shūrā</a></li>
-<li><a href="/wiki/Tawhid" title="Tawhid">Tawḥīd</a></li>
-<li><a href="/wiki/Ummah" title="Ummah">Ummah</a></li>
-</ul>
-</div>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-<tr>
-<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
-<div style="padding:0em 0.25em"></div>
-<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
-<tr>
-<th scope="col" class="navbox-title" colspan="2" style=";">
-<div id="Philosophers_by_century_.28CE.29" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_Muslim_philosophers" title="List of Muslim philosophers">Philosophers</a> by century (<a href="/wiki/Common_Era" title="Common Era">CE</a>)</div>
-</th>
-</tr>
-<tr>
-<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
-<div style="padding:0em 0.25em"></div>
-<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
-<tr>
-<th scope="row" class="navbox-group" style="width:1%">9th–10th</th>
-<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Al-Kindi" title="Al-Kindi">Al-Kindi</a></li>
-<li><a class="mw-selflink selflink">Ali ibn Sahl Rabban al-Tabari</a></li>
-<li><a href="/wiki/Abu_al-Abbas_Iranshahri" title="Abu al-Abbas Iranshahri">Abu al-Abbas Iranshahri</a></li>
-<li><a href="/wiki/Muhammad_ibn_Zakariya_al-Razi" title="Muhammad ibn Zakariya al-Razi">Zakariya Razi</a></li>
-<li><a href="/wiki/Al-Farabi" title="Al-Farabi">Apharabius</a></li>
-<li><a href="/wiki/Abu_Hatim_Ahmad_ibn_Hamdan_al-Razi" title="Abu Hatim Ahmad ibn Hamdan al-Razi">Abu Hatim al-Razi</a></li>
-<li><a href="/wiki/Abu_al-Hassan_al-Amiri" title="Abu al-Hassan al-Amiri">Al Amiri</a></li>
-<li><a href="/wiki/Brethren_of_Purity" title="Brethren of Purity">Ikhwan al-Safa</a></li>
-<li><a href="/wiki/Abu_Sulayman_Sijistani" title="Abu Sulayman Sijistani">Abu Sulayman Sijistani</a></li>
-<li><a href="/wiki/Ibn_Masarra" title="Ibn Masarra">Ibn Masarrah</a></li>
-<li><a href="/wiki/Abu_Yaqub_al-Sijistani" title="Abu Yaqub al-Sijistani">Abu Yaqub al-Sijistani</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style="width:1%">11th</th>
-<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Al-Ghazali" title="Al-Ghazali">Al-Ghazali</a></li>
-<li><a href="/wiki/Miskawayh" title="Miskawayh">Ibn Miskawayh</a></li>
-<li><a href="/wiki/Avicenna" title="Avicenna">Avicenna</a></li>
-<li><a href="/wiki/Ibn_Hazm" title="Ibn Hazm">Ibn Hazm</a></li>
-<li><a href="/wiki/Bahmany%C4%81r" title="Bahmanyār">Bahmanyār</a></li>
-<li><a href="/wiki/Mu%27ayyad_fi%27l-Din_al-Shirazi" title="Mu'ayyad fi'l-Din al-Shirazi">Mu'ayyad fi'l-Din al-Shirazi</a></li>
-<li><a href="/wiki/Nasir_Khusraw" title="Nasir Khusraw">Nasir Khusraw</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style="width:1%">12th</th>
-<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Abu%27l-Barak%C4%81t_al-Baghd%C4%81d%C4%AB" title="Abu'l-Barakāt al-Baghdādī">Abu'l-Barakāt al-Baghdādī</a></li>
-<li><a href="/wiki/Afdal_al-Din_Kashani" title="Afdal al-Din Kashani">Afdal al-Din Kashani</a></li>
-<li><a href="/wiki/Ahi_Evren" title="Ahi Evren">Ahi Evren</a></li>
-<li><a href="/wiki/Khoja_Akhmet_Yassawi" title="Khoja Akhmet Yassawi">Ahmad Yasavi</a></li>
-<li><a href="/wiki/Ayn_al-Quzat_Hamadani" title="Ayn al-Quzat Hamadani">Ayn-al-Quzat</a></li>
-<li><a href="/wiki/Averroes" title="Averroes">Averroes</a></li>
-<li><a href="/wiki/Ibn_Tufail" title="Ibn Tufail">Ibn Tufail</a></li>
-<li><a href="/wiki/Omar_Khayyam" title="Omar Khayyam">Omar Khayyám</a></li>
-<li><a href="/wiki/Shahab_al-Din_Yahya_ibn_Habash_Suhrawardi" title="Shahab al-Din Yahya ibn Habash Suhrawardi">Suhrawardi</a></li>
-<li><a href="/wiki/Shams_Tabrizi" title="Shams Tabrizi">Shams Tabrizi</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style="width:1%">13th</th>
-<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Haji_Bektash_Veli" title="Haji Bektash Veli">Hajji Bektash Wali</a></li>
-<li><a href="/wiki/Rumi" title="Rumi">Jalal ad-Din Muhammad Rumi</a></li>
-<li><a href="/wiki/Ibn_Sab%27in" title="Ibn Sab'in">Ibn Sab’in</a></li>
-<li><a href="/wiki/Ibn_Arabi" title="Ibn Arabi">Ibn Arabi</a></li>
-<li><a href="/wiki/Ath%C4%ABr_al-D%C4%ABn_al-Abhar%C4%AB" class="mw-redirect" title="Athīr al-Dīn al-Abharī">al-Abharī</a></li>
-<li><a href="/wiki/Nasir_al-Din_al-Tusi" title="Nasir al-Din al-Tusi">Nasir al-Din Tusi</a></li>
-<li><a href="/wiki/Fakhr_ad-Din_ar-Razi" class="mw-redirect" title="Fakhr ad-Din ar-Razi">Fakhr ad-Din ar-Razi</a></li>
-<li><a href="/wiki/Qutb_al-Din_al-Shirazi" title="Qutb al-Din al-Shirazi">Qutb al-Din al-Shirazi</a></li>
-<li><a href="/wiki/Sadr_al-Din_al-Qunawi" title="Sadr al-Din al-Qunawi">Sadr al-Din al-Qunawi</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style="width:1%">14th–16th</th>
-<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Ibn_Khaldun" title="Ibn Khaldun">Ibn Khaldun</a></li>
-<li><a href="/wiki/Yunus_Emre" title="Yunus Emre">Yunus Emre</a></li>
-<li><a href="/wiki/Hac%C4%B1_Bayram-%C4%B1_Veli" title="Hacı Bayram-ı Veli">Hajji Bayram</a></li>
-<li><a href="/wiki/Jalaladdin_Davani" title="Jalaladdin Davani">Jalaladdin Davani</a></li>
-<li><a href="/wiki/Sadr_ad-Din_Dashtaki" title="Sadr ad-Din Dashtaki">Sadr ad-Din Dashtaki</a></li>
-<li><a href="/wiki/Mahmud_Hudayi" title="Mahmud Hudayi">Aziz Mahmud Hudayi</a></li>
-<li><a href="/wiki/Qadi_Mir_Husayn_al-Maybudi" title="Qadi Mir Husayn al-Maybudi">Qadi Mir Husayn al-Maybudi</a></li>
-<li><a href="/wiki/Mahmoud_Shabestari" title="Mahmoud Shabestari">Mahmud Shabistari</a></li>
-<li><a href="/wiki/Sayyid_Haydar_Amuli" class="mw-redirect" title="Sayyid Haydar Amuli">Sayyid Haydar Amuli</a></li>
-<li><a href="/wiki/Daw%C5%ABd_al-Qay%E1%B9%A3ar%C4%AB" title="Dawūd al-Qayṣarī">Dawūd al-Qayṣarī</a></li>
-<li><a href="/wiki/Jami" title="Jami">Jami</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style="width:1%">17th–19th</th>
-<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Mir_Damad" title="Mir Damad">Mir Damad</a></li>
-<li><a href="/wiki/Mir_Fendereski" title="Mir Fendereski">Mir Fendereski</a></li>
-<li><a href="/wiki/Mulla_Sadra" title="Mulla Sadra">Mulla Sadra</a></li>
-<li><a href="/wiki/Mohsen_Fayz_Kashani" title="Mohsen Fayz Kashani">Mohsen Fayz Kashani</a></li>
-<li><a href="/wiki/Abd_al-Razzaq_Lahiji" title="Abd al-Razzaq Lahiji">Abd al-Razzaq Lahiji</a></li>
-<li><a href="/wiki/Ahmad_Sirhindi" title="Ahmad Sirhindi">Mujaddid Alf-i-Sani</a></li>
-<li><a href="/wiki/Rajab_Ali_Tabrizi" title="Rajab Ali Tabrizi">Rajab Ali Tabrizi</a></li>
-<li><a href="/wiki/Qazi_Sa%E2%80%99id_Qumi" title="Qazi Sa’id Qumi">Qazi Sa’id Qumi</a></li>
-<li><a href="/wiki/Shah_Waliullah_Dehlawi" title="Shah Waliullah Dehlawi">Shah Waliullah Dehlawi</a></li>
-<li><a href="/wiki/Hadi_Sabzavari" title="Hadi Sabzavari">Hādī Sabzavārī</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style="width:1%">20th–<small>present</small></th>
-<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Muhammad_Husayn_Tabataba%27i" title="Muhammad Husayn Tabataba'i">Muhammad Husayn Tabatabaei</a></li>
-<li><a href="/wiki/Muhammad_Iqbal" title="Muhammad Iqbal">Muhammad Iqbal</a></li>
-<li><a href="/wiki/Riaz_Ahmed_Gohar_Shahi" title="Riaz Ahmed Gohar Shahi">Gohar Shahi</a></li>
-<li><a href="/wiki/Muhammad_Baqir_al-Sadr" title="Muhammad Baqir al-Sadr">Mohammad Baqir al-Sadr</a></li>
-<li><a href="/wiki/Ren%C3%A9_Gu%C3%A9non" title="René Guénon">René Guénon</a></li>
-<li><a href="/wiki/Frithjof_Schuon" title="Frithjof Schuon">Frithjof Schuon</a></li>
-<li><a href="/wiki/Martin_Lings" title="Martin Lings">Martin Lings</a></li>
-<li><a href="/wiki/Hossein_Nasr" title="Hossein Nasr">Hossein Nasr</a></li>
-<li><a href="/wiki/Syed_Muhammad_Naquib_al-Attas" title="Syed Muhammad Naquib al-Attas">Naquib al-Attas</a></li>
-<li><a href="/wiki/Abdolkarim_Soroush" title="Abdolkarim Soroush">Abdolkarim Soroush</a></li>
-<li><a href="/wiki/Gholamhossein_Ebrahimi_Dinani" title="Gholamhossein Ebrahimi Dinani">Gholamhossein Ebrahimi Dinani</a></li>
-<li><a href="/wiki/Taha_Abdurrahman" title="Taha Abdurrahman">Taha Abdurrahman</a></li>
-<li><a href="/wiki/Mohammed_Abed_al-Jabri" title="Mohammed Abed al-Jabri">Mohammed Abed al-Jabri</a></li>
-<li><a href="/wiki/Mohammed_Arkoun" title="Mohammed Arkoun">Mohammed Arkoun</a></li>
-<li><a href="/wiki/Fouad_Zakariyya" title="Fouad Zakariyya">Fouad Zakariyya</a></li>
-<li><a href="/wiki/Reza_Davari_Ardakani" title="Reza Davari Ardakani">Reza Davari Ardakani</a></li>
-<li><a href="/wiki/Ahmad_Fardid" title="Ahmad Fardid">Ahmad Fardid</a></li>
-<li><a href="/wiki/Mostafa_Malekian" title="Mostafa Malekian">Mostafa Malekian</a></li>
-<li><a href="/wiki/Hassan_Hasanzadeh_Amoli" title="Hassan Hasanzadeh Amoli">Hasanzadeh Amoli</a></li>
-<li><a href="/wiki/Abdollah_Javadi-Amoli" title="Abdollah Javadi-Amoli">Javadi Amoli</a></li>
-<li><a href="/wiki/Nasir_al-Din_Nasir_Hunzai" title="Nasir al-Din Nasir Hunzai">Partawi Shah</a></li>
-</ul>
-</div>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</div>
-<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
-<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
-<tr>
-<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
-<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-<div style="padding:0em 0.25em">
-<ul>
-<li><span class="nowrap"><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/containsVIAFID/32174934">WorldCat Identities</a></span></li>
-<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/32174934">32174934</a></span></span></li>
-<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n83047839">n83047839</a></span></span></li>
-<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/102411689">102411689</a></span></span></li>
-<li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/076711854">076711854</a></span></span></li>
-<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb13623943h">cb13623943h</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb13623943h">(data)</a></span></span></li>
-</ul>
-</div>
-</td>
-</tr>
-</table>
 </div>
 
 
 <!-- 
 NewPP limit report
-Parsed by mw1268
-Cached time: 20170915092209
+Parsed by mw1183
+Cached time: 20171028053743
 Cache expiry: 1900800
 Dynamic content: false
-CPU time usage: 0.272 seconds
-Real time usage: 0.352 seconds
-Preprocessor visited node count: 1859/1000000
+CPU time usage: 0.236 seconds
+Real time usage: 0.366 seconds
+Preprocessor visited node count: 1932/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 124141/2097152 bytes
-Template argument size: 8623/2097152 bytes
-Highest expansion depth: 15/40
+Post‐expand include size: 69560/2097152 bytes
+Template argument size: 10809/2097152 bytes
+Highest expansion depth: 13/40
 Expensive parser function count: 4/500
-Lua time usage: 0.112/10.000 seconds
-Lua memory usage: 3.67 MB/50 MB
+Lua time usage: 0.096/10.000 seconds
+Lua memory usage: 2.39 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  282.297      1 -total
- 29.04%   81.967      1 Template:Reflist
- 23.35%   65.918     10 Template:Cite_book
- 15.25%   43.039      3 Template:Category_handler
- 14.85%   41.925      1 Template:Lang-fa
- 14.37%   40.576      1 Template:Language_with_name_and_transliteration
- 13.71%   38.696      1 Template:Lang
- 12.16%   34.333      1 Template:Islamic_philosophy
- 11.21%   31.654      1 Template:Navbox_with_collapsible_groups
-  9.29%   26.224      1 Template:Citation_needed
+100.00%  340.940      1 -total
+ 15.92%   54.293      1 Template:Pp-semi-indef
+ 14.12%   48.149      3 Template:Random_portal_component
+ 13.49%   45.984      1 Template:Portal_navbar_with_header_2
+ 11.21%   38.216     19 Template:Clickable_button_2
+  9.29%   31.679      1 Template:Citation
+  7.72%   26.311      1 Template:Featured_portal
+  7.17%   24.438      1 Portal:Science/Intro
+  6.88%   23.457      1 Template:Top_icon
+  6.18%   21.061      1 Template:Portal_content_pages_(header_bar_2)
 -->
 </div>
-<!-- Saved in parser cache with key enwiki:pcache:idhash:506138-0!canonical and timestamp 20170915092209 and revision id 799608415
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1855835-0!canonical and timestamp 20171028053743 and revision id 805576553
  -->
 <noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
-						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ali_ibn_Sahl_Rabban_al-Tabari&amp;oldid=799608415">https://en.wikipedia.org/w/index.php?title=Ali_ibn_Sahl_Rabban_al-Tabari&amp;oldid=799608415</a>"					</div>
-				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:838_births" title="Category:838 births">838 births</a></li><li><a href="/wiki/Category:870_deaths" title="Category:870 deaths">870 deaths</a></li><li><a href="/wiki/Category:Medieval_Persian_physicians" title="Category:Medieval Persian physicians">Medieval Persian physicians</a></li><li><a href="/wiki/Category:Converts_to_Islam_from_Christianity" title="Category:Converts to Islam from Christianity">Converts to Islam from Christianity</a></li><li><a href="/wiki/Category:Converts_to_Islam_from_Zoroastrianism" title="Category:Converts to Islam from Zoroastrianism">Converts to Islam from Zoroastrianism</a></li><li><a href="/wiki/Category:9th-century_physicians" title="Category:9th-century physicians">9th-century physicians</a></li><li><a href="/wiki/Category:Physicians_of_medieval_Islam" title="Category:Physicians of medieval Islam">Physicians of medieval Islam</a></li><li><a href="/wiki/Category:People_from_Amol" title="Category:People from Amol">People from Amol</a></li><li><a href="/wiki/Category:Persian_philosophers" title="Category:Persian philosophers">Persian philosophers</a></li><li><a href="/wiki/Category:Iranian_psychologists" title="Category:Iranian psychologists">Iranian psychologists</a></li><li><a href="/wiki/Category:9th-century_Iranian_people" title="Category:9th-century Iranian people">9th-century Iranian people</a></li><li><a href="/wiki/Category:People_of_the_Abbasid_Caliphate" title="Category:People of the Abbasid Caliphate">People of the Abbasid Caliphate</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_citations_with_accessdate_and_no_URL" title="Category:Pages using citations with accessdate and no URL">Pages using citations with accessdate and no URL</a></li><li><a href="/wiki/Category:CS1_maint:_Extra_text:_authors_list" title="Category:CS1 maint: Extra text: authors list">CS1 maint: Extra text: authors list</a></li><li><a href="/wiki/Category:Articles_containing_Persian-language_text" title="Category:Articles containing Persian-language text">Articles containing Persian-language text</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2011" title="Category:Articles with unsourced statements from May 2011">Articles with unsourced statements from May 2011</a></li><li><a href="/wiki/Category:CS1_errors:_dates" title="Category:CS1 errors: dates">CS1 errors: dates</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_May_2011" title="Category:Use dmy dates from May 2011">Use dmy dates from May 2011</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Portal:Science&amp;oldid=805576553">https://en.wikipedia.org/w/index.php?title=Portal:Science&amp;oldid=805576553</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Science_portal" title="Category:Science portal">Science portal</a></li><li><a href="/wiki/Category:Science" title="Category:Science">Science</a></li><li><a href="/wiki/Category:Science_portals" title="Category:Science portals">Science portals</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_semi-protected_portals" title="Category:Wikipedia semi-protected portals">Wikipedia semi-protected portals</a></li><li><a href="/wiki/Category:Featured_portals" title="Category:Featured portals">Featured portals</a></li></ul></div></div>				<div class="visualClear"></div>
 							</div>
 		</div>
 		<div id="mw-navigation">
-			<h2>Navigation menu</h2>
-
-			<div id="mw-head">
-									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
-						<h3 id="p-personal-label">Personal tools</h3>
-						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ali+ibn+Sahl+Rabban+al-Tabari" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ali+ibn+Sahl+Rabban+al-Tabari" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
-					</div>
-									<div id="left-navigation">
-										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
-						<h3 id="p-namespaces-label">Namespaces</h3>
-						<ul>
-														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Ali_ibn_Sahl_Rabban_al-Tabari" title="View the content page [c]" accesskey="c">Article</a></span></li>
-							<li id="ca-talk"><span><a href="/wiki/Talk:Ali_ibn_Sahl_Rabban_al-Tabari" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
-						</ul>
-					</div>
-										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
-												<h3 id="p-variants-label">
-							<span>Variants</span>
-						</h3>
-
-						<div class="menu">
-							<ul>
-															</ul>
-						</div>
-					</div>
-									</div>
-				<div id="right-navigation">
-										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
-						<h3 id="p-views-label">Views</h3>
-						<ul>
-														<li id="ca-view" class="selected"><span><a href="/wiki/Ali_ibn_Sahl_Rabban_al-Tabari">Read</a></span></li>
-							<li id="ca-edit"><span><a href="/w/index.php?title=Ali_ibn_Sahl_Rabban_al-Tabari&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
-							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ali_ibn_Sahl_Rabban_al-Tabari&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
-						</ul>
-					</div>
-										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
-						<h3 id="p-cactions-label"><span>More</span></h3>
-
-						<div class="menu">
-							<ul>
-															</ul>
-						</div>
-					</div>
-										<div id="p-search" role="search">
-						<h3>
-							<label for="searchInput">Search</label>
-						</h3>
-
-						<form action="/w/index.php" id="searchform">
-							<div id="simpleSearch">
-							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
-						</form>
-					</div>
-									</div>
-			</div>
-			<div id="mw-panel">
-				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
-						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
-			<h3 id='p-navigation-label'>Navigation</h3>
-
-			<div class="body">
-									<ul>
-						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
-			<h3 id='p-interaction-label'>Interaction</h3>
-
-			<div class="body">
-									<ul>
-						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
-			<h3 id='p-tb-label'>Tools</h3>
-
-			<div class="body">
-									<ul>
-						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ali_ibn_Sahl_Rabban_al-Tabari" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ali_ibn_Sahl_Rabban_al-Tabari" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ali_ibn_Sahl_Rabban_al-Tabari&amp;oldid=799608415" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ali_ibn_Sahl_Rabban_al-Tabari&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1393417" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ali_ibn_Sahl_Rabban_al-Tabari&amp;id=799608415" title="Information on how to cite this page">Cite this page</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
-			<h3 id='p-coll-print_export-label'>Print/export</h3>
-
-			<div class="body">
-									<ul>
-						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ali+ibn+Sahl+Rabban+al-Tabari">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Ali+ibn+Sahl+Rabban+al-Tabari&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DAli%2Bibn%2BSahl%2BRabban%2Bal-Tabari%26returnto%3DAli%2Bibn%2BSahl%2BRabban%2Bal-Tabari%26oldid%3D799608415%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Ali_ibn_Sahl_Rabban_al-Tabari&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
-			<h3 id='p-lang-label'>Languages</h3>
-
-			<div class="body">
-									<ul>
-						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D8%A8%D9%86_%D8%B1%D8%A8%D9%86_%D8%A7%D9%84%D8%B7%D8%A8%D8%B1%D9%8A" title="ابن ربن الطبري – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/%CA%BFAl%C4%AB_ibn_Sahl_Rabban_at-Tabar%C4%AB" title="ʿAlī ibn Sahl Rabban at-Tabarī – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D8%A8%D9%86_%D8%B1%D8%A8%D9%86_%D8%B7%D8%A8%D8%B1%DB%8C" title="ابن ربن طبری – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Ali_Ibn_Sahl_Rabban_al-Tabari" title="Ali Ibn Sahl Rabban al-Tabari – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Ali_ibn_Rabban_al-Tabari" title="Ali ibn Rabban al-Tabari – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-mzn"><a href="https://mzn.wikipedia.org/wiki/%D8%B9%D9%84%DB%8C_%D8%A8%D9%86_%D8%B1%D8%A8%D9%86_%D8%B7%D8%A8%D8%B1%DB%8C" title="علی بن ربن طبری – Mazanderani" lang="mzn" hreflang="mzn" class="interlanguage-link-target">مازِرونی</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Ali_ibn_Sahl_Rabban_al-Tabari" title="Ali ibn Sahl Rabban al-Tabari – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B8_%D0%B0%D1%82-%D0%A2%D0%B0%D0%B1%D0%B0%D1%80%D0%B8" title="Али ат-Табари – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D8%A6%DB%8C%D8%A8%D9%86_%DA%95%DB%95%D8%A8%D8%A8%DB%95%D9%86_%D8%AA%DB%95%D8%A8%DB%95%D8%B1%DB%8C" title="ئیبن ڕەببەن تەبەری – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li>					</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1393417#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
-		</div>
-				</div>
-		</div>
-		<div id="footer" role="contentinfo">
-							<ul id="footer-info">
-											<li id="footer-info-lastmod"> This page was last edited on 8 September 2017, at 19:13.</li>
-											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
-additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
-									</ul>
-							<ul id="footer-places">
-											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
-											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
-											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
-											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
-											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
-											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
-											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ali_ibn_Sahl_Rabban_al-Tabari&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
-									</ul>
-										<ul id="footer-icons" class="noprint">
-											<li id="footer-copyrightico">
-							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
-											<li id="footer-poweredbyico">
-							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
-									</ul>
-						<div style="clear:both"></div>
-		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.272","walltime":"0.352","ppvisitednodes":{"value":1859,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":124141,"limit":2097152},"templateargumentsize":{"value":8623,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  282.297      1 -total"," 29.04%   81.967      1 Template:Reflist"," 23.35%   65.918     10 Template:Cite_book"," 15.25%   43.039      3 Template:Category_handler"," 14.85%   41.925      1 Template:Lang-fa"," 14.37%   40.576      1 Template:Language_with_name_and_transliteration"," 13.71%   38.696      1 Template:Lang"," 12.16%   34.333      1 Template:Islamic_philosophy"," 11.21%   31.654      1 Template:Navbox_with_collapsible_groups","  9.29%   26.224      1 Template:Citation_needed"]},"scribunto":{"limitreport-timeusage":{"value":"0.112","limit":"10.000"},"limitreport-memusage":{"value":3849906,"limit":52428800}},"cachereport":{"origin":"mw1268","timestamp":"20170915092209","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":85,"wgHostname":"mw1248"});});</script>
-	</body>
-</html>
