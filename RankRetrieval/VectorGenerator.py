@@ -65,5 +65,8 @@ class VectorGenerator:
         for val in vector:
             l2Norm += val*val
         l2Norm = math.sqrt(l2Norm)
-        normalizedVector = [val/l2Norm for val in vector]
+        try:
+            normalizedVector = [val/l2Norm for val in vector]
+        except:
+            normalizedVector = vector
         return normalizedVector

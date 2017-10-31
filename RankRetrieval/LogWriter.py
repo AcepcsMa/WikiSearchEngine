@@ -3,6 +3,7 @@ __author__ = "Haoxiang Ma"
 import json
 import re
 
+# log writer
 class LogWriter:
 
     def __init__(self, logPath, fileFolder, indexFolder):
@@ -20,7 +21,7 @@ class LogWriter:
         documentIDFile.close()
         return documents
 
-
+    # write stats to log
     def write(self, rawQuery, transformedQuery, rankResult, contributionDict):
         with open(self.logPath + "Output.txt", "a") as outputFile:
 
