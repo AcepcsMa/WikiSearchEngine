@@ -57,6 +57,6 @@ requests==2.18.1
 scipy==0.13.0b1
 shadowsocks==2.8.2
 six==1.4.1
-urllib3==1.21.1
+urllib3==1.24.2
 xattr==0.6.4
 zope.interface==4.1.1
